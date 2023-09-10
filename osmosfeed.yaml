@@ -6,8 +6,8 @@
 cacheUrl: https://zigsphere.github.io/rssfeed/cache.json
 sources:
   - href: https://kqennewsradio.com/feed/ # Get new feature announcement via this feed
-#  - href: https://css-tricks.com/feed/
-#  - href: https://www.smashingmagazine.com/feed/
+  - href: https://www.dcso.com/RSSFeed.aspx?ModID=63&CID=All-0
+  - href: https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=091000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/jVDPb4IwFP5bduA43qPoZN4aM0WDTg-6rpelLLVggGItkvjXr9Fdljjku72X71c-4MCAV-KcK2FzXYnC3Z_85Stcv0YBGZBkNnib4Ga4IXM6DQKcj-DjSiB4A43wPY53q13y-0DgffT4D2hPfQeBd9svHgW4BYhZTpYKeC1s9pxXew2sKetjI4BlupSuA7-6dK3Qo4cqdHqbnFZpGLlAI_fSSOM3xr0za-vT2EMP27b1ldaqkP63Lj28J8n0yQL7y4S63G7ZJYnxMCzOCX36AU2OWEY!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua%20National%20Forest
 #  - href: https://www.freecodecamp.org/news/rss/
 
 siteTitle: "roseburg::receiver"
