@@ -9,3 +9,7 @@ sources:
 #  - href: https://css-tricks.com/feed/
 #  - href: https://www.smashingmagazine.com/feed/
 #  - href: https://www.freecodecamp.org/news/rss/
+
+siteTitle: "roseburg::receiver"
+timezone: America/Los_Angeles
+cacheMaxDays: 30
