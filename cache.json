@@ -106,6 +106,280 @@
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
+    },
+    {
+      "title": "Douglas County Sheriff, OR - Alert Center",
+      "feedUrl": "https://www.dcso.com/RSSFeed.aspx?ModID=63&CID=All-0",
+      "siteUrl": "https://www.dcso.com/AlertCenter.aspx",
+      "articles": [
+        {
+          "id": "http://WWW.DCSO.COM/EVACUATIONS/638285933350000000",
+          "author": null,
+          "description": "Current interactive wildfire evacuation map for Douglas County, OR",
+          "link": "http://www.dcso.com/EVACUATIONS",
+          "publishedOn": "2023-08-26T01:48:55.000Z",
+          "wordCount": 3545,
+          "title": "Evacuation Orders Have Been Issued Due to the Tyee Ridge Complex",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "News For Umpqua National Forest",
+      "feedUrl": "https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=091000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/jVDPb4IwFP5bduA43qPoZN4aM0WDTg-6rpelLLVggGItkvjXr9Fdljjku72X71c-4MCAV-KcK2FzXYnC3Z_85Stcv0YBGZBkNnib4Ga4IXM6DQKcj-DjSiB4A43wPY53q13y-0DgffT4D2hPfQeBd9svHgW4BYhZTpYKeC1s9pxXew2sKetjI4BlupSuA7-6dK3Qo4cqdHqbnFZpGLlAI_fSSOM3xr0za-vT2EMP27b1ldaqkP63Lj28J8n0yQL7y4S63G7ZJYnxMCzOCX36AU2OWEY!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua%20National%20Forest",
+      "siteUrl": "http://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=091000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/jVDPb4IwFP5bduA43qPoZN4aM0WDTg-6rpelLLVggGItkvjXr9Fdljjku72X71c-4MCAV-KcK2FzXYnC3Z_85Stcv0YBGZBkNnib4Ga4IXM6DQKcj-DjSiB4A43wPY53q13y-0DgffT4D2hPfQeBd9svHgW4BYhZTpYKeC1s9pxXew2sKetjI4BlupSuA7-6dK3Qo4cqdHqbnFZpGLlAI_fSSOM3xr0za-vT2EMP27b1ldaqkP63Lj28J8n0yQL7y4S63G7ZJYnxMCzOCX36AU2OWEY!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua20National20Forest",
+      "articles": [
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137426",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 357 | Total Resources: 8 engines; 10 crews; 1 helicopter; 4 heavy equipment; 2 water tenders\n\nNorthwest Incident Management ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137426",
+          "publishedOn": "2023-09-08T05:00:00.000Z",
+          "wordCount": 2082,
+          "title": "Brice Creek, Dinner, and Grizzly Fires September 8, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137428",
+          "author": null,
+          "description": "Chilcoot and Ridge Fires:\n\nTotal personnel:  609 | Total Resources: 21 engines; 16 crews; 6 helicopters; 13 heavy equipment; 10 water tenders\n\nThere was not significant fi...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137428",
+          "publishedOn": "2023-09-08T05:00:00.000Z",
+          "wordCount": 2144,
+          "title": "Chilcoot and Ridge Fires September 8, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137423",
+          "author": null,
+          "description": "Chilcoot and Ridge Fires:\n\nTotal personnel: 691 | Total Resources: 22 engines; 20 crews; 6 helicopters; 15 heavy equipment; 10 water tenders.\n\nThere will be a Virtual Community Meet...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137423",
+          "publishedOn": "2023-09-07T05:00:00.000Z",
+          "wordCount": 2169,
+          "title": "Chilcoot and Ridge Fires September 7, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137424",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 375 Total Resources: 10 engines; 11 crews; 1 helicopter; 4 heavy equipment; 4 water tenders\n\nNorthwest Incident Management T...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1137424",
+          "publishedOn": "2023-09-07T05:00:00.000Z",
+          "wordCount": 2060,
+          "title": "Brice Creek, Dinner, and Grizzly Fires September 7, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136724",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 472 | Total Resources: 11 engines; 15 crews; 1 helicopters; 3 heavy equipment; 4 water tenders\n\nThere will be a Virtual...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136724",
+          "publishedOn": "2023-09-06T05:00:00.000Z",
+          "wordCount": 2074,
+          "title": "Brice Creek, Dinner, and Grizzly Fires, September 6, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136723",
+          "author": null,
+          "description": "Chilcoot and Ridge Fires\n\nTotal personnel: 724 | Total Resources: 20 engines; 20 crews; 6 helicopters; 13 heavy equipment; 10 water tenders\n\nThere will be a Virtual Commun...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136723",
+          "publishedOn": "2023-09-06T05:00:00.000Z",
+          "wordCount": 2138,
+          "title": "Chilcoot and Ridge Fires, September 6, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136722",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 586 | Total Resources: 11 engines; 21 crews; 2 helicopters; 4 heavy equipment; 7 water tenders\n\nNorthwest Incident Management Team 12 assum...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136722",
+          "publishedOn": "2023-09-05T05:00:00.000Z",
+          "wordCount": 2111,
+          "title": "Brice Creek, Dinner, and Grizzly Fires, September 5, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136721",
+          "author": null,
+          "description": "Chilcoot and Ridge Fires\n\nTotal personnel: 757 | Total Resources: 24 engines; 22 crews; 5 helicopters; 12 heavy equipment; 13 water tenders\n\nNorthwest Incident Management Team 12 assumed command o...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136721",
+          "publishedOn": "2023-09-05T05:00:00.000Z",
+          "wordCount": 2110,
+          "title": "Chilcoot and Ridge Fires, September 5, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136449",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 647 | Total Resources: 13 engines; 25 crews; 2 helicopters; 3 heavy equipment; 7 water tenders\n\nMoisture and precipitation o...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136449",
+          "publishedOn": "2023-09-04T05:00:00.000Z",
+          "wordCount": 2074,
+          "title": "Brice Creek, Dinner, and Grizzly Fires  September 4, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136446",
+          "author": null,
+          "description": "Chilcoot Fire: Size: – 1,762 acres Containment:5%\n\nRidge Fire: Size – 238 acres Containment: 72%\n\nRainfall over the last couple of days has decreased the fire activity. Smoldering and ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136446",
+          "publishedOn": "2023-09-04T05:00:00.000Z",
+          "wordCount": 2025,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE  Monday, September 4, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136444",
+          "author": null,
+          "description": "Forest Service\nUmpqua National Forest\n2900 NW Stewart Parkway\nRoseburg, Oregon 97471\n%3A541%3A 957-3200\n\nRoseburg, OR, September 4, 2023 - Scattered thunderstorm passing through Douglas County over ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136444",
+          "publishedOn": "2023-09-04T05:00:00.000Z",
+          "wordCount": 1907,
+          "title": "New Lightning Caused Fires Contained on the Umpqua National Forest",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136441",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 599 | Total Resources: 11 engines; 24 crews; 2 helicopters; 3 heavy equipment; 4 water tenders\n\nFirefighters are taking advantage of the co...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136441",
+          "publishedOn": "2023-09-03T05:00:00.000Z",
+          "wordCount": 2148,
+          "title": "Brice Creek, Dinner, and Grizzly Fires September 3, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136439",
+          "author": null,
+          "description": "Chilcoot Fire: Size: – 1,762 acres Containment:4%\n\nRidge Fire: Size – 238 acres Containment: 45%\n\nScattered showers and thunderstorms occurred in and around the fire area Saturday, min...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1136439",
+          "publishedOn": "2023-09-03T05:00:00.000Z",
+          "wordCount": 2044,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE Sunday, September 3, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135819",
+          "author": null,
+          "description": "%3Atbody%3A\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t%3Atbody%3A\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tBrice Creek, Dinner, and Grizzly Fires\n\n\t\t\t\t\t\tTotal personnel: 637 | Total Resources: 7 engines; 26 crews; 2 helicopters; 3 heavy equipmen...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135819",
+          "publishedOn": "2023-09-02T05:00:00.000Z",
+          "wordCount": 2115,
+          "title": "Brice Creek, Dinner, and Grizzly Fires  September 2, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135817",
+          "author": null,
+          "description": "%3Atbody%3A\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t%3Atbody%3A\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tChilcoot Fire: Size: – 1,655 acres Containment:0%\n\n\t\t\t\t\t\tRidge Fire: Size – 238 acres Containment: 35%\n\n\t\t\t\t\t\tCooler tempera...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135817",
+          "publishedOn": "2023-09-02T05:00:00.000Z",
+          "wordCount": 1998,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE Saturday, September 2, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135665",
+          "author": null,
+          "description": "Chilcoot Fire: Size: – 1,656 acres Containment:0%\n\nRidge Fire: Size – 236 acres Containment: 23%\n\nLight rain was widespread over both fires yesterday, aiding firefighting efforts. The ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135665",
+          "publishedOn": "2023-09-01T05:00:00.000Z",
+          "wordCount": 2064,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE  Friday, September 1, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135483",
+          "author": null,
+          "description": "Beginning today, August 31, 2023, Umpqua National Forest is lowering the Public Use Restrictions %3APURs%3A to Level II and Industrial Fire Precaution Level %3AIFPL%3A to Level II. The Fire Danger Rating will...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135483",
+          "publishedOn": "2023-08-31T05:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Fire Restrictions Lower on the Umpqua National Forest",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135468",
+          "author": null,
+          "description": "%3Ah3%3ADaily Updates%3A/h3%3A\n\n%3Ah3%3A\nCommunity Meeting%3A/h3%3A\n\nThere will be a virtual community meeting with information on the Brice Creek, Dinner, and Grizzly Fires on Friday, September 1st at 7:30 PM. ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135468",
+          "publishedOn": "2023-08-31T05:00:00.000Z",
+          "wordCount": 2126,
+          "title": "Brice Creek, Dinner, and Grizzly Fires August 31, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135234",
+          "author": null,
+          "description": "Chilcoot Fire: Size: – 1,390 acres Containment:0%\n\nRidge Fire: Size – 236 acres Containment: 0%\n\nYesterday’s cooler temperatures and elevated relative humidities aided ...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1135234",
+          "publishedOn": "2023-08-30T05:00:00.000Z",
+          "wordCount": 2017,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE  Wednesday, August 30, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134912",
+          "author": null,
+          "description": "Roseburg/Glide, Ore. - Tomorrow, Wednesday, August 30, 2023, Join the California Interagency Incident Management Team 12 %3ACAIIMT12%3A for a community meeting on the Chilcoot and Ridge Fires. F...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134912",
+          "publishedOn": "2023-08-29T05:00:00.000Z",
+          "wordCount": 2151,
+          "title": "Community Meeting Planned for Chilcoot and Ridge Fires",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134847",
+          "author": null,
+          "description": "Tuesday, August 29, 2023\n\nChilcoot Fire: Size: – 921 acres Containment: 0%\n\nRidge Fire: Size – 221 acres Containment: 0%\n\nThe Chilcoot and Ridge Fires continue to burn in t...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134847",
+          "publishedOn": "2023-08-29T05:00:00.000Z",
+          "wordCount": 2012,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134844",
+          "author": null,
+          "description": "Roseburg/Glide, Ore. - Effective immediately, a forest closure has gone into effect today on portions of the Umpqua National Forest in response to fire activity in the area, and to protect p...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134844",
+          "publishedOn": "2023-08-28T05:00:00.000Z",
+          "wordCount": 2359,
+          "title": "Fire Activity on the Umpqua National Forest Prompts Partial Closure",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134702",
+          "author": null,
+          "description": "Chilcoot Fire: Size: – 920 acres Containment: 0%\n\nRidge Fire: Size – 250 acres Containment: 0%\n\nThe Chilcoot and Ridge Fires started August 24, 2023, in the Umpqua National F...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134702",
+          "publishedOn": "2023-08-28T05:00:00.000Z",
+          "wordCount": 1999,
+          "title": "CHILCOOT AND RIDGE FIRE UPDATE, Monday, August 28, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134418",
+          "author": null,
+          "description": "Roseburg, OR - August 27, 2023 - Firefighters from the Umpqua National Forest have been hard at it today trying to extinguish or hold the lightning fires from the lightning storm from a couple of...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1134418",
+          "publishedOn": "2023-08-27T05:00:00.000Z",
+          "wordCount": 2151,
+          "title": "Firefighters Continue with Extended Attack on Lightning Fires",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1133805",
+          "author": null,
+          "description": "The lightning that passed through Oregon the night of August 24, left a mark on the Umpqua National Forest. Currently there are eleven fires, and two smoke reports with resources being assigned as the...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1133805",
+          "publishedOn": "2023-08-26T05:00:00.000Z",
+          "wordCount": 2054,
+          "title": "Aggressive Initial Attack on Lightning Starts Across the Forest",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
