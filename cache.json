@@ -125,159 +125,659 @@
       ]
     },
     {
-      "title": "Oregon | KOIN.com",
-      "feedUrl": "https://www.koin.com/news/oregon/feed/",
-      "siteUrl": "https://www.koin.com",
+      "title": "www.nrtoday.com - RSS Results in news/local of type article",
+      "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "https://www.koin.com/?p=1559869",
-          "author": "Brandon Thompson",
-          "description": "Governor Tina Kotek is bringing together more than 40 different city, commuity, and business leaders to bring life back to downtown Portland.\nOf the business voices on the committee, Jessie Burke, owner of the Society Hotel, has been helping bring a renewed focus to Old Town, one of downtown's neighborhoods that has struggled the most.",
-          "link": "https://www.koin.com/local/multnomah-county/high-hopes-for-koteks-portlands-central-city-task-force-what-change-is-in-sight/",
-          "publishedOn": "2023-09-10T16:45:00.000Z",
-          "wordCount": 9909,
-          "title": "High hopes for Kotek's Portland's Central City task force: What change is in sight?",
-          "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/7CADD96EBC3AF7405190DBFE010A3F46.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "140170"
-          },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/7CADD96EBC3AF7405190DBFE010A3F46.jpg?w=900"
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/46d73e06-4dce-11ee-b071-b3ac1ee79b43",
+          "author": "The News-Review",
+          "description": "ROSEBURG — Four Roseburg city councilors have scheduled a town hall discussion for Wednesday evening.",
+          "link": "https://www.nrtoday.com/news/roseburg-town-hall-set-for-wednesday-evening/article_46d73e06-4dce-11ee-b071-b3ac1ee79b43.html",
+          "publishedOn": "2023-09-10T15:00:00.000Z",
+          "wordCount": 13093,
+          "title": "Roseburg town hall set for Wednesday evening",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
-          "id": "https://www.koin.com/?p=1559252",
-          "author": "Andrew Foran",
-          "description": "The vote to create the city ordinance banning open-air drug use was unanimous.\nAccording to Commissioner Carmen Rubio, her support for the move hinged on the fact that all Portlanders should feel safe in public spaces and this will allow police to focus on the most dangerous drugs on Portland's streets.",
-          "link": "https://www.koin.com/local/multnomah-county/revitalizing-downtown-comm-rubio-talks-drug-ban-housing-and-city-permitting/",
-          "publishedOn": "2023-09-10T16:30:00.000Z",
-          "wordCount": 8919,
-          "title": "Revitalizing downtown: Comm. Rubio talks drug ban, housing and city permitting",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f40d85e0-4cec-11ee-b05b-8b18f1662fc1",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Rose Villa in Roseburg is a recipient of $3.2 million in preservation funds from Oregon Housing and Community Services to keep homes affordable.",
+          "link": "https://www.nrtoday.com/news/local/rose-villa-apartments-receive-3-2-million/article_f40d85e0-4cec-11ee-b05b-8b18f1662fc1.html",
+          "publishedOn": "2023-09-10T13:45:00.000Z",
+          "wordCount": 13336,
+          "title": "Rose Villa apartments receive $3.2 million",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/141FA387DE6BE45486E19ACDD5BE71A1.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "167775"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/b8/4b8d84fa-4dce-11ee-9afd-e7890546e9ee/64fa4f4424c6b.image.jpg?resize=300%2C200",
+            "length": "468894",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/141FA387DE6BE45486E19ACDD5BE71A1.jpg?w=900"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/b8/4b8d84fa-4dce-11ee-9afd-e7890546e9ee/64fa4f4424c6b.image.jpg?resize=300%2C200"
         },
         {
-          "id": "https://www.koin.com/?p=1559912",
-          "author": "Dana Haynes",
-          "description": "Calls to ban books from Oregon libraries reached record highs. A new report from the State Library says book removal requests shot up 257% in the last year.",
-          "link": "https://www.koin.com/news/oregon/record-book-challenges-come-to-oregon-libraries/",
-          "publishedOn": "2023-09-10T16:25:00.000Z",
-          "wordCount": 8788,
-          "title": "OPINION: Oregon librarians push back against recent book challenges",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea1452d2-4f65-11ee-883e-1b3b3b60570a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CAMAS VALLEY — Dust blew as vehicles — ranging from ATVs to bikes to water trucks to highly modified trucks to a drone — gathered to kick off Camas Valley Fun Days.",
+          "link": "https://www.nrtoday.com/news/local/lifting-dirt-and-spirits-at-camas-valley-fun-days/article_ea1452d2-4f65-11ee-883e-1b3b3b60570a.html",
+          "publishedOn": "2023-09-09T23:09:00.000Z",
+          "wordCount": 14583,
+          "title": "Lifting dirt and spirits at Camas Valley Fun Days",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2018/09/generic20school20books202015_1520362885955-1.jpg_36053928_ver1.0-1.jpg?w=640",
-            "type": "image/jpeg",
-            "length": "78294"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d2/fd2e9536-4f5a-11ee-b3c2-6f2b9a32680e/64fce8cecf451.image.jpg?resize=300%2C200",
+            "length": "852502",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2018/09/generic20school20books202015_1520362885955-1.jpg_36053928_ver1.0-1.jpg?w=640"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d2/fd2e9536-4f5a-11ee-b3c2-6f2b9a32680e/64fce8cecf451.image.jpg?resize=300%2C200"
         },
         {
-          "id": "https://www.koin.com/?p=1559870",
-          "author": "Jashayla Pettigrew",
-          "description": "“The vibrant and quirky city of Portland is known for coffee, craft beer, live music, and yes, outdoor recreation, like hiking, biking and paddling,” CNN said.",
-          "link": "https://www.koin.com/news/portland/three-oregon-cities-recognized-on-cnns-list-of-best-places-to-hike/",
-          "publishedOn": "2023-09-10T14:30:00.000Z",
-          "wordCount": 9100,
-          "title": "Three Oregon cities recognized on CNN's list of best places to hike",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/27133724-4f3f-11ee-8d4d-03da7fff6877",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "DOUGLAS COUNTY — Dan Loomis announced he will be running for a second term as Douglas County Clerk in the 2024 election.",
+          "link": "https://www.nrtoday.com/news/elections/loomis-announces-re-election-campaign-for-clerk/article_27133724-4f3f-11ee-8d4d-03da7fff6877.html",
+          "publishedOn": "2023-09-09T18:31:00.000Z",
+          "wordCount": 13191,
+          "title": "Loomis announces re-election campaign for Clerk",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2020/01/HIKERS.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "194943"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a5/8a5e9ef4-4f3f-11ee-90c4-1731b2aa4834/64fcbac1c52cd.image.jpg?resize=300%2C300",
+            "length": "118073",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2020/01/HIKERS.jpg?w=900"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a5/8a5e9ef4-4f3f-11ee-90c4-1731b2aa4834/64fcbac1c52cd.image.jpg?resize=300%2C300"
         },
         {
-          "id": "https://www.koin.com/?p=1560705",
-          "author": "Brenna Greene",
-          "description": "For Oregon State Beaver fans, opening day in 2023 was a moment of joy at Reser Stadium -- and for Reser Stadium.",
-          "link": "https://www.koin.com/sports/beavers-fans-thrilled-with-reser-stadium-renovation/",
-          "publishedOn": "2023-09-10T05:34:04.000Z",
-          "wordCount": 10447,
-          "title": "Beavers fans thrilled with Reser Stadium renovation",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6369eb02-4f3d-11ee-bff8-e7b6b8a27d0e",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "OAKLAND — A 45-year-old man was arrested Friday for his alleged role in the death of Terry Lea Deane in Oakland.",
+          "link": "https://www.nrtoday.com/news/crime/man-arrested-for-murder-of-oakland-woman/article_6369eb02-4f3d-11ee-bff8-e7b6b8a27d0e.html",
+          "publishedOn": "2023-09-09T18:19:00.000Z",
+          "wordCount": 13375,
+          "title": "Man arrested for murder of Oakland woman",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/reser-stadium-oregon-state-fans-c-09092023.jpg?w=800",
-            "type": "image/jpeg",
-            "length": "116813"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/25/e2523270-4f3e-11ee-a2c0-1f1962dbebb8/64fcb9a7d3c29.image.jpg?resize=300%2C400",
+            "length": "29785",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/reser-stadium-oregon-state-fans-c-09092023.jpg?w=800"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/25/e2523270-4f3e-11ee-a2c0-1f1962dbebb8/64fcb9a7d3c29.image.jpg?resize=300%2C400"
         },
         {
-          "id": "https://www.koin.com/?p=1560463",
-          "author": "Jashayla Pettigrew",
-          "description": "ODOT says it needs $45 million to $49 million to finish constructing the trail",
-          "link": "https://www.koin.com/news/oregon/two-mile-portion-of-historic-columbia-river-highway-state-trail-opens-to-public/",
-          "publishedOn": "2023-09-09T21:17:41.000Z",
-          "wordCount": 9094,
-          "title": "Two-mile portion of Historic Columbia River Highway State Trail opens to public",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c0f922d6-4f3a-11ee-a86c-d3690306b163",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Law enforcement knocked down a fire in the center median of Interstate 5, near milepost 119, before firefighters arrived on the scene Friday afternoon.",
+          "link": "https://www.nrtoday.com/news/local/law-enforcement-knocks-down-milepost-119-fire/article_c0f922d6-4f3a-11ee-a86c-d3690306b163.html",
+          "publishedOn": "2023-09-09T18:00:00.000Z",
+          "wordCount": 13238,
+          "title": "Law enforcement knocks down Milepost 119 fire",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/columbia-river-highway-trail-b-09092023.jpg?w=800",
-            "type": "image/jpeg",
-            "length": "217514"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/b1/ab1f16a4-4f3b-11ee-9161-df21d9380465/64fcb442bbae7.image.jpg?resize=300%2C400",
+            "length": "330082",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/columbia-river-highway-trail-b-09092023.jpg?w=800"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/b1/ab1f16a4-4f3b-11ee-9161-df21d9380465/64fcb442bbae7.image.jpg?resize=300%2C400"
         },
         {
-          "id": "https://www.koin.com/?p=1560397",
-          "author": "Jashayla Pettigrew",
-          "description": "Attorney General Ellen Rosenblum announced the settlement agreement on Saturday morning.",
-          "link": "https://www.koin.com/news/oregon/kroger-to-pay-oregon-governments-40-million-in-opioid-settlement/",
-          "publishedOn": "2023-09-09T18:46:02.000Z",
-          "wordCount": 10015,
-          "title": "Kroger to pay Oregon governments $40 million in opioid settlement",
-          "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/10/4aef9f3504994247ae9904035ea182ee-1.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "4878670"
-          },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2022/10/4aef9f3504994247ae9904035ea182ee-1.jpg?w=900"
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/edf4a484-4f37-11ee-8b6a-f3501fabdd7d",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The Douglas County Sheriff’s Office downgraded several evacuation notices surrounding the Tyee Ridge Complex fire Friday. As of Saturday, 129 structures were threatened.",
+          "link": "https://www.nrtoday.com/briefs/tyee-ridge-complex-evacuations-downgraded-command-turned-over-to-odf/article_edf4a484-4f37-11ee-8b6a-f3501fabdd7d.html",
+          "publishedOn": "2023-09-09T17:40:00.000Z",
+          "wordCount": 13310,
+          "title": "Tyee Ridge Complex evacuations downgraded, command turned over to ODF",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
-          "id": "https://www.koin.com/?p=1559724",
-          "author": "Jashayla Pettigrew",
-          "description": "According to the analysis, residents spent $96.75 on dining out across a two-week period in June.",
-          "link": "https://www.koin.com/news/food/analysis-oregon-among-top-20-states-with-highest-restaurant-inflation/",
-          "publishedOn": "2023-09-09T16:00:00.000Z",
-          "wordCount": 9919,
-          "title": "Analysis: Oregon among top 20 states with highest restaurant inflation",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/12f9b78e-4dcf-11ee-b3d2-63360d99aa70",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "The Umpqua Kennel Club began its annual dog show Thursday, bringing dozens of furry friends to the Douglas County Fairgrounds to take part in competitions.",
+          "link": "https://www.nrtoday.com/news/local/umpqua-kennel-club-dog-show-at-fairgrounds/article_12f9b78e-4dcf-11ee-b3d2-63360d99aa70.html",
+          "publishedOn": "2023-09-09T15:00:00.000Z",
+          "wordCount": 13721,
+          "title": "Umpqua Kennel Club dog show at fairgrounds",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/06/GettyImages-958830554.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "5476335"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/4b/54be5bec-4dd0-11ee-b89b-cbc4ce01843c/64fa52ae84594.image.jpg?resize=300%2C200",
+            "length": "414457",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/06/GettyImages-958830554.jpg?w=900"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/4b/54be5bec-4dd0-11ee-b89b-cbc4ce01843c/64fa52ae84594.image.jpg?resize=300%2C200"
         },
         {
-          "id": "https://www.koin.com/?p=1559758",
-          "author": "SCHUYLER DIXON AP Sports Writer",
-          "description": "Bo Nix threw for 359 yards and two touchdowns, Jeffrey Bassa had a 45-yard interception return for a score in the final minute and No. 13 Oregon rallied for a 38-30 victory over Texas Tech on Saturday night.",
-          "link": "https://www.koin.com/sports/oregon-ducks-texas-tech-football/",
-          "publishedOn": "2023-09-09T15:30:00.000Z",
-          "wordCount": 10099,
-          "title": "Bo Nix, Oregon Ducks rally past Texas Tech",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/863da34c-4ddc-11ee-9fc6-c76f29e45933",
+          "author": "Kris Wiley for The News-Review",
+          "description": "Roseburg Public Library just put the lid on another record-breaking Summer Reading Program.",
+          "link": "https://www.nrtoday.com/news/education/summer-reading-program-exceeds-expectations/article_863da34c-4ddc-11ee-9fc6-c76f29e45933.html",
+          "publishedOn": "2023-09-09T14:45:00.000Z",
+          "wordCount": 13470,
+          "title": "Summer Reading Program exceeds expectations",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/GettyImages-1670784964.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "230345"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/GettyImages-1670784964.jpg?w=900"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
         },
         {
-          "id": "https://www.koin.com/?p=1559769",
-          "author": "Mark Anderson, Associated Press",
-          "description": "Damien Martinez ran for a 64-yard touchdown on Oregon State’s first offensive play, setting the tone in the 16th-ranked Beavers' 55-7 victory over UC Davis on Saturday.",
-          "link": "https://www.koin.com/sports/oregon-state-beavers-uc-davis-reser-stadium-09092023/",
-          "publishedOn": "2023-09-09T15:30:00.000Z",
-          "wordCount": 9794,
-          "title": "Martinez gets Oregon State going in blowout win over UC Davis",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f8f45c2-4da6-11ee-9a88-179c26faa285",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Forest Bridges: The O&C Habitat Project Inc. will host the first in a series of open public meetings on Thursday to share feedback on its Active Conservation management principles and proposals for the O&C lands of Western Oregon.",
+          "link": "https://www.nrtoday.com/news/environment/forest-bridge-to-hold-meeting-on-active-conservation-management/article_2f8f45c2-4da6-11ee-9a88-179c26faa285.html",
+          "publishedOn": "2023-09-09T14:45:00.000Z",
+          "wordCount": 13188,
+          "title": "Forest Bridge to hold meeting on active conservation management",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/82cc1368-4dca-11ee-8a3f-43aa5d339224",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "When imagining a veterinarian practice, many people think about taking small pets, such as cats or dogs or rabbits, in when they might not be feeling so well. For Dr. Scott Hendy, a veterinarian practice is much more than this.",
+          "link": "https://www.nrtoday.com/news/local/scott-hendy-retires-after-nearly-five-decades-of-veterinary-work/article_82cc1368-4dca-11ee-8a3f-43aa5d339224.html",
+          "publishedOn": "2023-09-09T14:45:00.000Z",
+          "wordCount": 13857,
+          "title": "Scott Hendy retires after nearly five decades of veterinary work",
           "enclosure": {
-            "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/AP23253101664049.jpg?w=900",
-            "type": "image/jpeg",
-            "length": "313492"
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/8c/08c2a430-4db9-11ee-a206-cbdd26759cad/64fa2b989b73a.image.jpg?resize=300%2C200",
+            "length": "222341",
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://www.koin.com/wp-content/uploads/sites/10/2023/09/AP23253101664049.jpg?w=900"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/8c/08c2a430-4db9-11ee-a206-cbdd26759cad/64fa2b989b73a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1b526104-4da4-11ee-acbb-7f48f372057c",
+          "author": "The News-Review",
+          "description": "Friends of the Umpqua Hiking Club head to Diamond Lake area",
+          "link": "https://www.nrtoday.com/news/local/friends-of-the-umpqua-hiking-club-head-to-diamond-lake-area/article_1b526104-4da4-11ee-acbb-7f48f372057c.html",
+          "publishedOn": "2023-09-09T13:45:00.000Z",
+          "wordCount": 13051,
+          "title": "Friends of the Umpqua Hiking Club head to Diamond Lake area",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/379adfec-4ce8-11ee-abce-e300aa5f70c6",
+          "author": "Mandy Hatfield OSU Extension Service",
+          "description": "What a wonderful time to live in the Umpqua Valley. There is so much produce available fresh from local sources. My biggest complaint is I don’t have more time to preserve all the bountiful food of the season.",
+          "link": "https://www.nrtoday.com/news/education/using-vinegar-to-preserve/article_379adfec-4ce8-11ee-abce-e300aa5f70c6.html",
+          "publishedOn": "2023-09-08T15:00:00.000Z",
+          "wordCount": 14105,
+          "title": "Using vinegar to preserve",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1f/71f16ea6-4d04-11ee-9743-17f4f80dfa63/64f8fc9e2f122.image.jpg?resize=300%2C225",
+            "length": "170276",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1f/71f16ea6-4d04-11ee-9743-17f4f80dfa63/64f8fc9e2f122.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62260a24-4db6-11ee-a39e-6722af4513bf",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DILLARD — Located between the Dillard Store and First Student bus lot is a small dirt track. This track is one of over 300 USA BMX tracks, and home to the Umpqua Valley BMX Club.",
+          "link": "https://www.nrtoday.com/news/local/a-great-summer-activity-bmx-racing/article_62260a24-4db6-11ee-a39e-6722af4513bf.html",
+          "publishedOn": "2023-09-08T15:00:00.000Z",
+          "wordCount": 14094,
+          "title": "A great summer activity: BMX racing",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/80/6808e322-4d24-11ee-ae5f-1b8bd5e63d4f/64f9323d72105.image.jpg?resize=300%2C200",
+            "length": "260451",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/80/6808e322-4d24-11ee-ae5f-1b8bd5e63d4f/64f9323d72105.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ca81474c-4cfc-11ee-aac8-f7b1a2e0bb55",
+          "author": "Scott Carroll The News-Review",
+          "description": "Soaring housing prices combined with relatively stagnant wages over the last decade have contributed to a shortage of affordable housing in the county, according to data recently released by Oregon Housing and Community Services.",
+          "link": "https://www.nrtoday.com/news/housing-prices-soar-wages-not-so-much-state-data-shows/article_ca81474c-4cfc-11ee-aac8-f7b1a2e0bb55.html",
+          "publishedOn": "2023-09-08T15:00:00.000Z",
+          "wordCount": 13700,
+          "title": "Housing prices soar, wages not so much, state data shows",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7c/57cc111e-4dd8-11ee-b06e-9f988838bb4b/64fa601fe84a5.preview.jpg?crop=1773%2C931%2C226%2C0&resize=1200%2C630&order=crop%2Cresize"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2887fa8c-4da9-11ee-9a26-37c1364f5679",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A breakfast of pancakes, eggs, bacon and coffee greeted those who arrived early Thursday morning to Splitz Family Grill. Multiple different sized gift baskets were on tables at the front of the room, enticing looks from attendees.",
+          "link": "https://www.nrtoday.com/news/local/greater-douglas-united-way-giving-campaign-starts-with-pancakes-donations/article_2887fa8c-4da9-11ee-9a26-37c1364f5679.html",
+          "publishedOn": "2023-09-08T14:45:00.000Z",
+          "wordCount": 14134,
+          "title": "Greater Douglas United Way giving campaign starts with pancakes, donations",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/78/078c4270-4d9a-11ee-8266-9bd9408d41bd/64f9f79432694.image.jpg?resize=300%2C200",
+            "length": "400542",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/78/078c4270-4d9a-11ee-8266-9bd9408d41bd/64f9f79432694.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4e18ced0-4cf4-11ee-86be-9b5195ac4aa2",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "MYRTLE CREEK — Myrtle Creek Grange is hosting a carnival from 5-8 p.m. Sept. 16 to celebrate 150 years of grange in Oregon.",
+          "link": "https://www.nrtoday.com/family/myrtle-creek-grange-hosts-carnival/article_4e18ced0-4cf4-11ee-86be-9b5195ac4aa2.html",
+          "publishedOn": "2023-09-08T13:45:00.000Z",
+          "wordCount": 13062,
+          "title": "Myrtle Creek Grange hosts carnival",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b5c1e3aa-4dad-11ee-b4c5-6b24bacbba52",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — A storm pipe installation project may close lanes and cause delays on a stretch of West Harvard Avenue in Roseburg between 7 p.m. and 7 a.m. starting Sunday.",
+          "link": "https://www.nrtoday.com/news/government/harvard-avenue-storm-pipe-installation-starts-sunday/article_b5c1e3aa-4dad-11ee-b4c5-6b24bacbba52.html",
+          "publishedOn": "2023-09-08T13:30:00.000Z",
+          "wordCount": 13087,
+          "title": "Harvard Avenue storm pipe installation starts Sunday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fa24d5d6-4dc4-11ee-85fc-233693b43b45",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "GLENDALE — Wayne Picard was arrested Wednesday after law enforcement found several totes of marijuana plants and an image of an underage female in an explicit sexual position, according to court records.",
+          "link": "https://www.nrtoday.com/news/crime/glendale-man-arrested-for-encouraging-child-sex-abuse/article_fa24d5d6-4dc4-11ee-85fc-233693b43b45.html",
+          "publishedOn": "2023-09-07T21:24:00.000Z",
+          "wordCount": 13333,
+          "title": "Glendale man arrested for encouraging child sex abuse",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9478e288-4da9-11ee-a5b9-bb52d318f26f",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas County Sheriff John Hanlin announced Thursday that he will run for re-election for his fifth and final term.",
+          "link": "https://www.nrtoday.com/news/elections/sheriff-hanlin-announces-re-election-run/article_9478e288-4da9-11ee-a5b9-bb52d318f26f.html",
+          "publishedOn": "2023-09-07T18:08:00.000Z",
+          "wordCount": 13204,
+          "title": "Sheriff Hanlin announces re-election run",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/df/0df55332-4dad-11ee-8ff9-a7d76fb2ee73/642228684d6b7.image.jpg?resize=300%2C374",
+            "length": "79546",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/df/0df55332-4dad-11ee-8ff9-a7d76fb2ee73/642228684d6b7.image.jpg?resize=300%2C374"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b7407544-48d9-11ee-8df4-135a29afb82d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "National Dance Day is Sept. 16 and the Buckeroo Barn, located at 5051 NE Stephens St., Roseburg, is going to celebrate.",
+          "link": "https://www.nrtoday.com/a_and_e/national-dance-day-on-sept-16/article_b7407544-48d9-11ee-8df4-135a29afb82d.html",
+          "publishedOn": "2023-09-07T15:10:00.000Z",
+          "wordCount": 13113,
+          "title": "National Dance Day on Sept. 16",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/31019410-4d19-11ee-bc19-37929ef5015e",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "The Roseburg Police Department released a sex offender notification Wednesday notifying residents that level three sex offender Uriah Strauss has moved back to Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/sex-offender-uriah-strauss-moves-back-to-roseburg/article_31019410-4d19-11ee-bc19-37929ef5015e.html",
+          "publishedOn": "2023-09-07T15:00:00.000Z",
+          "wordCount": 13153,
+          "title": "Sex offender Uriah Strauss moves back to Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/c5/2c59e870-4d89-11ee-8947-ef5e5b5723a3/64f9db4c7a7ed.image.jpg",
+            "length": "9591",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/c5/2c59e870-4d89-11ee-8947-ef5e5b5723a3/64f9db4c7a7ed.image.jpg"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/47a389bc-4cf6-11ee-bfa7-6f5b26066b12",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "MYRTLE CREEK — Myrtle Creek Airport is hosting a pancake breakfast and fly-in from 8-11 a.m. Saturday.",
+          "link": "https://www.nrtoday.com/news/local/myrtle-creek-airport-hosts-breakfast-and-fly-in/article_47a389bc-4cf6-11ee-bfa7-6f5b26066b12.html",
+          "publishedOn": "2023-09-07T14:45:00.000Z",
+          "wordCount": 13051,
+          "title": "Myrtle Creek Airport hosts breakfast and fly-in",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54d473a2-4cf7-11ee-b04f-cf6cbefad482",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The slogan “No Mud, No Glory,” is about to be tested in Camas Valley on Friday and Saturday for the second time this year.",
+          "link": "https://www.nrtoday.com/news/local/camas-valley-fun-days-is-back-for-this-weekend/article_54d473a2-4cf7-11ee-b04f-cf6cbefad482.html",
+          "publishedOn": "2023-09-07T14:15:00.000Z",
+          "wordCount": 13447,
+          "title": "Camas Valley Fun Days is back for this weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/be/5be5f952-4d08-11ee-a966-c30f1157fac2/64f9032f2f7c0.image.jpg?resize=300%2C200",
+            "length": "43119",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/be/5be5f952-4d08-11ee-a966-c30f1157fac2/64f9032f2f7c0.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9de85726-4d00-11ee-b181-130dca34c91f",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "DOUGLAS COUNTY — The Democratic Party of Douglas County endorsed a resolution at its August central committee meeting calling for the removal of the Winchester Dam.",
+          "link": "https://www.nrtoday.com/briefs/douglas-county-democrats-want-winchester-dam-taken-down/article_9de85726-4d00-11ee-b181-130dca34c91f.html",
+          "publishedOn": "2023-09-07T14:00:00.000Z",
+          "wordCount": 13154,
+          "title": "Douglas County Democrats want Winchester Dam taken down",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b03b35e8-4ce6-11ee-a0d4-cfa81690bc0d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Friendly Kitchen/Meals on Wheels has an extreme shortage of volunteer drivers.",
+          "link": "https://www.nrtoday.com/news/local/meals-and-wheels-has-emergency-shortage/article_b03b35e8-4ce6-11ee-a0d4-cfa81690bc0d.html",
+          "publishedOn": "2023-09-07T13:45:00.000Z",
+          "wordCount": 13110,
+          "title": "Meals and wheels has emergency shortage",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fb343cd4-4ce6-11ee-886e-9768ff4a74d4",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OAKLAND — Deputies from the Douglas County Sheriff’s Office jailed a transient following a reported theft Monday.",
+          "link": "https://www.nrtoday.com/news/crime/transient-arrest-following-reported-theft/article_fb343cd4-4ce6-11ee-886e-9768ff4a74d4.html",
+          "publishedOn": "2023-09-07T13:45:00.000Z",
+          "wordCount": 13161,
+          "title": "Transient arrest following reported theft",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a2007f0-4cee-11ee-8881-4f83f580fda3",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The vaux swifts are back at the chimney at Fir Grove Park.",
+          "link": "https://www.nrtoday.com/family/swifties-to-gather-fridays-at-fir-grove-park/article_8a2007f0-4cee-11ee-8881-4f83f580fda3.html",
+          "publishedOn": "2023-09-07T13:45:00.000Z",
+          "wordCount": 13591,
+          "title": "'Swifties' to gather Fridays at Fir Grove Park",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/15/215011f0-4ceb-11ee-94a8-3f6b20f031a5/64f8d2258424c.image.jpg?resize=300%2C200",
+            "length": "341463",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/15/215011f0-4ceb-11ee-94a8-3f6b20f031a5/64f8d2258424c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d4325aa2-4c1a-11ee-ae96-3fc79a6eb6b6",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Mike Mercker was promoted to the position of mechanical engineering manager at Con-Vey, a provider of innovative material handling solutions and industrial automation.",
+          "link": "https://www.nrtoday.com/business/mike-mercker-new-mechanical-engineering-manager-at-con-vey/article_d4325aa2-4c1a-11ee-ae96-3fc79a6eb6b6.html",
+          "publishedOn": "2023-09-07T13:45:00.000Z",
+          "wordCount": 13327,
+          "title": "Mike Mercker new mechanical engineering manager at Con-Vey",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/62/b62d10be-4c1b-11ee-83de-7b319c6af227/64f77627e36b8.image.jpg?resize=300%2C225",
+            "length": "152189",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/62/b62d10be-4c1b-11ee-83de-7b319c6af227/64f77627e36b8.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5cd425bc-4d05-11ee-a492-2ffabefb31e0",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Governor Tina Kotek declared a drought in Douglas County on Wednesday before directing state agencies to coordinate and prioritize assistance to the region.",
+          "link": "https://www.nrtoday.com/news/local/governor-declares-drought-emergency-in-douglas-county/article_5cd425bc-4d05-11ee-a492-2ffabefb31e0.html",
+          "publishedOn": "2023-09-07T13:30:00.000Z",
+          "wordCount": 13634,
+          "title": "Governor declares drought emergency in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e9/3e9c5014-4d24-11ee-9d1b-e32f0426f234/64f931f7ed311.image.jpg?resize=300%2C200",
+            "length": "456909",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e9/3e9c5014-4d24-11ee-9d1b-e32f0426f234/64f931f7ed311.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54e08ff4-4ce6-11ee-af08-9bb1fd9e4af9",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Umpqua Valley Youth Orchestra is registering students for the upcoming 2023-2024 season.",
+          "link": "https://www.nrtoday.com/a_and_e/umpqua-valley-youth-orchestra-registration-open/article_54e08ff4-4ce6-11ee-af08-9bb1fd9e4af9.html",
+          "publishedOn": "2023-09-06T18:51:00.000Z",
+          "wordCount": 13149,
+          "title": "Umpqua Valley Youth Orchestra registration open",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3b9e9b36-48ee-11ee-8c55-c7c44cd6c877",
+          "author": "Roxandra Pennington Adapt",
+          "description": "Fetal Alcohol Spectrum Disorder (FASD) Awareness Day was founded Sept. 9, 1999 to remind us that the nine months of pregnancy have the potential to shape the course of a lifetime, for both a developing child and their family.",
+          "link": "https://www.nrtoday.com/news/health/sept-9-commemorate-9-months-of-alcohol-free-pregnancy/article_3b9e9b36-48ee-11ee-8c55-c7c44cd6c877.html",
+          "publishedOn": "2023-09-06T15:00:00.000Z",
+          "wordCount": 13573,
+          "title": "Sept. 9 commemorate 9 months of alcohol-free pregnancy",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/58/558f026a-48ee-11ee-86c6-c7900de17328/64f22188f2541.image.jpg?resize=300%2C300",
+            "length": "155461",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/58/558f026a-48ee-11ee-86c6-c7900de17328/64f22188f2541.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e5e66cf2-48fa-11ee-81fb-2f354c078f66",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Umpqua Health Alliance’s Community Advisory Council is accepting funding applications in support of projects and programs that further the health and wellbeing of Douglas County residents.",
+          "link": "https://www.nrtoday.com/news/health/umpqua-health-alliance-accepts-applications/article_e5e66cf2-48fa-11ee-81fb-2f354c078f66.html",
+          "publishedOn": "2023-09-06T15:00:00.000Z",
+          "wordCount": 13083,
+          "title": "Umpqua Health Alliance accepts applications",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/531183b6-4c2f-11ee-9def-dfc9bd4558d2",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Umpqua Actors Community Theatre is exploring the nuances of one of the greatest minds of all time in its next production.",
+          "link": "https://www.nrtoday.com/news/local/uact-digs-into-einstein/article_531183b6-4c2f-11ee-9def-dfc9bd4558d2.html",
+          "publishedOn": "2023-09-06T14:45:00.000Z",
+          "wordCount": 14132,
+          "title": "UACT digs into Einstein",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/2c/12c29312-4c6c-11ee-b196-ef089c1d369b/64f7fcfb008a3.image.jpg?resize=300%2C200",
+            "length": "245821",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/2c/12c29312-4c6c-11ee-b196-ef089c1d369b/64f7fcfb008a3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d4c10da2-4cc3-11ee-8893-6f34e77ff811",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "UMPQUA NATIONAL FOREST — Northwest Incident Management Team 12 is hosting a virtual meeting at 7:30 p.m. Thursday to update people on the Chilcoot, Ridge, Brice Creek, Dinner and Grizzly Fires.",
+          "link": "https://www.nrtoday.com/news/environment/wildfires/community-meeting-scheduled-for-chilcoot-ridge-fires/article_d4c10da2-4cc3-11ee-8893-6f34e77ff811.html",
+          "publishedOn": "2023-09-06T14:44:00.000Z",
+          "wordCount": 13322,
+          "title": "Community meeting scheduled for Chilcoot, Ridge fires",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/1a/51a0a22e-4cc4-11ee-913d-535c0c54c7fc/64f891082db56.image.jpg?resize=300%2C400",
+            "length": "692399",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/1a/51a0a22e-4cc4-11ee-913d-535c0c54c7fc/64f891082db56.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e66e764-4c3a-11ee-8086-e3f4a0f161b3",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "SUTHERLIN — Just a few more weeks and then the young, and young at heart, can enjoy the new inclusive playground at Ford's Pond.",
+          "link": "https://www.nrtoday.com/news/environment/fords-pond-transforms-into-family-friendly-destination/article_5e66e764-4c3a-11ee-8086-e3f4a0f161b3.html",
+          "publishedOn": "2023-09-06T14:30:00.000Z",
+          "wordCount": 13556,
+          "title": "Ford's Pond transforms into family-friendly destination",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bb/7bb3b662-4c17-11ee-9fb6-ab40b0a7c22c/64f76f0fce71f.image.jpg?resize=300%2C200",
+            "length": "440606",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bb/7bb3b662-4c17-11ee-9fb6-ab40b0a7c22c/64f76f0fce71f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/752dfea2-4c11-11ee-b89c-ebda8c966ca1",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Multiple community organizations have come together to organize a 5K run to celebrate the journey of recovery.",
+          "link": "https://www.nrtoday.com/news/health/run-to-celebrate-recovery/article_752dfea2-4c11-11ee-b89c-ebda8c966ca1.html",
+          "publishedOn": "2023-09-06T13:45:00.000Z",
+          "wordCount": 13068,
+          "title": "Run to celebrate recovery",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/82798df0-4906-11ee-b9ee-7735e3311da5",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "CHI Mercy Health announced Friday it will upgrade operating rooms, expand the emergency department patient care areas and address other facility needs as part of a $35 million master facilities plan.",
+          "link": "https://www.nrtoday.com/news/health/chi-mercy-health-announces-expansion-plans/article_82798df0-4906-11ee-b9ee-7735e3311da5.html",
+          "publishedOn": "2023-09-06T10:30:00.000Z",
+          "wordCount": 13633,
+          "title": "CHI Mercy Health announces expansion plans",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/c4/cc4f9ca8-4b59-11ee-b4a1-4ba22fd9123f/6408e4be5a8b9.image.jpg?resize=300%2C200",
+            "length": "367610",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/c4/cc4f9ca8-4b59-11ee-b4a1-4ba22fd9123f/6408e4be5a8b9.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2781398a-4c39-11ee-9a65-ab179e1fb835",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Sixto Martinez was admitted to the intensive care unit at Mercy Health Hospital after he had a medical episode during the booking process at the Douglas County Jail.",
+          "link": "https://www.nrtoday.com/news/crime/man-ends-up-in-icu-instead-of-jail/article_2781398a-4c39-11ee-9a65-ab179e1fb835.html",
+          "publishedOn": "2023-09-05T22:11:00.000Z",
+          "wordCount": 13138,
+          "title": "Man ends up in ICU instead of jail",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/af4c0da6-4386-11ee-9678-ef5e862ba09a",
+          "author": "Scott Carroll The News-Review",
+          "description": "An employee for a local construction company that dissolved abruptly this summer, leaving behind a lengthy trail of debt and complaints, is being sued for more than $50,000 for allegedly taking money to remodel two homes but not doing the…",
+          "link": "https://www.nrtoday.com/business/construction-company-leaves-trail-of-debt-complaints/article_af4c0da6-4386-11ee-9678-ef5e862ba09a.html",
+          "publishedOn": "2023-09-05T20:00:00.000Z",
+          "wordCount": 14921,
+          "title": "Construction company leaves trail of debt, complaints",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/c5/5c5a9164-469a-11ee-9ff5-7b38d4c4f93b/64ee3a11bcfac.image.jpg?resize=300%2C226",
+            "length": "248417",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/c5/5c5a9164-469a-11ee-9ff5-7b38d4c4f93b/64ee3a11bcfac.image.jpg?resize=300%2C226"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a0eeb3de-3c4d-11ee-a4c6-97edf57fe47c",
+          "author": "HANNAROSE McGUINNESS The News-Review",
+          "description": "ELKTON – Elkton Charter School’s robotics team, the Cybernetic Elks, is revving up for a new competition season punctuated by teamwork, innovation and creativity.",
+          "link": "https://www.nrtoday.com/news/cybernetic-elks-engineer-enlightening-experiences/article_a0eeb3de-3c4d-11ee-a4c6-97edf57fe47c.html",
+          "publishedOn": "2023-09-05T15:00:00.000Z",
+          "wordCount": 14208,
+          "title": "Cybernetic Elks engineer enlightening experiences",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fe/7fe8094e-487b-11ee-acb3-2bbb90909266/64f160dfe0bbe.image.jpg?resize=300%2C200",
+            "length": "341227",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fe/7fe8094e-487b-11ee-acb3-2bbb90909266/64f160dfe0bbe.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d1404bae-4b6d-11ee-9281-af90e525c864",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "For some, Labor Day weekend brought rest and vacation. For the Umpqua Velo Club, this weekend brought the annual Vineyard Tour, a time to bike around Douglas County’s endless supply of vineyards and appreciate the beauty of nature.",
+          "link": "https://www.nrtoday.com/news/vineyard-tour-taking-in-the-beauty-of-douglas-county-wineries-by-bike/article_d1404bae-4b6d-11ee-9281-af90e525c864.html",
+          "publishedOn": "2023-09-05T14:00:00.000Z",
+          "wordCount": 13945,
+          "title": "Vineyard Tour: Taking in the beauty of Douglas County wineries by bike",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0c/00cffbbc-49d4-11ee-b51e-0faac54e6375/64f3a2db0fe4d.image.jpg?resize=300%2C200",
+            "length": "643783",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0c/00cffbbc-49d4-11ee-b51e-0faac54e6375/64f3a2db0fe4d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/905f0582-483c-11ee-a028-97d22c10ecbb",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Food pantries are recording record lows in food inventory stock.",
+          "link": "https://www.nrtoday.com/news/food-inventory-numbers-drop-at-local-food-pantries/article_905f0582-483c-11ee-a028-97d22c10ecbb.html",
+          "publishedOn": "2023-09-05T13:45:00.000Z",
+          "wordCount": 13757,
+          "title": "Food inventory numbers drop at local food pantries",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/b3/eb388b66-483e-11ee-857d-93752ce7e46c/64f0fb3ca235b.image.jpg?resize=300%2C225",
+            "length": "400137",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/b3/eb388b66-483e-11ee-857d-93752ce7e46c/64f0fb3ca235b.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a11d679e-4b73-11ee-b1c2-4ba7d662e358",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Firefighters are continuing to secure fire line and mop up around homes on the Tyee Ridge Complex, according to a Monday evening update from the Oregon Department of Forestry.",
+          "link": "https://www.nrtoday.com/news/environment/securing-lines-and-mop-up-continues-at-tyee-ridge-complex/article_a11d679e-4b73-11ee-b1c2-4ba7d662e358.html",
+          "publishedOn": "2023-09-05T13:45:00.000Z",
+          "wordCount": 13304,
+          "title": "Securing lines and mop up continues at Tyee Ridge Complex",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea93cebc-4b60-11ee-9cf1-13917d13b3d9",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Thunderstorms passed through the Umpqua National Forest this weekend, resulting in multiple smoke and fire reports, which were able to be contained.",
+          "link": "https://www.nrtoday.com/news/local/scattered-lightning-fires-contained-in-umpqua-national-forest/article_ea93cebc-4b60-11ee-9cf1-13917d13b3d9.html",
+          "publishedOn": "2023-09-04T20:23:00.000Z",
+          "wordCount": 13420,
+          "title": "Scattered lightning fires contained in Umpqua National Forest",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/56/856f31ae-4b63-11ee-8a60-0b7dcc1909e3/64f64122b91c1.image.jpg?resize=300%2C200",
+            "length": "301587",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/56/856f31ae-4b63-11ee-8a60-0b7dcc1909e3/64f64122b91c1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cc50f374-4b44-11ee-a664-8b5d03696bd5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — A Glide man died in a two-vehicle wreck Wednesday night.",
+          "link": "https://www.nrtoday.com/news/local/glide-man-dies-in-two-vehicle-wreck/article_cc50f374-4b44-11ee-a664-8b5d03696bd5.html",
+          "publishedOn": "2023-09-04T17:02:00.000Z",
+          "wordCount": 13159,
+          "title": "Glide man dies in two vehicle wreck",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f5b7b0c4-4b42-11ee-8f39-5f3b6b9a6326",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Jason Travis Jerscheid, 49, of Canyonville, collapsed in the shower at the Douglas County Jail and was pronounced dead.",
+          "link": "https://www.nrtoday.com/news/local/man-dies-in-douglas-county-jail/article_f5b7b0c4-4b42-11ee-8f39-5f3b6b9a6326.html",
+          "publishedOn": "2023-09-04T16:49:00.000Z",
+          "wordCount": 13174,
+          "title": "Man dies in Douglas County Jail",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6a72d870-482e-11ee-a1fb-07b48cb36dc1",
+          "author": "Scott Carroll and Hannah Seibold The News-Review",
+          "description": "A Riddle man facing murder charges in the death of a Winston teenager last year has been implicated in the deaths of at least three other women, according to court documents recently filed by the man’s attorneys.",
+          "link": "https://www.nrtoday.com/news/crime/troy-phelps-implicated-in-deaths-of-missing-women-per-his-attorney/article_6a72d870-482e-11ee-a1fb-07b48cb36dc1.html",
+          "publishedOn": "2023-09-03T06:45:00.000Z",
+          "wordCount": 15526,
+          "title": "Troy Phelps implicated in deaths of missing women, per his attorney",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/7b/47b5499c-4916-11ee-9684-7713456cf9ae/64e91add919cd.image.jpg?resize=300%2C200",
+            "length": "386226",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/7b/47b5499c-4916-11ee-9684-7713456cf9ae/64e91add919cd.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54420114-49de-11ee-bdf9-d7f17d7ae5a4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Aggressive efforts by firefighters, rain and cooler temperatures have helped increase containment on the Chilcoot and Ridge fires, according to a Saturday morning update from the Umpqua National Forest.",
+          "link": "https://www.nrtoday.com/news/local/weather-assists-fight-against-fires-in-umpqua-national-forest/article_54420114-49de-11ee-bdf9-d7f17d7ae5a4.html",
+          "publishedOn": "2023-09-03T06:30:00.000Z",
+          "wordCount": 13573,
+          "title": "Weather assists fight against fires in Umpqua National Forest",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/9d/b9d71806-49d0-11ee-8b57-8f4c0efdf9cd/64f39d5b79e7c.image.jpg?resize=300%2C200",
+            "length": "483792",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/9d/b9d71806-49d0-11ee-8b57-8f4c0efdf9cd/64f39d5b79e7c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62cecafa-484e-11ee-b4a2-9fba2a040329",
+          "author": "The News-Review",
+          "description": "Backfire",
+          "link": "https://www.nrtoday.com/news/local/fire-terminology/article_62cecafa-484e-11ee-b4a2-9fba2a040329.html",
+          "publishedOn": "2023-09-03T06:15:00.000Z",
+          "wordCount": 14905,
+          "title": "Fire terminology",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/c5/2c5bbe26-4851-11ee-aa53-b3504403238f/64f4337510eb3.image.jpg?crop=1255%2C943%2C1%2C100&resize=300%2C225&order=crop%2Cresize",
+            "length": "612604",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/c5/2c5bbe26-4851-11ee-aa53-b3504403238f/64f4337510eb3.image.jpg?crop=1255%2C943%2C1%2C100&resize=300%2C225&order=crop%2Cresize"
         }
       ]
     }
