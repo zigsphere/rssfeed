@@ -15,10 +15,15 @@
 <meta property="og:title" content="The Roseburg Receiver - Roseburg Area News" />
 <meta property="og:description" content="The Roseburg Receiver - Consolidated news feed articles from various news outlets in the surrounding area" />
 <script>
-    var links = document.links;
-    for (var i = 0; i < links.length; i++) {
-        links[i].target = "_blank";
-    }
+document.body.addEventListener(function(e) {
+    var target = e.target;
+    do {
+        if (target.nodeName.toUpperCase() === 'A' && target.href) {
+            target.target = '_blank';
+            break;
+        }
+    } while (target = target.parentElement);
+}, true);
 </script>
 <style>
 :root {
@@ -2698,8 +2703,8 @@ The Chilcoot and Ridge Fires started August 24, 2023, in the Umpqua National F..
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zigsphere/rssfeed/actions/runs/6139624390">
-        <time id="build-timestamp" datetime="2023-09-10T21:47:20.886Z">2023-09-10T21:47:20.886Z</time>
+      <a class="footer-link" href="https://github.com/zigsphere/rssfeed/actions/runs/6139632120">
+        <time id="build-timestamp" datetime="2023-09-10T21:49:27.917Z">2023-09-10T21:49:27.917Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
