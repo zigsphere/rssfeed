@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zigsphere.github.io/rssfeed/index.html</id>
+    <id>https://news.roseburg.city/index.html</id>
     <title>TheRoseburgReceiver</title>
-    <updated>2023-09-10T19:50:39.779Z</updated>
+    <updated>2023-09-10T19:52:33.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://zigsphere.github.io/rssfeed/index.html"/>
-    <link rel="self" href="https://zigsphere.github.io/rssfeed/feed.atom"/>
+    <link rel="alternate" href="https://news.roseburg.city/index.html"/>
+    <link rel="self" href="https://news.roseburg.city/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Roseburg town hall set for Wednesday evening]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/46d73e06-4dce-11ee-b071-b3ac1ee79b43</id>
