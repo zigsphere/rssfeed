@@ -7,7 +7,7 @@ cacheUrl: https://zigsphere.github.io/rssfeed/cache.json
 sources:
   - href: https://kqennewsradio.com/feed/ # Get new feature announcement via this feed
   - href: https://www.dcso.com/RSSFeed.aspx?ModID=63&CID=All-0
-  - href: https://www.koin.com/news/oregon/feed/
+  - href: https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc
 #  - href: https://www.freecodecamp.org/news/rss/
 
 siteTitle: "roseburg::receiver"
