@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-11T15:55:42.173Z</updated>
+    <updated>2023-09-11T16:12:22.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.11.23]]></title>
+        <id>https://kqennewsradio.com/?p=110045</id>
+        <link href="https://kqennewsradio.com/2023/09/11/morning-conversation-9-11-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-11-23"/>
+        <updated>2023-09-11T16:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Casey Buller talks about the immediate need for more volunteer drivers for the Meals on Wheels program in Roseburg.  Click here to download for later listening:  830 9 11 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PROGRESS CONTINUES TOWARD CONTAINMENT ON TYEE RIDGE COMPLEX]]></title>
         <id>https://kqennewsradio.com/?p=110042</id>
