@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110072",
+          "author": "Kyle Bailey",
+          "description": "September 11, 2023 2:30 p.m.  Winston Police have made two arrests in a recent robbery case. Information from WPD said on August 24th, officers responded to a report of a robbery at the Fox Den on Northwest Douglas Boulevard in Winston. Officers began investigating and developed leads on two suspects. On Thursday, officers learned their...",
+          "link": "https://kqennewsradio.com/2023/09/11/winston-police-make-arrests-in-robbery-case/?utm_source=rss&utm_medium=rss&utm_campaign=winston-police-make-arrests-in-robbery-case",
+          "publishedOn": "2023-09-11T21:34:49.000Z",
+          "wordCount": 1546,
+          "title": "WINSTON POLICE MAKE ARRESTS IN ROBBERY CASE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=110070",
+          "author": "Kyle Bailey",
+          "description": "September 11, 2023 2:00 p.m.  The Douglas County Sheriff’s Office downgraded most evacuation notices previously issued due to the Tyee Ridge Complex fires, as of 1:00 p.m. Monday. The decision was made in coordination with fire managers, Douglas County Board of Commissioners, and Douglas County Emergency Management, based on the reduction of risk to residents:...",
+          "link": "https://kqennewsradio.com/2023/09/11/several-tyee-ridge-complex-evacuation-noticed-canceled/?utm_source=rss&utm_medium=rss&utm_campaign=several-tyee-ridge-complex-evacuation-noticed-canceled",
+          "publishedOn": "2023-09-11T21:00:51.000Z",
+          "wordCount": 1503,
+          "title": "SEVERAL TYEE RIDGE COMPLEX EVACUATION NOTICED CANCELED",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=110066",
+          "author": "Kyle Bailey",
+          "description": "Glide School District Superintendent Robert Freeman talks about the district which he is now leading:  Click here to download for later listening: IDC 9 11 23",
+          "link": "https://kqennewsradio.com/2023/09/11/inside-douglas-county-9-11-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-11-23",
+          "publishedOn": "2023-09-11T20:20:30.000Z",
+          "wordCount": 1481,
+          "title": "INSIDE DOUGLAS COUNTY 9.11.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230911191234/IDC-9-11-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230911191959/IMG_2921.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110062",
           "author": "Kyle Bailey",
           "description": "September 11, 2023 11:15 a.m.  The focus has shifted from suppression to mop up on the Tyree Ridge Complex, 20 miles northwest of Roseburg. The complex is listed at 7,922 acres and is 48 percent contained. 1,214 people are assigned to the fires. An update from Northwest Incident Management Team 3 said weather and fire...",
@@ -254,6 +289,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/19d97b3a-50e9-11ee-885f-e77c962b44af",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "OAKLAND — Several firefighting agencies responded to a reported structure and vegetation fire near the 4900 block of Cole Road in Oakland.",
+          "link": "https://www.nrtoday.com/news/local/firefighters-respond-to-cole-road-fire/article_19d97b3a-50e9-11ee-885f-e77c962b44af.html",
+          "publishedOn": "2023-09-11T21:20:00.000Z",
+          "wordCount": 13543,
+          "title": "Firefighters respond to Cole Road Fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/46/246f1e38-50e9-11ee-b616-4726dad15931/64ff84cc60164.image.jpg?resize=300%2C400",
+            "length": "102247",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/46/246f1e38-50e9-11ee-b616-4726dad15931/64ff84cc60164.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/86adb9de-50e8-11ee-b1bb-a371a537aa12",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas County Sheriff's Office downgraded most evacuation notices at the Tyee Ridge Complex fires after consulting with the board of commissioners, emergency management and fire managers.",
+          "link": "https://www.nrtoday.com/news/local/most-evacuation-notices-canceled-for-tyee-ridge-complex/article_86adb9de-50e8-11ee-b1bb-a371a537aa12.html",
+          "publishedOn": "2023-09-11T21:16:00.000Z",
+          "wordCount": 13080,
+          "title": "Most evacuation notices canceled for Tyee Ridge Complex",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ce556ac4-4f36-11ee-aa34-33acaa2869db",
           "author": "SANNE GODFREY The News-Review",
