@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110118",
+          "author": "Kyle Bailey",
+          "description": "The Back to School series continues with a look at the Oakland School District and a discussion with Superintendent Jeff Clark.  Click here to download for later listening:  IDC 9 12 23",
+          "link": "https://kqennewsradio.com/2023/09/12/inside-douglas-county-9-12-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-12-23",
+          "publishedOn": "2023-09-12T20:20:17.000Z",
+          "wordCount": 1488,
+          "title": "INSIDE DOUGLAS COUNTY 9.12.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230912191638/IDC-9-12-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230912191952/IMG_2923.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110113",
           "author": "Kyle Bailey",
           "description": "September 12, 2023 10:40 a.m. Good progress on mop up near homes has reduced the number of structures threatened on the Tyee Ridge Complex northwest of Roseburg. The fire is listed at 7,922 acres with 52 percent containment. 1,163 people are assigned to the fires. An update from Northwest Incident Management Team 3 said all...",
@@ -1022,21 +1037,6 @@
           "wordCount": 13081,
           "title": "Run to celebrate recovery",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/82798df0-4906-11ee-b9ee-7735e3311da5",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "CHI Mercy Health announced Friday it will upgrade operating rooms, expand the emergency department patient care areas and address other facility needs as part of a $35 million master facilities plan.",
-          "link": "https://www.nrtoday.com/news/health/chi-mercy-health-announces-expansion-plans/article_82798df0-4906-11ee-b9ee-7735e3311da5.html",
-          "publishedOn": "2023-09-06T10:30:00.000Z",
-          "wordCount": 13625,
-          "title": "CHI Mercy Health announces expansion plans",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/c4/cc4f9ca8-4b59-11ee-b4a1-4ba22fd9123f/6408e4be5a8b9.image.jpg?resize=300%2C200",
-            "length": "367610",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/c4/cc4f9ca8-4b59-11ee-b4a1-4ba22fd9123f/6408e4be5a8b9.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1045,6 +1045,26 @@
       "feedUrl": "https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=180000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQMsLQyNTIx8_H19HQ0CTUOdnIIDLY0NDI31w8EKjAwgwNHCwN_DI8wvzAcqYKAfRYx-AxzAkUj9eBRE4Tfei5AFwBAwKvJ19k3XjypILMnQzcxLy9ePKM0tKCxN1I_ISy0v1k0tS80rKQY6JQpsGL7AIOScgtzQ0IgqHw-DTEdFAHsZNJA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua%20National%20Forest",
       "siteUrl": "http://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=180000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQMsLQyNTIx8_H19HQ0CTUOdnIIDLY0NDI31w8EKjAwgwNHCwN_DI8wvzAcqYKAfRYx-AxzAkUj9eBRE4Tfei5AFwBAwKvJ19k3XjypILMnQzcxLy9ePKM0tKCxN1I_ISy0v1k0tS80rKQY6JQpsGL7AIOScgtzQ0IgqHw-DTEdFAHsZNJA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua20National20Forest",
       "articles": [
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138505",
+          "author": null,
+          "description": "Chilcoot and Ridge Fires:\n\nTotal personnel: 561 | Total Resources: 20 engines; 16 crews; 5 helicopters; 9 heavy equipment; 8 water tenders\n\nNorthwest Team 12 will transfer command of the Umpqua Fi...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138505",
+          "publishedOn": "2023-09-12T05:00:00.000Z",
+          "wordCount": 2030,
+          "title": "Chilcoot and Ridge Fires September 12, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
+        {
+          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138506",
+          "author": null,
+          "description": "Brice Creek, Dinner, and Grizzly Fires\n\nTotal personnel: 301 | Total Resources: 7 engines; 7 crews; 1 helicopter; 6 heavy equipment; 2 water tenders\n\nThis evening at 8 PM NW IMT12 will be transiti...",
+          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138506",
+          "publishedOn": "2023-09-12T05:00:00.000Z",
+          "wordCount": 2131,
+          "title": "Brice Creek, Dinner, and Grizzly Fires September 12, 2023",
+          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
+        },
         {
           "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138246",
           "author": null,
