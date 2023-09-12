@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110098",
+          "author": "Kyle Bailey",
+          "description": "Forest Bridges Executive Director Denise Barrett talks about a public meeting the organization is having Thursday night at the Roseburg Public Library. Click here to download for later listening:  830 9 12 23",
+          "link": "https://kqennewsradio.com/2023/09/12/morning-conversation-9-12-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-12-23",
+          "publishedOn": "2023-09-12T16:02:52.000Z",
+          "wordCount": 1486,
+          "title": "MORNING CONVERSATION 9.12.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230912144946/830-9-12-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230907175600/FB-LOGO.jpg.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110092",
           "author": "Kyle Bailey",
           "description": "September 12, 2023 4:00 a.m. Troopers with Oregon State Police responded to a single-vehicle crash on Interstate Five Sunday night just after 6:30 p.m. An OSP report said several vehicles were in the northbound lanes near the landfill exit at milepost 121. A driver said the vehicles stopped in the middle of the freeway, due...",
@@ -339,6 +354,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/57bed494-50b3-11ee-b33a-073ef7c8f293",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Bureau of Land Management recently acquired 216 acres along the North Umpqua Wild and Scenic River, guaranteeing public access to the river into the future.",
+          "link": "https://www.nrtoday.com/news/local/blm-acquisition-increases-public-access-to-north-umpqua/article_57bed494-50b3-11ee-b33a-073ef7c8f293.html",
+          "publishedOn": "2023-09-12T14:56:00.000Z",
+          "wordCount": 13249,
+          "title": "BLM acquisition increases public access to North Umpqua",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8f65c3ba-4c1e-11ee-b7e0-c786c724aede",
+          "author": "Willis Cook Express Employment",
+          "description": "Finding a new job might feel like a full-time job in and of itself. While on the job search, you may encounter attractive leads yet unfavorable situations that are sometimes beyond your control. If you don’t hear back after applying…",
+          "link": "https://www.nrtoday.com/business/on-the-job-search-how-to-spot-a-ghost-listing/article_8f65c3ba-4c1e-11ee-b7e0-c786c724aede.html",
+          "publishedOn": "2023-09-12T13:45:00.000Z",
+          "wordCount": 13532,
+          "title": "On the job search: How to spot a ghost listing",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451",
+            "length": "198391",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f622f7ba-50c1-11ee-8212-43d18f210e6b",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A 39-year-old man failed to show in court Monday where he was set to be indicted on charges of sexual abuse and rape of a minor.",
+          "link": "https://www.nrtoday.com/news/crime/warrant-out-for-arrest-of-man-alleged-to-have-assaulted-young-women/article_f622f7ba-50c1-11ee-8212-43d18f210e6b.html",
+          "publishedOn": "2023-09-12T13:45:00.000Z",
+          "wordCount": 13400,
+          "title": "Warrant out for arrest of man alleged to have assaulted young women",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/19d97b3a-50e9-11ee-885f-e77c962b44af",
           "author": "SANNE GODFREY The News-Review",
           "description": "OAKLAND — Several firefighting agencies responded to a reported structure and vegetation fire near the 4900 block of Cole Road in Oakland.",
@@ -361,6 +411,26 @@
           "publishedOn": "2023-09-11T21:16:00.000Z",
           "wordCount": 13080,
           "title": "Most evacuation notices canceled for Tyee Ridge Complex",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cbb6682e-50e7-11ee-8f54-5b76294bd2d9",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — Two people have been arrested in connection to an Aug. 24 robbery at the Fox Den in Winston.",
+          "link": "https://www.nrtoday.com/news/crime/two-people-arrested-in-connection-to-robbery-at-fox-den/article_cbb6682e-50e7-11ee-8f54-5b76294bd2d9.html",
+          "publishedOn": "2023-09-11T21:11:00.000Z",
+          "wordCount": 13125,
+          "title": "Two people arrested in connection to robbery at Fox Den",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/64b77270-50d9-11ee-8af9-5782e8cb0e38",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Uriah James Carleton will not face a jury of his peers on Oct. 10, due to a scheduling conflict with a key witness for the defense.",
+          "link": "https://www.nrtoday.com/news/court/trial-for-man-who-allegedly-killed-3-in-drunk-driving-crash-to-be-moved/article_64b77270-50d9-11ee-8af9-5782e8cb0e38.html",
+          "publishedOn": "2023-09-11T19:28:00.000Z",
+          "wordCount": 13535,
+          "title": "Trial for man who allegedly killed 3 in drunk driving crash to be moved",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
