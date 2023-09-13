@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-12T23:08:44.273Z</updated>
+    <updated>2023-09-13T02:15:48.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 9.12.23]]></title>
+        <id>https://kqennewsradio.com/?p=110124</id>
+        <link href="https://kqennewsradio.com/2023/09/12/true-wealth-9-12-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-9-12-23"/>
+        <updated>2023-09-13T00:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program:  Click here to download for later listening:  TRUE WEALTH 9 12 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.12.23]]></title>
         <id>https://kqennewsradio.com/?p=110118</id>
@@ -1017,16 +1027,6 @@ Northwest Incident Management T...]]></summary>
         <link href="https://www.nrtoday.com/news/environment/fords-pond-transforms-into-family-friendly-destination/article_5e66e764-4c3a-11ee-8086-e3f4a0f161b3.html"/>
         <updated>2023-09-06T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[SUTHERLIN — Just a few more weeks and then the young, and young at heart, can enjoy the new inclusive playground at Ford's Pond.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run to celebrate recovery]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/752dfea2-4c11-11ee-b89c-ebda8c966ca1</id>
-        <link href="https://www.nrtoday.com/news/health/run-to-celebrate-recovery/article_752dfea2-4c11-11ee-b89c-ebda8c966ca1.html"/>
-        <updated>2023-09-06T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple community organizations have come together to organize a 5K run to celebrate the journey of recovery.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
         </author>

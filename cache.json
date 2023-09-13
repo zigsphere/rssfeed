@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110124",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program:  Click here to download for later listening:  TRUE WEALTH 9 12 2023",
+          "link": "https://kqennewsradio.com/2023/09/12/true-wealth-9-12-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-9-12-23",
+          "publishedOn": "2023-09-13T00:08:03.000Z",
+          "wordCount": 1476,
+          "title": "TRUE WEALTH 9.12.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230912230628/TRUE-WEALTH-9-12-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110118",
           "author": "Kyle Bailey",
           "description": "The Back to School series continues with a look at the Oakland School District and a discussion with Superintendent Jeff Clark.  Click here to download for later listening:  IDC 9 12 23",
@@ -1027,16 +1042,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bb/7bb3b662-4c17-11ee-9fb6-ab40b0a7c22c/64f76f0fce71f.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/752dfea2-4c11-11ee-b89c-ebda8c966ca1",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "Multiple community organizations have come together to organize a 5K run to celebrate the journey of recovery.",
-          "link": "https://www.nrtoday.com/news/health/run-to-celebrate-recovery/article_752dfea2-4c11-11ee-b89c-ebda8c966ca1.html",
-          "publishedOn": "2023-09-06T13:45:00.000Z",
-          "wordCount": 13081,
-          "title": "Run to celebrate recovery",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
