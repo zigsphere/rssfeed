@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-13T23:08:48.712Z</updated>
+    <updated>2023-09-14T02:15:04.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 9.13.23]]></title>
+        <id>https://kqennewsradio.com/?p=110172</id>
+        <link href="https://kqennewsradio.com/2023/09/13/mike-winters-lawn-and-garden-show-9-13-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-9-13-23"/>
+        <updated>2023-09-14T00:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening: MWLGS 9 13 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.13.23]]></title>
         <id>https://kqennewsradio.com/?p=110167</id>
@@ -224,6 +234,34 @@
         <summary type="html"><![CDATA[September 13, 2023 3:00 a.m. A motorcyclist was arrested in an alleged DUII incident Monday night. An Oregon State Police report said at 9:30 p.m. a trooper saw a motorcycle on Old Highway 99 North near Del Rio Road being operated with no lights on. The rider did not have a helmet on. After stopping...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brice Creek, Dinner, and Grizzly Fires  September 13, 2023]]></title>
+        <id>http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138790</id>
+        <link href="http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138790"/>
+        <updated>2023-09-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Total personnel: 225
+
+Total Resources: 7 engines; 4 crews; 1 helicopter; 1 heavy equipment; 2 water tenders
+
+Northwest Team 12 transitioned management to Northwest Team 6 at 8pm last night. Northw...]]></summary>
+        <author>
+            <name>News For Umpqua National Forest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chilcoot and Ridge Fires September 13, 2023]]></title>
+        <id>http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138789</id>
+        <link href="http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138789"/>
+        <updated>2023-09-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Total personnel: 293
+
+Total Resources: 13 engines; 6 crews; 5 helicopters; 10 heavy equipment; 8 water tenders
+
+Northwest Team 12 transitioned management to Northwest Team 6 at 8pm last night. Nor...]]></summary>
+        <author>
+            <name>News For Umpqua National Forest</name>
         </author>
     </entry>
     <entry>
@@ -1131,76 +1169,6 @@ There was not significant fi...]]></summary>
         <summary type="html"><![CDATA[MYRTLE CREEK — Myrtle Creek Airport is hosting a pancake breakfast and fly-in from 8-11 a.m. Saturday.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camas Valley Fun Days is back for this weekend]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/54d473a2-4cf7-11ee-b04f-cf6cbefad482</id>
-        <link href="https://www.nrtoday.com/news/local/camas-valley-fun-days-is-back-for-this-weekend/article_54d473a2-4cf7-11ee-b04f-cf6cbefad482.html"/>
-        <updated>2023-09-07T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The slogan “No Mud, No Glory,” is about to be tested in Camas Valley on Friday and Saturday for the second time this year.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Democrats want Winchester Dam taken down]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9de85726-4d00-11ee-b181-130dca34c91f</id>
-        <link href="https://www.nrtoday.com/briefs/douglas-county-democrats-want-winchester-dam-taken-down/article_9de85726-4d00-11ee-b181-130dca34c91f.html"/>
-        <updated>2023-09-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — The Democratic Party of Douglas County endorsed a resolution at its August central committee meeting calling for the removal of the Winchester Dam.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meals and wheels has emergency shortage]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/b03b35e8-4ce6-11ee-a0d4-cfa81690bc0d</id>
-        <link href="https://www.nrtoday.com/news/local/meals-and-wheels-has-emergency-shortage/article_b03b35e8-4ce6-11ee-a0d4-cfa81690bc0d.html"/>
-        <updated>2023-09-07T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The Friendly Kitchen/Meals on Wheels has an extreme shortage of volunteer drivers.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transient arrest following reported theft]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/fb343cd4-4ce6-11ee-886e-9768ff4a74d4</id>
-        <link href="https://www.nrtoday.com/news/crime/transient-arrest-following-reported-theft/article_fb343cd4-4ce6-11ee-886e-9768ff4a74d4.html"/>
-        <updated>2023-09-07T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — Deputies from the Douglas County Sheriff’s Office jailed a transient following a reported theft Monday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Swifties' to gather Fridays at Fir Grove Park]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8a2007f0-4cee-11ee-8881-4f83f580fda3</id>
-        <link href="https://www.nrtoday.com/family/swifties-to-gather-fridays-at-fir-grove-park/article_8a2007f0-4cee-11ee-8881-4f83f580fda3.html"/>
-        <updated>2023-09-07T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The vaux swifts are back at the chimney at Fir Grove Park.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Mercker new mechanical engineering manager at Con-Vey]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d4325aa2-4c1a-11ee-ae96-3fc79a6eb6b6</id>
-        <link href="https://www.nrtoday.com/business/mike-mercker-new-mechanical-engineering-manager-at-con-vey/article_d4325aa2-4c1a-11ee-ae96-3fc79a6eb6b6.html"/>
-        <updated>2023-09-07T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike Mercker was promoted to the position of mechanical engineering manager at Con-Vey, a provider of innovative material handling solutions and industrial automation.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governor declares drought emergency in Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5cd425bc-4d05-11ee-a492-2ffabefb31e0</id>
-        <link href="https://www.nrtoday.com/news/local/governor-declares-drought-emergency-in-douglas-county/article_5cd425bc-4d05-11ee-a492-2ffabefb31e0.html"/>
-        <updated>2023-09-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Governor Tina Kotek declared a drought in Douglas County on Wednesday before directing state agencies to coordinate and prioritize assistance to the region.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
