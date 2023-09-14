@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110200",
+          "author": "Kyle Bailey",
+          "description": "Buckaroo Barn Square Dance Club President Dan Jones talks about the club and a chance to get involved happening on Saturday night. Click here to download for later listening: 830 9 14 23",
+          "link": "https://kqennewsradio.com/2023/09/14/morning-conversation-9-14-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-14-23",
+          "publishedOn": "2023-09-14T16:03:01.000Z",
+          "wordCount": 1487,
+          "title": "MORNING CONVERSATION 9.14.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230914144947/830-9-14-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230914150237/IMG_2933.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110192",
           "author": "Kyle Bailey",
           "description": "September 14, 2023 4:10 a.m. Hot temperatures are returning to the Umpqua Valley for a few days and a new record high for the date could be set on Friday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury is slated to reach 95 degrees on Thursday...",
@@ -683,6 +698,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9166b374-52ac-11ee-be3e-b39af115a42c",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Firefighters assigned to the Tyee Ridge Complex fire have been conducting successful mop-up operations this week resulting in an overall containment of 55% while their counterparts on the Chilcoot and Ridge fires have built control lines.",
+          "link": "https://www.nrtoday.com/news/environment/wildfires/douglas-county-fire-update-aircraft-continue-efforts-from-the-air-firefighters-patrol-and-mopup/article_9166b374-52ac-11ee-be3e-b39af115a42c.html",
+          "publishedOn": "2023-09-14T13:45:00.000Z",
+          "wordCount": 13405,
+          "title": "Douglas County Fire update: Aircraft continue efforts from the air, firefighters patrol and mopup",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d1a056ca-5289-11ee-a924-5356aa8101d1",
           "author": "GLORIA COLEMAN The News-Review",

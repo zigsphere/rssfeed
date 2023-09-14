@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-14T13:12:07.373Z</updated>
+    <updated>2023-09-14T16:11:32.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.14.23]]></title>
+        <id>https://kqennewsradio.com/?p=110200</id>
+        <link href="https://kqennewsradio.com/2023/09/14/morning-conversation-9-14-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-14-23"/>
+        <updated>2023-09-14T16:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Buckaroo Barn Square Dance Club President Dan Jones talks about the club and a chance to get involved happening on Saturday night. Click here to download for later listening: 830 9 14 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fire update: Aircraft continue efforts from the air, firefighters patrol and mopup]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9166b374-52ac-11ee-be3e-b39af115a42c</id>
+        <link href="https://www.nrtoday.com/news/environment/wildfires/douglas-county-fire-update-aircraft-continue-efforts-from-the-air-firefighters-patrol-and-mopup/article_9166b374-52ac-11ee-be3e-b39af115a42c.html"/>
+        <updated>2023-09-14T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters assigned to the Tyee Ridge Complex fire have been conducting successful mop-up operations this week resulting in an overall containment of 55% while their counterparts on the Chilcoot and Ridge fires have built control lines.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOT TEMPERATURES RETURN, RECORD HIGH POSSIBLE FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=110192</id>
