@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-16T02:13:02.543Z</updated>
+    <updated>2023-09-16T04:58:49.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fish enhancements, spawning salmon at Soda Springs Dam]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fd22029a-5431-11ee-92f7-e703966ff6ac</id>
+        <link href="https://www.nrtoday.com/news/environment/fish-enhancements-spawning-salmon-at-soda-springs-dam/article_fd22029a-5431-11ee-92f7-e703966ff6ac.html"/>
+        <updated>2023-09-16T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[TOKETEE — A public tour of the fish enhancement projects at the North Umpqua Hydroelectric Project will take place Oct. 4, hosted by Pacific Power and federal and state natural resource agencies.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.15.23]]></title>
         <id>https://kqennewsradio.com/?p=110277</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[September 15, 2023 12:00 p.m.  The Oregon State Police will be enhancing patrol efforts on Interstate 5 between Eugene and Portland on Saturday. Extra patrols will take place on state highways and public roadways intersecting Corvallis and Eugene. Oregon State University and the University of Oregon both have home games Saturday, which will draw a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reedsport Police Department to undergo retrofit, remodel]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bed83692-53f7-11ee-ab1a-4b5227b6eec9</id>
+        <link href="https://www.nrtoday.com/news/local/reedsport-police-department-to-undergo-retrofit-remodel/article_bed83692-53f7-11ee-ab1a-4b5227b6eec9.html"/>
+        <updated>2023-09-15T18:43:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — The Reedsport Police Department will undergo a seismic retrofit and remodel from Monday until May 31, 2024.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -1086,294 +1106,6 @@ This evening at 8 PM NW IMT12 will be transiti...]]></summary>
         <link href="https://www.nrtoday.com/family/bunks-across-america-successful-in-roseburg/article_8558fb64-4f6e-11ee-881f-2741b3888f25.html"/>
         <updated>2023-09-11T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Colunteers showed out Saturday morning to build bunk beds from scratch to donate to a child who does not have a bed.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 9.11.23]]></title>
-        <id>https://kqennewsradio.com/?p=110045</id>
-        <link href="https://kqennewsradio.com/2023/09/11/morning-conversation-9-11-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-11-23"/>
-        <updated>2023-09-11T16:02:58.000Z</updated>
-        <summary type="html"><![CDATA[Casey Buller talks about the immediate need for more volunteer drivers for the Meals on Wheels program in Roseburg.  Click here to download for later listening:  830 9 11 23]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grants Pass man jailed after running from police]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f5c1845c-50b3-11ee-9797-2f6f26592364</id>
-        <link href="https://www.nrtoday.com/news/local/grants-pass-man-jailed-after-running-from-police/article_f5c1845c-50b3-11ee-9797-2f6f26592364.html"/>
-        <updated>2023-09-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GLENDALE — A Grants Pass man was jailed after a reported elude incident on Friday night.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PROGRESS CONTINUES TOWARD CONTAINMENT ON TYEE RIDGE COMPLEX]]></title>
-        <id>https://kqennewsradio.com/?p=110042</id>
-        <link href="https://kqennewsradio.com/2023/09/11/progress-continues-toward-containment-on-tyee-ridge-complex/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=progress-continues-toward-containment-on-tyee-ridge-complex"/>
-        <updated>2023-09-11T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[September 11, 2023 3:50 a.m. Progress continues towards containment on the Tyee Ridge Complex, burning 20 miles northwest of Roseburg. The complex is 48 percent contained and is listed at 7,853 acres. 1,356 people are assigned to the fires. An update from Oregon Department of Forestry Incident Management Team 3 said crews move further into...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOOMIS ANNOUNCES RE-ELECTION CAMPAIGN FOR SECOND TERM]]></title>
-        <id>https://kqennewsradio.com/?p=110038</id>
-        <link href="https://kqennewsradio.com/2023/09/11/loomis-announces-re-election-campaign-for-second-term/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=loomis-announces-re-election-campaign-for-second-term"/>
-        <updated>2023-09-11T10:36:14.000Z</updated>
-        <summary type="html"><![CDATA[September 11, 2023 3:40 a.m. Douglas County Clerk Daniel Loomis has announced his re-election campaign as he seeks another term in office. In a release issued Friday night, Loomis said, “I am thrilled to announce that I will be running for a second term as Douglas County Clerk in the upcoming 2024 election cycle. It...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY COUNCIL WITH VARIED AGENDA MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=110036</id>
-        <link href="https://kqennewsradio.com/2023/09/11/city-council-with-varied-agenda-monday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-with-varied-agenda-monday-night"/>
-        <updated>2023-09-11T10:31:36.000Z</updated>
-        <summary type="html"><![CDATA[September 11, 2023 3:30 a.m. The Roseburg City Council will have a varied agenda at its meeting Monday night. Umpqua Community College President Dr. Rachel Pokrandt will make a presentation regarding projects the school has in the downtown area. Mayor Larry Rich will make a proclamation for September being Recovery Month and designating September 30th...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOMAN CITED WITH 1,500 POUNDS OF ROCKS IN CAMP]]></title>
-        <id>https://kqennewsradio.com/?p=110034</id>
-        <link href="https://kqennewsradio.com/2023/09/11/woman-cited-with-1500-pounds-of-rocks-in-camp/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=woman-cited-with-1500-pounds-of-rocks-in-camp"/>
-        <updated>2023-09-11T10:28:02.000Z</updated>
-        <summary type="html"><![CDATA[September 11, 2023 3:20 a.m.  Roseburg Police cited a woman on a littering charge after contacting her Thursday morning. An RPD report said at 10:30 a.m. 40-year old Ashleigh Green was contacted at her camp along the bike path near Interstate Five and Northwest Garden Valley Boulevard. Green had been issued a citation a couple...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAN CITED DUE TO LITTERING]]></title>
-        <id>https://kqennewsradio.com/?p=110032</id>
-        <link href="https://kqennewsradio.com/2023/09/11/man-cited-due-to-littering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=man-cited-due-to-littering"/>
-        <updated>2023-09-11T10:24:40.000Z</updated>
-        <summary type="html"><![CDATA[September 11, 2023 3:00 a.m. Roseburg Police cited a man due to littering on Thursday morning. An RPD report said at 8:00 a.m. the 55-year old was contacted with a large pile of trash and debris set up at the entrance to the Roseburg Public Library in the 1400 block of Northeast Diamond Lake Boulevard....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg town hall set for Wednesday evening]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/46d73e06-4dce-11ee-b071-b3ac1ee79b43</id>
-        <link href="https://www.nrtoday.com/news/roseburg-town-hall-set-for-wednesday-evening/article_46d73e06-4dce-11ee-b071-b3ac1ee79b43.html"/>
-        <updated>2023-09-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Four Roseburg city councilors have scheduled a town hall discussion for Wednesday evening.]]></summary>
-        <author>
-            <name>The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rose Villa apartments receive $3.2 million]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f40d85e0-4cec-11ee-b05b-8b18f1662fc1</id>
-        <link href="https://www.nrtoday.com/news/local/rose-villa-apartments-receive-3-2-million/article_f40d85e0-4cec-11ee-b05b-8b18f1662fc1.html"/>
-        <updated>2023-09-10T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Rose Villa in Roseburg is a recipient of $3.2 million in preservation funds from Oregon Housing and Community Services to keep homes affordable.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chilcoot and Ridge Fires September 10, 2023]]></title>
-        <id>http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138246</id>
-        <link href="http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138246"/>
-        <updated>2023-09-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chilcoot and Ridge Fires:
-
-Total personnel: 627 | Total Resources: 20 engines; 16 crews; 5 helicopters; 10 heavy equipment; 9 water tenders 
-
-Firefighters have nearly completed several major ...]]></summary>
-        <author>
-            <name>News For Umpqua National Forest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brice Creek, Dinner, and Grizzly Fires September 10, 2023]]></title>
-        <id>http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138247</id>
-        <link href="http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138247"/>
-        <updated>2023-09-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Brice Creek, Dinner, and Grizzly Fires
-
-Total personnel:  325 | Total Resources:  8 engines; 8 crews; 1 helicopter; 6 heavy equipment; 2 water tenders 
-
-On September ...]]></summary>
-        <author>
-            <name>News For Umpqua National Forest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifting dirt and spirits at Camas Valley Fun Days]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ea1452d2-4f65-11ee-883e-1b3b3b60570a</id>
-        <link href="https://www.nrtoday.com/news/local/lifting-dirt-and-spirits-at-camas-valley-fun-days/article_ea1452d2-4f65-11ee-883e-1b3b3b60570a.html"/>
-        <updated>2023-09-09T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[CAMAS VALLEY — Dust blew as vehicles — ranging from ATVs to bikes to water trucks to highly modified trucks to a drone — gathered to kick off Camas Valley Fun Days.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump-Reagan dinner tickets available]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/aa553a56-4f3f-11ee-9148-8bfdce8a4cba</id>
-        <link href="https://www.nrtoday.com/news/elections/trump-reagan-dinner-tickets-available/article_aa553a56-4f3f-11ee-9148-8bfdce8a4cba.html"/>
-        <updated>2023-09-09T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — Table sponsorship and tickets to the 2023 Trump Reagan dinner and auction, which will be held from 5-8:30 p.m. Oct. 28 at the Roseburg Country Club, are available.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loomis announces re-election campaign for Clerk]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/27133724-4f3f-11ee-8d4d-03da7fff6877</id>
-        <link href="https://www.nrtoday.com/news/elections/loomis-announces-re-election-campaign-for-clerk/article_27133724-4f3f-11ee-8d4d-03da7fff6877.html"/>
-        <updated>2023-09-09T18:31:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — Dan Loomis announced he will be running for a second term as Douglas County Clerk in the 2024 election.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man arrested for murder of Oakland woman]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6369eb02-4f3d-11ee-bff8-e7b6b8a27d0e</id>
-        <link href="https://www.nrtoday.com/news/crime/man-arrested-for-murder-of-oakland-woman/article_6369eb02-4f3d-11ee-bff8-e7b6b8a27d0e.html"/>
-        <updated>2023-09-09T18:19:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — A 45-year-old man was arrested Friday for his alleged role in the death of Terry Lea Deane in Oakland.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Law enforcement knocks down Milepost 119 fire]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c0f922d6-4f3a-11ee-a86c-d3690306b163</id>
-        <link href="https://www.nrtoday.com/news/local/law-enforcement-knocks-down-milepost-119-fire/article_c0f922d6-4f3a-11ee-a86c-d3690306b163.html"/>
-        <updated>2023-09-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Law enforcement knocked down a fire in the center median of Interstate 5, near milepost 119, before firefighters arrived on the scene Friday afternoon.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tyee Ridge Complex evacuations downgraded, command turned over to ODF]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/edf4a484-4f37-11ee-8b6a-f3501fabdd7d</id>
-        <link href="https://www.nrtoday.com/briefs/tyee-ridge-complex-evacuations-downgraded-command-turned-over-to-odf/article_edf4a484-4f37-11ee-8b6a-f3501fabdd7d.html"/>
-        <updated>2023-09-09T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas County Sheriff’s Office downgraded several evacuation notices surrounding the Tyee Ridge Complex fire Friday. As of Saturday, 129 structures were threatened.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TYEE RIDGE COMPLEX 46 PERCENT CONTAINED]]></title>
-        <id>https://kqennewsradio.com/?p=110029</id>
-        <link href="https://kqennewsradio.com/2023/09/09/tyee-ridge-complex-46-percent-contained/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tyee-ridge-complex-46-percent-contained"/>
-        <updated>2023-09-09T17:34:22.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 10:30 a.m. The Tyee Ridge Complex is 46 percent contained and listed at 7,847 acres as of Saturday morning. The Oregon Department of Forestry Incident Management Team 3 assumed command of the complex Friday evening. 1,455 people are assigned to the fires. The effective securing of control lines and structure protection of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR ORDERS FLAGS LOWERED TO HALF-STAFF]]></title>
-        <id>https://kqennewsradio.com/?p=110027</id>
-        <link href="https://kqennewsradio.com/2023/09/09/governor-orders-flags-lowered-to-half-staff-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-orders-flags-lowered-to-half-staff-3"/>
-        <updated>2023-09-09T17:11:47.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 10:00 a.m. On Saturday, Governor Tina Kotek ordered all flags at Oregon public institutions to be flown at half-staff until sunset Monday night in remembrance of the nearly 3,000 civilians and first responders that were killed in the 2001 terrorist attacks. Kotek said, “Today and every day, we must remember and honor...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG WOMAN JAILED AFTER ALLEGED TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=110025</id>
-        <link href="https://kqennewsradio.com/2023/09/09/roseburg-woman-jailed-after-alleged-trespass-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-woman-jailed-after-alleged-trespass-incident"/>
-        <updated>2023-09-09T16:35:06.000Z</updated>
-        <summary type="html"><![CDATA[September 9,2023 9:35 a.m. A Roseburg woman was jailed by Roseburg Police after an alleged trespass incident on Thursday. An RPD report said just after 5:30 p.m. officers responded to the 1600 block of West Harvard Avenue where a caller said the suspect was refusing to leave the property. Officers learned that the woman had...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUVENILE DETAINED FOR UNLAWFUL POSSESSION OF MARIJUANA]]></title>
-        <id>https://kqennewsradio.com/?p=110023</id>
-        <link href="https://kqennewsradio.com/2023/09/09/juvenile-detained-for-unlawful-possession-of-marijuana/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juvenile-detained-for-unlawful-possession-of-marijuana"/>
-        <updated>2023-09-09T16:25:57.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 9:25 a.m.  Roseburg Police detained a juvenile for unlawful possession of marijuana by a person under the age of 21 on Thursday. An RPD report said just after 1:00 p.m. officers responded to Jo Lane Middle School in the 2100 block of Northeast Vine Street after a caller said a 13-year old...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED DISORDERLY CONDUCT]]></title>
-        <id>https://kqennewsradio.com/?p=110021</id>
-        <link href="https://kqennewsradio.com/2023/09/09/roseburg-police-jail-man-following-alleged-disorderly-conduct-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-alleged-disorderly-conduct-2"/>
-        <updated>2023-09-09T16:18:15.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 9:20 a.m. Roseburg Police jailed a man following alleged disorderly conduct on Thursday. An RPD report said at 2:50 p.m. officers received multiple calls about the 37-year old walking into traffic in the 300 block of Southeast Pine Street. Officers warned the suspect of disorderly conduct. A few minutes later, officers received...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRANTS PASS MAN JAILED AFTER REPORTED ELUDE INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=110019</id>
-        <link href="https://kqennewsradio.com/2023/09/09/grants-pass-man-jailed-after-reported-elude-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grants-pass-man-jailed-after-reported-elude-incident"/>
-        <updated>2023-09-09T15:51:02.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 8:50 a.m. A Grants Pass man was jailed after a reported elude incident on Friday night. Information from the Douglas County Sheriff’s Office said just after 9:30 p.m. a deputy attempted to stop a motorcycle rider on Interstate Five northbound three miles north of Glendale. The vehicle failed to yield and a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COTTAGE GROVE MAN JAILED AFTER ALLEGED ASSAULT]]></title>
-        <id>https://kqennewsradio.com/?p=110017</id>
-        <link href="https://kqennewsradio.com/2023/09/09/cottage-grove-man-jailed-after-alleged-assault/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cottage-grove-man-jailed-after-alleged-assault"/>
-        <updated>2023-09-09T15:32:28.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2023 8:30 a.m. A Cottage Grove man was jailed after an alleged assault late Friday afternoon. A Douglas County Sheriff’s Office report said shortly after 5:00 p.m. dispatchers received a 911 text from a victim stating that a man was beating her and she needed help. Deputies responded to the 400 block of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Kennel Club dog show at fairgrounds]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/12f9b78e-4dcf-11ee-b3d2-63360d99aa70</id>
-        <link href="https://www.nrtoday.com/news/local/umpqua-kennel-club-dog-show-at-fairgrounds/article_12f9b78e-4dcf-11ee-b3d2-63360d99aa70.html"/>
-        <updated>2023-09-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Umpqua Kennel Club began its annual dog show Thursday, bringing dozens of furry friends to the Douglas County Fairgrounds to take part in competitions.]]></summary>
-        <author>
-            <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Reading Program exceeds expectations]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/863da34c-4ddc-11ee-9fc6-c76f29e45933</id>
-        <link href="https://www.nrtoday.com/news/education/summer-reading-program-exceeds-expectations/article_863da34c-4ddc-11ee-9fc6-c76f29e45933.html"/>
-        <updated>2023-09-09T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library just put the lid on another record-breaking Summer Reading Program.]]></summary>
-        <author>
-            <name>Kris Wiley for The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forest Bridge to hold meeting on active conservation management]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2f8f45c2-4da6-11ee-9a88-179c26faa285</id>
-        <link href="https://www.nrtoday.com/news/environment/forest-bridge-to-hold-meeting-on-active-conservation-management/article_2f8f45c2-4da6-11ee-9a88-179c26faa285.html"/>
-        <updated>2023-09-09T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Forest Bridges: The O&C Habitat Project Inc. will host the first in a series of open public meetings on Thursday to share feedback on its Active Conservation management principles and proposals for the O&C lands of Western Oregon.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Hendy retires after nearly five decades of veterinary work]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/82cc1368-4dca-11ee-8a3f-43aa5d339224</id>
-        <link href="https://www.nrtoday.com/news/local/scott-hendy-retires-after-nearly-five-decades-of-veterinary-work/article_82cc1368-4dca-11ee-8a3f-43aa5d339224.html"/>
-        <updated>2023-09-09T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[When imagining a veterinarian practice, many people think about taking small pets, such as cats or dogs or rabbits, in when they might not be feeling so well. For Dr. Scott Hendy, a veterinarian practice is much more than this.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
         </author>
