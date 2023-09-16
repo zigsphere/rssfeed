@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-16T05:45:46.102Z</updated>
+    <updated>2023-09-16T13:08:34.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -330,36 +330,6 @@ Total Resources: 13 engines; 6 crews; 5 helicopters; 10 heavy equipment; 8 water
 Northwest Team 12 transitioned management to Northwest Team 6 at 8pm last night. Nor...]]></summary>
         <author>
             <name>News For Umpqua National Forest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Symphony Association present October concert]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2fbb407c-519e-11ee-9140-bbe19246330f</id>
-        <link href="https://www.nrtoday.com/a_and_e/umpqua-symphony-association-present-october-concert/article_2fbb407c-519e-11ee-9140-bbe19246330f.html"/>
-        <updated>2023-09-12T18:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The Umpqua Symphony Association is presenting an October concert and tickets are already on sale.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[League of Women Voters host fall series]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/4f5e6d1e-5199-11ee-accf-6f1e5dc01f58</id>
-        <link href="https://www.nrtoday.com/briefs/league-of-women-voters-host-fall-series/article_4f5e6d1e-5199-11ee-accf-6f1e5dc01f58.html"/>
-        <updated>2023-09-12T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The League of Women Voters of Umpqua Valley is hosting a fall speaker series "Creating a Roadmap to Common Ground: Learning from Community Leaders."]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish biologist to speak at Umpqua Fisherman's Association]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/edd06e6a-4da8-11ee-a26a-73aebe37aa48</id>
-        <link href="https://www.nrtoday.com/news/environment/fish-biologist-to-speak-at-umpqua-fishermans-association/article_edd06e6a-4da8-11ee-a26a-73aebe37aa48.html"/>
-        <updated>2023-09-12T18:04:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — A fish biologist with the Roseburg office of the Bureau of Land Management will speak at the Sept. 20 meeting of the Umpqua Fishermen’s Association.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
