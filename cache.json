@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110284",
+          "author": "Kyle Bailey",
+          "description": "September 16, 2023 10:00 a.m.  Containment on the Tyee Ridge Complex northeast of Roseburg is now at 76 percent. Its listed at 7,939 acres. 766 people are assigned to the fire. An update from Northwest Incident Management Team 3 said while the Douglas County Sheriff’s Office has cancelled all evacuation notices for the complex, closures...",
+          "link": "https://kqennewsradio.com/2023/09/16/tyee-ridge-complex-76-percent-contained/?utm_source=rss&utm_medium=rss&utm_campaign=tyee-ridge-complex-76-percent-contained",
+          "publishedOn": "2023-09-16T17:02:50.000Z",
+          "wordCount": 1602,
+          "title": "TYEE RIDGE COMPLEX 76 PERCENT CONTAINED",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230915160829/frityee2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110280",
           "author": "Kyle Bailey",
           "description": "September 16,2023 6:20 a.m. Roseburg set a new record high for the date on Friday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury reached 97 degrees at the Roseburg Regional Airport. The previous record high on September 15th was 95 degrees, set in 2008. Roseburg could...",
@@ -143,6 +153,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4986b726-53f5-11ee-b804-07bf361f77b5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "CANYONVILLE — Douglas County Cancer Services is holding its 23rd annual Pink Premier Tea & Fashion Show on Oct. 8.",
+          "link": "https://www.nrtoday.com/news/local/pink-premier-fasion-show-on-oct-8/article_4986b726-53f5-11ee-b804-07bf361f77b5.html",
+          "publishedOn": "2023-09-16T18:25:00.000Z",
+          "wordCount": 13070,
+          "title": "Pink Premier fasion show on Oct. 8",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/131d6884-53ef-11ee-baa3-ef99fd32d990",
           "author": "Kris Wiley for The News-Review",
@@ -393,26 +413,6 @@
           "publishedOn": "2023-09-14T05:00:00.000Z",
           "wordCount": 2086,
           "title": "Brice Creek, Dinner, and Grizzly Fires September 14, 2023",
-          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
-        },
-        {
-          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138790",
-          "author": null,
-          "description": "Total personnel: 225\n\nTotal Resources: 7 engines; 4 crews; 1 helicopter; 1 heavy equipment; 2 water tenders\n\nNorthwest Team 12 transitioned management to Northwest Team 6 at 8pm last night. Northw...",
-          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138790",
-          "publishedOn": "2023-09-13T05:00:00.000Z",
-          "wordCount": 2173,
-          "title": "Brice Creek, Dinner, and Grizzly Fires  September 13, 2023",
-          "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
-        },
-        {
-          "id": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138789",
-          "author": null,
-          "description": "Total personnel: 293\n\nTotal Resources: 13 engines; 6 crews; 5 helicopters; 10 heavy equipment; 8 water tenders\n\nNorthwest Team 12 transitioned management to Northwest Team 6 at 8pm last night. Nor...",
-          "link": "http://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1138789",
-          "publishedOn": "2023-09-13T05:00:00.000Z",
-          "wordCount": 1983,
-          "title": "Chilcoot and Ridge Fires September 13, 2023",
           "imageUrl": "https://www.fs.usda.gov/FSCSThemeStatic/themes/usda_nfs/img/fslogo.svg"
         }
       ]
