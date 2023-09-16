@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-16T04:58:49.117Z</updated>
+    <updated>2023-09-16T05:07:50.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -1098,16 +1098,6 @@ This evening at 8 PM NW IMT12 will be transiti...]]></summary>
         <summary type="html"><![CDATA[September 11, 2023 10:00 a.m. One person was taken to the hospital following a two-vehicle crash on Friday morning. A Roseburg Police report said just before 9:00 a.m. officers responded to a wreck in front of a business in the 300 block of West Harvard Avenue. A 30-year old female driver told officers she was...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bunks Across America successful in Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8558fb64-4f6e-11ee-881f-2741b3888f25</id>
-        <link href="https://www.nrtoday.com/family/bunks-across-america-successful-in-roseburg/article_8558fb64-4f6e-11ee-881f-2741b3888f25.html"/>
-        <updated>2023-09-11T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Colunteers showed out Saturday morning to build bunk beds from scratch to donate to a child who does not have a bed.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
