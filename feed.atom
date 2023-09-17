@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-16T23:08:07.710Z</updated>
+    <updated>2023-09-17T02:16:46.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -352,16 +352,6 @@ Northwest Team 6 will continue with strate...]]></summary>
         <summary type="html"><![CDATA[Douglas County Commissioner Chris Boice was the keynote speaker at the 103rd drug court graduation ceremony Sept. 5.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winston Co-op grand opening this Friday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/220cea28-51af-11ee-a23f-474217960364</id>
-        <link href="https://www.nrtoday.com/news/local/winston-co-op-grand-opening-this-friday/article_220cea28-51af-11ee-a23f-474217960364.html"/>
-        <updated>2023-09-13T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — The Douglas County Farmers Co-op in Winston has been open since March, but this weekend it will host an official grand opening event.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
