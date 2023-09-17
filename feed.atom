@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-17T19:06:50.332Z</updated>
+    <updated>2023-09-17T23:08:18.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FIRE FIGHTERS FOCUS ON MOP UP OF TYEE RIDGE COMPLEX]]></title>
+        <id>https://kqennewsradio.com/?p=110296</id>
+        <link href="https://kqennewsradio.com/2023/09/17/fire-fighters-focus-on-mop-up-of-tyee-ridge-complex/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fire-fighters-focus-on-mop-up-of-tyee-ridge-complex"/>
+        <updated>2023-09-17T22:52:32.000Z</updated>
+        <summary type="html"><![CDATA[September 17, 2023 3:50 p.m. Firefighters are focusing on mop up, on the Tyee Ridge Complex, northwest of Roseburg. The complex is listed at 7,939 acres and is 83 percent contained. 705 people are assigned to the fires. An update from Northwest Incident Management Team 3 said crews are working 200-300 feet within the fire...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIVER TAKEN TO HOSPITAL FOLLOWING SINGLE VEHICLE WRECK]]></title>
+        <id>https://kqennewsradio.com/?p=110294</id>
+        <link href="https://kqennewsradio.com/2023/09/17/driver-taken-to-hospital-following-single-vehicle-wreck-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-taken-to-hospital-following-single-vehicle-wreck-3"/>
+        <updated>2023-09-17T22:32:42.000Z</updated>
+        <summary type="html"><![CDATA[September 17, 2023 3:30 p.m. A driver was taken to the hospital following a single vehicle wreck on Friday afternoon. An Oregon State Police report said at approximately 12:30 p.m. a pickup was northbound near the Sutherlin exit when it rolled. The driver was already out of the vehicle laying down and was being assisted...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG MISSES RECORD HIGH TEMPERATURE]]></title>
         <id>https://kqennewsradio.com/?p=110292</id>
