@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-17T02:16:46.232Z</updated>
+    <updated>2023-09-17T13:08:46.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RAC kick-off event Tuesday afternoon]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/df5344b4-5377-11ee-adf1-3b2d4e301965</id>
+        <link href="https://www.nrtoday.com/news/local/rac-kick-off-event-tuesday-afternoon/article_df5344b4-5377-11ee-adf1-3b2d4e301965.html"/>
+        <updated>2023-09-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Riddle Roots Community Projects is moving forward on the Riddle Activity Center Capital Campaign by hosting a kick-off event Tuesday. The event will be held at the future grounds of the activity center from 2:30 to 7 p.m.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EMERGENCY AREA AND ROAD CLOSURE: ANVIL FIRE]]></title>
         <id>https://kqennewsradio.com/?p=110288</id>
@@ -292,66 +302,6 @@ Northwest Team 6 will continue with strate...]]></summary>
         <summary type="html"><![CDATA[A blue table at the entrance to Roseburg’s Veteran of Foreign Wars Auxiliary Post closed the parking lot from vehicles and instead welcomed all homeless veterans to the parking lot.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg German Band to perform at Oktoberfest]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7be5a496-5262-11ee-8dde-57de1f7595bc</id>
-        <link href="https://www.nrtoday.com/a_and_e/roseburg-german-band-to-perform-at-oktoberfest/article_7be5a496-5262-11ee-8dde-57de1f7595bc.html"/>
-        <updated>2023-09-13T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[MYRTLE CREEK — The Roseburg German Band will perform at Oktoberfest, hosted by the Myrtle Creek Elks Lodge, for the seventh consecutive times.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tackling health care workforce development]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/089fa564-48ed-11ee-84a7-87d37fd49a19</id>
-        <link href="https://www.nrtoday.com/news/health/tackling-health-care-workforce-development/article_089fa564-48ed-11ee-84a7-87d37fd49a19.html"/>
-        <updated>2023-09-13T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[We all have our reasons for living in Douglas County. For some, it’s the relatively mild winters and summers. Others love the charm and small-town feel. Many folks love our plentiful outdoor recreational activities like hunting, fishing, kayaking, skiing or…]]></summary>
-        <author>
-            <name>KC Bolton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland Bridge closed to traffic next weekend]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2cd1986e-51b4-11ee-a99c-0fd066161f15</id>
-        <link href="https://www.nrtoday.com/news/local/north_county/oakland/oakland-bridge-closed-to-traffic-next-weekend/article_2cd1986e-51b4-11ee-a99c-0fd066161f15.html"/>
-        <updated>2023-09-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — Construction on the Oakland bridge project continues and from Sept. 22 until Sept. 25 a detour will be in place.]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire danger level increases to high]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ad4dd4ea-51c2-11ee-983a-c3443546f73b</id>
-        <link href="https://www.nrtoday.com/news/environment/wildfires/fire-danger-level-increases-to-high/article_ad4dd4ea-51c2-11ee-983a-c3443546f73b.html"/>
-        <updated>2023-09-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Due to the increase in expected temperatures and decrease in humidity, the Douglas Forest Protective Association is moving the fire danger level and public use restriction levels to high for all private, state, and Bureau of Indian Affairs lands within…]]></summary>
-        <author>
-            <name>DREW WINKELMAIER and KYLE BAILEY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSU launches food preserver training]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/90bc0ece-50b3-11ee-be4e-17f1c1f6a634</id>
-        <link href="https://www.nrtoday.com/news/education/osu-launches-food-preserver-training/article_90bc0ece-50b3-11ee-be4e-17f1c1f6a634.html"/>
-        <updated>2023-09-13T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[OREGON — The Oregon State University Extension Service Master Food Preserver program is launching a multi-county hybrid training this fall for new volunteers.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Boice gives keynote speech at drug court graduation]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ddcc95a0-5241-11ee-b5d8-db7c28884a76</id>
-        <link href="https://www.nrtoday.com/news/court/chris-boice-gives-keynote-speech-at-drug-court-graduation/article_ddcc95a0-5241-11ee-b5d8-db7c28884a76.html"/>
-        <updated>2023-09-13T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County Commissioner Chris Boice was the keynote speaker at the 103rd drug court graduation ceremony Sept. 5.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
 </feed>
