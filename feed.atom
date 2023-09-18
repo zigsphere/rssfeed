@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-18T13:11:08.548Z</updated>
+    <updated>2023-09-18T16:11:35.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.18.23]]></title>
+        <id>https://kqennewsradio.com/?p=110320</id>
+        <link href="https://kqennewsradio.com/2023/09/18/morning-conversation-9-18-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-18-23"/>
+        <updated>2023-09-18T16:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Friends of Umpqua Valley Police K’s co-founder Rosemarie Wess talks about their annual fundraiser, which is happening Saturday night. Click here to download for later listening:  830 9 18 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHILCOOT FIRE IN MOP UP, RIDGE FIRE IN PATROL STATUS]]></title>
         <id>https://kqennewsradio.com/?p=110313</id>
