@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110350",
+          "author": "Kyle Bailey",
+          "description": "September 18, 2023 3:20 p.m.  A Roseburg man was jailed by Roseburg Police following an alleged burglary incident Friday afternoon. An RPD report at 3:00 p.m. officers responded to a doctor’s office in the 2400 block of Northwest Edenbower Boulevard after a caller said a man had come through a back entrance. Once inside, the...",
+          "link": "https://kqennewsradio.com/2023/09/18/roseburg-man-jailed-for-alleged-burglary-and-theft/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-man-jailed-for-alleged-burglary-and-theft",
+          "publishedOn": "2023-09-18T22:17:11.000Z",
+          "wordCount": 1500,
+          "title": "ROSEBURG MAN JAILED FOR ALLEGED BURGLARY AND THEFT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222536/police-1024x538-1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=110347",
+          "author": "Kyle Bailey",
+          "description": "September 18, 2023 3:00 p.m.  Friends of Umpqua Valley Police K9 Programs will have their 8th annual K9s in the Grapevines fundraiser on Saturday. The event will begin at 3:00 p.m. and will be held at Melrose Vineyards in Melrose. Those attending can meet and greet police K9 teams, see K9 demonstrations, participate in an...",
+          "link": "https://kqennewsradio.com/2023/09/18/friends-of-police-k9-fundraiser-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=friends-of-police-k9-fundraiser-saturday",
+          "publishedOn": "2023-09-18T22:09:47.000Z",
+          "wordCount": 1518,
+          "title": "FRIENDS OF POLICE K9 FUNDRAISER SATURDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230918210925/359798106_660366389450674_3365782510666968173_n.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=110342",
+          "author": "Kyle Bailey",
+          "description": "President of the Association of O&C Counties Doug Robertson talks about the organization and recent court rulings in this encore program.  Click here to download for later listening. IDC 7 28 23",
+          "link": "https://kqennewsradio.com/2023/09/18/inside-douglas-county-9-18-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-18-23",
+          "publishedOn": "2023-09-18T20:09:04.000Z",
+          "wordCount": 1488,
+          "title": "INSIDE DOUGLAS COUNTY 9.18.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230918185609/IDC-7-28-23-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230728190642/IMG_2701-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110338",
           "author": "Kyle Bailey",
           "description": "September 18, 2023 11:20 a.m.   Roseburg Police charged a man with second-degree criminal mischief and for a warrant, early Saturday morning. An RPD report said just after 2:15 a.m. an officer contacted the 67-year old at Burger King in the 900 block of Northwest Garden Valley Boulevard, after he allegedly broke a window with a...",
@@ -338,6 +373,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/251f1e20-5330-11ee-a197-936e6dd12be7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "An abandoned trailer on a veteran’s property in Eugene was covered in weeds and blackberry bushes that permeated the trailer inside and out. When the trailer was hauled out of the brush, inside was found a large, heavy, copper grave…",
+          "link": "https://www.nrtoday.com/news/local/abandoned-us-navy-grave-marker-found/article_251f1e20-5330-11ee-a197-936e6dd12be7.html",
+          "publishedOn": "2023-09-18T18:54:00.000Z",
+          "wordCount": 13487,
+          "title": "Abandoned US Navy grave marker found",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ab/6ab728fa-5291-11ee-9ae1-77d95c6bd1aa/65024c9ce1e32.image.jpg?resize=300%2C200",
+            "length": "413378",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ab/6ab728fa-5291-11ee-9ae1-77d95c6bd1aa/65024c9ce1e32.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/df5344b4-5377-11ee-adf1-3b2d4e301965",
           "author": "GLORIA COLEMAN The News-Review",
