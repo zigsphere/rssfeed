@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110374",
+          "author": "Kyle Bailey",
+          "description": "Jackie Barnett from Douglas County Cancer Services talks about the upcoming Pink Premier Tea & Fashion Show.  830 9 19 23",
+          "link": "https://kqennewsradio.com/2023/09/19/morning-conversation-9-19-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-19-23",
+          "publishedOn": "2023-09-19T15:55:19.000Z",
+          "wordCount": 1472,
+          "title": "MORNING CONVERSATION 9.19.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919144926/830-9-19-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919145457/IMG_2951.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110371",
           "author": "Kyle Bailey",
           "description": "September 19, 2023 6:00 a.m.  The Canyonville Community Library is seeking two new board members. Ideal candidates should have a strong passion for libraries and want to actively contribute to the growth and long-term success of the library. Duties include: *Assisting in policy making, administration, budgeting and pursuing ways to increase library funding and sustainability...",
@@ -319,6 +334,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8673b2d2-5702-11ee-a165-cf0305c35918",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINSTON — Winston police jailed a woman for an alleged disorderly conduct incident Saturday.",
+          "link": "https://www.nrtoday.com/news/local/woman-jailed-for-disorderly-conduct/article_8673b2d2-5702-11ee-a165-cf0305c35918.html",
+          "publishedOn": "2023-09-19T15:38:00.000Z",
+          "wordCount": 13094,
+          "title": "Woman jailed for disorderly conduct",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6fab802-56fd-11ee-8625-1fe99e58af93",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "An airplane hangar with 12 classic cars inside caught fire Monday evening near Felts Field, a small airfield in the Hucrest neighborhood.",
+          "link": "https://www.nrtoday.com/news/local/airplane-hangar-filled-with-cars-burns-down/article_f6fab802-56fd-11ee-8625-1fe99e58af93.html",
+          "publishedOn": "2023-09-19T15:05:00.000Z",
+          "wordCount": 13581,
+          "title": "Airplane hangar filled with cars burns down",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/61/d61fdbc8-5700-11ee-8eac-c7940e58574e/6509bd87debf2.image.jpg?resize=300%2C225",
+            "length": "312628",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/61/d61fdbc8-5700-11ee-8eac-c7940e58574e/6509bd87debf2.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/53d6d04a-56b0-11ee-914b-6f22e0a01133",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — The platinum jubilee is approaching for Winston, as announced by its mayor, Scott Rutter, at Monday's City Council meeting.",
+          "link": "https://www.nrtoday.com/news/local/winston-to-celebrate-70th-birthday/article_53d6d04a-56b0-11ee-914b-6f22e0a01133.html",
+          "publishedOn": "2023-09-19T05:49:00.000Z",
+          "wordCount": 13443,
+          "title": "Winston to celebrate 70th birthday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/7f/07f2f9c2-56b2-11ee-9f7c-37a2128dd57f/650939513f8a5.image.jpg?resize=300%2C225",
+            "length": "20649",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/7f/07f2f9c2-56b2-11ee-9f7c-37a2128dd57f/650939513f8a5.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/228d792c-5434-11ee-b6cf-4f9136a59baa",
           "author": "SANNE GODFREY The News-Review",
           "description": "CANYONVILLE — Canyonville City Friends of the Library, a nonprofit organization, is looking for two board members.",
@@ -387,26 +442,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9b3bcd1c-5432-11ee-ab00-4fa216b67881",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — National Public Lands Day is Saturday and the Bureau of Land Management is asking for volunteers to help with weed removal and cleanup at Millpond and Lone Pine Recreation sites and the Sawmill Trail.",
-          "link": "https://www.nrtoday.com/news/local/saturday-is-national-public-lands-day/article_9b3bcd1c-5432-11ee-ab00-4fa216b67881.html",
-          "publishedOn": "2023-09-16T01:44:00.000Z",
-          "wordCount": 13209,
-          "title": "Saturday is National Public Lands Day",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd22029a-5431-11ee-92f7-e703966ff6ac",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "TOKETEE — A public tour of the fish enhancement projects at the North Umpqua Hydroelectric Project will take place Oct. 4, hosted by Pacific Power and federal and state natural resource agencies.",
-          "link": "https://www.nrtoday.com/news/environment/fish-enhancements-spawning-salmon-at-soda-springs-dam/article_fd22029a-5431-11ee-92f7-e703966ff6ac.html",
-          "publishedOn": "2023-09-16T01:40:00.000Z",
-          "wordCount": 13206,
-          "title": "Fish enhancements, spawning salmon at Soda Springs Dam",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
