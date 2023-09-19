@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110406",
+          "author": "Kyle Bailey",
+          "description": "September 19, 2023 3:30 p.m.   Umpqua Watersheds, Native Fish Society and Thrive Umpqua is asking for volunteers to help clean up the shores of the Umpqua River from the headwaters to the sea. An Umpqua Watersheds release said there is a lot of trash that needs to be removed before the high water comes. This...",
+          "link": "https://kqennewsradio.com/2023/09/19/umpqua-river-clean-up-day-is-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-river-clean-up-day-is-saturday",
+          "publishedOn": "2023-09-19T22:43:47.000Z",
+          "wordCount": 1591,
+          "title": "UMPQUA RIVER CLEAN UP DAY IS SATURDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201024/THRIVE-UMPQUA-LOGO-e1684405931742.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=110397",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Community College Associate Professor of Computer Science John Blackwood talks about their new Artifical Intelligence program, and about cyber security and related topics.  Click here to download for later listening: IDC 9 19 23",
+          "link": "https://kqennewsradio.com/2023/09/19/inside-douglas-county-9-19-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-19-23",
+          "publishedOn": "2023-09-19T20:06:24.000Z",
+          "wordCount": 1488,
+          "title": "INSIDE DOUGLAS COUNTY 9.19.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919190316/IDC-9-19-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919190806/IMG_2954.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110392",
           "author": "Kyle Bailey",
           "description": "September 19, 2023 10:55 a.m.  Senators Ron Wyden and Jeff Merkley have announced that Oregon will receive more than $106 million in Federal Emergency Management Agency grants for extreme weather resilience. Wyden said, “Extreme weather events due to the climate crisis – fires, floods, soaring temperatures – have proven to be deadly, which is why...",
@@ -393,6 +418,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6c795156-5730-11ee-a1aa-0fccf9f2e145",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Local organizations are raising money for child abuse prevention and human trafficking programs with a \"Challenge of the Heroes\" on Sept. 28 at restaurants throughout Douglas County.",
+          "link": "https://www.nrtoday.com/news/health/challenge-of-the-heroes-takes-place-sept-28/article_6c795156-5730-11ee-a1aa-0fccf9f2e145.html",
+          "publishedOn": "2023-09-19T21:06:00.000Z",
+          "wordCount": 13237,
+          "title": "Challenge of the Heroes takes place Sept. 28",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f8a2b46-572e-11ee-bf4c-6750c452acba",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — A local TOPS organization, a weight loss program, is hosting a walk-a-thon at noon Oct. 21 at the Winston Community Center.",
+          "link": "https://www.nrtoday.com/news/health/tops-to-host-walk-a-thon-on-oct-21/article_2f8a2b46-572e-11ee-bf4c-6750c452acba.html",
+          "publishedOn": "2023-09-19T20:50:00.000Z",
+          "wordCount": 13133,
+          "title": "Tops to host walk-a-thon on Oct. 21",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1b468240-5703-11ee-a63c-1362ad36d642",
           "author": "SANNE GODFREY The News-Review",
