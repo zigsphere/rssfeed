@@ -349,16 +349,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230915150821/IMG_2944.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110244",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2023 4:20 a.m. Hot weather continues in the Umpqua Valley, with the potential of setting a record high for the date on Friday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury reached 96 degrees at the Roseburg Regional Airport on Thursday. That was 5...",
-          "link": "https://kqennewsradio.com/2023/09/15/hot-weather-continues-record-high-possible-friday/?utm_source=rss&utm_medium=rss&utm_campaign=hot-weather-continues-record-high-possible-friday",
-          "publishedOn": "2023-09-15T11:17:48.000Z",
-          "wordCount": 1545,
-          "title": "HOT WEATHER CONTINUES, RECORD HIGH POSSIBLE FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727211012/splash1-e1653043169322.jpg"
         }
       ]
     },
@@ -373,6 +363,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/228d792c-5434-11ee-b6cf-4f9136a59baa",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "CANYONVILLE — Canyonville City Friends of the Library, a nonprofit organization, is looking for two board members.",
+          "link": "https://www.nrtoday.com/news/local/canyonville-library-seeks-board-members/article_228d792c-5434-11ee-b6cf-4f9136a59baa.html",
+          "publishedOn": "2023-09-19T01:55:00.000Z",
+          "wordCount": 13115,
+          "title": "Canyonville library seeks board members",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/251f1e20-5330-11ee-a197-936e6dd12be7",
           "author": "GLORIA COLEMAN The News-Review",
@@ -487,28 +487,13 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/68/d68c06fe-91f8-11ed-a544-53c10a5743c4/63bf2d418d180.image.jpg?resize=300%2C430"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f91672c-53d1-11ee-a743-5ba1d8d55ef4",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "With the fire danger level returning to high due to hotter temperatures, crews with the Douglas Forest Protective Association dealt with four fires in the Douglas District on Thursday.",
-          "link": "https://www.nrtoday.com/news/environment/wildfires/dfpa-handles-four-fires-as-fire-level-increases/article_2f91672c-53d1-11ee-a743-5ba1d8d55ef4.html",
-          "publishedOn": "2023-09-15T14:07:00.000Z",
-          "wordCount": 13592,
-          "title": "DFPA handles four fires as fire level increases",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/9d/99d63a22-53d1-11ee-a673-071c8c7bec2e/650465cae2ed6.image.jpg?resize=300%2C225",
-            "length": "68292",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/9d/99d63a22-53d1-11ee-a673-071c8c7bec2e/650465cae2ed6.image.jpg?resize=300%2C225"
         }
       ]
     },
     {
       "title": "News For Umpqua National Forest",
       "feedUrl": "https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=180000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQMsLQyNTIx8_H19HQ0CTUOdnIIDLY0NDI31w8EKjAwgwNHCwN_DI8wvzAcqYKAfRYx-AxzAkUj9eBRE4Tfei5AFwBAwKvJ19k3XjypILMnQzcxLy9ePKM0tKCxN1I_ISy0v1k0tS80rKQY6JQpsGL7AIOScgtzQ0IgqHw-DTEdFAHsZNJA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua%20National%20Forest",
-      "siteUrl": "http://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=180000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQMsLQyNTIx8_H19HQ0CTUOdnIIDLY0NDI31w8EKjAwgwNHCwN_DI8wvzAcqYKAfRYx-AxzAkUj9eBRE4Tfei5AFwBAwKvJ19k3XjypILMnQzcxLy9ePKM0tKCxN1I_ISy0v1k0tS80rKQY6JQpsGL7AIOScgtzQ0IgqHw-DTEdFAHsZNJA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua20National20Forest",
+      "siteUrl": "https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&xFSENavChannel02=180000000000000&pathinfo=/wps/portal/fsinternet3/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQMsLQyNTIx8_H19HQ0CTUOdnIIDLY0NDI31w8EKjAwgwNHCwN_DI8wvzAcqYKAfRYx-AxzAkUj9eBRE4Tfei5AFwBAwKvJ19k3XjypILMnQzcxLy9ePKM0tKCxN1I_ISy0v1k0tS80rKQY6JQpsGL7AIOScgtzQ0IgqHw-DTEdFAHsZNJA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNQOTgxMjQyTE9NTUEwUTVVQkJTUTkzME0y/?navtype=BROWSEBYSUBJECT&forestname=Umpqua20National20Forest",
       "articles": []
     }
   ],

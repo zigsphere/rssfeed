@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-18T23:08:52.280Z</updated>
+    <updated>2023-09-19T02:17:03.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canyonville library seeks board members]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/228d792c-5434-11ee-b6cf-4f9136a59baa</id>
+        <link href="https://www.nrtoday.com/news/local/canyonville-library-seeks-board-members/article_228d792c-5434-11ee-b6cf-4f9136a59baa.html"/>
+        <updated>2023-09-19T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — Canyonville City Friends of the Library, a nonprofit organization, is looking for two board members.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG MAN JAILED FOR ALLEGED BURGLARY AND THEFT]]></title>
         <id>https://kqennewsradio.com/?p=110350</id>
@@ -424,26 +434,6 @@
         <summary type="html"><![CDATA[Oregon Representative Virgle Osborne and Oregon Senator David Brock Smith announced Thursday they would each be filing for re-election.]]></summary>
         <author>
             <name>Kyle Bailey and Sanne Godfrey The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA handles four fires as fire level increases]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2f91672c-53d1-11ee-a743-5ba1d8d55ef4</id>
-        <link href="https://www.nrtoday.com/news/environment/wildfires/dfpa-handles-four-fires-as-fire-level-increases/article_2f91672c-53d1-11ee-a743-5ba1d8d55ef4.html"/>
-        <updated>2023-09-15T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[With the fire danger level returning to high due to hotter temperatures, crews with the Douglas Forest Protective Association dealt with four fires in the Douglas District on Thursday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOT WEATHER CONTINUES, RECORD HIGH POSSIBLE FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=110244</id>
-        <link href="https://kqennewsradio.com/2023/09/15/hot-weather-continues-record-high-possible-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hot-weather-continues-record-high-possible-friday"/>
-        <updated>2023-09-15T11:17:48.000Z</updated>
-        <summary type="html"><![CDATA[September 15, 2023 4:20 a.m. Hot weather continues in the Umpqua Valley, with the potential of setting a record high for the date on Friday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury reached 96 degrees at the Roseburg Regional Airport on Thursday. That was 5...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
