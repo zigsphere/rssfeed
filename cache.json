@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110429",
+          "author": "Kyle Bailey",
+          "description": "Mercy Foundation’s Violence Prevention Program Manager Marion Pearson talks about the Challenge of the Heroe’s event happening September 28th. Click here to download for later listening:  830 9 20 23",
+          "link": "https://kqennewsradio.com/2023/09/20/morning-conversation-9-20-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-20-23",
+          "publishedOn": "2023-09-20T16:02:39.000Z",
+          "wordCount": 1485,
+          "title": "MORNING CONVERSATION 9.20.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230920144953/830-9-20-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230920150220/IMG_2960.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110423",
           "author": "Kyle Bailey",
           "description": "September 20, 2023 4:00 a.m. With the successful transition of command of the Tyee Ridge Complex from the Oregon Department of Forestry’s Type 1, Incident Management Team, back to the Douglas Forest Protective Association’s Type 3 Team, progress on containment continues. DFPA Public Information Officer Rachel Pope said collaborative efforts from DFPA, Bureau of Land...",
@@ -458,6 +473,61 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/470b39c2-5765-11ee-bdaa-bf0957d29103",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Roseburg-born actress Brooke Markham is taking on a starring role in a new film, \"Shaky Shivers,\" set to premier nationwide Thursday.",
+          "link": "https://www.nrtoday.com/a_and_e/roseburg-born-actress-stars-in-new-film-premiering-thursday/article_470b39c2-5765-11ee-bdaa-bf0957d29103.html",
+          "publishedOn": "2023-09-20T15:00:00.000Z",
+          "wordCount": 13306,
+          "title": "Roseburg-born actress stars in new film premiering Thursday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/be/2be77a40-5768-11ee-823c-2740350109c4/650a6ae5f19d4.image.jpg?resize=300%2C450",
+            "length": "135256",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/be/2be77a40-5768-11ee-823c-2740350109c4/650a6ae5f19d4.image.jpg?resize=300%2C450"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d0af9730-5702-11ee-a7c2-0300e4d91d26",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Friends of Umpqua Valley Police K9 Programs will host its eighth annual K9s in the Grapevines fundraiser Saturday.",
+          "link": "https://www.nrtoday.com/briefs/friends-of-police-k9s-fundraiser-scheduled-for-saturday/article_d0af9730-5702-11ee-a7c2-0300e4d91d26.html",
+          "publishedOn": "2023-09-20T15:00:00.000Z",
+          "wordCount": 13079,
+          "title": "Friends of Police K9s fundraiser scheduled for Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9464ea12-5763-11ee-a6da-cbfe37554456",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — Fall term at Umpqua Community College starts Monday for students. This week, staff are getting ready on campus to welcome students back.",
+          "link": "https://www.nrtoday.com/news/education/ucc-staff-ready-for-upcoming-school-year/article_9464ea12-5763-11ee-a6da-cbfe37554456.html",
+          "publishedOn": "2023-09-20T15:00:00.000Z",
+          "wordCount": 14079,
+          "title": "UCC staff ready for upcoming school year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/80/280b293c-57c5-11ee-8183-df50e1ecd39c/650b06e6b0739.image.jpg?resize=300%2C169",
+            "length": "635144",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/80/280b293c-57c5-11ee-8183-df50e1ecd39c/650b06e6b0739.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/507b25b8-573c-11ee-b47a-7bc5ac748b7c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "RIDDLE — Riddle Roots Community Projects brought its campaign to the public Tuesday by hosting an event full of fun, games, dinner and speeches.",
+          "link": "https://www.nrtoday.com/news/local/riddle-kicks-off-public-campaign-for-activity-center/article_507b25b8-573c-11ee-b47a-7bc5ac748b7c.html",
+          "publishedOn": "2023-09-20T15:00:00.000Z",
+          "wordCount": 14296,
+          "title": "Riddle kicks off public campaign for activity center",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/52/9528de9e-5769-11ee-b9cf-a7f209cea046/650a6d441313e.image.jpg?resize=300%2C200",
+            "length": "342998",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/52/9528de9e-5769-11ee-b9cf-a7f209cea046/650a6d441313e.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6c795156-5730-11ee-a1aa-0fccf9f2e145",
           "author": "SANNE GODFREY The News-Review",
