@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-19T23:08:28.175Z</updated>
+    <updated>2023-09-20T02:15:45.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 9.19.23]]></title>
+        <id>https://kqennewsradio.com/?p=110408</id>
+        <link href="https://kqennewsradio.com/2023/09/19/true-wealth-9-19-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-9-19-23"/>
+        <updated>2023-09-20T00:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn is joined by Barry Robinson of AmeriTitle for our weekly local financial program. Click here to download for later listening:  TRUE WEALTH 9 19 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA RIVER CLEAN UP DAY IS SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=110406</id>
@@ -494,16 +504,6 @@
         <summary type="html"><![CDATA[Community members are invited to register for free, basic technology classes at Roseburg Public Library.]]></summary>
         <author>
             <name>Kris Wiley for The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SETS NEW RECORD HIGH FOR THE DAY ON FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=110280</id>
-        <link href="https://kqennewsradio.com/2023/09/16/roseburg-sets-new-record-high-for-the-day-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sets-new-record-high-for-the-day-on-friday"/>
-        <updated>2023-09-16T13:23:40.000Z</updated>
-        <summary type="html"><![CDATA[September 16,2023 6:20 a.m. Roseburg set a new record high for the date on Friday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury reached 97 degrees at the Roseburg Regional Airport. The previous record high on September 15th was 95 degrees, set in 2008. Roseburg could...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
