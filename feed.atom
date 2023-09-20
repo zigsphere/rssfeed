@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-20T19:07:32.631Z</updated>
+    <updated>2023-09-20T23:08:35.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.20.23]]></title>
+        <id>https://kqennewsradio.com/?p=110455</id>
+        <link href="https://kqennewsradio.com/2023/09/20/inside-douglas-county-9-20-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-20-23"/>
+        <updated>2023-09-20T20:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Greater Douglas United Way Executive Director Bryan Trenkle talks about the organization and this year’s campaign. Click here to download for later listening:  IDC 9 20 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JESSICA NORTON NAMED DOUGLAS REGIONAL TEACHER OF THE YEAR]]></title>
         <id>https://kqennewsradio.com/?p=110448</id>
