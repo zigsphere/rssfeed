@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-20T23:08:35.837Z</updated>
+    <updated>2023-09-21T02:15:08.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 9.20.23]]></title>
+        <id>https://kqennewsradio.com/?p=110460</id>
+        <link href="https://kqennewsradio.com/2023/09/20/mike-winters-lawn-and-garden-show-9-20-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-9-20-23"/>
+        <updated>2023-09-21T00:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden show.  Click here to download for later listening: MWLGS 9 20 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.20.23]]></title>
         <id>https://kqennewsradio.com/?p=110455</id>
@@ -612,16 +622,6 @@
         <link href="https://kqennewsradio.com/2023/09/17/driver-taken-to-hospital-following-single-vehicle-wreck-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-taken-to-hospital-following-single-vehicle-wreck-3"/>
         <updated>2023-09-17T22:32:42.000Z</updated>
         <summary type="html"><![CDATA[September 17, 2023 3:30 p.m. A driver was taken to the hospital following a single vehicle wreck on Friday afternoon. An Oregon State Police report said at approximately 12:30 p.m. a pickup was northbound near the Sutherlin exit when it rolled. The driver was already out of the vehicle laying down and was being assisted...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG MISSES RECORD HIGH TEMPERATURE]]></title>
-        <id>https://kqennewsradio.com/?p=110292</id>
-        <link href="https://kqennewsradio.com/2023/09/17/roseburg-misses-record-high-temperature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-misses-record-high-temperature"/>
-        <updated>2023-09-17T13:35:47.000Z</updated>
-        <summary type="html"><![CDATA[September 17, 2023 6:30 a.m. Roseburg missed setting a new record high temperature for the date Saturday, but not by much. Forecasters at the National Weather Service said the mercury reached 92 degrees at the Roseburg Regional Airport. The record high for September 16th was 93 degrees, set in 2008. Temperatures are starting to cool...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
