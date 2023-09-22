@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-21T23:08:45.826Z</updated>
+    <updated>2023-09-22T02:16:12.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 9.21.23]]></title>
+        <id>https://kqennewsradio.com/?p=110509</id>
+        <link href="https://kqennewsradio.com/2023/09/21/your-cue-9-21-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-9-21-23"/>
+        <updated>2023-09-21T23:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by State Representative Virgle Osborne in this encore program.  ØÁU]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.21.23]]></title>
         <id>https://kqennewsradio.com/?p=110504</id>
