@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-23T23:08:06.835Z</updated>
+    <updated>2023-09-24T02:17:06.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DCSO seeks assistance in locating Michael Paul Scholes]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/caf9fcf4-5a68-11ee-9acf-0fd104c7b8fe</id>
+        <link href="https://www.nrtoday.com/briefs/dcso-seeks-assistance-in-locating-michael-paul-scholes/article_caf9fcf4-5a68-11ee-9acf-0fd104c7b8fe.html"/>
+        <updated>2023-09-23T23:27:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — The Douglas County Sheriff’s Office is seeking help from the public in locating 47-year-old Michael Paul Scholes, who was reported missing on Sept. 15.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Local students make honor roll at Oregon State University]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/9a303344-57c6-11ee-aa74-b3c94a968980</id>

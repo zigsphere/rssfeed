@@ -504,6 +504,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/caf9fcf4-5a68-11ee-9acf-0fd104c7b8fe",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — The Douglas County Sheriff’s Office is seeking help from the public in locating 47-year-old Michael Paul Scholes, who was reported missing on Sept. 15.",
+          "link": "https://www.nrtoday.com/briefs/dcso-seeks-assistance-in-locating-michael-paul-scholes/article_caf9fcf4-5a68-11ee-9acf-0fd104c7b8fe.html",
+          "publishedOn": "2023-09-23T23:27:00.000Z",
+          "wordCount": 13238,
+          "title": "DCSO seeks assistance in locating Michael Paul Scholes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/08/4088b8ce-5a6a-11ee-9606-b3fcb621f2e7/650f76e113bdf.image.jpg?resize=300%2C401",
+            "length": "192157",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/08/4088b8ce-5a6a-11ee-9606-b3fcb621f2e7/650f76e113bdf.image.jpg?resize=300%2C401"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9a303344-57c6-11ee-aa74-b3c94a968980",
           "author": "SANNE GODFREY The News-Review",
           "description": "CORVALLIS – A total of 3,385 students earned a B-plus (3.5) or better to make the scholastic honor roll for summer 2023 at Oregon State University.",
