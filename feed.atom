@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-25T13:12:29.141Z</updated>
+    <updated>2023-09-25T16:11:53.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.25.23]]></title>
+        <id>https://kqennewsradio.com/?p=110611</id>
+        <link href="https://kqennewsradio.com/2023/09/25/morning-conversation-9-25-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-25-23"/>
+        <updated>2023-09-25T16:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Jerry Flores with the State of Oregon Employment Department talks about the Southern Oregon Trade Careers Expo happening Tuesday at Seven Feathers Convention Center in Canyonville.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLOOD WATCH IN EFFECT THROUGH 11:00 P.M. MONDAY EVENING]]></title>
         <id>https://kqennewsradio.com/?p=110607</id>
@@ -474,16 +484,6 @@
         <summary type="html"><![CDATA[September 22, 2023 3:00 a.m.  Adapt Integrated Health Care, Thrive Umpqua and a number of community partners are hosting the Recovery Road 5K run through Stewart Park in Roseburg on Saturday, September 30th. The event aims to recognize those who are in recovery and support those taking steps toward it. The day kicks off with...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K9s in the Grapevines returns to Melrose Vineyards on Saturday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/214489b8-5801-11ee-aaec-0f29eb63e8ae</id>
-        <link href="https://www.nrtoday.com/news/local/k9s-in-the-grapevines-returns-to-melrose-vineyards-on-saturday/article_214489b8-5801-11ee-aaec-0f29eb63e8ae.html"/>
-        <updated>2023-09-22T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[MELROSE — Melrose Vineyards will be hosting the K9s in the Grapevines fundraising event from 3-6:30 p.m. Saturday for police K-9 units and their handlers who serve the local community.]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
         </author>
     </entry>
 </feed>
