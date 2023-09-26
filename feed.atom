@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-26T19:07:27.381Z</updated>
+    <updated>2023-09-26T23:08:35.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.26.23]]></title>
+        <id>https://kqennewsradio.com/?p=110677</id>
+        <link href="https://kqennewsradio.com/2023/09/26/inside-douglas-county-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-26-23"/>
+        <updated>2023-09-26T20:15:57.000Z</updated>
+        <summary type="html"><![CDATA[YMCA of Douglas County Executive Director Steven Stanfield talks about a new indoor/activity area that is about to open and provides a fall update on things happening with the local YMCA.  Click here to download for later listening:  IDC 9 26 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRIVER TAKING TO SOBERING CENTER AFTER SINGLE VEHICLE ACCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=110673</id>
