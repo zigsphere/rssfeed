@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-26T13:12:26.945Z</updated>
+    <updated>2023-09-26T16:11:39.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.26.23]]></title>
+        <id>https://kqennewsradio.com/?p=110657</id>
+        <link href="https://kqennewsradio.com/2023/09/26/morning-conversation-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-26-23"/>
+        <updated>2023-09-26T16:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Forest Protective Association Public Information Officer Rachel Pope has an update on fire season. Click here to download for later listening:  830 9 26 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volunteers sought for Make a Difference Day]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5a076904-57c6-11ee-9adf-5b8379bd8d4d</id>
+        <link href="https://www.nrtoday.com/news/local/volunteers-sought-for-make-a-difference-day/article_5a076904-57c6-11ee-9adf-5b8379bd8d4d.html"/>
+        <updated>2023-09-26T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — Organizers are seeking volunteers for Make a Difference Day on Oct. 28.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Baird appointed to Water Professionals International board]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/776c327a-5bbf-11ee-a218-27c33014747a</id>
+        <link href="https://www.nrtoday.com/news/environment/jim-baird-appointed-to-water-professionals-international-board/article_776c327a-5bbf-11ee-a218-27c33014747a.html"/>
+        <updated>2023-09-26T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — James V. Baird, general manager of Roseburg Urban Sanitary Authority, was appointed to a 3-year term on the Water Professionals International board of directors by the Water Environment Federation board.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilight Walk in the Woods on Oct. 5]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/efa647ae-58b2-11ee-af6b-87919fafccea</id>
+        <link href="https://www.nrtoday.com/briefs/twilight-walk-in-the-woods-on-oct-5/article_efa647ae-58b2-11ee-af6b-87919fafccea.html"/>
+        <updated>2023-09-26T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Small Woodlands Association is hosting a Twilight Walk in the Woods Tour and Potluck from 5-7:30 p.m. Oct. 5 at 4905 Scotts Valley Road in Yoncalla.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winston celebrates incorporation anniversary with cake]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/341f9720-5bf4-11ee-b7cc-1b925abb22eb</id>

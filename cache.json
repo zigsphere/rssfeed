@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110657",
+          "author": "Kyle Bailey",
+          "description": "Douglas Forest Protective Association Public Information Officer Rachel Pope has an update on fire season. Click here to download for later listening:  830 9 26 23",
+          "link": "https://kqennewsradio.com/2023/09/26/morning-conversation-9-26-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-26-23",
+          "publishedOn": "2023-09-26T16:02:50.000Z",
+          "wordCount": 1476,
+          "title": "MORNING CONVERSATION 9.26.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230926145010/830-9-26-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230926150211/IMG_2992.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110654",
           "author": "Kyle Bailey",
           "description": "September 26, 2023 4:00 a.m. Roseburg had record breaking rainfall for the date on Monday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport received 0.75 inches of rain between 1:00 a.m. Monday and 1:00 a.m. Tuesday. That is registered with daylight savings time. The...",
@@ -333,6 +348,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a076904-57c6-11ee-9adf-5b8379bd8d4d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — Organizers are seeking volunteers for Make a Difference Day on Oct. 28.",
+          "link": "https://www.nrtoday.com/news/local/volunteers-sought-for-make-a-difference-day/article_5a076904-57c6-11ee-9adf-5b8379bd8d4d.html",
+          "publishedOn": "2023-09-26T14:59:00.000Z",
+          "wordCount": 13043,
+          "title": "Volunteers sought for Make a Difference Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/776c327a-5bbf-11ee-a218-27c33014747a",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — James V. Baird, general manager of Roseburg Urban Sanitary Authority, was appointed to a 3-year term on the Water Professionals International board of directors by the Water Environment Federation board.",
+          "link": "https://www.nrtoday.com/news/environment/jim-baird-appointed-to-water-professionals-international-board/article_776c327a-5bbf-11ee-a218-27c33014747a.html",
+          "publishedOn": "2023-09-26T14:15:00.000Z",
+          "wordCount": 13064,
+          "title": "Jim Baird appointed to Water Professionals International board",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/efa647ae-58b2-11ee-af6b-87919fafccea",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Douglas Small Woodlands Association is hosting a Twilight Walk in the Woods Tour and Potluck from 5-7:30 p.m. Oct. 5 at 4905 Scotts Valley Road in Yoncalla.",
+          "link": "https://www.nrtoday.com/briefs/twilight-walk-in-the-woods-on-oct-5/article_efa647ae-58b2-11ee-af6b-87919fafccea.html",
+          "publishedOn": "2023-09-26T13:30:00.000Z",
+          "wordCount": 13152,
+          "title": "Twilight Walk in the Woods on Oct. 5",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/341f9720-5bf4-11ee-b7cc-1b925abb22eb",
           "author": "GLORIA COLEMAN The News-Review",
