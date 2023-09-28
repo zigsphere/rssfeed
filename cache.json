@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110765",
+          "author": "Kyle Bailey",
+          "description": "Organizer Jennifer Coalwell talks about Make a Difference Day- Douglas County, which is coming up October 28th:  830 9 28 23",
+          "link": "https://kqennewsradio.com/2023/09/28/morning-conversation-9-28-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-28-23",
+          "publishedOn": "2023-09-28T16:01:31.000Z",
+          "wordCount": 1475,
+          "title": "MORNING CONVERSATION 9.28.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230928145033/830-9-28-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230928150208/IMG_3004.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110759",
           "author": "Kyle Bailey",
           "description": "September 28, 2023 4:00 a.m.  Mercy Foundation’s Up2UsNow Child Abuse Prevention Coalition and Douglas County Human Trafficking Task Force are hosting “Challenge of the Heroes” Thursday night at a number of participating restaurants throughout Douglas County. Law enforcement, fire fighters, EMTS, and the Army National Guard are challenging each other to earn the most tips...",
@@ -628,6 +643,86 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d7530d6a-5cc5-11ee-a91f-93c759bbd4a8",
+          "author": "Scott Carroll The News-Review",
+          "description": "It’s a pleasant, sunny Wednesday morning, and Officer Josh Chavez was leading a crew cleaning up a homeless camp along the South Umpqua River, just west of Micelli Park.",
+          "link": "https://www.nrtoday.com/news/mixed-results-of-camping-ordinance/article_d7530d6a-5cc5-11ee-a91f-93c759bbd4a8.html",
+          "publishedOn": "2023-09-28T15:00:00.000Z",
+          "wordCount": 14903,
+          "title": "Mixed results of camping ordinance",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b8/1b8b6536-5d5c-11ee-9dfc-5ba31dcea188/651467a389ec3.image.jpg?resize=300%2C200",
+            "length": "889184",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b8/1b8b6536-5d5c-11ee-9dfc-5ba31dcea188/651467a389ec3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c7c34174-58d5-11ee-8447-2783bd29faaf",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — Jean Bechtel School for Music was officially recognized and registered as an examination center by Trinity College of London — a global leader in music, arts and language education.",
+          "link": "https://www.nrtoday.com/briefs/jean-bechtel-school-achieves-prestigious-status/article_c7c34174-58d5-11ee-8447-2783bd29faaf.html",
+          "publishedOn": "2023-09-28T14:45:00.000Z",
+          "wordCount": 13110,
+          "title": "Jean Bechtel School achieves prestigious status",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e64f8ae8-5985-11ee-8329-130e07d7ea6a",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — The Umpqua Symphony is hosting Take3, a rock-infused classical music group, from 3-6 p.m. Oct. 8 at The Chapel, located at 2837 W. Harvard Ave., Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/where-rock-meets-bach-rock-infused-classical-concert/article_e64f8ae8-5985-11ee-8329-130e07d7ea6a.html",
+          "publishedOn": "2023-09-28T14:45:00.000Z",
+          "wordCount": 13086,
+          "title": "Where rock meets Bach, rock-infused classical concert",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4a8b811c-5984-11ee-ac98-174e38662e95",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "OAKLAND — Oakland Community Theater is hosting Wildfire Aid 2023, a free wildfire relief benefit concert, on Sept. 30 at Oakland City Park. The event is in support of The American Red Cross' wildfire relief efforts.",
+          "link": "https://www.nrtoday.com/briefs/wildfire-aid-2023-concert-benefit-at-oakland-city-park/article_4a8b811c-5984-11ee-ac98-174e38662e95.html",
+          "publishedOn": "2023-09-28T14:45:00.000Z",
+          "wordCount": 13087,
+          "title": "Wildfire Aid 2023 concert benefit at Oakland City Park",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3580e762-5beb-11ee-8988-1774f1b3bca8",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Milo Anderson can see decades of change when he looks in the mirror. He sees changes in himself like a gray beard or the way his joints move — but more notably, he sees 40 years of everlasting dedication to…",
+          "link": "https://www.nrtoday.com/news/side-hustle-turned-to-40-years-of-business-oregon-tool-and-supply/article_3580e762-5beb-11ee-8988-1774f1b3bca8.html",
+          "publishedOn": "2023-09-28T14:45:00.000Z",
+          "wordCount": 14001,
+          "title": "Side hustle turned to 40 years of business: Oregon Tool and Supply",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/35/e35f1a16-5d85-11ee-ae79-5b731635ba9f/6514adbc2c67b.image.jpg?resize=300%2C200",
+            "length": "528930",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/35/e35f1a16-5d85-11ee-ae79-5b731635ba9f/6514adbc2c67b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e0bf34d0-5d62-11ee-8fa5-33ecfd6ad69d",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Sierra Sioux Jennings, 29, was scheduled to set trial dates and review a bail motion Wednesday. Due to charges of second-degree murder, the bail motion hearing was postponed for a full-day hearing tentatively scheduled for Oct. 18.",
+          "link": "https://www.nrtoday.com/news/jennings-pretrial-release-in-second-degree-murder-postponed/article_e0bf34d0-5d62-11ee-8fa5-33ecfd6ad69d.html",
+          "publishedOn": "2023-09-28T14:45:00.000Z",
+          "wordCount": 13684,
+          "title": "Jennings pretrial release in second-degree murder postponed",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cb91d78a-5d89-11ee-b2fb-1769fd2c2d1b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Umpqua District FFA hosted its Biannual Leadership Conference over three days at the Douglas County Fairgrounds this week.",
+          "link": "https://www.nrtoday.com/news/local/umpqua-ffa-teaches-children-to-lead-in-conference/article_cb91d78a-5d89-11ee-b2fb-1769fd2c2d1b.html",
+          "publishedOn": "2023-09-28T14:15:00.000Z",
+          "wordCount": 13604,
+          "title": "Umpqua FFA teaches children to lead in conference",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d2fd454e-5d8f-11ee-aaeb-fb61303ac91c",
           "author": "Kyle Bailey For The News-Review",
