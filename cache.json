@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=110813",
+          "author": "Kyle Bailey",
+          "description": "Adapt Integrated Health Care Director of Communications Grey Garris talks about the Recovery Road 5K run and event happening on Saturday at Stewart Park in Roseburg.",
+          "link": "https://kqennewsradio.com/2023/09/29/morning-conversation-9-29-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-29-23",
+          "publishedOn": "2023-09-29T16:05:51.000Z",
+          "wordCount": 1484,
+          "title": "MORNING CONVERSATION 9.29.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230929150315/830-9-29-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230929150645/IMG_3007.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=110809",
           "author": "Kyle Bailey",
           "description": "September 29, 2023 4:15 a.m. Closure Orders remain in place for areas of the Rogue River Siskiyou National Forest for the Anvil, Flat and Smith River Complex fires. A Forest Service release said recent precipitation across the forest allowed for the lifting of Public Use Restrictions, which allows campfires on areas of the forest that...",
@@ -638,6 +653,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/45553338-5e3d-11ee-bc25-978639f5f575",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "DOUGLAS COUNTY — Smoke is to be expected in Douglas County as the Douglas Forest Protective Association work to complete prescribed burns. They may be conducted on fields, pastures and hillsides to improve habitat for wildlife, removing brush, insects, plant…",
+          "link": "https://www.nrtoday.com/briefs/prescribed-pasture-burns-and-burn-permits-for-douglas-county/article_45553338-5e3d-11ee-bc25-978639f5f575.html",
+          "publishedOn": "2023-09-29T14:45:00.000Z",
+          "wordCount": 13242,
+          "title": "Prescribed pasture burns and burn permits for Douglas County",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/02e80920-5beb-11ee-a96c-ff724ec8d5d9",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Kandi Kirby, 52, discovered a lump on her breast in July 2021, but from the mammogram, they deemed it a benign cyst. Five months later, the pain in her armpit was still prevalent.",
+          "link": "https://www.nrtoday.com/news/pink-premier-kandi-kibry-to-model-at-23rd-annual-tea-and-fashion-show/article_02e80920-5beb-11ee-a96c-ff724ec8d5d9.html",
+          "publishedOn": "2023-09-29T14:45:00.000Z",
+          "wordCount": 14029,
+          "title": "Pink Premier: Kandi Kibry to model at 23rd Annual Tea and Fashion Show",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/21/521a41bc-5ed3-11ee-a201-276e61ddefd6/63459b03aad51.image.jpg?resize=300%2C200",
+            "length": "251130",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/21/521a41bc-5ed3-11ee-a201-276e61ddefd6/63459b03aad51.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/25f23986-5beb-11ee-9f62-2f2385fdedd1",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Was it a bird, was it a plane, was it Superman? No, it was your local heroes raising money for programs in Douglas County.",
+          "link": "https://www.nrtoday.com/news/protect-and-serve-challenge-of-the-heroes-raises-funds-for-child-abuse-human-trafficking-prevention/article_25f23986-5beb-11ee-9f62-2f2385fdedd1.html",
+          "publishedOn": "2023-09-29T14:45:00.000Z",
+          "wordCount": 14237,
+          "title": "Protect and serve: Challenge of the Heroes raises funds for child abuse, human trafficking prevention",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b5/bb528f34-5e76-11ee-b86a-eb6a4ecb590e/651641cdab77c.image.jpg?resize=300%2C200",
+            "length": "290540",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b5/bb528f34-5e76-11ee-b86a-eb6a4ecb590e/651641cdab77c.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d7530d6a-5cc5-11ee-a91f-93c759bbd4a8",
           "author": "Scott Carroll The News-Review",

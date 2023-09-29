@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-29T13:11:11.946Z</updated>
+    <updated>2023-09-29T16:11:05.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.29.23]]></title>
+        <id>https://kqennewsradio.com/?p=110813</id>
+        <link href="https://kqennewsradio.com/2023/09/29/morning-conversation-9-29-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-29-23"/>
+        <updated>2023-09-29T16:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Adapt Integrated Health Care Director of Communications Grey Garris talks about the Recovery Road 5K run and event happening on Saturday at Stewart Park in Roseburg.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prescribed pasture burns and burn permits for Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/45553338-5e3d-11ee-bc25-978639f5f575</id>
+        <link href="https://www.nrtoday.com/briefs/prescribed-pasture-burns-and-burn-permits-for-douglas-county/article_45553338-5e3d-11ee-bc25-978639f5f575.html"/>
+        <updated>2023-09-29T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — Smoke is to be expected in Douglas County as the Douglas Forest Protective Association work to complete prescribed burns. They may be conducted on fields, pastures and hillsides to improve habitat for wildlife, removing brush, insects, plant…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pink Premier: Kandi Kibry to model at 23rd Annual Tea and Fashion Show]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/02e80920-5beb-11ee-a96c-ff724ec8d5d9</id>
+        <link href="https://www.nrtoday.com/news/pink-premier-kandi-kibry-to-model-at-23rd-annual-tea-and-fashion-show/article_02e80920-5beb-11ee-a96c-ff724ec8d5d9.html"/>
+        <updated>2023-09-29T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Kandi Kirby, 52, discovered a lump on her breast in July 2021, but from the mammogram, they deemed it a benign cyst. Five months later, the pain in her armpit was still prevalent.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protect and serve: Challenge of the Heroes raises funds for child abuse, human trafficking prevention]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/25f23986-5beb-11ee-9f62-2f2385fdedd1</id>
+        <link href="https://www.nrtoday.com/news/protect-and-serve-challenge-of-the-heroes-raises-funds-for-child-abuse-human-trafficking-prevention/article_25f23986-5beb-11ee-9f62-2f2385fdedd1.html"/>
+        <updated>2023-09-29T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Was it a bird, was it a plane, was it Superman? No, it was your local heroes raising money for programs in Douglas County.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AREA AND ROAD CLOSURES ARE STILL IN EFFECT- ANVIL, FLAT AND SMITH RIVER COMPLEX]]></title>
         <id>https://kqennewsradio.com/?p=110809</id>
