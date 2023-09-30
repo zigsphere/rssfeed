@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-30T19:06:34.567Z</updated>
+    <updated>2023-09-30T23:07:52.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Director of Every Child Douglas County arrested for alleged embezzlement]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f5ee3a3a-5fb1-11ee-9617-eb1b9789f402</id>
+        <link href="https://www.nrtoday.com/news/director-of-every-child-douglas-county-arrested-for-alleged-embezzlement/article_f5ee3a3a-5fb1-11ee-9617-eb1b9789f402.html"/>
+        <updated>2023-09-30T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Megan Christine Streilein, director of Every Child Douglas County, was arrested around 9:30 a.m. Thursday on charges of first-degree aggravated theft, two counts of fraudulent use of a credit card, computer crime and first-degree theft. She was conditionally released on…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fall youth programs at Roseburg Public Library]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/3ff22ae4-5f01-11ee-ac30-2746648de6b4</id>
@@ -742,66 +752,6 @@ Dinner: S...]]></summary>
         <summary type="html"><![CDATA[OAKLAND — A Sip & Savor fundraiser will be held 1-5p.m. Oct. 21 at the Secret Wine Society, 110 SE First St., Oakland.]]></summary>
         <author>
             <name>ERICA REYNOLDS The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBLIC USE RESTRICTIONS LIFTED ACROSS THE ROGUE RIVER-SISKIYOU NATIONAL FOREST]]></title>
-        <id>https://kqennewsradio.com/?p=110706</id>
-        <link href="https://kqennewsradio.com/2023/09/27/public-use-restrictions-lifted-across-the-rogue-river-siskiyou-national-forest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=public-use-restrictions-lifted-across-the-rogue-river-siskiyou-national-forest"/>
-        <updated>2023-09-27T11:01:43.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 4:00 a.m. Recent rains and lower temperatures across the Rogue River-Siskiyou National Forest have prompted the lifting of all Public Use Restrictions on the forest as well as on the Wild and Scenic area of the Rogue River. A Forest Service release said the forest has moved to “moderate” on all five...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HELFRICH SELECTED AS NEW GOP CAUCUS LEADER]]></title>
-        <id>https://kqennewsradio.com/?p=110703</id>
-        <link href="https://kqennewsradio.com/2023/09/27/helfrich-selected-as-new-gop-caucus-leader/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=helfrich-selected-as-new-gop-caucus-leader"/>
-        <updated>2023-09-27T10:49:57.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 3:45 a.m. Tuesday evening, Representative Jeff Helfrich of Hood River was selected by House Republicans to serve as their new Leader. A release from the Oregon House Republican Caucus said also elected to the leadership team were Representative Mark Owens of Crane as Deputy Leader and Kim Wallan of Medford as Whip....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIFE SAFARI RAISES OVER $174,000 FOR RHINO BOMA EXPANSION]]></title>
-        <id>https://kqennewsradio.com/?p=110697</id>
-        <link href="https://kqennewsradio.com/2023/09/27/wildlife-safari-raises-over-174000-for-rhino-boma-expansion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlife-safari-raises-over-174000-for-rhino-boma-expansion"/>
-        <updated>2023-09-27T10:25:42.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 3:20 a.m. Wildlife Safari is announcing that its annual Benefit Dinner and Auction, held on September 8th, exceeded all expectations, raising over $174,000 for the Rhino Boma Expansion project. Marketing Director Michael Burns said the project is a vital step in safeguarding the future of these creatures. Burns said the expansion...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA FLY TYING & CASTING FESTIVAL OCTOBER 21ST]]></title>
-        <id>https://kqennewsradio.com/?p=110693</id>
-        <link href="https://kqennewsradio.com/2023/09/27/umpqua-fly-tying-casting-festival-october-21st/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-fly-tying-casting-festival-october-21st"/>
-        <updated>2023-09-27T10:17:07.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 3:15 a.m.  Fly Fishing Veterans and Umpqua Valley Fly Fishers will have their Umpqua Fly Tying & Casting Festival fundraiser on Saturday October 21st at the Douglas County Fairgrounds. Dale Cranford has more: “Dale” Q: News Radio 93-9 FM and 1240 KQEN Fly Fishing Veterans Director Doug Myers said fly tyers are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAYS CREEK WOMAN TAKEN TO HOSPITAL AFTER SINGLE VEHICLE ACCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=110691</id>
-        <link href="https://kqennewsradio.com/2023/09/27/days-creek-woman-taken-to-hospital-after-single-vehicle-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=days-creek-woman-taken-to-hospital-after-single-vehicle-accident"/>
-        <updated>2023-09-27T10:01:25.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 3:00 a.m. A Days Creek woman was taken to the hospital after a single vehicle accident Monday afternoon. A Douglas County Sheriff’s Office report said just after 2:00 p.m. the 24-year old was driving west in the 20000 block of Tiller Trail Road in the Days Creek area. A family member was...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOMAN CITED FOR CARELESS DRIVING FOLLOWING WRECK]]></title>
-        <id>https://kqennewsradio.com/?p=110689</id>
-        <link href="https://kqennewsradio.com/2023/09/27/woman-cited-for-careless-driving-following-wreck-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=woman-cited-for-careless-driving-following-wreck-2"/>
-        <updated>2023-09-27T09:57:40.000Z</updated>
-        <summary type="html"><![CDATA[September 27, 2023 2:50 a.m. A Riddle woman was cited for careless driving the by Douglas County Sheriff’s Office following a two-vehicle wreck on Monday. A DCSO report said at 8:05 a.m. the 41-year was driving her kids to school and was in the 400 block of Park Street in Riddle. The woman turned around...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
