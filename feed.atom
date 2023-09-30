@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-30T13:09:01.458Z</updated>
+    <updated>2023-09-30T16:09:49.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fall youth programs at Roseburg Public Library]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3ff22ae4-5f01-11ee-ac30-2746648de6b4</id>
+        <link href="https://www.nrtoday.com/news/education/fall-youth-programs-at-roseburg-public-library/article_3ff22ae4-5f01-11ee-ac30-2746648de6b4.html"/>
+        <updated>2023-09-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library will be hopping this fall with a variety of programs especially for youth.]]></summary>
+        <author>
+            <name>AURORA ROPP AND KRIS WILEY For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Library adds Thursday evening hours]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5703bbec-5e3b-11ee-bfae-733e20659406</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-library-adds-thursday-evening-hours/article_5703bbec-5e3b-11ee-bfae-733e20659406.html"/>
+        <updated>2023-09-30T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I am excited to announce that Roseburg Public Library is extending our operating hours on Thursdays.]]></summary>
+        <author>
+            <name>Kris Wiley for The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg District BLM to hear public to improve recreation sites]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/aaec375c-5f0d-11ee-b229-ab242992cddd</id>
+        <link href="https://www.nrtoday.com/news/environment/roseburg-district-blm-to-hear-public-to-improve-recreation-sites/article_aaec375c-5f0d-11ee-b229-ab242992cddd.html"/>
+        <updated>2023-09-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bureau of Land Management intends to restore and improve recreation areas that were devastated by the 2020 Archie Creek Fire and is seeking the public’s feedback on project proposals.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini mountains]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/00191f3c-5e4c-11ee-879c-230f297e4eb7</id>
+        <link href="https://www.nrtoday.com/news/environment/mini-mountains/article_00191f3c-5e4c-11ee-879c-230f297e4eb7.html"/>
+        <updated>2023-09-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[You have never heard of Cowhorn Mountain? Neither have most people.]]></summary>
+        <author>
+            <name>CAROL LOVEGREN MILLER For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLM EMERGENCY CLOSURE LIFTED NEAR THE TYEE FIRE]]></title>
+        <id>https://kqennewsradio.com/?p=110839</id>
+        <link href="https://kqennewsradio.com/2023/09/30/blm-emergency-closure-lifted-near-the-tyee-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=blm-emergency-closure-lifted-near-the-tyee-fire"/>
+        <updated>2023-09-30T13:38:51.000Z</updated>
+        <summary type="html"><![CDATA[September 30, 2023 6:30 a.m.  The Bureau of Land Management has lifted the emergency closure associated with the Tyee fire on lands administered by the BLM Roseburg District. Swiftwater Field Manager Michael Korn said, “We ask that the public be cautious and watch for fire vehicle activity on roadways”. Korn said removing this closure will...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR ORDERS FLAGS LOWERED TO HALF-STAFF IN REMEMBRANCE OF SENATOR FEINSTEIN]]></title>
         <id>https://kqennewsradio.com/?p=110837</id>
@@ -772,116 +822,6 @@ Total personnel: 240 | Resources: 7 engines and 3 crews
 Northwest Team 13 as...]]></summary>
         <author>
             <name>News For Umpqua National Forest</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 9.26.23]]></title>
-        <id>https://kqennewsradio.com/?p=110686</id>
-        <link href="https://kqennewsradio.com/2023/09/26/true-wealth-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-9-26-23"/>
-        <updated>2023-09-27T00:06:14.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial: David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 9 26 2023]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR SETS VISION FOR EARLY LITERACY EDUCATOR PREP COUNCIL]]></title>
-        <id>https://kqennewsradio.com/?p=110684</id>
-        <link href="https://kqennewsradio.com/2023/09/26/governor-sets-vision-for-early-literacy-educator-prep-council/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-sets-vision-for-early-literacy-educator-prep-council"/>
-        <updated>2023-09-26T23:34:11.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 4:30 p.m.  On Monday, Governor Tina Kotek joined the first meeting of the Early Literacy Educator Prep Council to set her vision for the work ahead, which is aimed at raising the bar on elementary educator preparation for reading and writing instruction. Kotek said, “There is no question that our reading proficiency...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.26.23]]></title>
-        <id>https://kqennewsradio.com/?p=110677</id>
-        <link href="https://kqennewsradio.com/2023/09/26/inside-douglas-county-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-26-23"/>
-        <updated>2023-09-26T20:15:57.000Z</updated>
-        <summary type="html"><![CDATA[YMCA of Douglas County Executive Director Steven Stanfield talks about a new indoor/activity area that is about to open and provides a fall update on things happening with the local YMCA.  Click here to download for later listening:  IDC 9 26 23]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIVER TAKING TO SOBERING CENTER AFTER SINGLE VEHICLE ACCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=110673</id>
-        <link href="https://kqennewsradio.com/2023/09/26/driver-taking-to-sobering-center-after-single-vehicle-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-taking-to-sobering-center-after-single-vehicle-accident"/>
-        <updated>2023-09-26T17:50:36.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 10:50 a.m.  One driver was taken to the Roseburg Sobering Center after a single vehicle accident Sunday night. An Oregon State Police report said at 7:30 p.m. an SUV went off Highway 138E eastbound about a half mile east of the Boulder Flat campground and two miles west of Soda Springs Road....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE DRIVER TAKEN TO HOSPITAL AFTER FREEWAY WRECK]]></title>
-        <id>https://kqennewsradio.com/?p=110671</id>
-        <link href="https://kqennewsradio.com/2023/09/26/one-driver-taken-to-hospital-after-freeway-wreck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-driver-taken-to-hospital-after-freeway-wreck"/>
-        <updated>2023-09-26T17:32:17.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 10:30 a.m.  One driver was taken to the hospital after a freeway wreck on Monday. An Oregon State Police report said at 1:30 p.m. the driver of a sedan lost control of their vehicle while traveling southbound on Interstate 5 near the Harvard Avenue interchange onramp. The sedan hit the center median,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWO JAILED FOR LITTERING NEAR WATERS]]></title>
-        <id>https://kqennewsradio.com/?p=110669</id>
-        <link href="https://kqennewsradio.com/2023/09/26/two-jailed-for-littering-near-waters/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-jailed-for-littering-near-waters"/>
-        <updated>2023-09-26T17:19:57.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 10:20 a.m.  Roseburg Police jailed two people for littering within 100 feet of waterways on Monday. An RPD report said at 12:00 p.m. officers responded to Stewart Park on Northwest Stewart Park Drive and contacted a 34-year old man and a 36-year woman at their camp. One of their dogs was off...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG WOMAN TAKEN TO HOSPITAL AFTER SINGLE-VEHICLE WRECK]]></title>
-        <id>https://kqennewsradio.com/?p=110667</id>
-        <link href="https://kqennewsradio.com/2023/09/26/roseburg-woman-taken-to-hospital-after-single-vehicle-wreck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-woman-taken-to-hospital-after-single-vehicle-wreck"/>
-        <updated>2023-09-26T17:01:58.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 10:00 a.m. A Roseburg woman was taken to the hospital after a single vehicle wreck Monday afternoon. A Roseburg Police report said at 2:30 p.m. the 32-year old was fighting with her passenger and accelerated uncontrolled through the parking lot of a business in the 700 block of Northeast Garden Valley Boulevard....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED CRIMINAL TRESPASS]]></title>
-        <id>https://kqennewsradio.com/?p=110665</id>
-        <link href="https://kqennewsradio.com/2023/09/26/roseburg-police-jail-man-for-alleged-criminal-trespass-7/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-alleged-criminal-trespass-7"/>
-        <updated>2023-09-26T16:50:23.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 9:45 a.m.  Roseburg Police jailed a man for alleged criminal trespass on Monday evening. An RPD report said at 5:45 p.m. the 37-year old was allegedly found at a business in the 400 block of Northeast Stephens Street after previously being told not to there. He was charged with second-degree criminal trespass...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CHARGE MAN AFTER OVERNIGHT TRAFFIC STOP]]></title>
-        <id>https://kqennewsradio.com/?p=110663</id>
-        <link href="https://kqennewsradio.com/2023/09/26/roseburg-police-charge-man-after-overnight-traffic-stop/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-charge-man-after-overnight-traffic-stop"/>
-        <updated>2023-09-26T16:38:58.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 9:30 a.m. Roseburg Police charged a man after an overnight traffic stop early Tuesday. An RPD report said at 1:15 a.m. officers watched 19-year old Derrick Moss allegedly do burnouts with his vehicle in the parking lot of a business in the 2000 block of Northeast Diamond Lake Boulevard. Moss reportedly left...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE ARREST MAN INSIDE SCHOOL DISTRICT OFFICE]]></title>
-        <id>https://kqennewsradio.com/?p=110661</id>
-        <link href="https://kqennewsradio.com/2023/09/26/roseburg-police-arrest-man-inside-school-district-office/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-arrest-man-inside-school-district-office"/>
-        <updated>2023-09-26T16:24:08.000Z</updated>
-        <summary type="html"><![CDATA[September 26, 2023 9:20 a.m. Roseburg Police arrested a man inside the Roseburg School District office early Tuesday morning. An RPD report said at 5:20 a.m. officers responded to an alarm at the building in the 1400 block of Northwest Valley View Drive. 59-year old Stephan Thill was allegedly located inside. He had reportedly gotten...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 9.26.23]]></title>
-        <id>https://kqennewsradio.com/?p=110657</id>
-        <link href="https://kqennewsradio.com/2023/09/26/morning-conversation-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-26-23"/>
-        <updated>2023-09-26T16:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Douglas Forest Protective Association Public Information Officer Rachel Pope has an update on fire season. Click here to download for later listening:  830 9 26 23]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
