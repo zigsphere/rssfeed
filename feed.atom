@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-09-29T23:08:26.529Z</updated>
+    <updated>2023-09-30T02:13:50.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -224,6 +224,34 @@
         <summary type="html"><![CDATA[September 29, 2023 3:00 a.m. Congresswoman Val Hoyle successfully helped to pass the Protecting Our Hunting Heritage and Education Act in the U.S. House of Representatives. Earlier this month, Hoyle sent a letter urging the House Education and Workforce Committee and the House Appropriations Committee to pass the bipartisan legislation to clarify that federal funding...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua National Forest Seeks Resource Advisory Committee Members]]></title>
+        <id>https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141248</id>
+        <link href="https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141248"/>
+        <updated>2023-09-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua National Forest is seeking applicants to fill 15 positions on the Rogue-Umpqua Resource Advisory Committee %3ARAC%3A. As reauthorized under the Secure Rural Schools and Community Self-Determination...]]></summary>
+        <author>
+            <name>News For Umpqua National Forest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Fire Update 9.29.23]]></title>
+        <id>https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141138</id>
+        <link href="https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141138"/>
+        <updated>2023-09-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[September 29, 2023
+
+Daily Update
+
+Dinner, Grizzly, Brice Creek, Chilcoot and Ridge Fires
+
+Total personnel: 201 | Resources: 7 engines, 3 crews, and 3 helicopters
+
+Dinner: S...]]></summary>
+        <author>
+            <name>News For Umpqua National Forest</name>
         </author>
     </entry>
     <entry>
@@ -727,6 +755,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[All Fire Update 9.27.23]]></title>
+        <id>https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141137</id>
+        <link href="https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1141137"/>
+        <updated>2023-09-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[September 27, 2023
+
+Daily Update
+
+Dinner, Grizzly, Brice Creek, Chilcoot and Ridge Fires
+
+Total personnel: 240 | Resources: 7 engines and 3 crews
+
+ 
+
+Northwest Team 13 as...]]></summary>
+        <author>
+            <name>News For Umpqua National Forest</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TRUE WEALTH 9.26.23]]></title>
         <id>https://kqennewsradio.com/?p=110686</id>
         <link href="https://kqennewsradio.com/2023/09/26/true-wealth-9-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-9-26-23"/>
@@ -874,26 +922,6 @@
         <summary type="html"><![CDATA[ROSEBURG — James V. Baird, general manager of Roseburg Urban Sanitary Authority, was appointed to a 3-year term on the Water Professionals International board of directors by the Water Environment Federation board.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilight Walk in the Woods on Oct. 5]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/efa647ae-58b2-11ee-af6b-87919fafccea</id>
-        <link href="https://www.nrtoday.com/briefs/twilight-walk-in-the-woods-on-oct-5/article_efa647ae-58b2-11ee-af6b-87919fafccea.html"/>
-        <updated>2023-09-26T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas Small Woodlands Association is hosting a Twilight Walk in the Woods Tour and Potluck from 5-7:30 p.m. Oct. 5 at 4905 Scotts Valley Road in Yoncalla.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winston celebrates incorporation anniversary with cake]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/341f9720-5bf4-11ee-b7cc-1b925abb22eb</id>
-        <link href="https://www.nrtoday.com/news/government/winston-celebrates-incorporation-anniversary-with-cake/article_341f9720-5bf4-11ee-b7cc-1b925abb22eb.html"/>
-        <updated>2023-09-26T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — The City Council room in Winston’s City Hall was decorated with streamers, tables, paper plates, forks and cake to celebrate the town’s birthday in appropriate fashion.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
