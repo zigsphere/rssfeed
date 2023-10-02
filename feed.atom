@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-02T13:12:23.385Z</updated>
+    <updated>2023-10-02T16:11:40.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.2.23]]></title>
+        <id>https://kqennewsradio.com/?p=110867</id>
+        <link href="https://kqennewsradio.com/2023/10/02/morning-conversation-10-2-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-2-23"/>
+        <updated>2023-10-02T16:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Doug Myers talks about the Umpqua Fly Ying & Casting Festival fundraiser happening Saturday October 21st at the Douglas County Fairgrounds]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEACH HAZARDS STATEMENT FOR DOUGLAS/COOS/CURRY COUNTIES]]></title>
         <id>https://kqennewsradio.com/?p=110861</id>
