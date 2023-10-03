@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-03T13:12:38.623Z</updated>
+    <updated>2023-10-03T16:12:01.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.3.23]]></title>
+        <id>https://kqennewsradio.com/?p=110912</id>
+        <link href="https://kqennewsradio.com/2023/10/03/morning-conversation-10-3-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-3-23"/>
+        <updated>2023-10-03T16:02:52.000Z</updated>
+        <summary type="html"><![CDATA[This is National Newspaper Week. The News Review Managing Editor Sanne Godfrey talks about the role of newspapers.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeding Umpqua hosts Empty Bowls Dinner]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c8d1439a-6136-11ee-96df-5b72743a9cd7</id>
+        <link href="https://www.nrtoday.com/news/local/feeding-umpqua-hosts-empty-bowls-dinner/article_c8d1439a-6136-11ee-96df-5b72743a9cd7.html"/>
+        <updated>2023-10-03T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Feeding Umpqua, a program of the United Community Action Network, will have its Empty Bowls Project Dinner Fundraiser from 5:30-7:30 p.m. Monday at the Joyce Morgan Food Distribution Center on UCAN’s campus, just north of Roseburg.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek Elks golf tournament Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2df8f1ac-6130-11ee-b741-e3ec9253e9b5</id>
+        <link href="https://www.nrtoday.com/news/education/myrtle-creek-elks-golf-tournament-saturday/article_2df8f1ac-6130-11ee-b741-e3ec9253e9b5.html"/>
+        <updated>2023-10-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — The annual Elks Scholarship Golf Tournament is scheduled to take place Saturday, with a 9 a.m. shotgun start for the four-person scramble.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuart Gray takes Roseburg Forest Product’s helm as president, CEO]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fc76bbc2-61f8-11ee-bfc4-33a6b6b2559e</id>
+        <link href="https://www.nrtoday.com/business/stuart-gray-takes-roseburg-forest-product-s-helm-as-president-ceo/article_fc76bbc2-61f8-11ee-bfc4-33a6b6b2559e.html"/>
+        <updated>2023-10-03T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Stuart Gray officially assumed the role of president and CEO of Roseburg Forest Products on Sunday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linda Jones Weber to read book at Douglas County Museum]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/522aad16-6137-11ee-9f1e-8371f6f44ea3</id>
+        <link href="https://www.nrtoday.com/a_and_e/linda-jones-weber-to-read-book-at-douglas-county-museum/article_522aad16-6137-11ee-9f1e-8371f6f44ea3.html"/>
+        <updated>2023-10-03T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The Douglas County Museum Foundation is having a fundraising event with author Linda Jones Weber from 4-6 p.m. Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG GETS OVER 4.5 INCHES LESS RAIN THAN NORMAL FOR THE RAIN YEAR]]></title>
         <id>https://kqennewsradio.com/?p=110908</id>
