@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-04T19:07:14.356Z</updated>
+    <updated>2023-10-04T23:09:13.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.4.23]]></title>
+        <id>https://kqennewsradio.com/?p=110984</id>
+        <link href="https://kqennewsradio.com/2023/10/04/inside-douglas-county-10-4-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-4-23"/>
+        <updated>2023-10-04T20:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Winston Assistant City Manager and Planning Director Thomas McIntosh talks about the recent 70th birthday of the city.  IDC 10 4 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR ALLEGED LITTERING INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=110982</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[October 4, 2023 10:00 a.m.  Roseburg Police jailed a man for a drug law charge on Tuesday night. Officers contacted the 47-year old at 8:00 p.m. after he was called in for acting suspicious in the 400 block of Northeast Hewitt Street. The man had a warrant for his arrest. Officers allegedly located a criminal...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reedsport First Friday pop-up mart returns]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/56a420e4-62da-11ee-a58b-7f4cebec655e</id>
+        <link href="https://www.nrtoday.com/news/local/reedsport-first-friday-pop-up-mart-returns/article_56a420e4-62da-11ee-a58b-7f4cebec655e.html"/>
+        <updated>2023-10-04T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — Artists and makers will line up from 5-8 p.m. Friday on the sidewalks along Highway 38, between fourth and fifth street, in Reedsport for the First Friday Pop-Up Vendor Market.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
