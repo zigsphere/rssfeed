@@ -439,6 +439,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3089f31e-6237-11ee-a1a7-63a9af41d5cb",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Most schools find eighth grade — the last grave level before the transition to high school — to be a fairly diverse grade, both in the children's personalities and teaching strategies. For Phoenix School of Roseburg, eighth grade is the…",
+          "link": "https://www.nrtoday.com/news/education/phoenix-charter-school-uses-eight-grade-as-stepping-stone-to-high-school-success/article_3089f31e-6237-11ee-a1a7-63a9af41d5cb.html",
+          "publishedOn": "2023-10-04T14:45:00.000Z",
+          "wordCount": 13601,
+          "title": "Phoenix Charter School uses eight grade as stepping stone to high school success",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5c/55c56194-6238-11ee-887a-83d513f91914/651c8f1b2d135.image.jpg?resize=300%2C200",
+            "length": "287114",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5c/55c56194-6238-11ee-887a-83d513f91914/651c8f1b2d135.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bd86ac96-6249-11ee-901a-7f34e79e3df1",
+          "author": null,
+          "description": "ROSEBURG — Roseburg Police have charged a man with 23 sex crimes.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-police-charge-man-with-23-sex-crimes/article_bd86ac96-6249-11ee-901a-7f34e79e3df1.html",
+          "publishedOn": "2023-10-04T14:30:00.000Z",
+          "wordCount": 12947,
+          "title": "Roseburg Police charge man with 23 sex crimes",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/344dd84e-6246-11ee-a18b-d7e3c4a29b6c",
+          "author": null,
+          "description": "SUTHERLIN — Umpqua Woofstock will host a Howl-O-Ween Festival from 10 a.m. to 2 p.m. Oct. 14 at Sutherlin’s Central Park.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-woofstock-to-host-howl-o-ween-festival/article_344dd84e-6246-11ee-a18b-d7e3c4a29b6c.html",
+          "publishedOn": "2023-10-04T13:45:00.000Z",
+          "wordCount": 12948,
+          "title": "Umpqua Woofstock to host Howl-O-Ween Festival",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c8d1439a-6136-11ee-96df-5b72743a9cd7",
           "author": "Kyle Bailey For The News-Review",
           "description": "ROSEBURG — Feeding Umpqua, a program of the United Community Action Network, will have its Empty Bowls Project Dinner Fundraiser from 5:30-7:30 p.m. Monday at the Joyce Morgan Food Distribution Center on UCAN’s campus, just north of Roseburg.",
