@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-05T19:07:13.146Z</updated>
+    <updated>2023-10-05T23:08:57.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.5.23]]></title>
+        <id>https://kqennewsradio.com/?p=111037</id>
+        <link href="https://kqennewsradio.com/2023/10/05/inside-douglas-county-10-5-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-5-23"/>
+        <updated>2023-10-05T20:13:40.000Z</updated>
+        <summary type="html"><![CDATA[City of Roseburg Public Works Director Dawn Easley and Parks and Recreation Program Manager Val Ligon talk about a grant awarded to help pay for a brand new outdoor tennis and pickleball facilty in Stewart Park. Click here to download for later listening:  ødG]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AUDUBON SOCIETY/LIBRARY TO HOST SEA OTTERS PROGRAM]]></title>
         <id>https://kqennewsradio.com/?p=111035</id>
@@ -794,56 +804,6 @@
         <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — Umpqua National Forest is seeking applicants to fill 15 positions on the Rogue-Umpqua Resource Advisory Committee.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEACH HAZARDS STATEMENT FOR DOUGLAS/COOS/CURRY COUNTIES]]></title>
-        <id>https://kqennewsradio.com/?p=110861</id>
-        <link href="https://kqennewsradio.com/2023/10/02/beach-hazards-statement-for-douglas-coos-curry-counties/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=beach-hazards-statement-for-douglas-coos-curry-counties"/>
-        <updated>2023-10-02T11:05:20.000Z</updated>
-        <summary type="html"><![CDATA[October 2, 2023 4:00 a.m.  The National Weather Service has issued a Beach Hazards Statement in effect from 11:00 a.m. through 8:00 p.m. Monday. Forecasters said an increased threat of sneaker waves is expected on the beaches of Douglas, Coos and Curry counties. Waves can run up significantly farther on a beach than normal, including...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$750,000 GRANT WILL HELP BREATHE NEW LIFE INTO OUTDOOR TENNIS COURTS]]></title>
-        <id>https://kqennewsradio.com/?p=110856</id>
-        <link href="https://kqennewsradio.com/2023/10/02/750000-grant-will-help-breathe-new-life-into-outdoor-tennis-courts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=750000-grant-will-help-breathe-new-life-into-outdoor-tennis-courts"/>
-        <updated>2023-10-02T10:34:02.000Z</updated>
-        <summary type="html"><![CDATA[October 2, 2023 3;35 a.m.  Roseburg will get a new outdoor tennis and pickleball facility, thanks to a $750,000 state grant awarded to Roseburg Parks and Recreation and an effort to raise matching community funds. A City of Roseburg release said the grant will fund half of a complete overhaul of tennis courts that are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLM SEEKING PUBLIC INPUT ON ROSEBURG AREA RECREATION PLANS]]></title>
-        <id>https://kqennewsradio.com/?p=110854</id>
-        <link href="https://kqennewsradio.com/2023/10/02/blm-seeking-public-input-on-roseburg-area-recreation-plans/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=blm-seeking-public-input-on-roseburg-area-recreation-plans"/>
-        <updated>2023-10-02T10:22:12.000Z</updated>
-        <summary type="html"><![CDATA[October 2, 2023 3:20 a.m.  The Bureau of Land Management is developing plans to restore and improve recreation areas along the North Umpqua River and Rock Creek. Cheyne Rossbach from the BLM said these sites were heavily damaged by the 2020 Archie Creek Fire. Rossbach said the BLM will host open house meetings in the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTMAS CAROL RADIO SHOW PRODUCTION AT UCC]]></title>
-        <id>https://kqennewsradio.com/?p=110852</id>
-        <link href="https://kqennewsradio.com/2023/10/02/christmas-carol-radio-show-production-at-ucc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=christmas-carol-radio-show-production-at-ucc"/>
-        <updated>2023-10-02T10:17:23.000Z</updated>
-        <summary type="html"><![CDATA[October 2, 2023 3;15 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts is seeking actors for its production of the Christmas Carol Radio Show. 12 actor positions are available. Evening rehearsals will start October 9th. The 2-act comedy is set in 1958 when a radio station puts on Charles Dickens,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SENATE GOP URGES LEGISLATURE TO REFER MEASURE 110 BACK TO VOTERS]]></title>
-        <id>https://kqennewsradio.com/?p=110850</id>
-        <link href="https://kqennewsradio.com/2023/10/02/senate-gop-urges-legislature-to-refer-measure-110-back-to-voters/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senate-gop-urges-legislature-to-refer-measure-110-back-to-voters"/>
-        <updated>2023-10-02T10:09:21.000Z</updated>
-        <summary type="html"><![CDATA[October 2, 2023 3:00 a.m. Oregon Senate Republicans plan to ask the newly formed Joint Addiction and Community Safety Response Committee to consider a bill referring Measure 110 back to Oregon voters. A release from Senate Republican Leader Tim Knopp said Oregon’s drug decriminalization experiment has failed to address the state’s drug addiction crisis. Knopp...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
