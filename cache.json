@@ -514,56 +514,6 @@
           "wordCount": 1523,
           "title": "EMERGENCY ALERT TESTS HAPPENING WEDNESDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210235/OEMLogo_2022-e1657104297667.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110956",
-          "author": "Kyle Bailey",
-          "description": "October 4, 2023 3:50 a.m. The 2nd annual Roseburg Blocktoberfest returns to downtown Roseburg this Saturday. Presented by NeighborWorks Umpqua, this year the celebration will run from 11:00 a.m. to 6:00 p.m. and has expanded to include the Umpqua Brewfest and the Hesh Moto Show. Blocktoberfest features a splash of arts, vendors, food, local beer...",
-          "link": "https://kqennewsradio.com/2023/10/04/2nd-annual-roseburg-blocktoberfest-returns-to-downtown-roseburg/?utm_source=rss&utm_medium=rss&utm_campaign=2nd-annual-roseburg-blocktoberfest-returns-to-downtown-roseburg",
-          "publishedOn": "2023-10-04T10:41:22.000Z",
-          "wordCount": 1549,
-          "title": "2ND ANNUAL ROSEBURG BLOCKTOBERFEST RETURNS TO DOWNTOWN ROSEBURG",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231004094107/blocktober-fest-logo.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110954",
-          "author": "Kyle Bailey",
-          "description": "October 4, 2023 3:40 a.m. On Tuesday, Rogue-River Siskiyou National Forest Acting Forest Supervisor Jake Winn signed an update to the Emergency Area and Road Closure for the Flat Fire. A Forest Service release said the change reduces the closure area and reopens roads adjacent to the fire area. The new order is effective through...",
-          "link": "https://kqennewsradio.com/2023/10/04/reduced-emergency-area-and-road-closure/?utm_source=rss&utm_medium=rss&utm_campaign=reduced-emergency-area-and-road-closure",
-          "publishedOn": "2023-10-04T10:33:59.000Z",
-          "wordCount": 1471,
-          "title": "REDUCED EMERGENCY AREA AND ROAD CLOSURE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231004111834/FO-06-10-26-23-66-Flat-Fire-Order-and-Exhibit.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110951",
-          "author": "Kyle Bailey",
-          "description": "October 4, 2023 3:30 a.m. Regional and Statewide Services for Students with Orthopedic Impairments is hosting the education-based 2023 Feeding Seminar October 30th and 31st at the Salem Convention Center. A release from the Douglas Education Service District said the workshop is designed for practitioners in educational settings in the fields of administration, speech language...",
-          "link": "https://kqennewsradio.com/2023/10/04/education-based-feeding-seminar-open-for-registration/?utm_source=rss&utm_medium=rss&utm_campaign=education-based-feeding-seminar-open-for-registration",
-          "publishedOn": "2023-10-04T10:27:43.000Z",
-          "wordCount": 1522,
-          "title": "EDUCATION-BASED FEEDING SEMINAR OPEN FOR REGISTRATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231004092728/RSOI-Logo-Stacked-jpg.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110948",
-          "author": "Kyle Bailey",
-          "description": "October 4, 2023 3:20 a.m. South Umpqua High School in Tri-City will have a back to school night event Wednesday evening with local first responders attending. It will be held from 5:30 p.m. to 7:30 p.m. Agencies attending will include the Douglas County Sheriff’s Office, Cow Creek Tribal Police Department, Myrtle Creek Police Department, Tri-City...",
-          "link": "https://kqennewsradio.com/2023/10/04/suhs-with-first-responders-at-back-to-school-event/?utm_source=rss&utm_medium=rss&utm_campaign=suhs-with-first-responders-at-back-to-school-event",
-          "publishedOn": "2023-10-04T10:22:53.000Z",
-          "wordCount": 1470,
-          "title": "SUHS WITH FIRST RESPONDERS AT BACK TO SCHOOL EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231004092243/su.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=110945",
-          "author": "Kyle Bailey",
-          "description": "October 4, 2023 3:00 a.m. The Paul Morgan Observatory at Umpqua Community College is holding a public star party on October 13th at 8:00 p.m. along with a solar eclipse observing event from 8:30 a.m. to 10:30 a.m. on October 14th. Those attending will experience the celestial wonder of the event as astronomers provide a...",
-          "link": "https://kqennewsradio.com/2023/10/04/ucc-hosting-public-star-party-and-solar-eclipse-observing-events/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-hosting-public-star-party-and-solar-eclipse-observing-events",
-          "publishedOn": "2023-10-04T10:08:15.000Z",
-          "wordCount": 1651,
-          "title": "UCC HOSTING PUBLIC STAR PARTY AND SOLAR ECLIPSE OBSERVING EVENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231004090759/solar-eclipse-annular.jpeg"
         }
       ]
     },
@@ -578,6 +528,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3e1bf6ba-62ed-11ee-9f26-5fdc9dcb43be",
+          "author": "Paul Morgan For The News-Review",
+          "description": "About once every year or two, the moon aligns to cover most or all of the sun, producing a solar eclipse. This Oct. 14, the new moon will cover about 91% of the apparent diameter of the sun.",
+          "link": "https://www.nrtoday.com/life/ring-of-fire-solar-eclipse/article_3e1bf6ba-62ed-11ee-9f26-5fdc9dcb43be.html",
+          "publishedOn": "2023-10-07T19:35:00.000Z",
+          "wordCount": 13895,
+          "title": "Ring of Fire solar eclipse",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d64d68a6-6135-11ee-b81a-ab300cf11310",
           "author": "SANNE GODFREY The News-Review",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-07T19:06:36.250Z</updated>
+    <updated>2023-10-07T23:08:19.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ring of Fire solar eclipse]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3e1bf6ba-62ed-11ee-9f26-5fdc9dcb43be</id>
+        <link href="https://www.nrtoday.com/life/ring-of-fire-solar-eclipse/article_3e1bf6ba-62ed-11ee-9f26-5fdc9dcb43be.html"/>
+        <updated>2023-10-07T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[About once every year or two, the moon aligns to cover most or all of the sun, producing a solar eclipse. This Oct. 14, the new moon will cover about 91% of the apparent diameter of the sun.]]></summary>
+        <author>
+            <name>Paul Morgan For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Western Oregon University summer honor roll]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/d64d68a6-6135-11ee-b81a-ab300cf11310</id>
@@ -744,56 +754,6 @@ This will...]]></summary>
         <link href="https://kqennewsradio.com/2023/10/04/emergency-alert-tests-happening-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=emergency-alert-tests-happening-wednesday"/>
         <updated>2023-10-04T11:09:06.000Z</updated>
         <summary type="html"><![CDATA[October 4, 2023 4:10 a.m. The Federal Emergency Management Agency is conducting a nationwide Wireless Emergency Alert test on all consumer cell phones at 11:20 a.m. on Wednesday. A release from the Oregon Department of Emergency Management said people will see a message on their phones that reads “THIS IS A TEST of the National...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2ND ANNUAL ROSEBURG BLOCKTOBERFEST RETURNS TO DOWNTOWN ROSEBURG]]></title>
-        <id>https://kqennewsradio.com/?p=110956</id>
-        <link href="https://kqennewsradio.com/2023/10/04/2nd-annual-roseburg-blocktoberfest-returns-to-downtown-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2nd-annual-roseburg-blocktoberfest-returns-to-downtown-roseburg"/>
-        <updated>2023-10-04T10:41:22.000Z</updated>
-        <summary type="html"><![CDATA[October 4, 2023 3:50 a.m. The 2nd annual Roseburg Blocktoberfest returns to downtown Roseburg this Saturday. Presented by NeighborWorks Umpqua, this year the celebration will run from 11:00 a.m. to 6:00 p.m. and has expanded to include the Umpqua Brewfest and the Hesh Moto Show. Blocktoberfest features a splash of arts, vendors, food, local beer...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REDUCED EMERGENCY AREA AND ROAD CLOSURE]]></title>
-        <id>https://kqennewsradio.com/?p=110954</id>
-        <link href="https://kqennewsradio.com/2023/10/04/reduced-emergency-area-and-road-closure/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reduced-emergency-area-and-road-closure"/>
-        <updated>2023-10-04T10:33:59.000Z</updated>
-        <summary type="html"><![CDATA[October 4, 2023 3:40 a.m. On Tuesday, Rogue-River Siskiyou National Forest Acting Forest Supervisor Jake Winn signed an update to the Emergency Area and Road Closure for the Flat Fire. A Forest Service release said the change reduces the closure area and reopens roads adjacent to the fire area. The new order is effective through...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDUCATION-BASED FEEDING SEMINAR OPEN FOR REGISTRATION]]></title>
-        <id>https://kqennewsradio.com/?p=110951</id>
-        <link href="https://kqennewsradio.com/2023/10/04/education-based-feeding-seminar-open-for-registration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=education-based-feeding-seminar-open-for-registration"/>
-        <updated>2023-10-04T10:27:43.000Z</updated>
-        <summary type="html"><![CDATA[October 4, 2023 3:30 a.m. Regional and Statewide Services for Students with Orthopedic Impairments is hosting the education-based 2023 Feeding Seminar October 30th and 31st at the Salem Convention Center. A release from the Douglas Education Service District said the workshop is designed for practitioners in educational settings in the fields of administration, speech language...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUHS WITH FIRST RESPONDERS AT BACK TO SCHOOL EVENT]]></title>
-        <id>https://kqennewsradio.com/?p=110948</id>
-        <link href="https://kqennewsradio.com/2023/10/04/suhs-with-first-responders-at-back-to-school-event/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=suhs-with-first-responders-at-back-to-school-event"/>
-        <updated>2023-10-04T10:22:53.000Z</updated>
-        <summary type="html"><![CDATA[October 4, 2023 3:20 a.m. South Umpqua High School in Tri-City will have a back to school night event Wednesday evening with local first responders attending. It will be held from 5:30 p.m. to 7:30 p.m. Agencies attending will include the Douglas County Sheriff’s Office, Cow Creek Tribal Police Department, Myrtle Creek Police Department, Tri-City...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC HOSTING PUBLIC STAR PARTY AND SOLAR ECLIPSE OBSERVING EVENTS]]></title>
-        <id>https://kqennewsradio.com/?p=110945</id>
-        <link href="https://kqennewsradio.com/2023/10/04/ucc-hosting-public-star-party-and-solar-eclipse-observing-events/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-hosting-public-star-party-and-solar-eclipse-observing-events"/>
-        <updated>2023-10-04T10:08:15.000Z</updated>
-        <summary type="html"><![CDATA[October 4, 2023 3:00 a.m. The Paul Morgan Observatory at Umpqua Community College is holding a public star party on October 13th at 8:00 p.m. along with a solar eclipse observing event from 8:30 a.m. to 10:30 a.m. on October 14th. Those attending will experience the celestial wonder of the event as astronomers provide a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
