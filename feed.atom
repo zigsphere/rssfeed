@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-09T19:07:16.075Z</updated>
+    <updated>2023-10-09T23:08:41.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.9.23]]></title>
+        <id>https://kqennewsradio.com/?p=111156</id>
+        <link href="https://kqennewsradio.com/2023/10/09/inside-douglas-county-10-9-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-9-23"/>
+        <updated>2023-10-09T20:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Community College President Dr. Rachael Pokrandt and Athletic Director Craig Jackson share an update on school as the academic year begins.  Click here to download for later listening:  IDC 10 9 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire season comes to an end]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f399eb5c-66d8-11ee-ac51-0357513ce277</id>
+        <link href="https://www.nrtoday.com/briefs/fire-season-comes-to-an-end/article_f399eb5c-66d8-11ee-ac51-0357513ce277.html"/>
+        <updated>2023-10-09T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Forest Protective Association officially announced the end of the 2023 fire season. The season officially ended at noon Monday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIRE SEASON HAS ENDED AS OF 12:00 P.M. MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=111151</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[October 9, 2023 11:20 a.m.  The Douglas Forest Protective Association has ended fire season for the lands that are under its protection as of 12:00 p.m. Monday. Public Information Officer Rachel Pope said this is a result of the recent wetting rains and the overall cooling trend that has returned to the area. Pope said...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local foods initiative funding info meeting]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/332f1140-66d2-11ee-9955-27054a0e82c2</id>
+        <link href="https://www.nrtoday.com/briefs/local-foods-initiative-funding-info-meeting/article_332f1140-66d2-11ee-9955-27054a0e82c2.html"/>
+        <updated>2023-10-09T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The Small Farms program at the Oregon State University Extension Service in Roseburg is holding an online informational meeting at noon Wednesday about local foods initiative funding.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -482,66 +512,6 @@
         <link href="https://kqennewsradio.com/2023/10/06/blocktober-fest-happening-saturday-in-downtown-roseburg-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=blocktober-fest-happening-saturday-in-downtown-roseburg-2"/>
         <updated>2023-10-06T11:08:51.000Z</updated>
         <summary type="html"><![CDATA[October 6, 2023 4:00 a.m. The 2nd annual Roseburg Blocktober Fest is happening Saturday from 11:00 a.m. to 6:00 p.m. in historic downtown Roseburg. Presented by NeighborWorks Umpqua, this year’s celebration has been expanded to include the Umpqua Brew Fest and Hesh Moto Show. The day includes the arts, vendors, food, local beer and wine,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR ORDERS RETURN OF FLAGS TO FULL-STAFF]]></title>
-        <id>https://kqennewsradio.com/?p=111062</id>
-        <link href="https://kqennewsradio.com/2023/10/06/governor-orders-return-of-flags-to-full-staff/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-orders-return-of-flags-to-full-staff"/>
-        <updated>2023-10-06T10:52:48.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 4:00 a.m. Pursuant to a Presidential Proclamation, Governor Tina Kotek ordered flags at Oregon public institutions to be returned to full-staff, as of sunset on Thursday. This follows U.S. Senator Dianne Feinstein’s funeral and internment. The Presidential Proclamation can be found: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/29/]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USCELLULAR DONATES HOTSPOTS AND SERVICE TO BOYS & GIRLS CLUB]]></title>
-        <id>https://kqennewsradio.com/?p=111060</id>
-        <link href="https://kqennewsradio.com/2023/10/06/uscellular-donates-hotspots-and-service-to-boys-girls-club/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uscellular-donates-hotspots-and-service-to-boys-girls-club"/>
-        <updated>2023-10-06T10:44:57.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 3:50 a.m. In the KQEN Business Spotlight: UScellular has donated 20 wireless hotspots and two years of service to the Boys & Girls Club of the Umpqua Valley as part of its “After School Access Project”. In addition, the company will renew two years of service for 20 previously issued hotspots for...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REEDSPORT MAIN STREET PROGRAM GETS SPECIAL PROJECT AWARD]]></title>
-        <id>https://kqennewsradio.com/?p=111054</id>
-        <link href="https://kqennewsradio.com/2023/10/06/reedsport-main-street-program-gets-special-project-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reedsport-main-street-program-gets-special-project-award"/>
-        <updated>2023-10-06T10:30:57.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 3:40 a.m. Covering coastal Douglas County: The Reedsport Main Street Program was presented with the Special Project Award at the Excellence on Main award presentation held during the 2023 Main Street conference on Wednesday in Independence. According to Oregon Main Street, the Excellence on Main awards were created in 2010 and honor...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REEDSPORT WITH POP UP VENDOR MARKET FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111052</id>
-        <link href="https://kqennewsradio.com/2023/10/06/reedsport-with-pop-up-vendor-market-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reedsport-with-pop-up-vendor-market-friday"/>
-        <updated>2023-10-06T10:26:23.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 3:30 a.m. Covering coastal Douglas County: The Reedsport Main Street Program is having its pop-up Vendor Market happening Friday from 5:00 p.m. to 8:00 p.m. Artists and makers will line up on the sidewalks from 4th Street to 5th Street with unique and handmade merchandise. Close to two dozen booths will feature...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG FOLKLORE SOCIETY WITH HOMETOWN MUSIC FESTIVAL]]></title>
-        <id>https://kqennewsradio.com/?p=111050</id>
-        <link href="https://kqennewsradio.com/2023/10/06/roseburg-folklore-society-with-hometown-music-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-folklore-society-with-hometown-music-festival"/>
-        <updated>2023-10-06T10:22:34.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 3:20 a.m. In the KQEN Cultural Spotlight: The Roseburg Folklore Society will have its 2nd annual Hometown Music Festival on Saturday. The event will take place from 11:00 a.m. to 5:00 p.m. on the outdoor stage behind Umpqua Valley Arts on West Harvard Avenue. Local groups featured will be: *12:00 p.m. Oregon...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUSEUM FOUNDATION FUNDRAISING EVENT IS SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111048</id>
-        <link href="https://kqennewsradio.com/2023/10/06/museum-foundation-fundraising-event-is-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=museum-foundation-fundraising-event-is-saturday"/>
-        <updated>2023-10-06T10:10:14.000Z</updated>
-        <summary type="html"><![CDATA[October 6, 2023 3:00 a.m. The Douglas County Museum Foundation is holding a fundraising event from 4:00 p.m. to 6:00 p.m. on Saturday. Author Linda Jones Weber, a longtime former resident of Roseburg and graduate of Roseburg High School, will present her new historical novel, Finding Utopia and will sign books that are purchased. Weber...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
