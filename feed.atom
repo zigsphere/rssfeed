@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-10T13:12:23.305Z</updated>
+    <updated>2023-10-10T16:11:54.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.10.23]]></title>
+        <id>https://kqennewsradio.com/?p=111183</id>
+        <link href="https://kqennewsradio.com/2023/10/10/morning-conversation-10-10-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-10-23"/>
+        <updated>2023-10-10T16:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Wildlife Safari Village Supervisor Rachael Mohlman talks about upcoming events at the game park, plus shares information about a milestone for conservation that recently took place.  Click here to download for later listening:  83010 2 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filling empty bowls: Slurping soup for a good cause]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f806b5bc-63d1-11ee-b0a4-33fc927df318</id>
+        <link href="https://www.nrtoday.com/news/filling-empty-bowls-slurping-soup-for-a-good-cause/article_f806b5bc-63d1-11ee-b0a4-33fc927df318.html"/>
+        <updated>2023-10-10T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Under a zig-zag pattern of bulbous string lights were the slurping sounds of people sampling soups — from rich and hearty gumbo to refreshing chilled lemongrass yogurt soup — there was a steady flow of spoon-to-mouth motions at Feeding Umpqua’s…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Roseburg FFA teams head to nationals]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bd70881e-66f2-11ee-870a-ebf2f5632d0d</id>
+        <link href="https://www.nrtoday.com/news/local/two-roseburg-ffa-teams-head-to-nationals/article_bd70881e-66f2-11ee-870a-ebf2f5632d0d.html"/>
+        <updated>2023-10-10T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[For the first time in Roseburg history, two of the FFA teams will be heading to Indianapolis for the 96th National FFA convention the first week in November.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg City Council votes to pursue expansion of Brown Park]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f2b046c4-6731-11ee-a50d-430f9df90305</id>
+        <link href="https://www.nrtoday.com/news/government/city/roseburg-city-council-votes-to-pursue-expansion-of-brown-park/article_f2b046c4-6731-11ee-a50d-430f9df90305.html"/>
+        <updated>2023-10-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg City Council voted unanimously and enthusiastically Monday to approve going forward with the purchase of a half-acre tract of land which would allow expansion of historic Brown Park.]]></summary>
+        <author>
+            <name>DONOVAN BRINK The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg receives tennis and pickleball court grant]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8b4954c2-6703-11ee-9ad9-ef67c5c20c62</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-receives-tennis-and-pickleball-court-grant/article_8b4954c2-6703-11ee-9ad9-ef67c5c20c62.html"/>
+        <updated>2023-10-10T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Grab your racquets and paddles, Roseburg, there are about to be some brand-new tennis and pickleball courts at Stewart Park.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Orange Toxic Exposure town hall meeting Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/81520cae-63be-11ee-b989-ff9eab8b3b40</id>
+        <link href="https://www.nrtoday.com/briefs/agent-orange-toxic-exposure-town-hall-meeting-saturday/article_81520cae-63be-11ee-b989-ff9eab8b3b40.html"/>
+        <updated>2023-10-10T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Vietnam Veterans of America Chapter 805 will host an Agent Orange Toxic Exposure Meeting on Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WORK BEGINS NEXT WEEK TO WIDEN I-5 OFF-RAMP AT GARDEN VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=111171</id>
