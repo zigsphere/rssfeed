@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111256",
+          "author": "Kyle Bailey",
+          "description": "State Representative Christine Goodwin with a legislative update on things she has been working on and plans for the next few months. Click here to download for later listening: IDC 10 11 23",
+          "link": "https://kqennewsradio.com/2023/10/11/inside-douglas-county-10-11-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-11-23",
+          "publishedOn": "2023-10-11T20:31:16.000Z",
+          "wordCount": 1489,
+          "title": "INSIDE DOUGLAS COUNTY 10.11.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231011192715/IDC-10-11-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231011192948/IMG_3069.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111251",
           "author": "Kyle Bailey",
           "description": "October 11, 2023 11:10 a.m. A Roseburg man died in a jeep versus motorcycle accident on Tuesday morning. An Oregon State Police report said at 10:55 a.m. troopers responded to the crash at the intersection of Highway 42 and Landers Avenue. The preliminary investigation indicated that the Jeep had stopped at the stop sign. It...",
@@ -478,6 +493,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/64804130-6856-11ee-adc2-63e5bb2e1d31",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WinCo Foods hopes to open its new Roseburg store Nov. 6.",
+          "link": "https://www.nrtoday.com/business/winco-store-nearly-ready-to-open/article_64804130-6856-11ee-adc2-63e5bb2e1d31.html",
+          "publishedOn": "2023-10-11T21:30:00.000Z",
+          "wordCount": 13532,
+          "title": "WinCo store nearly ready to open",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/30/d3059196-6856-11ee-9200-bb55e545b4ff/6526d33d2ecde.image.jpg?resize=300%2C225",
+            "length": "403781",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/30/d3059196-6856-11ee-9200-bb55e545b4ff/6526d33d2ecde.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/79030ede-6857-11ee-a53a-0b3956ad09da",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Cascade Community Credit Union will have a Shred Day event Saturday.",
+          "link": "https://www.nrtoday.com/briefs/credit-union-hosts-shred-day/article_79030ede-6857-11ee-a53a-0b3956ad09da.html",
+          "publishedOn": "2023-10-11T16:58:00.000Z",
+          "wordCount": 13050,
+          "title": "Credit Union hosts shred day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/366ab91a-5294-11ee-bd3e-e78e906260be",
           "author": "WILL GESCHKE The News-Review",
