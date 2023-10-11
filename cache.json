@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111234",
+          "author": "Kyle Bailey",
+          "description": "Oregon Department of Transportation Senior Planner Thomas Guevara Jr. talks about the Diamond Lake Boulevard/OR 138E Design Concept Plan and opportunities for public involvement:",
+          "link": "https://kqennewsradio.com/2023/10/11/morning-conversation-10-11-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-11-23",
+          "publishedOn": "2023-10-11T16:05:47.000Z",
+          "wordCount": 1474,
+          "title": "MORNING CONVERSATION 10.11.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231011145047/830-10-11-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231011150516/IMG_3066.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111223",
           "author": "Kyle Bailey",
           "description": "October 11, 2023 3:50 a.m.  In the KQEN Business Spotlight: WinCo Foods hopes to open its new Roseburg store on Monday November 6th. WinCo Foods LLC Vice-President of Real Estate Greg Goins told News Radio 93-9 FM and 1240 KQEN that the company expects to have between 125 and 150 staff working at the store....",
@@ -394,6 +409,91 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/366ab91a-5294-11ee-bd3e-e78e906260be",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Farming, like everything else, is going through changes.",
+          "link": "https://www.nrtoday.com/news/century-farms-the-changing-face-of-farming/article_366ab91a-5294-11ee-bd3e-e78e906260be.html",
+          "publishedOn": "2023-10-11T15:00:00.000Z",
+          "wordCount": 15215,
+          "title": "Century Farms: The changing face of farming",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/38/63802de2-5297-11ee-b425-e3ee06dfaf1c/650256a1c91e3.image.jpg?resize=300%2C200",
+            "length": "522829",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/38/63802de2-5297-11ee-b425-e3ee06dfaf1c/650256a1c91e3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ebb5bda-67ac-11ee-acc7-e714dabba1cb",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Zonta Club of Roseburg is hosting its Dignity Drive through Nov. 17 with the hopes of providing not just items but a little dignity to local women.",
+          "link": "https://www.nrtoday.com/news/local/dignity-drive-looking-for-donations/article_1ebb5bda-67ac-11ee-acc7-e714dabba1cb.html",
+          "publishedOn": "2023-10-11T14:45:00.000Z",
+          "wordCount": 13533,
+          "title": "Dignity Drive looking for donations",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0d/50d3b978-67ac-11ee-8b48-4be3eae9ac4d/6525b52c4d3a4.image.jpg?resize=300%2C498",
+            "length": "244799",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0d/50d3b978-67ac-11ee-8b48-4be3eae9ac4d/6525b52c4d3a4.image.jpg?resize=300%2C498"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4247dee2-6794-11ee-a2ae-af5966c450ec",
+          "author": "DONOVAN BRINK The News-Review",
+          "description": "REEDSPORT — Reedsport residents who use East Railroad Avenue can expect delays as the city works will be lining the sewer line along the 100 block of Railroad.",
+          "link": "https://www.nrtoday.com/briefs/reedsport-to-upgrade-sewer-line-wednesday/article_4247dee2-6794-11ee-a2ae-af5966c450ec.html",
+          "publishedOn": "2023-10-11T14:00:00.000Z",
+          "wordCount": 13100,
+          "title": "Reedsport to upgrade sewer line Wednesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4189e4da-67b9-11ee-85d9-9bdfb3b3083f",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — Multiple people were cited and had their camps cleared between approximately 4-5 a.m. Tuesday by the Roseburg Police Department for prohibited camping violations.",
+          "link": "https://www.nrtoday.com/briefs/series-of-prohibited-camping-citations-issued-early-morning-by-roseburg-police/article_4189e4da-67b9-11ee-85d9-9bdfb3b3083f.html",
+          "publishedOn": "2023-10-11T13:45:00.000Z",
+          "wordCount": 13186,
+          "title": "Series of prohibited camping citations issued early morning by Roseburg police",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4361d502-6795-11ee-ae9c-ff9cb22bab02",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Douglas County Global Warming Coalition hosts its annual Smart Energy Green and Solar Tour on Saturday.",
+          "link": "https://www.nrtoday.com/news/environment/global-warming-coalition-hosts-green-solar-tour/article_4361d502-6795-11ee-ae9c-ff9cb22bab02.html",
+          "publishedOn": "2023-10-11T13:45:00.000Z",
+          "wordCount": 13083,
+          "title": "Global warming coalition hosts green/solar tour",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8455404e-67b3-11ee-8f1d-336008333460",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS COUNTY — The Douglas County Livestock Association is hosting its annual banquet, meeting and fundraiser Nov. 3 at the Douglas County Fairgrounds. The event will begin at 6 p.m. and will include a live auction, silent auction, raffle and…",
+          "link": "https://www.nrtoday.com/briefs/livestock-association-banquet-tickets-half-off-until-friday/article_8455404e-67b3-11ee-8f1d-336008333460.html",
+          "publishedOn": "2023-10-11T13:45:00.000Z",
+          "wordCount": 13127,
+          "title": "Livestock association banquet tickets half off until Friday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/be80732e-6795-11ee-a3da-437878ab33a7",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Construction begins Sunday on a project officials say will make it safer and easier for northbound Interstate 5 motorists to reach Garden Valley Boulevard in Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/work-begins-next-week-on-widening-interstate-5-off-ramp-at-garden-valley-boulevard/article_be80732e-6795-11ee-a3da-437878ab33a7.html",
+          "publishedOn": "2023-10-11T13:45:00.000Z",
+          "wordCount": 13407,
+          "title": "Work begins next week on widening Interstate 5 off ramp at Garden Valley Boulevard",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b8/fb83699c-6845-11ee-9723-0fd2ba9219e5/6526b6fba60cf.image.jpg?resize=300%2C215",
+            "length": "142805",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b8/fb83699c-6845-11ee-9723-0fd2ba9219e5/6526b6fba60cf.image.jpg?resize=300%2C215"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b780fc-525a-11ee-85a8-074fd0a1a883",
           "author": "SANNE GODFREY The News-Review",
           "description": "MYRTLE CREEK — The Myrtle Creek Elks Lodge will host a bed built with Sleep in Heavenly Peace from 9:30 a.m. to 12:30 p.m. Saturday.",
@@ -572,16 +672,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/76/e76c4812-63f8-11ee-ad62-c7f46a885590/651f7fae13307.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/795afaa6-6477-11ee-965f-fb04db31a495",
-          "author": null,
-          "description": "Friends of the Umpqua Hiking Club heads to Takelma Gorge",
-          "link": "https://www.nrtoday.com/news/local/friends-of-the-umpqua-hiking-club-heads-to-takelma-gorge/article_795afaa6-6477-11ee-965f-fb04db31a495.html",
-          "publishedOn": "2023-10-08T03:33:00.000Z",
-          "wordCount": 13022,
-          "title": "Friends of the Umpqua Hiking Club heads to Takelma Gorge",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -596,6 +686,16 @@
       "feedUrl": "https://kill-the-newsletter.com/feeds/fjuzxg65y0ybbror.xml",
       "siteUrl": "https://kill-the-newsletter.com/",
       "articles": [
+        {
+          "id": "https://kill-the-newsletter.com/alternates/usfwtsv1rmsjovif.html",
+          "author": null,
+          "description": "Newsletter\n    \n        a\n        {\n            color:#ce4240; text-decoration:none;\n        }\n        a:hover\n        {\n            text-decoration: underline;\n        }\n    \n\n\n\n\n    \n    \n-->\n                    \nIt is the mission of the Roseburg Police Department to consistently earn the public's trust by contributing to our community's reputation as a safe place to live, work, play and visit.\n\nWe are committed to investing the resources provided to create a feeling of safety and security for our citizens and employees, protecting constitutional guarantees, developing and maintaining effective partnerships, reducing unlawful behavior and the fear it manifests by pursuing and arresting those who choose to break the law, and creating a crime-resistant community through education and other…",
+          "link": "https://kill-the-newsletter.com/alternates/usfwtsv1rmsjovif.html",
+          "publishedOn": "2023-10-11T15:54:47.000Z",
+          "wordCount": 780,
+          "title": "Police log for Oct 10",
+          "imageUrl": null
+        },
         {
           "id": "https://kill-the-newsletter.com/alternates/sykxt7c1i14lxq09.html",
           "author": null,
