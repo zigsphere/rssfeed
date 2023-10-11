@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111209",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program. Click here to download for later listening: TRUE WEALTH 10 10 2023",
+          "link": "https://kqennewsradio.com/2023/10/10/true-wealth-10-10-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-10-23",
+          "publishedOn": "2023-10-11T00:06:44.000Z",
+          "wordCount": 1470,
+          "title": "TRUE WEALTH 10.10.23",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111205",
           "author": "Kyle Bailey",
           "description": "Glide Revitalization Executive Director Jeana Beam and part-time staffer Kayla Griffith provide an update on the organization, the work its doing, and events that are being planned. Click here to download for later listening:  IDC 10 10 23",
@@ -329,16 +339,6 @@
           "wordCount": 1543,
           "title": "DFPA SCHEDULED PRESCRIBED PASTURE BURNS FOR SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231003093120/Prescribed-Pasture-Burns-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111107",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2023 5:45 a.m. Winston Police jailed a man Wednesday after he was found to be in possession of an alleged stolen vehicle out of Eugene. The WPD report said at about 4:15 p.m. officers located the vehicle and the suspect behind a business in the 4400 block of Old Highway 99 South in...",
-          "link": "https://kqennewsradio.com/2023/10/07/winston-police-jail-man-for-possession-of-alleged-stolen-vehicle/?utm_source=rss&utm_medium=rss&utm_campaign=winston-police-jail-man-for-possession-of-alleged-stolen-vehicle",
-          "publishedOn": "2023-10-07T12:48:52.000Z",
-          "wordCount": 1524,
-          "title": "WINSTON POLICE JAIL MAN FOR POSSESSION OF ALLEGED STOLEN VEHICLE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
         }
       ]
     },
@@ -607,36 +607,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/981ec950-63a4-11ee-8fb3-d7c886b7abe2",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "The city of Roseburg and the Oregon Department of Transportation are seeking public input as they continue work on the Diamond Lake Boulevard/Highway 138E design concept plan.",
-          "link": "https://www.nrtoday.com/news/local/odot-seeks-local-participation-for-design-concept-subcommittees/article_981ec950-63a4-11ee-8fb3-d7c886b7abe2.html",
-          "publishedOn": "2023-10-07T14:00:00.000Z",
-          "wordCount": 13455,
-          "title": "ODOT seeks local participation for design concept subcommittees",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/4b/64b0a4b2-63b8-11ee-8624-939973e50f0a/651f1b96857ea.image.jpg?resize=300%2C180",
-            "length": "160457",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/4b/64b0a4b2-63b8-11ee-8624-939973e50f0a/651f1b96857ea.image.jpg?resize=300%2C180"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/981ec950-63a4-11ee-8fb3-d7c886b7abe2",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "The city of Roseburg and the Oregon Department of Transportation are seeking public input as they continue work on the Diamond Lake Boulevard/Highway 138E design concept plan.",
-          "link": "https://www.nrtoday.com/news/local/odot-seeks-local-comment-for-design-concept-subcommittees/article_981ec950-63a4-11ee-8fb3-d7c886b7abe2.html",
-          "publishedOn": "2023-10-07T14:00:00.000Z",
-          "wordCount": 13446,
-          "title": "ODOT seeks local comment for design concept subcommittees",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/4b/64b0a4b2-63b8-11ee-8624-939973e50f0a/651f1b96857ea.image.jpg?resize=300%2C180",
-            "length": "160457",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/4b/64b0a4b2-63b8-11ee-8624-939973e50f0a/651f1b96857ea.image.jpg?resize=300%2C180"
         }
       ]
     },
