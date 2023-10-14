@@ -544,6 +544,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b68a87e0-69d9-11ee-b39b-c73a1b6ad621",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Forest Bridges will hold its second in a series of public meetings from 7-8:30 p.m. Wednesday at the Roseburg Public Library, 1409 NE Diamond Lake Blvd., Roseburg.",
+          "link": "https://www.nrtoday.com/news/environment/forest-bridges-to-hold-second-public-meetings/article_b68a87e0-69d9-11ee-b39b-c73a1b6ad621.html",
+          "publishedOn": "2023-10-14T15:03:00.000Z",
+          "wordCount": 13136,
+          "title": "Forest Bridges to hold second public meetings",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d34ebfcc-6790-11ee-bb51-bf8c36f1e7ce",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "OAKLAND — Nothing says fall like picking a plump orange pumpkin, bouncing on hayrides and sipping fresh apple cider — all of which can be found at the Green Valley Pumpkin Patch.",
+          "link": "https://www.nrtoday.com/business/green-valley-pumpkin-patch-launching-gourds-and-sipping-cider/article_d34ebfcc-6790-11ee-bb51-bf8c36f1e7ce.html",
+          "publishedOn": "2023-10-14T14:45:00.000Z",
+          "wordCount": 13917,
+          "title": "Green Valley Pumpkin Patch: launching gourds and sipping cider",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b7/1b7a36b2-6978-11ee-b31d-5bd8bdd48bb9/6528b8934be2f.image.jpg?resize=300%2C200",
+            "length": "432664",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b7/1b7a36b2-6978-11ee-b31d-5bd8bdd48bb9/6528b8934be2f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f1bd5886-69e5-11ee-9269-43587894a0ed",
+          "author": "Kris Wiley for The News-Review",
+          "description": "We celebrate the Friends of the Roseburg Public Library every day but especially during National Friends of Libraries Week Sunday through Oct. 21.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-library-has-amazing-friends/article_f1bd5886-69e5-11ee-9269-43587894a0ed.html",
+          "publishedOn": "2023-10-14T14:45:00.000Z",
+          "wordCount": 13542,
+          "title": "Roseburg library has amazing friends",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/25d951e0-67ae-11ee-b6a3-0fcb29e6c0ec",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "GREEN — Nearly 300 children gathered at the shopping center in Green on Friday morning to take part in a Walk, Bike and Roll event to encourage safe, healthy activity for students.",
+          "link": "https://www.nrtoday.com/news/education/walk-bike-roll-event-encourages-healthy-approaches-to-school-transportation/article_25d951e0-67ae-11ee-b6a3-0fcb29e6c0ec.html",
+          "publishedOn": "2023-10-14T14:30:00.000Z",
+          "wordCount": 14198,
+          "title": "Walk, Bike & Roll event encourages healthy approaches to school transportation",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1b/d1b8b80e-69f0-11ee-8d02-f351b62b8456/65298318a465c.image.jpg?resize=300%2C200",
+            "length": "541451",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1b/d1b8b80e-69f0-11ee-8d02-f351b62b8456/65298318a465c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a8c3d60e-6a04-11ee-8915-2b06d9218888",
+          "author": "The News-Review",
+          "description": "GLIDE — Douglas Floyd, 70, of Middleton, Idaho, died Wednesday in a single vehicle crash on Highway 138E, near milepost 21, east of Glide.",
+          "link": "https://www.nrtoday.com/briefs/idaho-man-dies-in-crash-wednesday/article_a8c3d60e-6a04-11ee-8915-2b06d9218888.html",
+          "publishedOn": "2023-10-14T13:45:00.000Z",
+          "wordCount": 12977,
+          "title": "Idaho man dies in crash Wednesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4a7e78e0-69d9-11ee-85d9-8fcd17bc9345",
           "author": "Kyle Bailey For The News-Review",
           "description": "GLIDE — Glide Rural Fire Protection District’s Annual barbecue and craft fair is happening this weekend.",
