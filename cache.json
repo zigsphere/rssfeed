@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111390",
+          "author": "Kyle Bailey",
+          "description": "Angelia Freeman from the Community Cancer Center with our first in a series of Power of Pink interviews: Click here to download for later listening:  830 10 16 23",
+          "link": "https://kqennewsradio.com/2023/10/16/morning-conversation-10-16-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-16-23",
+          "publishedOn": "2023-10-16T16:08:37.000Z",
+          "wordCount": 1482,
+          "title": "MORNING CONVERSATION 10.16.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231016150552/830-10-16-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231016150813/IMG_3077.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111386",
           "author": "Kyle Bailey",
           "description": "October 16, 2023 4:00 a.m. After 134 days, the Oregon Department of Forestry Southwest Oregon District declared an end to the 2023 fire season in Josephine and Jackson counties on Friday. Public Information Officer Natalie Weber said consistent rain across the district and new, green grass and vegetation growing in has allowed for all fire...",
@@ -289,6 +304,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/00e5507c-6c37-11ee-b47e-a7aace5afd78",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DILLARD — A Myrtle Creek man was taken to the hospital after a single-vehicle wreck Thursday morning.",
+          "link": "https://www.nrtoday.com/briefs/myrtle-creek-man-taken-to-hospital-following-wreck/article_00e5507c-6c37-11ee-b47e-a7aace5afd78.html",
+          "publishedOn": "2023-10-16T15:16:00.000Z",
+          "wordCount": 13158,
+          "title": "Myrtle Creek man taken to hospital, following wreck",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/548526b0-6a27-11ee-9efe-93aba1525dbf",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "On a rainy Friday afternoon, Umpqua Valley Arts, along with Thrive Umpqua and the Umpqua Public Transit District, unveiled a series of four different art pieces that have been installed on bus stops along West Harvard Avenue in Roseburg.",
+          "link": "https://www.nrtoday.com/news/umpqua-valley-arts-partners-with-thrive-umpqua-umpqua-public-transit-district-to-showcase-student-art/article_548526b0-6a27-11ee-9efe-93aba1525dbf.html",
+          "publishedOn": "2023-10-16T15:00:00.000Z",
+          "wordCount": 13623,
+          "title": "Umpqua Valley Arts partners with Thrive Umpqua, Umpqua Public Transit District to showcase student art on bus stops",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/fc/ffc744c2-6a27-11ee-9f26-8b670cd676b8/6529dfac40853.image.jpg?resize=300%2C200",
+            "length": "536791",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/fc/ffc744c2-6a27-11ee-9f26-8b670cd676b8/6529dfac40853.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4a1f2690-63d2-11ee-8bc2-6fc0ed96739b",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Kyle Hedquist was sentenced to life in prison for murdering Roseburg teen Nikki Thrasher in 1994. His sentenced was commuted in April 2022 by then Governor Kate Brown; four month later Hedquist started working as a policy associate with the…",
@@ -457,21 +497,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d8/2d833318-6987-11ee-b085-0f2d9bdc2d64/6528d1dc068a2.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/008d2934-688a-11ee-ab00-bb7ac36538b7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "From wearing pajamas to school, seeing more fast-food restaurants than previously imaginable and attending an American football game, Oregon high school life is an interesting journey for 10 exchange students to explore.",
-          "link": "https://www.nrtoday.com/news/education/german-exchange-students-visit-roseburg/article_008d2934-688a-11ee-ab00-bb7ac36538b7.html",
-          "publishedOn": "2023-10-13T01:30:00.000Z",
-          "wordCount": 13913,
-          "title": "German exchange students visit Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ea/6ea82422-688b-11ee-a2e9-ff7658f62cd6/65272b80219b2.image.jpg?resize=300%2C224",
-            "length": "318541",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ea/6ea82422-688b-11ee-a2e9-ff7658f62cd6/65272b80219b2.image.jpg?resize=300%2C224"
         }
       ]
     },

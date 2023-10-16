@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-16T13:13:19.477Z</updated>
+    <updated>2023-10-16T16:11:53.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.16.23]]></title>
+        <id>https://kqennewsradio.com/?p=111390</id>
+        <link href="https://kqennewsradio.com/2023/10/16/morning-conversation-10-16-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-16-23"/>
+        <updated>2023-10-16T16:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Angelia Freeman from the Community Cancer Center with our first in a series of Power of Pink interviews: Click here to download for later listening:  830 10 16 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek man taken to hospital, following wreck]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/00e5507c-6c37-11ee-b47e-a7aace5afd78</id>
+        <link href="https://www.nrtoday.com/briefs/myrtle-creek-man-taken-to-hospital-following-wreck/article_00e5507c-6c37-11ee-b47e-a7aace5afd78.html"/>
+        <updated>2023-10-16T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[DILLARD — A Myrtle Creek man was taken to the hospital after a single-vehicle wreck Thursday morning.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Valley Arts partners with Thrive Umpqua, Umpqua Public Transit District to showcase student art on bus stops]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/548526b0-6a27-11ee-9efe-93aba1525dbf</id>
+        <link href="https://www.nrtoday.com/news/umpqua-valley-arts-partners-with-thrive-umpqua-umpqua-public-transit-district-to-showcase-student-art/article_548526b0-6a27-11ee-9efe-93aba1525dbf.html"/>
+        <updated>2023-10-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On a rainy Friday afternoon, Umpqua Valley Arts, along with Thrive Umpqua and the Umpqua Public Transit District, unveiled a series of four different art pieces that have been installed on bus stops along West Harvard Avenue in Roseburg.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIRE SEASON ENDS ACROSS ODF SOUTHWEST OREGON DISTRICT]]></title>
         <id>https://kqennewsradio.com/?p=111386</id>
@@ -423,16 +453,6 @@ We are committed to investing the resources provided to create a feeling of safe
         <link href="https://www.nrtoday.com/news/local/glide-students-paint-parking-spaces-hold-contest/article_d65fe928-6986-11ee-a022-a7da8a0d82c1.html"/>
         <updated>2023-10-13T05:10:00.000Z</updated>
         <summary type="html"><![CDATA[GLIDE — The sun was shining, paint cans and brushes lay haphazardly around the parking lot and the air smelled like paint and burgers as teachers held conferences inside and seniors splattered paint outside.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German exchange students visit Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/008d2934-688a-11ee-ab00-bb7ac36538b7</id>
-        <link href="https://www.nrtoday.com/news/education/german-exchange-students-visit-roseburg/article_008d2934-688a-11ee-ab00-bb7ac36538b7.html"/>
-        <updated>2023-10-13T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From wearing pajamas to school, seeing more fast-food restaurants than previously imaginable and attending an American football game, Oregon high school life is an interesting journey for 10 exchange students to explore.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
         </author>
