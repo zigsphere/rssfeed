@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111443",
+          "author": "Kyle Bailey",
+          "description": "SMART Reading Program Manager Kris Dellsite talks about the program and their need for volunteers. Click here to download for later listening:  830 10 17 23",
+          "link": "https://kqennewsradio.com/2023/10/17/morning-conversation-10-17-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-17-23",
+          "publishedOn": "2023-10-17T16:02:55.000Z",
+          "wordCount": 1479,
+          "title": "MORNING CONVERSATION 10.17.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231017145444/830-10-17-23-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231017150226/IMG_3084.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=111440",
+          "author": "Kyle Bailey",
+          "description": "October 17, 2023 7:00 a.m. The Rogue-River Siskiyou National Forest has removed the fire danger rating on all five Ranger Districts across the forest, signaling the end of fire season, as of Tuesday. A release said the Industrial Fire Precaution Level has been removed and changed to “open”. This ends the level one precautions that...",
+          "link": "https://kqennewsradio.com/2023/10/17/end-of-fire-season-for-rogue-river-siskiyou-national-forest/?utm_source=rss&utm_medium=rss&utm_campaign=end-of-fire-season-for-rogue-river-siskiyou-national-forest",
+          "publishedOn": "2023-10-17T14:02:13.000Z",
+          "wordCount": 1490,
+          "title": "END OF FIRE SEASON FOR ROGUE RIVER-SISKIYOU NATIONAL FOREST",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230916195207/rrsnf-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111437",
           "author": "Kyle Bailey",
           "description": "October 17, 2023 6:00 a.m.  A Beach Hazards Statement remains in effect through Wednesday afternoon for the south-central Oregon coast, including parts of Douglas, Coos and Curry counties. Forecasters at the National Weather Service said that an increased threat of sneaker waves is expected. Forecasters said waves can run up significantly farther on a beach...",
@@ -258,6 +283,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f5635326-6c58-11ee-9071-f75dfbd79057",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Oregon Health Authority announced a new interactive data dashboard to help track state, county and demographic trends in deaths and hospital visits related to a range of transportation-related injuries.",
+          "link": "https://www.nrtoday.com/news/oregon-health-authority-launches-interactive-transportation-injury-dashboard/article_f5635326-6c58-11ee-9071-f75dfbd79057.html",
+          "publishedOn": "2023-10-17T14:45:00.000Z",
+          "wordCount": 13530,
+          "title": "Oregon Health Authority launches interactive transportation injury dashboard",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/670b6bfc-6cfa-11ee-908a-4f7f6d09c0c0",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — A man was hospitalized after his motorcycle hit a deer Sunday.",
+          "link": "https://www.nrtoday.com/news/local/man-hospitalized-after-motorcycle-hits-deer/article_670b6bfc-6cfa-11ee-908a-4f7f6d09c0c0.html",
+          "publishedOn": "2023-10-17T14:35:00.000Z",
+          "wordCount": 13090,
+          "title": "Man hospitalized after motorcycle hits deer",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3d566132-6cf9-11ee-87a0-6f126ec350d5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "RIDDLE — An 18-year-old Riddle man was arrested after he initially sped away from police on a motorcycle early Monday.",
+          "link": "https://www.nrtoday.com/news/crime/riddle-man-jailed-after-speeding-away-from-law-enforcement-crashing/article_3d566132-6cf9-11ee-87a0-6f126ec350d5.html",
+          "publishedOn": "2023-10-17T14:27:00.000Z",
+          "wordCount": 13261,
+          "title": "Riddle man jailed after speeding away from law enforcement, crashing",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/620d62c6-6c38-11ee-ac67-5f378fcc19a7",
           "author": "Kyle Bailey For The News-Review",
