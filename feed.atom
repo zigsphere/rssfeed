@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-16T23:08:50.418Z</updated>
+    <updated>2023-10-17T02:17:37.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -495,16 +495,6 @@ We are committed to investing the resources provided to create a feeling of safe
         <summary type="html"><![CDATA[Jim Baird, general manager for the Roseburg Urban Sanitary Authority, was appointed as the Water Environment Federation representative to the Water Professionals International Board of Directors in September.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wildlife Safari fosters cheetah cub]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3bac00de-6958-11ee-8e61-d7ec38101582</id>
-        <link href="https://www.nrtoday.com/life/wildlife-safari-fosters-cheetah-cub/article_3bac00de-6958-11ee-8e61-d7ec38101582.html"/>
-        <updated>2023-10-13T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — Wildlife Safari announced it has successfully integrated a cheetah cub into a new family. This act marks a milestone for conservation efforts worldwide.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
