@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111467",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Valley Farm to School Executive  Director Erin Maidlow talks about the work of the non-profit organization.  Click here to download for later listening:  IDC 10 17 23",
+          "link": "https://kqennewsradio.com/2023/10/17/inside-douglas-county-10-17-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-17-23",
+          "publishedOn": "2023-10-17T20:19:29.000Z",
+          "wordCount": 1482,
+          "title": "INSIDE DOUGLAS COUNTY 10.17.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231017191544/IDC-10-17-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231017191903/IMG_3086.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111464",
           "author": "Kyle Bailey",
           "description": "October 17, 2023 12:00 p.m.  Detectives are investigating a homicide which occurred in the Green District late Monday night. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said shortly after 11:00 p.m. dispatchers received a call saying a man who appeared to be deceased was lying in a driveway in the 100 block of...",
@@ -363,6 +378,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6d0f7480-6d09-11ee-b5d1-572349d3ec05",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — Lacey Neal Ott, 42, of Winchester, was arrested by Roseburg Police Department at approximately 3 p.m Monday at 1813 W. Harvard Ave. in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/woman-allegedly-embezzled-200k-from-her-employer/article_6d0f7480-6d09-11ee-b5d1-572349d3ec05.html",
+          "publishedOn": "2023-10-17T20:00:00.000Z",
+          "wordCount": 13098,
+          "title": "Woman allegedly embezzled $200k from her employer",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f5635326-6c58-11ee-9071-f75dfbd79057",
           "author": "HANNAH SEIBOLD The News-Review",
