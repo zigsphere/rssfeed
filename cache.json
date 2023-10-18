@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111489",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Dream Center Co-Director Jeremy Grammon has an update on the services they provide and the need for volunteers and financial support from the community. Click here to download for later listening: 830 10 18 23",
+          "link": "https://kqennewsradio.com/2023/10/18/morning-conversation-10-18-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-18-23",
+          "publishedOn": "2023-10-18T16:05:06.000Z",
+          "wordCount": 1486,
+          "title": "MORNING CONVERSATION 10.18.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231018145002/830-10-18-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231018150439/IMG_3099.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111487",
           "author": "Kyle Bailey",
           "description": "October 18, 2023 5:30 a.m. A series of Bureau of Land Management open house meetings to take public input on plans to restore and improve recreation areas along the North Umpqua River and Rock Creek that were heavily damaged by the 2020 Archie Creek Fire, will begin Thursday. BLM Swiftwater Field Manager Mike Korn said,...",
@@ -423,6 +438,76 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ec54ab74-6dc8-11ee-b0a1-7bee2c1806e5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Douglas County Global Warming Coalition will present: “Climate Change: What’s in Our Future?” at 6:30 p.m. Oct. 25.",
+          "link": "https://www.nrtoday.com/news/local/climate-change-event-next-wednesday/article_ec54ab74-6dc8-11ee-b0a1-7bee2c1806e5.html",
+          "publishedOn": "2023-10-18T15:13:00.000Z",
+          "wordCount": 13071,
+          "title": "Climate change event next Wednesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/723caf18-6c82-11ee-9c03-e3b7cd384288",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "DOUGLAS COUNTY — The Douglas County planning committee for Make a Difference Day is seeking volunteers for nearly a dozen projects throughout Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/make-a-difference-day-committee-seeks-volunteers/article_723caf18-6c82-11ee-9c03-e3b7cd384288.html",
+          "publishedOn": "2023-10-18T15:00:00.000Z",
+          "wordCount": 13085,
+          "title": "Make a Difference Day committee seeks volunteers",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/83d537c0-6d2e-11ee-8f78-4f438e7c4964",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Detectives are investigating a homicide which occurred in the Green District on Monday night.",
+          "link": "https://www.nrtoday.com/news/crime/man-murdered-in-driveway-in-green-district/article_83d537c0-6d2e-11ee-8f78-4f438e7c4964.html",
+          "publishedOn": "2023-10-18T14:45:00.000Z",
+          "wordCount": 13164,
+          "title": "Man murdered in driveway in Green District",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7782f512-6d00-11ee-88b9-0ba162a63be7",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Loggers Pizza, what began as Sam Gross’ dream of transforming his favorite childhood pizza shop’s recipes into the best pizza restaurant in the world, is at risk of closing for good. Reoccurring shortfalls for more than a year have led…",
+          "link": "https://www.nrtoday.com/news/old-99-brewing-co-and-loggers-pizza-at-risk-for-closure/article_7782f512-6d00-11ee-88b9-0ba162a63be7.html",
+          "publishedOn": "2023-10-18T14:45:00.000Z",
+          "wordCount": 14081,
+          "title": "Old 99 Brewing Co. and Loggers Pizza at risk for closure",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/2a/e2a2a26c-6d31-11ee-8fa3-f788da22a289/652ef8bfc94db.image.jpg?resize=300%2C200",
+            "length": "301162",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/2a/e2a2a26c-6d31-11ee-8fa3-f788da22a289/652ef8bfc94db.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1548a18a-6dc3-11ee-938a-0bd88a3336f2",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A series of Bureau of Land Management open house meetings to take public input on plans to restore and improve recreation areas along the North Umpqua River and Rock Creek that were heavily damaged by the 2020 Archie Creek Fire,…",
+          "link": "https://www.nrtoday.com/news/local/blm-open-house-series-begins-thursday/article_1548a18a-6dc3-11ee-938a-0bd88a3336f2.html",
+          "publishedOn": "2023-10-18T14:31:00.000Z",
+          "wordCount": 13255,
+          "title": "BLM open house series begins Thursday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0c87f872-6c68-11ee-ab6c-6bc97a079af9",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — Enzi, an African lion, who lives alongside his brother, Tsavo, at the Wildlife Safari, needed a root canal. Dr. Brannick Adams and his team from Harvard Dental Group were able to make this a reality.",
+          "link": "https://www.nrtoday.com/news/local/lion-gets-a-root-canal-from-local-dentist/article_0c87f872-6c68-11ee-ab6c-6bc97a079af9.html",
+          "publishedOn": "2023-10-18T13:45:00.000Z",
+          "wordCount": 13532,
+          "title": "Lion gets a root canal from local dentist",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/c1/ec16b86a-6c69-11ee-a69d-6b0e5b7f9a7f/652da944529f6.image.jpg?resize=300%2C225",
+            "length": "289260",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/c1/ec16b86a-6c69-11ee-a69d-6b0e5b7f9a7f/652da944529f6.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6d0f7480-6d09-11ee-b5d1-572349d3ec05",
           "author": "HANNAH SEIBOLD The News-Review",
