@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-17T23:09:02.561Z</updated>
+    <updated>2023-10-18T02:17:14.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 10.17.23]]></title>
+        <id>https://kqennewsradio.com/?p=111472</id>
+        <link href="https://kqennewsradio.com/2023/10/17/true-wealth-10-17-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-10-17-23"/>
+        <updated>2023-10-18T00:11:43.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Matt Dickson focus on the topic of gold, on our local financial program.  Click here to download for later listening: TRUE WEALTH 10 17 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.17.23]]></title>
         <id>https://kqennewsradio.com/?p=111467</id>
@@ -524,16 +534,6 @@
         <summary type="html"><![CDATA[GREEN — Nearly 300 children gathered at the shopping center in Green on Friday morning to take part in a Walk, Bike and Roll event to encourage safe, healthy activity for students.]]></summary>
         <author>
             <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idaho man dies in crash Wednesday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a8c3d60e-6a04-11ee-8915-2b06d9218888</id>
-        <link href="https://www.nrtoday.com/briefs/idaho-man-dies-in-crash-wednesday/article_a8c3d60e-6a04-11ee-8915-2b06d9218888.html"/>
-        <updated>2023-10-14T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — Douglas Floyd, 70, of Middleton, Idaho, died Wednesday in a single vehicle crash on Highway 138E, near milepost 21, east of Glide.]]></summary>
-        <author>
-            <name>The News-Review</name>
         </author>
     </entry>
 </feed>

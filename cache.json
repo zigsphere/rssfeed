@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111472",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson focus on the topic of gold, on our local financial program.  Click here to download for later listening: TRUE WEALTH 10 17 2023",
+          "link": "https://kqennewsradio.com/2023/10/17/true-wealth-10-17-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-17-23",
+          "publishedOn": "2023-10-18T00:11:43.000Z",
+          "wordCount": 1478,
+          "title": "TRUE WEALTH 10.17.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231017230550/TRUE-WEALTH-10-17-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111467",
           "author": "Kyle Bailey",
           "description": "Umpqua Valley Farm to School Executive  Director Erin Maidlow talks about the work of the non-profit organization.  Click here to download for later listening:  IDC 10 17 23",
@@ -587,16 +602,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1b/d1b8b80e-69f0-11ee-8d02-f351b62b8456/65298318a465c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a8c3d60e-6a04-11ee-8915-2b06d9218888",
-          "author": "The News-Review",
-          "description": "GLIDE — Douglas Floyd, 70, of Middleton, Idaho, died Wednesday in a single vehicle crash on Highway 138E, near milepost 21, east of Glide.",
-          "link": "https://www.nrtoday.com/briefs/idaho-man-dies-in-crash-wednesday/article_a8c3d60e-6a04-11ee-8915-2b06d9218888.html",
-          "publishedOn": "2023-10-14T13:45:00.000Z",
-          "wordCount": 12977,
-          "title": "Idaho man dies in crash Wednesday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
