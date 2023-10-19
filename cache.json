@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111542",
+          "author": "Kyle Bailey",
+          "description": "A Community Cancer Center Power of Pink interview with cancer survivor Jennifer Crawford who tells us her cancer story. Click here to download for later listening: 830 10 19 23",
+          "link": "https://kqennewsradio.com/2023/10/19/morning-conversation-10-19-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-19-23",
+          "publishedOn": "2023-10-19T16:04:47.000Z",
+          "wordCount": 1476,
+          "title": "MORNING CONVERSATION 10.19.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231019145009/830-10-19-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231019150419/IMG_3106.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111538",
           "author": "Kyle Bailey",
           "description": "October 18, 2023 4:00 a.m. The Cow Creek Band of Umpqua Tribe of Indians began a new era of partnership Wednesday, having signed another formal agreement with a lead federal and state land management agency within the Cow Creek Umpqua Tribe’s Service area. A release from Communications and Marketing Director Lindsay Campman said Tribal Chairwoman...",
@@ -618,6 +633,56 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/57066cc6-3874-11ee-a687-5bc1a4b583fa",
+          "author": "HANNAROSE McGUINNESS The News-Review",
+          "description": "An old friend in Douglas County celebrated 125 years of residency this year.",
+          "link": "https://www.nrtoday.com/news/local/the-courthouse-elm-is-a-long-standing-symbol-of-community-history/article_57066cc6-3874-11ee-a687-5bc1a4b583fa.html",
+          "publishedOn": "2023-10-19T15:00:00.000Z",
+          "wordCount": 14344,
+          "title": "The Courthouse elm is a long-standing symbol of community history",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/46/846fe5e6-438e-11ee-b097-376859f2c55f/64e91d4c29a4b.image.jpg?resize=300%2C200",
+            "length": "770977",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/46/846fe5e6-438e-11ee-b097-376859f2c55f/64e91d4c29a4b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fbc584ba-6e0a-11ee-ab3d-9325c7e5debe",
+          "author": null,
+          "description": "ROSEBURG — Roseburg police jailed a man on 17 charges early Monday.",
+          "link": "https://www.nrtoday.com/briefs/man-jailed-on-17-charges/article_fbc584ba-6e0a-11ee-ab3d-9325c7e5debe.html",
+          "publishedOn": "2023-10-19T15:00:00.000Z",
+          "wordCount": 13045,
+          "title": "Man jailed on 17 charges",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dbec7a64-6dc8-11ee-b448-2b778474ea4a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — Umpqua Health Alliance has announced the launch of its Health Care Interpreter Training Scholarship program.",
+          "link": "https://www.nrtoday.com/news/health/umpqua-health-alliance-offering-training-scholarships/article_dbec7a64-6dc8-11ee-b448-2b778474ea4a.html",
+          "publishedOn": "2023-10-19T14:30:00.000Z",
+          "wordCount": 13177,
+          "title": "Umpqua Health Alliance offering training scholarships",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8ee5e2ae-6ddd-11ee-a6dc-7f6787176c54",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Roseburg Public Works will provide leaf collection services from Oct. 30 until Jan. 5 for residents within city limits. The leaves will then be available to those needing mulch.",
+          "link": "https://www.nrtoday.com/news/government/free-residential-leaf-pickups-start/article_8ee5e2ae-6ddd-11ee-a6dc-7f6787176c54.html",
+          "publishedOn": "2023-10-19T13:45:00.000Z",
+          "wordCount": 13492,
+          "title": "Free residential leaf pickups start",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/ea/0eaf7842-6de8-11ee-b7ac-bf3ee2219259/65302a622096f.image.jpg?resize=300%2C225",
+            "length": "658463",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/ea/0eaf7842-6de8-11ee-b7ac-bf3ee2219259/65302a622096f.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ec54ab74-6dc8-11ee-b0a1-7bee2c1806e5",
           "author": "Kyle Bailey For The News-Review",
