@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-20T23:08:39.465Z</updated>
+    <updated>2023-10-21T02:13:50.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -824,26 +824,6 @@
         <summary type="html"><![CDATA[RIDDLE — An 18-year-old Riddle man was arrested after he initially sped away from police on a motorcycle early Monday.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[END OF FIRE SEASON FOR ROGUE RIVER-SISKIYOU NATIONAL FOREST]]></title>
-        <id>https://kqennewsradio.com/?p=111440</id>
-        <link href="https://kqennewsradio.com/2023/10/17/end-of-fire-season-for-rogue-river-siskiyou-national-forest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=end-of-fire-season-for-rogue-river-siskiyou-national-forest"/>
-        <updated>2023-10-17T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[October 17, 2023 7:00 a.m. The Rogue-River Siskiyou National Forest has removed the fire danger rating on all five Ranger Districts across the forest, signaling the end of fire season, as of Tuesday. A release said the Industrial Fire Precaution Level has been removed and changed to “open”. This ends the level one precautions that...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEACH HAZARDS STATEMENT IN EFFECT THROUGH WEDNESDAY AFTERNOON]]></title>
-        <id>https://kqennewsradio.com/?p=111437</id>
-        <link href="https://kqennewsradio.com/2023/10/17/beach-hazards-statement-in-effect-through-wednesday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=beach-hazards-statement-in-effect-through-wednesday-afternoon"/>
-        <updated>2023-10-17T13:00:25.000Z</updated>
-        <summary type="html"><![CDATA[October 17, 2023 6:00 a.m.  A Beach Hazards Statement remains in effect through Wednesday afternoon for the south-central Oregon coast, including parts of Douglas, Coos and Curry counties. Forecasters at the National Weather Service said that an increased threat of sneaker waves is expected. Forecasters said waves can run up significantly farther on a beach...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
