@@ -359,6 +359,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3a8bfe46-4d0d-11ee-96dc-cfe8ad403355",
+          "author": "Scott Carroll The News-Review",
+          "description": "Back in the 19th century, before there were interstate highways and logging trucks, commerce on the West Coast was largely conducted via waterways, especially rivers and the Pacific Ocean.",
+          "link": "https://www.nrtoday.com/specialsections/oregons-original-lighthouse-still-shines/article_3a8bfe46-4d0d-11ee-96dc-cfe8ad403355.html",
+          "publishedOn": "2023-10-22T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Oregon's original lighthouse still shines",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/e2/de28f9c0-4d10-11ee-bca1-db1d09941278/5dc779c42a2ae.image.jpg?resize=300%2C450",
+            "length": "257449",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/e2/de28f9c0-4d10-11ee-bca1-db1d09941278/5dc779c42a2ae.image.jpg?resize=300%2C450"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/009cc03c-2fe7-11ee-b6c0-0f091c85fb50",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Rose and Gaia, a pair of dogs known as the welcoming committee, wagged their tails at the front entrance of HillCrest Vineyard — “Those are our greeters,” Dyson DeMara, owner, exclaimed.",
+          "link": "https://www.nrtoday.com/news/history/hillcrest-vineyard-aged-like-fine-wine/article_009cc03c-2fe7-11ee-b6c0-0f091c85fb50.html",
+          "publishedOn": "2023-10-22T14:45:00.000Z",
+          "wordCount": 14630,
+          "title": "HillCrest Vineyard aged like fine wine",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/1b/41b23c12-5325-11ee-aa30-83305037df74/650344a59ce5f.image.jpg?resize=300%2C200",
+            "length": "732218",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/1b/41b23c12-5325-11ee-aa30-83305037df74/650344a59ce5f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/079c2ec8-6ea2-11ee-b65d-33891856592c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "OREGON — The U.S. Department of Agriculture's Forest Service has nearly $50 million in grant funding available for proposals that will benefit forests, communities and local economies.",
+          "link": "https://www.nrtoday.com/news/environment/nearly-50-million-in-grants-to-strengthen-forest-products-economy/article_079c2ec8-6ea2-11ee-b65d-33891856592c.html",
+          "publishedOn": "2023-10-22T13:30:00.000Z",
+          "wordCount": 13068,
+          "title": "Nearly $50 million in grants to strengthen forest products economy",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/67c67518-6f7b-11ee-86aa-132b943e9ada",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Sierra Sioux Jennings, 29, was denied pretrial release and will remain at the Douglas County Jail for her alleged involvement in the murder of 34-year-old Joshua Lynn Alexander.",
