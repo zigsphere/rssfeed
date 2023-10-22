@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-22T16:10:28.478Z</updated>
+    <updated>2023-10-22T19:07:51.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -574,16 +574,6 @@
         <summary type="html"><![CDATA[October 19, 2023 2:50 a.m. With temperatures cooling and widespread rain soaking the state, all Oregon Department of Forestry districts have terminated fire season restrictions, marking the end of the 2023 Oregon fire season declarations. An ODF release said year to date, there have been 975 fires on ODF-protected lands, resulting I 17,968 acres burned....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua National Forest Lowers Fire Danger]]></title>
-        <id>https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1147059</id>
-        <link href="https://www.fs.usda.gov/detail/umpqua/news-events/?cid=FSEPRD1147059"/>
-        <updated>2023-10-19T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg, OR, October 19, 2023 - Starting today, October 19, 2023, there are no fire restrictions on the Umpqua National Forest and the fire danger level has been changed to low. Industrial Fire Prote...]]></summary>
-        <author>
-            <name>News For Umpqua National Forest</name>
         </author>
     </entry>
 </feed>
