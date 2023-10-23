@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-23T13:12:36.829Z</updated>
+    <updated>2023-10-23T16:11:50.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.23.23]]></title>
+        <id>https://kqennewsradio.com/?p=111645</id>
+        <link href="https://kqennewsradio.com/2023/10/23/morning-conversation-10-23-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-23-23"/>
+        <updated>2023-10-23T15:56:13.000Z</updated>
+        <summary type="html"><![CDATA[State Senator David Brock Smith talks about his call for a Special Session of the Oregon State Legislature to repeal Ballot Measure 110.  830 10 23 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildlife Safari brings Halloween fun with 'Zoobilee' event]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bedc3b16-7053-11ee-b1f1-931182b47084</id>
+        <link href="https://www.nrtoday.com/news/wildlife-safari-brings-halloween-fun-with-zoobilee-event/article_bedc3b16-7053-11ee-b1f1-931182b47084.html"/>
+        <updated>2023-10-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — The Safari Village at Wildlife Safari was packed on Friday, with children and their parents decked out in Halloween costumes, making their way around the park to take part in a number of fun events.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEN YEARS PASS SINCE DOUBLE HOMICIDE]]></title>
         <id>https://kqennewsradio.com/?p=111639</id>
