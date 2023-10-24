@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111693",
+          "author": "Kyle Bailey",
+          "description": "Whitney Henneman of the Douglas County Chapter of the Oregon Women in Timber talks about the local group and the timber industry. 830 10 24 23",
+          "link": "https://kqennewsradio.com/2023/10/24/morning-conversation-10-24-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-24-23",
+          "publishedOn": "2023-10-24T16:01:16.000Z",
+          "wordCount": 1480,
+          "title": "MORNING CONVERSATION 10.24.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231024144841/830-10-24-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231024144937/IMG_3143.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111686",
           "author": "Kyle Bailey",
           "description": "October  24, 2023 3:50 a.m. Work is underway to widen the Interstate 5 northbound off-ramp at the Garden Valley Boulevard interchange in Roseburg. Dan Latham of the Oregon Department of Transportation said traffic congestion is a frequent problem at that location. Latham said the ramp has a left-turn lane onto Northwest Garden Valley Boulevard and...",
@@ -244,6 +259,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e3b8f73a-6f77-11ee-b354-b72497eba4b0",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Miniature spotlights lined white foldout tables spanning the width of the room Saturday at the Douglas County Fairground Conference Center for the Fly Tying and Casting Festival, as more than 75 fly tyers demonstrated their intricate thread work.",
+          "link": "https://www.nrtoday.com/news/fly-tying-and-casting-festival-tie-flies-when-youre-having-fun/article_e3b8f73a-6f77-11ee-b354-b72497eba4b0.html",
+          "publishedOn": "2023-10-24T14:45:00.000Z",
+          "wordCount": 14365,
+          "title": "Fly Tying and Casting Festival: tie flies when you're having fun",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/26/626c069e-703b-11ee-8e3e-ffdc2ce2302c/6534112d2a4da.image.jpg?resize=300%2C200",
+            "length": "237478",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/26/626c069e-703b-11ee-8e3e-ffdc2ce2302c/6534112d2a4da.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4ce78ca4-6f72-11ee-bdca-0bf8f00c6fad",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The eighth annual Zonta Dignity Drive is continuing through Nov. 17.",
+          "link": "https://www.nrtoday.com/news/local/zonta-dignity-drive-continue/article_4ce78ca4-6f72-11ee-bdca-0bf8f00c6fad.html",
+          "publishedOn": "2023-10-23T17:58:00.000Z",
+          "wordCount": 13144,
+          "title": "Zonta Dignity Drive continue",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f3f9c5b2-6ea4-11ee-93bb-1b97b6dd2ae2",
           "author": "Kyle Bailey For The News-Review",
           "description": "Associates of Vietnam Veterans of America will have a Spousal and Survivor’s Benefits Educational Seminar on Nov. 4.",
@@ -251,6 +291,26 @@
           "publishedOn": "2023-10-23T17:28:00.000Z",
           "wordCount": 13027,
           "title": "Seminar on spousal, survivor benefits",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/61ca024a-71c1-11ee-9661-3f9459494a32",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINCHESTER — As of Sunday, 10 years have passed since a double homicide took place just north of Roseburg, and still no arrests have been made in the case.",
+          "link": "https://www.nrtoday.com/news/crime/10-years-since-double-homicide-no-arrests/article_61ca024a-71c1-11ee-9661-3f9459494a32.html",
+          "publishedOn": "2023-10-23T16:29:00.000Z",
+          "wordCount": 13162,
+          "title": "10 years since double homicide, no arrests",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fc5b0dd8-71ba-11ee-8285-27f3c05f24e3",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "REEDSPORT — The city of Reedsport Water Department scheduled a water shut down near South 19th Street from 7 a.m. to 2 p.m. Friday.",
+          "link": "https://www.nrtoday.com/news/local/reedsport-water-shut-down-for-repairs/article_fc5b0dd8-71ba-11ee-8285-27f3c05f24e3.html",
+          "publishedOn": "2023-10-23T15:44:00.000Z",
+          "wordCount": 13064,
+          "title": "Reedsport water shut down for repairs",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
