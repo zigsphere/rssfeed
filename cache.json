@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111726",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Justin Bruggeman have our weekly local financial program and ask the question, “Where Do Your Investment Returns Come From”? :  Click here to download for later listening:  TRUE WEALTH 10 24 2023",
+          "link": "https://kqennewsradio.com/2023/10/24/true-wealth-10-24-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-24-23",
+          "publishedOn": "2023-10-25T00:07:06.000Z",
+          "wordCount": 1488,
+          "title": "TRUE WEALTH 10.24.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231024230354/TRUE-WEALTH-10-24-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111724",
           "author": "Kyle Bailey",
           "description": "October 24, 2023 4:00 p.m.  State Representative Christine Goodwin is calling for the full repeal of Measure 110. A release from Goodwin said that through Measure 110, Oregon was the first state to decriminalize possession of drugs such as heroin, methamphetamine, cocaine and fentanyl. Goodwin said funding was shifted away from public safety, schools, cities...",
@@ -319,16 +334,6 @@
           "wordCount": 1512,
           "title": "PLANT CLINIC TO ACCEPT GARDENING QUESTIONS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215733/OSU-Extension-Service-Master-Gardeners-e1621963335898.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111621",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2023 7:00 a.m. paralytic shellfish toxin on the southern coast was under the safety threshold. The Oregon Department of Agriculture and Oregon Department of Fish and Wildlife announced the reopening on Friday. Razor clamming: *Open from the Washington border to Tillamook Head *Closed from Tillamook Head to Seal Rock *Open from Seal Rock...",
-          "link": "https://kqennewsradio.com/2023/10/21/oregon-coast-now-open-to-mussel-harvesting/?utm_source=rss&utm_medium=rss&utm_campaign=oregon-coast-now-open-to-mussel-harvesting",
-          "publishedOn": "2023-10-21T13:59:34.000Z",
-          "wordCount": 1544,
-          "title": "OREGON COAST NOW OPEN TO MUSSEL HARVESTING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
         }
       ]
     },
@@ -607,16 +612,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c956b3c2-6ea6-11ee-9575-a736c69148b8",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — The Roseburg Rite Aid store on Northwest Garden Valley Boulevard is remaining open, with only one Rite Aid location in Oregon slated for closure, following the company’s filing for bankruptcy protection Sunday.",
-          "link": "https://www.nrtoday.com/briefs/roseburg-rite-aid-remains-open/article_c956b3c2-6ea6-11ee-9575-a736c69148b8.html",
-          "publishedOn": "2023-10-21T13:30:00.000Z",
-          "wordCount": 13167,
-          "title": "Roseburg Rite Aid remains open",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
