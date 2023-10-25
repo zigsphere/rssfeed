@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111749",
+          "author": "Kyle Bailey",
+          "description": "Dawn Ellis of Associates of Vietnam Veterans of America talks about a Spousal and Survivor’s Benefits Educational Seminar that is coming up November 4th at Garden Valley Church.  Click here to download for later listening: 830 10 25 23",
+          "link": "https://kqennewsradio.com/2023/10/25/morning-conversation-10-25-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-25-23",
+          "publishedOn": "2023-10-25T16:03:26.000Z",
+          "wordCount": 1493,
+          "title": "MORNING CONVERSATION 10.25.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231025144950/830-10-25-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231025150301/IMG_3149.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111747",
           "author": "Kyle Bailey",
           "description": "October 25, 2023 5:45 a.m.  The Umpqua Valley got nearly a half inch of rain between 5:00 p.m. Tuesday and 5:00 a.m. Wednesday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport received 0.41 inches of precipitation in the 12-hour period. The heaviest rain fell...",
@@ -499,6 +514,21 @@
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/56/5569a500-7054-11ee-abf3-07c5523dc956/65343b08bad35.image.jpg?resize=300%2C200"
         },
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/53747b40-6f72-11ee-8655-8734fd308441",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Douglas County officials announced Friday that Emily Ring has taken over as the Douglas County Emergency Manager.",
+          "link": "https://www.nrtoday.com/news/emily-ring-hired-as-new-douglas-county-emergency-manager/article_53747b40-6f72-11ee-8655-8734fd308441.html",
+          "publishedOn": "2023-10-23T13:30:00.000Z",
+          "wordCount": 13488,
+          "title": "Emily Ring hired as new Douglas County Emergency Manager",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/78/37802a92-6f77-11ee-ba80-c39c7cce384f/6532c86ba2a95.image.jpg?resize=300%2C375",
+            "length": "156602",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/78/37802a92-6f77-11ee-ba80-c39c7cce384f/6532c86ba2a95.image.jpg?resize=300%2C375"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/66ac347c-6f78-11ee-9899-e32a50e16d1c",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "The Palestinian flag waved in the breeze, among people holding hand-crafted signs reading phrases like, “I support a free Palestine, no more occupation,” at the I Stand with Palestine rally held Saturday.",
@@ -592,16 +622,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/94/9945044a-6e2e-11ee-bb70-6ba747ffa1b6/6530a0bb63ea6.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f64ad18c-6f6a-11ee-9981-7f8ed54e5a33",
-          "author": null,
-          "description": "The next Friends of the Umpqua Hiking Club hike is scheduled for Oct. 28.",
-          "link": "https://www.nrtoday.com/news/local/bullpup-lake-and-lost-prairie-rock-next-on-friends-of-the-umpqua-hiking-clubs-agenda/article_f64ad18c-6f6a-11ee-9981-7f8ed54e5a33.html",
-          "publishedOn": "2023-10-22T03:33:00.000Z",
-          "wordCount": 13007,
-          "title": "Bullpup Lake and Lost Prairie Rock next on Friends of the Umpqua Hiking Club's agenda",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },

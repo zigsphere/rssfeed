@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-25T13:11:16.471Z</updated>
+    <updated>2023-10-25T16:11:26.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.25.23]]></title>
+        <id>https://kqennewsradio.com/?p=111749</id>
+        <link href="https://kqennewsradio.com/2023/10/25/morning-conversation-10-25-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-25-23"/>
+        <updated>2023-10-25T16:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Dawn Ellis of Associates of Vietnam Veterans of America talks about a Spousal and Survivor’s Benefits Educational Seminar that is coming up November 4th at Garden Valley Church.  Click here to download for later listening: 830 10 25 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG GETS NEARLY A HALF INCH OF RAIN TUESDAY NIGHT THROUGH EARLY WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=111747</id>
@@ -407,6 +417,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Emily Ring hired as new Douglas County Emergency Manager]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/53747b40-6f72-11ee-8655-8734fd308441</id>
+        <link href="https://www.nrtoday.com/news/emily-ring-hired-as-new-douglas-county-emergency-manager/article_53747b40-6f72-11ee-8655-8734fd308441.html"/>
+        <updated>2023-10-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County officials announced Friday that Emily Ring has taken over as the Douglas County Emergency Manager.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TEN YEARS PASS SINCE DOUBLE HOMICIDE]]></title>
         <id>https://kqennewsradio.com/?p=111639</id>
         <link href="https://kqennewsradio.com/2023/10/23/ten-years-pass-since-double-homicide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ten-years-pass-since-double-homicide"/>
@@ -534,16 +554,6 @@
         <summary type="html"><![CDATA[CANYONVILLE — Take a look at the popular Seven Feathers complex here — the glitzy casino, luxury hotel, spacious convention center, truck stop and RV park — and it’s easy to overlook how long, difficult and groundbreaking the journey was…]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullpup Lake and Lost Prairie Rock next on Friends of the Umpqua Hiking Club's agenda]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f64ad18c-6f6a-11ee-9981-7f8ed54e5a33</id>
-        <link href="https://www.nrtoday.com/news/local/bullpup-lake-and-lost-prairie-rock-next-on-friends-of-the-umpqua-hiking-clubs-agenda/article_f64ad18c-6f6a-11ee-9981-7f8ed54e5a33.html"/>
-        <updated>2023-10-22T03:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The next Friends of the Umpqua Hiking Club hike is scheduled for Oct. 28.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
         </author>
     </entry>
 </feed>
