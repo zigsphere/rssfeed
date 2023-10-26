@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-25T23:09:03.951Z</updated>
+    <updated>2023-10-26T02:15:28.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 10.25.23]]></title>
+        <id>https://kqennewsradio.com/?p=111777</id>
+        <link href="https://kqennewsradio.com/2023/10/25/mike-winters-lawn-and-garden-show-10-25-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-10-25-23"/>
+        <updated>2023-10-26T00:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt Mike Winters, has the weekly local lawn and garden program.  Click here to download for later listening:  MWLGS 10 25 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PROCLAMATION IN HONOR OF VETERANS AND MILITARY FAMILIES MONTH]]></title>
+        <id>https://kqennewsradio.com/?p=111773</id>
+        <link href="https://kqennewsradio.com/2023/10/25/proclamation-in-honor-of-veterans-and-military-families-month/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=proclamation-in-honor-of-veterans-and-military-families-month"/>
+        <updated>2023-10-25T23:19:54.000Z</updated>
+        <summary type="html"><![CDATA[October 25, 2023 4:20 p.m.   On Wednesday, the Douglas County Board of Commissioners issued a proclamation calling upon all residents to celebrate and honor Veterans and Military Families month. A County release said the proclamation also recognized and invited citizens to honor all veterans on Veteran’s Day and to attend the 68th annual Douglas County...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.25.23]]></title>
         <id>https://kqennewsradio.com/?p=111769</id>
@@ -644,16 +664,6 @@
         <summary type="html"><![CDATA[Rose and Gaia, a pair of dogs known as the welcoming committee, wagged their tails at the front entrance of HillCrest Vineyard — “Those are our greeters,” Dyson DeMara, owner, exclaimed.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly $50 million in grants to strengthen forest products economy]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/079c2ec8-6ea2-11ee-b65d-33891856592c</id>
-        <link href="https://www.nrtoday.com/news/environment/nearly-50-million-in-grants-to-strengthen-forest-products-economy/article_079c2ec8-6ea2-11ee-b65d-33891856592c.html"/>
-        <updated>2023-10-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OREGON — The U.S. Department of Agriculture's Forest Service has nearly $50 million in grant funding available for proposals that will benefit forests, communities and local economies.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
 </feed>

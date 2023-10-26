@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111777",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt Mike Winters, has the weekly local lawn and garden program.  Click here to download for later listening:  MWLGS 10 25 2023",
+          "link": "https://kqennewsradio.com/2023/10/25/mike-winters-lawn-and-garden-show-10-25-23/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-10-25-23",
+          "publishedOn": "2023-10-26T00:17:21.000Z",
+          "wordCount": 1489,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 10.25.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231025231500/MWLGS-10-25-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215720/newwinters.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=111773",
+          "author": "Kyle Bailey",
+          "description": "October 25, 2023 4:20 p.m.   On Wednesday, the Douglas County Board of Commissioners issued a proclamation calling upon all residents to celebrate and honor Veterans and Military Families month. A County release said the proclamation also recognized and invited citizens to honor all veterans on Veteran’s Day and to attend the 68th annual Douglas County...",
+          "link": "https://kqennewsradio.com/2023/10/25/proclamation-in-honor-of-veterans-and-military-families-month/?utm_source=rss&utm_medium=rss&utm_campaign=proclamation-in-honor-of-veterans-and-military-families-month",
+          "publishedOn": "2023-10-25T23:19:54.000Z",
+          "wordCount": 1593,
+          "title": "PROCLAMATION IN HONOR OF VETERANS AND MILITARY FAMILIES MONTH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231025221939/10-25-23_cc_Veterans_Proclamation_Collage.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111769",
           "author": "Kyle Bailey",
           "description": "Umpqua Community College Foundation Executive Director Jessica Paugh and Board Chair Aden Bliss talk about the foundation’s work and the upcoming Legacy Ball.  Click here to download for later listening:  IDC 10 25 2023",
@@ -727,16 +752,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/1b/41b23c12-5325-11ee-aa30-83305037df74/650344a59ce5f.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/079c2ec8-6ea2-11ee-b65d-33891856592c",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "OREGON — The U.S. Department of Agriculture's Forest Service has nearly $50 million in grant funding available for proposals that will benefit forests, communities and local economies.",
-          "link": "https://www.nrtoday.com/news/environment/nearly-50-million-in-grants-to-strengthen-forest-products-economy/article_079c2ec8-6ea2-11ee-b65d-33891856592c.html",
-          "publishedOn": "2023-10-22T13:30:00.000Z",
-          "wordCount": 13068,
-          "title": "Nearly $50 million in grants to strengthen forest products economy",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
