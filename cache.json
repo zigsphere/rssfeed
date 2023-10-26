@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111801",
+          "author": "Kyle Bailey",
+          "description": "A Power of Pink interview with the Community Cancer Center. Tabitha Gray shares her cancer story.  Click here to download for later listening:  830 10 26 23",
+          "link": "https://kqennewsradio.com/2023/10/26/morning-conversation-10-26-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-26-23",
+          "publishedOn": "2023-10-26T16:02:40.000Z",
+          "wordCount": 1477,
+          "title": "MORNING CONVERSATION 10.26.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231026145053/830-10-26-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231026150216/IMG_3154.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111793",
           "author": "Kyle Bailey",
           "description": "October 26, 2023 4:00 a.m.  A Freeze Warning and a Frost Advisory are in place for parts of central Douglas County from 2:00 a.m. to 9:00 a.m. Friday. An Urgent Weather Message from the National Weather Service said the Freeze Warning includes Azalea and Tiller where sub-freezing temperatures as low as 29 degrees are expected....",
@@ -583,6 +598,96 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0d56c3ac-7391-11ee-9aec-0f7a8c74aeda",
+          "author": "The News-Review",
+          "description": "SUTHERLIN — Owling Under the Full Moon, a free event sponsored by the Umpqua Valley Audubon Society, will be begin at 5:30 p.m. Saturday at Cooper Creek Reservoir.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-valley-audubon-society-event-scheduled-for-saturday/article_0d56c3ac-7391-11ee-9aec-0f7a8c74aeda.html",
+          "publishedOn": "2023-10-26T15:00:00.000Z",
+          "wordCount": 12974,
+          "title": "Umpqua Valley Audubon Society event scheduled for Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/833156d8-72b9-11ee-bed1-5b632804a863",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "A madcap murder mystery is making its way to Roseburg High School with their newest production: “Clue.”",
+          "link": "https://www.nrtoday.com/a_and_e/clue-a-madcap-murder-mystery-at-roseburg-high-school/article_833156d8-72b9-11ee-bed1-5b632804a863.html",
+          "publishedOn": "2023-10-26T14:45:00.000Z",
+          "wordCount": 13884,
+          "title": "Clue: a madcap murder mystery at Roseburg High School",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/cc/9cc3a45c-7359-11ee-a22b-77fc34a7c85b/65394d40e421f.image.jpg?resize=300%2C225",
+            "length": "340688",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/cc/9cc3a45c-7359-11ee-a22b-77fc34a7c85b/65394d40e421f.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1b68113e-7360-11ee-9703-6b9c237c2cc5",
+          "author": "Scott Carroll The News-Review",
+          "description": "Dozens of Douglas County homeowners who suffered severe financial hardships due to the COVID-19 pandemic have found some form of relief thanks to state funding that is designed to help such people stay in their homes.",
+          "link": "https://www.nrtoday.com/news/local/state-grant-helps-dozens-of-county-homeowners/article_1b68113e-7360-11ee-9703-6b9c237c2cc5.html",
+          "publishedOn": "2023-10-26T14:30:00.000Z",
+          "wordCount": 13673,
+          "title": "State grant helps dozens of county homeowners",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/7f/37f9fcee-7361-11ee-bcf0-afbf25c3fb51/62cdab2a41756.image.jpg?resize=300%2C203",
+            "length": "384724",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/7f/37f9fcee-7361-11ee-bcf0-afbf25c3fb51/62cdab2a41756.image.jpg?resize=300%2C203"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b94da19e-7355-11ee-b497-27dbe5dc74db",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "School assessment scores were recently released, and according to the Oregon Department of Education website, participation in the tests has risen and schools are finally getting back on track.",
+          "link": "https://www.nrtoday.com/news/education/school-assessment-scores-show-stabilizing-education/article_b94da19e-7355-11ee-b497-27dbe5dc74db.html",
+          "publishedOn": "2023-10-26T14:30:00.000Z",
+          "wordCount": 13855,
+          "title": "School assessment scores show stabilizing education",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/86/486f6402-7356-11ee-90cd-c35eef97e768/653946cb8b821.preview.jpg?crop=1351%2C709%2C0%2C220&resize=1200%2C630&order=crop%2Cresize"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d3586904-71c8-11ee-beb7-0b1720a54ad2",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Oregon Public Health Association recognized four people statewide, including two Douglas County health care workers: Alyson Pinkelman and Dane Zahner.",
+          "link": "https://www.nrtoday.com/news/health/douglas-county-health-care-workers-receive-statewide-recognition/article_d3586904-71c8-11ee-beb7-0b1720a54ad2.html",
+          "publishedOn": "2023-10-26T14:00:00.000Z",
+          "wordCount": 13401,
+          "title": "Douglas County health care workers receive statewide recognition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/82/f82e0294-71d6-11ee-b6ab-57fa6397108e/6536c3b38dca7.image.jpg?resize=300%2C649",
+            "length": "127458",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/82/f82e0294-71d6-11ee-b6ab-57fa6397108e/6536c3b38dca7.image.jpg?resize=300%2C649"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ccbf8a18-7368-11ee-81f2-678905601b8b",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Roseburg City Council will have a work session to discuss the downtown parking situation at 4 p.m. Wednesday.",
+          "link": "https://www.nrtoday.com/news/government/roseburg-city-council-to-discuss-parking/article_ccbf8a18-7368-11ee-81f2-678905601b8b.html",
+          "publishedOn": "2023-10-26T13:45:00.000Z",
+          "wordCount": 13085,
+          "title": "Roseburg City Council to discuss parking",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e9fa3ba-739a-11ee-84e0-d72db067ecc0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A presentation Wednesday at the Oregon State University Extenstion Office began with an introduction to the Pacific madrone tree and details about their known geographic range, observed decline, climate change impacts, conservation of mature trees, increased planting and best management…",
+          "link": "https://www.nrtoday.com/news/environment/madrones-a-workshop-and-tour/article_5e9fa3ba-739a-11ee-84e0-d72db067ecc0.html",
+          "publishedOn": "2023-10-26T00:55:00.000Z",
+          "wordCount": 14340,
+          "title": "Madrones: A workshop and tour",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d0/0d0674b0-73c3-11ee-93f5-2fd38cbd7473/6539fd46e8916.image.jpg?resize=300%2C200",
+            "length": "486031",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d0/0d0674b0-73c3-11ee-93f5-2fd38cbd7473/6539fd46e8916.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4ea74004-71be-11ee-b97c-2759399845f1",
           "author": "SANNE GODFREY The News-Review",
