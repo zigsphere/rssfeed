@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-26T23:09:04.696Z</updated>
+    <updated>2023-10-27T02:15:27.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 10.26.23]]></title>
+        <id>https://kqennewsradio.com/?p=111830</id>
+        <link href="https://kqennewsradio.com/2023/10/26/your-cue-10-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-10-26-23"/>
+        <updated>2023-10-27T00:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by State Representative Virgle Osborne to talk about an upcoming event at Champagne Creek Ranch.  Clint Smith from Roseburg Towing was on the Local Business Buzz, presented by Umpqua Survival.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TROOPER AND MOTORIST STRUCK BY SUSPECTED IMPAIRED DRIVER]]></title>
         <id>https://kqennewsradio.com/?p=111828</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[October 26, 2023 2:50 p.m.  On Thursday, Governor Tina Kotek ordered flags at Oregon public institutions to be flown at half-staff pursuant to a Presidential Proclamation. A release from the Governor’s Office said it was in response to what she called, “the senseless acts of violence perpetrated in Lewiston, Maine”. The flag should be flown...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorist crashes into stopped vehicle and Oregon State Police]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d43e5c38-743a-11ee-a2d7-fb85a1c3d5b5</id>
+        <link href="https://www.nrtoday.com/news/motorist-crashes-into-stopped-vehicle-and-oregon-state-police/article_d43e5c38-743a-11ee-a2d7-fb85a1c3d5b5.html"/>
+        <updated>2023-10-26T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An Oregon State Police trooper and a motorist were struck by a suspected impaired driver during a traffic stop east of Roseburg Thursday morning.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -804,16 +824,6 @@
         <summary type="html"><![CDATA[WINSTON — The Safari Village at Wildlife Safari was packed on Friday, with children and their parents decked out in Halloween costumes, making their way around the park to take part in a number of fun events.]]></summary>
         <author>
             <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emily Ring hired as new Douglas County Emergency Manager]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/53747b40-6f72-11ee-8655-8734fd308441</id>
-        <link href="https://www.nrtoday.com/news/emily-ring-hired-as-new-douglas-county-emergency-manager/article_53747b40-6f72-11ee-8655-8734fd308441.html"/>
-        <updated>2023-10-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County officials announced Friday that Emily Ring has taken over as the Douglas County Emergency Manager.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
 </feed>

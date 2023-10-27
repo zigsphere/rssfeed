@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111830",
+          "author": "Kyle Bailey",
+          "description": "Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by State Representative Virgle Osborne to talk about an upcoming event at Champagne Creek Ranch.  Clint Smith from Roseburg Towing was on the Local Business Buzz, presented by Umpqua Survival.",
+          "link": "https://kqennewsradio.com/2023/10/26/your-cue-10-26-23/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-10-26-23",
+          "publishedOn": "2023-10-27T00:13:08.000Z",
+          "wordCount": 1490,
+          "title": "YOUR CUE 10.26.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231026231004/YOUR-CUE-10-26-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220429/yourcue.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111828",
           "author": "Kyle Bailey",
           "description": "October 26, 2:55 p.m.  An Oregon State Police trooper and a motorist were struck by a suspected impaired driver during a traffic stop east of Roseburg Thursday morning. An OSP report said at about 7:30 a.m. and patrol sergeant stopped a motorist for a traffic violation on Highway 138E, facing westbound near milepost 10 which...",
@@ -654,6 +669,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d43e5c38-743a-11ee-a2d7-fb85a1c3d5b5",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "An Oregon State Police trooper and a motorist were struck by a suspected impaired driver during a traffic stop east of Roseburg Thursday morning.",
+          "link": "https://www.nrtoday.com/news/motorist-crashes-into-stopped-vehicle-and-oregon-state-police/article_d43e5c38-743a-11ee-a2d7-fb85a1c3d5b5.html",
+          "publishedOn": "2023-10-26T21:45:00.000Z",
+          "wordCount": 13497,
+          "title": "Motorist crashes into stopped vehicle and Oregon State Police",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/4c/d4c8e74a-7426-11ee-8f5a-6714ff27b1c9/653aa4ae402ff.image.jpg?resize=300%2C200",
+            "length": "420834",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/4c/d4c8e74a-7426-11ee-8f5a-6714ff27b1c9/653aa4ae402ff.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0d56c3ac-7391-11ee-9aec-0f7a8c74aeda",
           "author": "The News-Review",
           "description": "SUTHERLIN — Owling Under the Full Moon, a free event sponsored by the Umpqua Valley Audubon Society, will be begin at 5:30 p.m. Saturday at Cooper Creek Reservoir.",
@@ -897,21 +927,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/56/5569a500-7054-11ee-abf3-07c5523dc956/65343b08bad35.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/53747b40-6f72-11ee-8655-8734fd308441",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "Douglas County officials announced Friday that Emily Ring has taken over as the Douglas County Emergency Manager.",
-          "link": "https://www.nrtoday.com/news/emily-ring-hired-as-new-douglas-county-emergency-manager/article_53747b40-6f72-11ee-8655-8734fd308441.html",
-          "publishedOn": "2023-10-23T13:30:00.000Z",
-          "wordCount": 13488,
-          "title": "Emily Ring hired as new Douglas County Emergency Manager",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/78/37802a92-6f77-11ee-ba80-c39c7cce384f/6532c86ba2a95.image.jpg?resize=300%2C375",
-            "length": "156602",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/78/37802a92-6f77-11ee-ba80-c39c7cce384f/6532c86ba2a95.image.jpg?resize=300%2C375"
         }
       ]
     },
