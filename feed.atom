@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-28T19:06:32.809Z</updated>
+    <updated>2023-10-28T23:08:01.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -374,6 +374,16 @@
         <summary type="html"><![CDATA[An Oregon State Police trooper and a motorist were struck by a suspected impaired driver during a traffic stop east of Roseburg Thursday morning.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildlife Safari welcomes adorable female grizzly cub]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/067606a6-7445-11ee-9565-b70ccdae2239</id>
+        <link href="https://www.nrtoday.com/news/local/wildlife-safari-welcomes-adorable-female-grizzly-cub/article_067606a6-7445-11ee-9565-b70ccdae2239.html"/>
+        <updated>2023-10-26T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — Wildlife Safari is thrilled to introduce a charming and curious new addition to its family: a 7-month-old female grizzly bear cub. Weighing in at 100 pounds, this young grizzly was discovered abandoned in Montana and has since found…]]></summary>
+        <author>
+            <name>Wildlife Safari</name>
         </author>
     </entry>
     <entry>
@@ -772,66 +782,6 @@
         <link href="https://kqennewsradio.com/2023/10/25/roseburg-gets-nearly-a-half-inch-of-rain-tuesday-night-through-early-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-gets-nearly-a-half-inch-of-rain-tuesday-night-through-early-wednesday"/>
         <updated>2023-10-25T12:46:22.000Z</updated>
         <summary type="html"><![CDATA[October 25, 2023 5:45 a.m.  The Umpqua Valley got nearly a half inch of rain between 5:00 p.m. Tuesday and 5:00 a.m. Wednesday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport received 0.41 inches of precipitation in the 12-hour period. The heaviest rain fell...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH WEDNESDAY EVENING]]></title>
-        <id>https://kqennewsradio.com/?p=111740</id>
-        <link href="https://kqennewsradio.com/2023/10/25/winter-weather-advisory-through-wednesday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-through-wednesday-evening"/>
-        <updated>2023-10-25T11:02:27.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 4:00 a.m. A Winter Weather Advisory remains in effect through 9:00 p.m. Wednesday for mountain areas in southern Oregon above 4,000 feet. Forecasters at the National Weather Service said wet snow is expected down to 3,500 feet. Total snow accumulations of 2 to 5 inches at elevations between 4,000 and 5,000 feet...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNF RESCINDS FOREST CLOSURE ORDER]]></title>
-        <id>https://kqennewsradio.com/?p=111738</id>
-        <link href="https://kqennewsradio.com/2023/10/25/unf-rescinds-forest-closure-order/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unf-rescinds-forest-closure-order"/>
-        <updated>2023-10-25T10:39:41.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 3:45 a.m. Staff with the Umpqua National Forest has rescinded the temporary Forest Closure Order for the Chilcoot and Grizzly Fires as of Tuesday. The closure began on August 28th and was reduced on September 20th. This closure encompassed large portions of the North Umpqua and Cottage Grove Ranger districts. All roads...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY COUNCIL WORK SESSION TO DISCUSS DOWNTOWN PARKING]]></title>
-        <id>https://kqennewsradio.com/?p=111736</id>
-        <link href="https://kqennewsradio.com/2023/10/25/city-council-work-session-to-discuss-downtown-parking/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-work-session-to-discuss-downtown-parking"/>
-        <updated>2023-10-25T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 3:35 a.m. The Roseburg City Council will have a work session to discuss the downtown parking situation on Wednesday, November 1st at 4:00 p.m. On Monday night councilors adopted a resolution authorizing an appropriations transfer for the amount of $20,000 to cover projected cash flow needs for the Off Street Parking Fund....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLIMATE CHANGE DISCUSSION WEDNESDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=111734</id>
-        <link href="https://kqennewsradio.com/2023/10/25/climate-change-discussion-wednesday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=climate-change-discussion-wednesday-night"/>
-        <updated>2023-10-25T10:26:02.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 3:25 a.m. Douglas County Global Warming Coalition has a program titled: “Climate Change: What’s In Our Future?”. The event is Wednesday night at 6:00 p.m. in the Ford Room of the Roseburg Public Library. The guest speaker will be Dr. Nick Siler, Associate State Climatologist and faculty member of Oregon State University....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FALL BAZAAR HAPPENING FRIDAY AND SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111732</id>
-        <link href="https://kqennewsradio.com/2023/10/25/fall-bazaar-happening-friday-and-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fall-bazaar-happening-friday-and-saturday"/>
-        <updated>2023-10-25T10:18:04.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 3:15 a.m. First United Methodist Church on West Harvard Avenue in Roseburg will have its annual Fall Bazaar this Friday and Saturday. Hours are Friday from 2:00 p.m. to 7:00 p.m. and Saturday from 9:00 a.m. to 2:00 p.m. The event has been a tradition for many years. This year a new...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNG LIFE HOSTS STORYTELLING FUNDRAISER]]></title>
-        <id>https://kqennewsradio.com/?p=111729</id>
-        <link href="https://kqennewsradio.com/2023/10/25/young-life-hosts-storytelling-fundraiser/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=young-life-hosts-storytelling-fundraiser"/>
-        <updated>2023-10-25T10:05:42.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 3:00 a.m. Greater Roseburg Young Life is hosting Mentors That Matter on Friday evening at 7:00 p.m. Called a “unique storytelling event”, the program will feature five speakers sharing personal stories about the impact that mentors had in their lives. A feature presentation from the organization’s director Jon Nutter is included, along...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
