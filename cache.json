@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111912",
+          "author": "Kyle Bailey",
+          "description": "October 29, 2023 6:45 a.m. A Freeze Warning remains in effect through 9:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service said sub-freezing temperatures as low as 24 degrees are likely. The Warning area includes central Douglas County, Josephine and Jackson counties, and eastern Curry County. Forecasters said frost and...",
+          "link": "https://kqennewsradio.com/2023/10/29/freeze-warning-through-900-a-m-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=freeze-warning-through-900-a-m-sunday",
+          "publishedOn": "2023-10-29T13:49:19.000Z",
+          "wordCount": 1487,
+          "title": "FREEZE WARNING THROUGH 9:00 A.M. SUNDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231029124738/sundcold.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111910",
           "author": "Kyle Bailey",
           "description": "October 28, 2023 10:00 a.m. A deputy with the Douglas County Sheriff’s Office jailed a woman following a theft incident late Wednesday. A DCSO report released on Saturday, said just after 11:55 p.m. received a call about a theft from a business in the 400 block of Bear Creek Road in Curtin. The caller said...",
@@ -453,6 +463,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/05816a7a-7601-11ee-b2e9-4b254a76c23c",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "CURTAIN — A deputy with the Douglas County Sheriff’s Office jailed a woman following a theft incident late Wednesday.",
+          "link": "https://www.nrtoday.com/briefs/sheriff-s-office-jails-woman-following-theft/article_05816a7a-7601-11ee-b2e9-4b254a76c23c.html",
+          "publishedOn": "2023-10-29T15:45:00.000Z",
+          "wordCount": 13210,
+          "title": "Sheriff’s office jails woman following theft",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a759ef5e-7451-11ee-90ee-d32e30067631",
           "author": "Scott Carroll The News-Review",
