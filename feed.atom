@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-28T23:08:01.175Z</updated>
+    <updated>2023-10-29T02:18:18.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -754,36 +754,6 @@
         <summary type="html"><![CDATA[ROSEBURG — Roseburg police jailed a man Monday night on 34 charges following an alleged theft case.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russell Woolley joins CHI Mercy Health as new President, CEO]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a6a81b9e-7285-11ee-97ca-b78252a6db87</id>
-        <link href="https://www.nrtoday.com/news/health/russell-woolley-joins-chi-mercy-health-as-new-president-ceo/article_a6a81b9e-7285-11ee-97ca-b78252a6db87.html"/>
-        <updated>2023-10-25T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The question: What does Russell Woolley think is one of the most important parts to his new position?]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shades of bipolar gray]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/bfd82504-6def-11ee-9baf-8310d7560ea3</id>
-        <link href="https://www.nrtoday.com/life/health/shades-of-bipolar-gray/article_bfd82504-6def-11ee-9baf-8310d7560ea3.html"/>
-        <updated>2023-10-25T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The two extremes of human emotional illness, mania and melancholy, have long been recognized. The ancient Greek physician Hippocrates described their symptoms over 2,500 years ago. However, the two were not always seen as being related to each other.]]></summary>
-        <author>
-            <name>SCOTT MENDELSON</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG GETS NEARLY A HALF INCH OF RAIN TUESDAY NIGHT THROUGH EARLY WEDNESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111747</id>
-        <link href="https://kqennewsradio.com/2023/10/25/roseburg-gets-nearly-a-half-inch-of-rain-tuesday-night-through-early-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-gets-nearly-a-half-inch-of-rain-tuesday-night-through-early-wednesday"/>
-        <updated>2023-10-25T12:46:22.000Z</updated>
-        <summary type="html"><![CDATA[October 25, 2023 5:45 a.m.  The Umpqua Valley got nearly a half inch of rain between 5:00 p.m. Tuesday and 5:00 a.m. Wednesday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport received 0.41 inches of precipitation in the 12-hour period. The heaviest rain fell...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
