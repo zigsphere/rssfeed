@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-29T23:08:22.351Z</updated>
+    <updated>2023-10-30T02:18:02.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -574,26 +574,6 @@
         <summary type="html"><![CDATA[School assessment scores were recently released, and according to the Oregon Department of Education website, participation in the tests has risen and schools are finally getting back on track.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County health care workers receive statewide recognition]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d3586904-71c8-11ee-beb7-0b1720a54ad2</id>
-        <link href="https://www.nrtoday.com/news/health/douglas-county-health-care-workers-receive-statewide-recognition/article_d3586904-71c8-11ee-beb7-0b1720a54ad2.html"/>
-        <updated>2023-10-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Public Health Association recognized four people statewide, including two Douglas County health care workers: Alyson Pinkelman and Dane Zahner.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg City Council to discuss parking]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ccbf8a18-7368-11ee-81f2-678905601b8b</id>
-        <link href="https://www.nrtoday.com/news/government/roseburg-city-council-to-discuss-parking/article_ccbf8a18-7368-11ee-81f2-678905601b8b.html"/>
-        <updated>2023-10-26T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The Roseburg City Council will have a work session to discuss the downtown parking situation at 4 p.m. Wednesday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
