@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=111947",
+          "author": "Kyle Bailey",
+          "description": "Information about a free donated dental day for veterans being offered by Dr. Randol’s office. Dr. Caitlin Konicek tells all about it.",
+          "link": "https://kqennewsradio.com/2023/10/30/morning-conversation-10-30-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-30-23",
+          "publishedOn": "2023-10-30T16:03:42.000Z",
+          "wordCount": 1479,
+          "title": "MORNING CONVERSATION 10.30.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231030145417/830-10-30-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231030150314/IMG_3177.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=111945",
+          "author": "Kyle Bailey",
+          "description": "October 30, 2023 6:50 a.m. City of Roseburg Public Works crews are beginning their free fall leaf collection service for homeowners. A City release said now through January 5th, crews will follow a cyclical, systematic route to help residents with leaf disposal and to ensure leaf collection can be provided in an effective, cost-controlled program....",
+          "link": "https://kqennewsradio.com/2023/10/30/free-residential-leaf-pickups-to-start-2/?utm_source=rss&utm_medium=rss&utm_campaign=free-residential-leaf-pickups-to-start-2",
+          "publishedOn": "2023-10-30T13:58:18.000Z",
+          "wordCount": 1623,
+          "title": "FREE RESIDENTIAL LEAF PICKUPS TO START",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222204/citypic.png-1-e1604402841227.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111932",
           "author": "Kyle Bailey",
           "description": "October 30, 2023 4:00 a.m. A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning. Calls to 911 began reporting the blaze at approximately 7:00 a.m. It was at the corner of West Central Avenue and Grant Street. The structure was behind Tim’s...",
@@ -64,6 +89,16 @@
           "wordCount": 1487,
           "title": "FREEZE WARNING THROUGH 9:00 A.M. SUNDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231029124738/sundcold.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=111910",
+          "author": "Kyle Bailey",
+          "description": "October 28, 2023 10:00 a.m. A deputy with the Douglas County Sheriff’s Office jailed a woman following a theft incident late Wednesday. A DCSO report released on Saturday, said just after 11:55 p.m. 911 received a call about a theft from a business in the 400 block of Bear Creek Road in Curtin. The caller...",
+          "link": "https://kqennewsradio.com/2023/10/28/sheriffs-office-jails-woman-following-theft-incident/?utm_source=rss&utm_medium=rss&utm_campaign=sheriffs-office-jails-woman-following-theft-incident",
+          "publishedOn": "2023-10-28T17:07:03.000Z",
+          "wordCount": 1611,
+          "title": "SHERIFF’S OFFICE JAILS WOMAN FOLLOWING THEFT INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         },
         {
           "id": "https://kqennewsradio.com/?p=111910",
@@ -308,6 +343,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f5223bc8-7731-11ee-82b5-f35bd82e0914",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning.",
+          "link": "https://www.nrtoday.com/news/local/commercial-building-destroyed-in-sunday-fire/article_f5223bc8-7731-11ee-82b5-f35bd82e0914.html",
+          "publishedOn": "2023-10-30T14:38:00.000Z",
+          "wordCount": 13538,
+          "title": "Commercial building destroyed in Sunday fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c7/6c776374-7732-11ee-a084-87e6e057236c/653fc09ea8b67.image.jpg?resize=300%2C225",
+            "length": "267960",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c7/6c776374-7732-11ee-a084-87e6e057236c/653fc09ea8b67.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Legendary winemaker Calvin Scott Henry III died Thursday at age 86.",
+          "link": "https://www.nrtoday.com/news/local/henry-estate-winery-patriarch-dies-age-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html",
+          "publishedOn": "2023-10-30T14:00:00.000Z",
+          "wordCount": 13554,
+          "title": "Henry Estate Winery patriarch dies, age 86",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/653c3119c1b20.image.jpg?resize=300%2C176",
+            "length": "20053",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/653c3119c1b20.image.jpg?resize=300%2C176"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/05816a7a-7601-11ee-b2e9-4b254a76c23c",
           "author": "Kyle Bailey For The News-Review",
