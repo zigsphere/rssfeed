@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-10-30T23:08:33.211Z</updated>
+    <updated>2023-10-31T02:17:26.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -464,46 +464,6 @@
         <summary type="html"><![CDATA[ROSEBURG — The Neewollah costume parade will return to downtown Roseburg Tuesday evening. This is Roseburg’s 90th year hosting the Halloween event, according to a press release from the city.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grant funding of $5,000 for tourism related events]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5b7a6280-73a7-11ee-88b4-3fe5e2967551</id>
-        <link href="https://www.nrtoday.com/briefs/grant-funding-of-5-000-for-tourism-related-events/article_5b7a6280-73a7-11ee-88b4-3fe5e2967551.html"/>
-        <updated>2023-10-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Local organizations planning events to attract tourists to Roseburg have the opportunity to apply for fall tourism grants awarding $5,000 or more.]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winston youth designs Nike collection for Doernbecher Freestyle]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/95aff642-72b5-11ee-97e6-6b5ae566ffc6</id>
-        <link href="https://www.nrtoday.com/news/winston-youth-designs-nike-collection-for-doernbecher-freestyle/article_95aff642-72b5-11ee-97e6-6b5ae566ffc6.html"/>
-        <updated>2023-10-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Health and Science University Doernbecher Children’s Hospital is in its 19th year providing patients the chance to design items for Doernbecher Freestyle: a limited-edition, patient-designed collaboration with Nike.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winchester Water Control District fined by DEQ]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2132ddee-7444-11ee-a076-c34ad142fdac</id>
-        <link href="https://www.nrtoday.com/news/environment/winchester-water-control-district-fined-by-deq/article_2132ddee-7444-11ee-a076-c34ad142fdac.html"/>
-        <updated>2023-10-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Department of Environmental Quality issued two enforcement orders to pay civil penalties Thursday morning, one against the Winchester Water Control District and one against TerraFirma Foundation Repair Inc. Both of these fines are related to water quality violations during…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lone Rock Bridge reduced to one lane due to ongoing construction]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8efb56d6-738f-11ee-96dd-3bdd86e5c3b1</id>
-        <link href="https://www.nrtoday.com/news/local/lone-rock-bridge-reduced-to-one-lane-due-to-ongoing-construction/article_8efb56d6-738f-11ee-96dd-3bdd86e5c3b1.html"/>
-        <updated>2023-10-27T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — The Lone Rock Bridge in Glide is currently reduced to one lane as Oregon Department of Transportation crews continue a $3.8 million construction project that is set to complete in 2024.]]></summary>
-        <author>
-            <name>WILL GESCHKE The News-Review</name>
         </author>
     </entry>
 </feed>
