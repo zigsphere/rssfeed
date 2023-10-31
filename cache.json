@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112024",
+          "author": "Kyle Bailey",
+          "description": "An update on the community well-being initiative Thrive Umpqua from Juliete Palenshus. Click here to download for later listening:  IDC 10 31 23",
+          "link": "https://kqennewsradio.com/2023/10/31/inside-douglas-county-10-31-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-31-23",
+          "publishedOn": "2023-10-31T20:17:12.000Z",
+          "wordCount": 1480,
+          "title": "INSIDE DOUGLAS COUNTY 10.31.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231031191331/IDC-10-31-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231031191646/IMG_3182.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112021",
           "author": "Kyle Bailey",
           "description": "October 31, 2023 11:30 a.m. Department of Veterans Affairs Deputy Secretary Tanya Bradsher will meet with facility leadership and tour the Roseburg VA Medical Center on Wednesday. A VA release said Bradsher will also hear from staff and veterans firsthand about the on-the-ground implementation of VA’s electronic health record. Bradsher was confirmed as deputy secretary...",
@@ -517,6 +532,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c7/6c776374-7732-11ee-a084-87e6e057236c/653fc09ea8b67.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Legendary winemaker Calvin Scott Henry III died Thursday at age 86.",
+          "link": "https://www.nrtoday.com/news/local/scott-henry-iii-henry-estate-winery-patriarch-dies-at-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html",
+          "publishedOn": "2023-10-30T14:00:00.000Z",
+          "wordCount": 14109,
+          "title": "Scott Henry III, Henry Estate Winery patriarch, dies at 86",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/65414e7ec1d23.image.jpg?resize=300%2C176",
+            "length": "65345",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/65414e7ec1d23.image.jpg?resize=300%2C176"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1",
