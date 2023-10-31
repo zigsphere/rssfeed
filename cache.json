@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112003",
+          "author": "Kyle Bailey",
+          "description": "Organizer Stacey Crowe talks about tonight’s Neewollah Parade in downtown Roseburg. Click here to download for later listening: Click here to download for later listening:  830 10 31 23",
+          "link": "https://kqennewsradio.com/2023/10/31/morning-conversation-10-31-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-31-23",
+          "publishedOn": "2023-10-31T16:04:35.000Z",
+          "wordCount": 1480,
+          "title": "MORNING CONVERSATION 10.31.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231031144919/830-10-31-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231031150412/IMG_3180.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=111999",
           "author": "Kyle Bailey",
           "description": "October 31, 2023 5:20 a.m.  Deputies with the Douglas County Sheriff’s Office cited a man following an alleged pursuit incident Saturday night. A DCSO report said just after 8:00 p.m. 49-year old Keith O’Dell allegedly ran a red light in front of a deputy at the intersection of Northeast Stephens Street and Northeast Garden Valley...",
@@ -348,6 +363,66 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/af884a1e-71b7-11ee-80e1-9f5661fd8dcd",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "SUTHERLIN — Sutherlin Lions Club will come to the Sutherlin Senior Center, at 202 E. Central Ave. in Sutherlin, for an afternoon of turkey bingo on Saturday.",
+          "link": "https://www.nrtoday.com/news/local/turkey-bingo-scheduled-for-nov-4/article_af884a1e-71b7-11ee-80e1-9f5661fd8dcd.html",
+          "publishedOn": "2023-10-31T15:20:00.000Z",
+          "wordCount": 13111,
+          "title": "Turkey bingo scheduled for Nov. 4",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/361ba670-7771-11ee-938d-dbc8c525a369",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — Roseburg High School robotics is hosting an aircraft challenge where students are tasked with designing, building and testing paper airplane launchers.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-public-library-to-host-robotics-meet/article_361ba670-7771-11ee-938d-dbc8c525a369.html",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 13082,
+          "title": "Roseburg Public Library to host robotics meet",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/53aece8c-774a-11ee-b53e-bff9f6502384",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Glide High School agricultural mechanics students built 10 metal sawhorses in a partnership with Con-Vey LLC to promote real-life experience in the classroom.",
+          "link": "https://www.nrtoday.com/news/education/glide-students-partner-with-con-vey-build-sawhorses/article_53aece8c-774a-11ee-b53e-bff9f6502384.html",
+          "publishedOn": "2023-10-31T14:00:00.000Z",
+          "wordCount": 13982,
+          "title": "Glide students partner with Con-Vey, build sawhorses",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/18/9189ba96-774a-11ee-9524-5f9eedd6f8ca/653fe920c816d.image.jpg?resize=300%2C200",
+            "length": "457691",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/18/9189ba96-774a-11ee-9524-5f9eedd6f8ca/653fe920c816d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4be36afa-7759-11ee-891c-b77c85e660f1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Ghosts, dinosaurs, cows, cookie monsters, Wednesday Addams, Barbies, Jack and Sally Skellingtons and Spongebobs invaded East Central Avenue on Saturday in Sutherlin with one communal goal in their minds — a sugar rush.",
+          "link": "https://www.nrtoday.com/family/trunks-raided-and-candy-taken-in-sutherlin-for-halloween-event/article_4be36afa-7759-11ee-891c-b77c85e660f1.html",
+          "publishedOn": "2023-10-31T14:00:00.000Z",
+          "wordCount": 14391,
+          "title": "Trunks raided and candy taken in Sutherlin for Halloween event",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/4d/24d1dd5c-75f6-11ee-8885-2fbf55c9ffa9/653dadfd80320.image.jpg?resize=300%2C200",
+            "length": "369796",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/4d/24d1dd5c-75f6-11ee-8885-2fbf55c9ffa9/653dadfd80320.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/44c30d6e-7760-11ee-a1cf-f74862549bac",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Coquille Tribal Community Fund grant cycle is looking to continue its mission of “providing assistance to organizations that make lasting contributions to the communities we serve,\" according to spokesperson Tim Novotny.",
+          "link": "https://www.nrtoday.com/news/government/coquille-opens-grant-cycle/article_44c30d6e-7760-11ee-a1cf-f74862549bac.html",
+          "publishedOn": "2023-10-30T20:09:00.000Z",
+          "wordCount": 13136,
+          "title": "Coquille opens grant cycle",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f5223bc8-7731-11ee-82b5-f35bd82e0914",
           "author": "Kyle Bailey For The News-Review",
