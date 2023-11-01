@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-01T19:07:25.587Z</updated>
+    <updated>2023-11-01T23:09:07.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WILDLAND FIREFIGHTER JOB FAIR THURSDAY AFTERNOON]]></title>
+        <id>https://kqennewsradio.com/?p=112073</id>
+        <link href="https://kqennewsradio.com/2023/11/01/wildland-firefighter-job-fair-thursday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildland-firefighter-job-fair-thursday-afternoon"/>
+        <updated>2023-11-01T22:45:38.000Z</updated>
+        <summary type="html"><![CDATA[November 1, 2023 3:45 p.m.  The Oregon Conservation Corps of the Umpqua Valley will be hosting a Wildland Firefighter Job Fair on Thursday from 3:00 p.m. to 6:00 p.m. at Phoenix School of Roseburg on Northeast Diamond Lake Boulevard. Wildland fire agencies along with private wildland fire contractors will share recruitment materials for fire personnel...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.1.23]]></title>
+        <id>https://kqennewsradio.com/?p=112070</id>
+        <link href="https://kqennewsradio.com/2023/11/01/inside-douglas-county-11-1-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-1-23"/>
+        <updated>2023-11-01T20:02:23.000Z</updated>
+        <summary type="html"><![CDATA[An encore Inside Douglas County program looking at the call for the repeal of Measure 110 with Douglas County Sheriff John Hanlin and Douglas County Commissioner Tim Freeman. Click here to download for later listening:  IDC 10 26 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE PAIR FOR PROHIBITED CAMPING TUESDAY MORNING]]></title>
         <id>https://kqennewsradio.com/?p=112066</id>
