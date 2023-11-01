@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112032",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial: David Littlejohn and Matt Dickson have our weekly local financial program. Click here to download for later listening:  TRUE WEALTH 10 31 2023",
+          "link": "https://kqennewsradio.com/2023/11/01/true-wealth-10-31-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-31-23",
+          "publishedOn": "2023-11-01T01:04:51.000Z",
+          "wordCount": 1475,
+          "title": "TRUE WEALTH 10.31.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231101000019/TRUE-WEALTH-10-31-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112030",
+          "author": "Kyle Bailey",
+          "description": "October 31, 2023 4:20 p.m.  The Roseburg City Council has scheduled a work study session for Wednesday at 4:00 p.m. Councilors will discuss the downtown parking situation. The agenda packet for the meeting is 44 pages long and goes over a lengthy list of potential options. There is a link to the agenda at www.cityofroseburg.org...",
+          "link": "https://kqennewsradio.com/2023/10/31/city-council-work-session-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=city-council-work-session-wednesday-afternoon",
+          "publishedOn": "2023-10-31T23:16:19.000Z",
+          "wordCount": 1464,
+          "title": "CITY COUNCIL WORK SESSION WEDNESDAY AFTERNOON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222204/citypic.png-1-e1604402841227.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112024",
           "author": "Kyle Bailey",
           "description": "An update on the community well-being initiative Thrive Umpqua from Juliete Palenshus. Click here to download for later listening:  IDC 10 31 23",
@@ -434,16 +459,6 @@
           "wordCount": 1520,
           "title": "SALEM MAN TAKEN TO THE HOSPITAL FOLLOWING TWO-VEHICLE WRECK",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111896",
-          "author": "Kyle Bailey",
-          "description": "October 28, 2023 6:00 a.m. A Freeze Warning is in effect through 9:00 a.m. Saturday and again from 2:00 a.m. to 9:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service said sub-freezing temperatures as low as 25 degrees are expected Saturday, with sub-freezing temperatures as low as 24 degrees early...",
-          "link": "https://kqennewsradio.com/2023/10/28/freeze-warning-for-saturday-sunday-morning/?utm_source=rss&utm_medium=rss&utm_campaign=freeze-warning-for-saturday-sunday-morning",
-          "publishedOn": "2023-10-28T13:08:08.000Z",
-          "wordCount": 1520,
-          "title": "FREEZE WARNING FOR SATURDAY/SUNDAY MORNING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231028120748/satcold-1.png"
         }
       ]
     },
@@ -612,31 +627,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/de837ed4-7445-11ee-acc0-6ff291673a30",
-          "author": "HEATHER VILLA For The News-Review",
-          "description": "Student success is a priority for school districts in Douglas County. Douglas Education Service District’s instructional coaches provide trainings to educators that benefit students. Instructional coaches walk alongside districts to complement the incredible job they’re already doing.",
-          "link": "https://www.nrtoday.com/news/education/get-to-know-douglas-esd-instructional-coaches/article_de837ed4-7445-11ee-acc0-6ff291673a30.html",
-          "publishedOn": "2023-10-28T14:00:00.000Z",
-          "wordCount": 13861,
-          "title": "Get to Know Douglas ESD: instructional coaches",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/d3/ed302176-7445-11ee-9ba4-d3bf08242579/653ad8d993664.image.png?resize=300%2C214",
-            "length": "3267739",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/d3/ed302176-7445-11ee-9ba4-d3bf08242579/653ad8d993664.image.png?resize=300%2C214"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c50a824-7506-11ee-9bc8-1bc8d31269e7",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "PORTLAND — Canyonville resident Jon Michael Harder, 58, was ordered to pay more than $74 million in restitution to victims of his financial fraud schemes. The order came Friday from the U.S. Attorney's Office for the District of Oregon.",
-          "link": "https://www.nrtoday.com/news/court/canyonville-man-ordered-to-pay-74-million-restitution-to-more-than-1-400-victims/article_7c50a824-7506-11ee-9bc8-1bc8d31269e7.html",
-          "publishedOn": "2023-10-28T13:45:00.000Z",
-          "wordCount": 13392,
-          "title": "Canyonville man ordered to pay $74 million restitution to more than 1,400 victims",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
