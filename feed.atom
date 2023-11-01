@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-01T13:10:51.897Z</updated>
+    <updated>2023-11-01T16:11:35.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 11.1.23]]></title>
+        <id>https://kqennewsradio.com/?p=112047</id>
+        <link href="https://kqennewsradio.com/2023/11/01/morning-conversation-11-1-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-11-1-23"/>
+        <updated>2023-11-01T15:35:43.000Z</updated>
+        <summary type="html"><![CDATA[An encore segment from October 23rd, as State Senator David Brock Smith talks about a call for a special session of the Oregon State Legislature to repeal Measure 110. Click here to download for later listening:  830 10 23 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Witchy Waters: Local paddleboarders take to the lake in costume]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e5334f18-7844-11ee-a3ad-ff8ba672f920</id>
+        <link href="https://www.nrtoday.com/news/witchy-waters-local-paddleboarders-take-to-the-lake-in-costume/article_e5334f18-7844-11ee-a3ad-ff8ba672f920.html"/>
+        <updated>2023-11-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Those taking a hike or kayaking Tuesday afternoon around the scenic Cooper Creek Reservoir in Sutherlin would have seen a peculiar, magical Halloween sight.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neewollah: Halloween festive spirits fill the Roseburg streets]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7bcea916-7829-11ee-af7b-27d530091117</id>
+        <link href="https://www.nrtoday.com/news/neewollah-halloween-festive-spirits-fill-the-roseburg-streets/article_7bcea916-7829-11ee-af7b-27d530091117.html"/>
+        <updated>2023-11-01T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cartoons, creatures and characters from worlds apart gathered at the corner of Southeast Jackson Street and Southeast Douglas Avenue, accessorized from head-to-toe, ready to celebrate at Neewollah — an annual halloween parade in downtown Roseburg.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creepy, kooky, mysterious and spooky]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dbe66066-78c2-11ee-830b-af840284fc91</id>
+        <link href="https://www.nrtoday.com/news/local/creepy-kooky-mysterious-and-spooky/article_dbe66066-78c2-11ee-830b-af840284fc91.html"/>
+        <updated>2023-11-01T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The News-Review asked readers to submit photos of their Halloween celebrations.]]></summary>
+        <author>
+            <name>The News-Review readers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VA WITH FLU AND COVID-19 DRIVE-THRU VACCINE CLINIC]]></title>
         <id>https://kqennewsradio.com/?p=112044</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112047",
+          "author": "Kyle Bailey",
+          "description": "An encore segment from October 23rd, as State Senator David Brock Smith talks about a call for a special session of the Oregon State Legislature to repeal Measure 110. Click here to download for later listening:  830 10 23 23",
+          "link": "https://kqennewsradio.com/2023/11/01/morning-conversation-11-1-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-11-1-23",
+          "publishedOn": "2023-11-01T15:35:43.000Z",
+          "wordCount": 1489,
+          "title": "MORNING CONVERSATION 11.1.23",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112044",
           "author": "Kyle Bailey",
           "description": "November 1, 2023 3:50 a.m. The Roseburg VA Medical Center has its final flu and COVID-19 drive-thru vaccination clinic of the year on Saturday. It will be held from 9:00 a.m. to 2:00 p.m. at the facility on Northwest Garden Valley Boulevard. The clinic is available to all veterans enrolled in VA health care. Call...",
@@ -453,6 +463,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e5334f18-7844-11ee-a3ad-ff8ba672f920",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "SUTHERLIN — Those taking a hike or kayaking Tuesday afternoon around the scenic Cooper Creek Reservoir in Sutherlin would have seen a peculiar, magical Halloween sight.",
+          "link": "https://www.nrtoday.com/news/witchy-waters-local-paddleboarders-take-to-the-lake-in-costume/article_e5334f18-7844-11ee-a3ad-ff8ba672f920.html",
+          "publishedOn": "2023-11-01T15:00:00.000Z",
+          "wordCount": 13481,
+          "title": "Witchy Waters: Local paddleboarders take to the lake in costume",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ee/8ee34336-7847-11ee-9bfb-2b3b4a148a8f/65419193099cc.image.jpg?resize=300%2C200",
+            "length": "472776",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ee/8ee34336-7847-11ee-9bfb-2b3b4a148a8f/65419193099cc.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7bcea916-7829-11ee-af7b-27d530091117",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Cartoons, creatures and characters from worlds apart gathered at the corner of Southeast Jackson Street and Southeast Douglas Avenue, accessorized from head-to-toe, ready to celebrate at Neewollah — an annual halloween parade in downtown Roseburg.",
+          "link": "https://www.nrtoday.com/news/neewollah-halloween-festive-spirits-fill-the-roseburg-streets/article_7bcea916-7829-11ee-af7b-27d530091117.html",
+          "publishedOn": "2023-11-01T14:45:00.000Z",
+          "wordCount": 14684,
+          "title": "Neewollah: Halloween festive spirits fill the Roseburg streets",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/de/dde8f97a-786b-11ee-a6d0-cf7477a99662/6541ce7d798da.image.jpg?resize=300%2C200",
+            "length": "360816",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/de/dde8f97a-786b-11ee-a6d0-cf7477a99662/6541ce7d798da.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dbe66066-78c2-11ee-830b-af840284fc91",
+          "author": "The News-Review readers",
+          "description": "The News-Review asked readers to submit photos of their Halloween celebrations.",
+          "link": "https://www.nrtoday.com/news/local/creepy-kooky-mysterious-and-spooky/article_dbe66066-78c2-11ee-830b-af840284fc91.html",
+          "publishedOn": "2023-11-01T14:28:00.000Z",
+          "wordCount": 14117,
+          "title": "Creepy, kooky, mysterious and spooky",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/7c/37c31032-78c3-11ee-8fbd-432c4b71bae8/6542610a6f5fe.image.jpg?resize=300%2C402",
+            "length": "318365",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/7c/37c31032-78c3-11ee-8fbd-432c4b71bae8/6542610a6f5fe.image.jpg?resize=300%2C402"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/af884a1e-71b7-11ee-80e1-9f5661fd8dcd",
           "author": "SANNE GODFREY The News-Review",
