@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-02T19:07:12.694Z</updated>
+    <updated>2023-11-02T23:09:13.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.2.23]]></title>
+        <id>https://kqennewsradio.com/?p=112124</id>
+        <link href="https://kqennewsradio.com/2023/11/02/inside-douglas-county-11-2-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-2-23"/>
+        <updated>2023-11-02T20:10:06.000Z</updated>
+        <summary type="html"><![CDATA[State Representative E. Werner Reschke of Klamath County talks about the call to hold a special session of the Oregon State Legislature to repeal Ballot Measure 110. Click here to download for later listening:  IDC 11 2 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UV ARTS WITH 2023 ANNUAL MEMBERS EXHIBIT OPENING RECEPTION]]></title>
         <id>https://kqennewsradio.com/?p=112121</id>
@@ -812,46 +822,6 @@
         <link href="https://kqennewsradio.com/2023/10/30/commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday"/>
         <updated>2023-10-30T11:15:26.000Z</updated>
         <summary type="html"><![CDATA[October 30, 2023 4:00 a.m. A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning. Calls to 911 began reporting the blaze at approximately 7:00 a.m. It was at the corner of West Central Avenue and Grant Street. The structure was behind Tim’s...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FORMER CEO OF SUNWEST ORDERED TO PAY OVER $74 MILLION TO VICTIMS]]></title>
-        <id>https://kqennewsradio.com/?p=111928</id>
-        <link href="https://kqennewsradio.com/2023/10/30/former-ceo-of-sunwest-ordered-to-pay-over-74-million-to-victims/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=former-ceo-of-sunwest-ordered-to-pay-over-74-million-to-victims"/>
-        <updated>2023-10-30T10:47:24.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 3:40 a.m. On Friday, the U.S. Attorney’s Office for the District of Oregon announced that the former CEO of Sunwest Management and associated companies, who previously admitted to orchestrating one of the largest financial fraud schemes in Oregon history, was ordered to pay over $74 million in restitution to more than 1,400...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODOT WORKING ON LONE ROCK BRIDGE NEAR GLIDE]]></title>
-        <id>https://kqennewsradio.com/?p=111924</id>
-        <link href="https://kqennewsradio.com/2023/10/30/odot-working-on-lone-rock-bridge-near-glide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=odot-working-on-lone-rock-bridge-near-glide"/>
-        <updated>2023-10-30T10:35:19.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 3:30 a.m. Contractors for the Oregon Department of Transportation are working on the Lone Rock Bridge on Oregon 138E near Glide. ODOT’s weekly construction report said the project will increase the vertical clearance of the bridge, paint the steel truss, repair concrete sections of the bridge and replace the driving surface. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE RESIDENTIAL LEAF PICKUPS TO START MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111920</id>
-        <link href="https://kqennewsradio.com/2023/10/30/free-residential-leaf-pickups-to-start-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-residential-leaf-pickups-to-start-monday"/>
-        <updated>2023-10-30T10:26:14.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 3:20 a.m. City of Roseburg Public Works crews are beginning their free fall leaf collection service for homeowners. A City release said now through January 5th, crews will follow a cyclical, systematic route to help residents with leaf disposal and to ensure leaf collection can be provided in an effective, cost-controlled program....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC ART GALLERY OPENS THE SHAPE OF CONNECTION]]></title>
-        <id>https://kqennewsradio.com/?p=111915</id>
-        <link href="https://kqennewsradio.com/2023/10/30/ucc-art-gallery-opens-the-shape-of-connection/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-art-gallery-opens-the-shape-of-connection"/>
-        <updated>2023-10-30T10:15:05.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 3:00 a.m. In the KQEN Cultural Spotlight: The Art Gallery at Umpqua Community College presents “The Shape of Connection” now through November 29th. It features artwork created by over a dozen artisans from all over the country, curated by Brien Beidler and Amy Umbel. The show includes hand-crafted objects covering a diverse...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
