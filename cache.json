@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112076",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.  Click here to download for later listening:  MWLGS 11 1 2023",
+          "link": "https://kqennewsradio.com/2023/11/01/mike-winters-lawn-and-garden-show-11-2-23/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-11-2-23",
+          "publishedOn": "2023-11-02T00:06:54.000Z",
+          "wordCount": 1486,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 11.2.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231101230506/MWLGS-11-1-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204311/newmike-3-e1666222809190.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112073",
           "author": "Kyle Bailey",
           "description": "November 1, 2023 3:45 p.m.  The Oregon Conservation Corps of the Umpqua Valley will be hosting a Wildland Firefighter Job Fair on Thursday from 3:00 p.m. to 6:00 p.m. at Phoenix School of Roseburg on Northeast Diamond Lake Boulevard. Wildland fire agencies along with private wildland fire contractors will share recruitment materials for fire personnel...",
@@ -534,16 +549,6 @@
           "wordCount": 1494,
           "title": "UCC ART GALLERY OPENS THE SHAPE OF CONNECTION",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231030091409/APrettySmallChair_OrangeHand_AspenGolann_1-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111912",
-          "author": "Kyle Bailey",
-          "description": "October 29, 2023 6:45 a.m. A Freeze Warning remains in effect through 9:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service said sub-freezing temperatures as low as 24 degrees are likely. The Warning area includes central Douglas County, Josephine and Jackson counties, and eastern Curry County. Forecasters said frost and...",
-          "link": "https://kqennewsradio.com/2023/10/29/freeze-warning-through-900-a-m-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=freeze-warning-through-900-a-m-sunday",
-          "publishedOn": "2023-10-29T13:49:19.000Z",
-          "wordCount": 1487,
-          "title": "FREEZE WARNING THROUGH 9:00 A.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231029124738/sundcold.png"
         }
       ]
     },
