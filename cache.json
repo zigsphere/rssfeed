@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112102",
+          "author": "Kyle Bailey",
+          "description": "House District 9 State Representative Boomer Wright talks about his background in education, his work in the legislature and his plans to run for re-election. Click here to download for later listening;  830 11 2 23",
+          "link": "https://kqennewsradio.com/2023/11/02/morning-conversation-11-2-23/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-11-2-23",
+          "publishedOn": "2023-11-02T16:01:30.000Z",
+          "wordCount": 1488,
+          "title": "MORNING CONVERSATION 11.2.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231102145121/830-11-2-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202510/Rep-Wright_0183-8x-scaled-e1674732667121.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112094",
           "author": "Kyle Bailey",
           "description": "November 2, 2023 3:40 a.m. (photo credit: Nathan Miller) The deadline is approaching for voters to return their ballots in a special district election for the Oakland School District. Voters in that district are being asked to approve a $6 million bond measure to renovate schools and replace a gymnasium. The gym would be at...",
@@ -613,6 +628,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e628d92-7850-11ee-964d-c7b8bd298f77",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — Roseburg VA Medical Center will be hosting its last drive-thru clinic for flu and COVID-19 vaccine shots from 9 a.m. to 2 p.m. Saturday",
+          "link": "https://www.nrtoday.com/briefs/last-chance-for-vaccines-through-roseburg-va/article_7e628d92-7850-11ee-964d-c7b8bd298f77.html",
+          "publishedOn": "2023-11-02T14:00:00.000Z",
+          "wordCount": 13119,
+          "title": "Last chance for vaccines through Roseburg VA",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e5334f18-7844-11ee-a3ad-ff8ba672f920",
           "author": "WILL GESCHKE The News-Review",
