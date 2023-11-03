@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112127",
+          "author": "Kyle Bailey",
+          "description": "Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by Carlos Ortegon of Umpqua Survival. Vogue Walker from Ohana Paw Spaw was on the Local Business Buzz.  Click here to download for later listening:  YOUR CUE 11 2 2023",
+          "link": "https://kqennewsradio.com/2023/11/02/your-cue-11-2-23/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-11-2-23",
+          "publishedOn": "2023-11-03T00:27:24.000Z",
+          "wordCount": 1490,
+          "title": "YOUR CUE 11.2.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231102232333/YOUR-CUE-11-2-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220429/yourcue.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112124",
           "author": "Kyle Bailey",
           "description": "State Representative E. Werner Reschke of Klamath County talks about the call to hold a special session of the Oregon State Legislature to repeal Ballot Measure 110. Click here to download for later listening:  IDC 11 2 23",
@@ -639,26 +654,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231030150314/IMG_3177.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111945",
-          "author": "Kyle Bailey",
-          "description": "October 30, 2023 6:50 a.m. City of Roseburg Public Works crews are beginning their free fall leaf collection service for homeowners. A City release said now through January 5th, crews will follow a cyclical, systematic route to help residents with leaf disposal and to ensure leaf collection can be provided in an effective, cost-controlled program....",
-          "link": "https://kqennewsradio.com/2023/10/30/free-residential-leaf-pickups-to-start-2/?utm_source=rss&utm_medium=rss&utm_campaign=free-residential-leaf-pickups-to-start-2",
-          "publishedOn": "2023-10-30T13:58:18.000Z",
-          "wordCount": 1623,
-          "title": "FREE RESIDENTIAL LEAF PICKUPS TO START",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222204/citypic.png-1-e1604402841227.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=111932",
-          "author": "Kyle Bailey",
-          "description": "October 30, 2023 4:00 a.m. A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning. Calls to 911 began reporting the blaze at approximately 7:00 a.m. It was at the corner of West Central Avenue and Grant Street. The structure was behind Tim’s...",
-          "link": "https://kqennewsradio.com/2023/10/30/commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday",
-          "publishedOn": "2023-10-30T11:15:26.000Z",
-          "wordCount": 1649,
-          "title": "COMMERCIAL METAL BUILDING APPEARS DESTROYED IN THREE-ALARM FIRE SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231030101217/suth1-2.jpg"
         }
       ]
     },
@@ -912,36 +907,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c7/6c776374-7732-11ee-a084-87e6e057236c/653fc09ea8b67.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Legendary winemaker Calvin Scott Henry III died Thursday at age 86.",
-          "link": "https://www.nrtoday.com/news/local/scott-henry-iii-henry-estate-winery-patriarch-dies-at-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html",
-          "publishedOn": "2023-10-30T14:00:00.000Z",
-          "wordCount": 14109,
-          "title": "Scott Henry III, Henry Estate Winery patriarch, dies at 86",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/65414e7ec1d23.image.jpg?resize=300%2C176",
-            "length": "65345",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/65414e7ec1d23.image.jpg?resize=300%2C176"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Legendary winemaker Calvin Scott Henry III died Thursday at age 86.",
-          "link": "https://www.nrtoday.com/news/local/henry-estate-winery-patriarch-dies-age-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html",
-          "publishedOn": "2023-10-30T14:00:00.000Z",
-          "wordCount": 13554,
-          "title": "Henry Estate Winery patriarch dies, age 86",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/653c3119c1b20.image.jpg?resize=300%2C176",
-            "length": "20053",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/da/1daf6cc6-7513-11ee-9314-7fb65cfee400/653c3119c1b20.image.jpg?resize=300%2C176"
         }
       ]
     },

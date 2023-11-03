@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-02T23:09:13.292Z</updated>
+    <updated>2023-11-03T02:17:48.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 11.2.23]]></title>
+        <id>https://kqennewsradio.com/?p=112127</id>
+        <link href="https://kqennewsradio.com/2023/11/02/your-cue-11-2-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-11-2-23"/>
+        <updated>2023-11-03T00:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by Carlos Ortegon of Umpqua Survival. Vogue Walker from Ohana Paw Spaw was on the Local Business Buzz.  Click here to download for later listening:  YOUR CUE 11 2 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.2.23]]></title>
         <id>https://kqennewsradio.com/?p=112124</id>
@@ -784,46 +794,6 @@
         <summary type="html"><![CDATA[SUTHERLIN — A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Henry III, Henry Estate Winery patriarch, dies at 86]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1</id>
-        <link href="https://www.nrtoday.com/news/local/scott-henry-iii-henry-estate-winery-patriarch-dies-at-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html"/>
-        <updated>2023-10-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Legendary winemaker Calvin Scott Henry III died Thursday at age 86.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Henry Estate Winery patriarch dies, age 86]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/717129e6-7511-11ee-bdf6-97c3d0a8eff1</id>
-        <link href="https://www.nrtoday.com/news/local/henry-estate-winery-patriarch-dies-age-86/article_717129e6-7511-11ee-bdf6-97c3d0a8eff1.html"/>
-        <updated>2023-10-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Legendary winemaker Calvin Scott Henry III died Thursday at age 86.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE RESIDENTIAL LEAF PICKUPS TO START]]></title>
-        <id>https://kqennewsradio.com/?p=111945</id>
-        <link href="https://kqennewsradio.com/2023/10/30/free-residential-leaf-pickups-to-start-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-residential-leaf-pickups-to-start-2"/>
-        <updated>2023-10-30T13:58:18.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 6:50 a.m. City of Roseburg Public Works crews are beginning their free fall leaf collection service for homeowners. A City release said now through January 5th, crews will follow a cyclical, systematic route to help residents with leaf disposal and to ensure leaf collection can be provided in an effective, cost-controlled program....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMERCIAL METAL BUILDING APPEARS DESTROYED IN THREE-ALARM FIRE SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=111932</id>
-        <link href="https://kqennewsradio.com/2023/10/30/commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commercial-metal-building-appears-destroyed-in-three-alarm-fire-sunday"/>
-        <updated>2023-10-30T11:15:26.000Z</updated>
-        <summary type="html"><![CDATA[October 30, 2023 4:00 a.m. A commercial metal building that was part of a Sutherlin business appears to be a total loss after a fire Sunday morning. Calls to 911 began reporting the blaze at approximately 7:00 a.m. It was at the corner of West Central Avenue and Grant Street. The structure was behind Tim’s...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
