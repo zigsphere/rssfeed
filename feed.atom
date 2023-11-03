@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-03T13:19:10.816Z</updated>
+    <updated>2023-11-03T16:12:03.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg City Council discusses the downtown parking problem]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/aca2558a-792b-11ee-b98e-9bd9578948bd</id>
+        <link href="https://www.nrtoday.com/news/government/roseburg-city-council-discusses-the-downtown-parking-problem/article_aca2558a-792b-11ee-b98e-9bd9578948bd.html"/>
+        <updated>2023-11-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More questions were asked than answered in Roseburg City Council’s downtown parking workshop Wednesday as council worked through and debated various ideas of how to solve a sizable funding shortfall.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman allegedly embezzled $200k from employer, under investigation since August]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/85fa7fda-782b-11ee-b850-eb8ef0e2a744</id>
+        <link href="https://www.nrtoday.com/news/woman-allegedly-embezzled-200k-from-employer-under-investigation-since-august/article_85fa7fda-782b-11ee-b850-eb8ef0e2a744.html"/>
+        <updated>2023-11-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lacey Neal Ott, 42, of Winchester, was arrested by the Roseburg Police Department at approximately 3 p.m. Oct. 16 for allegedly stealing over $200,000 from her employer via the company payroll system.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildland Firefighting fair hosted at Phoenix School]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4e5d489a-79e4-11ee-bf5d-b309a64bfc05</id>
+        <link href="https://www.nrtoday.com/news/environment/wildland-firefighting-fair-hosted-at-phoenix-school/article_4e5d489a-79e4-11ee-bf5d-b309a64bfc05.html"/>
+        <updated>2023-11-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In an effort to entice more people to join the fight fires, Oregon Conservation Corps of the Umpqua Valley held a Wildland Firefighter Job Fair on Thursday afternoon at the Phoenix School of Roseburg.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New battalion chiefs and promoted fire lieutenants at Sutherlin Fire Department]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/755a5fec-782b-11ee-8850-0bdf2eb1c3ef</id>
+        <link href="https://www.nrtoday.com/news/new-battalion-chiefs-and-promoted-fire-lieutenants-at-sutherlin-fire-department/article_755a5fec-782b-11ee-8850-0bdf2eb1c3ef.html"/>
+        <updated>2023-11-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Sutherlin Fire Department announced its hiring of two battalion chiefs and promotion of three volunteer fire lieutenants Monday.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLASH FLOOD WATCH FOR SMITH RIVER BURN SCAR]]></title>
         <id>https://kqennewsradio.com/?p=112144</id>
@@ -94,6 +134,16 @@
         <summary type="html"><![CDATA[State Representative E. Werner Reschke of Klamath County talks about the call to hold a special session of the Oregon State Legislature to repeal Ballot Measure 110. Click here to download for later listening:  IDC 11 2 23]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chronic Wasting Disease stops open this weekend]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/03e7b72c-79b8-11ee-afdf-831f72266ebf</id>
+        <link href="https://www.nrtoday.com/news/environment/chronic-wasting-disease-stops-open-this-weekend/article_03e7b72c-79b8-11ee-afdf-831f72266ebf.html"/>
+        <updated>2023-11-02T19:42:00.000Z</updated>
+        <summary type="html"><![CDATA[For big game hunters planning on bagging a deer or elk, precautions must be taken to keep Oregon free of chronic wasting disease this hunting season.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
