@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112190",
+          "author": "Kyle Bailey",
+          "description": "November 5, 2023 5:50 a.m. Roseburg received a record amount of rain for the date on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport registered 2.14 inches of rain. The previous record for November 4th was 1.1 inches of precipitation, which...",
+          "link": "https://kqennewsradio.com/2023/11/05/roseburg-gets-record-rain-for-the-date-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-gets-record-rain-for-the-date-saturday",
+          "publishedOn": "2023-11-05T13:54:17.000Z",
+          "wordCount": 1532,
+          "title": "ROSEBURG GETS RECORD RAIN FOR THE DATE SATURDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112188",
           "author": "Kyle Bailey",
           "description": "November 4, 2023 9:20 a.m.  On Friday, Congresswoman Val Hoyle issued a statement on humanitarian efforts and the protection of civilians in the Israel-Hamas conflict. Hoyle said, “The suffering in Gaza, the West Bank and Israel is horrible. I firmly support an immediate humanitarian pause in the fighting between Israel and Hamas – which both...",
@@ -378,6 +388,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/87559ac0-7b48-11ee-99c0-2b053baef258",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "MYRTLE CREEK — The Myrtle Creek Elks Lodge will host a new member recruitment open house Nov 14.",
+          "link": "https://www.nrtoday.com/briefs/myrtle-creek-elks-lodge-to-host-new-member-open-house/article_87559ac0-7b48-11ee-99c0-2b053baef258.html",
+          "publishedOn": "2023-11-05T15:15:00.000Z",
+          "wordCount": 13148,
+          "title": "Myrtle Creek Elks Lodge to host new member open house",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2427594-7a7d-11ee-9c2f-3b7301cc7087",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — The city of Roseburg announced many of the city’s buildings will be closed on Friday in observance of Veterans Day.",
+          "link": "https://www.nrtoday.com/briefs/city-of-roseburg-closed-for-veterans-day/article_b2427594-7a7d-11ee-9c2f-3b7301cc7087.html",
+          "publishedOn": "2023-11-05T15:00:00.000Z",
+          "wordCount": 13126,
+          "title": "City of Roseburg closed for Veterans Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c94b88e2-7a6f-11ee-907c-b7e640bd5cb7",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — Winston Mayor Scott Rutter is expected to issue a proclamation at Monday's Winston City Council meeting honoring veterans.",
+          "link": "https://www.nrtoday.com/news/local/winston-city-holiday-updates/article_c94b88e2-7a6f-11ee-907c-b7e640bd5cb7.html",
+          "publishedOn": "2023-11-05T14:45:00.000Z",
+          "wordCount": 13119,
+          "title": "Winston city holiday updates",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/910654bc-782b-11ee-b9e3-0357acbb7da0",
           "author": "HANNAH SEIBOLD The News-Review",
