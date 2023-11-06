@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-06T19:07:49.611Z</updated>
+    <updated>2023-11-06T23:09:26.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.6.23]]></title>
+        <id>https://kqennewsradio.com/?p=112231</id>
+        <link href="https://kqennewsradio.com/2023/11/06/inside-douglas-county-11-6-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-6-23"/>
+        <updated>2023-11-06T21:28:57.000Z</updated>
+        <summary type="html"><![CDATA[An update on the City of Sutherlin with Mayor Michelle Sumner and City Manager Jerry Gilliam. Click here to download for later listening:  IDC 11 6 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN MAN CHARGED WITH ARSON FOR RECENT COMMERCIAL FIRE]]></title>
         <id>https://kqennewsradio.com/?p=112227</id>
@@ -502,56 +512,6 @@
         <link href="https://kqennewsradio.com/2023/11/03/flash-flood-watch-for-smith-river-burn-scar/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flash-flood-watch-for-smith-river-burn-scar"/>
         <updated>2023-11-03T11:10:39.000Z</updated>
         <summary type="html"><![CDATA[November 3, 2023 4:00 a.m. The National Weather Service has issued a Flash Flood Watch for the Smith River Complex burn scar for Friday evening through Saturday evening. This includes portions of eastern Curry and Josephine counties. Forecasters said heavy rainfall has a low probability of triggering flash flooding and debris flows on the Oregon...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINCO FOODS SET TO OPEN ROSEBURG STORE ON MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=112139</id>
-        <link href="https://kqennewsradio.com/2023/11/03/winco-foods-set-to-open-roseburg-store-on-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winco-foods-set-to-open-roseburg-store-on-monday"/>
-        <updated>2023-11-03T10:40:16.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 3:50 a.m.  In the KQEN Business Spotlight: WinCo Foods is set to open the company’s 140th store Monday morning at 9:00 a.m. in Roseburg. Company spokesperson Noah Fleisher said the new 72,000 square-foot store is at 2757 Northwest Stewart Parkway. It will be open 24 hours a day. Fleisher said, “We’re very...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COQUILLE TRIBE LANDS LARGE DOT GRANT]]></title>
-        <id>https://kqennewsradio.com/?p=112137</id>
-        <link href="https://kqennewsradio.com/2023/11/03/coquille-tribe-lands-large-dot-grant/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coquille-tribe-lands-large-dot-grant"/>
-        <updated>2023-11-03T10:32:24.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 3:40 a.m. The Coquille Indian Tribe is receiving over $7.7 million in grant funds from the U.S. Department of Transportation. Tribal Communications Director Tim Novotny said it is believed to be the largest grant award the Tribe has ever won. Coquille Tribal Chair Brenda Meade said, “This news is nothing short of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUDUBON SOCIETY/LIBRARY TO STREAM VAUX’S SWIFT EXPERT]]></title>
-        <id>https://kqennewsradio.com/?p=112134</id>
-        <link href="https://kqennewsradio.com/2023/11/03/audubon-society-library-to-stream-vauxs-swift-expert/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=audubon-society-library-to-stream-vauxs-swift-expert"/>
-        <updated>2023-11-03T10:25:59.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 3:30 a.m. The Umpqua Valley Audubon Society and Roseburg Public Library will have a Facebook Live streaming event, “Vaux’s Swifts: A West Coast Story” at 6:30 p.m. on Wednesday November 15th. A City of Roseburg release said presenter Larry Schwitters will discuss the Vaux’s Happening project. It began in 2007 as a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHAMBER ORCHESTRA/UCC CHAMBER CHOIR PRESENT BACH AND BEYOND]]></title>
-        <id>https://kqennewsradio.com/?p=112132</id>
-        <link href="https://kqennewsradio.com/2023/11/03/chamber-orchestra-ucc-chamber-choir-present-bach-and-beyond/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chamber-orchestra-ucc-chamber-choir-present-bach-and-beyond"/>
-        <updated>2023-11-03T10:21:05.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 3:20 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Fine and Performing Arts Department presents the Umpqua Chamber Orchestra and UCC Chamber Choir, under the direction of Dr. Jason Heald, in concert on November 14th at 7:00 p.m. It will be held in the Whipple Fine Arts Center on the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MYRTLE CREEK ELKS WITH NEW MEMBER RECRUITMENT OPEN HOUSE]]></title>
-        <id>https://kqennewsradio.com/?p=112130</id>
-        <link href="https://kqennewsradio.com/2023/11/03/myrtle-creek-elks-with-new-member-recruitment-open-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-elks-with-new-member-recruitment-open-house"/>
-        <updated>2023-11-03T10:06:49.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 3:00 a.m. The Myrtle Creek Elks Lodge will have a new member recruitment open house on Tuesday, November 14th. The event will run from 5:00 p.m. to 7:00 p.m. Those who attend can tour the lodge, talk with current members, and learn about the many charitable projects the organization does for the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

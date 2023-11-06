@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112231",
+          "author": "Kyle Bailey",
+          "description": "An update on the City of Sutherlin with Mayor Michelle Sumner and City Manager Jerry Gilliam. Click here to download for later listening:  IDC 11 6 2023",
+          "link": "https://kqennewsradio.com/2023/11/06/inside-douglas-county-11-6-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-6-23",
+          "publishedOn": "2023-11-06T21:28:57.000Z",
+          "wordCount": 1488,
+          "title": "INSIDE DOUGLAS COUNTY 11.6.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231106202359/IDC-11-6-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231106202837/IMG_3272.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112227",
           "author": "Kyle Bailey",
           "description": "November 6, 2023 11:00 a.m. A Sutherlin man has been charged with first-degree arson for a recent large commercial fire. Captain Kurt Sorenson of the Sutherlin Police Department said on Sunday October 29th several people reported the fire at the building which was part of Tim’s Tree House at the corner of West Central Avenue...",
@@ -304,56 +319,6 @@
           "wordCount": 1506,
           "title": "FLASH FLOOD WATCH FOR SMITH RIVER BURN SCAR",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231103101018/flash.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112139",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2023 3:50 a.m.  In the KQEN Business Spotlight: WinCo Foods is set to open the company’s 140th store Monday morning at 9:00 a.m. in Roseburg. Company spokesperson Noah Fleisher said the new 72,000 square-foot store is at 2757 Northwest Stewart Parkway. It will be open 24 hours a day. Fleisher said, “We’re very...",
-          "link": "https://kqennewsradio.com/2023/11/03/winco-foods-set-to-open-roseburg-store-on-monday/?utm_source=rss&utm_medium=rss&utm_campaign=winco-foods-set-to-open-roseburg-store-on-monday",
-          "publishedOn": "2023-11-03T10:40:16.000Z",
-          "wordCount": 1693,
-          "title": "WINCO FOODS SET TO OPEN ROSEBURG STORE ON MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231103093804/winco3-1-scaled-e1699007902964.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112137",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2023 3:40 a.m. The Coquille Indian Tribe is receiving over $7.7 million in grant funds from the U.S. Department of Transportation. Tribal Communications Director Tim Novotny said it is believed to be the largest grant award the Tribe has ever won. Coquille Tribal Chair Brenda Meade said, “This news is nothing short of...",
-          "link": "https://kqennewsradio.com/2023/11/03/coquille-tribe-lands-large-dot-grant/?utm_source=rss&utm_medium=rss&utm_campaign=coquille-tribe-lands-large-dot-grant",
-          "publishedOn": "2023-11-03T10:32:24.000Z",
-          "wordCount": 1830,
-          "title": "COQUILLE TRIBE LANDS LARGE DOT GRANT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919120051/KQEN-Logo-9-23-1-e1695128489187.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112134",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2023 3:30 a.m. The Umpqua Valley Audubon Society and Roseburg Public Library will have a Facebook Live streaming event, “Vaux’s Swifts: A West Coast Story” at 6:30 p.m. on Wednesday November 15th. A City of Roseburg release said presenter Larry Schwitters will discuss the Vaux’s Happening project. It began in 2007 as a...",
-          "link": "https://kqennewsradio.com/2023/11/03/audubon-society-library-to-stream-vauxs-swift-expert/?utm_source=rss&utm_medium=rss&utm_campaign=audubon-society-library-to-stream-vauxs-swift-expert",
-          "publishedOn": "2023-11-03T10:25:59.000Z",
-          "wordCount": 1608,
-          "title": "AUDUBON SOCIETY/LIBRARY TO STREAM VAUX’S SWIFT EXPERT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231103092547/larryschwitters.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112132",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2023 3:20 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Fine and Performing Arts Department presents the Umpqua Chamber Orchestra and UCC Chamber Choir, under the direction of Dr. Jason Heald, in concert on November 14th at 7:00 p.m. It will be held in the Whipple Fine Arts Center on the...",
-          "link": "https://kqennewsradio.com/2023/11/03/chamber-orchestra-ucc-chamber-choir-present-bach-and-beyond/?utm_source=rss&utm_medium=rss&utm_campaign=chamber-orchestra-ucc-chamber-choir-present-bach-and-beyond",
-          "publishedOn": "2023-11-03T10:21:05.000Z",
-          "wordCount": 1506,
-          "title": "CHAMBER ORCHESTRA/UCC CHAMBER CHOIR PRESENT BACH AND BEYOND",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112130",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2023 3:00 a.m. The Myrtle Creek Elks Lodge will have a new member recruitment open house on Tuesday, November 14th. The event will run from 5:00 p.m. to 7:00 p.m. Those who attend can tour the lodge, talk with current members, and learn about the many charitable projects the organization does for the...",
-          "link": "https://kqennewsradio.com/2023/11/03/myrtle-creek-elks-with-new-member-recruitment-open-house/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-elks-with-new-member-recruitment-open-house",
-          "publishedOn": "2023-11-03T10:06:49.000Z",
-          "wordCount": 1508,
-          "title": "MYRTLE CREEK ELKS WITH NEW MEMBER RECRUITMENT OPEN HOUSE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919120051/KQEN-Logo-9-23-1-e1695128489187.png"
         }
       ]
     },
