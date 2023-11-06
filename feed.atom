@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-05T23:08:36.225Z</updated>
+    <updated>2023-11-06T02:21:08.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
@@ -614,16 +614,6 @@
         <summary type="html"><![CDATA[A $20 million dollar lawsuit was filed against the Douglas County Sheriff’s Office, Douglas County, Oregon State Marine Board, State of Oregon and Deputy Darrell Norton in the death of 15-year-old Myles Martin Swenson.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last chance for vaccines through Roseburg VA]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7e628d92-7850-11ee-964d-c7b8bd298f77</id>
-        <link href="https://www.nrtoday.com/briefs/last-chance-for-vaccines-through-roseburg-va/article_7e628d92-7850-11ee-964d-c7b8bd298f77.html"/>
-        <updated>2023-11-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Roseburg VA Medical Center will be hosting its last drive-thru clinic for flu and COVID-19 vaccine shots from 9 a.m. to 2 p.m. Saturday]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
         </author>
     </entry>
 </feed>
