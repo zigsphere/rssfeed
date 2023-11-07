@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-06T23:09:26.027Z</updated>
+    <updated>2023-11-07T02:20:25.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WinCo opens in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c5b92aa4-7cdb-11ee-a4a4-8701d66e967c</id>
+        <link href="https://www.nrtoday.com/news/local/winco-opens-in-roseburg/article_c5b92aa4-7cdb-11ee-a4a4-8701d66e967c.html"/>
+        <updated>2023-11-06T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[With pouring rain and more people than expected before 9 a.m., the new grocery store on Stewart Parkway opened its doors slightly ahead of the scheduled grand opening.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.6.23]]></title>
         <id>https://kqennewsradio.com/?p=112231</id>
@@ -504,16 +514,6 @@
         <summary type="html"><![CDATA[SUTHERLIN — Sutherlin Fire Department announced its hiring of two battalion chiefs and promotion of three volunteer fire lieutenants Monday.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLASH FLOOD WATCH FOR SMITH RIVER BURN SCAR]]></title>
-        <id>https://kqennewsradio.com/?p=112144</id>
-        <link href="https://kqennewsradio.com/2023/11/03/flash-flood-watch-for-smith-river-burn-scar/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flash-flood-watch-for-smith-river-burn-scar"/>
-        <updated>2023-11-03T11:10:39.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2023 4:00 a.m. The National Weather Service has issued a Flash Flood Watch for the Smith River Complex burn scar for Friday evening through Saturday evening. This includes portions of eastern Curry and Josephine counties. Forecasters said heavy rainfall has a low probability of triggering flash flooding and debris flows on the Oregon...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
