@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112290",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 11 7 2023",
+          "link": "https://kqennewsradio.com/2023/11/08/true-wealth-11-7-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-7-23",
+          "publishedOn": "2023-11-08T01:10:18.000Z",
+          "wordCount": 1480,
+          "title": "TRUE WEALTH 11.7.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231108000809/TRUE-WEALTH-11-7-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220429/yourcue.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112287",
           "author": "Kyle Bailey",
           "description": "November 7, 2023 2:10 p.m.  Troopers with the Oregon State police dealt with two freeway wrecks caused by rain and standing water Monday afternoon. An OSP report said at about 12:50 p.m. a northbound sedan was in the right lane of travel about one mile south of the Glendale exit when the vehicle hydroplaned due...",
@@ -364,26 +379,6 @@
           "wordCount": 1605,
           "title": "HOYLE ISSUES STATEMENT ON HUMANITARIAN EFFORTS ISRAEL-HAMAS CONFLICT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213323/hoyle-e1638447005968.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112185",
-          "author": "Kyle Bailey",
-          "description": "November 4, 2023 6:30 a.m. Roseburg Police jailed a man following a traffic stop on Thursday night. An RPD report said at 6:10 p.m. a vehicle was stopped near the corner of Southeast Floed Avenue and Southeast Mill Street. A 35-year old man in the vehicle returned with a failure to comply warrant. He was...",
-          "link": "https://kqennewsradio.com/2023/11/04/roseburg-police-jail-man-following-traffic-stop-4/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-following-traffic-stop-4",
-          "publishedOn": "2023-11-04T13:28:25.000Z",
-          "wordCount": 1475,
-          "title": "ROSEBURG POLICE JAIL MAN FOLLOWING TRAFFIC STOP",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112182",
-          "author": "Kyle Bailey",
-          "description": "November 4, 2023 6:20 a.m. A Flash Flood Watch is in effect through Saturday at 5:00 p.m. for the Smith River Complex Burn Scar in parts of southwestern Josephine County and Southeastern Curry County. Forecasters at the National Weather Service said moderate to heavy rainfall is expected. There is a low probability that this heavy...",
-          "link": "https://kqennewsradio.com/2023/11/04/flash-flood-watch-for-smith-river-complex-burn-scar-through-500-p-m-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=flash-flood-watch-for-smith-river-complex-burn-scar-through-500-p-m-saturday",
-          "publishedOn": "2023-11-04T13:19:04.000Z",
-          "wordCount": 1551,
-          "title": "FLASH FLOOD WATCH FOR SMITH RIVER COMPLEX BURN SCAR THROUGH 5:00 P.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231104121842/satflash.png"
         }
       ]
     },
@@ -677,36 +672,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/36/d36c15c4-7a6c-11ee-aa95-53676d5899ad/65452b17afe5a.image.jpg?resize=300%2C106"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4b480b84-7a77-11ee-a063-63aecd1fc318",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Roseburg Forest Products announced that Eric Geyer has joined the company’s executive team as vice president of corporate strategy and external affairs, effective immediately.",
-          "link": "https://www.nrtoday.com/business/eric-geyer-named-vice-president-of-corporate-strategy-at-rfp/article_4b480b84-7a77-11ee-a063-63aecd1fc318.html",
-          "publishedOn": "2023-11-04T13:45:00.000Z",
-          "wordCount": 13492,
-          "title": "Eric Geyer named vice president of corporate strategy at RFP",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/90/19087be4-daf5-11ed-810f-431489260ed1/6439a03e06106.image.jpg?resize=300%2C200",
-            "length": "180025",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/90/19087be4-daf5-11ed-810f-431489260ed1/6439a03e06106.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b49d0c-7a77-11ee-8838-630819becb46",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "WinCo Foods is set to open the company’s 140th store at 9 a.m. Monday in Roseburg.",
-          "link": "https://www.nrtoday.com/business/winco-food-to-open-roseburg-store-on-monday/article_e2b49d0c-7a77-11ee-8838-630819becb46.html",
-          "publishedOn": "2023-11-04T13:45:00.000Z",
-          "wordCount": 13486,
-          "title": "WinCo Food to open Roseburg store on Monday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/fd/2fd12f9c-7a78-11ee-9aec-cfd57d7ebd90/65453e273072d.image.jpg?resize=300%2C225",
-            "length": "325564",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/fd/2fd12f9c-7a78-11ee-9aec-cfd57d7ebd90/65453e273072d.image.jpg?resize=300%2C225"
         }
       ]
     },
