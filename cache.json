@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112354",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening:   MWLGS 11 8 2023",
+          "link": "https://kqennewsradio.com/2023/11/09/mike-winters-lawn-and-garden-show-10-8-23/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-10-8-23",
+          "publishedOn": "2023-11-09T01:06:27.000Z",
+          "wordCount": 1488,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 10.8.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231109000504/MWLGS-11-8-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112352",
+          "author": "Kyle Bailey",
+          "description": "November 8, 2023 4:10 p.m. Roseburg Police cited a juvenile for unlawful possession of marijuana on Tuesday. An RPD report said just after 8:00 a.m. officers contacted a 12-year old female who had allegedly brought marijuana to Fremont Middle School in the 800 block of West Keady Court. The teen was released after being issued...",
+          "link": "https://kqennewsradio.com/2023/11/08/roseburg-police-cite-juvenile-for-unlawful-possession-of-marijuana/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-juvenile-for-unlawful-possession-of-marijuana",
+          "publishedOn": "2023-11-09T00:09:45.000Z",
+          "wordCount": 1460,
+          "title": "ROSEBURG POLICE CITE JUVENILE FOR UNLAWFUL POSSESSION OF MARIJUANA",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112350",
+          "author": "Kyle Bailey",
+          "description": "November 8, 2023 4:00 p.m.  Roseburg Police jailed a man following an alleged attempted theft on Tuesday. An RPD report said at 4:30 p.m. the 28-year old allegedly tried to push a cart full of $446 in merchandise out of Sherm’s Thunderbird Market in the 2100 block of Northwest Stewart Parkway. The suspect was stopped...",
+          "link": "https://kqennewsradio.com/2023/11/08/roseburg-police-jail-man-following-alleged-attempted-theft/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-following-alleged-attempted-theft",
+          "publishedOn": "2023-11-09T00:00:37.000Z",
+          "wordCount": 1479,
+          "title": "ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED ATTEMPTED THEFT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112343",
           "author": "Kyle Bailey",
           "description": "Guardian Partners Executive Director Marc Kochanski talks about what Guardianship is and explains the work of the non-profit organization.  Click here to download for later listening:  IDC 11 8 23",
@@ -509,16 +544,6 @@
           "wordCount": 1616,
           "title": "AVIVA HEALTH TO HOLD VETS AND THEIR PETS EVENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231106100532/vets-pets-aviva-2023.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112190",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2023 5:50 a.m. Roseburg received a record amount of rain for the date on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport registered 2.14 inches of rain. The previous record for November 4th was 1.1 inches of precipitation, which...",
-          "link": "https://kqennewsradio.com/2023/11/05/roseburg-gets-record-rain-for-the-date-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-gets-record-rain-for-the-date-saturday",
-          "publishedOn": "2023-11-05T13:54:17.000Z",
-          "wordCount": 1532,
-          "title": "ROSEBURG GETS RECORD RAIN FOR THE DATE SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
         }
       ]
     },

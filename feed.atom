@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-08T23:09:46.414Z</updated>
+    <updated>2023-11-09T02:19:22.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 10.8.23]]></title>
+        <id>https://kqennewsradio.com/?p=112354</id>
+        <link href="https://kqennewsradio.com/2023/11/09/mike-winters-lawn-and-garden-show-10-8-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-10-8-23"/>
+        <updated>2023-11-09T01:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening:   MWLGS 11 8 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE CITE JUVENILE FOR UNLAWFUL POSSESSION OF MARIJUANA]]></title>
+        <id>https://kqennewsradio.com/?p=112352</id>
+        <link href="https://kqennewsradio.com/2023/11/08/roseburg-police-cite-juvenile-for-unlawful-possession-of-marijuana/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-juvenile-for-unlawful-possession-of-marijuana"/>
+        <updated>2023-11-09T00:09:45.000Z</updated>
+        <summary type="html"><![CDATA[November 8, 2023 4:10 p.m. Roseburg Police cited a juvenile for unlawful possession of marijuana on Tuesday. An RPD report said just after 8:00 a.m. officers contacted a 12-year old female who had allegedly brought marijuana to Fremont Middle School in the 800 block of West Keady Court. The teen was released after being issued...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED ATTEMPTED THEFT]]></title>
+        <id>https://kqennewsradio.com/?p=112350</id>
+        <link href="https://kqennewsradio.com/2023/11/08/roseburg-police-jail-man-following-alleged-attempted-theft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-alleged-attempted-theft"/>
+        <updated>2023-11-09T00:00:37.000Z</updated>
+        <summary type="html"><![CDATA[November 8, 2023 4:00 p.m.  Roseburg Police jailed a man following an alleged attempted theft on Tuesday. An RPD report said at 4:30 p.m. the 28-year old allegedly tried to push a cart full of $446 in merchandise out of Sherm’s Thunderbird Market in the 2100 block of Northwest Stewart Parkway. The suspect was stopped...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.8.23]]></title>
         <id>https://kqennewsradio.com/?p=112343</id>
@@ -624,16 +654,6 @@
         <summary type="html"><![CDATA[WINSTON — Winston Mayor Scott Rutter is expected to issue a proclamation at Monday's Winston City Council meeting honoring veterans.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG GETS RECORD RAIN FOR THE DATE SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=112190</id>
-        <link href="https://kqennewsradio.com/2023/11/05/roseburg-gets-record-rain-for-the-date-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-gets-record-rain-for-the-date-saturday"/>
-        <updated>2023-11-05T13:54:17.000Z</updated>
-        <summary type="html"><![CDATA[November 5, 2023 5:50 a.m. Roseburg received a record amount of rain for the date on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport registered 2.14 inches of rain. The previous record for November 4th was 1.1 inches of precipitation, which...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
