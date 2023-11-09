@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112406",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at Aviva Health for Vets and Their Pets talking to Aviva staff and others helping onsite with the event.  Click here to download for later listening:  IDC 11 9 2023",
+          "link": "https://kqennewsradio.com/2023/11/09/inside-douglas-county-11-9-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-9-23",
+          "publishedOn": "2023-11-09T22:32:06.000Z",
+          "wordCount": 1490,
+          "title": "INSIDE DOUGLAS COUNTY 11.9.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231109203745/IDC-11-9-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231109213030/vet1-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112401",
           "author": "Kyle Bailey",
           "description": "November 9, 2023 11:00 a.m.  The Roseburg VA Center for Development and Civic Engagement will have the grand re-opening of the Clothing & Food Donation Room, on Tuesday at 11:00 a.m. A VA release said in an effort to assist low-income, no-income and houseless veterans in the community, the CDCE has a clothing room on...",
@@ -679,16 +694,6 @@
           "wordCount": 1627,
           "title": "FALL TOURISM GRANT APPLICATIONS NOW OPEN",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222204/citypic.png-1-e1604402841227.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112192",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2023 3:00 a.m. Aviva Health is hosting its annual Vets and Their Pets event on Thursday from 11:00 a.m. to 3:00 p.m. at its Roseburg main campus on Northeast Kenneth Ford Drive, just north of Costco. An Aviva release said it is held to honor the women and men who served in the...",
-          "link": "https://kqennewsradio.com/2023/11/06/aviva-health-to-hold-vets-and-their-pets-event/?utm_source=rss&utm_medium=rss&utm_campaign=aviva-health-to-hold-vets-and-their-pets-event",
-          "publishedOn": "2023-11-06T11:05:46.000Z",
-          "wordCount": 1616,
-          "title": "AVIVA HEALTH TO HOLD VETS AND THEIR PETS EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231106100532/vets-pets-aviva-2023.jpg"
         }
       ]
     },
@@ -712,6 +717,21 @@
           "wordCount": 13226,
           "title": "Ashley Hicks announces run for State Senate",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c045100-78d4-11ee-aa30-07108029764e",
+          "author": "Scott Carroll The News-Review",
+          "description": "A Roseburg program for individuals with Alzheimer’s disease and dementia that closed in September due to a lack of necessary permits hopes to reopen early next month, although city and state officials say several critical steps remain before that can…",
+          "link": "https://www.nrtoday.com/life/health/forget-me-not-village-faces-hurdles-on-the-road-to-reopening/article_7c045100-78d4-11ee-aa30-07108029764e.html",
+          "publishedOn": "2023-11-09T16:00:00.000Z",
+          "wordCount": 14429,
+          "title": "Forget Me Not Village faces hurdles on the road to reopening",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/19/319c6d1c-79ad-11ee-abe8-9b2a7eaf1ad5/6543e9965b7bd.image.jpg?resize=300%2C200",
+            "length": "326154",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/19/319c6d1c-79ad-11ee-abe8-9b2a7eaf1ad5/6543e9965b7bd.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7c045100-78d4-11ee-aa30-07108029764e",
