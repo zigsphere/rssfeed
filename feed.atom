@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-10T13:12:13.303Z</updated>
+    <updated>2023-11-10T16:11:58.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Green Elementary's student body honors their veterans]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b6790488-7f42-11ee-b9ee-432f1b06c926</id>
+        <link href="https://www.nrtoday.com/news/education/green-elementarys-student-body-honors-their-veterans/article_b6790488-7f42-11ee-b9ee-432f1b06c926.html"/>
+        <updated>2023-11-10T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GREEN — As Green Elementary’s student body recited the pledge of allegiance in the school’s courtyard Thursday morning, veterans were brought to tears watching the next generation honor them for their service.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[League of Women Voters to host presentation on young people]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7114da2e-7e58-11ee-9155-8fbb024c1540</id>
+        <link href="https://www.nrtoday.com/briefs/league-of-women-voters-to-host-presentation-on-young-people/article_7114da2e-7e58-11ee-9155-8fbb024c1540.html"/>
+        <updated>2023-11-10T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Umpqua Valley League of Women Voters will host an Opportunity Youth presentation 4-5:30 p.m. Tuesday in the South Umpqua room at the Roseburg Public Library.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online open house for Highway 138E extended]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/36529ec8-7e65-11ee-917c-df5880c9219b</id>
+        <link href="https://www.nrtoday.com/news/local/online-open-house-for-highway-138e-extended/article_36529ec8-7e65-11ee-917c-df5880c9219b.html"/>
+        <updated>2023-11-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The city of Roseburg and Oregon Department of Transportation are extending the online open house for the Diamond Lake Boulevard/OR 138E Design Concept Plan to Dec. 1.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature is necessary]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a0a92526-777b-11ee-bf45-1725dcac9b71</id>
+        <link href="https://www.nrtoday.com/news/local/nature-is-necessary/article_a0a92526-777b-11ee-bf45-1725dcac9b71.html"/>
+        <updated>2023-11-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County is full of nature, with multiple national parks, forests and lakes dotting the landscape. Source One Serenity is trying to tap into this wonderland at their disposal through various activities and events specifically catered to the veterans in…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston police jail man following recent thefts from vehicles]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/48ac5d66-7f37-11ee-8975-ef259432c994</id>
+        <link href="https://www.nrtoday.com/news/crime/winston-police-jail-man-following-recent-thefts-from-vehicles/article_48ac5d66-7f37-11ee-8975-ef259432c994.html"/>
+        <updated>2023-11-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — Police jailed a man Tuesday after an investigation into some recent thefts from motor vehicles in the Winston and Green area.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OBSERVED VETERANS DAY FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=112432</id>
