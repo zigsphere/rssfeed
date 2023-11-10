@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-10T19:07:56.330Z</updated>
+    <updated>2023-11-10T23:09:16.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.10.23]]></title>
+        <id>https://kqennewsradio.com/?p=112465</id>
+        <link href="https://kqennewsradio.com/2023/11/10/inside-douglas-county-11-10-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-10-23"/>
+        <updated>2023-11-10T21:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Our annual Veterans Day program features recently retired Oregon National Guard Sergeant First Class Nick Marshall talking about his career in the service.  Click here to download for later listening:  IDC 11 10 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCC PRESENTS VETERANS DAY CONCERT]]></title>
+        <id>https://kqennewsradio.com/?p=112462</id>
+        <link href="https://kqennewsradio.com/2023/11/10/ucc-presents-veterans-day-concert-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-presents-veterans-day-concert-2"/>
+        <updated>2023-11-10T19:16:17.000Z</updated>
+        <summary type="html"><![CDATA[November 10, 2023 11:15 a.m.  Umpqua Community College Performing and Visual Arts presents the UCC Symphonic Band and the Roseburg Concert Chorale in a special concert to honor veterans on Saturday at 7:00 p.m. in the Jacoby Auditorium. The UCC Symphonic Band, conducted by Trevor Thompson, and the Roseburg Concert Chorale, conducted by Dr. Jason...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REPRESENTATIVE MORGAN TO RESIGN FROM HOUSE OF REPRESENTATIVES]]></title>
         <id>https://kqennewsradio.com/?p=112460</id>
@@ -882,16 +902,6 @@
         <link href="https://kqennewsradio.com/2023/11/07/sutherlin-police-jail-woman-allegedly-found-with-stolen-vehicle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-police-jail-woman-allegedly-found-with-stolen-vehicle"/>
         <updated>2023-11-07T11:12:48.000Z</updated>
         <summary type="html"><![CDATA[November 7, 2023 3:10 a.m. Sutherlin Police jailed a woman allegedly found with a stolen vehicle early Saturday. An SPD report said just after 1:00 a.m. the 59-year year old was stopped with the sedan in the 1200 block of East Central Avenue. The woman was charged with unauthorized use of a motor vehicle. She...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SENATORS/HOYLE:  OREGON TO RECEIVE NEARLY $900,000 FOR FOOD SYSTEMS]]></title>
-        <id>https://kqennewsradio.com/?p=112235</id>
-        <link href="https://kqennewsradio.com/2023/11/07/senators-hoyle-oregon-to-receive-nearly-900000-for-food-systems/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senators-hoyle-oregon-to-receive-nearly-900000-for-food-systems"/>
-        <updated>2023-11-07T10:59:44.000Z</updated>
-        <summary type="html"><![CDATA[November 7, 2023 2:50 a.m. On Monday, U.S. Senators Ron Wyden and Jeff Merkley and Representative Val Hoyle announced nearly $900,000 in federal funds for Oregon to help increase the availability of locally sourced agricultural products and strengthen local and regional food systems statewide. Wyden said, “Oregon has some of the best produce in the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

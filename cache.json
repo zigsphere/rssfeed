@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112465",
+          "author": "Kyle Bailey",
+          "description": "Our annual Veterans Day program features recently retired Oregon National Guard Sergeant First Class Nick Marshall talking about his career in the service.  Click here to download for later listening:  IDC 11 10 23",
+          "link": "https://kqennewsradio.com/2023/11/10/inside-douglas-county-11-10-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-10-23",
+          "publishedOn": "2023-11-10T21:18:49.000Z",
+          "wordCount": 1490,
+          "title": "INSIDE DOUGLAS COUNTY 11.10.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231110201227/IDC-11-10-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231110201827/IMG_3298.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112462",
+          "author": "Kyle Bailey",
+          "description": "November 10, 2023 11:15 a.m.  Umpqua Community College Performing and Visual Arts presents the UCC Symphonic Band and the Roseburg Concert Chorale in a special concert to honor veterans on Saturday at 7:00 p.m. in the Jacoby Auditorium. The UCC Symphonic Band, conducted by Trevor Thompson, and the Roseburg Concert Chorale, conducted by Dr. Jason...",
+          "link": "https://kqennewsradio.com/2023/11/10/ucc-presents-veterans-day-concert-2/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-presents-veterans-day-concert-2",
+          "publishedOn": "2023-11-10T19:16:17.000Z",
+          "wordCount": 1482,
+          "title": "UCC PRESENTS VETERANS DAY CONCERT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112460",
           "author": "Kyle Bailey",
           "description": "November 10, 2023 11:00 a.m. State Representative Lily Morgan has announced that she will resign from her seat in the Oregon legislature, effective December 3rd. Morgan said, “It is with mixed emotions that I am announcing that I am stepping down from my role as Representative for Oregon House District 3.  It has been an...",
@@ -664,16 +689,6 @@
           "wordCount": 1470,
           "title": "SUTHERLIN POLICE JAIL WOMAN ALLEGEDLY FOUND WITH STOLEN VEHICLE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223709/police-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112235",
-          "author": "Kyle Bailey",
-          "description": "November 7, 2023 2:50 a.m. On Monday, U.S. Senators Ron Wyden and Jeff Merkley and Representative Val Hoyle announced nearly $900,000 in federal funds for Oregon to help increase the availability of locally sourced agricultural products and strengthen local and regional food systems statewide. Wyden said, “Oregon has some of the best produce in the...",
-          "link": "https://kqennewsradio.com/2023/11/07/senators-hoyle-oregon-to-receive-nearly-900000-for-food-systems/?utm_source=rss&utm_medium=rss&utm_campaign=senators-hoyle-oregon-to-receive-nearly-900000-for-food-systems",
-          "publishedOn": "2023-11-07T10:59:44.000Z",
-          "wordCount": 1666,
-          "title": "SENATORS/HOYLE:  OREGON TO RECEIVE NEARLY $900,000 FOR FOOD SYSTEMS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213323/hoyle-e1638447005968.jpg"
         }
       ]
     },
