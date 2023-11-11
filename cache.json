@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112471",
+          "author": "Kyle Bailey",
+          "description": "November 11, 2023 6:30 a.m. Saturday is Veterans Day and there are a number of events happening: *Free haircuts for veterans from 9:00 a.m. to 1:00 p.m. at the Sutherlin Senior Center *Veterans Day Remembrance Ceremony at Veterans Memorial Hall on North Main Street in Canyonville at 10:45 a.m. F-15 Fly-over followed by a 30-minute...",
+          "link": "https://kqennewsradio.com/2023/11/11/saturday-veterans-day-events/?utm_source=rss&utm_medium=rss&utm_campaign=saturday-veterans-day-events",
+          "publishedOn": "2023-11-11T14:37:08.000Z",
+          "wordCount": 1523,
+          "title": "SATURDAY VETERANS DAY EVENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231110104348/vet1-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112465",
           "author": "Kyle Bailey",
           "description": "Our annual Veterans Day program features recently retired Oregon National Guard Sergeant First Class Nick Marshall talking about his career in the service.  Click here to download for later listening:  IDC 11 10 23",
@@ -504,21 +514,6 @@
           "wordCount": 1480,
           "title": "ROSEBURG POLICE CITE JUVENILE FOR DRUG LAW VIOLATION",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112290",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 11 7 2023",
-          "link": "https://kqennewsradio.com/2023/11/08/true-wealth-11-7-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-7-23",
-          "publishedOn": "2023-11-08T01:10:18.000Z",
-          "wordCount": 1480,
-          "title": "TRUE WEALTH 11.7.23",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231108000809/TRUE-WEALTH-11-7-2023.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220429/yourcue.jpg"
         }
       ]
     },
@@ -533,6 +528,81 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1821f2fc-7f62-11ee-97f2-87baf54494c8",
+          "author": "Kris Wiley For The News-Review",
+          "description": "I like a fast-paced thriller as much as the next person, but sometimes I’m in the mood for something quieter. Then I reach for a contemplative, character-driven novel, and this year I read several I recommend.",
+          "link": "https://www.nrtoday.com/news/education/books-for-fans-of-character-driven-novels/article_1821f2fc-7f62-11ee-97f2-87baf54494c8.html",
+          "publishedOn": "2023-11-11T15:45:00.000Z",
+          "wordCount": 13492,
+          "title": "Books for fans of character-driven novels",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8b054fd8-7da7-11ee-8a2d-f31b4d02935a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "This fall, 104 educators in Douglas County were selected to receive over $30,000 in grant money from Cascade Community Credit Union.",
+          "link": "https://www.nrtoday.com/news/education/cascade-community-credit-union-awards-30k-in-grants-to-teachers/article_8b054fd8-7da7-11ee-8a2d-f31b4d02935a.html",
+          "publishedOn": "2023-11-11T14:45:00.000Z",
+          "wordCount": 13093,
+          "title": "Cascade Community Credit Union awards $30K+ in grants to teachers",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed2c95b4-7cf7-11ee-94dd-4f754d5ee97d",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Ford Family Foundation offers three scholarship programs to encourage education in Oregon and Siskiyou County, California.",
+          "link": "https://www.nrtoday.com/news/education/local-scholarship-recipients/article_ed2c95b4-7cf7-11ee-94dd-4f754d5ee97d.html",
+          "publishedOn": "2023-11-11T14:45:00.000Z",
+          "wordCount": 13305,
+          "title": "Local scholarship recipients",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f28c4fa6-7fed-11ee-aea6-c76ec5b583ea",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Roseburg High School’s woodshop class received a large donation from Tree Products Hardwood on Thursday morning.",
+          "link": "https://www.nrtoday.com/news/education/eugene-company-donates-to-roseburg-woodshop/article_f28c4fa6-7fed-11ee-aea6-c76ec5b583ea.html",
+          "publishedOn": "2023-11-11T14:45:00.000Z",
+          "wordCount": 13870,
+          "title": "Eugene company donates to Roseburg woodshop",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c6/7c6993ea-7f54-11ee-88ce-c388b3e43f25/654d65bd9c06c.image.jpg?resize=300%2C200",
+            "length": "433524",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c6/7c6993ea-7f54-11ee-88ce-c388b3e43f25/654d65bd9c06c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9b496332-7e62-11ee-adb8-cbe386e1e92c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Canyonville Middle School honor roll",
+          "link": "https://www.nrtoday.com/news/education/canyonville-middle-school-honor-roll/article_9b496332-7e62-11ee-adb8-cbe386e1e92c.html",
+          "publishedOn": "2023-11-11T14:45:00.000Z",
+          "wordCount": 13153,
+          "title": "Canyonville Middle School honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3a0949de-8001-11ee-9b59-4346247ddb72",
+          "author": "BETTY TAMM Chamber Corner",
+          "description": "Christmastime in historic Oakland is as close to Norman Rockwell picturesque as we can get in Southern Oregon. Our decorated tree in the center of the main intersection makes you slow down, and thus enjoy all the downtown lighting. The…",
+          "link": "https://www.nrtoday.com/news/guest_submission/christmas-time-in-historic-oakland/article_3a0949de-8001-11ee-9b59-4346247ddb72.html",
+          "publishedOn": "2023-11-11T14:00:00.000Z",
+          "wordCount": 13450,
+          "title": "Christmas time in historic Oakland",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/4c/f4c83053-4aca-5658-a892-ce6563e25b6e/6326c50a72c54.image.jpg?resize=300%2C300",
+            "length": "170466",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/4c/f4c83053-4aca-5658-a892-ce6563e25b6e/6326c50a72c54.image.jpg?resize=300%2C300"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ba053fde-7f53-11ee-a49d-0307111addda",
           "author": "GLORIA COLEMAN The News-Review",
