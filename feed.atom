@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-12T16:10:44.652Z</updated>
+    <updated>2023-11-12T19:07:29.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vietnam and Korea War veterans honored at Brookdale Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2b20e8aa-7f3e-11ee-bbb7-4b8e9cac3850</id>
+        <link href="https://www.nrtoday.com/news/vietnam-and-korea-war-veterans-honored-at-brookdale-roseburg/article_2b20e8aa-7f3e-11ee-bbb7-4b8e9cac3850.html"/>
+        <updated>2023-11-12T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Brookdale Roseburg program director Sandy Montgomery swore she wouldn’t get choked up, but to no avail, her voice broke between the words of her introductory speech.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emotions stir at annual Veterans Day Parade]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b1fb4a38-7f3d-11ee-8ab3-bfacf005d03e</id>
+        <link href="https://www.nrtoday.com/news/emotions-stir-at-annual-veterans-day-parade/article_b1fb4a38-7f3d-11ee-8ab3-bfacf005d03e.html"/>
+        <updated>2023-11-12T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A former prisoner of war drove his old pickup truck through the applauding crowd as he locked eyes with a United States Army Special Forces veteran — they paused, saluted and tears rushed down their faces.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg city staff participate in gift drives]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/10d33f50-80e9-11ee-887a-dbbb9f69627c</id>
+        <link href="https://www.nrtoday.com/news/government/roseburg-city-staff-participate-in-gift-drives/article_10d33f50-80e9-11ee-887a-dbbb9f69627c.html"/>
+        <updated>2023-11-12T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[City of Roseburg employees are participating in holiday gift drives, and are encouraging residents to participate as well.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oregon rain, national gain: Sutherlin soil champions]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/b617162e-7ccc-11ee-bd97-0baac594b26c</id>
