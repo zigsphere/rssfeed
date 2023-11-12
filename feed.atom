@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-12T19:07:29.987Z</updated>
+    <updated>2023-11-12T23:09:12.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BODY OF MISSING SUTHERLIN MAN FOUND]]></title>
+        <id>https://kqennewsradio.com/?p=112477</id>
+        <link href="https://kqennewsradio.com/2023/11/12/body-of-missing-sutherlin-man-found/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=body-of-missing-sutherlin-man-found"/>
+        <updated>2023-11-12T22:05:32.000Z</updated>
+        <summary type="html"><![CDATA[November 12, 2023 2:00 p.m.  The body of a missing Sutherlin man has been found. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said Thursday night shortly before 9:30 p.m. 911 dispatchers received information that a deceased body had been located in the area of Old Highway 99 North near Wilbur Road. O’Dell said...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vietnam and Korea War veterans honored at Brookdale Roseburg]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/2b20e8aa-7f3e-11ee-bbb7-4b8e9cac3850</id>
@@ -582,16 +592,6 @@
         <link href="https://kqennewsradio.com/2023/11/09/city-council-work-session-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-work-session-thursday"/>
         <updated>2023-11-09T11:18:29.000Z</updated>
         <summary type="html"><![CDATA[November 9, 2023 9:10 a.m. The Roseburg City Council has a work session Thursday: It is taking place for council goal setting. The meeting will begin at 4:00 p.m. in the Umpqua Room of the Public Safety Center on Southeast Douglas Avenue. While no audience participation is scheduled, the meeting is open to the public....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIFE SAFARI UNVEILS NEW GIBBON HOUSE]]></title>
-        <id>https://kqennewsradio.com/?p=112358</id>
-        <link href="https://kqennewsradio.com/2023/11/09/wildlife-safari-unveils-new-gibbon-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlife-safari-unveils-new-gibbon-house"/>
-        <updated>2023-11-09T11:08:15.000Z</updated>
-        <summary type="html"><![CDATA[November 9, 2023 3:00 a.m. Wildlife Safari has announced the grand opening of its new Gibbon House, which is in the parks drive thru. A Safari release said it is the home to two white-cheeked gibbons: Thani, a 14-year old male, and Sunisa, a 27-year old female. Development and Marketing Director Taylor Holeman said the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
