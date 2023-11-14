@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112577",
+          "author": "Kyle Bailey",
+          "description": "Former House Republican Leader and former candidate for Governor Christine Drazan talks about the impact of Measure 110 and a meeting she led in Portland on Monday to tackle the issue. Click here to download for later listening: IDC 11 14 23",
+          "link": "https://kqennewsradio.com/2023/11/14/inside-douglas-county-11-14-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-14-23",
+          "publishedOn": "2023-11-14T21:12:00.000Z",
+          "wordCount": 1501,
+          "title": "INSIDE DOUGLAS COUNTY 11.14.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231114200420/IDC-11-14-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221532/drazan-e1608723169567.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112574",
+          "author": "Kyle Bailey",
+          "description": "November 14, 2023 11:10 a.m.  In the KQEN Business Spotlight: Roseburg Forest Products has sold its Simsboro, Louisiana particleboard plant to Kronospan, a leading producer of wood panel products. An RFP release said completion of the acquisition is subject to customary closing conditions, including receipt of regulatory approvals. After the closing, the Simsboro plant will...",
+          "link": "https://kqennewsradio.com/2023/11/14/roseburg-sells-lousiana-facility-to-kronospan/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-sells-lousiana-facility-to-kronospan",
+          "publishedOn": "2023-11-14T19:07:29.000Z",
+          "wordCount": 1644,
+          "title": "ROSEBURG SELLS LOUSIANA FACILITY TO KRONOSPAN",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231114180442/Simsboro-LA-particleboard-plant.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112569",
           "author": "Kyle Bailey",
           "description": "November 14, 2023 10:30 a.m.  The Umpqua Valley Audubon Society and Roseburg Public Library are hosting a Facebook Live streaming event Wednesday night. “Vaux’s Swifts: A West Coast Story” will take place at 6:30 p.m. Presenter Larry Schwitters will discuss the Vaux’s Happening Project. It started in 2007 as a successful effort to save a...",
