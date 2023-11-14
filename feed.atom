@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-14T13:12:53.230Z</updated>
+    <updated>2023-11-14T16:10:36.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Legacy Ball raises over $350,000 for UCC]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2ea81942-826f-11ee-a95f-17713c6db38b</id>
+        <link href="https://www.nrtoday.com/news/education/legacy-ball-raises-over-350-000-for-ucc/article_2ea81942-826f-11ee-a95f-17713c6db38b.html"/>
+        <updated>2023-11-14T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — In formal attire of heels, ball gowns, bowties, dress coats and even a top hat, guests arrived Friday night to Seven Feathers Casino and Resort, ready to wave their bidder numbers in the air and dance the night…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg students weld 20-foot trailer for school use]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/acb97304-8264-11ee-875d-d74336916561</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-students-weld-20-foot-trailer-for-school-use/article_acb97304-8264-11ee-875d-d74336916561.html"/>
+        <updated>2023-11-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Classes at Roseburg High School can take on many forms, from English development classes to math courses to weight training to sports history. Under the career and technical education tag, some students spend time wielding gloves, safety glasses or helmets…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLUE BACK ON STAGE AT ROSEBURG HIGH SCHOOL THEATRE]]></title>
         <id>https://kqennewsradio.com/?p=112544</id>
@@ -74,6 +94,36 @@
         <summary type="html"><![CDATA[An update on whats happening at Wildlife Safari with Executive Director Dan Van Slyke and Development and Marketing Director Raylor Holeman. Click here to download for later listening:  IDC 11 13 2023]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Christmas Tree Lighting on Nov. 26]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9608480c-8268-11ee-9a63-432c060e2d5b</id>
+        <link href="https://www.nrtoday.com/family/douglas-county-christmas-tree-lighting-on-nov-26/article_9608480c-8268-11ee-9a63-432c060e2d5b.html"/>
+        <updated>2023-11-13T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The lighting of the 40th annual Douglas County Christmas Tree will be at 6 p.m. Nov. 26 on the front lawn of the courthouse.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man hurt in motorcycle vs. deer accident]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/07d34212-8268-11ee-b915-7b81bf030990</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-man-hurt-in-motorcycle-vs-deer-accident/article_07d34212-8268-11ee-b915-7b81bf030990.html"/>
+        <updated>2023-11-13T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A Roseburg man was hurt in a deer versus motorcycle accident Saturday morning.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix man cited for DUII following accident]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d4810aac-8267-11ee-af46-d7515d8e4187</id>
+        <link href="https://www.nrtoday.com/news/crime/phoenix-man-cited-for-duii-following-accident/article_d4810aac-8267-11ee-af46-d7515d8e4187.html"/>
+        <updated>2023-11-13T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — A Phoenix man was cited for DUII-alcohol following a minor traffic accident Saturday afternoon.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -384,16 +434,6 @@
         <summary type="html"><![CDATA[Christmastime in historic Oakland is as close to Norman Rockwell picturesque as we can get in Southern Oregon. Our decorated tree in the center of the main intersection makes you slow down, and thus enjoy all the downtown lighting. The…]]></summary>
         <author>
             <name>BETTY TAMM Chamber Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downtown college housing is in preliminary stages]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ba053fde-7f53-11ee-a49d-0307111addda</id>
-        <link href="https://www.nrtoday.com/news/education/ucc/downtown-college-housing-is-in-preliminary-stages/article_ba053fde-7f53-11ee-a49d-0307111addda.html"/>
-        <updated>2023-11-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — Umpqua Community College is working on three different housing projects in downtown Roseburg and hopes to have those ready for students by next school year, according to a presentation held Wednesday at the UCC board meeting.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
