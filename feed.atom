@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-15T19:08:27.540Z</updated>
+    <updated>2023-11-15T23:10:04.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.15.23]]></title>
+        <id>https://kqennewsradio.com/?p=112629</id>
+        <link href="https://kqennewsradio.com/2023/11/15/inside-douglas-county-11-15-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-15-23"/>
+        <updated>2023-11-15T21:44:12.000Z</updated>
+        <summary type="html"><![CDATA[A Wine in the Umpqua program as Stephen Reustle of Reustle Prayer Rock Vineyards talks about this 20 years as a wine maker. Click here to download for later listening:  IDC 11 15 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERCY FOUNDATION CELEBRATES 30TH FESTIVAL OF TREES]]></title>
+        <id>https://kqennewsradio.com/?p=112624</id>
+        <link href="https://kqennewsradio.com/2023/11/15/mercy-foundation-celebrates-30th-festival-of-trees/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mercy-foundation-celebrates-30th-festival-of-trees"/>
+        <updated>2023-11-15T19:10:36.000Z</updated>
+        <summary type="html"><![CDATA[November 15, 2023 11:10 a.m.  Mercy Foundation is celebrating the 30th Festival of Trees with a series of events November 30th through December 3rd. The festival is presented by Aviva Health, Cow Creek Band of Umpqua Tribe of Indians, Seven Feathers Convention Center and Resort, and Joseph E. Weston Public Foundation/U-Storage. Events include the Silver...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OREGON’S NONFARM PAYROLL EMPLOYMENT DROPS BY 4,600 IN OCTOBER]]></title>
         <id>https://kqennewsradio.com/?p=112622</id>
