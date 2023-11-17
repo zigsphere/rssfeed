@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112741",
+          "author": "Kyle Bailey",
+          "description": "Mercy Foundation Executive Director Lisa Platt and Festival of Trees Coordinator Carol Ferguson talk about this year’s Festival of Trees. Click here to download for later listening:  IDC 11 17 2023",
+          "link": "https://kqennewsradio.com/2023/11/17/inside-douglas-county-11-17-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-17-23",
+          "publishedOn": "2023-11-17T21:11:46.000Z",
+          "wordCount": 1487,
+          "title": "INSIDE DOUGLAS COUNTY 11.17.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231117200840/IDC-11-17-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231117201119/IMG_3384.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112739",
+          "author": "Kyle Bailey",
+          "description": "November 17, 2023 11:10 a.m.   In the KQEN Cultural Spotlight: Umpqua Valley Arts has registration now open for the 2024 Winter Term Open Studio at The Clay Place. In the studio, students have access to different amenities and can pick one of two enrollment options: Full-packs and Mini-packs. In both options, students have access studio...",
+          "link": "https://kqennewsradio.com/2023/11/17/clay-place-winter-term-open-studio-registration-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=clay-place-winter-term-open-studio-registration-now-open",
+          "publishedOn": "2023-11-17T19:11:10.000Z",
+          "wordCount": 1525,
+          "title": "CLAY PLACE WINTER TERM OPEN STUDIO REGISTRATION NOW OPEN",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223957/UVA-Primary-Color-e1587405267807.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112736",
           "author": "Kyle Bailey",
           "description": "November 17, 2023 10:40 a.m.  This week, 2nd District Congressman Cliff Bentz voted in favor of Speaker Mike Johnson’s plan to avert a shutdown of the federal government. Bentz said, “I voted with Speaker Johnson because I support his short-term funding plan which will give us the time we need to keep working on reductions...",
@@ -649,16 +674,6 @@
           "wordCount": 1473,
           "title": "VEHICLE VERSUS SEMI CRASH SUNDAY NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112528",
-          "author": "Kyle Bailey",
-          "description": "November 14, 2023 3:00 a.m. Though fire season has subsided in Oregon, other parts of the country are strained for resources as they hit their peak. A release from the Oregon Department of Forestry said in the last week, it has sent 68 firefighters to Kentucky and 10 to North Carolina to assist in their...",
-          "link": "https://kqennewsradio.com/2023/11/14/department-of-forestry-deployments-to-kentucky-north-carolina/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-forestry-deployments-to-kentucky-north-carolina",
-          "publishedOn": "2023-11-14T11:05:07.000Z",
-          "wordCount": 1660,
-          "title": "DEPARTMENT OF FORESTRY DEPLOYMENTS TO KENTUCKY/NORTH CAROLINA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231114100426/Night_Scene-Kentucky.jpg"
         }
       ]
     },
