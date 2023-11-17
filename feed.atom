@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-17T13:13:05.188Z</updated>
+    <updated>2023-11-17T16:13:33.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elkton Community Education receives grant to improve tourism focused walking paths and more]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9b29fcda-84da-11ee-a6d2-9faf8e3f08ff</id>
+        <link href="https://www.nrtoday.com/briefs/elkton-community-education-receives-grant-to-improve-tourism-focused-walking-paths-and-more/article_9b29fcda-84da-11ee-a6d2-9faf8e3f08ff.html"/>
+        <updated>2023-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ELKTON — Elkton Community Education Center received a $37,500 grant from Travel Oregon to enhance a 14-acre parcel of land along the Umpqua river by extending a walking path, improving driveways, improve upon existing paths to be more accessible.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY SATURDAY NIGHT THROUGH SUNDAY MORNING]]></title>
         <id>https://kqennewsradio.com/?p=112708</id>
