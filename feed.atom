@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-18T16:11:07.608Z</updated>
+    <updated>2023-11-18T19:07:36.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg represents at National FFA Convention]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/16d98b2a-8571-11ee-8aa6-f7dd1152d293</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-represents-at-national-ffa-convention/article_16d98b2a-8571-11ee-8aa6-f7dd1152d293.html"/>
+        <updated>2023-11-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Traveling can be fun or stressful, depending on the people and on the reason for the trip. For 10 Roseburg High School students, their trip brought many new experiences to tell their friends and new hardware to add to their…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Library sponsors Winter Reading Program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/20c0b8d0-84bc-11ee-b0f3-a3a76638fa29</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-library-sponsors-winter-reading-program/article_20c0b8d0-84bc-11ee-b0f3-a3a76638fa29.html"/>
+        <updated>2023-11-18T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library encourages reading for fun and prizes during our annual Winter Reading Program.]]></summary>
+        <author>
+            <name>Kris Wiley For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS STARTING SATURDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=112747</id>

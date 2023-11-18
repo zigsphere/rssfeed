@@ -524,6 +524,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/16d98b2a-8571-11ee-8aa6-f7dd1152d293",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Traveling can be fun or stressful, depending on the people and on the reason for the trip. For 10 Roseburg High School students, their trip brought many new experiences to tell their friends and new hardware to add to their…",
+          "link": "https://www.nrtoday.com/news/education/roseburg-represents-at-national-ffa-convention/article_16d98b2a-8571-11ee-8aa6-f7dd1152d293.html",
+          "publishedOn": "2023-11-18T16:00:00.000Z",
+          "wordCount": 13761,
+          "title": "Roseburg represents at National FFA Convention",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/eb/2ebbf844-8572-11ee-833c-77f54cbb7d74/6557a88b2f709.image.jpg?resize=300%2C225",
+            "length": "299309",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/eb/2ebbf844-8572-11ee-833c-77f54cbb7d74/6557a88b2f709.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/20c0b8d0-84bc-11ee-b0f3-a3a76638fa29",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Roseburg Public Library encourages reading for fun and prizes during our annual Winter Reading Program.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-library-sponsors-winter-reading-program/article_20c0b8d0-84bc-11ee-b0f3-a3a76638fa29.html",
+          "publishedOn": "2023-11-18T15:45:00.000Z",
+          "wordCount": 13566,
+          "title": "Roseburg Library sponsors Winter Reading Program",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/95c1f876-8410-11ee-8ae2-7b7da2e1ff48",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "SUTHERLIN — Some people cannot wait to, as they say, escape the small town life. But for many Sutherlin School District graduates, life in the small town is exactly what they want.",
