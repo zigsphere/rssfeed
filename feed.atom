@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-18T19:07:36.845Z</updated>
+    <updated>2023-11-18T23:09:15.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two vacancies on Roseburg Economic Development Commission]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fabd9c96-8652-11ee-bb38-7fe40d74b49a</id>
+        <link href="https://www.nrtoday.com/briefs/two-vacancies-on-roseburg-economic-development-commission/article_fabd9c96-8652-11ee-bb38-7fe40d74b49a.html"/>
+        <updated>2023-11-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Applications are being accepted from individuals interested in serving on the Roseburg Economic Development Commission. The commission will have two vacancies beginning Dec. 31.]]></summary>
+        <author>
+            <name>The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local senior service program participates in Subaru charity]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a6d65388-8590-11ee-af71-b7023512a504</id>
+        <link href="https://www.nrtoday.com/briefs/local-senior-service-program-participates-in-subaru-charity/article_a6d65388-8590-11ee-af71-b7023512a504.html"/>
+        <updated>2023-11-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — County Commissioners Tom Kress, Chris Boice and Tim Freeman are supporting the senior services department as it participates in the annual grant program offered by the Subaru Share the Love Event.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two arrested in stolen vehicle recovery noon]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e301736a-8590-11ee-96f1-072cf2f54182</id>
+        <link href="https://www.nrtoday.com/briefs/two-arrested-in-stolen-vehicle-recovery-noon/article_e301736a-8590-11ee-96f1-072cf2f54182.html"/>
+        <updated>2023-11-18T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Two Junction City residents were arrested and a stolen vehicle was recovered by the Douglas County Sheriff’s Office late Tuesday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg represents at National FFA Convention]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/16d98b2a-8571-11ee-8aa6-f7dd1152d293</id>
@@ -702,16 +732,6 @@
         <link href="https://kqennewsradio.com/2023/11/15/roseburg-police-jail-man-after-alleged-criminal-trespass-incident-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-after-alleged-criminal-trespass-incident-2"/>
         <updated>2023-11-15T13:47:51.000Z</updated>
         <summary type="html"><![CDATA[November 15, 2023 5:40 a.m. Roseburg Police jailed a man after an alleged criminal trespass incident on Monday. An RPD report said at 11:00 a.m. 36-year old Travis Couch allegedly went into a business he had previously been trespassed from near the corner of Southeast Jackson Street and Southeast Oak Avenue.  Couch reportedly stole a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED CRIMINAL TRESPASS]]></title>
-        <id>https://kqennewsradio.com/?p=112590</id>
-        <link href="https://kqennewsradio.com/2023/11/15/roseburg-police-jail-man-for-reported-criminal-trespass-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-reported-criminal-trespass-2"/>
-        <updated>2023-11-15T11:04:30.000Z</updated>
-        <summary type="html"><![CDATA[November 15, 2023 2:50 a.m. Roseburg Police jailed a man for a reported criminal trespass incident early Tuesday. An RPD report said at about 12:30 a.m. the 39-year old allegedly stole items from WinCo in 2700 block of Northwest Stewart Parkway. The suspect allegedly refused to leave the store when asked to multiple times. He...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
