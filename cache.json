@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112847",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Tim Freeman talks about a joint petition filed with the U.S. Supreme Court by the Association of O&C Counties and the American Forest Resource Council regarding federal land management.  Click here to download for later listening: IDC 11 21 23",
+          "link": "https://kqennewsradio.com/2023/11/21/inside-douglas-county-11-21-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-21-23",
+          "publishedOn": "2023-11-21T21:12:07.000Z",
+          "wordCount": 1503,
+          "title": "INSIDE DOUGLAS COUNTY 11.21.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231121200727/IDC-11-21-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231121201152/IMG_3418.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=112845",
+          "author": "Kyle Bailey",
+          "description": "November 21, 2023 11:20 a.m. The Oregon Parks and Recreation Department is inviting Oregonians to head outside on Friday, the day after Thanksgiving. Popularly known as Green Friday, the day has become a tradition for many families. State parks will again waive the day-use parking fees in the 24 parks that are open and charge...",
+          "link": "https://kqennewsradio.com/2023/11/21/free-parking-at-state-parks-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=free-parking-at-state-parks-on-friday",
+          "publishedOn": "2023-11-21T19:13:11.000Z",
+          "wordCount": 1522,
+          "title": "FREE PARKING AT STATE PARKS ON FRIDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214034/OPRD-shield_color_R-e1633542949553.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112843",
           "author": "Kyle Bailey",
           "description": "November 21, 2023 11:00 a.m.  Sutherlin Police jailed a man after a reported no-contact order violation Monday night. An SPD report said at 11:20 p.m. the 59-year old contacted the victim first by text and then in person in the 600 block of East Central Avenue. This caused a disturbance with the victim reporting she...",
@@ -373,6 +398,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/be5c562a-87f6-11ee-acc6-8f0c0ab752a4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — The North Umpqua Holiday Food and Gift program is accepting donations and gifts by early December.",
+          "link": "https://www.nrtoday.com/briefs/north-umpqua-holiday-food-and-gift-program/article_be5c562a-87f6-11ee-acc6-8f0c0ab752a4.html",
+          "publishedOn": "2023-11-20T22:47:00.000Z",
+          "wordCount": 13168,
+          "title": "North Umpqua Holiday Food and Gift program",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/502677c4-87d5-11ee-a0f0-0b57a4d42556",
           "author": "Kyle Bailey For The News-Review",

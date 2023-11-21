@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-21T19:08:41.775Z</updated>
+    <updated>2023-11-21T23:10:47.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.21.23]]></title>
+        <id>https://kqennewsradio.com/?p=112847</id>
+        <link href="https://kqennewsradio.com/2023/11/21/inside-douglas-county-11-21-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-21-23"/>
+        <updated>2023-11-21T21:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Commissioner Tim Freeman talks about a joint petition filed with the U.S. Supreme Court by the Association of O&C Counties and the American Forest Resource Council regarding federal land management.  Click here to download for later listening: IDC 11 21 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FREE PARKING AT STATE PARKS ON FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=112845</id>
+        <link href="https://kqennewsradio.com/2023/11/21/free-parking-at-state-parks-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-parking-at-state-parks-on-friday"/>
+        <updated>2023-11-21T19:13:11.000Z</updated>
+        <summary type="html"><![CDATA[November 21, 2023 11:20 a.m. The Oregon Parks and Recreation Department is inviting Oregonians to head outside on Friday, the day after Thanksgiving. Popularly known as Green Friday, the day has become a tradition for many families. State parks will again waive the day-use parking fees in the 24 parks that are open and charge...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN AFTER REPORTED NO CONTACT ORDER VIOLATION]]></title>
         <id>https://kqennewsradio.com/?p=112843</id>
@@ -144,6 +164,16 @@
         <summary type="html"><![CDATA[November 21, 2023 2:50 a.m. Troopers with the Oregon State Police responded to a minor-injury wreck on Interstate Five Saturday night. An OSP report said just after 9:30 p.m. the accident involved a northbound vehicle about one mile north of the Scotts Valley/Elkhead exit. The driver said he was traveling at about 65 miles-per-hour when...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Umpqua Holiday Food and Gift program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/be5c562a-87f6-11ee-acc6-8f0c0ab752a4</id>
+        <link href="https://www.nrtoday.com/briefs/north-umpqua-holiday-food-and-gift-program/article_be5c562a-87f6-11ee-acc6-8f0c0ab752a4.html"/>
+        <updated>2023-11-20T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — The North Umpqua Holiday Food and Gift program is accepting donations and gifts by early December.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
