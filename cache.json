@@ -464,6 +464,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c6748bb2-8944-11ee-931f-eb659304b8c5",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "RIDDLE — Law enforcement officers are looking for Gauge Douglas James Main, of Riddle, after a shooting Monday night in Riddle left one man dead and sent another to the hospital.",
+          "link": "https://www.nrtoday.com/news/crime/law-enforcement-search-for-riddle-man-following-homicide/article_c6748bb2-8944-11ee-931f-eb659304b8c5.html",
+          "publishedOn": "2023-11-22T14:38:00.000Z",
+          "wordCount": 13394,
+          "title": "Law enforcement search for Riddle man following homicide",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3e/13e006be-8946-11ee-b67e-233f6ff3ca8c/655e1488e17ac.image.jpg?resize=300%2C400",
+            "length": "20448",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3e/13e006be-8946-11ee-b67e-233f6ff3ca8c/655e1488e17ac.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/220afff8-8682-11ee-8eb6-ab9d960c5d6a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "REEDSPORT — The city of Reedsport is seeking applicants for various volunteer boards and committees.",
+          "link": "https://www.nrtoday.com/briefs/volunteers-needed-for-reedsport-committees/article_220afff8-8682-11ee-8eb6-ab9d960c5d6a.html",
+          "publishedOn": "2023-11-22T14:15:00.000Z",
+          "wordCount": 13147,
+          "title": "Volunteers needed for Reedsport committees",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/be5c562a-87f6-11ee-acc6-8f0c0ab752a4",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "GLIDE — The North Umpqua Holiday Food and Gift program is accepting donations and gifts by early December.",
@@ -552,21 +577,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/68/168b4fe6-8571-11ee-a342-b7879ec23835/6557a6b51b6b6.image.png?resize=300%2C167"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e537273e-867f-11ee-a6e0-eb94e1a6fdf5",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Most organizations hold conflict of interest rules, and in the case of The Miss Douglas County Scholarship Program, the directors made the decision to step down for another’s good.",
-          "link": "https://www.nrtoday.com/news/education/miss-douglas-county-under-new-management-deadline-to-register-dec-15/article_e537273e-867f-11ee-a6e0-eb94e1a6fdf5.html",
-          "publishedOn": "2023-11-19T02:03:00.000Z",
-          "wordCount": 13789,
-          "title": "Miss Douglas County under new management, deadline to register Dec. 15",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/6d/56d9b8a2-8680-11ee-95f3-6740eef2db0b/65596dca95579.image.jpg?resize=300%2C200",
-            "length": "125269",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/6d/56d9b8a2-8680-11ee-95f3-6740eef2db0b/65596dca95579.image.jpg?resize=300%2C200"
         }
       ]
     },

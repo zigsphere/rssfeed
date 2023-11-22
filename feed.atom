@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-22T13:14:16.796Z</updated>
+    <updated>2023-11-22T16:12:59.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Law enforcement search for Riddle man following homicide]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c6748bb2-8944-11ee-931f-eb659304b8c5</id>
+        <link href="https://www.nrtoday.com/news/crime/law-enforcement-search-for-riddle-man-following-homicide/article_c6748bb2-8944-11ee-931f-eb659304b8c5.html"/>
+        <updated>2023-11-22T14:38:00.000Z</updated>
+        <summary type="html"><![CDATA[RIDDLE — Law enforcement officers are looking for Gauge Douglas James Main, of Riddle, after a shooting Monday night in Riddle left one man dead and sent another to the hospital.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volunteers needed for Reedsport committees]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/220afff8-8682-11ee-8eb6-ab9d960c5d6a</id>
+        <link href="https://www.nrtoday.com/briefs/volunteers-needed-for-reedsport-committees/article_220afff8-8682-11ee-8eb6-ab9d960c5d6a.html"/>
+        <updated>2023-11-22T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — The city of Reedsport is seeking applicants for various volunteer boards and committees.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONE DEAD, ONE WOUNDED, SUSPECT SOUGHT IN RIDDLE HOMICIDE]]></title>
         <id>https://kqennewsradio.com/?p=112870</id>
@@ -492,16 +512,6 @@
         <link href="https://www.nrtoday.com/news/environment/pacific-power-holds-public-forum-about-wildfire-risk-mitigation-plans/article_49f54558-8675-11ee-8c10-9330548375db.html"/>
         <updated>2023-11-19T07:15:00.000Z</updated>
         <summary type="html"><![CDATA[WINCHESTER — With time to prepare before the next fire season, PacifiCorp is focused on both long-term and short-term plans for decreasing wildfire risk on its end.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miss Douglas County under new management, deadline to register Dec. 15]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e537273e-867f-11ee-a6e0-eb94e1a6fdf5</id>
-        <link href="https://www.nrtoday.com/news/education/miss-douglas-county-under-new-management-deadline-to-register-dec-15/article_e537273e-867f-11ee-a6e0-eb94e1a6fdf5.html"/>
-        <updated>2023-11-19T02:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Most organizations hold conflict of interest rules, and in the case of The Miss Douglas County Scholarship Program, the directors made the decision to step down for another’s good.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
         </author>
