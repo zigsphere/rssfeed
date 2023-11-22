@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-21T23:10:47.164Z</updated>
+    <updated>2023-11-22T02:27:07.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 11.21.23]]></title>
+        <id>https://kqennewsradio.com/?p=112851</id>
+        <link href="https://kqennewsradio.com/2023/11/22/true-wealth-11-21-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-11-21-23"/>
+        <updated>2023-11-22T01:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 11 21 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.21.23]]></title>
         <id>https://kqennewsradio.com/?p=112847</id>
@@ -484,16 +494,6 @@
         <summary type="html"><![CDATA[Roseburg Public Library encourages reading for fun and prizes during our annual Winter Reading Program.]]></summary>
         <author>
             <name>Kris Wiley For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS STARTING SATURDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=112747</id>
-        <link href="https://kqennewsradio.com/2023/11/18/winter-weather-advisory-for-mountain-areas-starting-saturday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-for-mountain-areas-starting-saturday-night"/>
-        <updated>2023-11-18T14:08:17.000Z</updated>
-        <summary type="html"><![CDATA[November 18, 2023 6:00 a.m. A Winter Weather Advisory is in effect for mountain areas of southern Oregon from 7:00 p.m. Saturday through Sunday at 10:00 a.m. above 4,000 feet. Forecasters at the National Weather Service said 7 to 14 inches of snow is expected above 4,000 feet. Some of the highest peaks could see...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

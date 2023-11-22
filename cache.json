@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112851",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 11 21 2023",
+          "link": "https://kqennewsradio.com/2023/11/22/true-wealth-11-21-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-21-23",
+          "publishedOn": "2023-11-22T01:07:25.000Z",
+          "wordCount": 1479,
+          "title": "TRUE WEALTH 11.21.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122000450/TRUE-WEALTH-11-21-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112847",
           "author": "Kyle Bailey",
           "description": "Douglas County Commissioner Tim Freeman talks about a joint petition filed with the U.S. Supreme Court by the Association of O&C Counties and the American Forest Resource Council regarding federal land management.  Click here to download for later listening: IDC 11 21 23",
@@ -374,16 +389,6 @@
           "wordCount": 1510,
           "title": "DEPUTIES JAIL TRANSIENT FOLLOWING ALLEGED THEFT INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112747",
-          "author": "Kyle Bailey",
-          "description": "November 18, 2023 6:00 a.m. A Winter Weather Advisory is in effect for mountain areas of southern Oregon from 7:00 p.m. Saturday through Sunday at 10:00 a.m. above 4,000 feet. Forecasters at the National Weather Service said 7 to 14 inches of snow is expected above 4,000 feet. Some of the highest peaks could see...",
-          "link": "https://kqennewsradio.com/2023/11/18/winter-weather-advisory-for-mountain-areas-starting-saturday-night/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-for-mountain-areas-starting-saturday-night",
-          "publishedOn": "2023-11-18T14:08:17.000Z",
-          "wordCount": 1600,
-          "title": "WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS STARTING SATURDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231118130802/sat-10.png"
         }
       ]
     },
