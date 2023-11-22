@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-22T19:08:34.651Z</updated>
+    <updated>2023-11-22T23:10:05.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.22.23]]></title>
+        <id>https://kqennewsradio.com/?p=112897</id>
+        <link href="https://kqennewsradio.com/2023/11/22/inside-douglas-county-11-22-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-22-23"/>
+        <updated>2023-11-22T21:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Congress in the 4th district, Monique DeSpain talks about her background and why she is running for office.  Click here to download for later listening: IDC 11 22 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAN CITED FOR DEPOSITING TRASH WITHIN 100 YARDS OF A WATERWAY EARLY WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=112892</id>
@@ -624,36 +634,6 @@
         <summary type="html"><![CDATA[Staying local for the next Hiking Club outing]]></summary>
         <author>
             <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling through the cracks]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/591b4ca8-78d3-11ee-9e9b-f3d9d1f697bd</id>
-        <link href="https://www.nrtoday.com/news/falling-through-the-cracks/article_591b4ca8-78d3-11ee-9e9b-f3d9d1f697bd.html"/>
-        <updated>2023-11-19T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Helena Ullha feels like she is falling through the cracks, falling hard.]]></summary>
-        <author>
-            <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanksgiving comes early for South Umpqua students]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/00397dea-8598-11ee-961c-a3a4d2ab7574</id>
-        <link href="https://www.nrtoday.com/news/local/thanksgiving-comes-early-for-south-umpqua-students/article_00397dea-8598-11ee-961c-a3a4d2ab7574.html"/>
-        <updated>2023-11-19T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[TRI CITY — The cafeteria was full of loud youthful chatter above the pop music playing through the speakers. Soda cans popped open and mashed potatoes plopped onto plates as all South Umpqua High School students, staff and administration gathered…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacific Power holds public forum about wildfire risk mitigation plans]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/49f54558-8675-11ee-8c10-9330548375db</id>
-        <link href="https://www.nrtoday.com/news/environment/pacific-power-holds-public-forum-about-wildfire-risk-mitigation-plans/article_49f54558-8675-11ee-8c10-9330548375db.html"/>
-        <updated>2023-11-19T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — With time to prepare before the next fire season, PacifiCorp is focused on both long-term and short-term plans for decreasing wildfire risk on its end.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>

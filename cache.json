@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=112897",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Congress in the 4th district, Monique DeSpain talks about her background and why she is running for office.  Click here to download for later listening: IDC 11 22 23",
+          "link": "https://kqennewsradio.com/2023/11/22/inside-douglas-county-11-22-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-22-23",
+          "publishedOn": "2023-11-22T21:16:33.000Z",
+          "wordCount": 1494,
+          "title": "INSIDE DOUGLAS COUNTY 11.22.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122201036/IDC-11-22-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122201617/Monique-01-1-scaled-cropped-headshot.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=112892",
           "author": "Kyle Bailey",
           "description": "November 22, 2023 11:00 a.m.  A Roseburg man was cited by Roseburg Police for depositing trash within 100 yards of a waterway, early Wednesday. Information from RPD said at 1:50 a.m. the 56-year old was contacted due to his camp being near the river in a prohibited camping zone in the 900 block of Northeast...",
@@ -697,51 +712,6 @@
           "wordCount": 13070,
           "title": "Staying local for the next Friends of the Umpqua Hiking Club outing",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/591b4ca8-78d3-11ee-9e9b-f3d9d1f697bd",
-          "author": "Scott Carroll The News-Review",
-          "description": "Helena Ullha feels like she is falling through the cracks, falling hard.",
-          "link": "https://www.nrtoday.com/news/falling-through-the-cracks/article_591b4ca8-78d3-11ee-9e9b-f3d9d1f697bd.html",
-          "publishedOn": "2023-11-19T07:45:00.000Z",
-          "wordCount": 15058,
-          "title": "Falling through the cracks",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/b7/4b703846-7d9e-11ee-9c8b-1fa344a874d3/654a8693dd539.image.jpg?resize=300%2C200",
-            "length": "448580",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/b7/4b703846-7d9e-11ee-9c8b-1fa344a874d3/654a8693dd539.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/00397dea-8598-11ee-961c-a3a4d2ab7574",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "TRI CITY — The cafeteria was full of loud youthful chatter above the pop music playing through the speakers. Soda cans popped open and mashed potatoes plopped onto plates as all South Umpqua High School students, staff and administration gathered…",
-          "link": "https://www.nrtoday.com/news/local/thanksgiving-comes-early-for-south-umpqua-students/article_00397dea-8598-11ee-961c-a3a4d2ab7574.html",
-          "publishedOn": "2023-11-19T07:15:00.000Z",
-          "wordCount": 14403,
-          "title": "Thanksgiving comes early for South Umpqua students",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/7c/77c2d1e2-8591-11ee-a138-6f6cf4f49e45/6557dd081ba21.image.jpg?resize=300%2C200",
-            "length": "327839",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/7c/77c2d1e2-8591-11ee-a138-6f6cf4f49e45/6557dd081ba21.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/49f54558-8675-11ee-8c10-9330548375db",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — With time to prepare before the next fire season, PacifiCorp is focused on both long-term and short-term plans for decreasing wildfire risk on its end.",
-          "link": "https://www.nrtoday.com/news/environment/pacific-power-holds-public-forum-about-wildfire-risk-mitigation-plans/article_49f54558-8675-11ee-8c10-9330548375db.html",
-          "publishedOn": "2023-11-19T07:15:00.000Z",
-          "wordCount": 14390,
-          "title": "Pacific Power holds public forum about wildfire risk mitigation plans",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/68/168b4fe6-8571-11ee-a342-b7879ec23835/6557a6b51b6b6.image.png?resize=300%2C167",
-            "length": "694058",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/68/168b4fe6-8571-11ee-a342-b7879ec23835/6557a6b51b6b6.image.png?resize=300%2C167"
         }
       ]
     },
