@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-23T19:07:51.288Z</updated>
+    <updated>2023-11-23T23:10:32.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clay Place opens winter term registration]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/456339a6-87d2-11ee-a06e-e31f6453eee1</id>
+        <link href="https://www.nrtoday.com/a_and_e/clay-place-opens-winter-term-registration/article_456339a6-87d2-11ee-a06e-e31f6453eee1.html"/>
+        <updated>2023-11-23T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Valley Arts has registration now open for the 2024 Winter Term Open Studio at The Clay Place.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rovers and Dragons present Christmas Show]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/6893564c-87fd-11ee-bb93-370053944354</id>
@@ -702,16 +712,6 @@
         <link href="https://kqennewsradio.com/2023/11/20/bandon-pair-arrested-after-curtin-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bandon-pair-arrested-after-curtin-incident"/>
         <updated>2023-11-20T11:14:42.000Z</updated>
         <summary type="html"><![CDATA[November 20, 2023 3:10 a.m. Two people from Bandon were arrested after an incident in Curtin late Friday afternoon. A Douglas County Sheriff’s Office report said at 5:15 p.m. a deputy was out with the woman in the 200 block of Bear Creek Road. The woman was walking toward a vehicle. A man was observed...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SENATORS ANNOUNCE SOUTH COAST DEVELOPMENT EARNS $300.000]]></title>
-        <id>https://kqennewsradio.com/?p=112757</id>
-        <link href="https://kqennewsradio.com/2023/11/20/senators-announce-south-coast-development-earns-300-000/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senators-announce-south-coast-development-earns-300-000"/>
-        <updated>2023-11-20T11:00:32.000Z</updated>
-        <summary type="html"><![CDATA[November 20, 2023 2:50 a.m. On Friday. U.S. Senators Ron Wyden and Jeff Merkley announced that the South Coast Development Council Inc in Coos Bay has secured a $300,000 federal investment to nurture local tech-based start-ups. Wyden said, “This federal investment in the South Coast will generate jobs, innovation and economic activity that will ripple...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

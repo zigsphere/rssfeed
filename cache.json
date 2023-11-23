@@ -554,16 +554,6 @@
           "wordCount": 1553,
           "title": "BANDON PAIR ARRESTED AFTER CURTIN INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112757",
-          "author": "Kyle Bailey",
-          "description": "November 20, 2023 2:50 a.m. On Friday. U.S. Senators Ron Wyden and Jeff Merkley announced that the South Coast Development Council Inc in Coos Bay has secured a $300,000 federal investment to nurture local tech-based start-ups. Wyden said, “This federal investment in the South Coast will generate jobs, innovation and economic activity that will ripple...",
-          "link": "https://kqennewsradio.com/2023/11/20/senators-announce-south-coast-development-earns-300-000/?utm_source=rss&utm_medium=rss&utm_campaign=senators-announce-south-coast-development-earns-300-000",
-          "publishedOn": "2023-11-20T11:00:32.000Z",
-          "wordCount": 1607,
-          "title": "SENATORS ANNOUNCE SOUTH COAST DEVELOPMENT EARNS $300.000",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
@@ -578,6 +568,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/456339a6-87d2-11ee-a06e-e31f6453eee1",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Umpqua Valley Arts has registration now open for the 2024 Winter Term Open Studio at The Clay Place.",
+          "link": "https://www.nrtoday.com/a_and_e/clay-place-opens-winter-term-registration/article_456339a6-87d2-11ee-a06e-e31f6453eee1.html",
+          "publishedOn": "2023-11-23T18:26:00.000Z",
+          "wordCount": 13129,
+          "title": "Clay Place opens winter term registration",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6893564c-87fd-11ee-bb93-370053944354",
           "author": "HANNAH SEIBOLD The News-Review",
