@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-24T13:12:19.521Z</updated>
+    <updated>2023-11-24T16:12:09.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Disco in downtown Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5bae9bfe-8973-11ee-ba39-a3754a16f22f</id>
+        <link href="https://www.nrtoday.com/briefs/dark-disco-in-downtown-roseburg/article_5bae9bfe-8973-11ee-ba39-a3754a16f22f.html"/>
+        <updated>2023-11-24T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Draper’s Draft House, Ember & Ash and Reverie Record store are joining forces for the second annual Black Friday Dark Disco on the 600 block of Southeast Jackson Street in downtown Roseburg.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Friday customers get holiday shopping started early]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0ad34dca-8ad5-11ee-815f-8328f98d7a5d</id>
+        <link href="https://www.nrtoday.com/business/black-friday-customers-get-holiday-shopping-started-early/article_0ad34dca-8ad5-11ee-815f-8328f98d7a5d.html"/>
+        <updated>2023-11-24T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After eating Thanksgiving dinner Thursday night, James Coffland and Jazzmin Johnson took a four-hour nap. They woke up, got dressed, and made their way to Fred Meyer in Roseburg to wait in line for its annual Black Friday sale. It…]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County’s payroll employment drops in October]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/43b62bb4-8966-11ee-a736-f327cb27e56d</id>
+        <link href="https://www.nrtoday.com/business/douglas-county-s-payroll-employment-drops-in-october/article_43b62bb4-8966-11ee-a736-f327cb27e56d.html"/>
+        <updated>2023-11-24T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County payroll employment dropped a seasonally adjusted 240 jobs in October after increases of 70 in September and 200 in August.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin’s Sean Radford named 2024 Oregon Assistant Principal of the Year]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a5cad2f8-8981-11ee-92ed-83ebed40292e</id>
+        <link href="https://www.nrtoday.com/news/sutherlin-s-sean-radford-named-2024-oregon-assistant-principal-of-the-year/article_a5cad2f8-8981-11ee-92ed-83ebed40292e.html"/>
+        <updated>2023-11-24T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Focusing on students, their well-being and success, and how he can help them has led Sutherlin High School Assistant Principal Sean Radford to be nationally recognized.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FREEZE WARNING/FROST ADVISORY FOR SOUTH CENTRAL OREGON COAST]]></title>
         <id>https://kqennewsradio.com/?p=112924</id>

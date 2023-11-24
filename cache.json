@@ -459,6 +459,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5bae9bfe-8973-11ee-ba39-a3754a16f22f",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Draper’s Draft House, Ember & Ash and Reverie Record store are joining forces for the second annual Black Friday Dark Disco on the 600 block of Southeast Jackson Street in downtown Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/dark-disco-in-downtown-roseburg/article_5bae9bfe-8973-11ee-ba39-a3754a16f22f.html",
+          "publishedOn": "2023-11-24T15:45:00.000Z",
+          "wordCount": 13168,
+          "title": "Dark Disco in downtown Roseburg",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0ad34dca-8ad5-11ee-815f-8328f98d7a5d",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "After eating Thanksgiving dinner Thursday night, James Coffland and Jazzmin Johnson took a four-hour nap. They woke up, got dressed, and made their way to Fred Meyer in Roseburg to wait in line for its annual Black Friday sale. It…",
+          "link": "https://www.nrtoday.com/business/black-friday-customers-get-holiday-shopping-started-early/article_0ad34dca-8ad5-11ee-815f-8328f98d7a5d.html",
+          "publishedOn": "2023-11-24T15:30:00.000Z",
+          "wordCount": 14454,
+          "title": "Black Friday customers get holiday shopping started early",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/67/b67377da-8adb-11ee-af5e-23960b8e2358/6560bd13d2300.image.jpg?resize=300%2C200",
+            "length": "444022",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/67/b67377da-8adb-11ee-af5e-23960b8e2358/6560bd13d2300.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/43b62bb4-8966-11ee-a736-f327cb27e56d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas County payroll employment dropped a seasonally adjusted 240 jobs in October after increases of 70 in September and 200 in August.",
+          "link": "https://www.nrtoday.com/business/douglas-county-s-payroll-employment-drops-in-october/article_43b62bb4-8966-11ee-a736-f327cb27e56d.html",
+          "publishedOn": "2023-11-24T14:30:00.000Z",
+          "wordCount": 13391,
+          "title": "Douglas County’s payroll employment drops in October",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a5cad2f8-8981-11ee-92ed-83ebed40292e",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Focusing on students, their well-being and success, and how he can help them has led Sutherlin High School Assistant Principal Sean Radford to be nationally recognized.",
+          "link": "https://www.nrtoday.com/news/sutherlin-s-sean-radford-named-2024-oregon-assistant-principal-of-the-year/article_a5cad2f8-8981-11ee-92ed-83ebed40292e.html",
+          "publishedOn": "2023-11-24T14:30:00.000Z",
+          "wordCount": 13832,
+          "title": "Sutherlin’s Sean Radford named 2024 Oregon Assistant Principal of the Year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06de402c-8985-11ee-899d-5f300d2e8a95/641cc42284868.image.jpg?resize=300%2C200",
+            "length": "283189",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06de402c-8985-11ee-899d-5f300d2e8a95/641cc42284868.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/050adba6-8805-11ee-9efa-6fba84ed1461",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Small grants that make a big difference for ensuring access to arts programming have been awarded to 119 arts organizations by the Oregon Arts Commission. Each organization will receive $2,363.",
