@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-25T19:07:35.415Z</updated>
+    <updated>2023-11-25T23:09:16.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man damages patrol car while under arrest]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a12e48fa-8b03-11ee-81f9-0379692ad62d</id>
+        <link href="https://www.nrtoday.com/news/crime/man-damages-patrol-car-while-under-arrest/article_a12e48fa-8b03-11ee-81f9-0379692ad62d.html"/>
+        <updated>2023-11-25T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Ryan Arthur Ferguson was arrested Wednesday, and while under arrest kicked the Douglas County Sheriff's Office patrol car from the inside causing damage.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GLIDE MAN JAILED FOLLOWING ALLEGED MENACING INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=112963</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[November 25, 2023 9:30 a.m. A Glide man was jailed following an alleged menacing incident Friday afternoon. A Douglas County Sheriff’s Office report said at 1:10 p.m. a victim told dispatchers the man was screaming at her inside a residence in the 100 block of Mount Scott Lane. The victim claimed the suspect had her...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local campground wins awards from Kampgrounds of America]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7143c5c0-88d8-11ee-828f-3f22089766b0</id>
+        <link href="https://www.nrtoday.com/news/local-campground-wins-awards-from-kampgrounds-of-america/article_7143c5c0-88d8-11ee-828f-3f22089766b0.html"/>
+        <updated>2023-11-25T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Kampgrounds of America, the world’s largest system of publicly open campgrounds, announced the Sutherlin/Umpqua Valley Kampgrounds of America Holiday campground earned the Kampgrounds of America Founder’s and President’s awards. The awards were presented Nov. 16 at the Kampgrounds…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -592,26 +612,6 @@
         <link href="https://kqennewsradio.com/2023/11/22/elkton-with-annual-art-wine-tour-thanksgiving-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=elkton-with-annual-art-wine-tour-thanksgiving-weekend"/>
         <updated>2023-11-22T11:16:53.000Z</updated>
         <summary type="html"><![CDATA[November 22, 2023 3:20 a.m. In the KQEN Cultural Spotlight: Elkton’s 13th Annual Art & Wine Tour will be Friday through Sunday. Elkton Community Education Center is organizing the event, which has thirteen sites participating, including seven wineries. Residents can start their tour at ECEC to pick up a passport with a list of all...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTMAS CAROL RADIO SHOW COMING TO UCC]]></title>
-        <id>https://kqennewsradio.com/?p=112861</id>
-        <link href="https://kqennewsradio.com/2023/11/22/christmas-carol-radio-show-coming-to-ucc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=christmas-carol-radio-show-coming-to-ucc"/>
-        <updated>2023-11-22T11:06:30.000Z</updated>
-        <summary type="html"><![CDATA[November 22, 2023 3:00 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing & Visual Arts presents A Christmas Carol Radio Show. It’s a comedy in 2 acts set in 1958, when a Los Angeles radio station puts on Charles Dicken’s “A Christmas Carol”. It will be performed November 29th through December 2nd at...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE FISHING DAYS IN OREGON FRIDAY AND SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=112854</id>
-        <link href="https://kqennewsradio.com/2023/11/22/free-fishing-days-in-oregon-friday-and-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-fishing-days-in-oregon-friday-and-saturday"/>
-        <updated>2023-11-22T10:56:30.000Z</updated>
-        <summary type="html"><![CDATA[November 22, 2023 2:40 a.m. The Oregon Department of Fish and Wildlife has free fishing days in Oregon on Friday and Saturday. An ODFW release said no fishing/shellfish licenses or tags are required for those two days. Both Oregon residents and nonresidents can fish for free. All other fishing regulations apply including closures, bag limits...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

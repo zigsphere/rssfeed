@@ -374,26 +374,6 @@
           "wordCount": 1525,
           "title": "ELKTON WITH ANNUAL ART & WINE TOUR THANKSGIVING WEEKEND",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122101633/AWLogo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112861",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2023 3:00 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing & Visual Arts presents A Christmas Carol Radio Show. It’s a comedy in 2 acts set in 1958, when a Los Angeles radio station puts on Charles Dicken’s “A Christmas Carol”. It will be performed November 29th through December 2nd at...",
-          "link": "https://kqennewsradio.com/2023/11/22/christmas-carol-radio-show-coming-to-ucc/?utm_source=rss&utm_medium=rss&utm_campaign=christmas-carol-radio-show-coming-to-ucc",
-          "publishedOn": "2023-11-22T11:06:30.000Z",
-          "wordCount": 1505,
-          "title": "CHRISTMAS CAROL RADIO SHOW COMING TO UCC",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122100348/christmas-carol-radio-show-1.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112854",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2023 2:40 a.m. The Oregon Department of Fish and Wildlife has free fishing days in Oregon on Friday and Saturday. An ODFW release said no fishing/shellfish licenses or tags are required for those two days. Both Oregon residents and nonresidents can fish for free. All other fishing regulations apply including closures, bag limits...",
-          "link": "https://kqennewsradio.com/2023/11/22/free-fishing-days-in-oregon-friday-and-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=free-fishing-days-in-oregon-friday-and-saturday",
-          "publishedOn": "2023-11-22T10:56:30.000Z",
-          "wordCount": 1519,
-          "title": "FREE FISHING DAYS IN OREGON FRIDAY AND SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210725/fishing-e1654251649962.jpg"
         }
       ]
     },
@@ -408,6 +388,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a12e48fa-8b03-11ee-81f9-0379692ad62d",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Ryan Arthur Ferguson was arrested Wednesday, and while under arrest kicked the Douglas County Sheriff's Office patrol car from the inside causing damage.",
+          "link": "https://www.nrtoday.com/news/crime/man-damages-patrol-car-while-under-arrest/article_a12e48fa-8b03-11ee-81f9-0379692ad62d.html",
+          "publishedOn": "2023-11-25T19:00:00.000Z",
+          "wordCount": 13291,
+          "title": "Man damages patrol car while under arrest",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7143c5c0-88d8-11ee-828f-3f22089766b0",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "SUTHERLIN — Kampgrounds of America, the world’s largest system of publicly open campgrounds, announced the Sutherlin/Umpqua Valley Kampgrounds of America Holiday campground earned the Kampgrounds of America Founder’s and President’s awards. The awards were presented Nov. 16 at the Kampgrounds…",
+          "link": "https://www.nrtoday.com/news/local-campground-wins-awards-from-kampgrounds-of-america/article_7143c5c0-88d8-11ee-828f-3f22089766b0.html",
+          "publishedOn": "2023-11-25T15:45:00.000Z",
+          "wordCount": 13662,
+          "title": "Local campground wins awards from Kampgrounds of America",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/94/7940d4c6-8b07-11ee-b5e5-33e880879a1e/6561067f0ab43.image.jpg?resize=300%2C200",
+            "length": "331941",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/94/7940d4c6-8b07-11ee-b5e5-33e880879a1e/6561067f0ab43.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f4adf358-8988-11ee-a7ea-eb863b1276af",
           "author": "Kris Wiley For The News-Review",
