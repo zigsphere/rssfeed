@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-25T16:11:24.191Z</updated>
+    <updated>2023-11-25T19:07:35.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GLIDE MAN JAILED FOLLOWING ALLEGED MENACING INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=112963</id>
+        <link href="https://kqennewsradio.com/2023/11/25/glide-man-jailed-following-alleged-menacing-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=glide-man-jailed-following-alleged-menacing-incident"/>
+        <updated>2023-11-25T17:27:20.000Z</updated>
+        <summary type="html"><![CDATA[November 25, 2023 9:30 a.m. A Glide man was jailed following an alleged menacing incident Friday afternoon. A Douglas County Sheriff’s Office report said at 1:10 p.m. a victim told dispatchers the man was screaming at her inside a residence in the 100 block of Mount Scott Lane. The victim claimed the suspect had her...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite reads of the year]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f4adf358-8988-11ee-a7ea-eb863b1276af</id>
+        <link href="https://www.nrtoday.com/news/education/favorite-reads-of-the-year/article_f4adf358-8988-11ee-a7ea-eb863b1276af.html"/>
+        <updated>2023-11-25T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[As 2023 wraps up, I am reflecting on my favorite books of the year. Great plots, fully realized characters, amazing writing … I had another banner year of reading.]]></summary>
+        <author>
+            <name>Kris Wiley For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glide Middle and High School honor roll]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/1f96c3a2-87f3-11ee-a993-67dcec6b7b96</id>
