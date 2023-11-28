@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-28T19:08:25.660Z</updated>
+    <updated>2023-11-28T23:09:59.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.28.23]]></title>
+        <id>https://kqennewsradio.com/?p=113052</id>
+        <link href="https://kqennewsradio.com/2023/11/28/inside-douglas-county-11-28-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-28-23"/>
+        <updated>2023-11-28T21:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Congress Ibra Taher shares his views on a number of issues he believes America is facing. Click here to download for later listening: IDC 11 28 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAN ARRESTED, JUVENILE CITED, FOLLOWING REPORTED STORE THEFT]]></title>
         <id>https://kqennewsradio.com/?p=113050</id>
