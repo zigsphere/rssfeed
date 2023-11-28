@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-11-28T13:12:36.536Z</updated>
+    <updated>2023-11-28T16:13:24.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More than $4 million awarded to 203 Oregon nonprofits]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/39f3dc44-8898-11ee-87bd-c7ad4fd8503f</id>
+        <link href="https://www.nrtoday.com/news/more-than-4-million-awarded-to-203-oregon-nonprofits/article_39f3dc44-8898-11ee-87bd-c7ad4fd8503f.html"/>
+        <updated>2023-11-28T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon Community Foundation is awarding $4.7 million in community grants to 203 nonprofit organizations throughout Oregon, including four in Douglas County.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Law enforcement continue search for Riddle homicide suspect Gauge Main]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fdef3024-8e03-11ee-b556-939f6c3906c4</id>
+        <link href="https://www.nrtoday.com/news/crime/law-enforcement-continue-search-for-riddle-homicide-suspect-gauge-main/article_fdef3024-8e03-11ee-b556-939f6c3906c4.html"/>
+        <updated>2023-11-28T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Detectives are renewing their request for information on the whereabouts of homicide suspect Gauge Douglas James Main.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin man arrested for assaulting officer]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9752f5a8-8e03-11ee-b395-9ffae3645c55</id>
+        <link href="https://www.nrtoday.com/news/crime/sutherlin-man-arrested-for-assaulting-officer/article_9752f5a8-8e03-11ee-b395-9ffae3645c55.html"/>
+        <updated>2023-11-28T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Sutherlin police jailed a man after he allegedly assaulted a public safety officer Sunday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yo-yos inspire Sunnyslope students]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f1d6d47a-8d7e-11ee-ba10-2bd443fb48b4</id>
+        <link href="https://www.nrtoday.com/news/education/yo-yos-inspire-sunnyslope-students/article_f1d6d47a-8d7e-11ee-ba10-2bd443fb48b4.html"/>
+        <updated>2023-11-28T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GREEN — With bouncy music playing in the background, students filed into the gymnasium and watched with anticipation as a presenter, dressed in black and purple, began spinning a plastic yo-yo in front of them until they settled down.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOMICIDE SUSPECT AT LARGE, DETECTIVES RENEW REQUEST FOR INFORMATION]]></title>
         <id>https://kqennewsradio.com/?p=113028</id>
@@ -174,6 +214,26 @@
         <summary type="html"><![CDATA[Joining us from Washington D.C., 2nd District Congressman Cliff Bentz talks about the White House Council on Environmental Quality and his concerns about recently negotiated mediation concerning the Columbia River System Operations.  He also discussed the dam situation on the Klamath River and related topics.  Click here download for later listening: 830 11 27 23]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Stagnation Advisory continues through Thursday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/cb0b428c-8d3c-11ee-8124-574da12e9240</id>
+        <link href="https://www.nrtoday.com/news/local/air-stagnation-advisory-continues-through-thursday/article_cb0b428c-8d3c-11ee-8124-574da12e9240.html"/>
+        <updated>2023-11-27T15:51:00.000Z</updated>
+        <summary type="html"><![CDATA[SOUTHWEST OREGON — An Air Stagnation Advisory remains in effect through 10 a.m. Thursday for much of the region.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoncalla residents jailed after overnight alleged assault incident]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/056d51be-8d3c-11ee-b66b-071b0ff3562e</id>
+        <link href="https://www.nrtoday.com/news/crime/yoncalla-residents-jailed-after-overnight-alleged-assault-incident/article_056d51be-8d3c-11ee-b66b-071b0ff3562e.html"/>
+        <updated>2023-11-27T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[DRAIN — Two Yoncalla residents were jailed by the Douglas County Sheriff’s Office after an overnight alleged assault incident early Friday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
