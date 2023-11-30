@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113120",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening:  MWLGS 11 29 2023",
+          "link": "https://kqennewsradio.com/2023/11/30/mike-winters-lawn-and-garden-program/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-program",
+          "publishedOn": "2023-11-30T01:06:46.000Z",
+          "wordCount": 1482,
+          "title": "MIKE WINTERS LAWN AND GARDEN PROGRAM",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231130000506/MWLGS-11-29-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113118",
+          "author": "Kyle Bailey",
+          "description": "November 29, 2023 4:40 p.m. Christmas Tree permits for cutting trees from Bureau of Land Management administered lands are can be purchased in-person at the Roseburg BLM Office on Northwest Garden Valley Boulevard through December 22nd during regular business hours. Cheyne Rossbach from the BLM said permits and maps are available for purchase by phone...",
+          "link": "https://kqennewsradio.com/2023/11/29/christmas-tree-permits-still-available/?utm_source=rss&utm_medium=rss&utm_campaign=christmas-tree-permits-still-available",
+          "publishedOn": "2023-11-30T00:43:30.000Z",
+          "wordCount": 1524,
+          "title": "CHRISTMAS TREE PERMITS STILL AVAILABLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223854/blmlogo.jpg.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113115",
           "author": "Kyle Bailey",
           "description": "November 29, 2023 2:45 p.m.  A homicide suspect is in custody in Redding, California, over a week after fleeing the scene of the crime in Riddle. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said at 10:15 a.m. Wednesday, DCSO was notified that the Shasta California Sheriff’s Office with the assistance of the United...",
@@ -524,16 +549,6 @@
           "wordCount": 1530,
           "title": "ARTISAN GALLEY IN WINCHESTER BAY OPEN SEVEN DAYS A WEEK",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231127100314/11-2023_Art_Gallery_Open_7_-_Call_for_Artisans.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112965",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2023 5:45 a.m.  An Air Stagnation Advisory is in effect through 10:00 a.m. Thursday for much of the region. Forecasters at the National Weather Service said poor mixing and weak winds mean that stagnant air is expected, which may lead to deteriorating air quality in the valleys of southern Oregon. The Advisory area...",
-          "link": "https://kqennewsradio.com/2023/11/26/air-stagnation-advisory-through-1000-a-m-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-1000-a-m-thursday",
-          "publishedOn": "2023-11-26T13:47:56.000Z",
-          "wordCount": 1576,
-          "title": "AIR STAGNATION ADVISORY THROUGH 10:00 A.M. THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231126124744/sun-7.png"
         }
       ]
     },
@@ -756,16 +771,6 @@
           "publishedOn": "2023-11-27T15:36:00.000Z",
           "wordCount": 13551,
           "title": "Food Bank official: Hunger increases in US, Oregon",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7ad412cc-8be2-11ee-a769-8f1ce7c481f9",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "OAKLAND — The city of Oakland will be hosting a town hall at 7 p.m. Wednesday at Oakland City Hall, 637 NE Locust St., Oakland.",
-          "link": "https://www.nrtoday.com/briefs/city-of-oakland-to-hear-digital-sign-proposal-from-superintendent/article_7ad412cc-8be2-11ee-a769-8f1ce7c481f9.html",
-          "publishedOn": "2023-11-26T14:15:00.000Z",
-          "wordCount": 13139,
-          "title": "City of Oakland to hear digital sign proposal from Superintendent",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
