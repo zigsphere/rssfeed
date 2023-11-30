@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113168",
+          "author": "Kyle Bailey",
+          "description": "Captain Rick Mabie of the Roseburg Salvation Army talks about the programs they have to help those in need in the community and special upcoming holiday activities.  Click here to download for later listening:  IDC 11 30 23",
+          "link": "https://kqennewsradio.com/2023/11/30/inside-douglas-county-11-30-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-30-23",
+          "publishedOn": "2023-11-30T21:21:24.000Z",
+          "wordCount": 1494,
+          "title": "INSIDE DOUGLAS COUNTY 11.30.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231130201825/IDC-11-30-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231130202058/IMG_3457.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113162",
+          "author": "Kyle Bailey",
+          "description": "November 30, 2023 11:05 a.m.   Troopers from the Oregon State Police rescued abandoned dogs from a U-Haul on Thanksgiving Day – November 23rd An OSP release said troopers responded to the Love’s Truck Stop in Klamath Falls for a report of a suspicious vehicle in the parking lot. A U-Haul truck had been abandoned in...",
+          "link": "https://kqennewsradio.com/2023/11/30/osp-troopers-rescue-abandoned-dogs-from-u-haul/?utm_source=rss&utm_medium=rss&utm_campaign=osp-troopers-rescue-abandoned-dogs-from-u-haul",
+          "publishedOn": "2023-11-30T19:07:41.000Z",
+          "wordCount": 1668,
+          "title": "OSP TROOPERS RESCUE ABANDONED DOGS FROM U-HAUL",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231130180644/NR_11-285-23_Troopers_with_puppies_1.jpeg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113157",
           "author": "Kyle Bailey",
           "description": "November 30, 2023 10:35 a.m.  A Winter Weather Advisory is in effect through 4:00 a.m. Friday with a Winter Storm Watch in effect from 4:00 a.m. Friday through Saturday afternoon above 4,000 feet in the mountain areas of southern Oregon. Forecasters at the National Weather Service said for the Winter Weather Advisory, 4 to 9...",
@@ -674,16 +699,6 @@
           "wordCount": 1542,
           "title": "CITY LAUNCHES NEW FOOD WASTE PREVENTION WEBPAGES",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224038/City-Hall-Front-1-e1584801171776.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=112968",
-          "author": "Kyle Bailey",
-          "description": "November 27, 2023 3:00 a.m. The Douglas County Commissioners, along with the staff at the Umpqua River Lighthouse and Coastal History Museum in Winchester Bay have announced that the local Artisan Gallery will now be open seven days a week, A County release said the gallery is located below the museum in a renovated space...",
-          "link": "https://kqennewsradio.com/2023/11/27/artisan-galley-in-winchester-bay-open-seven-days-a-week/?utm_source=rss&utm_medium=rss&utm_campaign=artisan-galley-in-winchester-bay-open-seven-days-a-week",
-          "publishedOn": "2023-11-27T11:03:24.000Z",
-          "wordCount": 1530,
-          "title": "ARTISAN GALLEY IN WINCHESTER BAY OPEN SEVEN DAYS A WEEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231127100314/11-2023_Art_Gallery_Open_7_-_Call_for_Artisans.png"
         }
       ]
     },
