@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-01T13:13:41.000Z</updated>
+    <updated>2023-12-01T16:12:21.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[County Commissioners approve of contract to patch Douglas County Museum roof]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4589179a-8fd2-11ee-96be-3b6e5aad8b18</id>
+        <link href="https://www.nrtoday.com/news/government/county-commissioners-approve-of-contract-to-patch-douglas-county-museum-roof/article_4589179a-8fd2-11ee-96be-3b6e5aad8b18.html"/>
+        <updated>2023-12-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Douglas County Commissioners approved a contract with Pressure Point Roofing, Inc., during Wednesday's regular meeting, to install an overlay roofing at the Douglas County Museum Building for $82,437.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County approves of contract with Verizon Wireless to replace tower]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d8aa7d7e-8fd3-11ee-ae64-53f4f0545726</id>
+        <link href="https://www.nrtoday.com/news/government/douglas-county-approves-of-contract-with-verizon-wireless-to-replace-tower/article_d8aa7d7e-8fd3-11ee-ae64-53f4f0545726.html"/>
+        <updated>2023-12-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YONCALLA — A Verizon Wireless service tower in Yoncalla will be replaced, after Douglas County Commissioners signed off on a contract during Wednesday's weekly board meeting.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online cooking course for young adults experiencing disabilities, nonprofit program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fcaf8322-8d6c-11ee-a45b-73bfb2e767cd</id>
+        <link href="https://www.nrtoday.com/news/online-cooking-course-for-young-adults-experiencing-disabilities-nonprofit-program/article_fcaf8322-8d6c-11ee-a45b-73bfb2e767cd.html"/>
+        <updated>2023-12-01T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Reality Kitchen Nonprofit is making customer service and cooking skills a reality for young adults experiencing intellectual and developmental disabilities. Soon, its in-person curriculum will expand online to reach rural communities.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Courthouse Elm undergoes annual checkup, get ready for winter]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/50958140-8fdd-11ee-8f41-6f4b51c643f0</id>
+        <link href="https://www.nrtoday.com/news/local/courthouse-elm-undergoes-annual-checkup-get-ready-for-winter/article_50958140-8fdd-11ee-8f41-6f4b51c643f0.html"/>
+        <updated>2023-12-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Courthouse Elm underwent its annual checkup Thursday, in preparation for the storms coming in the winter months.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSU Extension Service Suicide Prevention Class in December AM Nov 13 KB]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/66d09e2c-8268-11ee-a660-7f441ba26763</id>
+        <link href="https://www.nrtoday.com/life/health/osu-extension-service-suicide-prevention-class-in-december-am-nov-13-kb/article_66d09e2c-8268-11ee-a660-7f441ba26763.html"/>
+        <updated>2023-12-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Oregon State University Extension Service, in partnership with the Douglas Education Service District, will have a QPR suicide prevention class on Dec. 13.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WARNING IN MOUNTAIN AREAS UNTIL 10:00 P.M. SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=113193</id>
