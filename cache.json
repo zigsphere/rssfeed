@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113219",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at the fairgrounds for the 50th annual Douglas County Christmas Craft Fair. Click  here to download for later listening:  IDC 12 1 2023",
+          "link": "https://kqennewsradio.com/2023/12/01/inside-douglas-county-12-1-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-1-23",
+          "publishedOn": "2023-12-01T22:14:18.000Z",
+          "wordCount": 1483,
+          "title": "INSIDE DOUGLAS COUNTY 12.1.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201203948/IDC-12-1-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201211125/IMG_2040.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113217",
           "author": "Kyle Bailey",
           "description": "December 1, 2023 11:00 a.m.  Oregon State Police arrested a man on a charge of hit and run, following a single-vehicle wreck Wednesday night. An OSP report said shortly after 9:30 p.m. a pickup failed to stop at a stop sign at the intersection of Highway 138W and Highway 38 in Elkton. The vehicle went...",
@@ -699,26 +714,6 @@
           "wordCount": 1663,
           "title": "WILL LATHROP FILES TO BECOME OREGON’S NEXT ATTORNEY GENERAL",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231128101733/Will-Lathrop-2-scaled.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113016",
-          "author": "Kyle Bailey",
-          "description": "November 28, 2023 3:00 a.m. Mercy Foundation’s Festival of Trees begins later this week. The four-day series of events will run from Thursday through Sunday at Seven Feathers Convention Center in Canyonville. It is the 30th anniversary for the festival which offers many opportunities to support the organization’s fundraising efforts. Festival of Trees is presented...",
-          "link": "https://kqennewsradio.com/2023/11/28/festival-of-trees-begins-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=festival-of-trees-begins-this-week",
-          "publishedOn": "2023-11-28T11:06:01.000Z",
-          "wordCount": 1563,
-          "title": "FESTIVAL OF TREES BEGINS THIS WEEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213343/FOTLogo2021-NewGold-NOBUBBLES-e1638306650151.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113014",
-          "author": "Kyle Bailey",
-          "description": "November 28, 2023 2:50 a.m. For this year’s Giving Tuesday on November 28th, the global giving day, Feeding Umpqua, a program of United Community Action Network, is asking Douglas County residents to help meet the holiday need by getting involved. Feeding Umpqua Director Sarah McGregor said many organizations around the area are hosting holiday food...",
-          "link": "https://kqennewsradio.com/2023/11/28/feeding-umpqua-seeking-support-on-giving-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=feeding-umpqua-seeking-support-on-giving-tuesday",
-          "publishedOn": "2023-11-28T11:01:34.000Z",
-          "wordCount": 1579,
-          "title": "FEEDING UMPQUA SEEKING SUPPORT ON GIVING TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222403/Feeding_Umpqua_Logo.jpg"
         }
       ]
     },

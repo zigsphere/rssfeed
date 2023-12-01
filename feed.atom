@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-01T19:08:10.193Z</updated>
+    <updated>2023-12-01T23:09:57.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.1.23]]></title>
+        <id>https://kqennewsradio.com/?p=113219</id>
+        <link href="https://kqennewsradio.com/2023/12/01/inside-douglas-county-12-1-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-1-23"/>
+        <updated>2023-12-01T22:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Bailey was live at the fairgrounds for the 50th annual Douglas County Christmas Craft Fair. Click  here to download for later listening:  IDC 12 1 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAN ARRESTED FOR HIT AND RUN FOLLOWING WEDNESDAY NIGHT WRECK]]></title>
         <id>https://kqennewsradio.com/?p=113217</id>
@@ -902,26 +912,6 @@
         <link href="https://kqennewsradio.com/2023/11/28/will-lathrop-files-to-become-oregons-next-attorney-general/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=will-lathrop-files-to-become-oregons-next-attorney-general"/>
         <updated>2023-11-28T11:17:55.000Z</updated>
         <summary type="html"><![CDATA[November 28, 2023 3:15 a,m.  On Monday, human rights attorney Will Lathrop, filed for the office of Oregon Attorney General as a Republican. A release said Lathrop began campaigning at the start of the year, and has raised $300,000 so far, as he has campaigned in 25 of Oregon’s 36 counties. Lathrop has earned the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FESTIVAL OF TREES BEGINS THIS WEEK]]></title>
-        <id>https://kqennewsradio.com/?p=113016</id>
-        <link href="https://kqennewsradio.com/2023/11/28/festival-of-trees-begins-this-week/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=festival-of-trees-begins-this-week"/>
-        <updated>2023-11-28T11:06:01.000Z</updated>
-        <summary type="html"><![CDATA[November 28, 2023 3:00 a.m. Mercy Foundation’s Festival of Trees begins later this week. The four-day series of events will run from Thursday through Sunday at Seven Feathers Convention Center in Canyonville. It is the 30th anniversary for the festival which offers many opportunities to support the organization’s fundraising efforts. Festival of Trees is presented...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FEEDING UMPQUA SEEKING SUPPORT ON GIVING TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=113014</id>
-        <link href="https://kqennewsradio.com/2023/11/28/feeding-umpqua-seeking-support-on-giving-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeding-umpqua-seeking-support-on-giving-tuesday"/>
-        <updated>2023-11-28T11:01:34.000Z</updated>
-        <summary type="html"><![CDATA[November 28, 2023 2:50 a.m. For this year’s Giving Tuesday on November 28th, the global giving day, Feeding Umpqua, a program of United Community Action Network, is asking Douglas County residents to help meet the holiday need by getting involved. Feeding Umpqua Director Sarah McGregor said many organizations around the area are hosting holiday food...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
