@@ -579,6 +579,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b868d4e0-907b-11ee-98f0-2f90607953e7",
+          "author": "AURORA ROPP AND KRIS WILEY For The News-Review",
+          "description": "Reading holiday-themed books is a great way to get into the spirit of the season. This month, we recommend curling up on the couch with a blanket, hot chocolate and one of these books.",
+          "link": "https://www.nrtoday.com/news/education/celebrate-the-holidays-with-a-book/article_b868d4e0-907b-11ee-98f0-2f90607953e7.html",
+          "publishedOn": "2023-12-02T16:00:00.000Z",
+          "wordCount": 13584,
+          "title": "Celebrate the holidays with a book",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265",
+            "length": "348689",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/23ec696e-9079-11ee-96b4-37532760179e",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Roseburg Public Library patrons are closing in on 100,000 checkouts since Jan. 1 – amazing!",
+          "link": "https://www.nrtoday.com/news/education/bestsellers-graphic-novels-popular-at-roseburg-library/article_23ec696e-9079-11ee-96b4-37532760179e.html",
+          "publishedOn": "2023-12-02T15:45:00.000Z",
+          "wordCount": 13533,
+          "title": "Bestsellers, graphic novels popular at Roseburg library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/92611a18-9077-11ee-88fb-5b2751111578",
           "author": "Robert Heilman Friends of the Myrtle Creek Library",
           "description": "The Friends of Myrtle Creek Library have announced the top 20 most popular books of 2023.",
