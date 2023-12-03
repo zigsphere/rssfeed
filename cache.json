@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113241",
+          "author": "Kyle Bailey",
+          "description": "December 3, 2023 6:00 a.m. The National Weather Service has issued a Flood Potential Outlook for quick rises on rivers and streams in Douglas, Coos, and Curry counties. Forecasters said a series of atmospheric rivers will bring heavy rain to the coast and inland into Douglas County through Sunday and again Tuesday into Wednesday. Rainfall...",
+          "link": "https://kqennewsradio.com/2023/12/03/flood-potential-outlook-for-rivers-in-region/?utm_source=rss&utm_medium=rss&utm_campaign=flood-potential-outlook-for-rivers-in-region",
+          "publishedOn": "2023-12-03T14:04:32.000Z",
+          "wordCount": 1626,
+          "title": "FLOOD POTENTIAL OUTLOOK FOR RIVERS IN REGION",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231203130416/flood-1.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113238",
           "author": "Kyle Bailey",
           "description": "December 2, 2023 11:00 a.m. A Winter Storm Warning remains in effect through 10:00 p.m. Saturday for the south central and southern Oregon Cascades and Siskiyou mountains. An update from forecasters said heavy wet snow is expected, with additional snow accumulations of up to 10 inches forecast. Winds will gust as high as 40 miles...",
@@ -383,6 +393,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f42da48a-914b-11ee-a238-6f62a58b4ede",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Coastal Farm & Ranch, located at 782 Northeast Garden Valley Boulevard in Roseburg, will bring Santa’s Reindeer back to Roseburg on Tuesday.",
+          "link": "https://www.nrtoday.com/briefs/christmas-reindeer-return-to-roseburg-on-tuesday/article_f42da48a-914b-11ee-a238-6f62a58b4ede.html",
+          "publishedOn": "2023-12-03T15:30:00.000Z",
+          "wordCount": 13135,
+          "title": "Christmas reindeer return to Roseburg on Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c4477402-914c-11ee-90ce-4b3354689a9e",
+          "author": "The News-Review",
+          "description": "OREGON — Small forestland owners seeking information regarding the new streams and roads rules that will take affect Jan. 1 can access training information from the Oregon Department of Forestry.",
+          "link": "https://www.nrtoday.com/briefs/training-continues-on-new-rules-for-forest-practices/article_c4477402-914c-11ee-90ce-4b3354689a9e.html",
+          "publishedOn": "2023-12-03T15:00:00.000Z",
+          "wordCount": 13048,
+          "title": "Training continues on new rules for forest practices",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/76772d90-9097-11ee-b9fc-cbf480e6892e",
           "author": "Scott Carroll The News-Review",
