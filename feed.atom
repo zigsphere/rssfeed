@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-03T02:24:13.829Z</updated>
+    <updated>2023-12-03T13:10:31.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg church to open its doors as cold weather shelter]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/76772d90-9097-11ee-b9fc-cbf480e6892e</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-church-to-open-its-doors-as-cold-weather-shelter/article_76772d90-9097-11ee-b9fc-cbf480e6892e.html"/>
+        <updated>2023-12-03T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It looks like unhoused individuals will have a place to get out of the cold this winter, and possibly for years to come, following the announcement that an extreme weather shelter will open on the campus of a Roseburg church.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holly jolly holiday spirit at the Christmas Craft Fair]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/70415e0e-8fd5-11ee-9bb1-07a538dfd12c</id>
+        <link href="https://www.nrtoday.com/news/holly-jolly-holiday-spirit-at-the-christmas-craft-fair/article_70415e0e-8fd5-11ee-9bb1-07a538dfd12c.html"/>
+        <updated>2023-12-03T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Sticking with your crew while shuffling through aisles of booths jammed packed with hand-crafted cutting boards, plush crochet animals, fresh baked goods, jewelry and more is hard.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin brings teddy bear clinic to East Primary]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1f02a306-9154-11ee-a57b-435f9015ba46</id>
+        <link href="https://www.nrtoday.com/news/education/sutherlin-brings-teddy-bear-clinic-to-east-primary/article_1f02a306-9154-11ee-a57b-435f9015ba46.html"/>
+        <updated>2023-12-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Various stuffed entities, large and small, accompanied kindergarten students to school Friday. It was time for their animal health checkup.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WARNING UPDATE]]></title>
         <id>https://kqennewsradio.com/?p=113238</id>
@@ -504,236 +534,6 @@
         <summary type="html"><![CDATA[November 30, 2023 3:00 a.m. On Wednesday, Senator Ron Wyden and Senate colleagues introduced bipartisan legislation that would address the steep increase in armed robberies against postal workers. A release said that is because they are often targeted for their arrow keys that allow access to some mailboxes and their contents. Wyden said, “For over...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN PROGRAM]]></title>
-        <id>https://kqennewsradio.com/?p=113120</id>
-        <link href="https://kqennewsradio.com/2023/11/30/mike-winters-lawn-and-garden-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-program"/>
-        <updated>2023-11-30T01:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening:  MWLGS 11 29 2023]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTMAS TREE PERMITS STILL AVAILABLE]]></title>
-        <id>https://kqennewsradio.com/?p=113118</id>
-        <link href="https://kqennewsradio.com/2023/11/29/christmas-tree-permits-still-available/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=christmas-tree-permits-still-available"/>
-        <updated>2023-11-30T00:43:30.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 4:40 p.m. Christmas Tree permits for cutting trees from Bureau of Land Management administered lands are can be purchased in-person at the Roseburg BLM Office on Northwest Garden Valley Boulevard through December 22nd during regular business hours. Cheyne Rossbach from the BLM said permits and maps are available for purchase by phone...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homicide suspect located in Redding, in custody]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/98485a6c-8f0b-11ee-bbaf-9f7b23b70298</id>
-        <link href="https://www.nrtoday.com/news/homicide-suspect-located-in-redding-in-custody/article_98485a6c-8f0b-11ee-bbaf-9f7b23b70298.html"/>
-        <updated>2023-11-29T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A week after allegedly fleeing the scene of a homicide, 19-year-old Gauge Douglas James Main, of Riddle, was located and taken into custody in Redding, California.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOMICIDE SUSPECT IN CUSTODY, ARREST IN REDDING]]></title>
-        <id>https://kqennewsradio.com/?p=113115</id>
-        <link href="https://kqennewsradio.com/2023/11/29/homicide-suspect-in-custody-arrest-in-redding/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=homicide-suspect-in-custody-arrest-in-redding"/>
-        <updated>2023-11-29T22:46:06.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 2:45 p.m.  A homicide suspect is in custody in Redding, California, over a week after fleeing the scene of the crime in Riddle. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said at 10:15 a.m. Wednesday, DCSO was notified that the Shasta California Sheriff’s Office with the assistance of the United...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.29.23]]></title>
-        <id>https://kqennewsradio.com/?p=113108</id>
-        <link href="https://kqennewsradio.com/2023/11/29/inside-douglas-county-11-29-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-29-23"/>
-        <updated>2023-11-29T21:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Fire Chief Brian Burke of North Douglas County Fire and EMS talks a recent property acquisition,  a new recruitment/retention and training coordinator and an upcoming EMS class.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DINT ARRESTS ALLEGED FENTANYL DEALER ON MULTIPLE CHARGES]]></title>
-        <id>https://kqennewsradio.com/?p=113106</id>
-        <link href="https://kqennewsradio.com/2023/11/29/dint-arrests-alleged-fentanyl-dealer-on-multiple-charges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-arrests-alleged-fentanyl-dealer-on-multiple-charges"/>
-        <updated>2023-11-29T19:31:45.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 11:30 a.m. On Tuesday evening at approximately 9:30 p.m., the Douglas Interagency Narcotics Team arrested an alleged fentanyl dealer on multiple charges. DINT Commander, Lieutenant Rick McArthur said detectives were conducting an investigation into the activities of 39-year old Timothy Hobbs of Glide and interrupted a suspected drug deal occurring in the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANTS AFTER TRESPASS ISSUE ON TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=113104</id>
-        <link href="https://kqennewsradio.com/2023/11/29/roseburg-police-jail-woman-for-warrants-after-trespass-issue-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-warrants-after-trespass-issue-on-tuesday"/>
-        <updated>2023-11-29T19:04:37.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 11:05 a.m.  Roseburg Police jailed a woman for warrants after a trespass issue on Tuesday. An RPD report said at approximately 9:40 a.m. officers contacted the suspect at a business in the 3100 block of Northeast Stephens Street. During the contact the officer she had a failure appear warrant for her arrest....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG MAN JAILED AFTER TWO ALLEGED STORE HARASSMENT INCIDENTS]]></title>
-        <id>https://kqennewsradio.com/?p=113101</id>
-        <link href="https://kqennewsradio.com/2023/11/29/roseburg-man-jailed-after-two-alleged-store-harassment-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-jailed-after-two-alleged-store-harassment-incidents"/>
-        <updated>2023-11-29T18:53:31.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 10:50 a.m.  A Roseburg man was jailed Tuesday after two alleged harassment incidents at two stores. Information from RPD said at 7:20 a.m. 28-year old Joshua Eatherton was allegedly found lying on a display couch at Fred Meyer in the 900 block of Northwest Garden Valley Boulevard. A manager told Eatherton he...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWO JAILED FOLLOWING ALLEGED STORE TRESPASS]]></title>
-        <id>https://kqennewsradio.com/?p=113099</id>
-        <link href="https://kqennewsradio.com/2023/11/29/two-jailed-following-alleged-store-trespass/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-jailed-following-alleged-store-trespass"/>
-        <updated>2023-11-29T18:36:21.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 10:30 a.m.  Two people were jailed by Roseburg Police following an alleged store trespass incident on Tuesday. An RPD report said just after 12:15 p.m. officers responded to Sherm’s Thunderbird in the 2500 block of Northwest Stewart Parkway. Staff reported that a 30-year old woman had returned to the store after being...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR FELONY COUNT OF ASSAULT]]></title>
-        <id>https://kqennewsradio.com/?p=113097</id>
-        <link href="https://kqennewsradio.com/2023/11/29/roseburg-police-jail-woman-for-felony-count-of-assault/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-felony-count-of-assault"/>
-        <updated>2023-11-29T18:25:04.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 10:20 a.m. Roseburg Police jailed a woman for a felony count of assault following an alleged incident on Tuesday night in the 1200 block of Northwest Keasey Street. An RPD report said at 8:50 p.m. 45-year old Martillia McCullough allegedly kicked a victim in the face, causing an injury. The assault was...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED ASSAULT]]></title>
-        <id>https://kqennewsradio.com/?p=113093</id>
-        <link href="https://kqennewsradio.com/2023/11/29/roseburg-police-jail-man-for-reported-assault-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-reported-assault-3"/>
-        <updated>2023-11-29T18:12:54.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 10:00 a.m.  Roseburg Police jailed a man for a reported assault incident on Tuesday. An RPD report said at 6:00 p.m. the 39-year old allegedly injured a victim, causing her to have several visible injuries. The incident occurred in the 200 block of Southeast Lane Avenue. The victim was unable to walk...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MYRTLE CREEK ANNOUNCES PUBLIC MEETINGS FOR DECEMBER]]></title>
-        <id>https://kqennewsradio.com/?p=113091</id>
-        <link href="https://kqennewsradio.com/2023/11/29/myrtle-creek-announces-public-meetings-for-december/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-announces-public-meetings-for-december"/>
-        <updated>2023-11-29T17:54:57.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 9:50 a.m.  The City of Myrtle Creek has announced its public meetings for December. *The city council will meet on Tuesday December 5th and Tuesday December 19th *The December 12th Parks Commission meeting has been canceled *The Planning Commission’s December 26th has been canceled as well For more information about the City...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QPR SUICIDE PREVENTION CLASS IN DECEMBER]]></title>
-        <id>https://kqennewsradio.com/?p=113089</id>
-        <link href="https://kqennewsradio.com/2023/11/29/qpr-suicide-prevention-class-in-december/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qpr-suicide-prevention-class-in-december"/>
-        <updated>2023-11-29T17:44:49.000Z</updated>
-        <summary type="html"><![CDATA[November 29, 2023 9:30 a.m. The Oregon State University Extension Service 4-H in partnership with Douglas Education Service District, is hosting a QPR suicide prevention class on Wednesday December 13th from 6:00 p.m. to 8:00 p.m. It will be held at the Douglas County Extension Office on Southeast Douglas, just east of the courthouse. QPR...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 11.29.23]]></title>
-        <id>https://kqennewsradio.com/?p=113077</id>
-        <link href="https://kqennewsradio.com/2023/11/29/morning-conversation-11-29-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-11-29-23"/>
-        <updated>2023-11-29T17:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library Director Kris Wiley talks about the Winter Book Sale, starting on Thursday.  830 11 29 23]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiderking Studios films scene for new comedy, 'Killer Roommate']]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/972b9352-8c0d-11ee-8397-9767cd27f176</id>
-        <link href="https://www.nrtoday.com/a_and_e/spiderking-studios-films-scene-for-new-comedy-killer-roommate/article_972b9352-8c0d-11ee-8397-9767cd27f176.html"/>
-        <updated>2023-11-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spiderking Studios, a local independent film production company, gathered with a group of extras Saturday in downtown Roseburg to film a party scene for their upcoming comedy, "Killer Roommate."]]></summary>
-        <author>
-            <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Artisan Gallery now open seven days a week]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d31ad822-8d6c-11ee-892c-37163b13c73d</id>
-        <link href="https://www.nrtoday.com/a_and_e/local-artisan-gallery-now-open-seven-days-a-week/article_d31ad822-8d6c-11ee-892c-37163b13c73d.html"/>
-        <updated>2023-11-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER BAY — The Artisan Gallery — located below the Douglas County Coastal History Museum — will be open from 11 a.m. to 4 p.m. seven days a week in a renovated space once part of original 1939 U.S. Coast…]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local nonprofit offering training course, tips and tricks for fundraising]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9f352d84-88a1-11ee-b57b-c7213530c619</id>
-        <link href="https://www.nrtoday.com/news/local/local-nonprofit-offering-training-course-tips-and-tricks-for-fundraising/article_9f352d84-88a1-11ee-b57b-c7213530c619.html"/>
-        <updated>2023-11-29T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Susie Johnston-Forte said she woke up one morning with a dream to share her knowledge on how to raise money. After 40 years of working in fundraising positions in Douglas County, she felt ready to let others in on what…]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man tries to escape police by jumping in river]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/32083188-8ece-11ee-9b14-63d33b4ca680</id>
-        <link href="https://www.nrtoday.com/news/crime/man-tries-to-escape-police-by-jumping-in-river/article_32083188-8ece-11ee-9b14-63d33b4ca680.html"/>
-        <updated>2023-11-29T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[A man tried to escape deputies at Cleveland Rapids Park northwest of Roseburg early Tuesday by jumping into the river and swimming downstream.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter storm on its way to Southern Oregon]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cc7b54e4-8ecd-11ee-8010-c3cf6a31c80e</id>
-        <link href="https://www.nrtoday.com/news/local/winter-storm-on-its-way-to-southern-oregon/article_cc7b54e4-8ecd-11ee-8010-c3cf6a31c80e.html"/>
-        <updated>2023-11-29T15:41:00.000Z</updated>
-        <summary type="html"><![CDATA[A Winter Storm Watch is in effect for mountain areas, above 4,000 feet, in the region from Thursday afternoon through Saturday afternoon.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Festival of Trees begins this week]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/774458dc-8e5e-11ee-bddd-e7a00dcb8e1f</id>
-        <link href="https://www.nrtoday.com/briefs/festival-of-trees-begins-this-week/article_774458dc-8e5e-11ee-bddd-e7a00dcb8e1f.html"/>
-        <updated>2023-11-29T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[CANYONVILLE — Mercy Foundation’s Festival of Trees begins later this week.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All things Christmas and crafts: 50th Douglas County Christmas Craft Fair]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6a1cf7f6-8d6c-11ee-8b77-cf3c16dcff3c</id>
-        <link href="https://www.nrtoday.com/news/all-things-christmas-and-crafts-50th-douglas-county-christmas-craft-fair/article_6a1cf7f6-8d6c-11ee-8b77-cf3c16dcff3c.html"/>
-        <updated>2023-11-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After more than 49 years of Douglas County Christmas Craft Fair attendance, 88-year-old Myra Boyd is starting to use up her remaining materials.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free residential leaf pickup continues]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f3088a32-8e5f-11ee-9e51-ab8c20a787e3</id>
-        <link href="https://www.nrtoday.com/briefs/free-residential-leaf-pickup-continues/article_f3088a32-8e5f-11ee-9e51-ab8c20a787e3.html"/>
-        <updated>2023-11-29T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Public works crews are continuing free fall leaf collection service for homeowners.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glenbrook Country Christmas Bazaar held this week]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cb422318-8e60-11ee-970f-639be9e88154</id>
-        <link href="https://www.nrtoday.com/briefs/glenbrook-country-christmas-bazaar-held-this-week/article_cb422318-8e60-11ee-970f-639be9e88154.html"/>
-        <updated>2023-11-29T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[RIDDLE — The Glenbrook Country Christmas Bazaar will be held 9 a.m. to 6 p.m. Thursday and Friday and 9 a.m. to 4 p.m. Saturday at the Historic Masonic Hall, 143 West Fifth St., Riddle.]]></summary>
-        <author>
-            <name>The News-Review</name>
         </author>
     </entry>
 </feed>
