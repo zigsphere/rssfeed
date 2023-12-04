@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-04T19:08:40.103Z</updated>
+    <updated>2023-12-04T23:10:19.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.4.23]]></title>
+        <id>https://kqennewsradio.com/?p=113296</id>
+        <link href="https://kqennewsradio.com/2023/12/04/inside-douglas-county-12-4-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-4-23"/>
+        <updated>2023-12-04T21:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Attorney General Will Lathrop talks about his background and why he is running for office. Click here to download for later listening: IDC 12 4 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLOOD WATCH REMAINS IN EFFECT-UPDATED]]></title>
+        <id>https://kqennewsradio.com/?p=113292</id>
+        <link href="https://kqennewsradio.com/2023/12/04/flood-watch-remains-in-effect-updated/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flood-watch-remains-in-effect-updated"/>
+        <updated>2023-12-04T19:52:51.000Z</updated>
+        <summary type="html"><![CDATA[December 4, 2023 11:50 a.m.  A Flood Watch remains in effect through Wednesday afternoon for much of the region. An update from forecasters at the National Weather Service said flooding caused by excessive rainfall continues to be possible. The Watch area is for central Douglas County, Josephine County and Curry County and includes the communities...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JUVENILE CITED FOR HARASSMENT SUNDAY]]></title>
+        <id>https://kqennewsradio.com/?p=113290</id>
+        <link href="https://kqennewsradio.com/2023/12/04/juvenile-cited-for-harassment-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=juvenile-cited-for-harassment-sunday"/>
+        <updated>2023-12-04T19:15:57.000Z</updated>
+        <summary type="html"><![CDATA[December 4, 2023 11:15 a.m.  A juvenile male was cited by Roseburg Police for harassment following an incident Sunday afternoon. An RPD report said just before 12:40 p.m. an officer contacted the victim in the 2400 block of West Luellen Drive. The victim claimed the 17-year old threw a water bottle, hitting her in the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WOMAN JAILED FOR ALLEGED BURGLARY]]></title>
         <id>https://kqennewsradio.com/?p=113287</id>
@@ -77,6 +107,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flood watch in effect]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/30161780-92cc-11ee-9d02-130d2903c0ab</id>
+        <link href="https://www.nrtoday.com/briefs/flood-watch-in-effect/article_30161780-92cc-11ee-9d02-130d2903c0ab.html"/>
+        <updated>2023-12-04T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — A flood watch is in effect through Wednesday afternoon.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MYRTLE CREEK MAN DIES IN SINGLE-VEHICLE WRECK SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=113271</id>
         <link href="https://kqennewsradio.com/2023/12/04/myrtle-creek-man-dies-in-single-vehicle-wreck-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-man-dies-in-single-vehicle-wreck-sunday"/>
@@ -94,6 +134,16 @@
         <summary type="html"><![CDATA[First District State Representative Court Boice covers a number of legislative topics. Click here to download for later listening: 830 12 5 23]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bit of rain doesn't stop the holiday lovers, tree lighting and parade]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/56acb204-8fd5-11ee-b598-6bfb839bdade</id>
+        <link href="https://www.nrtoday.com/news/a-bit-of-rain-doesnt-stop-the-holiday-lovers-tree-lighting-and-parade/article_56acb204-8fd5-11ee-b598-6bfb839bdade.html"/>
+        <updated>2023-12-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — The streets near Riverbend Park were scarce as rain beat down and the sun set before the annual Winston Christmas parade and tree lighting.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -532,26 +582,6 @@
         <link href="https://kqennewsradio.com/2023/12/01/myrtle-creek-tree-lighting-ceremony-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-tree-lighting-ceremony-saturday"/>
         <updated>2023-12-01T11:13:44.000Z</updated>
         <summary type="html"><![CDATA[December 1, 2023 3:10 a.m. The City of Myrtle Creek will have its tree lighting ceremony “Grand Illumination” this Saturday evening. It takes place at the intersection of Second Avenue and Main Street. Hot cocoa and cookies will be served starting at 5:30 p.m. with the tree lighting taking place at 6:00 p.m. Mayor Matthew...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONCERT CHORALE AND CHAMBER CHOIR PRESENT MESSIAH]]></title>
-        <id>https://kqennewsradio.com/?p=113182</id>
-        <link href="https://kqennewsradio.com/2023/12/01/concert-chorale-and-chamber-choir-present-messiah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=concert-chorale-and-chamber-choir-present-messiah"/>
-        <updated>2023-12-01T11:08:24.000Z</updated>
-        <summary type="html"><![CDATA[December 1, 2023 3:00 a.m. In the KQEN Cultural Spotlight: The Roseburg Concert Chorale and Umpqua Community College will present Messiah by George Frederic Handel Friday night at 7:30 p.m. at the Church of the Nazarene in Myrtle Creek and Sunday at 3:00 p.m. in Jacoby Auditorium at UCC. The iconic work, under the direction...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTMAS REINDEER RETURN TO ROSEBURG ON TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=113179</id>
-        <link href="https://kqennewsradio.com/2023/12/01/christmas-reindeer-return-to-roseburg-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=christmas-reindeer-return-to-roseburg-on-tuesday"/>
-        <updated>2023-12-01T10:58:14.000Z</updated>
-        <summary type="html"><![CDATA[December 1, 2023 2:50 a.m. Coastal Farm & Ranch will bring Santa’s Reindeer back to Roseburg next week. The annual family-friendly event runs Tuesday from 2:00 p.m. to 6:00 p.m. and is free and open to the public. Complimentary hot cocoa and candy canes will be served. Kids can have their photo taken with Santa,...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

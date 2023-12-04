@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113296",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Attorney General Will Lathrop talks about his background and why he is running for office. Click here to download for later listening: IDC 12 4 23",
+          "link": "https://kqennewsradio.com/2023/12/04/inside-douglas-county-12-4-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-4-23",
+          "publishedOn": "2023-12-04T21:06:42.000Z",
+          "wordCount": 1479,
+          "title": "INSIDE DOUGLAS COUNTY 12.4.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231204200410/IDC-12-4-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231128101733/Will-Lathrop-2-scaled.webp"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113292",
+          "author": "Kyle Bailey",
+          "description": "December 4, 2023 11:50 a.m.  A Flood Watch remains in effect through Wednesday afternoon for much of the region. An update from forecasters at the National Weather Service said flooding caused by excessive rainfall continues to be possible. The Watch area is for central Douglas County, Josephine County and Curry County and includes the communities...",
+          "link": "https://kqennewsradio.com/2023/12/04/flood-watch-remains-in-effect-updated/?utm_source=rss&utm_medium=rss&utm_campaign=flood-watch-remains-in-effect-updated",
+          "publishedOn": "2023-12-04T19:52:51.000Z",
+          "wordCount": 1572,
+          "title": "FLOOD WATCH REMAINS IN EFFECT-UPDATED",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231204185234/mond-mid.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113290",
+          "author": "Kyle Bailey",
+          "description": "December 4, 2023 11:15 a.m.  A juvenile male was cited by Roseburg Police for harassment following an incident Sunday afternoon. An RPD report said just before 12:40 p.m. an officer contacted the victim in the 2400 block of West Luellen Drive. The victim claimed the 17-year old threw a water bottle, hitting her in the...",
+          "link": "https://kqennewsradio.com/2023/12/04/juvenile-cited-for-harassment-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=juvenile-cited-for-harassment-sunday",
+          "publishedOn": "2023-12-04T19:15:57.000Z",
+          "wordCount": 1470,
+          "title": "JUVENILE CITED FOR HARASSMENT SUNDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113287",
           "author": "Kyle Bailey",
           "description": "December 4, 2023 11:05 a.m.  A Roseburg woman was jailed by Roseburg Police for an alleged burglary case. An RPD report said at 11:00 p.m. officers contacted 34-year old Nichelle Rogers at a residence that had been broken into earlier in the day in the 1100 block of Southeast Jackson Street. When located and interviewed,...",
@@ -349,26 +384,6 @@
           "wordCount": 1494,
           "title": "MYRTLE CREEK TREE LIGHTING CEREMONY SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201101328/2021-Downtown-Christmas-Tree.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113182",
-          "author": "Kyle Bailey",
-          "description": "December 1, 2023 3:00 a.m. In the KQEN Cultural Spotlight: The Roseburg Concert Chorale and Umpqua Community College will present Messiah by George Frederic Handel Friday night at 7:30 p.m. at the Church of the Nazarene in Myrtle Creek and Sunday at 3:00 p.m. in Jacoby Auditorium at UCC. The iconic work, under the direction...",
-          "link": "https://kqennewsradio.com/2023/12/01/concert-chorale-and-chamber-choir-present-messiah/?utm_source=rss&utm_medium=rss&utm_campaign=concert-chorale-and-chamber-choir-present-messiah",
-          "publishedOn": "2023-12-01T11:08:24.000Z",
-          "wordCount": 1512,
-          "title": "CONCERT CHORALE AND CHAMBER CHOIR PRESENT MESSIAH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113179",
-          "author": "Kyle Bailey",
-          "description": "December 1, 2023 2:50 a.m. Coastal Farm & Ranch will bring Santa’s Reindeer back to Roseburg next week. The annual family-friendly event runs Tuesday from 2:00 p.m. to 6:00 p.m. and is free and open to the public. Complimentary hot cocoa and candy canes will be served. Kids can have their photo taken with Santa,...",
-          "link": "https://kqennewsradio.com/2023/12/01/christmas-reindeer-return-to-roseburg-on-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=christmas-reindeer-return-to-roseburg-on-tuesday",
-          "publishedOn": "2023-12-01T10:58:14.000Z",
-          "wordCount": 1492,
-          "title": "CHRISTMAS REINDEER RETURN TO ROSEBURG ON TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201095758/rein.jpg"
         }
       ]
     },
@@ -383,6 +398,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/30161780-92cc-11ee-9d02-130d2903c0ab",
+          "author": null,
+          "description": "DOUGLAS COUNTY — A flood watch is in effect through Wednesday afternoon.",
+          "link": "https://www.nrtoday.com/briefs/flood-watch-in-effect/article_30161780-92cc-11ee-9d02-130d2903c0ab.html",
+          "publishedOn": "2023-12-04T17:40:00.000Z",
+          "wordCount": 13105,
+          "title": "Flood watch in effect",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/56acb204-8fd5-11ee-b598-6bfb839bdade",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "WINSTON — The streets near Riverbend Park were scarce as rain beat down and the sun set before the annual Winston Christmas parade and tree lighting.",
+          "link": "https://www.nrtoday.com/news/a-bit-of-rain-doesnt-stop-the-holiday-lovers-tree-lighting-and-parade/article_56acb204-8fd5-11ee-b598-6bfb839bdade.html",
+          "publishedOn": "2023-12-04T15:00:00.000Z",
+          "wordCount": 14474,
+          "title": "A bit of rain doesn't stop the holiday lovers, tree lighting and parade",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/72/67226228-917e-11ee-8a67-67f0636bb44e/656bdf01b34a8.image.jpg?resize=300%2C200",
+            "length": "549687",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/72/67226228-917e-11ee-8a67-67f0636bb44e/656bdf01b34a8.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/56acb204-8fd5-11ee-b598-6bfb839bdade",
           "author": "HANNAH SEIBOLD The News-Review",
