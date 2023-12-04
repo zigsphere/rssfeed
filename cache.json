@@ -274,21 +274,6 @@
           "wordCount": 1492,
           "title": "CHRISTMAS REINDEER RETURN TO ROSEBURG ON TUESDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201095758/rein.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113176",
-          "author": "Kyle Bailey",
-          "description": "Presented by Premier Insurance: Shannon Sebastian and Allan Painter focus on a new non-profit organization seeking to renovate a baseball field for a youth baseball league in Sutherlin. Several guests talked about their hopes for this project. Click here to download for later listening:  YOUR CUE 11 16 2023",
-          "link": "https://kqennewsradio.com/2023/12/01/your-cue-11-30-23/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-11-30-23",
-          "publishedOn": "2023-12-01T01:31:35.000Z",
-          "wordCount": 1501,
-          "title": "YOUR CUE 11.30.23",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231201002620/YOUR-CUE-11-16-2023-2.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220429/yourcue.jpg"
         }
       ]
     },
@@ -303,6 +288,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/56acb204-8fd5-11ee-b598-6bfb839bdade",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "WINSTON — The streets near Riverbend Park were scarce as rain beat down and the sun set before the annual Winston Christmas parade and tree lighting.",
+          "link": "https://www.nrtoday.com/news/a-bit-of-rain-wont-stop-the-holiday-lovers-tree-lighting-and-parade/article_56acb204-8fd5-11ee-b598-6bfb839bdade.html",
+          "publishedOn": "2023-12-04T15:00:00.000Z",
+          "wordCount": 14426,
+          "title": "A bit of rain won't stop the holiday lovers, tree lighting and parade",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/72/67226228-917e-11ee-8a67-67f0636bb44e/656bdf01b34a8.image.jpg?resize=300%2C200",
+            "length": "549687",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/72/67226228-917e-11ee-8a67-67f0636bb44e/656bdf01b34a8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8352a3ba-8d6c-11ee-98a2-4341774da1be",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "RICE HILL — North Douglas County Fire and EMS is working to provide living quarters for its volunteers with the help of grant.",
+          "link": "https://www.nrtoday.com/news/north-douglas-county-fire-and-ems-receives-800k-grant-for-housing-project/article_8352a3ba-8d6c-11ee-98a2-4341774da1be.html",
+          "publishedOn": "2023-12-04T14:30:00.000Z",
+          "wordCount": 14221,
+          "title": "North Douglas County Fire and EMS receives $800K grant for housing project",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/77/9773f614-8f1a-11ee-a2ac-e7ad010c273c/6567dc8ec307f.image.jpg?resize=300%2C200",
+            "length": "267155",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/77/9773f614-8f1a-11ee-a2ac-e7ad010c273c/6567dc8ec307f.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f42da48a-914b-11ee-a238-6f62a58b4ede",
           "author": "Kyle Bailey For The News-Review",

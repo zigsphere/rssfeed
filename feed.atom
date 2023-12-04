@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-04T13:13:22.730Z</updated>
+    <updated>2023-12-04T16:13:13.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A bit of rain won't stop the holiday lovers, tree lighting and parade]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/56acb204-8fd5-11ee-b598-6bfb839bdade</id>
+        <link href="https://www.nrtoday.com/news/a-bit-of-rain-wont-stop-the-holiday-lovers-tree-lighting-and-parade/article_56acb204-8fd5-11ee-b598-6bfb839bdade.html"/>
+        <updated>2023-12-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — The streets near Riverbend Park were scarce as rain beat down and the sun set before the annual Winston Christmas parade and tree lighting.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Douglas County Fire and EMS receives $800K grant for housing project]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8352a3ba-8d6c-11ee-98a2-4341774da1be</id>
+        <link href="https://www.nrtoday.com/news/north-douglas-county-fire-and-ems-receives-800k-grant-for-housing-project/article_8352a3ba-8d6c-11ee-98a2-4341774da1be.html"/>
+        <updated>2023-12-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RICE HILL — North Douglas County Fire and EMS is working to provide living quarters for its volunteers with the help of grant.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WEEKEND RAIN DATA]]></title>
         <id>https://kqennewsradio.com/?p=113262</id>
@@ -442,16 +462,6 @@
         <link href="https://kqennewsradio.com/2023/12/01/christmas-reindeer-return-to-roseburg-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=christmas-reindeer-return-to-roseburg-on-tuesday"/>
         <updated>2023-12-01T10:58:14.000Z</updated>
         <summary type="html"><![CDATA[December 1, 2023 2:50 a.m. Coastal Farm & Ranch will bring Santa’s Reindeer back to Roseburg next week. The annual family-friendly event runs Tuesday from 2:00 p.m. to 6:00 p.m. and is free and open to the public. Complimentary hot cocoa and candy canes will be served. Kids can have their photo taken with Santa,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUR CUE 11.30.23]]></title>
-        <id>https://kqennewsradio.com/?p=113176</id>
-        <link href="https://kqennewsradio.com/2023/12/01/your-cue-11-30-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-11-30-23"/>
-        <updated>2023-12-01T01:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Premier Insurance: Shannon Sebastian and Allan Painter focus on a new non-profit organization seeking to renovate a baseball field for a youth baseball league in Sutherlin. Several guests talked about their hopes for this project. Click here to download for later listening:  YOUR CUE 11 16 2023]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
