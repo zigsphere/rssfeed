@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113314",
+          "author": "Kyle Bailey",
+          "description": "December 5, 2023 5:40 a.m. A Flood Watch remains in effect for much of the region through Wednesday afternoon. Forecasters at the National Weather Service said flooding caused by excessive rainfall continues to be possible. The Watch area is for central Douglas County, Josephine County and Curry County and includes the communities of Myrtle Point,...",
+          "link": "https://kqennewsradio.com/2023/12/05/flood-watch-remains-in-effect-through-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=flood-watch-remains-in-effect-through-wednesday-afternoon",
+          "publishedOn": "2023-12-05T13:38:06.000Z",
+          "wordCount": 1614,
+          "title": "FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY AFTERNOON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231205123715/truesam.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113310",
           "author": "Kyle Bailey",
           "description": "December 6, 2023 3:50 a.m.  Monday was a much warmer day than normal for the month of December in Roseburg, though no record high was set. Data from the National Weather Service said it got to 66 degrees at the Roseburg Regional Airport. That ties for the 6th warmest day ever for the month in...",
@@ -308,6 +318,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9d5ee734-92e2-11ee-8239-cb289918f78d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Myrtle Creek Elementary School held their annual Tree Walk on Friday morning to allow students to decorate the city's Christmas tree.",
+          "link": "https://www.nrtoday.com/news/education/myrtle-creek-children-decorate-for-christmas/article_9d5ee734-92e2-11ee-8239-cb289918f78d.html",
+          "publishedOn": "2023-12-05T15:00:00.000Z",
+          "wordCount": 14561,
+          "title": "Myrtle Creek children decorate for Christmas",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9a/e9a098e8-9096-11ee-9dc0-3b5e1f90b63e/656a5aa166ecf.image.jpg?resize=300%2C200",
+            "length": "294426",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9a/e9a098e8-9096-11ee-9dc0-3b5e1f90b63e/656a5aa166ecf.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/30161780-92cc-11ee-9d02-130d2903c0ab",
           "author": null,
