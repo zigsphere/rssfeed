@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-05T19:07:51.014Z</updated>
+    <updated>2023-12-05T23:09:59.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.5.23]]></title>
+        <id>https://kqennewsradio.com/?p=113341</id>
+        <link href="https://kqennewsradio.com/2023/12/05/inside-douglas-county-12-5-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-5-23"/>
+        <updated>2023-12-05T21:10:47.000Z</updated>
+        <summary type="html"><![CDATA[State Representative Christine Goodwin talks about Monday’s meeting of the Joint Interim Committee on Addiction and Community Safety Response, regarding Measure 110.  Click here to download for later listening:  IDC 12 5 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOUGLAS CA.R.E.S. OFFERING CLASS ON BASICS OF CHILD ABUSE MEDICINE]]></title>
+        <id>https://kqennewsradio.com/?p=113338</id>
+        <link href="https://kqennewsradio.com/2023/12/05/douglas-ca-r-e-s-offering-class-on-basics-of-child-abuse-medicine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-ca-r-e-s-offering-class-on-basics-of-child-abuse-medicine"/>
+        <updated>2023-12-05T19:16:22.000Z</updated>
+        <summary type="html"><![CDATA[December 5, 2023 11:15 a.m.  Douglas C.A.R.E.S. is offering a class on the basics of child abuse medicine later this month. A release said it is an interactive training for medical professionals working with children and families. A doctor with Oregon Child Abuse Solutions Medical Academy will have information on what to do if child...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIRE COMES OFF TRAILER, HITS MULTIPLE VEHICLES MONDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=113334</id>
@@ -84,6 +104,16 @@
         <summary type="html"><![CDATA[Douglas C.A.R.E.S. Executive Director Sarah Wickersham talks about an upcoming training availability for medical professionals working with children. Click here to download for later listening:  830 12 5 23]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg logging firm recognized as top forest operator for Southwest Oregon]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9f418ccc-92d9-11ee-9bc3-0baee17182e4</id>
+        <link href="https://www.nrtoday.com/news/roseburg-logging-firm-recognized-as-top-forest-operator-for-southwest-oregon/article_9f418ccc-92d9-11ee-9bc3-0baee17182e4.html"/>
+        <updated>2023-12-05T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Wally Plikat of Plikat Logging, Inc., a Roseburg-based logging firm, was selected as Forest Operator of the Year for Southwest Oregon earlier this fall.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
