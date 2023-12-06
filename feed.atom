@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-06T13:13:20.626Z</updated>
+    <updated>2023-12-06T16:13:31.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Commercial Dungeness crab season begins Dec. 16]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/aebf39ec-944b-11ee-84f3-93c7e88ce122</id>
+        <link href="https://www.nrtoday.com/briefs/commercial-dungeness-crab-season-begins-dec-16/article_aebf39ec-944b-11ee-84f3-93c7e88ce122.html"/>
+        <updated>2023-12-06T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[OREGON — Oregon’s commercial Dungeness crab fishery opens Dec. 16 from Cape Foulweather just south of Depoe Bay to the California border.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record temperatures in Roseburg on Tuesday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/32555328-944b-11ee-8516-b79bc68a3509</id>
+        <link href="https://www.nrtoday.com/briefs/record-temperatures-in-roseburg-on-tuesday/article_32555328-944b-11ee-8516-b79bc68a3509.html"/>
+        <updated>2023-12-06T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Roseburg had a record high temperature for the date on Tuesday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glide Christmas Fair is this weekend]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3df513de-92df-11ee-9f94-3f36677cabda</id>
+        <link href="https://www.nrtoday.com/briefs/glide-christmas-fair-is-this-weekend/article_3df513de-92df-11ee-9f94-3f36677cabda.html"/>
+        <updated>2023-12-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — Glide Christmas Fair will be held 10 a.m. to 4 p.m. Saturday and 10 a.m. through 3 p.m. Sunday at the Glide Community Center. 20062 N. Umpqua Highway, Glide.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HITS 67 DEGREES TUESDAY – RECORD FOR THE DATE]]></title>
         <id>https://kqennewsradio.com/?p=113365</id>
@@ -74,6 +104,16 @@
         <summary type="html"><![CDATA[December 6, 2023 2:50 a.m. On Tuesday 4th District Representative Val Hoyle and Representative Jared Huffman of California, introduced the Smith River National Recreation Area Expansion Act. A release from Hoyle’s office said this would protect Southwest Oregon’s scenic North Fork Smith River watershed and its world-class rivers, salmon stronghold, rare plants, clean drinking water...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reindeer come to Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/69c4f36e-93f0-11ee-915d-07a64e686286</id>
+        <link href="https://www.nrtoday.com/news/local/reindeer-come-to-roseburg/article_69c4f36e-93f0-11ee-915d-07a64e686286.html"/>
+        <updated>2023-12-06T04:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Out of the nine reindeer in Oregon, two of them decided to bring Santa Claus to Roseburg.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>

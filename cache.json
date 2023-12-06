@@ -494,6 +494,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/aebf39ec-944b-11ee-84f3-93c7e88ce122",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OREGON — Oregon’s commercial Dungeness crab fishery opens Dec. 16 from Cape Foulweather just south of Depoe Bay to the California border.",
+          "link": "https://www.nrtoday.com/briefs/commercial-dungeness-crab-season-begins-dec-16/article_aebf39ec-944b-11ee-84f3-93c7e88ce122.html",
+          "publishedOn": "2023-12-06T15:25:00.000Z",
+          "wordCount": 13236,
+          "title": "Commercial Dungeness crab season begins Dec. 16",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/32555328-944b-11ee-8516-b79bc68a3509",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg had a record high temperature for the date on Tuesday.",
+          "link": "https://www.nrtoday.com/briefs/record-temperatures-in-roseburg-on-tuesday/article_32555328-944b-11ee-8516-b79bc68a3509.html",
+          "publishedOn": "2023-12-06T15:21:00.000Z",
+          "wordCount": 13224,
+          "title": "Record temperatures in Roseburg on Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3df513de-92df-11ee-9f94-3f36677cabda",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Glide Christmas Fair will be held 10 a.m. to 4 p.m. Saturday and 10 a.m. through 3 p.m. Sunday at the Glide Community Center. 20062 N. Umpqua Highway, Glide.",
+          "link": "https://www.nrtoday.com/briefs/glide-christmas-fair-is-this-weekend/article_3df513de-92df-11ee-9f94-3f36677cabda.html",
+          "publishedOn": "2023-12-06T15:00:00.000Z",
+          "wordCount": 13244,
+          "title": "Glide Christmas Fair is this weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/69c4f36e-93f0-11ee-915d-07a64e686286",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Out of the nine reindeer in Oregon, two of them decided to bring Santa Claus to Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/reindeer-come-to-roseburg/article_69c4f36e-93f0-11ee-915d-07a64e686286.html",
+          "publishedOn": "2023-12-06T04:32:00.000Z",
+          "wordCount": 14318,
+          "title": "Reindeer come to Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/a9/5a94396e-93c7-11ee-90c6-175b168a2f1e/656fb4643e5f4.image.jpg?resize=300%2C200",
+            "length": "498554",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/a9/5a94396e-93c7-11ee-90c6-175b168a2f1e/656fb4643e5f4.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a1e2390c-939e-11ee-86a6-27792ecdad26",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "WINSTON — Students filed into an empty classroom Tuesday, where machines and volunteers were waiting to conduct vision screenings for McGovern Elementary School students.",
