@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-06T19:08:32.603Z</updated>
+    <updated>2023-12-06T23:10:19.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.6.23]]></title>
+        <id>https://kqennewsradio.com/?p=113397</id>
+        <link href="https://kqennewsradio.com/2023/12/06/inside-douglas-county-12-6-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-6-23"/>
+        <updated>2023-12-06T21:10:51.000Z</updated>
+        <summary type="html"><![CDATA[State Senator David Brock Smith talks about his presentation to classes at Roseburg High School regarding Measure 110, and what he hopes can be achieved on the issue during the upcoming special session of the Oregon State Legislature.  Click here to download for later listening:  IDC 12 6 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOIL WATER NOTICE LIFTED IN GLENDALE]]></title>
         <id>https://kqennewsradio.com/?p=113392</id>
@@ -704,26 +714,6 @@
         <summary type="html"><![CDATA[December 3, 2023 6:00 a.m. The National Weather Service has issued a Flood Potential Outlook for quick rises on rivers and streams in Douglas, Coos, and Curry counties. Forecasters said a series of atmospheric rivers will bring heavy rain to the coast and inland into Douglas County through Sunday and again Tuesday into Wednesday. Rainfall...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg church to open its doors as cold weather shelter]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/76772d90-9097-11ee-b9fc-cbf480e6892e</id>
-        <link href="https://www.nrtoday.com/news/local/roseburg-church-to-open-its-doors-as-cold-weather-shelter/article_76772d90-9097-11ee-b9fc-cbf480e6892e.html"/>
-        <updated>2023-12-03T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[It looks like unhoused individuals will have a place to get out of the cold this winter, and possibly for years to come, following the announcement that an extreme weather shelter will open on the campus of a Roseburg church.]]></summary>
-        <author>
-            <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holly jolly holiday spirit at the Christmas Craft Fair]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/70415e0e-8fd5-11ee-9bb1-07a538dfd12c</id>
-        <link href="https://www.nrtoday.com/news/holly-jolly-holiday-spirit-at-the-christmas-craft-fair/article_70415e0e-8fd5-11ee-9bb1-07a538dfd12c.html"/>
-        <updated>2023-12-03T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Sticking with your crew while shuffling through aisles of booths jammed packed with hand-crafted cutting boards, plush crochet animals, fresh baked goods, jewelry and more is hard.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
 </feed>
