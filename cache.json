@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113344",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial: David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 12 5 2023",
+          "link": "https://kqennewsradio.com/2023/12/06/true-wealth-radio-11-5-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-11-5-23",
+          "publishedOn": "2023-12-06T01:09:19.000Z",
+          "wordCount": 1483,
+          "title": "TRUE WEALTH RADIO 11.5.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231206000708/TRUE-WEALTH-12-5-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113341",
           "author": "Kyle Bailey",
           "description": "State Representative Christine Goodwin talks about Monday’s meeting of the Joint Interim Committee on Addiction and Community Safety Response, regarding Measure 110.  Click here to download for later listening:  IDC 12 5 23",
@@ -404,16 +419,6 @@
           "wordCount": 1547,
           "title": "WINTER STORM WARNING UPDATE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231202180754/satmid.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113234",
-          "author": "Kyle Bailey",
-          "description": "December 2, 2023 6:00 a.m. A Winter Storm Warning remains in effect until 10:00 p.m. Saturday for the south central and southern Oregon Cascades and Siskiyou Mountains. Forecasters at the National Weather Service said heavy snow is expected with accumulations of 8 to 21 inches between 5,500 feet and 6,500 feet, and up to 30...",
-          "link": "https://kqennewsradio.com/2023/12/02/winter-storm-warning-until-1000-p-m-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-until-1000-p-m-saturday",
-          "publishedOn": "2023-12-02T14:04:26.000Z",
-          "wordCount": 1568,
-          "title": "WINTER STORM WARNING UNTIL 10:00 P.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231202130403/satam2.png"
         }
       ]
     },
@@ -428,6 +433,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a1e2390c-939e-11ee-86a6-27792ecdad26",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — Students filed into an empty classroom Tuesday, where machines and volunteers were waiting to conduct vision screenings for McGovern Elementary School students.",
+          "link": "https://www.nrtoday.com/news/education/lions-club-screens-for-vision-in-local-schools/article_a1e2390c-939e-11ee-86a6-27792ecdad26.html",
+          "publishedOn": "2023-12-05T18:46:00.000Z",
+          "wordCount": 13969,
+          "title": "Lions Club screens for vision in local schools",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/92/d92e84a4-93b9-11ee-9fd4-4bd5e3d50372/656f9dbbac107.image.jpg?resize=300%2C200",
+            "length": "276552",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/92/d92e84a4-93b9-11ee-9fd4-4bd5e3d50372/656f9dbbac107.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9f418ccc-92d9-11ee-9bc3-0baee17182e4",
           "author": "HANNAH SEIBOLD The News-Review",
