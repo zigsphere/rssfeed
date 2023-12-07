@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-07T19:08:28.279Z</updated>
+    <updated>2023-12-07T23:10:13.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.7.23]]></title>
+        <id>https://kqennewsradio.com/?p=113461</id>
+        <link href="https://kqennewsradio.com/2023/12/07/inside-douglas-county-12-7-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-7-23"/>
+        <updated>2023-12-07T21:18:51.000Z</updated>
+        <summary type="html"><![CDATA[United Community Action Network Executive Director Shaun Pritchard talks about plans for a Warming Center at the St. Joseph Church gymnasium this winter.  Click here to download for later listening: IDC 12 7 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN AFTER ALLEGED DUII-ALCOHOL INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=113458</id>
@@ -902,26 +912,6 @@
         <link href="https://kqennewsradio.com/2023/12/04/veterans-benefits-seminar-coming-to-portland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=veterans-benefits-seminar-coming-to-portland"/>
         <updated>2023-12-04T11:21:55.000Z</updated>
         <summary type="html"><![CDATA[December 4, 2023 3:20 a.m. Disabled American Veterans has a benefits seminar coming to Portland later this week. A release said the non-profit organization provides support for veterans of all generations and their families, helping more than 1 million veterans each year. The Information Seminar is designed to help veterans and their families obtain the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPDATES ON PARK EXCLUSION RULES OPEN FOR ADDITIONAL PUBLIC COMMENT]]></title>
-        <id>https://kqennewsradio.com/?p=113250</id>
-        <link href="https://kqennewsradio.com/2023/12/04/updates-on-park-exclusion-rules-open-for-additional-public-comment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=updates-on-park-exclusion-rules-open-for-additional-public-comment"/>
-        <updated>2023-12-04T11:09:06.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2023 3:00 a.m. Oregon Parks and Recreation Department is seeking additional public comments on proposed updates to the rules for excluding individuals from Oregon State Parks who commit violations, including endangering the safety of visitors and staff. An OPRD release said the proposed rules opened for public comment on October 2nd and reflected...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN, BLUMENAUER INTRODUCE LEGISLATION TO SUPPORT KOMBUCHA]]></title>
-        <id>https://kqennewsradio.com/?p=113248</id>
-        <link href="https://kqennewsradio.com/2023/12/04/wyden-blumenauer-introduce-legislation-to-support-kombucha/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-blumenauer-introduce-legislation-to-support-kombucha"/>
-        <updated>2023-12-04T11:05:08.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2023 2:50 a.m. Last week, Senate Finance Chairman Senator Ron Wyden and Congressman Earl Blumenauer, a senior member of the Ways and Means Committee, reintroduced legislation to stop what they call “unfair and outdated” federal alcohol taxes to kombucha companies in Oregon and across the country. Wyden said, “Kombucha is not the same...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

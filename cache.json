@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113461",
+          "author": "Kyle Bailey",
+          "description": "United Community Action Network Executive Director Shaun Pritchard talks about plans for a Warming Center at the St. Joseph Church gymnasium this winter.  Click here to download for later listening: IDC 12 7 2023",
+          "link": "https://kqennewsradio.com/2023/12/07/inside-douglas-county-12-7-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-7-23",
+          "publishedOn": "2023-12-07T21:18:51.000Z",
+          "wordCount": 1492,
+          "title": "INSIDE DOUGLAS COUNTY 12.7.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231207201403/IDC-12-7-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231207201836/IMG_3478.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113458",
           "author": "Kyle Bailey",
           "description": "December 7, 2023 10:50 a.m. Roseburg Police jailed a man after an alleged DUII-alcohol incident on Wednesday. An RPD report said at 11:30 p.m. officers contacted the 31-year old during a traffic stop at the intersection of Southeast Stephens Street and Southeast Oak Avenue. During the stop, officers reportedly observed signs of impairment. The man...",
@@ -729,26 +744,6 @@
           "wordCount": 1513,
           "title": "VETERANS BENEFITS SEMINAR COMING TO PORTLAND",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919120051/KQEN-Logo-9-23-1-e1695128489187.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113250",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2023 3:00 a.m. Oregon Parks and Recreation Department is seeking additional public comments on proposed updates to the rules for excluding individuals from Oregon State Parks who commit violations, including endangering the safety of visitors and staff. An OPRD release said the proposed rules opened for public comment on October 2nd and reflected...",
-          "link": "https://kqennewsradio.com/2023/12/04/updates-on-park-exclusion-rules-open-for-additional-public-comment/?utm_source=rss&utm_medium=rss&utm_campaign=updates-on-park-exclusion-rules-open-for-additional-public-comment",
-          "publishedOn": "2023-12-04T11:09:06.000Z",
-          "wordCount": 1560,
-          "title": "UPDATES ON PARK EXCLUSION RULES OPEN FOR ADDITIONAL PUBLIC COMMENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214034/OPRD-shield_color_R-e1633542949553.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113248",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2023 2:50 a.m. Last week, Senate Finance Chairman Senator Ron Wyden and Congressman Earl Blumenauer, a senior member of the Ways and Means Committee, reintroduced legislation to stop what they call “unfair and outdated” federal alcohol taxes to kombucha companies in Oregon and across the country. Wyden said, “Kombucha is not the same...",
-          "link": "https://kqennewsradio.com/2023/12/04/wyden-blumenauer-introduce-legislation-to-support-kombucha/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-blumenauer-introduce-legislation-to-support-kombucha",
-          "publishedOn": "2023-12-04T11:05:08.000Z",
-          "wordCount": 1722,
-          "title": "WYDEN, BLUMENAUER INTRODUCE LEGISLATION TO SUPPORT KOMBUCHA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
