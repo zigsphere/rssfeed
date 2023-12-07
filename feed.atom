@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-07T13:13:22.935Z</updated>
+    <updated>2023-12-07T16:13:02.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Timber Truck parade this weekend in Myrtle Creek]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e4a1dcd2-9486-11ee-a1a9-47d5dc730a00</id>
+        <link href="https://www.nrtoday.com/news/local/timber-truck-parade-this-weekend-in-myrtle-creek/article_e4a1dcd2-9486-11ee-a1a9-47d5dc730a00.html"/>
+        <updated>2023-12-07T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Trucks will get lit in Myrtle Creek on Saturday to celebrate the holidays — timber style.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rudolph Run collects presents on Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bba934b2-9493-11ee-a5b1-4fd6571a25aa</id>
+        <link href="https://www.nrtoday.com/news/local/rudolph-run-collects-presents-on-saturday/article_bba934b2-9493-11ee-a5b1-4fd6571a25aa.html"/>
+        <updated>2023-12-07T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Donation boxes will be collected soon throughout Roseburg, to provide toys to children across Douglas County in time for Christmas.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston Community celebrates Christmas on Friday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/18a86d6a-9474-11ee-92db-07ee7a7f7f32</id>
+        <link href="https://www.nrtoday.com/briefs/winston-community-celebrates-christmas-on-friday/article_18a86d6a-9474-11ee-92db-07ee7a7f7f32.html"/>
+        <updated>2023-12-07T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — Winston Area Independence Day Committee will host Winston Community Christmas at 6 p.m. Friday at the Winston Community Center, 440 SE Grape St., Winston.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3,000 gallons of raw sewage spilled in Reedsport]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7610a4d0-9515-11ee-a05a-27d3c67bac9c</id>
+        <link href="https://www.nrtoday.com/briefs/3-000-gallons-of-raw-sewage-spilled-in-reedsport/article_7610a4d0-9515-11ee-a05a-27d3c67bac9c.html"/>
+        <updated>2023-12-07T15:29:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — City of Reedsport staff were contacted Wednesday regarding a sewage spill from a manhole near the 1400 block of Highway 101.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[River levels rise in Umpqua Valley, but no flooding expected, experts say]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/eec5f5ee-946e-11ee-a99f-f3a91503f178</id>
+        <link href="https://www.nrtoday.com/news/local/river-levels-rise-in-umpqua-valley-but-no-flooding-expected-experts-say/article_eec5f5ee-946e-11ee-a99f-f3a91503f178.html"/>
+        <updated>2023-12-07T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Umpqua River has been roaring for the past couple of days, as heavy rainfall the previous week led to rising river stages — the water level of rivers measured above their baseflow conditions — across the Pacific Northwest.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone has a book inside of them, Umpqua author publishes novel]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d933328e-92ff-11ee-8220-ff4103c60215</id>
+        <link href="https://www.nrtoday.com/a_and_e/everyone-has-a-book-inside-of-them-umpqua-author-publishes-novel/article_d933328e-92ff-11ee-8220-ff4103c60215.html"/>
+        <updated>2023-12-07T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[At 82-years old, Larry Sutton believes everyone has a book in them. His ninth-grade English teacher believed Sutton had one inside him, too.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH 4:00 A.M. FRIDAY ABOVE 3,500 FEET]]></title>
         <id>https://kqennewsradio.com/?p=113435</id>
