@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-08T19:08:16.400Z</updated>
+    <updated>2023-12-08T23:09:56.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.8.23]]></title>
+        <id>https://kqennewsradio.com/?p=113510</id>
+        <link href="https://kqennewsradio.com/2023/12/08/inside-douglas-county-12-8-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-8-23"/>
+        <updated>2023-12-08T21:11:06.000Z</updated>
+        <summary type="html"><![CDATA[From A New Direction, former candidate for governor and former State Representative Christine Drazan talks about Measure 110, a recent legislative meeting, and her hopes for what lawmakers will do to address the impacts of the legislation. Click here to download for later listening:   IDC 12 8 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL WOMAN FOLLOWING ALLEGED DISORDERLY CONDUCT INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=113506</id>
@@ -932,16 +942,6 @@
         <link href="https://kqennewsradio.com/2023/12/05/umpqua-singers-big-horn-jazz-band-with-holiday-concert/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-singers-big-horn-jazz-band-with-holiday-concert"/>
         <updated>2023-12-05T11:24:36.000Z</updated>
         <summary type="html"><![CDATA[December 5, 2023 3:20 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Performing and Visual Arts present the Umpqua Singers and Big Horn Jazz Band in concert Tuesday night at 7:00 p.m. in Centerstage at the Whipple Fine Arts Center. The Umpqua Singers, directed by Dr. Jason Heald and the Big Horn Jazz...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEDESTRIAN TAKEN TO HOSPITAL AFTER VEHICLE VERSUS PEDESTRIAN ACCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=113302</id>
-        <link href="https://kqennewsradio.com/2023/12/05/pedestrian-taken-to-hospital-after-vehicle-versus-pedestrian-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pedestrian-taken-to-hospital-after-vehicle-versus-pedestrian-accident"/>
-        <updated>2023-12-05T11:02:46.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2023 3:00 a.m. A pedestrian was taken to the hospital after a vehicle versus pedestrian accident on Sunday. A Roseburg Police report said at 5:45 p.m. officers responded to the collision at the intersection of Southeast Stephens Street and Southeast Oak Avenue. The motorist was turning from Oak Avenue to go northbound on...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

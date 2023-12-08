@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113510",
+          "author": "Kyle Bailey",
+          "description": "From A New Direction, former candidate for governor and former State Representative Christine Drazan talks about Measure 110, a recent legislative meeting, and her hopes for what lawmakers will do to address the impacts of the legislation. Click here to download for later listening:   IDC 12 8 23",
+          "link": "https://kqennewsradio.com/2023/12/08/inside-douglas-county-12-8-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-8-23",
+          "publishedOn": "2023-12-08T21:11:06.000Z",
+          "wordCount": 1501,
+          "title": "INSIDE DOUGLAS COUNTY 12.8.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231208200724/IDC-12-8-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221532/drazan-e1608723169567.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113506",
           "author": "Kyle Bailey",
           "description": "December 8, 2023 10:50 a.m.  Sutherlin Police jailed a woman following an alleged disorderly conduct incident Thursday night. An SPD report said at 7:30 p.m. officers responded to the 800 block of Landing Street. A 28-year old and her girlfriend have been living in a tent on the property for the last 3 months. A...",
@@ -719,16 +734,6 @@
           "wordCount": 1504,
           "title": "UMPQUA SINGERS/BIG HORN JAZZ BAND WITH HOLIDAY CONCERT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113302",
-          "author": "Kyle Bailey",
-          "description": "December 5, 2023 3:00 a.m. A pedestrian was taken to the hospital after a vehicle versus pedestrian accident on Sunday. A Roseburg Police report said at 5:45 p.m. officers responded to the collision at the intersection of Southeast Stephens Street and Southeast Oak Avenue. The motorist was turning from Oak Avenue to go northbound on...",
-          "link": "https://kqennewsradio.com/2023/12/05/pedestrian-taken-to-hospital-after-vehicle-versus-pedestrian-accident/?utm_source=rss&utm_medium=rss&utm_campaign=pedestrian-taken-to-hospital-after-vehicle-versus-pedestrian-accident",
-          "publishedOn": "2023-12-05T11:02:46.000Z",
-          "wordCount": 1516,
-          "title": "PEDESTRIAN TAKEN TO HOSPITAL AFTER VEHICLE VERSUS PEDESTRIAN ACCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
         }
       ]
     },
