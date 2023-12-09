@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-09T16:11:34.110Z</updated>
+    <updated>2023-12-09T19:07:34.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG WOMAN DIES IN VEHICLE VERSUS PEDESTRIAN ACCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=113518</id>
+        <link href="https://kqennewsradio.com/2023/12/09/roseburg-woman-dies-in-vehicle-versus-pedestrian-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-woman-dies-in-vehicle-versus-pedestrian-accident"/>
+        <updated>2023-12-09T17:30:57.000Z</updated>
+        <summary type="html"><![CDATA[December 9, 2023 9:30 a.m. A Roseburg woman died after she was struck by a vehicle early Thursday. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said shortly before 4:30 a.m. 911 dispatchers received a report of the vehicle versus pedestrian crash on Northeast Stephens Street near Strauss Avenue in the Winchester area. O’Dell...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHI Mercy Health one of 35 hospitals in recent data breach]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/de4fe296-95fa-11ee-946e-e3ad9c434c5c</id>
+        <link href="https://www.nrtoday.com/news/health/chi-mercy-health-one-of-35-hospitals-in-recent-data-breach/article_de4fe296-95fa-11ee-946e-e3ad9c434c5c.html"/>
+        <updated>2023-12-09T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[CHI Mercy Health, along with 34 other hospitals across the country, have been affected by a data breach that took place earlier this year.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Public Library to celebrate five year anniversary]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a7150ef8-95f7-11ee-a310-8f4a638bc661</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-public-library-to-celebrate-five-year-anniversary/article_a7150ef8-95f7-11ee-a310-8f4a638bc661.html"/>
+        <updated>2023-12-09T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library is marking its five year anniversary with a community celebration Saturday, Jan. 6.]]></summary>
+        <author>
+            <name>Kris Wiley For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MYRTLE CREEK MAN JAILED FOR ALLEGED ASSAULT INCIDENTS]]></title>
         <id>https://kqennewsradio.com/?p=113514</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[December 8, 2023 7:30 a.m. Deputies with the Douglas County Sheriff’s Office jailed a man Thursday for alleged assault incidents. A DCSO report said on December 5th just after 12:00 p.m. 45-year old Christopher Jones and a victim allegedly got into a disturbance in the 600 block of Bills Road in the Myrtle Creek area....]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Schools distribute free meals over winter break]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f3de0534-955a-11ee-a898-0343cf2d8dc7</id>
+        <link href="https://www.nrtoday.com/briefs/roseburg-schools-distribute-free-meals-over-winter-break/article_f3de0534-955a-11ee-a898-0343cf2d8dc7.html"/>
+        <updated>2023-12-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Schools will distribute free meals to children and youth over winter break through the LunchBox Express Bus.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -744,16 +784,6 @@
         <summary type="html"><![CDATA[December 6, 2023 2:50 a.m. On Tuesday 4th District Representative Val Hoyle and Representative Jared Huffman of California, introduced the Smith River National Recreation Area Expansion Act. A release from Hoyle’s office said this would protect Southwest Oregon’s scenic North Fork Smith River watershed and its world-class rivers, salmon stronghold, rare plants, clean drinking water...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reindeer come to Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/69c4f36e-93f0-11ee-915d-07a64e686286</id>
-        <link href="https://www.nrtoday.com/news/local/reindeer-come-to-roseburg/article_69c4f36e-93f0-11ee-915d-07a64e686286.html"/>
-        <updated>2023-12-06T04:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Out of the nine reindeer in Oregon, two of them decided to bring Santa Claus to Roseburg.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
