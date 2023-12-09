@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-09T13:10:11.865Z</updated>
+    <updated>2023-12-09T16:11:34.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MYRTLE CREEK MAN JAILED FOR ALLEGED ASSAULT INCIDENTS]]></title>
+        <id>https://kqennewsradio.com/?p=113514</id>
+        <link href="https://kqennewsradio.com/2023/12/09/myrtle-creek-man-jailed-for-alleged-assault-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-man-jailed-for-alleged-assault-incidents"/>
+        <updated>2023-12-09T15:37:02.000Z</updated>
+        <summary type="html"><![CDATA[December 8, 2023 7:30 a.m. Deputies with the Douglas County Sheriff’s Office jailed a man Thursday for alleged assault incidents. A DCSO report said on December 5th just after 12:00 p.m. 45-year old Christopher Jones and a victim allegedly got into a disturbance in the 600 block of Bills Road in the Myrtle Creek area....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.8.23]]></title>
         <id>https://kqennewsradio.com/?p=113510</id>
