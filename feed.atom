@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-10T16:11:31.262Z</updated>
+    <updated>2023-12-10T19:07:44.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek Man jailed for alleged assault incidents]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0abc51e2-96c9-11ee-bed9-c305b192dc84</id>
+        <link href="https://www.nrtoday.com/briefs/myrtle-creek-man-jailed-for-alleged-assault-incidents/article_0abc51e2-96c9-11ee-bed9-c305b192dc84.html"/>
+        <updated>2023-12-10T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Deputies with the Douglas County Sheriff’s Office jailed a man Thursday for alleged assault incidents.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[City of Reedsport seeks to fill vacant city council position]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/a7524cb8-95fd-11ee-b861-3f0437afadac</id>
