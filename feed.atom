@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-11T23:10:02.737Z</updated>
+    <updated>2023-12-12T02:24:49.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Homeless Commission shelves plans for Winchester Street camp following public outcry]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5030cd74-9878-11ee-a97d-d75c8c165032</id>
+        <link href="https://www.nrtoday.com/news/homeless-commission-shelves-plans-for-winchester-street-camp-following-public-outcry/article_5030cd74-9878-11ee-a97d-d75c8c165032.html"/>
+        <updated>2023-12-12T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A proposal to locate a campground for the unhoused on Northeast Winchester Street in Roseburg was quickly scuttled by the city’s Homeless Commission on Monday following a public meeting in which speaker after speaker railed against the idea.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WISH UPON A STAR 12.11.23]]></title>
         <id>https://kqennewsradio.com/?p=113545</id>
@@ -484,66 +494,6 @@
         <summary type="html"><![CDATA[Todd Scrivner is having surgery to remove his brain tumor Tuesday and after a month of waiting, he has yet to be approved for Paid Leave Oregon.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STORM BRINGS JUST OVER 1.50 INCHES OF RAIN TO ROSEBURG]]></title>
-        <id>https://kqennewsradio.com/?p=113485</id>
-        <link href="https://kqennewsradio.com/2023/12/08/storm-brings-just-over-1-50-inches-of-rain-to-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=storm-brings-just-over-1-50-inches-of-rain-to-roseburg"/>
-        <updated>2023-12-08T12:05:48.000Z</updated>
-        <summary type="html"><![CDATA[December 8, 2023 4:00 a.m. Wednesday and Thursday’s stormy conditions brought just over 1.50 inches of rain to the Umpqua Valley. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport received .73 inches of rain on Thursday and .78 inches of precipitation on Wednesday. That’s...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIGHTS HAPPENING AT WILDLIFE SAFARI]]></title>
-        <id>https://kqennewsradio.com/?p=113482</id>
-        <link href="https://kqennewsradio.com/2023/12/08/wildlights-happening-at-wildlife-safari/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlights-happening-at-wildlife-safari"/>
-        <updated>2023-12-08T11:49:50.000Z</updated>
-        <summary type="html"><![CDATA[December 8, 2023 3:45 a.m.  Wildlife Safari is having its annual Wildlights event Friday through Sunday, December 15th-17th. Three evenings of family fun will include keeper talks, cocoa and the opportunity to meet Santa. The safari village will be filled with light displays. Village animals and keepers will perform a holiday play. A storybook train...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THRIVE UMPQUA/ODOT OR 138 DINNER/DISCUSSION]]></title>
-        <id>https://kqennewsradio.com/?p=113480</id>
-        <link href="https://kqennewsradio.com/2023/12/08/thrive-umpqua-odot-or-138-dinner-discussion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thrive-umpqua-odot-or-138-dinner-discussion"/>
-        <updated>2023-12-08T11:35:26.000Z</updated>
-        <summary type="html"><![CDATA[December 8, 2023 3:30 a.m. Thrive Umpqua and the Oregon Department of Transportation are having a dinner and discussion regarding the OR 138E Design Concept Plan, on Monday night at Abby’s Pizza on Northeast Diamond Lake Boulevard in Roseburg. Residents and business owners are invited to help identify improvements to Diamond Lake Boulevard in Roseburg...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY ARTS EVENING WITH THE ARTS]]></title>
-        <id>https://kqennewsradio.com/?p=113476</id>
-        <link href="https://kqennewsradio.com/2023/12/08/umpqua-valley-arts-evening-with-the-arts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-arts-evening-with-the-arts"/>
-        <updated>2023-12-08T11:28:21.000Z</updated>
-        <summary type="html"><![CDATA[December 8, 2023 3:20 a.m. In the KQEN Cultural Spotlight: Umpqua Valley Arts has Evening with The Arts on Thursday, December 14th. UVA will have extended hours that evening with the event running from 4:00 p.m. until 8:00 p.m. Attendees will have an opportunity to shop local and small from the gift shop that features...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE FORD FAMILY FOUNDATION WITH GRANT INFO SESSIONS]]></title>
-        <id>https://kqennewsradio.com/?p=113474</id>
-        <link href="https://kqennewsradio.com/2023/12/08/the-ford-family-foundation-with-grant-info-sessions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-ford-family-foundation-with-grant-info-sessions"/>
-        <updated>2023-12-08T11:23:01.000Z</updated>
-        <summary type="html"><![CDATA[December 8, 2023 3:10 a.m. The Ford Family Foundation has grant info sessions bi-monthly. They are held to provide organizations that apply for TFFF grants information about how to do so more successfully and make the process as easy as possible. The next virtual 90-minute session will be December 14th at 10:00 a.m. To sign...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINSTON POLICE JAIL WOMAN FOR ALLEGED TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=113472</id>
-        <link href="https://kqennewsradio.com/2023/12/08/winston-police-jail-woman-for-alleged-trespass-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-police-jail-woman-for-alleged-trespass-incident"/>
-        <updated>2023-12-08T11:11:03.000Z</updated>
-        <summary type="html"><![CDATA[December 8. 2023 3:00 a.m.  Winston Police jailed a woman following an alleged trespass incident Wednesday night. A WPD report said at about 11:25 p.m. 45-year old Angela Osburn was allegedly trespassing and causing a scene in the 200 block of Northwest Glenhart Avenue. She was charged with second-degree counts of disorderly conduct and criminal...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
