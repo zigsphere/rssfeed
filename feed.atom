@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-12T13:13:03.130Z</updated>
+    <updated>2023-12-12T16:12:06.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BUREAU OF LAND MANAGEMENT HIRING 100 SPORTS INTERNS]]></title>
+        <id>https://kqennewsradio.com/?p=113591</id>
+        <link href="https://kqennewsradio.com/2023/12/12/bureau-of-land-management-hiring-100-sports-interns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bureau-of-land-management-hiring-100-sports-interns"/>
+        <updated>2023-12-12T14:24:22.000Z</updated>
+        <summary type="html"><![CDATA[December 12, 2023 6:20 a.m.  The Bureau of Land Management is in the process of hiring at least 100 paid student interns across the country, some of them here in the Pacific Northwest. A BLM release said the internships are available in a variety of career fields and functions including civil engineering, public affairs, information...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMMISSION RECOMMENDS THAT URBAN CAMPGROUND NOT GO ON N.E. WINCHESTER STREET]]></title>
         <id>https://kqennewsradio.com/?p=113586</id>
