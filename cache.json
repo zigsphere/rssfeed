@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113631",
+          "author": "Kyle Bailey",
+          "description": "December 12, 2023 5:15 p.m.  At the request of the Douglas County Sheriff’s Office, Roseburg Police conducted an investigation into allegations that a former Douglas County Corrections Deputy had embezzled money. Sergeant Daniel Allen said during the investigation, former deputy Peter Collins, a 44-year old Roseburg resident, admitted to embezzling more than $100,000 from the...",
+          "link": "https://kqennewsradio.com/2023/12/13/former-deputy-arrested-for-embezzlement/?utm_source=rss&utm_medium=rss&utm_campaign=former-deputy-arrested-for-embezzlement",
+          "publishedOn": "2023-12-13T01:16:30.000Z",
+          "wordCount": 1530,
+          "title": "FORMER DEPUTY ARRESTED FOR EMBEZZLEMENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113628",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2023/12/13/true-wealth-radio-12-12-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-12-12-23",
+          "publishedOn": "2023-12-13T01:05:26.000Z",
+          "wordCount": 1465,
+          "title": "TRUE WEALTH RADIO 12.12.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231213000518/TRUE-WEALTH-12-12-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=113624",
+          "author": "Kyle Bailey",
+          "description": "December 12, 2023 4:30 p.m. In the KQEN Business Spotlight: The Oregon Bankers Association in partnership with Oregon Business Magazine has announced that Con-Vey of Roseburg is the recipient of the 2023 Community Applause Award. A release said the award is given to an Oregon business in acknowledgement of their significant service and contributions to...",
+          "link": "https://kqennewsradio.com/2023/12/12/bankers-association-business-magazine-present-award-to-con-vey/?utm_source=rss&utm_medium=rss&utm_campaign=bankers-association-business-magazine-present-award-to-con-vey",
+          "publishedOn": "2023-12-13T00:39:55.000Z",
+          "wordCount": 1790,
+          "title": "BANKERS ASSOCIATION/BUSINESS MAGAZINE PRESENT AWARD TO CON-VEY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231212233833/convey1-scaled.webp"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113621",
           "author": "Kyle Bailey",
           "description": "December 12, 2023 1:30 p.m.  The Roseburg City Council will meet for a work session on Wednesday afternoon at 4:00 p.m. It will be held at the Public Safety Center on Southeast Douglas Avenue. The meeting is for council goal setting. No audience participation is scheduled but the meeting is open to the public. It...",
