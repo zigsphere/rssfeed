@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-13T19:08:34.265Z</updated>
+    <updated>2023-12-13T23:09:56.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH SATURDAY MORNING]]></title>
+        <id>https://kqennewsradio.com/?p=113682</id>
+        <link href="https://kqennewsradio.com/2023/12/13/air-stagnation-advisory-through-saturday-morning-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-through-saturday-morning-3"/>
+        <updated>2023-12-13T21:37:23.000Z</updated>
+        <summary type="html"><![CDATA[December 13, 2023 1:30 p.m.  An Air Stagnation Advisory is in effect through Saturday morning for much of southern Oregon. Forecasters at the National Weather Service said stagnant air is expected, which may lead to deteriorating air quality. The advisory area includes central Douglas County and its eastern foothills, Josephine and Jackson counties, and the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.13.23]]></title>
+        <id>https://kqennewsradio.com/?p=113674</id>
+        <link href="https://kqennewsradio.com/2023/12/13/inside-douglas-county-12-13-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-13-23"/>
+        <updated>2023-12-13T21:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Logan Bennett and Kelly Simonson from the Oregon State University Extension Service talk about agriculture and 4-H opportunities they are offering.  Click here to download for later listening: IDC 12 13 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR CITY ORDINANCE VIOLATION]]></title>
         <id>https://kqennewsradio.com/?p=113671</id>
@@ -417,6 +437,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Proposed homeless camp fails to get commission approval]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5030cd74-9878-11ee-a97d-d75c8c165032</id>
+        <link href="https://www.nrtoday.com/news/proposed-homeless-camp-fails-to-get-commission-approval/article_5030cd74-9878-11ee-a97d-d75c8c165032.html"/>
+        <updated>2023-12-12T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A proposal to locate a campground for the homeless on Northeast Winchester Street in Roseburg was scuttled by the city’s Homeless Commission on Monday following a public meeting in which speaker after speaker railed against the idea.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Homeless Commission shelves plans for Winchester Street camp following public outcry]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5030cd74-9878-11ee-a97d-d75c8c165032</id>
         <link href="https://www.nrtoday.com/news/homeless-commission-shelves-plans-for-winchester-street-camp-following-public-outcry/article_5030cd74-9878-11ee-a97d-d75c8c165032.html"/>
@@ -644,26 +674,6 @@
         <summary type="html"><![CDATA[WINCHESTER — A Roseburg woman died after she was struck by a vehicle early Thursday.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cops shop for Christmas presents with foster children]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/50ace714-96df-11ee-8853-1313ccf38a12</id>
-        <link href="https://www.nrtoday.com/news/government/cops-shop-for-christmas-presents-with-foster-children/article_50ace714-96df-11ee-8853-1313ccf38a12.html"/>
-        <updated>2023-12-10T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Children and police officers descended on Walmart on Saturday morning, as they prepare for the holidays with some Christmas shopping.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorcyclists and radio hosts collect presents during Rudolph Run]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9fded988-96e8-11ee-b1b2-fb8e34045bda</id>
-        <link href="https://www.nrtoday.com/news/local/motorcyclists-and-radio-hosts-collect-presents-during-rudolph-run/article_9fded988-96e8-11ee-b1b2-fb8e34045bda.html"/>
-        <updated>2023-12-10T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A parade of motorcyclists, radio trucks, tow trucks and a few large box trucks wandered around Roseburg on Saturday, hitting up about 25 different stores as they picked up Christmas presents.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
