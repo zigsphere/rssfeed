@@ -444,6 +444,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/64348cea-9952-11ee-a4d3-e7b35a646baa",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — Students giggled as they used iPads to move tiny, spherical robots across the tables in a variety of ways on Tuesday afternoon.",
+          "link": "https://www.nrtoday.com/news/education/students-learn-how-to-code-build-in-robotics-program-at-winchester/article_64348cea-9952-11ee-a4d3-e7b35a646baa.html",
+          "publishedOn": "2023-12-13T15:30:00.000Z",
+          "wordCount": 14237,
+          "title": "Students learn how to code, build in robotics program at Winchester",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b5/3b575ae2-9951-11ee-bff0-afd4595b63ab/6578ff32332e7.image.jpg?resize=300%2C200",
+            "length": "296845",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b5/3b575ae2-9951-11ee-bff0-afd4595b63ab/6578ff32332e7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/45156e76-9842-11ee-93fe-0b8f3e479bdd",
+          "author": "Roxandra Pennington Adapt",
+          "description": "Electronic cigarettes (e-cigarettes), commonly referred to as ‘vapes’, first came on the U.S. market in 2007, but concerning data on their mental and physical health effects is just starting to take shape.",
+          "link": "https://www.nrtoday.com/news/guest_submission/12-common-vaping-myths-dispelled/article_45156e76-9842-11ee-93fe-0b8f3e479bdd.html",
+          "publishedOn": "2023-12-13T14:45:00.000Z",
+          "wordCount": 14507,
+          "title": "12 common vaping myths dispelled",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/56/d566e52a-4c1d-11ee-b466-9bd5a1bbbd46/64f779b74cb11.image.jpg?resize=300%2C289",
+            "length": "256498",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/56/d566e52a-4c1d-11ee-b466-9bd5a1bbbd46/64f779b74cb11.image.jpg?resize=300%2C289"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bdcf51c0-991d-11ee-905a-13a08175e7a3",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — A holiday lights community bike ride is schedule for Dec. 19.",
+          "link": "https://www.nrtoday.com/news/local/bike-ride-to-view-holiday-lights/article_bdcf51c0-991d-11ee-905a-13a08175e7a3.html",
+          "publishedOn": "2023-12-12T18:39:00.000Z",
+          "wordCount": 13169,
+          "title": "Bike ride to view holiday lights",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4bd616e4-991d-11ee-8a92-aff889288ce1",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg police responded to five DUII incidents between Friday evening and Sunday morning.",
+          "link": "https://www.nrtoday.com/news/crime/roseburg-police-respond-to-5-duii-incidents-during-the-weekend/article_4bd616e4-991d-11ee-8a92-aff889288ce1.html",
+          "publishedOn": "2023-12-12T18:35:00.000Z",
+          "wordCount": 13362,
+          "title": "Roseburg police respond to 5 DUII incidents during the weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a2b9d20c-983c-11ee-abe6-3775b05fc789",
           "author": "SANNE GODFREY The News-Review",
           "description": "OREGON COAST — The Oregon Coast will see a second series of king tides, the highest high tides of the year, from Wednesday to Friday, and those taking photos are encouraged to submit their photos as part of a worldwide…",
