@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-14T19:08:23.761Z</updated>
+    <updated>2023-12-14T23:10:24.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.14.23]]></title>
+        <id>https://kqennewsradio.com/?p=113729</id>
+        <link href="https://kqennewsradio.com/2023/12/14/inside-douglas-county-12-14-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-14-23"/>
+        <updated>2023-12-14T21:08:13.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Senator Jeff Merkley joins us live from Washington D.C. to discuss current issues in Congress. He also talked about what he believes are his top achievements impacting Oregon in the past year.  Click here to download for later listening:  IDC 12 14 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VINTAGE SINGERS TO PRESENT ANNUAL TWELFTH NIGHT CONCERT]]></title>
         <id>https://kqennewsradio.com/?p=113726</id>
@@ -92,6 +102,16 @@
         <link href="https://www.nrtoday.com/news/local/sutherlin-police-jail-couple-with-stolen-u-haul/article_0d5d17b4-9a99-11ee-a7f0-c340a28ee793.html"/>
         <updated>2023-12-14T15:54:00.000Z</updated>
         <summary type="html"><![CDATA[SUTHERLIN — Sutherlin Police jailed two people found with a stolen vehicle Tuesday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFP names Tony Ramm senior vice president of HR and labor]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e7d08c24-9a98-11ee-b4bd-7b45375c5e1b</id>
+        <link href="https://www.nrtoday.com/business/rfp-names-tony-ramm-senior-vice-president-of-hr-and-labor/article_e7d08c24-9a98-11ee-b4bd-7b45375c5e1b.html"/>
+        <updated>2023-12-14T15:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Forest Products has announced that Tony Ramm has been named Senior Vice President of Human Resources and Labor, effective Dec. 11.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
         </author>
@@ -842,26 +862,6 @@
         <link href="https://kqennewsradio.com/2023/12/11/rps-to-distribute-free-meals-over-winter-break/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rps-to-distribute-free-meals-over-winter-break"/>
         <updated>2023-12-11T11:22:32.000Z</updated>
         <summary type="html"><![CDATA[December 11, 2023 3:20 a.m. Roseburg Public Schools will distribute free meals to children and youth over the winter break via the LunchBox Express bus. An RPS release said the meals are available to those age 18 and younger and will be distributed Monday through Friday December 18-22 and Wednesday through Friday December 27-29. Times...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[52ND ANNUAL GREATEST OF THE GRAPE EVENT IN FEBRUARY]]></title>
-        <id>https://kqennewsradio.com/?p=113532</id>
-        <link href="https://kqennewsradio.com/2023/12/11/52nd-annual-greatest-of-the-grape-event-in-february/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=52nd-annual-greatest-of-the-grape-event-in-february"/>
-        <updated>2023-12-11T11:07:06.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2023 3:00 a.m. The Umpqua Valley Wine Growers Association has announced that the 52nd annual Greatest of the Grape event will take place on Saturday February 3rd from 6:00 p.m. to 11:00 p.m. A UVWA release said the Greatest of the Grape is known as “Oregon’s oldest wine celebration” and attracts visitors from...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WHALE WATCH WEEK RETURNS TO OREGON COAST]]></title>
-        <id>https://kqennewsradio.com/?p=113527</id>
-        <link href="https://kqennewsradio.com/2023/12/11/winter-whale-watch-week-returns-to-oregon-coast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-whale-watch-week-returns-to-oregon-coast"/>
-        <updated>2023-12-11T11:04:08.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2023 2:50 a.m.   Winter Whale Watch Week returns to the to the Oregon coast from Wednesday December 27th through Sunday December 31st. It is hosted by the Oregon Parks and Recreation Department and includes 15 sites. An OPRD release said every year thousands of gray whales migrate south through Oregon’s waters at...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

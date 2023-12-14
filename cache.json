@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113729",
+          "author": "Kyle Bailey",
+          "description": "U.S. Senator Jeff Merkley joins us live from Washington D.C. to discuss current issues in Congress. He also talked about what he believes are his top achievements impacting Oregon in the past year.  Click here to download for later listening:  IDC 12 14 23",
+          "link": "https://kqennewsradio.com/2023/12/14/inside-douglas-county-12-14-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-14-23",
+          "publishedOn": "2023-12-14T21:08:13.000Z",
+          "wordCount": 1502,
+          "title": "INSIDE DOUGLAS COUNTY 12.14.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231214200407/IDC-12-14-23.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230821191728/Sen.-Jeff-Merkley-Official-Portrait-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113726",
           "author": "Kyle Bailey",
           "description": "December 14, 2023 11:05 a.m.   In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts present the Vintage Singers annual Twelfth Night Concert on January 5th at 7:00 p.m. and January 7th at 3:00 p.m. at First Presbyterian Church on Southeast Lane Avenue in downtown Roseburg. The music performance is directed by Donna...",
@@ -689,26 +704,6 @@
           "wordCount": 1524,
           "title": "RPS TO DISTRIBUTE FREE MEALS OVER WINTER BREAK",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221652/bus-image.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113532",
-          "author": "Kyle Bailey",
-          "description": "December 11, 2023 3:00 a.m. The Umpqua Valley Wine Growers Association has announced that the 52nd annual Greatest of the Grape event will take place on Saturday February 3rd from 6:00 p.m. to 11:00 p.m. A UVWA release said the Greatest of the Grape is known as “Oregon’s oldest wine celebration” and attracts visitors from...",
-          "link": "https://kqennewsradio.com/2023/12/11/52nd-annual-greatest-of-the-grape-event-in-february/?utm_source=rss&utm_medium=rss&utm_campaign=52nd-annual-greatest-of-the-grape-event-in-february",
-          "publishedOn": "2023-12-11T11:07:06.000Z",
-          "wordCount": 1693,
-          "title": "52ND ANNUAL GREATEST OF THE GRAPE EVENT IN FEBRUARY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231211100627/gog_2024_logo-wordmark.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113527",
-          "author": "Kyle Bailey",
-          "description": "December 11, 2023 2:50 a.m.   Winter Whale Watch Week returns to the to the Oregon coast from Wednesday December 27th through Sunday December 31st. It is hosted by the Oregon Parks and Recreation Department and includes 15 sites. An OPRD release said every year thousands of gray whales migrate south through Oregon’s waters at...",
-          "link": "https://kqennewsradio.com/2023/12/11/winter-whale-watch-week-returns-to-oregon-coast/?utm_source=rss&utm_medium=rss&utm_campaign=winter-whale-watch-week-returns-to-oregon-coast",
-          "publishedOn": "2023-12-11T11:04:08.000Z",
-          "wordCount": 1621,
-          "title": "WINTER WHALE WATCH WEEK RETURNS TO OREGON COAST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231211100233/whale2-scaled.webp"
         }
       ]
     },
@@ -731,6 +726,16 @@
           "publishedOn": "2023-12-14T15:54:00.000Z",
           "wordCount": 13221,
           "title": "Sutherlin Police jail couple with stolen U-Haul",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e7d08c24-9a98-11ee-b4bd-7b45375c5e1b",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg Forest Products has announced that Tony Ramm has been named Senior Vice President of Human Resources and Labor, effective Dec. 11.",
+          "link": "https://www.nrtoday.com/business/rfp-names-tony-ramm-senior-vice-president-of-hr-and-labor/article_e7d08c24-9a98-11ee-b4bd-7b45375c5e1b.html",
+          "publishedOn": "2023-12-14T15:53:00.000Z",
+          "wordCount": 13486,
+          "title": "RFP names Tony Ramm senior vice president of HR and labor",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
