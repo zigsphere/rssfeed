@@ -664,6 +664,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b430840a-99fd-11ee-95b4-03dc1b8f33cf",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "TRI CITY — With a concept that, if it works, could make prosthetics cheaper in Douglas County, Joshua Zietlow and his robotics and computer concepts class find themselves in a national competition.",
+          "link": "https://www.nrtoday.com/news/education/south-umpqua-high-school-named-state-finalist-in-samsung-stem-competition/article_b430840a-99fd-11ee-95b4-03dc1b8f33cf.html",
+          "publishedOn": "2023-12-15T15:45:00.000Z",
+          "wordCount": 13841,
+          "title": "South Umpqua High School named state finalist in Samsung STEM competition",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c64e2da4-99f8-11ee-9649-5f52c1ddf0a8",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "REEDSPORT — The animal-loving, bright and hard-working spirit of DeeDee Murphy will be prevalent at a celebration of life held for her in Reedsport.",
+          "link": "https://www.nrtoday.com/news/celebration-of-life-for-reedsport-city-councilor-deedee-murphy/article_c64e2da4-99f8-11ee-9649-5f52c1ddf0a8.html",
+          "publishedOn": "2023-12-15T15:30:00.000Z",
+          "wordCount": 13646,
+          "title": "Celebration of life for Reedsport City Councilor DeeDee Murphy",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/22/5221d7cc-99f9-11ee-9c7e-47f1e4df7d30/657a199f29ca5.image.jpg?resize=300%2C420",
+            "length": "252555",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/22/5221d7cc-99f9-11ee-9c7e-47f1e4df7d30/657a199f29ca5.image.jpg?resize=300%2C420"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/418ca30c-9ac5-11ee-80b3-87faf6fa5074",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — An Air Stagnation Advisory is in effect through 10 a.m. Saturday for most of Southern Oregon.",
+          "link": "https://www.nrtoday.com/news/environment/air-stagnation-advisory-in-effect-through-saturday/article_418ca30c-9ac5-11ee-80b3-87faf6fa5074.html",
+          "publishedOn": "2023-12-15T15:15:00.000Z",
+          "wordCount": 13237,
+          "title": "Air Stagnation Advisory in effect through Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0d5d17b4-9a99-11ee-a7f0-c340a28ee793",
           "author": "Kyle Bailey For The News-Review",
           "description": "SUTHERLIN — Sutherlin Police jailed two people found with a stolen vehicle Tuesday.",
