@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-14T23:10:24.606Z</updated>
+    <updated>2023-12-15T02:25:23.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 12.14.23]]></title>
+        <id>https://kqennewsradio.com/?p=113733</id>
+        <link href="https://kqennewsradio.com/2023/12/15/your-cue-12-14-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-12-14-23"/>
+        <updated>2023-12-15T01:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by Daniel Loomis and Shelly Johnson to talk about Roseburg Wreaths Across America.  Click here to download for later listening  IDC 12 14 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.14.23]]></title>
         <id>https://kqennewsradio.com/?p=113729</id>
@@ -834,36 +844,6 @@
         <summary type="html"><![CDATA[ROSEBURG — Roseburg Public Schools will be using its LunchBox Express during winter break to bring meals to children in the area.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABOVE NORMAL RAIN FOR MONTH/RAIN YEAR FOR ROSEBURG]]></title>
-        <id>https://kqennewsradio.com/?p=113541</id>
-        <link href="https://kqennewsradio.com/2023/12/11/above-normal-rain-for-month-rain-year-for-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=above-normal-rain-for-month-rain-year-for-roseburg"/>
-        <updated>2023-12-11T12:00:10.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2023 4:00 a.m.  Roseburg has received above normal rain for both the month and the rain year. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport has received 3.57 inches of rain in December as of Sunday. That is 1.64 inches or rain...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL TO CONSIDER AGREEMENT WITH UCC]]></title>
-        <id>https://kqennewsradio.com/?p=113539</id>
-        <link href="https://kqennewsradio.com/2023/12/11/roseburg-city-council-to-consider-agreement-with-ucc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-to-consider-agreement-with-ucc"/>
-        <updated>2023-12-11T11:25:33.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2023 3:30 a.m.  The Roseburg City Council will consider authorizing City Manager Nicki Messenger to negotiate and execute an intergovernmental agreement with Umpqua Community College for $616,590 to develop the Southern Oregon Medical Workforce Center, as part of its meeting Monday night. Notes from staff said the shift from trying to develop the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPS TO DISTRIBUTE FREE MEALS OVER WINTER BREAK]]></title>
-        <id>https://kqennewsradio.com/?p=113537</id>
-        <link href="https://kqennewsradio.com/2023/12/11/rps-to-distribute-free-meals-over-winter-break/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rps-to-distribute-free-meals-over-winter-break"/>
-        <updated>2023-12-11T11:22:32.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2023 3:20 a.m. Roseburg Public Schools will distribute free meals to children and youth over the winter break via the LunchBox Express bus. An RPS release said the meals are available to those age 18 and younger and will be distributed Monday through Friday December 18-22 and Wednesday through Friday December 27-29. Times...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
