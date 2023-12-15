@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113790",
+          "author": "Kyle Bailey",
+          "description": "An encore presentation today of our annual veteran’s feature interview which aired on November 10th with now retired Sergeant First Class Nick Marshall of the Oregon National Guard. Click here to download for later listening:  IDC 11 10 23",
+          "link": "https://kqennewsradio.com/2023/12/15/inside-douglas-county-12-25-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-25-23",
+          "publishedOn": "2023-12-15T20:44:30.000Z",
+          "wordCount": 1494,
+          "title": "INSIDE DOUGLAS COUNTY 12.25.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231215194009/IDC-11-10-23-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231110201827/IMG_3298.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113779",
           "author": "Kyle Bailey",
           "description": "December 15, 2023 11:00 a.m.  On Thursday, Governor Tina Kotek and First Lady Aimee Kotek Wilson visited Lane County to marks the 36th and final stop on her One Oregon Listening Tour. A release from the Governor’s Office said they met with residents in Veneta, Cottage Grove, Leaburg, Springfield and Eugene. Kotek said, “Every Oregon...",
@@ -684,26 +699,6 @@
           "wordCount": 1524,
           "title": "HOLIDAY LIGHTS COMMUNITY BIKE RIDE DECEMBER 19TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231212102442/lights.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113578",
-          "author": "Kyle Bailey",
-          "description": "December 12, 2023 3:00 a.m. Wet roads contributed to drivers losing control of their vehicles resulting in 2 freeway wrecks on Sunday night. Oregon State Police reports said at 6:50 p.m. a sports car was southbound on Interstate 5 between Wilbur and Sutherlin when the driver encountered the wet roadway and collided with an adjacent...",
-          "link": "https://kqennewsradio.com/2023/12/12/wet-roads-contribute-to-drivers-losing-control-2-freeway-wrecks/?utm_source=rss&utm_medium=rss&utm_campaign=wet-roads-contribute-to-drivers-losing-control-2-freeway-wrecks",
-          "publishedOn": "2023-12-12T11:07:03.000Z",
-          "wordCount": 1524,
-          "title": "WET ROADS CONTRIBUTE TO DRIVERS LOSING CONTROL-2 FREEWAY WRECKS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113576",
-          "author": "Kyle Bailey",
-          "description": "December 12, 2023 2:50 a.m. On Monday, Senator Ron Wyden said he is asking federal officials to act immediately to prevent what he calls “concessionaire mismanagement” from continuing to pose safety risks at Crater Lake National Park. A release said the situation also impacts park visitors, and employees who live and work at the southern...",
-          "link": "https://kqennewsradio.com/2023/12/12/wyden-demands-federal-review-of-crater-lake-contract/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-demands-federal-review-of-crater-lake-contract",
-          "publishedOn": "2023-12-12T11:04:33.000Z",
-          "wordCount": 1784,
-          "title": "WYDEN DEMANDS FEDERAL REVIEW OF CRATER LAKE CONTRACT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
@@ -718,6 +713,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a4b90a6-9b97-11ee-8d68-3fb406a86779",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Gauge Douglas James Main was indicted Friday in a Douglas County Courtroom on charges relating to a shooting that left one Grants Pass man dead and another wounded.",
+          "link": "https://www.nrtoday.com/news/roseburg-man-indicted-for-murder-of-grants-pass-man/article_5a4b90a6-9b97-11ee-8d68-3fb406a86779.html",
+          "publishedOn": "2023-12-15T22:14:00.000Z",
+          "wordCount": 13404,
+          "title": "Roseburg man indicted for murder of Grants Pass man",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3e/13e006be-8946-11ee-b67e-233f6ff3ca8c/655e1488e17ac.image.jpg?resize=300%2C400",
+            "length": "20448",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3e/13e006be-8946-11ee-b67e-233f6ff3ca8c/655e1488e17ac.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b26e71d0-987d-11ee-8f7e-6b85b8b4d9f3",
           "author": "Scott Carroll The News-Review",

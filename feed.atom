@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-15T19:08:23.469Z</updated>
+    <updated>2023-12-15T23:09:47.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man indicted for murder of Grants Pass man]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5a4b90a6-9b97-11ee-8d68-3fb406a86779</id>
+        <link href="https://www.nrtoday.com/news/roseburg-man-indicted-for-murder-of-grants-pass-man/article_5a4b90a6-9b97-11ee-8d68-3fb406a86779.html"/>
+        <updated>2023-12-15T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Gauge Douglas James Main was indicted Friday in a Douglas County Courtroom on charges relating to a shooting that left one Grants Pass man dead and another wounded.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.25.23]]></title>
+        <id>https://kqennewsradio.com/?p=113790</id>
+        <link href="https://kqennewsradio.com/2023/12/15/inside-douglas-county-12-25-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-25-23"/>
+        <updated>2023-12-15T20:44:30.000Z</updated>
+        <summary type="html"><![CDATA[An encore presentation today of our annual veteran’s feature interview which aired on November 10th with now retired Sergeant First Class Nick Marshall of the Oregon National Guard. Click here to download for later listening:  IDC 11 10 23]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR KOTEK VISITS LANE COUNTY ON ONE OREGON LISTENING TOUR]]></title>
         <id>https://kqennewsradio.com/?p=113779</id>
@@ -842,26 +862,6 @@
         <link href="https://kqennewsradio.com/2023/12/12/holiday-lights-community-bike-ride-december-19th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=holiday-lights-community-bike-ride-december-19th"/>
         <updated>2023-12-12T11:25:01.000Z</updated>
         <summary type="html"><![CDATA[December 21, 2023 3:20 a.m. The Holiday Lights Community Bike Ride is set for Tuesday night December 19th. It is presented by Thrive Umpqua, Bike Walk Roseburg, and the Umpqua Valley Tennis Center. The family-friendly bike ride will go through the Hucrest neighborhood. Two options are available – 3-mile and 5-mile rides. Both conclude at...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WET ROADS CONTRIBUTE TO DRIVERS LOSING CONTROL-2 FREEWAY WRECKS]]></title>
-        <id>https://kqennewsradio.com/?p=113578</id>
-        <link href="https://kqennewsradio.com/2023/12/12/wet-roads-contribute-to-drivers-losing-control-2-freeway-wrecks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wet-roads-contribute-to-drivers-losing-control-2-freeway-wrecks"/>
-        <updated>2023-12-12T11:07:03.000Z</updated>
-        <summary type="html"><![CDATA[December 12, 2023 3:00 a.m. Wet roads contributed to drivers losing control of their vehicles resulting in 2 freeway wrecks on Sunday night. Oregon State Police reports said at 6:50 p.m. a sports car was southbound on Interstate 5 between Wilbur and Sutherlin when the driver encountered the wet roadway and collided with an adjacent...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN DEMANDS FEDERAL REVIEW OF CRATER LAKE CONTRACT]]></title>
-        <id>https://kqennewsradio.com/?p=113576</id>
-        <link href="https://kqennewsradio.com/2023/12/12/wyden-demands-federal-review-of-crater-lake-contract/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-demands-federal-review-of-crater-lake-contract"/>
-        <updated>2023-12-12T11:04:33.000Z</updated>
-        <summary type="html"><![CDATA[December 12, 2023 2:50 a.m. On Monday, Senator Ron Wyden said he is asking federal officials to act immediately to prevent what he calls “concessionaire mismanagement” from continuing to pose safety risks at Crater Lake National Park. A release said the situation also impacts park visitors, and employees who live and work at the southern...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
