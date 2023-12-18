@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-18T19:08:18.343Z</updated>
+    <updated>2023-12-18T23:09:54.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.18.23]]></title>
+        <id>https://kqennewsradio.com/?p=113857</id>
+        <link href="https://kqennewsradio.com/2023/12/18/inside-douglas-county-12-18-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-18-23"/>
+        <updated>2023-12-18T21:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Adapt Integrated Health Care Chief of Behavioral Health Medicine, Psychologist Dr. Cora Hart talks about mental health stress during the holiday season. Click here to download for later listening:  IDC 12 18 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OAKLAND MAN JAILED FOLLOWING ALLEGED DUII INCIDENT EARLY SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=113854</id>
