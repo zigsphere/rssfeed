@@ -319,6 +319,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/17f03256-9e81-11ee-bc5d-3f1a4b9249f7",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "RIDDLE — The Ford Family Foundation’s Board of Directors approved a grant of $500,000 to Riddle Roots toward Phase 1 construction costs for a new activity center in Riddle.",
+          "link": "https://www.nrtoday.com/news/local/the-ford-family-foundation-provides-grant-to-riddle/article_17f03256-9e81-11ee-bc5d-3f1a4b9249f7.html",
+          "publishedOn": "2023-12-19T15:12:00.000Z",
+          "wordCount": 13431,
+          "title": "The Ford Family Foundation provides grant to Riddle",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bc/7bc26218-9e81-11ee-9755-d7ce3757ce74/650b1ba8b04bd.image.jpg?resize=300%2C225",
+            "length": "260235",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bc/7bc26218-9e81-11ee-9755-d7ce3757ce74/650b1ba8b04bd.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/aa2bb188-9934-11ee-8720-f796e5716993",
+          "author": "WILLIS COOK Express Employment Professionals",
+          "description": "The new year is just around the corner, and with it comes newly realized optimism and strong goal-oriented determination. But to ensure your team is successful in the new year, it’s imperative to focus on the right things that will…",
+          "link": "https://www.nrtoday.com/business/four-things-to-do-today-to-ensure-a-successful-new-year/article_aa2bb188-9934-11ee-8720-f796e5716993.html",
+          "publishedOn": "2023-12-19T14:45:00.000Z",
+          "wordCount": 13595,
+          "title": "Four things to do today to ensure a successful new year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451",
+            "length": "198391",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/173d8936-9dc7-11ee-905d-7b2367426efa",
           "author": "SANNE GODFREY The News-Review",
           "description": "ROSEBURG — Roseburg Public Schools received the highest level of assurance from its annual independent audit for the 2022-2023 school year.",
