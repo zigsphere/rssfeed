@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-19T23:08:13.044Z</updated>
+    <updated>2023-12-20T02:09:04.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH RADIO 12.18.23]]></title>
+        <id>https://kqennewsradio.com/?p=113907</id>
+        <link href="https://kqennewsradio.com/2023/12/20/true-wealth-radio-12-18-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-radio-12-18-23"/>
+        <updated>2023-12-20T01:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial: Matt Dickson and Justin Bruggeman have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 12 19 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIDDLE MINOR CITED FOR DUII/CARELESS DRIVING]]></title>
+        <id>https://kqennewsradio.com/?p=113902</id>
+        <link href="https://kqennewsradio.com/2023/12/19/riddle-minor-cited-for-duii-careless-driving/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=riddle-minor-cited-for-duii-careless-driving"/>
+        <updated>2023-12-19T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[December 19, 2023 2:45 p.m. A Riddle minor was cited for DUII-alcohol and careless driving by Roseburg Police early Tuesday. An RPD report said at 12:15 a.m. officers saw a vehicle pass them at a high rate of speed in the 1500 block of Northeast Diamond Lake Boulevard. Officers allegedly observed poor driving so the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIDDLE JUVENILE CITED FOR DUII/CARELESS DRIVING]]></title>
         <id>https://kqennewsradio.com/?p=113902</id>
