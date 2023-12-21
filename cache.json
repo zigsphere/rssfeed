@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=113955",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Click here to download for later listening:  MWLGS 12 20 2023",
+          "link": "https://kqennewsradio.com/2023/12/21/mike-winters-lawn-and-garden-show-12-20-23/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-12-20-23",
+          "publishedOn": "2023-12-21T01:08:20.000Z",
+          "wordCount": 1492,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 12.20.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231221000732/MWLGS-12-20-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=113949",
           "author": "Kyle Bailey",
           "description": "Urban Rural Action Douglas County Coordinator Thomas Guzzo talks about the goals of the organization which is now in 4 states including Oregon. Click here to download for later listening:  IDC 12 20 2023",
@@ -489,16 +504,6 @@
           "wordCount": 1668,
           "title": "ROSEBURG WOMAN CITED FOR ALLEGED DUII INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113814",
-          "author": "Kyle Bailey",
-          "description": "December 17, 2023 5:45 a.m.  A Dense Fog Advisory is in effect through 10:00 a.m. Sunday for parts of southern Oregon. Forecasters at the National Weather Service said visibility of one quarter of a mile or less in dense fog is expected, which may lead to deteriorating air quality. The Advisory area includes the valleys...",
-          "link": "https://kqennewsradio.com/2023/12/17/dense-fog-advisory-through-1000-a-m-sunday-2/?utm_source=rss&utm_medium=rss&utm_campaign=dense-fog-advisory-through-1000-a-m-sunday-2",
-          "publishedOn": "2023-12-17T13:48:53.000Z",
-          "wordCount": 1551,
-          "title": "DENSE FOG ADVISORY THROUGH 10:00 A.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231217124843/sunam-3.png"
         }
       ]
     },
