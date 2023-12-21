@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-21T13:12:05.993Z</updated>
+    <updated>2023-12-21T16:12:16.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Projected plans for the Riddle Activity Center]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a0b19a18-9f93-11ee-bbe7-b7f3ec3215b7</id>
+        <link href="https://www.nrtoday.com/news/projected-plans-for-the-riddle-activity-center/article_a0b19a18-9f93-11ee-bbe7-b7f3ec3215b7.html"/>
+        <updated>2023-12-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RIDDLE — Sarah Luft knows what it’s like to grow up in a rural town with limited access to essential services. As program manager for Riddle Roots Community Projects, her team began planning the construction of the Riddle Activity Center…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Cancer Services to deliver holiday meals]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bdaeaf3c-9e91-11ee-a29c-171208320575</id>
+        <link href="https://www.nrtoday.com/news/douglas-county-cancer-services-to-deliver-holiday-meals/article_bdaeaf3c-9e91-11ee-a29c-171208320575.html"/>
+        <updated>2023-12-21T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Cancer Services is home-delivering meals to patients Saturday to relieve some of their stress.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audubon Society, library to host bird program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/cac655fe-9f85-11ee-ac26-172d7cb67387</id>
+        <link href="https://www.nrtoday.com/news/local/audubon-society-library-to-host-bird-program/article_cac655fe-9f85-11ee-ac26-172d7cb67387.html"/>
+        <updated>2023-12-21T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The Umpqua Valley Audubon Society and Roseburg Public Library invite the community to a Facebook Live streaming event with science writer Rebecca Heisman at 6:30 p.m. Jan. 4, 2024.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local teachers invited to apply for teachers grant]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/958eb776-9f4b-11ee-8fb4-4310b6613171</id>
+        <link href="https://www.nrtoday.com/news/education/local-teachers-invited-to-apply-for-teachers-grant/article_958eb776-9f4b-11ee-8fb4-4310b6613171.html"/>
+        <updated>2023-12-21T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County teachers are invited to apply for a Fund for Teachers Grant from The Ford Family Foundation.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 10:00 A.M. THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=113971</id>
