@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-23T19:07:36.478Z</updated>
+    <updated>2023-12-23T23:09:48.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lawmakers call for expanded funding for community health centers]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c64f56c2-a1d5-11ee-8faa-9bdc5c353742</id>
+        <link href="https://www.nrtoday.com/news/government/lawmakers-call-for-expanded-funding-for-community-health-centers/article_c64f56c2-a1d5-11ee-8faa-9bdc5c353742.html"/>
+        <updated>2023-12-23T20:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon U.S. Senators Ron Wyden and Jeff Merkley, along with Representatives Suzanne Bonamici and Andrea Salinas, joined bipartisan colleagues this week to urge the Health Resources and Services Administration to provide more access to federal resources for community healthcare centers.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marriages: Dec. 11-Dec. 15]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/520fa8b8-9dc3-11ee-ad98-43e00a22625d</id>
@@ -702,26 +712,6 @@
         <link href="https://kqennewsradio.com/2023/12/20/roseburg-police-jail-woman-for-alleged-criminal-trespass-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-alleged-criminal-trespass-2"/>
         <updated>2023-12-20T11:11:17.000Z</updated>
         <summary type="html"><![CDATA[December 20, 2023 3:10 a.m. Roseburg Police jailed a woman for alleged criminal trespass following an incident early Tuesday. An RPD report said shortly after 1:35 a.m. the 53-year old was contacted after officers received a call stating the woman had tried to push her way into a residence in the 900 block of Veterans...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR CITY ORDINANCE VIOLATION]]></title>
-        <id>https://kqennewsradio.com/?p=113912</id>
-        <link href="https://kqennewsradio.com/2023/12/20/roseburg-police-cite-woman-for-city-ordinance-violation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-woman-for-city-ordinance-violation"/>
-        <updated>2023-12-20T11:02:28.000Z</updated>
-        <summary type="html"><![CDATA[December 20, 2023 3:00 a.m. Roseburg Police cited a woman for a city ordinance violation Monday night. An RPD report said at 7:00 p.m. the 30-year old was allegedly drinking a beer at the bottom of the parking garage near the intersection of Southeast Jackson Street and Southeast Rowe Avenue. The woman was released on...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE PAIR FOR PROHIBITED CAMPING]]></title>
-        <id>https://kqennewsradio.com/?p=113910</id>
-        <link href="https://kqennewsradio.com/2023/12/20/roseburg-police-cite-pair-for-prohibited-camping/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-pair-for-prohibited-camping"/>
-        <updated>2023-12-20T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[December 20, 2023 2:50 a.m. Roseburg Police cited two people for prohibited camping Monday night. An RPD report said just after 11:00 p.m. a 35-year old woman and a 41-year old man were contacted while camping in the prohibited camping zone at Charles Gardener Park in the 2600 block of Northwest Edenbower Boulevard. The pair...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
