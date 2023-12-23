@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114063",
+          "author": "Kyle Bailey",
+          "description": "December 23, 2023 8:00 a.m.  A Winston man was cited following a traffic crash Thursday night. A Douglas County Sheriff’s Office report said at approximately 9:00 p.m. the 21-year old was allegedly seen racing his sports car and revving its engine in the 400 block of Dillard Gardens Road in the Dillard area. The man...",
+          "link": "https://kqennewsradio.com/2023/12/23/winston-man-cited-following-reported-reckless-driving-incident/?utm_source=rss&utm_medium=rss&utm_campaign=winston-man-cited-following-reported-reckless-driving-incident",
+          "publishedOn": "2023-12-23T15:57:48.000Z",
+          "wordCount": 1549,
+          "title": "WINSTON MAN CITED FOLLOWING REPORTED RECKLESS DRIVING INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114061",
+          "author": "Kyle Bailey",
+          "description": "December 23, 2023 7:40 a.m.  Deputies with the Douglas County Sheriff’s Office jailed a Roseburg man following alleged firearm violations, late Wednesday. A DCSO report said at about 11:40 p.m. a deputy stopped a sedan for traffic violations near the intersection of Southeast Elliot Avenue and Southeast Gross Street in the Canyonville area. The deputy...",
+          "link": "https://kqennewsradio.com/2023/12/23/deputies-jail-man-for-alleged-firearm-violations/?utm_source=rss&utm_medium=rss&utm_campaign=deputies-jail-man-for-alleged-firearm-violations",
+          "publishedOn": "2023-12-23T15:46:21.000Z",
+          "wordCount": 1562,
+          "title": "DEPUTIES JAIL MAN FOR ALLEGED FIREARM VIOLATIONS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114055",
           "author": "Kyle Bailey",
           "description": "A year-end look at the Umpqua Actors Community Theatre with Executive Director Melody Schegel and board vice president Ashley Chitwood.  Click here to download for later listening:  IDC 12 22 2023",
@@ -544,21 +564,6 @@
           "wordCount": 1476,
           "title": "ROSEBURG POLICE CITE PAIR FOR PROHIBITED CAMPING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=113907",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial: Matt Dickson and Justin Bruggeman have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 12 19 2023",
-          "link": "https://kqennewsradio.com/2023/12/20/true-wealth-radio-12-18-23/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-12-18-23",
-          "publishedOn": "2023-12-20T01:10:51.000Z",
-          "wordCount": 1492,
-          "title": "TRUE WEALTH RADIO 12.18.23",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231220000828/TRUE-WEALTH-12-19-2023.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },
@@ -573,6 +578,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f622008-a03f-11ee-8a09-27c26bbfb1d4",
+          "author": "Kris Wiley For The News-Review",
+          "description": "One of the biggest wins in Roseburg Public Library’s first five years is our partnership with the Douglas Education Service District (ESD).",
+          "link": "https://www.nrtoday.com/news/education/library-grateful-for-douglas-esd-partnership/article_0f622008-a03f-11ee-8a09-27c26bbfb1d4.html",
+          "publishedOn": "2023-12-23T15:45:00.000Z",
+          "wordCount": 13498,
+          "title": "Library grateful for Douglas ESD partnership",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/22d1a9b0-9f90-11ee-85d9-db9a748b9215",
+          "author": "Steve Malone For The News-Review",
+          "description": "The Roseburg Elks Lodge presented five $700 grants to local nonprofit organizations on Dec. 8. The money was given to the lodge from the Elks National Foundation’s Community Investment Program. The lodge received the money by reaching various benchmarks determined…",
+          "link": "https://www.nrtoday.com/news/local/roseburg-elks-lodge-hands-out-gratitude-grants/article_22d1a9b0-9f90-11ee-85d9-db9a748b9215.html",
+          "publishedOn": "2023-12-23T15:00:00.000Z",
+          "wordCount": 13109,
+          "title": "Roseburg Elks Lodge hands out gratitude grants",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/75305a06-9ec0-11ee-a7c6-f35d5ad4c825",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Douglas Timber Operators awarded Pat Skrip, Paul Beck and Tim Freeman with the organization's Tough Tree Award, for going above and beyond for the forest industry, timber workers and natural resource dependent communities.",
+          "link": "https://www.nrtoday.com/news/local/douglas-timber-operators-award-community-members/article_75305a06-9ec0-11ee-a7c6-f35d5ad4c825.html",
+          "publishedOn": "2023-12-23T14:45:00.000Z",
+          "wordCount": 13644,
+          "title": "Douglas Timber Operators award community members",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/9d/79d511ee-9ec2-11ee-bc4a-bb3becd379db/658220abf25bc.image.jpg?resize=300%2C400",
+            "length": "268067",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/9d/79d511ee-9ec2-11ee-bc4a-bb3becd379db/658220abf25bc.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/82d23fd4-a056-11ee-b479-ebba35764936",
           "author": "GLORIA COLEMAN The News-Review",
