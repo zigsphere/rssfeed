@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-24T13:09:58.919Z</updated>
+    <updated>2023-12-24T16:11:18.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OSU Extension offers forestry program in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b0a21564-a07a-11ee-95c5-c3f3931847ca</id>
+        <link href="https://www.nrtoday.com/briefs/osu-extension-offers-forestry-program-in-roseburg/article_b0a21564-a07a-11ee-95c5-c3f3931847ca.html"/>
+        <updated>2023-12-24T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Oregon State University Extension Office in Roseburg will offer a five-part series on small woodland management beginning on Jan. 24, 2024. The office is located at 1134 SE Douglas Ave. in Roseburg.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish and Wildlife to host hunting class in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/efb3d9f2-a063-11ee-ab91-27020b4bcd3e</id>
+        <link href="https://www.nrtoday.com/news/environment/fish-and-wildlife-to-host-hunting-class-in-roseburg/article_efb3d9f2-a063-11ee-ab91-27020b4bcd3e.html"/>
+        <updated>2023-12-24T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Oregon Department of Fish and Wildlife will host a hunting education field day Jan. 20 at the Roseburg Rod and Gun Club, 875 Old Del Rio Road, Roseburg. The class will run 8 a.m. to 3:30 p.m. and…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everyone deserves a warm Christmas meal, woman hands out cookies and burritos]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/13e13018-9ea7-11ee-ba41-93b55fa056df</id>
