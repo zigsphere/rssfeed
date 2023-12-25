@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-25T13:11:10.853Z</updated>
+    <updated>2023-12-25T16:11:52.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HOLIDAY CLOSURES FOR DECEMBER 25TH]]></title>
+        <id>https://kqennewsradio.com/?p=114066</id>
+        <link href="https://kqennewsradio.com/2023/12/25/holiday-closures-for-december-25th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=holiday-closures-for-december-25th"/>
+        <updated>2023-12-25T14:57:21.000Z</updated>
+        <summary type="html"><![CDATA[December 25, 2023 6:30 a.m. This is Christmas and that means there are a number of closures. Federal, state, county and city officers are closed. Regular mail will not be delivered. Schools are not in session until after the new year. Professional offices are not open. Most retail stores are closed or are operating with...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OSU Extension offers forestry program in Roseburg]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/b0a21564-a07a-11ee-95c5-c3f3931847ca</id>
@@ -312,16 +322,6 @@
         <link href="https://kqennewsradio.com/2023/12/22/roseburg-police-cite-juvenile-woman-on-harassment-charge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-juvenile-woman-on-harassment-charge"/>
         <updated>2023-12-22T11:00:30.000Z</updated>
         <summary type="html"><![CDATA[December 22, 2023 2:50 a.m. Roseburg Police cited a juvenile and a woman Wednesday on the charge of harassment for an alleged prior incident. An RPD report said on December 19th, the pair allegedly attacked two other girls regarding rumors being spread about the juvenile. One of the girls allegedly sustained a swollen lip from...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUR CUE 12.21.23]]></title>
-        <id>https://kqennewsradio.com/?p=114011</id>
-        <link href="https://kqennewsradio.com/2023/12/22/your-cue-12-21-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-12-21-23"/>
-        <updated>2023-12-22T01:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Premier Insurance, Shannon Sebastian and Allan Painter are joined by Umpqua Economic Development Executive Director Brian Prawitz:  Click here to download for later listening:  YOUR CUE 12 21 2023]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
