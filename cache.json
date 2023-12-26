@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114109",
+          "author": "Kyle Bailey",
+          "description": "Roseburg VA Medical Center Director Patrick Hull provides an update on things happening and planned for the local campus, which he has been leading since April.  Click here to download for later listening:  IDC 12 26 2023",
+          "link": "https://kqennewsradio.com/2023/12/26/inside-douglas-county-12-26-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-26-23",
+          "publishedOn": "2023-12-26T21:15:08.000Z",
+          "wordCount": 1499,
+          "title": "INSIDE DOUGLAS COUNTY 12.26.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231226201155/IDC-12-26-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231226201444/IMG_3615-scaled.webp"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114107",
+          "author": "Kyle Bailey",
+          "description": "December 26, 2023 11:10 a.m. Deputies with the Douglas County Sheriff’s Office are investigating a reported burglary in the Canyonville area. A DSCO report said on Christmas morning just after 10:00 a.m. a resident of the 100 block of Kimberly Way noticed that a neighbor’s residence appeared to have been broken into due to the...",
+          "link": "https://kqennewsradio.com/2023/12/26/deputies-investigating-reported-burglary-in-canyonville/?utm_source=rss&utm_medium=rss&utm_campaign=deputies-investigating-reported-burglary-in-canyonville",
+          "publishedOn": "2023-12-26T19:15:04.000Z",
+          "wordCount": 1546,
+          "title": "DEPUTIES INVESTIGATING REPORTED BURGLARY IN CANYONVILLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114105",
           "author": "Kyle Bailey",
           "description": "December 26, 2023 11:00 a.m.  A Roseburg man was jailed for an alleged harassment incident on Christmas Day. A Douglas County Sheriff’s Office report said Sunday just after 3:45 p.m. the 33-year old allegedly confronted a victim about getting assaulted on a past case. This took place in the 500 block of Evelyn Street in...",
@@ -183,6 +208,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c3378122-a1e8-11ee-9795-2f8bb2119b23",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Roseburg and Oakland schools tried to get voter approval and tax dollars to make some much needed repairs to their aging school buildings.",
+          "link": "https://www.nrtoday.com/news/local/2023-top-stories-no-7-school-bonds-fail/article_c3378122-a1e8-11ee-9795-2f8bb2119b23.html",
+          "publishedOn": "2023-12-26T16:00:00.000Z",
+          "wordCount": 13419,
+          "title": "2023 top stories: No. 7 school bonds fail",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/43/e430e012-a1e8-11ee-99b1-af1416279c36/654b173975832.image.jpg?resize=300%2C200",
+            "length": "351787",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/43/e430e012-a1e8-11ee-99b1-af1416279c36/654b173975832.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/76fc42d2-a109-11ee-ab63-9f4914ff6c7c",
           "author": "DREW WINKELMAIER The News-Review",

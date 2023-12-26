@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburg.city/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-26T19:08:06.096Z</updated>
+    <updated>2023-12-26T23:10:44.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburg.city/index.html"/>
     <link rel="self" href="https://news.roseburg.city/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.26.23]]></title>
+        <id>https://kqennewsradio.com/?p=114109</id>
+        <link href="https://kqennewsradio.com/2023/12/26/inside-douglas-county-12-26-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-26-23"/>
+        <updated>2023-12-26T21:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg VA Medical Center Director Patrick Hull provides an update on things happening and planned for the local campus, which he has been leading since April.  Click here to download for later listening:  IDC 12 26 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEPUTIES INVESTIGATING REPORTED BURGLARY IN CANYONVILLE]]></title>
+        <id>https://kqennewsradio.com/?p=114107</id>
+        <link href="https://kqennewsradio.com/2023/12/26/deputies-investigating-reported-burglary-in-canyonville/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deputies-investigating-reported-burglary-in-canyonville"/>
+        <updated>2023-12-26T19:15:04.000Z</updated>
+        <summary type="html"><![CDATA[December 26, 2023 11:10 a.m. Deputies with the Douglas County Sheriff’s Office are investigating a reported burglary in the Canyonville area. A DSCO report said on Christmas morning just after 10:00 a.m. a resident of the 100 block of Kimberly Way noticed that a neighbor’s residence appeared to have been broken into due to the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG MAN JAILED FOR ALLEGED HARASSMENT INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=114105</id>
@@ -64,6 +84,16 @@
         <summary type="html"><![CDATA[Nick Smith of the American Forest Resource Council talks about Supreme Court action that his organization is seeking in regards to action taken by the Obama administration in 2017. Click here to download for later listening:  830 12 26 23]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 top stories: No. 7 school bonds fail]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c3378122-a1e8-11ee-9795-2f8bb2119b23</id>
+        <link href="https://www.nrtoday.com/news/local/2023-top-stories-no-7-school-bonds-fail/article_c3378122-a1e8-11ee-9795-2f8bb2119b23.html"/>
+        <updated>2023-12-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg and Oakland schools tried to get voter approval and tax dollars to make some much needed repairs to their aging school buildings.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
