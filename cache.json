@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114170",
+          "author": "Kyle Bailey",
+          "description": "Riddle Roots Community Projects, Project Manager Sarah Luft and campaign co-chair Melisa Wagnon provide an update on the organization and their plans for a community center in Riddle. Click here to download for later listening: IDC 12 27 2023",
+          "link": "https://kqennewsradio.com/2023/12/27/inside-douglas-county-12-27-23/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-27-23",
+          "publishedOn": "2023-12-27T21:17:55.000Z",
+          "wordCount": 1504,
+          "title": "INSIDE DOUGLAS COUNTY 12.27.23",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231227201148/IDC-12-27-2023.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231227201733/IMG_3620.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114168",
           "author": "Kyle Bailey",
           "description": "An SUV crashed in a vehicle versus deer accident on Tuesday. An Oregon State Police report said at about 6:50 a.m. the wreck happened on Interstate Five northbound, about two miles north of the Canyon Creek summit. The driver said he swerved to miss the animal and lost control of his vehicle. The SUV left...",
@@ -417,21 +432,6 @@
           "wordCount": 13172,
           "title": "Fish and Wildlife to host hunting class in Roseburg",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/13e13018-9ea7-11ee-ba41-93b55fa056df",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "Dee Jay spent her weekend rolling bean, cheese and rice burritos, and baking sheets of sugar and oatmeal chocolate chip cookies for her holiday tradition: handing them out to the homeless community.",
-          "link": "https://www.nrtoday.com/news/everyone-deserves-a-warm-christmas-meal-woman-hands-out-cookies-and-burritos/article_13e13018-9ea7-11ee-ba41-93b55fa056df.html",
-          "publishedOn": "2023-12-24T07:15:00.000Z",
-          "wordCount": 14043,
-          "title": "Everyone deserves a warm Christmas meal, woman hands out cookies and burritos",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bb/7bbfad0a-9f9b-11ee-9528-eb8077a46566/65838cc000f87.image.jpg?resize=300%2C200",
-            "length": "515930",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/bb/7bbfad0a-9f9b-11ee-9528-eb8077a46566/65838cc000f87.image.jpg?resize=300%2C200"
         }
       ]
     },

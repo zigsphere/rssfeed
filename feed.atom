@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-27T19:08:06.159Z</updated>
+    <updated>2023-12-27T23:09:57.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.27.23]]></title>
+        <id>https://kqennewsradio.com/?p=114170</id>
+        <link href="https://kqennewsradio.com/2023/12/27/inside-douglas-county-12-27-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-27-23"/>
+        <updated>2023-12-27T21:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Riddle Roots Community Projects, Project Manager Sarah Luft and campaign co-chair Melisa Wagnon provide an update on the organization and their plans for a community center in Riddle. Click here to download for later listening: IDC 12 27 2023]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUV CRASHES IN VEHICLE VERSUS DEER ACCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=114168</id>
@@ -334,16 +344,6 @@
         <summary type="html"><![CDATA[ROSEBURG — Oregon Department of Fish and Wildlife will host a hunting education field day Jan. 20 at the Roseburg Rod and Gun Club, 875 Old Del Rio Road, Roseburg. The class will run 8 a.m. to 3:30 p.m. and…]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone deserves a warm Christmas meal, woman hands out cookies and burritos]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/13e13018-9ea7-11ee-ba41-93b55fa056df</id>
-        <link href="https://www.nrtoday.com/news/everyone-deserves-a-warm-christmas-meal-woman-hands-out-cookies-and-burritos/article_13e13018-9ea7-11ee-ba41-93b55fa056df.html"/>
-        <updated>2023-12-24T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Dee Jay spent her weekend rolling bean, cheese and rice burritos, and baking sheets of sugar and oatmeal chocolate chip cookies for her holiday tradition: handing them out to the homeless community.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
 </feed>
