@@ -444,6 +444,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/954737ae-a4fd-11ee-8ffd-87d2c61520ef",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "William “Andrew” Ernst has years of sales and managing experience at UScellular — the fourth-largest full-service wireless carrier in the United States — and now he’s been promoted to store manager for Roseburg’s location at 780 NW Garden Valley Blvd.",
+          "link": "https://www.nrtoday.com/news/william-andrew-ernst-promoted-as-roseburg-uscellular-store-manager/article_954737ae-a4fd-11ee-8ffd-87d2c61520ef.html",
+          "publishedOn": "2023-12-29T01:30:00.000Z",
+          "wordCount": 13360,
+          "title": "William 'Andrew' Ernst promoted as Roseburg UScellular store manager",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d5/0d5ffd9c-a4ff-11ee-a775-230709a02a16/658c9784016b8.image.jpg?resize=300%2C303",
+            "length": "299964",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d5/0d5ffd9c-a4ff-11ee-a775-230709a02a16/658c9784016b8.image.jpg?resize=300%2C303"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e5a7f094-a598-11ee-a4a9-bf683aac6229",
           "author": "Kyle Bailey For The News-Review",
           "description": "Douglas County payroll employment increased a seasonally adjusted 60 jobs in November after a decrease of 240 in October and an increase of 70 in September.",
