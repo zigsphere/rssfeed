@@ -119,6 +119,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/49f6accc-a5c9-11ee-9a2f-639385913040",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Put a twist on your New Year’s Eve celebration with Hogmanay: the Scottish word for the last day of the year.",
+          "link": "https://www.nrtoday.com/news/happy-hogmanay-the-scottish-way-of-ringing-in-the-new-year/article_49f6accc-a5c9-11ee-9a2f-639385913040.html",
+          "publishedOn": "2023-12-30T18:00:00.000Z",
+          "wordCount": 13502,
+          "title": "Happy Hogmanay, the Scottish way of ringing in the new year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/dc/1dc79526-a678-11ee-81aa-6b30cee7026f/6323398dc88f1.image.jpg?resize=300%2C200",
+            "length": "329568",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/dc/1dc79526-a678-11ee-81aa-6b30cee7026f/6323398dc88f1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3e1e63be-a5af-11ee-a88a-0fdac68889bb",
+          "author": "The News-Review",
+          "description": "The next Friends of the Umpqua Hiking Club hike is scheduled for Jan. 6 at North Bank Deer Habitat.",
+          "link": "https://www.nrtoday.com/news/local/friends-of-the-umpqua-hiking-club-heading-to-north-bank-deer-habitat/article_3e1e63be-a5af-11ee-a88a-0fdac68889bb.html",
+          "publishedOn": "2023-12-30T17:44:00.000Z",
+          "wordCount": 13051,
+          "title": "Friends of the Umpqua Hiking Club heading to North Bank Deer Habitat",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d6c0a63e-a66a-11ee-ba92-fbdb96d0c8df",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "As the years comes to an end, The News-Review looks at the favorite and most popular education stories of 2023.",
+          "link": "https://www.nrtoday.com/news/education/top-10-education-stories-of-2023/article_d6c0a63e-a66a-11ee-ba92-fbdb96d0c8df.html",
+          "publishedOn": "2023-12-30T17:00:00.000Z",
+          "wordCount": 14071,
+          "title": "Top 10 education stories of 2023",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/3c/23c7b0e8-a676-11ee-a0db-876949c2cb78/644d92c2ce381.image.jpg?resize=300%2C200",
+            "length": "664681",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/3c/23c7b0e8-a676-11ee-a0db-876949c2cb78/644d92c2ce381.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4949ee18-a5b2-11ee-b0e0-e763d2a8483f",
+          "author": null,
+          "description": "The Douglas County Clerk’s Office issued these licenses Dec. 18-22:",
+          "link": "https://www.nrtoday.com/news/local/marriages-dec-18-22/article_4949ee18-a5b2-11ee-b0e0-e763d2a8483f.html",
+          "publishedOn": "2023-12-30T16:34:00.000Z",
+          "wordCount": 12970,
+          "title": "Marriages: Dec. 18-22",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/83fcc31c-a5e6-11ee-9c26-c758e60d5508",
           "author": null,
           "description": "NAMI Douglas County, the local chapter of the National Alliance on Mental Illness, will hold its monthly meeting 6 p.m. Monday at the Vine Street Baptist Church, 2152 NE Vine St., Roseburg.",
