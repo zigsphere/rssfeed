@@ -284,6 +284,58 @@
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/17/617bc504-a44c-11ee-99e4-036506d6a28b/657736005ec90.image.jpg?resize=300%2C225"
         }
       ]
+    },
+    {
+      "title": "Douglas Co. Fire Dist. No.2",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
+      "siteUrl": "https://www.flashalert.net/news.html?id=6158",
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news168901",
+          "author": null,
+          "description": "Please see attached",
+          "link": "https://www.flashalert.net/news.html?id=6158#news168901",
+          "publishedOn": "2023-12-27T11:40:32.000Z",
+          "wordCount": 755,
+          "title": "Garage Fire - Winston Dillard Fire District",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2023-12/6158/168901/99_South_Fire_12-2023.pdf",
+            "length": "118677",
+            "type": "application/pdf"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Douglas Co. Sheriff's Office",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
+      "siteUrl": "https://www.flashalert.net/news.html?id=5204",
+      "articles": []
+    },
+    {
+      "title": "Roseburg Police Dept.",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
+      "siteUrl": "https://www.flashalert.net/news.html?id=5489",
+      "articles": []
+    },
+    {
+      "title": "Roseburg Fire Dept.",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=5568",
+      "siteUrl": "https://www.flashalert.net/news.html?id=5568",
+      "articles": []
+    },
+    {
+      "title": "Douglas Interagency Narcotics Team (DINT)",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=6255",
+      "siteUrl": "https://www.flashalert.net/news.html?id=6255",
+      "articles": []
+    },
+    {
+      "title": "Oregon Dept. of Forestry",
+      "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
+      "siteUrl": "https://www.flashalert.net/news.html?id=1072",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
