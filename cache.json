@@ -119,6 +119,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/83fcc31c-a5e6-11ee-9c26-c758e60d5508",
+          "author": null,
+          "description": "NAMI Douglas County, the local chapter of the National Alliance on Mental Illness, will hold its monthly meeting 6 p.m. Monday at the Vine Street Baptist Church, 2152 NE Vine St., Roseburg.",
+          "link": "https://www.nrtoday.com/life/national-alliance-on-mental-illness-meeting-monday/article_83fcc31c-a5e6-11ee-9c26-c758e60d5508.html",
+          "publishedOn": "2023-12-30T16:00:00.000Z",
+          "wordCount": 13008,
+          "title": "National Alliance on Mental Illness meeting Monday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2a6095e0-a5be-11ee-9da9-0bf3cb30c05c",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Readers searching for an inspirational, humorous, heartfelt book need look no further than Eugene writer Bob Welch’s latest title.",
+          "link": "https://www.nrtoday.com/news/education/welch-s-new-book-a-delightful-adventure/article_2a6095e0-a5be-11ee-9da9-0bf3cb30c05c.html",
+          "publishedOn": "2023-12-30T15:45:00.000Z",
+          "wordCount": 13557,
+          "title": "Welch’s new book a delightful adventure",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e24346e2-a674-11ee-a2a5-3393c85ecfb6",
           "author": "SANNE GODFREY The News-Review",
           "description": "ROSEBURG — Tahnie Amber West allegedly took a vehicle from the Domino's parking lot and led police on a chase on Interstate 5.",
