@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2023-12-30T19:07:40.933Z</updated>
+    <updated>2023-12-30T23:09:19.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to dispose of your Christmas tree]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7fa43224-a4e6-11ee-b6e1-6369726c7a3c</id>
+        <link href="https://www.nrtoday.com/news/local/how-to-dispose-of-your-christmas-tree/article_7fa43224-a4e6-11ee-b6e1-6369726c7a3c.html"/>
+        <updated>2023-12-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the holiday season comes to a close, the time to dispose of your Christmas tree has arrived and several Douglas County companies are offering a helping hand.]]></summary>
+        <author>
+            <name>The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Hogmanay, the Scottish way of ringing in the new year]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/49f6accc-a5c9-11ee-9a2f-639385913040</id>

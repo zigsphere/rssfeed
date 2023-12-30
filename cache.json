@@ -119,6 +119,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7fa43224-a4e6-11ee-b6e1-6369726c7a3c",
+          "author": "The News-Review",
+          "description": "As the holiday season comes to a close, the time to dispose of your Christmas tree has arrived and several Douglas County companies are offering a helping hand.",
+          "link": "https://www.nrtoday.com/news/local/how-to-dispose-of-your-christmas-tree/article_7fa43224-a4e6-11ee-b6e1-6369726c7a3c.html",
+          "publishedOn": "2023-12-30T21:00:00.000Z",
+          "wordCount": 13751,
+          "title": "How to dispose of your Christmas tree",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/bc/0bc78a84-a4ed-11ee-a4b8-bb8052a6657b/658c7912a9902.image.jpg?resize=300%2C200",
+            "length": "443954",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/bc/0bc78a84-a4ed-11ee-a4b8-bb8052a6657b/658c7912a9902.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/49f6accc-a5c9-11ee-9a2f-639385913040",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Put a twist on your New Year’s Eve celebration with Hogmanay: the Scottish word for the last day of the year.",
