@@ -119,6 +119,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a465a458-a766-11ee-b380-0f7a8a8912c1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Small forestland owners across the state find themselves in the midst of realizing that with 2024 approaching, changes will have to be made on their lands to comply with the new Private Forest Accord laws coming into effect Monday.",
+          "link": "https://www.nrtoday.com/news/local/forestland-owners-adapt-to-new-forestry-rules/article_a465a458-a766-11ee-b380-0f7a8a8912c1.html",
+          "publishedOn": "2023-12-31T07:45:00.000Z",
+          "wordCount": 14226,
+          "title": "Forestland owners adapt to new forestry rules",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e9/4e972196-e5fb-11ed-9c66-43b87c1b2c16/62703ee24e101.image.jpg?crop=1178%2C886%2C4%2C0&resize=300%2C226&order=crop%2Cresize",
+            "length": "377136",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e9/4e972196-e5fb-11ed-9c66-43b87c1b2c16/62703ee24e101.image.jpg?crop=1178%2C886%2C4%2C0&resize=300%2C226&order=crop%2Cresize"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/87d49efe-a741-11ee-a39a-fbd38021968b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "While some students have spent winter break relaxing or spending time with family, Lena Larecy has spent her time preparing for Miss America’s Teen 2024.",
+          "link": "https://www.nrtoday.com/news/education/miss-oregon-s-teen-readies-for-miss-america-competition/article_87d49efe-a741-11ee-a39a-fbd38021968b.html",
+          "publishedOn": "2023-12-31T07:15:00.000Z",
+          "wordCount": 14047,
+          "title": "Miss Oregon’s Teen readies for Miss America competition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3a/73a94cb8-a75f-11ee-9121-e32724d29666/65909401e2edc.image.jpg?crop=1257%2C945%2C34%2C61&resize=300%2C226&order=crop%2Cresize",
+            "length": "153476",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3a/73a94cb8-a75f-11ee-9121-e32724d29666/65909401e2edc.image.jpg?crop=1257%2C945%2C34%2C61&resize=300%2C226&order=crop%2Cresize"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7fa43224-a4e6-11ee-b6e1-6369726c7a3c",
           "author": "The News-Review",
           "description": "As the holiday season comes to a close, the time to dispose of your Christmas tree has arrived and several Douglas County companies are offering a helping hand.",
@@ -327,51 +357,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/81/c817187e-4d10-11ee-ac4d-ff481576c3b8/62bcd85031f92.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0a438014-9f8e-11ee-898f-3bb59a3dd4fc",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "MYRTLE CREEK — A cat dons a spacesuit and ventures into space with its mermaid friend. They pass an alien, a robot, the planet Mars and circle back to Earth just in time to stop an asteroid from hitting the…",
-          "link": "https://www.nrtoday.com/news/myrtle-creek-children-write-their-own-story-at-library/article_0a438014-9f8e-11ee-898f-3bb59a3dd4fc.html",
-          "publishedOn": "2023-12-27T16:00:00.000Z",
-          "wordCount": 14044,
-          "title": "Myrtle Creek children write their own story at library",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/39/f396aaec-9f8f-11ee-93f7-e7d9a698f238/6583796718275.image.jpg?resize=300%2C200",
-            "length": "264469",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/39/f396aaec-9f8f-11ee-93f7-e7d9a698f238/6583796718275.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/553b5802-a4d0-11ee-8186-ff19d5e228db",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "A garage fire led to a roof collapse on Tuesday morning, southeast of Winston.",
-          "link": "https://www.nrtoday.com/news/local/garage-fire-leads-to-roof-collapse/article_553b5802-a4d0-11ee-8186-ff19d5e228db.html",
-          "publishedOn": "2023-12-27T15:55:00.000Z",
-          "wordCount": 13463,
-          "title": "Garage fire leads to roof collapse",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/6f/96feb112-a4d0-11ee-a950-477ce24c2af5/658c4954cf92e.image.jpg?resize=300%2C225",
-            "length": "264159",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/6f/96feb112-a4d0-11ee-a950-477ce24c2af5/658c4954cf92e.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c68e67c-a44b-11ee-ac9f-83185ddca358",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "Winter Whale Watch Week returns Wednesday.",
-          "link": "https://www.nrtoday.com/news/winter-whale-watch-week-gray-whales-travel-along-the-oregon-coast/article_7c68e67c-a44b-11ee-ac9f-83185ddca358.html",
-          "publishedOn": "2023-12-27T15:45:00.000Z",
-          "wordCount": 13628,
-          "title": "Winter Whale Watch Week: Gray whales travel along the Oregon Coast",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/17/617bc504-a44c-11ee-99e4-036506d6a28b/657736005ec90.image.jpg?resize=300%2C225",
-            "length": "421557",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/17/617bc504-a44c-11ee-99e4-036506d6a28b/657736005ec90.image.jpg?resize=300%2C225"
         }
       ]
     },
