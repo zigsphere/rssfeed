@@ -119,6 +119,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f526866a-a4d6-11ee-93f2-6f2c7da279fa",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Oregon sees both ends of the weather spectrum — winter downpours and scorching summer heat — making it difficult to enjoy the outdoors.",
+          "link": "https://www.nrtoday.com/news/no-matter-the-weather-get-outside-ymca-opening-indoor-outdoor-recreation-space/article_f526866a-a4d6-11ee-93f2-6f2c7da279fa.html",
+          "publishedOn": "2024-01-01T15:45:00.000Z",
+          "wordCount": 13856,
+          "title": "No matter the weather, get outside: YMCA opening indoor-outdoor recreation space",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c8/6c86ea70-a66b-11ee-94ea-f741fac26103/658efa98b9e38.image.jpg?resize=300%2C200",
+            "length": "427702",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c8/6c86ea70-a66b-11ee-94ea-f741fac26103/658efa98b9e38.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7addf00a-a788-11ee-86c6-e71f1e9033a1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The air was full of fumes, the building rumbled and the karts revved as racers from all over the West Coast gathered at the River Arena in the Douglas County Fairgrounds Complex in Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-outlaw-kart-races-last-weekend-of-2023/article_7addf00a-a788-11ee-86c6-e71f1e9033a1.html",
+          "publishedOn": "2024-01-01T15:45:00.000Z",
+          "wordCount": 14773,
+          "title": "Roseburg Outlaw Kart races last weekend of 2023",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/c7/5c7c55be-a785-11ee-b28b-2f9389cdbb82/6590d39be2a64.image.jpg?resize=300%2C200",
+            "length": "585070",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/c7/5c7c55be-a785-11ee-b28b-2f9389cdbb82/6590d39be2a64.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a465a458-a766-11ee-b380-0f7a8a8912c1",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Small forestland owners across the state find themselves in the midst of realizing that with 2024 approaching, changes will have to be made on their lands to comply with the new Private Forest Accord laws coming into effect Monday.",
@@ -287,21 +317,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/6f/66f09d8e-a5cd-11ee-8990-0f07c1ec6f39/658df17add567.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/954737ae-a4fd-11ee-8ffd-87d2c61520ef",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "William “Andrew” Ernst has years of sales and managing experience at UScellular — the fourth-largest full-service wireless carrier in the United States — and now he’s been promoted to store manager for Roseburg’s location at 780 NW Garden Valley Blvd.",
-          "link": "https://www.nrtoday.com/news/william-andrew-ernst-promoted-as-roseburg-uscellular-store-manager/article_954737ae-a4fd-11ee-8ffd-87d2c61520ef.html",
-          "publishedOn": "2023-12-29T01:30:00.000Z",
-          "wordCount": 13389,
-          "title": "William 'Andrew' Ernst promoted as Roseburg UScellular store manager",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d5/0d5ffd9c-a4ff-11ee-a775-230709a02a16/658c9784016b8.image.jpg?resize=300%2C303",
-            "length": "299964",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/d5/0d5ffd9c-a4ff-11ee-a775-230709a02a16/658c9784016b8.image.jpg?resize=300%2C303"
         }
       ]
     },
