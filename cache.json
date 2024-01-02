@@ -18,6 +18,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6a558d34-a598-11ee-a552-cbe0099bce3e",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg Public Library is marking its five year anniversary with a community celebration on Saturday.",
+          "link": "https://www.nrtoday.com/family/roseburg-library-celebrates-5-year-anniversary/article_6a558d34-a598-11ee-a552-cbe0099bce3e.html",
+          "publishedOn": "2024-01-02T15:47:00.000Z",
+          "wordCount": 13427,
+          "title": "Roseburg library celebrates 5 year anniversary",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c7/fc74ed4a-a79b-11ee-a213-6358147e8026/6590f99139e14.image.png?resize=300%2C452",
+            "length": "680052",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c7/fc74ed4a-a79b-11ee-a213-6358147e8026/6590f99139e14.image.png?resize=300%2C452"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/da706b9c-a8f5-11ee-90e5-678cad8b238d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Brynn Lehnherr and Tim Purdue are the proud parents of the first baby born in Douglas County in 2024.",
+          "link": "https://www.nrtoday.com/news/health/victoria-is-the-first-baby-born-in-douglas-county-in-2024/article_da706b9c-a8f5-11ee-90e5-678cad8b238d.html",
+          "publishedOn": "2024-01-02T15:30:00.000Z",
+          "wordCount": 13719,
+          "title": "Victoria is the first baby born in Douglas County in 2024",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b4/0b496312-a8f2-11ee-9ab2-57594102b956/65933772007ea.image.jpg?resize=300%2C200",
+            "length": "302252",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b4/0b496312-a8f2-11ee-9ab2-57594102b956/65933772007ea.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c72961d6-a983-11ee-8264-430c2033c4cb",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A shop and all of its contents were lost and a trailer sustained heat damage from a structure fire Sunday morning.",
+          "link": "https://www.nrtoday.com/news/local/shop-lost-in-sunday-fire/article_c72961d6-a983-11ee-8264-430c2033c4cb.html",
+          "publishedOn": "2024-01-02T15:29:00.000Z",
+          "wordCount": 13376,
+          "title": "Shop lost in Sunday fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/59/a59ae8b8-a984-11ee-a184-cb53328e870c/65942d67683ef.image.jpg?resize=300%2C225",
+            "length": "402656",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/59/a59ae8b8-a984-11ee-a184-cb53328e870c/65942d67683ef.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f526866a-a4d6-11ee-93f2-6f2c7da279fa",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Oregon sees both ends of the weather spectrum — winter downpours and scorching summer heat — making it difficult to enjoy the outdoors.",
