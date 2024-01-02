@@ -4,7 +4,48 @@
       "title": "KQEN News Radio",
       "feedUrl": "https://kqennewsradio.com/feed/",
       "siteUrl": "https://kqennewsradio.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kqennewsradio.com/?p=114270",
+          "author": "Joey Keeran",
+          "description": "Jan. 2, 2024 11:40 a.m.  United Communities AmeriCorps, Umpqua Watersheds and The City of Roseburg Parks and Recreation Department is hosting a river clean-up and invasive species removal event on Martin Luther King Jr. Day, Monday, Jan. 15. The organizations are hoping to bring the people together in celebration of community, nature and the joy...",
+          "link": "https://kqennewsradio.com/2024/01/02/mlk-day-river-and-park-clean-up-scheduled/?utm_source=rss&utm_medium=rss&utm_campaign=mlk-day-river-and-park-clean-up-scheduled",
+          "publishedOn": "2024-01-02T19:38:20.000Z",
+          "wordCount": 1532,
+          "title": "MLK Day river and park clean-up scheduled",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919120051/KQEN-Logo-9-23-1-e1695128489187.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114268",
+          "author": "Joey Keeran",
+          "description": "Jan. 2, 2024 11:35 a.m.  Business Champions for Kids, a program operated by Douglas Education Service District, is recognizing 23 employers in Douglas County for their efforts to support working parents. The local employers are being recognized through the “Best Place for Working Parents” initiative, which enables employers to determine how their organization fares on...",
+          "link": "https://kqennewsradio.com/2024/01/02/business-champions-for-kids-recognizes-local-employers/?utm_source=rss&utm_medium=rss&utm_campaign=business-champions-for-kids-recognizes-local-employers",
+          "publishedOn": "2024-01-02T19:36:24.000Z",
+          "wordCount": 1650,
+          "title": "Business Champions for Kids recognizes local employers",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213214/ESD.jpg.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114263",
+          "author": "Joey Keeran",
+          "description": "Jan. 2, 2024 6:45 a.m. Douglas County Fire District No. 2 responded to a structure fire early Sunday morning in Roseburg. According to a press release, fire crews were dispatched just after 4 a.m. to a residence on West Military Avenue. Crews reportedly found a medium sized shop that was fully involved and threatening other...",
+          "link": "https://kqennewsradio.com/2024/01/02/sunday-fire-destroys-structure-on-west-military/?utm_source=rss&utm_medium=rss&utm_campaign=sunday-fire-destroys-structure-on-west-military",
+          "publishedOn": "2024-01-02T19:34:12.000Z",
+          "wordCount": 1571,
+          "title": "Sunday fire destroys structure on West Military",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213911/dcfd2.jpg.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114262",
+          "author": "Ashley Claiborne",
+          "description": "1/2/2024 11:10 Registration is open for a popular mushroom growing class hosted by the Oregon State University Douglas County Extension Service. “Growing Your Own Mushrooms” will be held Saturday, March 2nd, at River Forks Park from 12:00 p.m. to 3:00 p.m. The class is described as an introduction to growing mushrooms through a hands-on workshop...",
+          "link": "https://kqennewsradio.com/2024/01/02/registration-now-open-for-mushroom-growing-class-from-osu-extension/?utm_source=rss&utm_medium=rss&utm_campaign=registration-now-open-for-mushroom-growing-class-from-osu-extension",
+          "publishedOn": "2024-01-02T19:12:25.000Z",
+          "wordCount": 1543,
+          "title": "Registration Open for Mushroom Growing Class from OSU Extension",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230919120051/KQEN-Logo-9-23-1-e1695128489187.png"
+        }
+      ]
     },
     {
       "title": "Douglas County Sheriff, OR - Alert Center",
