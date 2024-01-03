@@ -124,6 +124,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d2246922-a9ca-11ee-bb8b-87f45a92bf1e",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Douglass Education Service District's Business Champions for Kids program recognized 23 employers in Douglas County for being a Best Place for Working Parents.",
+          "link": "https://www.nrtoday.com/business/employers-receive-recognition-for-being-family-friendly/article_d2246922-a9ca-11ee-bb8b-87f45a92bf1e.html",
+          "publishedOn": "2024-01-03T15:30:00.000Z",
+          "wordCount": 13592,
+          "title": "Employers receive recognition for being family-friendly",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/d4/4d41105c-a9cf-11ee-8eea-e7ed277ac279/62fe98a2d23af.image.jpg?resize=300%2C200",
+            "length": "301948",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/d4/4d41105c-a9cf-11ee-8eea-e7ed277ac279/62fe98a2d23af.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4bf5f916-a9b5-11ee-acfa-6fc328f4b39f",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "ROSEBURG — Riversdale Grange, located at 4856 Garden Valley Road in Roseburg, will host its monthly breakfast from 8-10 a.m. Saturday.",
+          "link": "https://www.nrtoday.com/life/riversdale-grange-to-hold-monthly-breakfast-saturday/article_4bf5f916-a9b5-11ee-acfa-6fc328f4b39f.html",
+          "publishedOn": "2024-01-03T15:15:00.000Z",
+          "wordCount": 13155,
+          "title": "Riversdale Grange to hold monthly breakfast Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7a867f6e-a9a4-11ee-bf5a-5785c652d1de",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Registration is open for the annual Lambing School in Glide until Monday. The Lambing School will take place 8 a.m. through 5 p.m. Jan. 20 at Mont Alto Ranch, 2800 French Creek Road in Glide.",
+          "link": "https://www.nrtoday.com/news/education/registration-for-glide-lambing-school-open-through-jan-8/article_7a867f6e-a9a4-11ee-bf5a-5785c652d1de.html",
+          "publishedOn": "2024-01-03T15:00:00.000Z",
+          "wordCount": 13225,
+          "title": "Registration for Glide Lambing School open through Jan 8",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ffad86d8-a9d1-11ee-a85c-a3c0bbeac1a8",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Hayden Morse lined up his shot.",
+          "link": "https://www.nrtoday.com/news/new-indoor-golf-facility-cattle-dogs-opens-in-roseburg/article_ffad86d8-a9d1-11ee-a85c-a3c0bbeac1a8.html",
+          "publishedOn": "2024-01-03T15:00:00.000Z",
+          "wordCount": 14080,
+          "title": "New indoor golf facility, Cattle Dogs, opens in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/60/96087052-a9d7-11ee-b619-b39a72aa4230/6594b88d82103.image.jpg?resize=300%2C200",
+            "length": "405225",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/60/96087052-a9d7-11ee-b619-b39a72aa4230/6594b88d82103.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6a558d34-a598-11ee-a552-cbe0099bce3e",
           "author": "Kyle Bailey For The News-Review",
           "description": "Roseburg Public Library is marking its five year anniversary with a community celebration on Saturday.",
