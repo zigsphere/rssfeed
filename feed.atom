@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-03T19:08:23.135Z</updated>
+    <updated>2024-01-03T23:10:49.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.3.24]]></title>
+        <id>https://kqennewsradio.com/?p=114321</id>
+        <link href="https://kqennewsradio.com/2024/01/03/inside-douglas-county-1-3-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-3-24"/>
+        <updated>2024-01-03T21:12:57.000Z</updated>
+        <summary type="html"><![CDATA[A look at making positive healthy changes in the new year, with Juliete Palenshus of Thrive Umpqua. Click here to download for later listening:  øºC]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR NO CONTACT ORDER VIOLATION]]></title>
         <id>https://kqennewsradio.com/?p=114315</id>
@@ -328,26 +338,6 @@ DCFD No.2 responded with 3 fire engines, 1 water tender and 1 Command vehicle, F
         <link href="https://www.nrtoday.com/news/local/roseburg-outlaw-kart-races-last-weekend-of-2023/article_7addf00a-a788-11ee-86c6-e71f1e9033a1.html"/>
         <updated>2024-01-01T15:45:00.000Z</updated>
         <summary type="html"><![CDATA[The air was full of fumes, the building rumbled and the karts revved as racers from all over the West Coast gathered at the River Arena in the Douglas County Fairgrounds Complex in Roseburg.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forestland owners adapt to new forestry rules]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a465a458-a766-11ee-b380-0f7a8a8912c1</id>
-        <link href="https://www.nrtoday.com/news/local/forestland-owners-adapt-to-new-forestry-rules/article_a465a458-a766-11ee-b380-0f7a8a8912c1.html"/>
-        <updated>2023-12-31T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Small forestland owners across the state find themselves in the midst of realizing that with 2024 approaching, changes will have to be made on their lands to comply with the new Private Forest Accord laws coming into effect Monday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miss Oregon’s Teen readies for Miss America competition]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/87d49efe-a741-11ee-a39a-fbd38021968b</id>
-        <link href="https://www.nrtoday.com/news/education/miss-oregon-s-teen-readies-for-miss-america-competition/article_87d49efe-a741-11ee-a39a-fbd38021968b.html"/>
-        <updated>2023-12-31T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[While some students have spent winter break relaxing or spending time with family, Lena Larecy has spent her time preparing for Miss America’s Teen 2024.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
         </author>

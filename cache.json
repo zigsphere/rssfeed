@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114321",
+          "author": "Kyle Bailey",
+          "description": "A look at making positive healthy changes in the new year, with Juliete Palenshus of Thrive Umpqua. Click here to download for later listening:  øºC",
+          "link": "https://kqennewsradio.com/2024/01/03/inside-douglas-county-1-3-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-3-24",
+          "publishedOn": "2024-01-03T21:12:57.000Z",
+          "wordCount": 1487,
+          "title": "INSIDE DOUGLAS COUNTY 1.3.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240103200848/IDC-1-3-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240103201239/IMG_3871.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114315",
           "author": "Kyle Bailey",
           "description": "January 3, 2023 11:00 a.m.  Roseburg Police jailed a man for a prior no contact order violation on Sunday. An RPD report said the 19-year old was contacted shortly after 2:10 p.m. in the 1000 block of Northeast Stephens Street. During a previous incident on Christmas day, the man had allegedly violated a no contact...",
@@ -362,36 +377,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/c7/5c7c55be-a785-11ee-b28b-2f9389cdbb82/6590d39be2a64.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a465a458-a766-11ee-b380-0f7a8a8912c1",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Small forestland owners across the state find themselves in the midst of realizing that with 2024 approaching, changes will have to be made on their lands to comply with the new Private Forest Accord laws coming into effect Monday.",
-          "link": "https://www.nrtoday.com/news/local/forestland-owners-adapt-to-new-forestry-rules/article_a465a458-a766-11ee-b380-0f7a8a8912c1.html",
-          "publishedOn": "2023-12-31T07:45:00.000Z",
-          "wordCount": 14226,
-          "title": "Forestland owners adapt to new forestry rules",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e9/4e972196-e5fb-11ed-9c66-43b87c1b2c16/62703ee24e101.image.jpg?crop=1178%2C886%2C4%2C0&resize=300%2C226&order=crop%2Cresize",
-            "length": "377136",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e9/4e972196-e5fb-11ed-9c66-43b87c1b2c16/62703ee24e101.image.jpg?crop=1178%2C886%2C4%2C0&resize=300%2C226&order=crop%2Cresize"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/87d49efe-a741-11ee-a39a-fbd38021968b",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "While some students have spent winter break relaxing or spending time with family, Lena Larecy has spent her time preparing for Miss America’s Teen 2024.",
-          "link": "https://www.nrtoday.com/news/education/miss-oregon-s-teen-readies-for-miss-america-competition/article_87d49efe-a741-11ee-a39a-fbd38021968b.html",
-          "publishedOn": "2023-12-31T07:15:00.000Z",
-          "wordCount": 14047,
-          "title": "Miss Oregon’s Teen readies for Miss America competition",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3a/73a94cb8-a75f-11ee-9121-e32724d29666/65909401e2edc.image.jpg?crop=1257%2C945%2C34%2C61&resize=300%2C226&order=crop%2Cresize",
-            "length": "153476",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3a/73a94cb8-a75f-11ee-9121-e32724d29666/65909401e2edc.image.jpg?crop=1257%2C945%2C34%2C61&resize=300%2C226&order=crop%2Cresize"
         }
       ]
     },
