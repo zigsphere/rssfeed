@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114356",
+          "author": "Kyle Bailey",
+          "description": "January 4, 2024 5:30 a.m.   A Level III Sex Offender has been taken into custody after he allegedly wrote a letter to a minor child. On Wednesday, deputies with the Douglas County Sheriff’s Office received a report that 44-year old Uriah Shawn Strauss of Roseburg sent a letter to a minor child at a local...",
+          "link": "https://kqennewsradio.com/2024/01/04/level-iii-sex-offender-arrested-for-attempting-child-contact/?utm_source=rss&utm_medium=rss&utm_campaign=level-iii-sex-offender-arrested-for-attempting-child-contact",
+          "publishedOn": "2024-01-04T13:33:55.000Z",
+          "wordCount": 1633,
+          "title": "LEVEL III SEX OFFENDER URIAH STRAUSS ARRESTED FOR ATTEMPTING CHILD CONTACT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231215111454/121423_public_notice_uriah_strauss_f-1.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114351",
           "author": "Kyle Bailey",
           "description": "January 4, 2024 4:00 a.m. A Winter Storm Watch is in effect from early Saturday morning through Saturday evening for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible with total snow accumulations of between 6 and 12 inches. West winds could gust as high as...",
@@ -323,6 +333,41 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cb0a6576-a99b-11ee-bf36-975951877799",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — United Communities AmeriCorps, Umpqua Watersheds and the city of Roseburg’s Parks and Recreation Department have organized a River Cleanup and Invasive Species Removal Event for Martin Luther King Jr. Day.",
+          "link": "https://www.nrtoday.com/briefs/mlk-day-cleanup-to-be-held-at-stewart-park/article_cb0a6576-a99b-11ee-bf36-975951877799.html",
+          "publishedOn": "2024-01-04T14:45:00.000Z",
+          "wordCount": 13158,
+          "title": "MLK Day cleanup to be held at Stewart Park",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7df4f292-aa8b-11ee-bfbe-7ba53a7cc8d9",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "New athletic facilities for more workout options have arrived for those who pledged to attend the gym more often in their New Year’s resolutions.",
+          "link": "https://www.nrtoday.com/news/education/ymca-opens-indoor-courtyard-in-wednesday-s-grand-opening/article_7df4f292-aa8b-11ee-bfbe-7ba53a7cc8d9.html",
+          "publishedOn": "2024-01-04T14:45:00.000Z",
+          "wordCount": 14144,
+          "title": "YMCA opens indoor courtyard in Wednesday’s grand opening",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c0/6c0b60ba-aa6e-11ee-9c9a-4fb0134efee6/6595b59d16c6a.image.jpg?resize=300%2C200",
+            "length": "402627",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c0/6c0b60ba-aa6e-11ee-9c9a-4fb0134efee6/6595b59d16c6a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e48695dc-aa50-11ee-baba-c790e8cccf01",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Cascade Community Credit Union announced Jason Troxel has been appointed as its new commercial lending and business development officer.",
+          "link": "https://www.nrtoday.com/business/cccu-appoints-troxel-to-officer-position/article_e48695dc-aa50-11ee-baba-c790e8cccf01.html",
+          "publishedOn": "2024-01-04T12:45:00.000Z",
+          "wordCount": 13298,
+          "title": "CCCU appoints Troxel to officer position",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/07f11948-a9a2-11ee-9af2-c73b1701d7e2",
           "author": "Scott Carroll The News-Review",
