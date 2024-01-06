@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114452",
+          "author": "Kyle Bailey",
+          "description": "January 6, 2024 3:00 p.m.  A Glendale man was arrested for driving under the influence of intoxicants-alcohol by the Douglas County Sheriff’s Office Friday night. A DCSO report said shortly after 10:00 p.m. deputies responded to the 6700 block of Azalea-Glendale Road in the Glendale area after a single-vehicle rollover crash. Deputies found the pickup...",
+          "link": "https://kqennewsradio.com/2024/01/06/glendale-man-arrested-for-duii-following-single-vehicle-rollover-crash/?utm_source=rss&utm_medium=rss&utm_campaign=glendale-man-arrested-for-duii-following-single-vehicle-rollover-crash",
+          "publishedOn": "2024-01-06T22:51:36.000Z",
+          "wordCount": 1549,
+          "title": "GLENDALE MAN ARRESTED FOR DUII FOLLOWING SINGLE-VEHICLE ROLLOVER CRASH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114450",
           "author": "Kyle Bailey",
           "description": "January 6, 2024 10:40 a.m.  A transient was jailed by the Douglas County Sheriff’s Office following an incident on Friday. A DCSO report said just after 12:30 p.m. the 39-year old was contacted with an illegally parked camper in the 100 block of Industrial Drive in Green. After tagging the camper, the deputy knocked on...",
@@ -579,16 +589,6 @@
           "wordCount": 1594,
           "title": "THE ART GALLERY AT UCC PRESENTS NEW EXHIBIT OPENING SOON",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240103102128/SummerLakedetail2-scaled-e1704280902520.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114275",
-          "author": "Kyle Bailey",
-          "description": "January 3, 2024 2:50 a.m. A 988 Coordinated Crisis Services Tax has been added to the existing Oregon Emergency Communications 911 Tax. A release from the Oregon Department of Revenue said the new tax was implemented by the Oregon State Legislature with the passage of House Bill 2757. The new 988 tax rate will be...",
-          "link": "https://kqennewsradio.com/2024/01/03/oregon-988-coordinated-crisis-services-tax-begains/?utm_source=rss&utm_medium=rss&utm_campaign=oregon-988-coordinated-crisis-services-tax-begains",
-          "publishedOn": "2024-01-03T11:01:14.000Z",
-          "wordCount": 1550,
-          "title": "OREGON 988 COORDINATED CRISIS SERVICES TAX BEGAINS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215138/Oregon_State_Capitol_2-e1626132991129.jpg"
         }
       ]
     },
@@ -603,6 +603,41 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/241709e0-ac20-11ee-b1a2-ff53afe07e9d",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "DOUGLAS COUNTY — Gov. Tina Kotek listed Douglas County alongside Coos, Curry, Jackson and Tillamook counties in a state of emergency declaration Friday following damaging storms in December.",
+          "link": "https://www.nrtoday.com/briefs/gov-kotek-declares-state-of-emergency-for-douglas-county/article_241709e0-ac20-11ee-b1a2-ff53afe07e9d.html",
+          "publishedOn": "2024-01-06T20:00:00.000Z",
+          "wordCount": 13168,
+          "title": "Gov. Kotek declares state of emergency for Douglas County",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54b086c8-ab24-11ee-b651-3b23d6d66258",
+          "author": null,
+          "description": "Umpqua Gem and Mineral club meeting Wednesday",
+          "link": "https://www.nrtoday.com/briefs/umpqua-gem-and-mineral-club-meeting-wednesday/article_54b086c8-ab24-11ee-b651-3b23d6d66258.html",
+          "publishedOn": "2024-01-06T19:53:00.000Z",
+          "wordCount": 13011,
+          "title": "Umpqua Gem and Mineral club meeting Wednesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ac7d59d6-ab37-11ee-8521-9feb31b30ad9",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Winter is in full swing which means so are seasonal illnesses. By the end of December, the Oregon Health Authority stated that southwestern Oregon was seeing the highest rates for positivity in the state for influenza, with state flu cases…",
+          "link": "https://www.nrtoday.com/news/flu-and-covid-numbers-see-increase-but-still-mild/article_ac7d59d6-ab37-11ee-8521-9feb31b30ad9.html",
+          "publishedOn": "2024-01-06T19:00:00.000Z",
+          "wordCount": 13891,
+          "title": "Flu and COVID numbers see increase, but still mild",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/8b/d8b0eb68-acc1-11ee-99eb-5778eef794e8/6003ae8ce6f80.image.jpg?resize=300%2C206",
+            "length": "230679",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/8b/d8b0eb68-acc1-11ee-99eb-5778eef794e8/6003ae8ce6f80.image.jpg?resize=300%2C206"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4919f59a-acb6-11ee-899b-5b4ea5e8718a",
           "author": "ERICA REYNOLDS The News-Review",
@@ -706,6 +741,16 @@
           "publishedOn": "2024-01-06T14:45:00.000Z",
           "wordCount": 13170,
           "title": "Southern New Hampshire University announce fall 2023 president’s, dean's lists",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5d69254c-abea-11ee-8cbc-2fa217c46c82",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — A group of six juveniles piled inside a 1997 Honda Accord sped away from officers on Friday.",
+          "link": "https://www.nrtoday.com/news/six-juveniles-attempt-to-elude-officers-sped-off/article_5d69254c-abea-11ee-8cbc-2fa217c46c82.html",
+          "publishedOn": "2024-01-05T19:00:00.000Z",
+          "wordCount": 13165,
+          "title": "Six juveniles attempt to elude officers, sped off",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
@@ -969,23 +1014,7 @@
       "title": "Douglas Interagency Narcotics Team (DINT)",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6255",
       "siteUrl": "https://www.flashalert.net/news.html?id=6255",
-      "articles": [
-        {
-          "id": "https://www.flashalert.net/news.html?id=6255#news168974",
-          "author": null,
-          "description": "In the early morning hours of Sunday, December 31st, detectives with the Douglas Interagency Narcotics Team (DINT) arrested two California individuals traveling to Douglas County with the intent to deliver a large load of methamphetamine.  \n \nAt approximately 4:00 AM detectives initiated a traffic stop on a 2020 GMC Sierra pickup at the intersection of Main Street and Chief Miwaleta Lane in Canyonville.  The vehicle was occupied by 46 year old Marcus Fuentes and 39 year old Stela Vigue, both of Bakersfield, California.\n \nDetectives suspected the vehicle contained a large load of methamphetamine being delivered here from California. Detectives quickly obtained a search warrant for the vehicle and inside the passenger compartment they found approximately 21 pounds of suspected methamphetamin…",
-          "link": "https://www.flashalert.net/news.html?id=6255#news168974",
-          "publishedOn": "2024-01-03T09:20:59.000Z",
-          "wordCount": 706,
-          "title": "Large Meth Seizure",
-          "enclosure": {
-            "url": "http://www.flashalertnewswire.net/images/news/2024-01/6255/168974/IMG_8749.heic",
-            "length": "3123331",
-            "type": "application/octet-stream"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Oregon Dept. of Forestry",
