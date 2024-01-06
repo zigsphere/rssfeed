@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-06T13:11:39.809Z</updated>
+    <updated>2024-01-06T16:11:32.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Southern New Hampshire University announce fall 2023 president’s, dean's lists]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/36df9ef4-ab60-11ee-b158-f70e28c3a2d9</id>
+        <link href="https://www.nrtoday.com/news/education/southern-new-hampshire-university-announce-fall-2023-president-s-deans-lists/article_36df9ef4-ab60-11ee-b158-f70e28c3a2d9.html"/>
+        <updated>2024-01-06T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[MANCHESTER, New Hampshire — Southern New Hampshire University has named seven Douglas County students to the Fall 2023 President's List, while Darcie Norton of Reedsport made the Fall 2023 Dean's List.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WARNING THROUGH 10:00 P.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=114445</id>
+        <link href="https://kqennewsradio.com/2024/01/06/winter-storm-warning-through-1000-p-m-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-through-1000-p-m-saturday"/>
+        <updated>2024-01-06T14:02:07.000Z</updated>
+        <summary type="html"><![CDATA[January 6, 2024 6:00 a.m. A Winter Storm Warning remains in effect through 10:00 pm. Saturday for mountain areas in southern Oregon. Forecasters at the National Weather Service said large snow accumulations of 8 to 16 inches are expected, with local amounts up to 20 inches. Winds will gust as high as 40 miles per...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR DECLARES STATE OF EMERGENCY IN FIVE COUNTIES INCLUDING DOUGLAS]]></title>
         <id>https://kqennewsradio.com/?p=114443</id>
@@ -726,16 +746,6 @@ At approximately 4:00 AM detectives initiated a traffic stop on a 2020 GMC Sierr
 Detectives suspected the vehicle contained a large load of methamphetamine being delivered here from California. Detectives quickly obtained a search warrant for the vehicle and inside the passenger compartment they found approximately 21 pounds of suspected methamphetamin…]]></summary>
         <author>
             <name>Douglas Interagency Narcotics Team (DINT)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 1.2.24]]></title>
-        <id>https://kqennewsradio.com/?p=114272</id>
-        <link href="https://kqennewsradio.com/2024/01/03/true-wealth-1-2-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-1-2-24"/>
-        <updated>2024-01-03T01:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 1 2 2024]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
