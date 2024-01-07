@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-07T13:10:56.752Z</updated>
+    <updated>2024-01-07T16:11:41.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reedsport City Council seeks to fill vacant council seat]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/204b9578-abf9-11ee-8931-97d756695f27</id>
+        <link href="https://www.nrtoday.com/briefs/reedsport-city-council-seeks-to-fill-vacant-council-seat/article_204b9578-abf9-11ee-8931-97d756695f27.html"/>
+        <updated>2024-01-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — The city of Reedsport is seeking applications for a vacant city council position. The position’s term will begin at the time of appointment and expire Dec. 31. During the general election in November, the position will be open…]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Habitat for Humanity gets $1 million grant to build homes in Riddle]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/ab915c34-a9a2-11ee-8e81-3fa5f12b86cb</id>
