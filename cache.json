@@ -429,6 +429,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9674c71c-ab2f-11ee-accd-97d8b39d6e23",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — A group of local lawmakers are holding a campaign kick-off event at 6 p.m Jan. 19.",
+          "link": "https://www.nrtoday.com/news/government/lawmakers-to-hold-campaign-kick-off-event/article_9674c71c-ab2f-11ee-accd-97d8b39d6e23.html",
+          "publishedOn": "2024-01-07T16:00:00.000Z",
+          "wordCount": 13187,
+          "title": "Lawmakers to hold campaign kick-off event",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/204b9578-abf9-11ee-8931-97d756695f27",
           "author": "DREW WINKELMAIER The News-Review",
           "description": "REEDSPORT — The city of Reedsport is seeking applications for a vacant city council position. The position’s term will begin at the time of appointment and expire Dec. 31. During the general election in November, the position will be open…",
@@ -789,16 +799,6 @@
           "publishedOn": "2024-01-04T11:01:22.000Z",
           "wordCount": 1331,
           "title": "Public Meeting Notice: Dog Control Board",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news169009",
-          "author": null,
-          "description": "ROSEBURG, Ore. - A Level III Sex Offender has been taken into custody after writing a letter to a minor child. \nOn Wednesday, January 3, 2024, Douglas County Sheriff's Deputies received a report that 44-year-old Uriah Shawn Strauss of Roseburg sent a letter to a minor child at a local high school. The letter outlined Strauss' desire to strike up a romantic relationship with a woman of at least 16-years of age.  \nStrauss was located at the Roseburg Rescue Mission where he was interviewed and taken into custody for Attempted Unlawful Contact with a Child. \nThe Douglas County Sheriff's Office previously notified the public that Strauss, a Level III sex offender, was sending letters that were filled with sexually explicit content, causing alarm and apprehension regarding personal safety to various women in and out of our community. \n“We renew our request that anyone who has received a similar letter from Strauss, especially anyone under the age of 18, to contact our office.”, Lt. Brad O'Dell said. \"We believe that Strauss has likely attempted contact with other juveniles. It is important that we hear from anyone who Strauss has contacted or attempted to contact. \nStrauss was lodged at the Douglas County Jail where he remains in custody.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news169009",
-          "publishedOn": "2024-01-04T05:03:35.000Z",
-          "wordCount": 1214,
-          "title": "Level III Sex Offender, Uriah Strauss, Arrested for Attempting Contact With Minor Child",
           "imageUrl": null
         }
       ]
