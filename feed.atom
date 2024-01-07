@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-07T19:07:55.608Z</updated>
+    <updated>2024-01-07T23:09:48.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RESIDENT HOSPITALIZED FOLLOWING RV FIRE SATURDAY MORNING]]></title>
+        <id>https://kqennewsradio.com/?p=114461</id>
+        <link href="https://kqennewsradio.com/2024/01/07/resident-hospitalized-following-rv-fire-saturday-morning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resident-hospitalized-following-rv-fire-saturday-morning"/>
+        <updated>2024-01-07T22:12:16.000Z</updated>
+        <summary type="html"><![CDATA[January One resident was hospitalized following a fire that destroyed an RV in north county on Saturday morning. Fire Chief Brian Burke from North Douglas County Fire and EMS said just after 9:30 a.m. crews were dispatched to reports of a fire at the Eagle Valley RV Park, in the 200 block of Eagle Valley...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YONCALLA MAN ARRESTED ON ASSAULT CHARGES]]></title>
+        <id>https://kqennewsradio.com/?p=114459</id>
+        <link href="https://kqennewsradio.com/2024/01/07/yoncalla-man-arrested-on-assault-charges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=yoncalla-man-arrested-on-assault-charges"/>
+        <updated>2024-01-07T21:50:09.000Z</updated>
+        <summary type="html"><![CDATA[January 7, 2024 1:50 p.m.  Deputies with the Douglas County Sheriff’s Office arrested a Yoncalla man on assault charges Saturday afternoon. A DCSO report said at 4:45 p.m. dispatchers received a call from a victim regarding a physical disturbance between her and a 19-year old suspect. Deputies arrived on the scene and during this incident...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WATCH FROM LATE MONDAY NIGHT THROUGH WEDNESDAY EVENING]]></title>
+        <id>https://kqennewsradio.com/?p=114454</id>
+        <link href="https://kqennewsradio.com/2024/01/07/winter-storm-watch-from-late-monday-night-through-wednesday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-watch-from-late-monday-night-through-wednesday-evening"/>
+        <updated>2024-01-07T21:24:10.000Z</updated>
+        <summary type="html"><![CDATA[January 7, 2024 1:20 p.m.  A Winter Storm Watch is in effect from late Monday night through Wednesday evening for higher elevations in the region. Forecasters at the National Weather Service said heavy snow is expected. Total snow accumulations up to 25 inches are possible. Winds could gust as high as 50 miles per hour....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lawmakers to hold campaign kick-off event]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/9674c71c-ab2f-11ee-accd-97d8b39d6e23</id>
@@ -674,19 +704,6 @@
         <summary type="html"><![CDATA[January 4, 2024 3:00 a.m. The Local Government Grant Program has $30 million in grant funds available to help local government agencies in Oregon fund everything from playground equipment and restrooms to splashguards and bike paths. A release from the Oregon Parks and Recreation Department said this is more than double the funds available last...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public Meeting Notice: Dog Control Board]]></title>
-        <id>https://www.flashalert.net/news.html?id=5204#news169019</id>
-        <link href="https://www.flashalert.net/news.html?id=5204#news169019"/>
-        <updated>2024-01-04T11:01:22.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG, Ore. - The Douglas County Dog Control Board will hold a meeting on Wednesday, January 10, 2024, at 6:00 p.m. at the Douglas County Courthouse, Room 216, located at 1036 SE Douglas Avenue, Roseburg, Oregon 97470.
-The agenda meeting agenda can be located at: www.dcso.com/dogboard 
-In compliance with ORS 192.610 to 192.690, we will accommodate any member of the public who wishes to watch the meeting. To view the live stream or post meeting recording, please visit: https://video.ibm.com/channel/douglascountyoregon.
-Please contact the Sheriff's Office located in Room 210 of the Justice Building at the Douglas County Courthouse, 1036 SE Douglas Ave. Roseburg, OR 97470 541- 440-4449, if you need an accommodation.]]></summary>
-        <author>
-            <name>Douglas Co. Sheriff's Office</name>
         </author>
     </entry>
 </feed>
