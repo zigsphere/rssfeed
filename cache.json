@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114506",
+          "author": "Kyle Bailey",
+          "description": "January 8, 2023 1:45 p.m. A Winter Weather Advisory is in effect from 10:00 p.m. Tuesday through 9:00 a.m. Wednesday for portions of the region. Forecasters at the National Weather Service said snow is expected with 1 to 3 inches possible and local amounts up to 5 inches. The Advisory area includes central Douglas County,...",
+          "link": "https://kqennewsradio.com/2024/01/08/winter-weather-advisory-starting-tuesday-night/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-starting-tuesday-night",
+          "publishedOn": "2024-01-08T21:46:51.000Z",
+          "wordCount": 1523,
+          "title": "WINTER WEATHER ADVISORY STARTING TUESDAY NIGHT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240108204620/monpm-4.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114502",
+          "author": "Kyle Bailey",
+          "description": "City of Winston Assistant City Manager Thomas McIntosh takes a beginning of the year look at things happening with city government: IDC 1 8 24",
+          "link": "https://kqennewsradio.com/2024/01/08/inside-douglas-county-1-8-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-8-24",
+          "publishedOn": "2024-01-08T21:07:48.000Z",
+          "wordCount": 1487,
+          "title": "INSIDE DOUGLAS COUNTY 1.8.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240108200446/IDC-1-8-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240108200731/IMG_3892.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114498",
           "author": "Kyle Bailey",
           "description": "January 8, 2024 10:40 a.m.  Booth applications are available for vendors interested in the annual Plant & Garden Expo, organized by the Douglas County Master Gardeners of the Oregon State University Extension Service. An Extension release said there is a 20 percent early-bird discount for vendors reserving a booth by February 15th. The expo will...",
@@ -374,16 +399,6 @@
           "wordCount": 1501,
           "title": "CONGRESSIONAL CANDIDATE TO HAVE LOCAL MEET AND GREET",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240104160452/meet.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114389",
-          "author": "Kyle Bailey",
-          "description": "January 5, 2024 2:50 a.m. On Thursday, U.S. Senators Ron Wyden and Jeff Merkley announced that the U.S. Department of Commerce is awarding $72 million in direct funding to Microchip for its Gresham expansion, as part of the CHIPS and Science Act passed by Congress in 2022. Wyden said, “Oregon is the beating heart of...",
-          "link": "https://kqennewsradio.com/2024/01/05/senators-announce-72-million-federal-investment-expansion-at-gresham-plant/?utm_source=rss&utm_medium=rss&utm_campaign=senators-announce-72-million-federal-investment-expansion-at-gresham-plant",
-          "publishedOn": "2024-01-05T11:03:26.000Z",
-          "wordCount": 1666,
-          "title": "SENATORS ANNOUNCE $72 MILLION FEDERAL INVESTMENT/EXPANSION  AT GRESHAM PLANT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
