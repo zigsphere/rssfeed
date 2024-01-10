@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114631",
+          "author": "Kyle Bailey",
+          "description": "January 10, 2024 1:50 p.m.   The High Cascade passes near Diamond Lake and Crater Lake have reopened as of early Wednesday afternoon after being closed since early in the day. An update from the Oregon Department of Transportation said this includes OR 62 from Union Creek to Crater Lake National Park west boundary, OR 230...",
+          "link": "https://kqennewsradio.com/2024/01/10/high-cascade-passes-have-reopened-as-of-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=high-cascade-passes-have-reopened-as-of-wednesday-afternoon",
+          "publishedOn": "2024-01-10T21:57:36.000Z",
+          "wordCount": 1532,
+          "title": "HIGH CASCADE PASSES HAVE REOPENED AS OF WEDNESDAY AFTERNOON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202052/ODOT-3-e1677275762522.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114627",
+          "author": "Kyle Bailey",
+          "description": "South Umpqua School District Interim Superintendent Paul Hilyer provides an overall update on things happening in the district. Click here to download for later listening:  IDC 1 10 24",
+          "link": "https://kqennewsradio.com/2024/01/10/inside-douglas-county-1-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-10-24",
+          "publishedOn": "2024-01-10T21:35:56.000Z",
+          "wordCount": 1490,
+          "title": "INSIDE DOUGLAS COUNTY 1.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240110203124/IDC-1-10-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240110203533/IMG_3900.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114624",
           "author": "Kyle Bailey",
           "description": "January 10, 2024 11:00 a.m.  Crews with the Douglas Electric Cooperative restored power to nearly 1,100 meters by mid-morning Wednesday. The outage, which lasted for several hours, mainly impacted customers in the Scottsburg and Elkton areas when a transmission line failed. To check for outages in the Douglas Electric service area, go to: https://www.dec.coop/",
@@ -787,36 +812,6 @@
           "wordCount": 13199,
           "title": "Reedsport City Council seeks to fill vacant council seat",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ab915c34-a9a2-11ee-8e81-3fa5f12b86cb",
-          "author": "Scott Carroll The News-Review",
-          "description": "RIDDLE — Umpqua Valley Habitat for Humanity, which helps individuals and families build and then own their own homes, has been awarded more than $1 million in state funding to help create a neighborhood of houses in Riddle.",
-          "link": "https://www.nrtoday.com/news/local/habitat-for-humanity-gets-1-million-grant-to-build-homes-in-riddle/article_ab915c34-a9a2-11ee-8e81-3fa5f12b86cb.html",
-          "publishedOn": "2024-01-07T07:45:00.000Z",
-          "wordCount": 14114,
-          "title": "Habitat for Humanity gets $1 million grant to build homes in Riddle",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/3a/53acf4a6-acd1-11ee-8278-97e60e0f8dd1/6247750251bde.image.jpg?resize=300%2C200",
-            "length": "706076",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/3a/53acf4a6-acd1-11ee-8278-97e60e0f8dd1/6247750251bde.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8751af46-acdf-11ee-90db-9fd7637f97d1",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "The sound of rope as it whips through the air to launch a small duct tape projectile across Mark Lindsay’s backyard is one of the many reasons why Lindsay has a passion for building medieval siege weapons.",
-          "link": "https://www.nrtoday.com/life/a-blast-from-the-past-trebuchet-training-in-roseburg/article_8751af46-acdf-11ee-90db-9fd7637f97d1.html",
-          "publishedOn": "2024-01-07T07:30:00.000Z",
-          "wordCount": 14321,
-          "title": "A blast from the past: trebuchet training in Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/94/194efa32-ace2-11ee-88a7-bf135e86b79f/6599d2ae38b4c.image.jpg?resize=300%2C200",
-            "length": "515150",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/94/194efa32-ace2-11ee-88a7-bf135e86b79f/6599d2ae38b4c.image.jpg?resize=300%2C200"
         }
       ]
     },
