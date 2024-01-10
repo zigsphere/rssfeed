@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-10T13:12:43.892Z</updated>
+    <updated>2024-01-10T16:13:11.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plant & Garden Expo accepting vendor application]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/49e13a00-ae3d-11ee-a569-6fc14e9fcece</id>
+        <link href="https://www.nrtoday.com/news/education/plant-garden-expo-accepting-vendor-application/article_49e13a00-ae3d-11ee-a569-6fc14e9fcece.html"/>
+        <updated>2024-01-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Vendors can receive a 20% discount if they apply for a booth at the Plant & Garden Expo by Feb. 15.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCHOOL DELAYS FOR WEDNESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=114603</id>
+        <link href="https://kqennewsradio.com/2024/01/10/school-delays-for-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=school-delays-for-wednesday"/>
+        <updated>2024-01-10T14:29:17.000Z</updated>
+        <summary type="html"><![CDATA[January 10, 2024 6:25 a.m. School delays/closures for Wednesday: The Elkton School District is closed for the day due to the power outage in the Elkton area. Glendale School District is on a 2-hour delay due to ice and increased snowfall.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WARNING THROUGH 4:00 P.M. WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=114595</id>
