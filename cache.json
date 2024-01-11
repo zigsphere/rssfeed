@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114636",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters has an encore Lawn and Garden Show from January 11, 2023:  Click here to download for later listening:  MWLGS 1 11 23",
+          "link": "https://kqennewsradio.com/2024/01/10/mike-winters-lawn-and-garden-show-1-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-1-10-24",
+          "publishedOn": "2024-01-11T00:48:37.000Z",
+          "wordCount": 1499,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 1.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240110234658/MWLGS-1-11-23--1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114633",
+          "author": "Kyle Bailey",
+          "description": "January 10, 2024 3:30 p.m.  A Winter Weather Advisory is in effect through 4:00 a.m. Thursday above 2,500 feet. Forecasters at the National Weather Service said snow is expected above 2,500 feet, with additional snow accumulations of 2 to 4 inches. The Advisory area is for the foothills of the Cascades, Siskiyous and the high...",
+          "link": "https://kqennewsradio.com/2024/01/10/winter-weather-advisory-through-400-a-m-thursday-above-2500-feet/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-through-400-a-m-thursday-above-2500-feet",
+          "publishedOn": "2024-01-10T23:37:41.000Z",
+          "wordCount": 1570,
+          "title": "WINTER WEATHER ADVISORY THROUGH 4:00 A.M. THURSDAY ABOVE 2,500 FEET",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240110223729/wedpm-6.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114631",
           "author": "Kyle Bailey",
           "description": "January 10, 2024 1:50 p.m.   The High Cascade passes near Diamond Lake and Crater Lake have reopened as of early Wednesday afternoon after being closed since early in the day. An update from the Oregon Department of Transportation said this includes OR 62 from Union Creek to Crater Lake National Park west boundary, OR 230...",
