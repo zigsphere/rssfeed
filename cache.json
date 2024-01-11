@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114681",
+          "author": "Kyle Bailey",
+          "description": "Winston-Dillard School District Superintendent Kimberly Kellison provides a mid-school year update on things happening in the district: Click here to download for later listening: IDC 1 11 24",
+          "link": "https://kqennewsradio.com/2024/01/11/inside-douglas-county-1-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-11-24",
+          "publishedOn": "2024-01-11T21:06:39.000Z",
+          "wordCount": 1493,
+          "title": "INSIDE DOUGLAS COUNTY 1.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240111200401/IDC-1-11-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240111200630/Headshot-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114679",
           "author": "Kyle Bailey",
           "description": "January 11, 2024  10:45 a.m.   Roseburg Police jailed a man for three warrants on Wednesday night. An RPD report said at 10:30 p.m. the 57-year old was contacted at his residence in the 900 block of Veteran’s Way on the Roseburg VA campus. He had Roseburg Police warrants – two for DUII and one for...",
@@ -749,16 +764,6 @@
           "wordCount": 1677,
           "title": "COMMISSIONER FREEMAN APPOINTED AS AOC’S WIR REPRESENTATIVE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230818093216/2023_FreemanTim_DouglasCountyCommissioner-CC.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114467",
-          "author": "Kyle Bailey",
-          "description": "January 8, 2024 2:50 a.m.  Roseburg Disposal’s Christmas Tree Recycling program concludes Monday. Trees are being collected for free and will be disposed of at the Douglas County Landfill. Trees can be taken to: *Legion Field on Northwest Stewart Parkway *On Northwest Kline Street in front of Hucrest Elementary School *Corner of Northwest Calkins Road...",
-          "link": "https://kqennewsradio.com/2024/01/08/christmas-tree-recycling-concludes/?utm_source=rss&utm_medium=rss&utm_campaign=christmas-tree-recycling-concludes",
-          "publishedOn": "2024-01-08T11:01:33.000Z",
-          "wordCount": 1559,
-          "title": "CHRISTMAS TREE RECYCLING CONCLUDES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240108100229/IMG_3862.jpg"
         }
       ]
     },
@@ -773,6 +778,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9f69023a-b0bf-11ee-8161-97ec59d268d1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Modern Traditions Wedding Expo is coming to the Douglas County Fairgrounds 10 a.m. through 4 p.m. Saturday. The event will be in Douglas Hall at 2110 Frear Street in Roseburg, and is hosted by Ascend Events and Party Time Rentals.",
+          "link": "https://www.nrtoday.com/news/local/wedding-expo-saturday-in-roseburg/article_9f69023a-b0bf-11ee-8161-97ec59d268d1.html",
+          "publishedOn": "2024-01-11T20:25:00.000Z",
+          "wordCount": 13306,
+          "title": "Wedding expo Saturday in Roseburg",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/32f40000-b001-11ee-9298-172dd6c6fd23",
           "author": "GLORIA COLEMAN The News-Review",
@@ -1064,16 +1079,6 @@
           "publishedOn": "2024-01-09T10:01:12.000Z",
           "wordCount": 2559,
           "title": "Compliance Monitoring Program Committee meets Jan. 18",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=1072#news169081",
-          "author": null,
-          "description": "SALEM, Ore. — The Committee for Family Forestlands will meet virtually on Thursday, Jan. 11 from 9 a.m. to 1:30 p.m. To join virtually, please use the Zoom video conference information found on the agenda. \nThe committee’s agenda includes:\n\nForest Resources Division update\nSmall Forestland Owner Office update\nPrivate Forest Accord update\nBoard of Forestry update\nAdaptive Management Program Committee review\nAgenda topics and meeting schedule discussion\n\nThe meeting is open to the public to attend online via Zoom. Public comments will be accepted near the start of the meeting. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 24 hours before the meeting by emailing committee.of.family.forestlands@odf.oregon.gov.\nThe 13-member committee researches policies that affect family forests, natural resources and forestry benefits. Based on its findings, the committee recommends actions to the Oregon Board of Forestry and the State Forester. View more information on the CFF webpage.",
-          "link": "https://www.flashalert.net/news.html?id=1072#news169081",
-          "publishedOn": "2024-01-08T08:40:18.000Z",
-          "wordCount": 2432,
-          "title": "Committee for Family Forestlands meets Jan. 11",
           "imageUrl": null
         }
       ]
