@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114659",
+          "author": "Kyle Bailey",
+          "description": "January 11, 2024 5:30 a.m.  Due to issues caused by the wintery weather: *The Glendale School District is on a 2-hour delay Thursday. Buses will operate on snow routes. Listen to News Radio 93-9 FM and 1240 KQEN and check www.541radio.com for updates.",
+          "link": "https://kqennewsradio.com/2024/01/11/delays-closures-due-to-weather/?utm_source=rss&utm_medium=rss&utm_campaign=delays-closures-due-to-weather",
+          "publishedOn": "2024-01-11T13:37:18.000Z",
+          "wordCount": 1450,
+          "title": "DELAYS/CLOSURES DUE TO WEATHER",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202052/ODOT-3-e1677275762522.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114653",
           "author": "Kyle Bailey",
           "description": "January 11, 2024 4:10 a.m.  A Winter Weather Advisory is in effect through 10:00 p.m. Thursday while a Winter Storm Warning is in effect from 10:00 p.m. Thursday through 10:00 p.m. Friday for mountain areas in southern Oregon. Forecasters at the National Weather Service said snow and blowing snow is expected. The Advisory and the...",
@@ -689,6 +699,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/86ed356e-b092-11ee-a07c-8bfb08ad601f",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — Fire crews from Winston Dillard Fire District No. 5 responded to a small living room fire around 7:30 p.m. Wednesday in the 200 block of Southeast Michael Lane in Winston.",
+          "link": "https://www.nrtoday.com/news/local/fire-in-winston-living-room-contained-extinguished/article_86ed356e-b092-11ee-a07c-8bfb08ad601f.html",
+          "publishedOn": "2024-01-11T15:03:00.000Z",
+          "wordCount": 13209,
+          "title": "Fire in Winston living room contained, extinguished",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6868f0be-af35-11ee-b4a5-2b88ee9e7f34",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Some of the libraries in Douglas County hosted Oregon Rocks! during the summer of 2023, and are looking forward to host the new summer program offered in 2024.",
@@ -884,7 +904,23 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news169171",
+          "author": null,
+          "description": "See attached",
+          "link": "https://www.flashalert.net/news.html?id=6158#news169171",
+          "publishedOn": "2024-01-11T06:53:50.000Z",
+          "wordCount": 765,
+          "title": "Structure Fire - Winston Dillard Fire District No. 5",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-01/6158/169171/268_SE_Michael_Fire.doc",
+            "length": "93696",
+            "type": "application/msword"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",

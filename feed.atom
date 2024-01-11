@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-11T13:12:50.765Z</updated>
+    <updated>2024-01-11T16:13:08.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fire in Winston living room contained, extinguished]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/86ed356e-b092-11ee-a07c-8bfb08ad601f</id>
+        <link href="https://www.nrtoday.com/news/local/fire-in-winston-living-room-contained-extinguished/article_86ed356e-b092-11ee-a07c-8bfb08ad601f.html"/>
+        <updated>2024-01-11T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — Fire crews from Winston Dillard Fire District No. 5 responded to a small living room fire around 7:30 p.m. Wednesday in the 200 block of Southeast Michael Lane in Winston.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DELAYS/CLOSURES DUE TO WEATHER]]></title>
+        <id>https://kqennewsradio.com/?p=114659</id>
+        <link href="https://kqennewsradio.com/2024/01/11/delays-closures-due-to-weather/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=delays-closures-due-to-weather"/>
+        <updated>2024-01-11T13:37:18.000Z</updated>
+        <summary type="html"><![CDATA[January 11, 2024 5:30 a.m.  Due to issues caused by the wintery weather: *The Glendale School District is on a 2-hour delay Thursday. Buses will operate on snow routes. Listen to News Radio 93-9 FM and 1240 KQEN and check www.541radio.com for updates.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY/WINTER STORM WARNING FOR MOUNTAIN AREAS]]></title>
         <id>https://kqennewsradio.com/?p=114653</id>
@@ -64,6 +84,16 @@
         <summary type="html"><![CDATA[January 11, 2024, 2:50 a.m. On Wednesday, Senators Ron Wyden and Jeff Merkley announced more than $1 million in federal grants from the U.S. Department of Agriculture’s National Institute of Food and Agriculture for Oregon State University. Wyden said, “In meetings throughout the state with Oregon’s agricultural sector, I’m always asking how I can support...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structure Fire - Winston Dillard Fire District No. 5]]></title>
+        <id>https://www.flashalert.net/news.html?id=6158#news169171</id>
+        <link href="https://www.flashalert.net/news.html?id=6158#news169171"/>
+        <updated>2024-01-11T06:53:50.000Z</updated>
+        <summary type="html"><![CDATA[See attached]]></summary>
+        <author>
+            <name>Douglas Co. Fire Dist. No.2</name>
         </author>
     </entry>
     <entry>
