@@ -724,46 +724,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114478",
-          "author": "Kyle Bailey",
-          "description": "January 8, 2024 3:45 a.m.  A Winter Storm Warning remains in effect from 1:00 a.m. Tuesday through 4:00 p.m. Wednesday for higher elevations in parts of the region. Forecasters said heavy snow and blowing snow is expected above 2,000 feet. Total snow accumulations of up to 12 inches, with up to 24 inches possible over...",
-          "link": "https://kqennewsradio.com/2024/01/08/winter-storm-warning-early-tuesday-through-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-early-tuesday-through-wednesday-afternoon",
-          "publishedOn": "2024-01-08T11:45:20.000Z",
-          "wordCount": 1634,
-          "title": "WINTER STORM WARNING EARLY TUESDAY THROUGH WEDNESDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240108104449/mon-12.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114476",
-          "author": "Kyle Bailey",
-          "description": "January 8, 2024 3:30 a,m. The Roseburg City Council will have its first meeting of 2024 on Monday night. Commission chair appointments and commission appointments will be made. The council president will be elected for the new year. Roseburg Public Library Director Kris Wiley will have a special presentation, reviewing the library, which celebrated its...",
-          "link": "https://kqennewsradio.com/2024/01/08/roseburg-city-council-to-have-first-meeting-of-2024/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-city-council-to-have-first-meeting-of-2024",
-          "publishedOn": "2024-01-08T11:23:26.000Z",
-          "wordCount": 1577,
-          "title": "ROSEBURG CITY COUNCIL TO HAVE FIRST MEETING OF 2024",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221145/Council-Chambers-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114473",
-          "author": "Kyle Bailey",
-          "description": "January 8, 2024 3:20 a.m.  Covering coastal Douglas County: The City of Reedsport is accepting applications to fill a vacant city council position. The appointee’s term of office will begin at time of appointment and expire at the end of 2024. At the general election in November 2024, the position will be open for election...",
-          "link": "https://kqennewsradio.com/2024/01/08/city-of-reedsport-with-city-council-vacancy/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-reedsport-with-city-council-vacancy",
-          "publishedOn": "2024-01-08T11:14:53.000Z",
-          "wordCount": 1536,
-          "title": "CITY OF REEDSPORT WITH CITY COUNCIL VACANCY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215630/Reedsport-100_logo_final-e1622630076251.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114471",
-          "author": "Kyle Bailey",
-          "description": "January 8, 2024 3:10 a.m. Douglas County Commissioner Tim Freeman has recently been appointed by the Association of Oregon Counties as the Western Interstate Region Representative. A County release said the seat is placed by presidential appointment. This seat is also an AOC Board of Director seat, as part of AOC’s Legislative Committee. According to...",
-          "link": "https://kqennewsradio.com/2024/01/08/commissioner-freeman-appointed-as-aocs-wir-representative/?utm_source=rss&utm_medium=rss&utm_campaign=commissioner-freeman-appointed-as-aocs-wir-representative",
-          "publishedOn": "2024-01-08T11:12:06.000Z",
-          "wordCount": 1677,
-          "title": "COMMISSIONER FREEMAN APPOINTED AS AOC’S WIR REPRESENTATIVE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230818093216/2023_FreemanTim_DouglasCountyCommissioner-CC.jpg"
         }
       ]
     },
@@ -1071,6 +1031,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news169198",
+          "author": null,
+          "description": "SALEM, Ore. — The Forestry Program for Oregon Subcommittee will meet virtually on Wednesday, Jan. 17 from 7:30 to 9:30 a.m. To join virtually, please use the Zoom video conference information found on the agenda. \nThe subcommittee’s agenda includes:\n\nVision for Oregon’s Forests (“FPFO”) content\nMigrating Vision to ODF Strategic Plan for Governor\nOregon Kitchen Table outreach follow up\nNext steps and convening of the subcommittee\n\nAccommodations for people with disabilities, and special materials, services, or assistance can be arranged by calling ODF’s Public Affairs Office at least 72 hours in advance of the meeting at 503-945-7200 or by email at forestryinformation@odf.oregon.gov.\nSubcommittee purpose: Collaborative work forum for board and agency leadership to advance efforts to jointly develop a modern Forestry Program for Oregon (FPFO). Read more information about the subcommittee.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news169198",
+          "publishedOn": "2024-01-11T16:50:54.000Z",
+          "wordCount": 2262,
+          "title": "Forestry Program for Oregon Subcommittee meets Jan. 17",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news169118",
           "author": null,
