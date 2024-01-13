@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-13T13:10:31.981Z</updated>
+    <updated>2024-01-13T16:11:27.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INTERSTATE 5 NORTHBOUND HAS REOPENED NORTH OF EUGENE]]></title>
+        <id>https://kqennewsradio.com/?p=114756</id>
+        <link href="https://kqennewsradio.com/2024/01/13/interstate-5-northbound-has-reopened-north-of-eugene/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=interstate-5-northbound-has-reopened-north-of-eugene"/>
+        <updated>2024-01-13T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[January 13, 2024 7:55 a.m.  As of 7:45 a.m. Saturday, Interstate 5 northbound has reopened about 12 miles north of Eugene following a commercial vehicle crash. Information from the Oregon Department of Transportation said the Willamette Valley is seeing freezing rain and ice on the roads. Multiple crashes have taken place between Eugene and Albany....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WARNING IN EFFECT THROUGH SATURDAY NIGHT]]></title>
+        <id>https://kqennewsradio.com/?p=114753</id>
+        <link href="https://kqennewsradio.com/2024/01/13/winter-storm-warning-in-effect-through-saturday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-in-effect-through-saturday-night"/>
+        <updated>2024-01-13T14:16:20.000Z</updated>
+        <summary type="html"><![CDATA[January 13, 2024 6:15 a.m.  A Winter Storm Warning remains in effect until Saturday night at 10:00 p.m. for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy mixed precipitation with snow as well as periods of sleet and a rain-snow mix are expected. Additional snow accumulations of up...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH 10:00 P.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=114750</id>
+        <link href="https://kqennewsradio.com/2024/01/13/winter-weather-advisory-through-1000-p-m-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-through-1000-p-m-saturday"/>
+        <updated>2024-01-13T14:04:20.000Z</updated>
+        <summary type="html"><![CDATA[January 13, 2024  6:00 a.m.  A Winter Weather Advisory remains in effect through 10:00 p.m. Saturday for parts of Douglas County and the south-central Oregon coast. Forecasters at the National Weather Service said periods of freezing rain are expected. Ice accumulations of 0.01 to 0.10 inches with a potential for higher ice accumulations near the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERSTATE 5 NORTHBOUND CLOSED NORTH OF EUGENE]]></title>
+        <id>https://kqennewsradio.com/?p=114748</id>
+        <link href="https://kqennewsradio.com/2024/01/13/interstate-5-northbound-closed-north-of-eugene/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=interstate-5-northbound-closed-north-of-eugene"/>
+        <updated>2024-01-13T13:51:06.000Z</updated>
+        <summary type="html"><![CDATA[January 13, 2024 5:45 a.m.  The Oregon Department of Transportation reports that Interstate 5 northbound is closed about 12 miles north of Eugene as of 4:00 a.m. This is due to a commercial motor vehicle crash. ODOT says it may take several hours to reopen the highway due to slippery road conditions across the region....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRATER LAKE NATIONAL PARK CLOSED DUE TO STORMY CONDITIONS]]></title>
         <id>https://kqennewsradio.com/?p=114745</id>
@@ -740,16 +780,6 @@ Subcommittee purpose: Collaborative work forum for board and agency leadership t
         <summary type="html"><![CDATA[January 10, 2024 3:00 a.m. OSU Master Gardeners Douglas County has their Master Gardeners Pavilion Series classes getting underway. Free classes for home gardeners will be offered the third Thursday of the month. The series begins on February 15th and will cover starting peppers from seed. Expert Master Garden Bruce Gravens will lead the class....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLM carries out hazard tree removal]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2dd72928-af1e-11ee-8811-071a8365e6f3</id>
-        <link href="https://www.nrtoday.com/briefs/blm-carries-out-hazard-tree-removal/article_2dd72928-af1e-11ee-8811-071a8365e6f3.html"/>
-        <updated>2024-01-10T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Bureau of Land Management Roseburg District has received a report of trees falling near members of the public along the Susan Creek Falls trail.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
