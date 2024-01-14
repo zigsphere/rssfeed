@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114769",
+          "author": "Kyle Bailey",
+          "description": "January 14, 2024 12:30 p.m.  Highway 138E reopened between the Diamond Lake Junction (OR-230) and U.S. Highway 97 as of 12:00 p.m. Sunday. Information from the Oregon Department of Transportation said driver should be prepared for delays and chain restrictions. OR-230 remains closed between Diamond Lake Junction and Union Creek due to downed trees and...",
+          "link": "https://kqennewsradio.com/2024/01/14/highway-138e-reopens-between-diamond-lake-junction-and-u-s-highway-97/?utm_source=rss&utm_medium=rss&utm_campaign=highway-138e-reopens-between-diamond-lake-junction-and-u-s-highway-97",
+          "publishedOn": "2024-01-14T20:36:11.000Z",
+          "wordCount": 1530,
+          "title": "HIGHWAY 138E REOPENS BETWEEN DIAMOND LAKE JUNCTION AND U.S. HIGHWAY 97",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202052/ODOT-3-e1677275762522.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114767",
           "author": "Kyle Bailey",
           "description": "January 14, 2024 6:30 a.m. Highway 138E is closed at milepost 17 in Glide due to flooding and debris on the highway at Honey Creek as of 6:30 a.m. Sunday. The Oregon Department of Transportation said drivers should use an alternate route or delay travel. Check for road conditions at www.tripcheck.com",
@@ -449,26 +459,6 @@
           "wordCount": 1609,
           "title": "MELROSE ROAD TO CLOSE AT THE SOUTH UMPQUA RIVER STARTING MONDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727205900/conn-ford-melrose-bridge-road-surface_51885043202_o-e1659030653211.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114641",
-          "author": "Kyle Bailey",
-          "description": "January 11, 2024 3:00 a.m.   A trooper with Oregon State Police responded when a van struck a commercial motor vehicle on Interstate 5 north of Roberts Mountain on Tuesday. An OSP report said at approximately 11:10 a.m. the van was northbound in the middle lane of travel near the Highway 42 exit when a vehicle...",
-          "link": "https://kqennewsradio.com/2024/01/11/van-rear-ends-commercial-motor-vehicle/?utm_source=rss&utm_medium=rss&utm_campaign=van-rear-ends-commercial-motor-vehicle",
-          "publishedOn": "2024-01-11T11:07:27.000Z",
-          "wordCount": 1527,
-          "title": "VAN REAR ENDS COMMERCIAL MOTOR VEHICLE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114639",
-          "author": "Kyle Bailey",
-          "description": "January 11, 2024, 2:50 a.m. On Wednesday, Senators Ron Wyden and Jeff Merkley announced more than $1 million in federal grants from the U.S. Department of Agriculture’s National Institute of Food and Agriculture for Oregon State University. Wyden said, “In meetings throughout the state with Oregon’s agricultural sector, I’m always asking how I can support...",
-          "link": "https://kqennewsradio.com/2024/01/11/senators-announce-1-million-for-osu-support-for-multicultural-students/?utm_source=rss&utm_medium=rss&utm_campaign=senators-announce-1-million-for-osu-support-for-multicultural-students",
-          "publishedOn": "2024-01-11T11:03:25.000Z",
-          "wordCount": 1671,
-          "title": "SENATORS ANNOUNCE $1 MILLION FOR OSU-SUPPORT FOR MULTICULTURAL STUDENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
         }
       ]
     },
@@ -699,7 +689,23 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news169171",
+          "author": null,
+          "description": "See attached",
+          "link": "https://www.flashalert.net/news.html?id=6158#news169171",
+          "publishedOn": "2024-01-11T14:53:50.000Z",
+          "wordCount": 293,
+          "title": "Structure Fire - Winston Dillard Fire District No. 5",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-01/6158/169171/268_SE_Michael_Fire.doc",
+            "length": "93696",
+            "type": "application/msword"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
