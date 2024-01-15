@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114813",
+          "author": "Kyle Bailey",
+          "description": "January 15, 2024 1:30 p.m.  A Winter Weather Advisory is in effect from 10:00 p.m. Tuesday through Wednesday evening at 8:00 p.m. for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said 6 to 8 inches of snow is expected with moderate chances of 8 to 12 inches at higher...",
+          "link": "https://kqennewsradio.com/2024/01/15/winter-weather-advisory-tuesday-night-through-wednesday-evening/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-tuesday-night-through-wednesday-evening",
+          "publishedOn": "2024-01-15T21:38:14.000Z",
+          "wordCount": 1577,
+          "title": "WINTER WEATHER ADVISORY TUESDAY NIGHT THROUGH WEDNESDAY EVENING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240115203758/snowt.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114809",
+          "author": "Kyle Bailey",
+          "description": "Oregon State University Extension Agent Logan Bennett and Adrian Aramburu, president of the Umpqua Valley Beekeepers Association talk about a number of upcoming classes and events. Click here to download for later listening: IDC 1 15 2024",
+          "link": "https://kqennewsradio.com/2024/01/15/inside-douglas-county-1-15-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-15-24",
+          "publishedOn": "2024-01-15T21:17:11.000Z",
+          "wordCount": 1498,
+          "title": "INSIDE DOUGLAS COUNTY 1.15.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240115201217/IDC-1-15-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240115201634/IMG_3908.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114805",
+          "author": "Kyle Bailey",
+          "description": "January 15, 2024 11:20 a.m.   Crews continue to work around the clock to keep the highways open and reopen those closed by ice and downed trees and power lines across Oregon. A release from the Oregon Department of Transportation said with unusually cold temperatures and another round of freezing expected Tuesday, travel will continue to...",
+          "link": "https://kqennewsradio.com/2024/01/15/oregon-roads-still-challenging-for-drivers/?utm_source=rss&utm_medium=rss&utm_campaign=oregon-roads-still-challenging-for-drivers",
+          "publishedOn": "2024-01-15T19:26:44.000Z",
+          "wordCount": 1595,
+          "title": "OREGON ROADS STILL CHALLENGING FOR DRIVERS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240115182637/challenge.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114803",
           "author": "Kyle Bailey",
           "description": "January 15, 2024 11:00 a.m.   Last week housing vice-chairs Senator Dick Anderson of Lincoln City and Representative Vikki Breese-Iverson of Prineville released a memo outlining 6 short-term policy recommendations to boost housing production following the Housing Production Advisory Council’s preliminary set of 59 long-term policy recommendations. Anderson said, “Every member regardless of party understands that...",
@@ -424,16 +459,6 @@
           "wordCount": 1569,
           "title": "CONGRESSIONAL CANDIDATE HOLDING ROSEBURG MEET & GREET",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240104160452/meet.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114687",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 2:50 a.m. The Oregon State University Extension Service and the Umpqua Valley Beekeepers Association will have a Beekeeping 101 workshop on Saturday, February 10th. The workshop will take place in the OSU Extension office auditorium from 10:00 a.m. to 1:00 p.m. It is for those who already keep bees and those who...",
-          "link": "https://kqennewsradio.com/2024/01/12/workshop-offered-for-bee-keepers/?utm_source=rss&utm_medium=rss&utm_campaign=workshop-offered-for-bee-keepers",
-          "publishedOn": "2024-01-12T10:58:48.000Z",
-          "wordCount": 1527,
-          "title": "WORKSHOP OFFERED FOR BEE KEEPERS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },
@@ -448,6 +473,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6669fdee-b3b8-11ee-9acc-b7373d8c0c95",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg Police Department jailed two people following an alleged trespass incident Thursday.",
+          "link": "https://www.nrtoday.com/news/crime/pair-arrested-for-alleged-trespassing/article_6669fdee-b3b8-11ee-9acc-b7373d8c0c95.html",
+          "publishedOn": "2024-01-15T15:11:00.000Z",
+          "wordCount": 13210,
+          "title": "Pair arrested for alleged trespassing",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1d43ea44-b3b8-11ee-b880-bf507fdac287",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Douglas Timber Operators will have their monthly breakfast event at 8 a.m. Jan. 25.",
+          "link": "https://www.nrtoday.com/news/government/douglas-timber-operators-host-breakfast/article_1d43ea44-b3b8-11ee-b880-bf507fdac287.html",
+          "publishedOn": "2024-01-15T15:09:00.000Z",
+          "wordCount": 13135,
+          "title": "Douglas Timber Operators host breakfast",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc918292-b3b7-11ee-87b9-cbefe1c8da5d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Zonta Club of Roseburg has its Double Donation Drive underway through March 4th.",
+          "link": "https://www.nrtoday.com/news/local/double-donation-drive-underway-through-march-4/article_bc918292-b3b7-11ee-87b9-cbefe1c8da5d.html",
+          "publishedOn": "2024-01-15T15:07:00.000Z",
+          "wordCount": 13204,
+          "title": "Double donation drive underway through March 4",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ea67b51e-b250-11ee-b19e-7bb923dc8680",
           "author": "GLORIA COLEMAN The News-Review",
@@ -644,7 +699,38 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news169280",
+          "author": null,
+          "description": "WINSTON-DILLARD FIRE DISTRICT BOARD OF DIRECTORS MEETING NOTICE\nThe Board of Winston-Dillard Fire District No. 5 will hold its Regular Board meeting at Winston Dillard Fire District located at 250 SE Main St. Winston, OR 97496 on Monday January 15, 2024, at 5:30 p.m. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday January 15, 2024, for instructions. \nThe Board agenda to include but not limited to:                 \n\nMonthly Financials\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to DCFD #2 at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news169280",
+          "publishedOn": "2024-01-15T19:19:37.000Z",
+          "wordCount": 762,
+          "title": "Public Notice - Winston-Dillard Fire District No. 5 Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news169279",
+          "author": null,
+          "description": "CENTRAL DOUGLAS FIRE & RESCUE AUTHORITY REGULAR BOARD MEETING NOTICE\nThe Board of Directors of Central Douglas Fire & Rescue Authority will hold its Regular Board meeting at Winston Dillard Fire District located at 250 SE Main St. Winston, OR 97496 on Monday January 15, 2023, at 5:30 p.m. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday January 15, 2023, for instructions.\nThe Board agenda to include but not limited to:                 \n\nMonthly Financials\nChief’s Report\n\nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to administration at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news169279",
+          "publishedOn": "2024-01-15T19:18:14.000Z",
+          "wordCount": 762,
+          "title": "Public Notice - Central Douglas Fire & Rescue Authority Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news169278",
+          "author": null,
+          "description": "BOARD REGULAR MEETING NOTICE       \nThe Board of Directors of Douglas County Fire District No. 2 will hold its Regular Board meeting at Winston-Dillard Fire District located at 250 SE Main St. Winston, OR 97496 on Monday January 15, 2024, at 5:30 p.m. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday January 15, 2024, for instructions. \nThe Board agenda to include but not limited to:          \n\nMonthly Financials\nWithdrawal from MedCom IGA\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to DCFD #2 at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news169278",
+          "publishedOn": "2024-01-15T19:16:43.000Z",
+          "wordCount": 762,
+          "title": "Public Notice - Douglas County Fire District No. 2 Regular Board Meeting",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
