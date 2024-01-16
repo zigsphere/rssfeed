@@ -339,6 +339,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3409f9bc-b3db-11ee-be6f-fbbcc7118724",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The line to check in stretched out from under the pavilion roof as families, students, community members and a few dogs gathered Monday morning at Stewart Park in Roseburg.",
+          "link": "https://www.nrtoday.com/news/environment/volunteers-clean-up-river-community-parks-for-martin-luther-king-jr-day/article_3409f9bc-b3db-11ee-be6f-fbbcc7118724.html",
+          "publishedOn": "2024-01-16T15:45:00.000Z",
+          "wordCount": 14671,
+          "title": "Volunteers clean up river, community parks for Martin Luther King Jr. Day",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/6c/56c38f16-b3e2-11ee-8c19-97767426f3b9/65a5918f76bc3.image.jpg?resize=300%2C200",
+            "length": "448081",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/6c/56c38f16-b3e2-11ee-8c19-97767426f3b9/65a5918f76bc3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f4285bbe-b3ed-11ee-8955-b75c9993b08d",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Joshua Allen has been stuck at the Seven Feather's Truck and Travel Center due to hazardous winter weather conditions striking Oregon.",
+          "link": "https://www.nrtoday.com/news/local/oregon-deals-with-winter-storm-douglas-county-sees-less-rain/article_f4285bbe-b3ed-11ee-8955-b75c9993b08d.html",
+          "publishedOn": "2024-01-16T15:45:00.000Z",
+          "wordCount": 13934,
+          "title": "Oregon deals with winter storm, Douglas County sees less rain",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/20/7202f7b0-b411-11ee-b719-d71dbd6bb34c/65a5e0e25628d.image.jpg?resize=300%2C225",
+            "length": "283644",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/20/7202f7b0-b411-11ee-b719-d71dbd6bb34c/65a5e0e25628d.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c9701820-ab5b-11ee-a085-475f378e4acb",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Bob Miller told his wife he loved her on his way out the door, an out-of-character move, but his son Rick said, “Dad knew.” He knew the risk his workday posed, a day that would be later known as the…",
