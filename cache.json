@@ -409,56 +409,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240112161615/mary-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114701",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 3:50 a.m.  A Winter Storm Warning remains in effect through 10:00 p.m. Saturday for mountain areas in southern Oregon. Forecasters at the National Weather Service said heavy snow is expected with total snow accumulations of up to 3 feet. Winds gusting as high as 50 miles per hour over exposed terrain, with...",
-          "link": "https://kqennewsradio.com/2024/01/12/winter-storm-warning-through-1000-p-m-saturday-2/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-through-1000-p-m-saturday-2",
-          "publishedOn": "2024-01-12T11:56:09.000Z",
-          "wordCount": 1573,
-          "title": "WINTER STORM WARNING THROUGH 10:00 P.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240112105559/friam-9.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114698",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 3:40 a.m. Severe winter weather Friday and Saturday will sweep into lower elevations including Portland, the Willamette Valley and the coast, in addition to the mountain passes and Columbia River Gorge. Information from the Oregon Department of Transportation said snow and ice are not the only hazards brought by winter storms. Heavy...",
-          "link": "https://kqennewsradio.com/2024/01/12/severe-winter-weather-to-impact-travel-across-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=severe-winter-weather-to-impact-travel-across-oregon",
-          "publishedOn": "2024-01-12T11:40:56.000Z",
-          "wordCount": 1571,
-          "title": "SEVERE WINTER WEATHER TO IMPACT TRAVEL ACROSS OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240112104043/plow.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114693",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 3:30 a.m.  On Monday, Glide Revitalization opened Little Loggers Playschool in Glide. Glide Revitalization Program Director Kendall Melvin said the program is tailored to the working families of the Glide area. Kendall said that earlier drop off times and later pickups ensure commuting parents don’t have to stress. It is open weekdays...",
-          "link": "https://kqennewsradio.com/2024/01/12/glide-revitalization-opens-little-loggers-playschool/?utm_source=rss&utm_medium=rss&utm_campaign=glide-revitalization-opens-little-loggers-playschool",
-          "publishedOn": "2024-01-12T11:21:44.000Z",
-          "wordCount": 1616,
-          "title": "GLIDE REVITALIZATION OPENS LITTLE LOGGERS PLAYSCHOOL",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240112102038/log2-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114691",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 3:20 a.m. Oregon House Republicans introduced legislation Thursday to end Measure 110. A release from the Oregon House Republican Caucus said the bill takes bold action to end the measure as it is now known in order to restore accountability and provide pathways for treatment for addicts so they can become healthy,...",
-          "link": "https://kqennewsradio.com/2024/01/12/house-republicans-introduce-bill-to-end-measure-110/?utm_source=rss&utm_medium=rss&utm_campaign=house-republicans-introduce-bill-to-end-measure-110",
-          "publishedOn": "2024-01-12T11:16:44.000Z",
-          "wordCount": 1588,
-          "title": "HOUSE REPUBLICANS INTRODUCE BILL TO END MEASURE 110",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202311/Chris-Headshot-e1676049138587.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114689",
-          "author": "Kyle Bailey",
-          "description": "January 12, 2024 3:10 a.m. Republican candidate for Congress in the 4th District, Monique DeSpain will hold a meet & greet event in Roseburg on Saturday. DeSpain had 30 years of service in the United States Air Force, the Air Force Reserve, and the Oregon Air National Guard, retiring with a rank of Colonel. For...",
-          "link": "https://kqennewsradio.com/2024/01/12/congressional-candidate-holding-roseburg-meet-greet/?utm_source=rss&utm_medium=rss&utm_campaign=congressional-candidate-holding-roseburg-meet-greet",
-          "publishedOn": "2024-01-12T11:13:32.000Z",
-          "wordCount": 1569,
-          "title": "CONGRESSIONAL CANDIDATE HOLDING ROSEBURG MEET & GREET",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240104160452/meet.jpg"
         }
       ]
     },
@@ -473,6 +423,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c9701820-ab5b-11ee-a085-475f378e4acb",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Bob Miller told his wife he loved her on his way out the door, an out-of-character move, but his son Rick said, “Dad knew.” He knew the risk his workday posed, a day that would be later known as the…",
+          "link": "https://www.nrtoday.com/news/one-last-i-love-you-victims-children-recount-the-1974-canyonville-landslide/article_c9701820-ab5b-11ee-a085-475f378e4acb.html",
+          "publishedOn": "2024-01-16T00:30:00.000Z",
+          "wordCount": 14247,
+          "title": "One last 'I love you': Victim's children recount the 1974 Canyonville landslide",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/84/f8436990-ab5b-11ee-90ab-e78165af9d89/659744271126f.image.jpg?resize=300%2C200",
+            "length": "809479",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/84/f8436990-ab5b-11ee-90ab-e78165af9d89/659744271126f.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6669fdee-b3b8-11ee-9acc-b7373d8c0c95",
           "author": "Kyle Bailey For The News-Review",
