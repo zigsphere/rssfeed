@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-17T13:13:11.654Z</updated>
+    <updated>2024-01-17T16:12:54.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Woman accidentally accelerates, striking pedestrian]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a1023b20-b498-11ee-9913-a7bc3e8619dc</id>
+        <link href="https://www.nrtoday.com/news/local/woman-accidentally-accelerates-striking-pedestrian/article_a1023b20-b498-11ee-9913-a7bc3e8619dc.html"/>
+        <updated>2024-01-17T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A pedestrian was transported to CHI Mercy Medical Center around 2 p.m. Sunday when she was struck by a vehicle in the 700 block of Northwest Garden Valley Boulevard.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DELAY/CLOSURE LIST FOR WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=114894</id>
