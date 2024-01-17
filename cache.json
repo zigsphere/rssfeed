@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114870",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial: David Littlejohn and Matt Dickson have our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 1 16 2024",
+          "link": "https://kqennewsradio.com/2024/01/17/true-wealth-radio-1-16-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-1-16-24",
+          "publishedOn": "2024-01-17T01:19:29.000Z",
+          "wordCount": 1484,
+          "title": "TRUE WEALTH RADIO 1.16.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240117001754/TRUE-WEALTH-1-16-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114865",
           "author": "Kyle Bailey",
           "description": "A look at the State of the County with Douglas County Commissioner Tom Kress. Click here to download for later listening:  IDC 1 16 2023",
@@ -414,36 +429,6 @@
           "wordCount": 1495,
           "title": "INTERSTATE 5 NORTHBOUND HAS REOPENED NORTH OF EUGENE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202052/ODOT-3-e1677275762522.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114753",
-          "author": "Kyle Bailey",
-          "description": "January 13, 2024 6:15 a.m.  A Winter Storm Warning remains in effect until Saturday night at 10:00 p.m. for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy mixed precipitation with snow as well as periods of sleet and a rain-snow mix are expected. Additional snow accumulations of up...",
-          "link": "https://kqennewsradio.com/2024/01/13/winter-storm-warning-in-effect-through-saturday-night/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-in-effect-through-saturday-night",
-          "publishedOn": "2024-01-13T14:16:20.000Z",
-          "wordCount": 1563,
-          "title": "WINTER STORM WARNING IN EFFECT THROUGH SATURDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240113131608/satam2-2.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114750",
-          "author": "Kyle Bailey",
-          "description": "January 13, 2024  6:00 a.m.  A Winter Weather Advisory remains in effect through 10:00 p.m. Saturday for parts of Douglas County and the south-central Oregon coast. Forecasters at the National Weather Service said periods of freezing rain are expected. Ice accumulations of 0.01 to 0.10 inches with a potential for higher ice accumulations near the...",
-          "link": "https://kqennewsradio.com/2024/01/13/winter-weather-advisory-through-1000-p-m-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-through-1000-p-m-saturday",
-          "publishedOn": "2024-01-13T14:04:20.000Z",
-          "wordCount": 1578,
-          "title": "WINTER WEATHER ADVISORY THROUGH 10:00 P.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240113130406/satam2-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114748",
-          "author": "Kyle Bailey",
-          "description": "January 13, 2024 5:45 a.m.  The Oregon Department of Transportation reports that Interstate 5 northbound is closed about 12 miles north of Eugene as of 4:00 a.m. This is due to a commercial motor vehicle crash. ODOT says it may take several hours to reopen the highway due to slippery road conditions across the region....",
-          "link": "https://kqennewsradio.com/2024/01/13/interstate-5-northbound-closed-north-of-eugene/?utm_source=rss&utm_medium=rss&utm_campaign=interstate-5-northbound-closed-north-of-eugene",
-          "publishedOn": "2024-01-13T13:51:06.000Z",
-          "wordCount": 1494,
-          "title": "INTERSTATE 5 NORTHBOUND CLOSED NORTH OF EUGENE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202052/ODOT-3-e1677275762522.jpg"
         }
       ]
     },
@@ -458,6 +443,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed70ee58-b3f2-11ee-b62e-8f26096c7ea8",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "The third annual Family Wellness Wonderland event will be held Sunday, aiming to provide the community with an abundance of health and additional family-related resources.",
+          "link": "https://www.nrtoday.com/news/family-wellness-wonderland-brings-fun-and-local-resources-together-this-sunday/article_ed70ee58-b3f2-11ee-b62e-8f26096c7ea8.html",
+          "publishedOn": "2024-01-16T23:00:00.000Z",
+          "wordCount": 13718,
+          "title": "Family Wellness Wonderland brings fun and local resources together this Sunday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ea/deaadc3e-b4ac-11ee-94df-8b66b9f77e83/639e3698f3c45.image.jpg?resize=300%2C296",
+            "length": "396173",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ea/deaadc3e-b4ac-11ee-94df-8b66b9f77e83/639e3698f3c45.image.jpg?resize=300%2C296"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c850b2a2-b497-11ee-80a3-7f5309ebfcbf",
           "author": "SANNE GODFREY The News-Review",
