@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=114922",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Community College President Dr. Rachel Pokrandt gives a mid-school year update on all things UCC. Click here to download for later listening:  IDC 1 17 2024",
+          "link": "https://kqennewsradio.com/2024/01/17/inside-douglas-county-1-17-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-17-24",
+          "publishedOn": "2024-01-17T21:11:05.000Z",
+          "wordCount": 1490,
+          "title": "INSIDE DOUGLAS COUNTY 1.17.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240117200555/IDC-1-17-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240117200957/IMG_3917.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=114917",
+          "author": "Kyle Bailey",
+          "description": "January 17, 2024 1`11:00 a.m.   A Roseburg man was jailed after allegedly trying to get into vehicles in Winchester early Wednesday morning. A Douglas County Sheriff’s Office report said at 3:45 a.m. a resident received a notification on their ring camera and saw a suspect allegedly trying to get into his vehicles in the 100...",
+          "link": "https://kqennewsradio.com/2024/01/17/roseburg-man-jailed-for-unlawful-entry-into-a-motor-vehicle-charges/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-man-jailed-for-unlawful-entry-into-a-motor-vehicle-charges",
+          "publishedOn": "2024-01-17T19:07:59.000Z",
+          "wordCount": 1555,
+          "title": "ROSEBURG MAN JAILED FOR UNLAWFUL ENTRY INTO A MOTOR VEHICLE CHARGES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=114915",
           "author": "Kyle Bailey",
           "description": "January 17, 2024  10:50 a.m. A Myrtle Creek man was jailed for an alleged burglary by the Douglas County Sheriff’s Office on Monday. A DCSO report said shortly after 11:00 a.m. a deputy was in the area of the 100 block of T Marie Lane in Myrtle Creek when a witness said he had just...",
@@ -732,21 +757,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/bf/fbf5a056-b25b-11ee-bec2-5b17c681cf88/63c60f60a9b9b.image.jpg?resize=300%2C206"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2ff8782e-b24d-11ee-b47a-878d5c871905",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "The inside of Douglas Hall was decked in hues of cream and white — tulle, balloons, roses and more — for the Modern Traditions wedding expo Saturday at the Douglas County Fairgrounds.",
-          "link": "https://www.nrtoday.com/news/modern-traditions-wedding-expo-marries-traditions-and-trends/article_2ff8782e-b24d-11ee-b47a-878d5c871905.html",
-          "publishedOn": "2024-01-14T07:15:00.000Z",
-          "wordCount": 14718,
-          "title": "Modern Traditions: wedding expo marries traditions and trends",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/71/87132032-b24d-11ee-a8ae-d399478fff5a/65a2ea665610f.image.jpg?resize=300%2C200",
-            "length": "366864",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/71/87132032-b24d-11ee-a8ae-d399478fff5a/65a2ea665610f.image.jpg?resize=300%2C200"
         }
       ]
     },
