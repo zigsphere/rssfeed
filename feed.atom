@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-19T19:08:15.618Z</updated>
+    <updated>2024-01-19T23:08:53.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April trial scheduled for Glide crash]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/076a97dc-b713-11ee-962b-d7151ebe5dd6</id>
+        <link href="https://www.nrtoday.com/news/crime/april-trial-scheduled-for-glide-crash/article_076a97dc-b713-11ee-962b-d7151ebe5dd6.html"/>
+        <updated>2024-01-19T21:38:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Adam Lynn Michaels, of Winston, pleaded not guilty Friday to the 10 charges he's facing for his alleged involvement in a car crash that occurred Oct. 26, 2023, just east of Glide.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.19.24]]></title>
+        <id>https://kqennewsradio.com/?p=115029</id>
+        <link href="https://kqennewsradio.com/2024/01/19/inside-douglas-county-1-19-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-19-24"/>
+        <updated>2024-01-19T21:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Douglas CARES Executive Director Sarah Wickersham and Skills Trainer Haleigh Gallego talk about their new mental health program called Family Tree. Click here to download for later listening:  IDC 1 19 2024]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UACT PRESENTS 20,000 LEAGUES UNDER THE SEAS]]></title>
         <id>https://kqennewsradio.com/?p=115027</id>
@@ -54,6 +74,16 @@
         <summary type="html"><![CDATA[January 19, 2024 9:50 a.m.  Roseburg Police jailed a man for a restraining order violation on Thursday. An RPD report said at 3:55 p.m. officers contacted the 31-year old at an address he is restrained from in the 900 block of Northeast Parkview Drive. Bail was set at $5,000.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governor declares statewide emergency]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9598786a-b6f2-11ee-a1d2-4ba4871dd3d3</id>
+        <link href="https://www.nrtoday.com/news/local/governor-declares-statewide-emergency/article_9598786a-b6f2-11ee-a1d2-4ba4871dd3d3.html"/>
+        <updated>2024-01-19T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Governor Tina Kotek declared a statewide emergency Thursday night due to the severe ice storm that impacted counties across the state.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -922,26 +952,6 @@
         <link href="https://kqennewsradio.com/2024/01/16/melrose-road-closure-pushed-back-to-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=melrose-road-closure-pushed-back-to-wednesday"/>
         <updated>2024-01-16T11:17:39.000Z</updated>
         <summary type="html"><![CDATA[January 16, 2024 3:20 a.m. The one-week closure of Melrose Road that was scheduled to start Monday at the South Umpqua River has been postponed two days due to weather. An update from the Oregon Department of Transportation said the closure, which will allow the contractor to place beams on the new Conn Ford Bridge,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAMP MILLENNIUM MONTHLY COMMUNITY MEETINGS BEGIN]]></title>
-        <id>https://kqennewsradio.com/?p=114819</id>
-        <link href="https://kqennewsradio.com/2024/01/16/camp-millennium-monthly-community-meetings-begin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=camp-millennium-monthly-community-meetings-begin"/>
-        <updated>2024-01-16T11:07:34.000Z</updated>
-        <summary type="html"><![CDATA[January 16, 2024 3:10 a.m. Camp Millennium is launching monthly community meetings beginning Tuesday night. The non-profit organization is seeking to generate awareness in the community about the camp and its mission to support families with parents or children battling cancer. Residents are invited to attend and participate in this opportunity to make a difference....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY YOUTH ORCHESTRA PERFORMING WINTER CONCERT]]></title>
-        <id>https://kqennewsradio.com/?p=114817</id>
-        <link href="https://kqennewsradio.com/2024/01/16/umpqua-valley-youth-orchestra-performing-winter-concert/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-youth-orchestra-performing-winter-concert"/>
-        <updated>2024-01-16T11:05:08.000Z</updated>
-        <summary type="html"><![CDATA[January 16, 2024 3:00 a.m. In the KQEN Cultural Spotlight: Umpqua Valley Youth Orchestra is performing a winter concert on Tuesday night January 23rd in Jacoby Auditorium at Umpqua Community College. Musical selections include Viva La Vida, Shut Up and Dance, Fidelio by Beethoven and the Radetzy March by Strauss. The free event will feature...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

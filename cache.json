@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115029",
+          "author": "Kyle Bailey",
+          "description": "Douglas CARES Executive Director Sarah Wickersham and Skills Trainer Haleigh Gallego talk about their new mental health program called Family Tree. Click here to download for later listening:  IDC 1 19 2024",
+          "link": "https://kqennewsradio.com/2024/01/19/inside-douglas-county-1-19-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-19-24",
+          "publishedOn": "2024-01-19T21:18:17.000Z",
+          "wordCount": 1493,
+          "title": "INSIDE DOUGLAS COUNTY 1.19.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240119201313/IDC-1-19-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240119201803/IMG_3931.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115027",
           "author": "Kyle Bailey",
           "description": "January 19, 2024 11:00 a.m.  In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre will present 20,000 Leagues Under the Seas. Based on Jules Verne’s landmark work of science fiction, when a terrifying sea monster is spotted off the coast, renowned scientist Professor Aronnax and fellow explorers set out to investigate. They soon find themselves...",
@@ -734,26 +749,6 @@
           "wordCount": 1647,
           "title": "MELROSE ROAD CLOSURE PUSHED BACK TO WEDNESDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727205900/conn-ford-melrose-bridge-road-surface_51885043202_o-e1659030653211.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114819",
-          "author": "Kyle Bailey",
-          "description": "January 16, 2024 3:10 a.m. Camp Millennium is launching monthly community meetings beginning Tuesday night. The non-profit organization is seeking to generate awareness in the community about the camp and its mission to support families with parents or children battling cancer. Residents are invited to attend and participate in this opportunity to make a difference....",
-          "link": "https://kqennewsradio.com/2024/01/16/camp-millennium-monthly-community-meetings-begin/?utm_source=rss&utm_medium=rss&utm_campaign=camp-millennium-monthly-community-meetings-begin",
-          "publishedOn": "2024-01-16T11:07:34.000Z",
-          "wordCount": 1529,
-          "title": "CAMP MILLENNIUM MONTHLY COMMUNITY MEETINGS BEGIN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201848/camp-e1678360800460.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114817",
-          "author": "Kyle Bailey",
-          "description": "January 16, 2024 3:00 a.m. In the KQEN Cultural Spotlight: Umpqua Valley Youth Orchestra is performing a winter concert on Tuesday night January 23rd in Jacoby Auditorium at Umpqua Community College. Musical selections include Viva La Vida, Shut Up and Dance, Fidelio by Beethoven and the Radetzy March by Strauss. The free event will feature...",
-          "link": "https://kqennewsradio.com/2024/01/16/umpqua-valley-youth-orchestra-performing-winter-concert/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-valley-youth-orchestra-performing-winter-concert",
-          "publishedOn": "2024-01-16T11:05:08.000Z",
-          "wordCount": 1477,
-          "title": "UMPQUA VALLEY YOUTH ORCHESTRA PERFORMING WINTER CONCERT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230906092323/UVYO-logo.png"
         }
       ]
     },
@@ -768,6 +763,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/076a97dc-b713-11ee-962b-d7151ebe5dd6",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Adam Lynn Michaels, of Winston, pleaded not guilty Friday to the 10 charges he's facing for his alleged involvement in a car crash that occurred Oct. 26, 2023, just east of Glide.",
+          "link": "https://www.nrtoday.com/news/crime/april-trial-scheduled-for-glide-crash/article_076a97dc-b713-11ee-962b-d7151ebe5dd6.html",
+          "publishedOn": "2024-01-19T21:38:00.000Z",
+          "wordCount": 13201,
+          "title": "April trial scheduled for Glide crash",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9598786a-b6f2-11ee-a1d2-4ba4871dd3d3",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Governor Tina Kotek declared a statewide emergency Thursday night due to the severe ice storm that impacted counties across the state.",
+          "link": "https://www.nrtoday.com/news/local/governor-declares-statewide-emergency/article_9598786a-b6f2-11ee-a1d2-4ba4871dd3d3.html",
+          "publishedOn": "2024-01-19T17:45:00.000Z",
+          "wordCount": 13279,
+          "title": "Governor declares statewide emergency",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/41591b78-b5a4-11ee-be06-b3469fbf34f8",
           "author": "Scott Carroll The News-Review",
