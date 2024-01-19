@@ -669,6 +669,66 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/41591b78-b5a4-11ee-be06-b3469fbf34f8",
+          "author": "Scott Carroll The News-Review",
+          "description": "A woman who claims she was sexually abused in a Douglas County foster care home for much of her childhood has filed a civil complaint against the couple she said is responsible.",
+          "link": "https://www.nrtoday.com/news/local/complaint-alleges-abuse-in-county-foster-care-home/article_41591b78-b5a4-11ee-be06-b3469fbf34f8.html",
+          "publishedOn": "2024-01-19T16:00:00.000Z",
+          "wordCount": 13894,
+          "title": "Complaint alleges abuse in county foster care home",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9946aa28-b660-11ee-9326-3fc82af7e4e0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Oregon Department of Transportation has been cleaning up the roads around Oregon after the winter storm and in preparation for the rest of winter.",
+          "link": "https://www.nrtoday.com/news/environment/odot-crews-work-to-repair-damage-from-storm/article_9946aa28-b660-11ee-9326-3fc82af7e4e0.html",
+          "publishedOn": "2024-01-19T16:00:00.000Z",
+          "wordCount": 15100,
+          "title": "ODOT crews work to repair damage from storm",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ca/fca2483a-b65f-11ee-a139-4bd3cd2b053c/65a9bf5b2b208.image.jpg?resize=300%2C200",
+            "length": "350784",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ca/fca2483a-b65f-11ee-a139-4bd3cd2b053c/65a9bf5b2b208.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0d34c00e-b4a0-11ee-bcba-c70aa5bbe367",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "GLIDE — On its 59th year, the Glide Wildflower Show is bringing its offering of native flowers, grasses, ferns and other specimens for viewers to learn more about what’s out in nature.",
+          "link": "https://www.nrtoday.com/news/glide-wildflower-show-returns-hopes-for-more-volunteers/article_0d34c00e-b4a0-11ee-bcba-c70aa5bbe367.html",
+          "publishedOn": "2024-01-19T15:45:00.000Z",
+          "wordCount": 13797,
+          "title": "Glide Wildflower Show returns, hopes for more volunteers",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/14/5142ba1c-b572-11ee-a631-27feaf24f5ad/65a8309ce4059.image.jpg?resize=300%2C200",
+            "length": "351355",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/14/5142ba1c-b572-11ee-a631-27feaf24f5ad/65a8309ce4059.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e51bf1ee-b62c-11ee-89d2-ffd3ac354ef2",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "CHI Mercy Health invites the community to join them in celebrating the opening of their new Behavioral Health Unit from 4-6 p.m. Tuesday.",
+          "link": "https://www.nrtoday.com/news/community-invited-to-behavioral-health-unit-open-house/article_e51bf1ee-b62c-11ee-89d2-ffd3ac354ef2.html",
+          "publishedOn": "2024-01-19T14:30:00.000Z",
+          "wordCount": 13382,
+          "title": "Community invited to Behavioral Health Unit open house",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/403f5ba4-b684-11ee-aafa-a3eefb1efeba",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Saving Grace Pet Adoption Center is hosting a microchip clinic 11 a.m. to 2 p.m. Saturday at the Myrtle Creek Tractor Supply, 110 Petite Street in Myrtle Creek.",
+          "link": "https://www.nrtoday.com/news/health/saving-grace-hosts-microchip-clinic-saturday/article_403f5ba4-b684-11ee-aafa-a3eefb1efeba.html",
+          "publishedOn": "2024-01-19T11:30:00.000Z",
+          "wordCount": 13221,
+          "title": "Saving Grace hosts microchip clinic Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/eaac152c-b65d-11ee-8a35-9334bb4031a1",
           "author": "WILL GESCHKE The News-Review",
           "description": "MELROSE — A portion of Melrose Road is closed for a week due to construction on the new Conn Ford Bridge, and detours are currently in place for drivers making their way into Melrose.",
