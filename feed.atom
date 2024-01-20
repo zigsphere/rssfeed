@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-20T16:11:25.412Z</updated>
+    <updated>2024-01-20T19:07:56.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon Institute of Technology honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/84ef7068-b6fc-11ee-9b14-4fff64249bf3</id>
+        <link href="https://www.nrtoday.com/news/education/oregon-institute-of-technology-honor-roll/article_84ef7068-b6fc-11ee-9b14-4fff64249bf3.html"/>
+        <updated>2024-01-20T18:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon Institute of Technology of Klamath Falls announced its 2023 fall term honor roll.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodwin rated most conservative, kicks off campaign]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/82644ea8-b6f3-11ee-8e22-4755bd8284e3</id>
+        <link href="https://www.nrtoday.com/news/elections/goodwin-rated-most-conservative-kicks-off-campaign/article_82644ea8-b6f3-11ee-8e22-4755bd8284e3.html"/>
+        <updated>2024-01-20T17:52:00.000Z</updated>
+        <summary type="html"><![CDATA[SOUTHERN OREGON — State Representative Christine Goodwin started her campaign for Senate District 2, connecting with voters at three consecutive campaign events.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marriages: Jan. 8-12]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/6ba88ac2-b49f-11ee-875b-534a8a86674d</id>
