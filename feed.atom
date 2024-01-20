@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-20T19:07:56.749Z</updated>
+    <updated>2024-01-20T23:10:46.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nebraska Wesleyan University honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/15571c38-b701-11ee-82b9-9f7efb81bde3</id>
+        <link href="https://www.nrtoday.com/news/education/nebraska-wesleyan-university-honor-roll/article_15571c38-b701-11ee-82b9-9f7efb81bde3.html"/>
+        <updated>2024-01-20T19:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Aubree Bridge of Glide was named to the 2023 fall honors list at Nebraska Wesleyan University in Lincoln, Nebraska.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[University of the Cumberlands honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e815496c-b6ff-11ee-9582-bf4bbbb91bf2</id>
+        <link href="https://www.nrtoday.com/news/education/university-of-the-cumberlands-honor-roll/article_e815496c-b6ff-11ee-9582-bf4bbbb91bf2.html"/>
+        <updated>2024-01-20T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Kimber Smith of Canyonville was named on the dean’s list for the 2023 fall term at University of the Cumberlands in Williamsburg, Kentucky.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mount Marty University honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ef3cd8f0-b6fe-11ee-ae49-9f74dee9a67f</id>
+        <link href="https://www.nrtoday.com/news/education/mount-marty-university-honor-roll/article_ef3cd8f0-b6fe-11ee-ae49-9f74dee9a67f.html"/>
+        <updated>2024-01-20T19:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Brooklyn Williams of Drain was named to the dean’s list in Mount Marty University’s honor roll for the 2023 fall term in Yankton, South Dakota.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oregon Institute of Technology honor roll]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/84ef7068-b6fc-11ee-9b14-4fff64249bf3</id>
@@ -858,16 +888,6 @@ The team is expected to be deployed for a week but could be there longer dependi
         <link href="https://kqennewsradio.com/2024/01/17/sutherlin-police-jail-woman-for-alleged-bean-dip-assault/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-police-jail-woman-for-alleged-bean-dip-assault"/>
         <updated>2024-01-17T11:14:21.000Z</updated>
         <summary type="html"><![CDATA[January 17, 2024 3:10 a.m. Sutherlin Police jailed a woman following an alleged assault incident on Sunday. An SPD report said shortly before 7:25 p.m. during an argument a woman allegedly threw a can of bean dip at a victim, causing a gash on the man’s head. He refused to be transported for medical care....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR SUBMITS APPOINTMENTS FOR SENATE CONFIRMATION]]></title>
-        <id>https://kqennewsradio.com/?p=114873</id>
-        <link href="https://kqennewsradio.com/2024/01/17/governor-submits-appointments-for-senate-confirmation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-submits-appointments-for-senate-confirmation"/>
-        <updated>2024-01-17T11:02:24.000Z</updated>
-        <summary type="html"><![CDATA[January 17, 2024 3:00 a.m. On Tuesday, Governor Tina Kotek submitted a list of state board and commission appointments to the Oregon State Senate for confirmation. The Senate Committee on Rules is scheduled to consider the nominations on February 6th during the 2024 legislative session. Kotek said, “Oregonians are hungry to tackle problems – and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
