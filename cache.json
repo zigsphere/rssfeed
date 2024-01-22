@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115098",
+          "author": "Kyle Bailey",
+          "description": "2nd District Congressman Cliff Bentz joins us live from the Ontario area, to cover a number of current issues in Congress. Click here to download for later listening: IDC 1 22 24",
+          "link": "https://kqennewsradio.com/2024/01/22/inside-douglas-county-1-22-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-22-24",
+          "publishedOn": "2024-01-22T21:23:30.000Z",
+          "wordCount": 1493,
+          "title": "INSIDE DOUGLAS COUNTY 1.22.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240122202122/IDC-1-22-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201148/Official-Portrait-Congressman-Cliff-Bentz-OR-02-WEBSITE-e1682366937454.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115094",
           "author": "Kyle Bailey",
           "description": "January 22, 2024 10:50 a.m.  A Roseburg man was cited by Roseburg Police for prohibited camping on Sunday. An RPD report said at 10:00 a.m. the 42-year was found with a camp allegedly blocking the doors of the soccer association building in the 500 block of Stewart Park Drive. In addition, the camp was set...",
@@ -339,16 +354,6 @@
           "wordCount": 1721,
           "title": "HOYLE CONDEMNS HOUSE GOP ACTIONS ON IMMIGRATION",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213323/hoyle-e1638447005968.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114984",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2024 2:50 a.m. The City of Roseburg has vacancies on two city commissions plus one committee. A City release said applications are being accepted for: *Three vacancies on the Economic Development Commission *One vacancy on the Library Commission *Three vacancies on the Budget Committee Each volunteer position is appointed to serve a three-year...",
-          "link": "https://kqennewsradio.com/2024/01/19/city-of-roseburg-has-commission-vacancies-open/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-roseburg-has-commission-vacancies-open",
-          "publishedOn": "2024-01-19T11:03:56.000Z",
-          "wordCount": 1583,
-          "title": "CITY OF ROSEBURG HAS COMMISSION VACANCIES OPEN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223954/City-Hall-Front-e1587726357513.jpg"
         }
       ]
     },

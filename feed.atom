@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-22T19:08:34.303Z</updated>
+    <updated>2024-01-22T23:10:22.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.22.24]]></title>
+        <id>https://kqennewsradio.com/?p=115098</id>
+        <link href="https://kqennewsradio.com/2024/01/22/inside-douglas-county-1-22-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-22-24"/>
+        <updated>2024-01-22T21:23:30.000Z</updated>
+        <summary type="html"><![CDATA[2nd District Congressman Cliff Bentz joins us live from the Ontario area, to cover a number of current issues in Congress. Click here to download for later listening: IDC 1 22 24]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG MAN CITED FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=115094</id>
@@ -558,16 +568,6 @@ The team is expected to be deployed for a week but could be there longer dependi
         <link href="https://kqennewsradio.com/2024/01/19/hoyle-condemns-house-gop-actions-on-immigration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hoyle-condemns-house-gop-actions-on-immigration"/>
         <updated>2024-01-19T11:16:30.000Z</updated>
         <summary type="html"><![CDATA[January 19, 2024 3:00 a.m. On Thursday U.S. 4th District Representative Val Hoyle released a statement in opposition to House Republican’s non-binding resolution – H. Res. 957) relating to the southern border of the United States: Hoyle said, “Every day this group of House Republicans talks about the crisis at the border and yet refuses...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY OF ROSEBURG HAS COMMISSION VACANCIES OPEN]]></title>
-        <id>https://kqennewsradio.com/?p=114984</id>
-        <link href="https://kqennewsradio.com/2024/01/19/city-of-roseburg-has-commission-vacancies-open/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-roseburg-has-commission-vacancies-open"/>
-        <updated>2024-01-19T11:03:56.000Z</updated>
-        <summary type="html"><![CDATA[January 19, 2024 2:50 a.m. The City of Roseburg has vacancies on two city commissions plus one committee. A City release said applications are being accepted for: *Three vacancies on the Economic Development Commission *One vacancy on the Library Commission *Three vacancies on the Budget Committee Each volunteer position is appointed to serve a three-year...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
