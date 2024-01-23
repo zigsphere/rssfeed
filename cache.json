@@ -299,61 +299,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240119160734/IMG_3924.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114996",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2024 3:50 a.m.  Thursday night, Governor Tina Kotek declared a statewide emergency due to the severe ice storm that impacted counties across the state. A release from the Governor’s Office said the declaration comes following an assessment of needs and subsequent requests from multiple counties as they enter the 6th day of severe...",
-          "link": "https://kqennewsradio.com/2024/01/19/governor-declares-statewide-emergency-due-to-severe-ice-storm/?utm_source=rss&utm_medium=rss&utm_campaign=governor-declares-statewide-emergency-due-to-severe-ice-storm",
-          "publishedOn": "2024-01-19T11:52:02.000Z",
-          "wordCount": 1670,
-          "title": "GOVERNOR DECLARES STATEWIDE EMERGENCY DUE TO SEVERE ICE STORM",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114992",
-          "author": "Kyle Bailey",
-          "description": "Douglas County Commissioner Tim Freeman talks about his roles with the Association of O&C Counties and the National Association of Counties. Click here to download for later listening: IDC 1 18 2024",
-          "link": "https://kqennewsradio.com/2024/01/19/inside-douglas-county-1-18-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-18-24",
-          "publishedOn": "2024-01-19T11:28:25.000Z",
-          "wordCount": 1501,
-          "title": "INSIDE DOUGLAS COUNTY 1.18.24",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240119102606/IDC-1-18-2024.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240119102817/IMG_3923-scaled.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114990",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2024 3:20 a.m. In December, Oregon’s seasonally adjusted nonfarm payroll employment rose by 3,900 jobs, following a revised loss of 5,900 jobs in November. A release from the Oregon Employment Department said December’s gains were largest with 2,300 in health care and social assistance, 1,500 in construction and 700 in retail trade. The...",
-          "link": "https://kqennewsradio.com/2024/01/19/oregons-nonfarm-payroll-employment-rises-by-3900-in-december/?utm_source=rss&utm_medium=rss&utm_campaign=oregons-nonfarm-payroll-employment-rises-by-3900-in-december",
-          "publishedOn": "2024-01-19T11:21:59.000Z",
-          "wordCount": 1756,
-          "title": "OREGON’S NONFARM PAYROLL EMPLOYMENT RISES BY 3,900 IN DECEMBER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221940/OED_hrz_clr.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114988",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2024 3:10 a.m. This week, State Representative Christine Goodwin has had a busy start to her campaign for Senate District 2, connecting with voters at three consecutive campaign events up and down the district. A campaign release said she also kicks off the race as Oregon’s #1 most conservative elected Republican. The Conservative...",
-          "link": "https://kqennewsradio.com/2024/01/19/goodwin-kicks-off-campaign-rated-1-most-conservative-elected-republican-in-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=goodwin-kicks-off-campaign-rated-1-most-conservative-elected-republican-in-oregon",
-          "publishedOn": "2024-01-19T11:19:20.000Z",
-          "wordCount": 1640,
-          "title": "GOODWIN KICKS OFF CAMPAIGN RATED #1 MOST CONSERVATIVE ELECTED REPUBLICAN IN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231101161423/chris-4.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=114986",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2024 3:00 a.m. On Thursday U.S. 4th District Representative Val Hoyle released a statement in opposition to House Republican’s non-binding resolution – H. Res. 957) relating to the southern border of the United States: Hoyle said, “Every day this group of House Republicans talks about the crisis at the border and yet refuses...",
-          "link": "https://kqennewsradio.com/2024/01/19/hoyle-condemns-house-gop-actions-on-immigration/?utm_source=rss&utm_medium=rss&utm_campaign=hoyle-condemns-house-gop-actions-on-immigration",
-          "publishedOn": "2024-01-19T11:16:30.000Z",
-          "wordCount": 1721,
-          "title": "HOYLE CONDEMNS HOUSE GOP ACTIONS ON IMMIGRATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213323/hoyle-e1638447005968.jpg"
         }
       ]
     },
@@ -368,6 +313,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/20aee658-b97f-11ee-9a62-776c709d8eb2",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Two people were rescued near Elk Island in Roseburg after their boat capsized Monday afternoon.",
+          "link": "https://www.nrtoday.com/news/local/boat-capsized-on-south-umpqua-river-people-rescued/article_20aee658-b97f-11ee-9a62-776c709d8eb2.html",
+          "publishedOn": "2024-01-22T23:36:00.000Z",
+          "wordCount": 13594,
+          "title": "Boat capsized on South Umpqua River, people rescued",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0f/50f19e18-b980-11ee-9888-4b42c775edd4/65aefe1601623.image.jpg?resize=300%2C200",
+            "length": "323517",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0f/50f19e18-b980-11ee-9888-4b42c775edd4/65aefe1601623.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b0f0ae3a-b93f-11ee-8e46-f3399119a279",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Georgia Lee Hoover Stiles, who was an active volunteer and business woman, died Jan. 18 at age 91.",
+          "link": "https://www.nrtoday.com/news/local/georgia-stiles-volunteer-and-community-leader-dies-at-91/article_b0f0ae3a-b93f-11ee-8e46-f3399119a279.html",
+          "publishedOn": "2024-01-22T18:00:00.000Z",
+          "wordCount": 13913,
+          "title": "Georgia Stiles, volunteer and community leader, dies at 91",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/4f/74f0e9bc-b94a-11ee-a10c-9bece945d6f8/58ace2aba9df7.image.jpg?resize=300%2C202",
+            "length": "447208",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/4f/74f0e9bc-b94a-11ee-a10c-9bece945d6f8/58ace2aba9df7.image.jpg?resize=300%2C202"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e0947a12-b940-11ee-b883-93a2de483ee7",
           "author": "Kyle Bailey For The News-Review",
@@ -601,16 +576,6 @@
           "publishedOn": "2024-01-19T14:30:00.000Z",
           "wordCount": 13382,
           "title": "Community invited to Behavioral Health Unit open house",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/403f5ba4-b684-11ee-aafa-a3eefb1efeba",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "MYRTLE CREEK — Saving Grace Pet Adoption Center is hosting a microchip clinic 11 a.m. to 2 p.m. Saturday at the Myrtle Creek Tractor Supply, 110 Petite Street in Myrtle Creek.",
-          "link": "https://www.nrtoday.com/news/health/saving-grace-hosts-microchip-clinic-saturday/article_403f5ba4-b684-11ee-aafa-a3eefb1efeba.html",
-          "publishedOn": "2024-01-19T11:30:00.000Z",
-          "wordCount": 13221,
-          "title": "Saving Grace hosts microchip clinic Saturday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
