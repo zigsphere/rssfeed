@@ -259,6 +259,26 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b000d728-b93c-11ee-b44f-cb8845bcb398",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Oregon State University Extension Service has a Master Food Preserver Workshop happening from 12:30-4:30 p.m. Feb. 17 at Pine Grove Community Church on Buckhorn Road.",
+          "link": "https://www.nrtoday.com/news/education/master-food-preserver-workshop-coming-in-february/article_b000d728-b93c-11ee-b44f-cb8845bcb398.html",
+          "publishedOn": "2024-01-23T15:41:00.000Z",
+          "wordCount": 13184,
+          "title": "Master Food Preserver workshop coming in February",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/60230478-b938-11ee-be43-c7731343fd77",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Roseburg Public Library will be hosting a Charreria program from 6:30 p.m.-8:30 p.m. Feb. 1. A Charreria is a the 500-year-old practice of horsemanship and roping, and became Mexico's national sport in 1933.",
+          "link": "https://www.nrtoday.com/news/education/library-to-host-cultural-event/article_60230478-b938-11ee-be43-c7731343fd77.html",
+          "publishedOn": "2024-01-23T15:10:00.000Z",
+          "wordCount": 13171,
+          "title": "Library to host cultural event",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/20aee658-b97f-11ee-9a62-776c709d8eb2",
           "author": "SANNE GODFREY The News-Review",
           "description": "Two people were rescued near Elk Island in Roseburg after their boat capsized Monday afternoon.",
@@ -297,6 +317,21 @@
           "wordCount": 13214,
           "title": "Feeding Umpqua received semitruck of food",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6249a312-b8c8-11ee-9efc-6b6964034d59",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Theater directors are hoping to share their knowledge in workshops to both youth and adults.",
+          "link": "https://www.nrtoday.com/news/education/uact-hosts-youth-audition-workshop/article_6249a312-b8c8-11ee-9efc-6b6964034d59.html",
+          "publishedOn": "2024-01-22T01:48:00.000Z",
+          "wordCount": 14207,
+          "title": "UACT hosts youth audition workshop",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f1/df1f1380-b801-11ee-a380-a7de1400eeba/65ac7c7347e2c.image.jpg?resize=300%2C200",
+            "length": "318416",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f1/df1f1380-b801-11ee-a380-a7de1400eeba/65ac7c7347e2c.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6c96263e-b7e6-11ee-a750-77ec53e679f0",
