@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-23T19:08:31.021Z</updated>
+    <updated>2024-01-23T23:10:12.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.23.24]]></title>
+        <id>https://kqennewsradio.com/?p=115150</id>
+        <link href="https://kqennewsradio.com/2024/01/23/inside-douglas-county-1-23-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-23-24"/>
+        <updated>2024-01-23T21:10:22.000Z</updated>
+        <summary type="html"><![CDATA[A look at the State of the City with Roseburg Mayor Larry Rich and City Manager Nikki Messenger. Click here to download for later listening:  IDC 1 23 2024]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITED A MAN FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=115147</id>
