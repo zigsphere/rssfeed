@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115154",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson are joined by Scott Littlejohn for our weekly local financial program.  Click here to download for later listening:  TRUE WEALTH 1 23 2024",
+          "link": "https://kqennewsradio.com/2024/01/24/true-wealth-1-23-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-1-23-24",
+          "publishedOn": "2024-01-24T01:05:13.000Z",
+          "wordCount": 1483,
+          "title": "TRUE WEALTH 1.23.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240124000406/TRUE-WEALTH-1-23-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115150",
           "author": "Kyle Bailey",
           "description": "A look at the State of the City with Roseburg Mayor Larry Rich and City Manager Nikki Messenger. Click here to download for later listening:  IDC 1 23 2024",
@@ -334,16 +349,6 @@
           "wordCount": 1624,
           "title": "CELEBRATION OF LITERACY IN FEBRUARY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240122100424/col-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115035",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2023 6:00 a.m. A Winter Weather Advisory is in effect for the south-central Oregon Cascades above 5,500 feet from 10:00 a.m. Saturday to 4:00 a.m. Sunday. Forecasters at the National Weather Service said wet snow is expected. Total snow accumulations of up to 10 inches, with higher elevations seeing up to 15 inches....",
-          "link": "https://kqennewsradio.com/2024/01/20/winter-weather-advisory-for-south-central-oregon-cascades-2/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-for-south-central-oregon-cascades-2",
-          "publishedOn": "2024-01-20T14:14:13.000Z",
-          "wordCount": 1547,
-          "title": "WINTER WEATHER ADVISORY FOR SOUTH-CENTRAL OREGON CASCADES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240120131255/satam-9.png"
         }
       ]
     },
@@ -358,6 +363,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0c4c250c-b8c3-11ee-bc5a-77ecde68ea6d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Myrtle Creek — Saving Grace Pet Adoption Center took over the back room at Tractor Supply Co. in Myrtle Creek on Saturday for a microchip clinic, with a line of dogs, cats and humans stretching through the aisles.",
+          "link": "https://www.nrtoday.com/news/health/pets-receive-microchips-in-myrtle-creek-pop-up-clinic/article_0c4c250c-b8c3-11ee-bc5a-77ecde68ea6d.html",
+          "publishedOn": "2024-01-24T01:10:00.000Z",
+          "wordCount": 13944,
+          "title": "Pets receive microchips in Myrtle Creek pop-up clinic",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/97/7978cbf4-b7e1-11ee-bee2-bb9ab977c991/65ac4618d1e34.image.jpg?resize=300%2C200",
+            "length": "448704",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/97/7978cbf4-b7e1-11ee-bee2-bb9ab977c991/65ac4618d1e34.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/518e5298-ba1c-11ee-be8f-cb8fe56760ed",
           "author": "SANNE GODFREY The News-Review",
@@ -592,16 +612,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/34/634360da-b56e-11ee-bb00-f7d843eb1164/65a82a05239bb.image.jpg"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/16b27492-b58a-11ee-aaad-af93e499f5ab",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SUTHERLIN — Sutherlin High School’s woodshop program received a donation of $1,500 from Country Financial agent JR Guthrie of Sutherlin, through the Operation Helping Heroes program.",
-          "link": "https://www.nrtoday.com/news/education/sutherlin-woodshop-receives-operation-helping-heroes-donation/article_16b27492-b58a-11ee-aaad-af93e499f5ab.html",
-          "publishedOn": "2024-01-20T13:45:00.000Z",
-          "wordCount": 13190,
-          "title": "Sutherlin Woodshop receives Operation Helping Heroes donation",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
