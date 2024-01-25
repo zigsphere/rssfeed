@@ -609,6 +609,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e56289ae-b57a-11ee-b95a-a3f58f5bae3f",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Although it has been a wet one, Dr. Phillip Braunlich and his wife, Dr. Kate Braunlich, have said it has been the warmest of welcomes as the both of them settle into their new medical roles and life in Roseburg.",
+          "link": "https://www.nrtoday.com/news/douglas-county-welcomes-dr-phillip-and-dr-kate-braunlich/article_e56289ae-b57a-11ee-b95a-a3f58f5bae3f.html",
+          "publishedOn": "2024-01-25T14:30:00.000Z",
+          "wordCount": 13907,
+          "title": "Douglas County welcomes Dr. Phillip and Dr. Kate Braunlich",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/eb/deb88490-ba5d-11ee-80b3-ebfa25585b97/65b071ca9e112.image.jpg?resize=300%2C200",
+            "length": "362169",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/eb/deb88490-ba5d-11ee-80b3-ebfa25585b97/65b071ca9e112.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fe5d8a1a-ba6d-11ee-82d8-f3f2a15993ac",
           "author": "Kyle Bailey For The News-Review",
           "description": "RIDDLE — Riddle’s 131st birthday is Jan. 31.",
@@ -616,6 +631,16 @@
           "publishedOn": "2024-01-25T04:06:00.000Z",
           "wordCount": 13200,
           "title": "Riddle celebrates 131st birthday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/af6557e2-bb32-11ee-a05c-3b93e1c98e83",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "SUTHERLIN — Some Sutherlin residents were asked to lock their doors and stay in their homes Wednesday evening as law enforcement searched for an armed suspect in the area.",
+          "link": "https://www.nrtoday.com/news/crime/armed-suspect-runs-from-police/article_af6557e2-bb32-11ee-a05c-3b93e1c98e83.html",
+          "publishedOn": "2024-01-25T03:34:00.000Z",
+          "wordCount": 13217,
+          "title": "Armed suspect runs from police",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
@@ -917,21 +942,6 @@
           "wordCount": 13216,
           "title": "UACT presents 20,000 Leagues Under the Sea",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6249a312-b8c8-11ee-9efc-6b6964034d59",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Theater directors are hoping to share their knowledge in workshops to both youth and adults.",
-          "link": "https://www.nrtoday.com/news/education/uact-hosts-youth-audition-workshop/article_6249a312-b8c8-11ee-9efc-6b6964034d59.html",
-          "publishedOn": "2024-01-22T01:48:00.000Z",
-          "wordCount": 14207,
-          "title": "UACT hosts youth audition workshop",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f1/df1f1380-b801-11ee-a380-a7de1400eeba/65ac7c7347e2c.image.jpg?resize=300%2C200",
-            "length": "318416",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f1/df1f1380-b801-11ee-a380-a7de1400eeba/65ac7c7347e2c.image.jpg?resize=300%2C200"
         }
       ]
     },

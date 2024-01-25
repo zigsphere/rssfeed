@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-25T13:13:22.841Z</updated>
+    <updated>2024-01-25T16:13:02.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County welcomes Dr. Phillip and Dr. Kate Braunlich]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e56289ae-b57a-11ee-b95a-a3f58f5bae3f</id>
+        <link href="https://www.nrtoday.com/news/douglas-county-welcomes-dr-phillip-and-dr-kate-braunlich/article_e56289ae-b57a-11ee-b95a-a3f58f5bae3f.html"/>
+        <updated>2024-01-25T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Although it has been a wet one, Dr. Phillip Braunlich and his wife, Dr. Kate Braunlich, have said it has been the warmest of welcomes as the both of them settle into their new medical roles and life in Roseburg.]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUSPICIOUS ACTIVITY LEADS TO DCSO ALERT]]></title>
         <id>https://kqennewsradio.com/?p=115216</id>
@@ -84,6 +94,16 @@
         <summary type="html"><![CDATA[RIDDLE — Riddle’s 131st birthday is Jan. 31.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armed suspect runs from police]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/af6557e2-bb32-11ee-a05c-3b93e1c98e83</id>
+        <link href="https://www.nrtoday.com/news/crime/armed-suspect-runs-from-police/article_af6557e2-bb32-11ee-a05c-3b93e1c98e83.html"/>
+        <updated>2024-01-25T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Some Sutherlin residents were asked to lock their doors and stay in their homes Wednesday evening as law enforcement searched for an armed suspect in the area.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -814,16 +834,6 @@
         <summary type="html"><![CDATA[January 22, 2023 2:50 a.m. The Celebration of Literacy is a series of events happening between February 1st and March 1st. Presented by the Altrusa Club of Roseburg and the Umpqua Literacy Council, COL began in 2002, and is designed to provide a county-wide motivational reading program for students and families in the Umpqua Valley....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UACT hosts youth audition workshop]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6249a312-b8c8-11ee-9efc-6b6964034d59</id>
-        <link href="https://www.nrtoday.com/news/education/uact-hosts-youth-audition-workshop/article_6249a312-b8c8-11ee-9efc-6b6964034d59.html"/>
-        <updated>2024-01-22T01:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Theater directors are hoping to share their knowledge in workshops to both youth and adults.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
