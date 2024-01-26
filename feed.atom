@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-26T13:09:57.368Z</updated>
+    <updated>2024-01-26T16:11:54.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Cheer hosts competition Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/acacb65e-bb95-11ee-8099-c3cb4a80adc9</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-cheer-hosts-competition-saturday/article_acacb65e-bb95-11ee-8099-c3cb4a80adc9.html"/>
+        <updated>2024-01-26T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Roseburg Cheer is holding a cheer competition Saturday at Roseburg High School.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg fire announces hiring of deputy fire marshal]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f0330e6a-bbd5-11ee-b08e-d32512bbecea</id>
+        <link href="https://www.nrtoday.com/briefs/roseburg-fire-announces-hiring-of-deputy-fire-marshal/article_f0330e6a-bbd5-11ee-b08e-d32512bbecea.html"/>
+        <updated>2024-01-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Roseburg Fire Department has announced the hiring of new Deputy Fire Marshal Ben Simons.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLOOD POTENTIAL OUTLOOK FOR PARTS OF SOUTHERN OREGON]]></title>
         <id>https://kqennewsradio.com/?p=115268</id>
