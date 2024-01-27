@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-27T13:09:18.119Z</updated>
+    <updated>2024-01-27T16:10:37.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kamper Korner RV Center merges with Wagers RV Center & Consignment]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/512197ba-b707-11ee-8fa4-6f9128c672a8</id>
+        <link href="https://www.nrtoday.com/business/kamper-korner-rv-center-merges-with-wagers-rv-center-consignment/article_512197ba-b707-11ee-8fa4-6f9128c672a8.html"/>
+        <updated>2024-01-27T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Kamper Korner RV Center entered a merger with Wagers RV Center & Consignment, a 50-year-old Salem-based parts and service dealership, with changes starting in February.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading year off to a good start]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/14407306-bbd1-11ee-b584-138d651a0338</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/reading-year-off-to-a-good-start/article_14407306-bbd1-11ee-b584-138d651a0338.html"/>
+        <updated>2024-01-27T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The only resolution I make every new year involves reading. This year I promised myself I would do my best to read 200 books, which would be a record.]]></summary>
+        <author>
+            <name>Kris Wiley for The News Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does the 4-H clover represent?]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/78249bae-bb09-11ee-88c1-6f1866f63b7d</id>
+        <link href="https://www.nrtoday.com/family/what-does-the-4-h-clover-represent/article_78249bae-bb09-11ee-88c1-6f1866f63b7d.html"/>
+        <updated>2024-01-27T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[What qualities does 4-H represent? In 1911, club leaders in Washington D.C. adopted the current 4-H design; a green four-leaf clover with a single “H” on each leaf with the stem facing right. Who knew that the start of this…]]></summary>
+        <author>
+            <name>KATIE BAXTER For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farm Bureau announces scholarships]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4160b2be-b94d-11ee-835c-cf441cf7c180</id>
+        <link href="https://www.nrtoday.com/news/education/farm-bureau-announces-scholarships/article_4160b2be-b94d-11ee-835c-cf441cf7c180.html"/>
+        <updated>2024-01-27T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Farm Bureau will be awarding up to five $1,000 scholarships for the 2024-2025 school year.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get to Know Douglas ESD: Empowering youth through mental health support]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6dfe8f60-baf8-11ee-a5b9-63b7fbf04fba</id>
+        <link href="https://www.nrtoday.com/news/education/get-to-know-douglas-esd-empowering-youth-through-mental-health-support/article_6dfe8f60-baf8-11ee-a5b9-63b7fbf04fba.html"/>
+        <updated>2024-01-27T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Erin Payne hit the ground running. She’s a Douglas Education Service District behavior interventionist at Days Creek Charter School District.]]></summary>
+        <author>
+            <name>HEATHER VILLA For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New secure entrance at Roseburg schools]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b2412520-bc06-11ee-8c37-1fd7ac8dc4eb</id>
+        <link href="https://www.nrtoday.com/news/education/new-secure-entrance-at-roseburg-schools/article_b2412520-bc06-11ee-8c37-1fd7ac8dc4eb.html"/>
+        <updated>2024-01-27T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Several schools in the Roseburg Public School District are in the process of receiving security upgrades to entry ways. Right now, these upgrades are in the form of new secure entrances, called vestibules, being built in the entry building to…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umpqua Valley Christian Schools hosts First Pitch dinner]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/41ddbdb0-ba6d-11ee-b5c7-bbdb2295fd87</id>
@@ -824,26 +884,6 @@ Best is described as a white male adult, approximately 6'00" tall weighing appro
         <summary type="html"><![CDATA[January 24, 2024 2:50 a.m. U.S. Senator Ron Wyden said he has joined Senate colleagues to urge top federal officials to increase the Department of Agriculture’s research budget by at least five percent, plus inflation, for Fiscal Year 2025. In a letter to Agriculture Secretary Thomas Vilsack and Office of Management and Budget Director Shalanda...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reedsport seeks city attorney]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/fada1f6c-ba6c-11ee-89de-0361f62be045</id>
-        <link href="https://www.nrtoday.com/news/government/reedsport-seeks-city-attorney/article_fada1f6c-ba6c-11ee-89de-0361f62be045.html"/>
-        <updated>2024-01-24T03:59:00.000Z</updated>
-        <summary type="html"><![CDATA[REEDSPORT — The City of Reedsport is seeking a city attorney.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pets receive microchips in Myrtle Creek pop-up clinic]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0c4c250c-b8c3-11ee-bc5a-77ecde68ea6d</id>
-        <link href="https://www.nrtoday.com/news/health/pets-receive-microchips-in-myrtle-creek-pop-up-clinic/article_0c4c250c-b8c3-11ee-bc5a-77ecde68ea6d.html"/>
-        <updated>2024-01-24T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Myrtle Creek — Saving Grace Pet Adoption Center took over the back room at Tractor Supply Co. in Myrtle Creek on Saturday for a microchip clinic, with a line of dogs, cats and humans stretching through the aisles.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
