@@ -394,6 +394,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5d023b24-bc94-11ee-a4ad-5f0d14846431",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Starting in February, the Oregon State University Extension Master Gardener Plant Clinic will be open 1-4 p.m. Monday, Wednesday and Friday.",
+          "link": "https://www.nrtoday.com/news/education/plant-clinic-expands-hours/article_5d023b24-bc94-11ee-a4ad-5f0d14846431.html",
+          "publishedOn": "2024-01-28T15:15:00.000Z",
+          "wordCount": 13148,
+          "title": "Plant clinic expands hours",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/512197ba-b707-11ee-8fa4-6f9128c672a8",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Kamper Korner RV Center entered a merger with Wagers RV Center & Consignment, a 50-year-old Salem-based parts and service dealership, with changes starting in February.",
@@ -652,51 +662,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/eb/deb88490-ba5d-11ee-80b3-ebfa25585b97/65b071ca9e112.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fe5d8a1a-ba6d-11ee-82d8-f3f2a15993ac",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "RIDDLE — Riddle’s 131st birthday is Jan. 31.",
-          "link": "https://www.nrtoday.com/family/riddle-celebrates-131st-birthday/article_fe5d8a1a-ba6d-11ee-82d8-f3f2a15993ac.html",
-          "publishedOn": "2024-01-25T04:06:00.000Z",
-          "wordCount": 13200,
-          "title": "Riddle celebrates 131st birthday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/af6557e2-bb32-11ee-a05c-3b93e1c98e83",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "SUTHERLIN — Some Sutherlin residents were asked to lock their doors and stay in their homes Wednesday evening as law enforcement searched for an armed suspect in the area.",
-          "link": "https://www.nrtoday.com/news/crime/manhunt-for-billy-best-who-eludes-law-enforcement/article_af6557e2-bb32-11ee-a05c-3b93e1c98e83.html",
-          "publishedOn": "2024-01-25T03:34:00.000Z",
-          "wordCount": 13446,
-          "title": "Manhunt for Billy Best who eludes law enforcement",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/a2/3a22b5b2-bbad-11ee-8949-ebdcbfcc524a/65b2a46d65874.image.jpg",
-            "length": "11524",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/a2/3a22b5b2-bbad-11ee-8949-ebdcbfcc524a/65b2a46d65874.image.jpg"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/af6557e2-bb32-11ee-a05c-3b93e1c98e83",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "SUTHERLIN — Some Sutherlin residents were asked to lock their doors and stay in their homes Wednesday evening as law enforcement searched for an armed suspect in the area.",
-          "link": "https://www.nrtoday.com/news/crime/armed-suspect-runs-from-police/article_af6557e2-bb32-11ee-a05c-3b93e1c98e83.html",
-          "publishedOn": "2024-01-25T03:34:00.000Z",
-          "wordCount": 13217,
-          "title": "Armed suspect runs from police",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/af6557e2-bb32-11ee-a05c-3b93e1c98e83",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "SUTHERLIN — Some Sutherlin residents were asked to lock their doors and stay in their homes as law enforcement searched for an armed suspect in the area.",
-          "link": "https://www.nrtoday.com/news/crime/law-enforcement-in-pursuit-of-armed-suspect-near-sutherlin/article_af6557e2-bb32-11ee-a05c-3b93e1c98e83.html",
-          "publishedOn": "2024-01-25T03:34:00.000Z",
-          "wordCount": 13181,
-          "title": "Law enforcement in pursuit of armed suspect near Sutherlin",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
