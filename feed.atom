@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-28T16:10:09.642Z</updated>
+    <updated>2024-01-28T19:07:07.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club News: Hobbit Trail hike scheduled for Feb. 3]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7f1ae02c-bb9e-11ee-8c75-7b40745ee646</id>
+        <link href="https://www.nrtoday.com/family/club-news-hobbit-trail-hike-scheduled-for-feb-3/article_7f1ae02c-bb9e-11ee-8c75-7b40745ee646.html"/>
+        <updated>2024-01-28T16:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The next Friends of the Umpqua Hiking Club hike is scheduled for Feb. 3.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plant clinic expands hours]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5d023b24-bc94-11ee-a4ad-5f0d14846431</id>
