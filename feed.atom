@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-30T15:58:15.436Z</updated>
+    <updated>2024-01-30T16:12:00.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RIDDLE’S 131ST BIRTHDAY IS TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=115364</id>
+        <link href="https://kqennewsradio.com/2024/01/30/riddles-131st-birthday-is-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=riddles-131st-birthday-is-tuesday"/>
+        <updated>2024-01-30T16:01:47.000Z</updated>
+        <summary type="html"><![CDATA[January 30, 2024 8:00 a.m. Riddle’s 131st birthday is Tuesday. A number of events are taking place: *Memorabilia will be on display at Riddle City Hall from 9:00 a.m. to 5:00 p.m. *Exhibits from elementary students will be featured on business windows on Main Street *Early day photographs will be shown at the Riddle Post...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tino's Tacos finds its permanent home]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/89dd9e96-bf04-11ee-b986-e39393d1785f</id>
@@ -339,16 +349,6 @@ The Sheriff's Office has been assisted by the United States Coast Guard, Oregon 
         <summary type="html"><![CDATA[Umpqua Valley Christian School is hosting a First Pitch dinner fundraiser for its baseball team at 6 p.m. Feb. 3.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Board approves storage building at Roseburg High School]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/34e406ba-bcc9-11ee-ad30-ebe1df5191f2</id>
-        <link href="https://www.nrtoday.com/briefs/board-approves-storage-building-at-roseburg-high-school/article_34e406ba-bcc9-11ee-ad30-ebe1df5191f2.html"/>
-        <updated>2024-01-27T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[A new performing arts storage building will come to Roseburg High School.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
