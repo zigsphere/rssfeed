@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-01-29T23:10:32.692Z</updated>
+    <updated>2024-01-30T02:15:55.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editor's Note: Dedicated to bringing you the news]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4542a58e-beef-11ee-bc93-9f2eccd4d370</id>
+        <link href="https://www.nrtoday.com/news/local/editors-note-dedicated-to-bringing-you-the-news/article_4542a58e-beef-11ee-bc93-9f2eccd4d370.html"/>
+        <updated>2024-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lotus Media, the Roseburg company that owns The News-Review, was hacked and held ransom. We have tech experts working on retrieving as much data as possible, but it means there will be no print newspaper Tuesday.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jungle Things Oregon celebrates grand opening]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/be6183bc-bd79-11ee-a869-87c10183392e</id>
@@ -438,46 +448,6 @@ K9 Zoro, a 6-year-old German Shepherd, has been with the Douglas County Sheriff'
         <summary type="html"><![CDATA[ROSEBURG — Roseburg Fire Department has announced the hiring of new Deputy Fire Marshal Ben Simons.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLOOD POTENTIAL OUTLOOK FOR PARTS OF SOUTHERN OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=115268</id>
-        <link href="https://kqennewsradio.com/2024/01/26/flood-potential-outlook-for-parts-of-southern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flood-potential-outlook-for-parts-of-southern-oregon"/>
-        <updated>2024-01-26T11:51:47.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2024 3:50 a.m.  Quick rises and potential flooding along streams and creeks and ponding of low-lying and poorly drained urban streams are possible in parts of southern Oregon through Saturday. The National Weather Service has issued a Flood Potential Outlook for western Douglas and western Josephine counties and for Coos and Curry County...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA FISHERY ENHANCEMENT DERBY BEGINS WEDNESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=115266</id>
-        <link href="https://kqennewsradio.com/2024/01/26/umpqua-fishery-enhancement-derby-begins-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-fishery-enhancement-derby-begins-wednesday"/>
-        <updated>2024-01-26T11:35:15.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2024 3:30 a.m. The Umpqua Fishery Enhancement Derby takes place next Wednesday through Saturday. Student events include: *Students’ Day Wednesday from 9:00 a.m. to 2:00 p.m. at the Rock Creek Recreational Area *Kids’ Day Thursday from 9:30 a.m. to 2:00 p.m. at Cooper Creek Reservoir near Sutherlin Derby events include: *Team/guides crab feed...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAKLAND ECONOMIC DEVELOPMENT DANCE THE NIGHT AWAY]]></title>
-        <id>https://kqennewsradio.com/?p=115263</id>
-        <link href="https://kqennewsradio.com/2024/01/26/oakland-economic-development-dance-the-night-away/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oakland-economic-development-dance-the-night-away"/>
-        <updated>2024-01-26T11:29:16.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2024 3:20 a.m.  A benefit for Oakland Economic Development is happening Saturday February 10th. OED and the Lamplighter Café present “All That Jazz, Dance the Night Away” from 7:00 p.m. to 10:00 p.m. at Stockyard Social Hall in Oakland. Attendees are invited to step back in time and dress up for this Roaring...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZONTA’S DOUBLE DONATION DRIVE CONTINUES THROUGH MARCH 4TH]]></title>
-        <id>https://kqennewsradio.com/?p=115261</id>
-        <link href="https://kqennewsradio.com/2024/01/26/zontas-double-donation-drive-continues-through-march-4th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zontas-double-donation-drive-continues-through-march-4th"/>
-        <updated>2024-01-26T11:13:35.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2024 3:10 a.m. Zonta Club of Roseburg is continuing with its Double Donation Drive through March 4th. Zonta is collecting clean, lightly used clothes for Sunrise Enterprises, who will make a nominal donation to Zonta for the clothes. In turn, Sunrise will benefit by having a larger selection of clothing for their retail...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
