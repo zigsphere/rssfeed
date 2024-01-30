@@ -289,6 +289,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54f8f86e-bf9b-11ee-af96-6fd8a6719196",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "The Four Chaplains ceremony will honor as-of-yet unnamed local community members in light of those who perished on Feb. 3, 1943, during the sinking of the U.S. Army Transport Ship USAT Dorchester.",
+          "link": "https://www.nrtoday.com/news/annual-four-chaplains-ceremony-returns-saturday/article_54f8f86e-bf9b-11ee-af96-6fd8a6719196.html",
+          "publishedOn": "2024-01-30T23:00:00.000Z",
+          "wordCount": 13853,
+          "title": "Annual Four Chaplains ceremony returns Saturday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/9d/09ddf1de-bf9d-11ee-83f9-ab9b90207b92/63deceda982fc.image.jpg?resize=300%2C193",
+            "length": "362390",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/9d/09ddf1de-bf9d-11ee-83f9-ab9b90207b92/63deceda982fc.image.jpg?resize=300%2C193"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/89dd9e96-bf04-11ee-b986-e39393d1785f",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Laurentino “Tino” Flores spent two weeks commuting between Springfield and Roseburg when he first opened his food truck Tino’s Tacos in May 2004. On Monday he celebrated his chance at “stability,” at a permanent location on Northeast Stephens Street.",
@@ -540,7 +555,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news169683",
+          "author": null,
+          "description": "State Forester Cal Mukumoto will be hosting a virtual listening session on Feb. 6 for Lane County residents who were unable to make it to last week’s in-person event due to the recent winter weather emergency starting. \nThe virtual listening session will start at 4 p.m. on Feb. 6. Advance registration is required and speakers will be called upon in the order they register. The Oregon Department of Forestry is asking that people only register if they are a Lane County resident who was unable to participate previously due to the weather event. A Zoom link and other information on providing comment will be provided by email following registration. For those who don’t want to comment but want to hear what others had to say, a recording of this virtual session—along with the one held earlier th…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news169683",
+          "publishedOn": "2024-01-30T19:59:54.000Z",
+          "wordCount": 2018,
+          "title": "Follow-up state forests listening session for Lane County residents",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
