@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115420",
+          "author": "Kyle Bailey",
+          "description": "January 31, 2024 2:20 p.m.  A Winston man and a Cottage Grove woman died in a two-vehicle crash on Tuesday. An Oregon State Police report said just after 1:20 p.m. troopers with Oregon State Police responded to the accident on Highway 42 and Rolling Hills Road. The preliminary investigation indicated that a tanker truck was...",
+          "link": "https://kqennewsradio.com/2024/01/31/winston-woman-cottage-grove-man-die-in-tuesday-crash/?utm_source=rss&utm_medium=rss&utm_campaign=winston-woman-cottage-grove-man-die-in-tuesday-crash",
+          "publishedOn": "2024-01-31T22:30:45.000Z",
+          "wordCount": 1620,
+          "title": "WINSTON WOMAN/COTTAGE GROVE MAN DIE IN TUESDAY CRASH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240131212937/CRASH2-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115418",
           "author": "Kyle Bailey",
           "description": "January 31, 2024 11:00 a.m.   A Roseburg woman was cited by Roseburg Police for driving under the influence of intoxicants and for speeding early Wednesday morning. An RPD report said shortly before 2:30 a.m. an officer witnessed the 25-year old commit traffic violations after leaving the parking lot of a business in the 900 block...",
@@ -408,6 +418,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a7932aa-bf97-11ee-a7b4-ab30cbfc0cf4",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Marjorie \"Marge\" Cook was one of the first women to enlist in the military — the first in Allegan County, Michigan, when she was 24. She died Jan. 26, at age 104.",
+          "link": "https://www.nrtoday.com/news/history/veteran-marge-cook-dies-at-104/article_8a7932aa-bf97-11ee-a7b4-ab30cbfc0cf4.html",
+          "publishedOn": "2024-01-31T23:00:00.000Z",
+          "wordCount": 13832,
+          "title": "Veteran Marge Cook dies at 104",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/a5/fa56bd90-bf97-11ee-a573-6fc2b0906491/63615aa952366.image.jpg?resize=300%2C200",
+            "length": "277145",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/a5/fa56bd90-bf97-11ee-a573-6fc2b0906491/63615aa952366.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/13c675ea-c056-11ee-a287-2f3520b53dba",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Professor Arronax and a team of explorers set out to investigate a terrifying sea creature, and find themselves kidnapped by Captain Nemo, as Umpqua Actors Community Theatre takes a deep-sea dive in “20,000 Leagues Under the Seas,” starting Thursday night.",
+          "link": "https://www.nrtoday.com/a_and_e/uact-underwater-exploration-in-20-000-leagues-under-the-seas/article_13c675ea-c056-11ee-a287-2f3520b53dba.html",
+          "publishedOn": "2024-01-31T21:00:00.000Z",
+          "wordCount": 14724,
+          "title": "UACT, underwater exploration in \"20,000 Leagues Under the Seas\"",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/05/f05e35ee-c068-11ee-b567-ff6f836a4e86/65ba9557a9b4a.image.jpg?resize=300%2C200",
+            "length": "295119",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/05/f05e35ee-c068-11ee-b567-ff6f836a4e86/65ba9557a9b4a.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c9fadf74-c04f-11ee-9ecc-132ca3597d9d",
           "author": "The News-Review",
