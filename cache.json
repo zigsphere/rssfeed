@@ -379,6 +379,121 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/989d914e-c084-11ee-96ac-43050e0913b4",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "For nearly a year, Umpqua Community College student athlete Andrew Lacey has been buried under parking tickets.",
+          "link": "https://www.nrtoday.com/news/local/local-college-student-buried-under-parking-tickets/article_989d914e-c084-11ee-96ac-43050e0913b4.html",
+          "publishedOn": "2024-02-02T16:00:00.000Z",
+          "wordCount": 14120,
+          "title": "Local college student buried under parking tickets",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e1/3e1bd7ac-c085-11ee-b5ef-a77fce07f05c/65bac4d40a280.image.jpg?resize=300%2C200",
+            "length": "231056",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e1/3e1bd7ac-c085-11ee-b5ef-a77fce07f05c/65bac4d40a280.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/479e0450-c16e-11ee-9535-533f38a108a2",
+          "author": null,
+          "description": "WINCHESTER BAY —Windy Cove Crab and Fishing Dock will be temporarily closing to asses water damage incurred in early January.",
+          "link": "https://www.nrtoday.com/briefs/windy-cove-crab-and-fishing-dock-closed/article_479e0450-c16e-11ee-9535-533f38a108a2.html",
+          "publishedOn": "2024-02-02T16:00:00.000Z",
+          "wordCount": 13085,
+          "title": "Windy Cove Crab and Fishing dock closed",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a7f4fe14-c149-11ee-b93e-b7da606742cd",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Students from Roseburg's Eastwood Elementary School sat in drift boats with yellow lifejackets. Orange and green bobbers sat in the water as the kids waited for a fish to bite.",
+          "link": "https://www.nrtoday.com/news/education/eastwood-students-catch-fish-ride-in-jet-boat-with-guides/article_a7f4fe14-c149-11ee-b93e-b7da606742cd.html",
+          "publishedOn": "2024-02-02T15:30:00.000Z",
+          "wordCount": 15071,
+          "title": "Eastwood students catch fish, ride in jet boat with guides",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/49/e494cab8-c147-11ee-b680-bb14151559d9/65bc0b65a8db7.image.jpg?resize=300%2C200",
+            "length": "674685",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/49/e494cab8-c147-11ee-b680-bb14151559d9/65bc0b65a8db7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0bfba1fa-c141-11ee-9f2b-c7f93c721b68",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Umpqua Valley Arts will hold a youth workshop 10 a.m. to noon Saturday.",
+          "link": "https://www.nrtoday.com/a_and_e/uva-to-host-youth-art-workshop-saturday/article_0bfba1fa-c141-11ee-9f2b-c7f93c721b68.html",
+          "publishedOn": "2024-02-02T15:30:00.000Z",
+          "wordCount": 13173,
+          "title": "UVA to host youth art workshop Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/386577d0-c140-11ee-a3e5-e75cf1095be4",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — The Celebration of Literacy is underway for the month of February.",
+          "link": "https://www.nrtoday.com/a_and_e/celebrate-literacy-throughout-february/article_386577d0-c140-11ee-a3e5-e75cf1095be4.html",
+          "publishedOn": "2024-02-02T15:00:00.000Z",
+          "wordCount": 13307,
+          "title": "Celebrate literacy throughout February",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d57b777c-c136-11ee-afb8-23f69dc78fdf",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "GREEN — Inspired Healthcare Capital, a private equity firm based out of Arizona, has broken ground on a new $20.8 million memory care and assisted living facility on 100 Winery Lane in Green.",
+          "link": "https://www.nrtoday.com/news/health/inspired-healthcare-capital-breaks-ground-on-memory-care-facility-in-green/article_d57b777c-c136-11ee-afb8-23f69dc78fdf.html",
+          "publishedOn": "2024-02-02T15:00:00.000Z",
+          "wordCount": 13826,
+          "title": "Inspired Healthcare Capital breaks ground on memory care facility in Green",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/e4/7e4d70ce-c14d-11ee-91d7-27fd32c45c04/65bc14cb14453.image.jpg?resize=300%2C200",
+            "length": "233374",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/e4/7e4d70ce-c14d-11ee-91d7-27fd32c45c04/65bc14cb14453.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0905f1ea-bf8d-11ee-ad5d-67d55ca20f01",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Physician, renowned international speaker and author of the New York Times best-selling book, “How Not to Die,” Dr. Michael Greger will be presenting topics covered in his latest book, “How Not to Age,” on Tuesday at Umpqua Community College’s Jacoby…",
+          "link": "https://www.nrtoday.com/news/learn-how-not-to-age-at-ucc-on-tuesday/article_0905f1ea-bf8d-11ee-ad5d-67d55ca20f01.html",
+          "publishedOn": "2024-02-02T15:00:00.000Z",
+          "wordCount": 13774,
+          "title": "Learn 'How Not to Age' at UCC on Tuesday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/62/b6205a70-c12f-11ee-9424-effbadd08b62/65bc095ac66c7.image.jpg?resize=300%2C372",
+            "length": "107173",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/62/b6205a70-c12f-11ee-9424-effbadd08b62/65bc095ac66c7.image.jpg?resize=300%2C372"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/abccc100-c18c-11ee-875d-7bb8dcda3106",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A white rope fluttered around the man holding it, shaping into loops around him which he stepped in and out of, as people filed into the room and sat in the metal chairs to watch.",
+          "link": "https://www.nrtoday.com/news/education/rope-tricks-and-cultural-dances-at-roseburg-library/article_abccc100-c18c-11ee-875d-7bb8dcda3106.html",
+          "publishedOn": "2024-02-02T14:45:00.000Z",
+          "wordCount": 14161,
+          "title": "Rope tricks and cultural dances at Roseburg library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/0c/60c023e2-c18b-11ee-bd2b-b720cb45aacb/65bc7c9e47c34.image.jpg?resize=300%2C200",
+            "length": "428864",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/0c/60c023e2-c18b-11ee-bd2b-b720cb45aacb/65bc7c9e47c34.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6d3468e8-c1d8-11ee-b313-a79c3e19cf17",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "CANYONVILLE — The 52nd annual Greatest of the Grape event will take place from 6-11 p.m. Saturday at Seven Feathers Casino Resort in Canyonville.",
+          "link": "https://www.nrtoday.com/business/greatest-of-the-grape-this-saturday/article_6d3468e8-c1d8-11ee-b313-a79c3e19cf17.html",
+          "publishedOn": "2024-02-02T14:36:00.000Z",
+          "wordCount": 13229,
+          "title": "Greatest of the Grape this Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9e4a9c64-bfbb-11ee-985f-571f72283cf7",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "ELKTON — Douglas Education Service District noted Elkton School District is on the search for a new principal, and qualified applicants are welcome to apply.",
@@ -595,23 +710,7 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": [
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news169679",
-          "author": null,
-          "description": "WINCHESTER BAY, Ore. - A Eugene man who went scuba diving in the Umpqua River near the mouth of the Pacific Ocean is considered missing after he did not surface. \nOn Sunday, January 29, 2024, shortly before 3:00 p.m., 9-1-1 dispatchers received a call from a female reporting her friend, 47-year-old Jeffery Scott Harris of Eugene, missing. Harris had gone scuba diving in the Umpqua River near the mouth of the Pacific Ocean in Winchester Bay at approximately 12:30 p.m. Sunday afternoon. Harris, who had previous diving experience, had not returned prompting the call to emergency personnel. \nThe Douglas County Sheriff's Office, along with the United States Coast Guard (USCG), began a large-scale search for Harris. Two USCG Boats along with a helicopter searched the water. The Sheriff's Office Search and Rescue unit searched by land with K9 teams and ATVs until dark. \nOn Monday, searchers resumed their efforts by water and ground. Dive Rescue teams from Douglas County and Lane County attempted to dive in the morning during low tide but had to abort efforts due to dangerous diving conditions. The USCG helicopter assisted in searching throughout the morning. \n“We have been in communication with Jeffrey's family and have kept them updated as to the efforts that are being made. We are doing everything we can to assist them in locating Jeffrey,” Lt. Brad O'Dell said. “Deputies will return Tuesday to patrol the area by land. We are also coordinating with outside agencies to determine if specialized underwater searching equipment can be utilized in the conditions.”\nThe Sheriff's Office has been assisted by the United States Coast Guard, Oregon State SAR Coordinator, CAHOOTS of Eugene, Lane County Search and Rescue, Douglas County Marine Patrol and Douglas County Search and Rescue.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news169679",
-          "publishedOn": "2024-01-30T04:04:26.000Z",
-          "wordCount": 1613,
-          "title": "Search Continues for Missing Scuba Diver (Photo)",
-          "enclosure": {
-            "url": "http://www.flashalertnewswire.net/images/news/2024-01/5204/169679/WB_Searchers.jpg",
-            "length": "1910763",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-01/5204/169679/WB_Searchers.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Roseburg Police Dept.",
