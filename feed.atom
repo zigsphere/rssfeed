@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-03T13:09:43.410Z</updated>
+    <updated>2024-02-03T16:12:11.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Public Library celebrates love]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6a261aee-c1f0-11ee-b959-033e6a52e82f</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-public-library-celebrates-love/article_6a261aee-c1f0-11ee-b959-033e6a52e82f.html"/>
+        <updated>2024-02-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Valentine’s Day provides the perfect opportunity to read books about love. As a bonus, all of our picks this month are written by literary icons — writers who get a lot of love from readers whenever they publish a new…]]></summary>
+        <author>
+            <name>AURORA ROPP AND KRIS WILEY For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research resources available at the library]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4ab6b682-c132-11ee-90b4-8ffdd977ca9c</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/research-resources-available-at-the-library/article_4ab6b682-c132-11ee-90b4-8ffdd977ca9c.html"/>
+        <updated>2024-02-03T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers interested in local newspaper archives may want to stop by Roseburg Public Library.]]></summary>
+        <author>
+            <name>Kris Wiley for The News Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bar Run Golf and RV Resort gets summer ready with new pool]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/76b91b76-bfb1-11ee-abc6-e39d1d5e633d</id>
+        <link href="https://www.nrtoday.com/business/bar-run-golf-and-rv-resort-gets-summer-ready-with-new-pool/article_76b91b76-bfb1-11ee-abc6-e39d1d5e633d.html"/>
+        <updated>2024-02-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Guests will now get the opportunity to sink or swim at the Bar Run Golf and RV Resort in Roseburg. After sinking those golf balls on the 18-hole, par-70 course designed by Dan Hixson, visitors can relax by the 12,000…]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Local college student buried under parking tickets]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/989d914e-c084-11ee-96ac-43050e0913b4</id>
