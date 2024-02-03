@@ -229,6 +229,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/007b1396-c1ec-11ee-a751-071d77643edd",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Coffenberry Middle School was a scene of students and advisors dressed in business clothes, as students from across Douglas and Josephine counties gathered to show their business skills.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-students-qualify-for-state-in-fbla-regionals-competition/article_007b1396-c1ec-11ee-a751-071d77643edd.html",
+          "publishedOn": "2024-02-03T16:56:00.000Z",
+          "wordCount": 14008,
+          "title": "Roseburg students qualify for state in FBLA regionals competition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/4e/84e7e3be-c1ee-11ee-be6d-af8908e69149/65bd22f31f6da.image.jpg?resize=300%2C226",
+            "length": "337934",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/4e/84e7e3be-c1ee-11ee-be6d-af8908e69149/65bd22f31f6da.image.jpg?resize=300%2C226"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6a261aee-c1f0-11ee-b959-033e6a52e82f",
           "author": "AURORA ROPP AND KRIS WILEY For The News-Review",
           "description": "Valentine’s Day provides the perfect opportunity to read books about love. As a bonus, all of our picks this month are written by literary icons — writers who get a lot of love from readers whenever they publish a new…",
