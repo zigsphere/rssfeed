@@ -289,6 +289,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f1d5f624-c46d-11ee-ad20-a3cf1cdab351",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Associated Oregon Loggers announced Kelly Mitchell, of Gene Whitaker Trucking, as 2023 Woman Logger of the Year.",
+          "link": "https://www.nrtoday.com/family/kelly-mitchell-named-2023-woman-logger-of-the-year/article_f1d5f624-c46d-11ee-ad20-a3cf1cdab351.html",
+          "publishedOn": "2024-02-06T16:00:00.000Z",
+          "wordCount": 13600,
+          "title": "Kelly Mitchell named 2023 Woman Logger of the Year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/45/645c3764-c47b-11ee-907b-db67c5b612d6/65c16a49d8a72.image.jpg?resize=300%2C400",
+            "length": "487273",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/45/645c3764-c47b-11ee-907b-db67c5b612d6/65c16a49d8a72.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/285880ee-c474-11ee-b325-2fa66cef1449",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "MYRTLE CREEK — Sandra Harris-Hubbell learned her ABCs painting caricatures of each letter with her dad; she soon learned at school this wasn’t the common way.",
+          "link": "https://www.nrtoday.com/news/eternity-road-arts-llc-combining-a-love-of-education-art-and-coffee/article_285880ee-c474-11ee-b325-2fa66cef1449.html",
+          "publishedOn": "2024-02-06T15:45:00.000Z",
+          "wordCount": 14210,
+          "title": "Eternity Road Arts LLC: Combining a love of education, art and coffee",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/5e/c5e8db18-c480-11ee-80ce-0f8e26eeaafc/65c1735108806.image.jpg?resize=300%2C225",
+            "length": "256631",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/5e/c5e8db18-c480-11ee-80ce-0f8e26eeaafc/65c1735108806.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/833c6e70-c475-11ee-8ae3-67c90cc453e6",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "The new county-wide program, Sip Safe, has launched phase one of their project in an effort to eliminate drink spiking at bars and restaurants, and create awareness surrounding the issue.",
+          "link": "https://www.nrtoday.com/news/health/sip-safe-hopes-to-eliminate-drink-spiking/article_833c6e70-c475-11ee-8ae3-67c90cc453e6.html",
+          "publishedOn": "2024-02-06T14:45:00.000Z",
+          "wordCount": 14059,
+          "title": "Sip Safe hopes to eliminate drink spiking",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/88/a88aac88-c1fe-11ee-a314-5b7f04cd30cf/65bd3e06d2ae4.image.jpg?resize=300%2C200",
+            "length": "287534",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/88/a88aac88-c1fe-11ee-a314-5b7f04cd30cf/65bd3e06d2ae4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/17277db6-c4a6-11ee-8964-bbacada017bb",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Parmalee, Colt Ford and Smash Mouth will be the headliners for the 2024 Douglas County Fair.",
+          "link": "https://www.nrtoday.com/a_and_e/headliners-announced-for-douglas-county-fair/article_17277db6-c4a6-11ee-8964-bbacada017bb.html",
+          "publishedOn": "2024-02-06T11:30:00.000Z",
+          "wordCount": 13373,
+          "title": "Headliners announced for Douglas County Fair",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/17277db6-c4a6-11ee-8964-bbacada017bb",
           "author": "SANNE GODFREY The News-Review",
           "description": "Parmalee, Colt Ford and Smash Mouth will be the headliners for the 2024 Douglas County Fair.",
