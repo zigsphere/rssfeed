@@ -429,6 +429,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0c7e0d2e-c502-11ee-8b34-03eee352ccaa",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Douglas County Take Root Parenting Connection is hosting ScreenStrong Kids’ Brains and Screens on Friday and Saturday at Roseburg High School and online via Zoom.",
+          "link": "https://www.nrtoday.com/news/health/protecting-the-brain-workshop-on-the-impact-of-screen-overuse/article_0c7e0d2e-c502-11ee-8b34-03eee352ccaa.html",
+          "publishedOn": "2024-02-07T16:00:00.000Z",
+          "wordCount": 13474,
+          "title": "Protecting the brain: Workshop on the impact of screen overuse",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9beb0ed4-c56c-11ee-8aaf-cbae749567cc",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "WINCHESTER — “Frying is an abomination.”",
+          "link": "https://www.nrtoday.com/news/health/bestselling-author-specializing-in-nutrition-speaks-at-umpqua-community-college/article_9beb0ed4-c56c-11ee-8aaf-cbae749567cc.html",
+          "publishedOn": "2024-02-07T16:00:00.000Z",
+          "wordCount": 13358,
+          "title": "Bestselling author specializing in nutrition speaks at Umpqua Community College",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/fa/3fab813e-c56d-11ee-9c27-dbaa7178a786/65c3000e841ed.image.jpg?resize=300%2C200",
+            "length": "175226",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/fa/3fab813e-c56d-11ee-9c27-dbaa7178a786/65c3000e841ed.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9b99d420-c548-11ee-8db3-a32c0a1722d7",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "A scheduled release hearing for Uriah Shawn Strauss became the opportunity for his defense attorney Kim Raley to explain where the case stands given her recent appointment as counsel; no release hearing was held.",
+          "link": "https://www.nrtoday.com/news/strauss-case-proceedings-suspended-due-to-fitness-to-proceed/article_9b99d420-c548-11ee-8db3-a32c0a1722d7.html",
+          "publishedOn": "2024-02-07T15:45:00.000Z",
+          "wordCount": 13437,
+          "title": "Strauss case proceedings suspended due to fitness to proceed",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/28/0287d1e2-ab17-11ee-ba05-8f8b987ad294/64f9db4c006ce.image.jpg",
+            "length": "11637",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/28/0287d1e2-ab17-11ee-ba05-8f8b987ad294/64f9db4c006ce.image.jpg"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/088538f8-c47d-11ee-ba42-2bbfe709fbaf",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "To celebrate his birthday this year, Patrick Davies showed up to Bobalou Billiards to shoot a game of pool with Prescilla Davies.",
@@ -592,21 +632,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/45/c45362c6-c2f7-11ee-82d0-938fdd8d4f23/633ee9110e79a.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f7836da8-c220-11ee-bff1-939fe9902f51",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SOUTH UMPQUA — After a lengthy search, the South Umpqua School District board announced that Erika Bare has been appointed as the next superintendent.",
-          "link": "https://www.nrtoday.com/news/education/erika-bare-announced-as-new-south-umpqua-superintendent/article_f7836da8-c220-11ee-bff1-939fe9902f51.html",
-          "publishedOn": "2024-02-04T01:30:00.000Z",
-          "wordCount": 13922,
-          "title": "Erika Bare announced as new South Umpqua superintendent",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/16/416418b4-c221-11ee-b799-4bcf7f64e297/65b86272f351c.image.jpg?resize=300%2C200",
-            "length": "340118",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/16/416418b4-c221-11ee-b799-4bcf7f64e297/65b86272f351c.image.jpg?resize=300%2C200"
         }
       ]
     },
