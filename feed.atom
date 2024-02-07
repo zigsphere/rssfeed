@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-07T19:08:02.336Z</updated>
+    <updated>2024-02-07T23:09:58.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COOS BAY MAN DIES IN TWO-VEHICLE ACCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=115576</id>
+        <link href="https://kqennewsradio.com/2024/02/07/coos-bay-man-dies-in-two-vehicle-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coos-bay-man-dies-in-two-vehicle-accident"/>
+        <updated>2024-02-07T22:38:33.000Z</updated>
+        <summary type="html"><![CDATA[February 7, 2024 4:35 p.m. A Coos Bay man died in a two-vehicle accident on Highway 42 in Coos County on Monday afternoon. An Oregon State Police report released on Wednesday said just before 4:40 p.m. troopers responded to the wreck about 2.5 miles east of Coos Bay. The preliminary investigation indicated a westbound sedan...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG HIGH SCHOOL ANNUAL BAND BINGO NIGHT FEBRUARY 15TH]]></title>
+        <id>https://kqennewsradio.com/?p=115572</id>
+        <link href="https://kqennewsradio.com/2024/02/07/roseburg-high-school-annual-band-bingo-night-february-15th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-high-school-annual-band-bingo-night-february-15th"/>
+        <updated>2024-02-07T19:16:50.000Z</updated>
+        <summary type="html"><![CDATA[February 7, 2024 11:20 a.m. Roseburg High School will have its annual band bingo night on Thursday night February 15th. Director of Bands Brandon Hansen said the event will take place in the RHS Student Center. Doors open at 6:00 p.m. for sales and seating. Bingo begins at 6:30 p.m. with bingo cards on sale...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAN CITED FOR DUII ALCOHOL BY ROSEBURG POLICE TUESDAY NIGHT]]></title>
+        <id>https://kqennewsradio.com/?p=115570</id>
+        <link href="https://kqennewsradio.com/2024/02/07/man-cited-for-duii-alcohol-by-roseburg-police-tuesday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=man-cited-for-duii-alcohol-by-roseburg-police-tuesday-night"/>
+        <updated>2024-02-07T19:07:36.000Z</updated>
+        <summary type="html"><![CDATA[February 7, 2024 11:05 a.m. A Roseburg man was cited for driving under the influence of intoxicants-alcohol on Tuesday night. An RPD report at 7:50 p.m. a citizen was in line at a store in the 1500 block of Southeast Stephens Street and allegedly saw the clerk refuse to allow a 37-year-old man to purchase...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR DRIVING WHILE SUSPENDED/DRIVING UNINSURED]]></title>
         <id>https://kqennewsradio.com/?p=115568</id>
@@ -604,16 +634,6 @@
         <summary type="html"><![CDATA[ROSEBURG — Umpqua Valley Audubon Society and Roseburg Public Library are co-hosting a Facebook live streaming event with conservationist Paul Engelmeyer at 6:30 p.m. Wednesday.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Roseburg in a high tech treasure hunt]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3bdce6de-c12a-11ee-b3cd-538cf8278374</id>
-        <link href="https://www.nrtoday.com/news/local/exploring-roseburg-in-a-high-tech-treasure-hunt/article_3bdce6de-c12a-11ee-b3cd-538cf8278374.html"/>
-        <updated>2024-02-04T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A seeming sense of curiosity pasted itself among the faces of those lined up Saturday morning under the pavilion at Stewart Park, ready to engage in a day of geocaching.]]></summary>
-        <author>
-            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
 </feed>
