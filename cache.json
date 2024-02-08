@@ -469,6 +469,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2e234990-c600-11ee-80b1-3b3116ef2a51",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "OREGON — The Oregon Office of the Long-Term Care Ombudsman is seeking volunteers to serve as advocates for residents of long-term care.",
+          "link": "https://www.nrtoday.com/briefs/office-of-long-term-care-ombudsman-seeking-volunteers/article_2e234990-c600-11ee-80b1-3b3116ef2a51.html",
+          "publishedOn": "2024-02-08T16:00:00.000Z",
+          "wordCount": 13183,
+          "title": "Office of Long-Term Care Ombudsman seeking volunteers",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f40c0f30-c609-11ee-aed9-5fd9b9609687",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Douglas County Sheriff’s Office Deputy Larissa May and John Punches were awarded for their dedicated work to the Douglas County Sheriff’s Office Search and Rescue Unit.",
+          "link": "https://www.nrtoday.com/news/dcso-search-and-rescue-members-awarded-for-service/article_f40c0f30-c609-11ee-aed9-5fd9b9609687.html",
+          "publishedOn": "2024-02-08T16:00:00.000Z",
+          "wordCount": 14435,
+          "title": "DCSO Search and Rescue members awarded for service",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/85/8854beaa-c5e5-11ee-ac14-0bb82c258c02/65c3c9dc0dbcb.image.jpg?resize=300%2C200",
+            "length": "388468",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/85/8854beaa-c5e5-11ee-ac14-0bb82c258c02/65c3c9dc0dbcb.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f970a5ce-c61f-11ee-b361-f3480f3f69e8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Droves of children swarm off the school buses and into the Boys and Girls Club of the Umpqua Valley after school each day, but on Wednesday those who visited the art room engaged in a special project.",
+          "link": "https://www.nrtoday.com/family/children-craft-valentines-day-cards-for-veterans/article_f970a5ce-c61f-11ee-b361-f3480f3f69e8.html",
+          "publishedOn": "2024-02-08T16:00:00.000Z",
+          "wordCount": 14415,
+          "title": "Children craft Valentine's Day cards for veterans",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a5/8a518860-c620-11ee-b02f-876f0cd080a8/65c42cdbaa404.image.jpg?resize=300%2C200",
+            "length": "286334",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a5/8a518860-c620-11ee-b02f-876f0cd080a8/65c42cdbaa404.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d2740f30-c5ff-11ee-b51d-43090d803bbe",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Geneva Academy will host an open house 9-10 a.m. Friday at the K-2 Hucrest Campus, 2075 NW Witherspoon Ave., Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/geneva-academy-hosts-open-house-friday/article_d2740f30-c5ff-11ee-b51d-43090d803bbe.html",
+          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "wordCount": 13189,
+          "title": "Geneva Academy hosts open house Friday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0c7e0d2e-c502-11ee-8b34-03eee352ccaa",
           "author": "BRITTANY ARNOLD The News-Review",
           "description": "Douglas County Take Root Parenting Connection is hosting ScreenStrong Kids’ Brains and Screens on Friday and Saturday at Roseburg High School and online via Zoom.",
