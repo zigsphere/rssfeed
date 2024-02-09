@@ -534,16 +534,6 @@
           "wordCount": 1538,
           "title": "CELEBRATION OF LITERACY EVENTS FOR THE WEEK",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240122100424/col-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115504",
-          "author": "Kyle Bailey",
-          "description": "February 6, 2024 2:55 a.m. In the KQEN Cultural Spotlight: The Art Gallery at Umpqua Community College presents UCC’s Visual Art Faculty show of 2024 starting soon. A college release said Susan Rochester, Greg Price, Noelle Herceg, and Tiffany Hokanson collaborate in this 4-person show highlighting their personal practice and development while teaching college art...",
-          "link": "https://kqennewsradio.com/2024/02/06/art-gallery-presents-virtual-art-faculty-show/?utm_source=rss&utm_medium=rss&utm_campaign=art-gallery-presents-virtual-art-faculty-show",
-          "publishedOn": "2024-02-06T10:59:51.000Z",
-          "wordCount": 1630,
-          "title": "ART GALLERY PRESENTS VIRTUAL ART FACULTY SHOW",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
@@ -558,6 +548,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2895da8e-c528-11ee-971a-bfb325950fdc",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "If you ask Trevor Thompson's students about his passion for his job, they will tell you it's more a calling than actual work.",
+          "link": "https://www.nrtoday.com/news/education/jo-lane-s-thompson-named-2024-outstanding-middle-school-music-educator/article_2895da8e-c528-11ee-971a-bfb325950fdc.html",
+          "publishedOn": "2024-02-09T22:00:00.000Z",
+          "wordCount": 14441,
+          "title": "Jo Lane’s Thompson named 2024 Outstanding Middle School Music Educator",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/20/32020cb2-c6d3-11ee-bb25-27b47eccadf0/65c558976e081.image.jpg?resize=300%2C200",
+            "length": "259992",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/20/32020cb2-c6d3-11ee-bb25-27b47eccadf0/65c558976e081.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/88abbd54-c6bc-11ee-ba39-134ad70ca7c5",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "The northbound Interstate 5 exit 125 on-ramp for eastbound Garden Valley Boulevard will be closed 8 p.m. to 6 a.m. for four consecutive days beginning Monday for sidewalk construction.",
+          "link": "https://www.nrtoday.com/news/local/exit-125-northbound-on-ramp-to-close-for-four-days-starting-monday/article_88abbd54-c6bc-11ee-ba39-134ad70ca7c5.html",
+          "publishedOn": "2024-02-09T19:59:00.000Z",
+          "wordCount": 13485,
+          "title": "Exit 125 northbound on-ramp to close for four days starting Monday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b8/fb83699c-6845-11ee-9723-0fd2ba9219e5/6526b6fba60cf.image.jpg?resize=300%2C215",
+            "length": "142805",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b8/fb83699c-6845-11ee-9723-0fd2ba9219e5/6526b6fba60cf.image.jpg?resize=300%2C215"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5581e52e-c528-11ee-a4f8-efa89d1a30e0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DAYS CREEK — Days Creek High School is offering 15 students the opportunity to try a new more comprehensive manufacture training and education program.",
+          "link": "https://www.nrtoday.com/news/education/new-program-gives-both-school-and-work-credit-to-days-creek-students/article_5581e52e-c528-11ee-a4f8-efa89d1a30e0.html",
+          "publishedOn": "2024-02-09T19:45:00.000Z",
+          "wordCount": 14426,
+          "title": "New program gives both school and work credit to Days Creek students",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/b7/5b7e33f4-c6c4-11ee-8816-b34841e6f351/65c53fb292863.image.jpg?resize=300%2C200",
+            "length": "374474",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/b7/5b7e33f4-c6c4-11ee-8816-b34841e6f351/65c53fb292863.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/115e8684-c778-11ee-8ea4-e3cc0b36db98",
           "author": "Kyle Bailey For The News-Review",
