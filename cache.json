@@ -469,6 +469,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/93640c12-c6a1-11ee-b71f-1fedeaa14fa4",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "A small, wooden stage pushed up against a brown, concrete wall in the back of a parking lot downtown Roseburg will soon be transformed into a community gathering place called the Umpqua Outback Stage and Community Space.",
+          "link": "https://www.nrtoday.com/news/umpqua-watersheds-brings-outdoor-community-venue-stage/article_93640c12-c6a1-11ee-b71f-1fedeaa14fa4.html",
+          "publishedOn": "2024-02-09T15:45:00.000Z",
+          "wordCount": 14155,
+          "title": "Umpqua Watersheds brings outdoor community venue, stage",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7d/57dcf822-c622-11ee-b90c-3301b05b6bd9/65c42fe20a0f9.image.jpg?resize=300%2C200",
+            "length": "516360",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7d/57dcf822-c622-11ee-b90c-3301b05b6bd9/65c42fe20a0f9.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e3424e16-c6c8-11ee-8460-33d601176e28",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — The annual Battle of the Badges is coming next month for first responders with the city of Sutherlin.",
+          "link": "https://www.nrtoday.com/briefs/battle-of-the-badges-coming-in-march/article_e3424e16-c6c8-11ee-8460-33d601176e28.html",
+          "publishedOn": "2024-02-09T15:30:00.000Z",
+          "wordCount": 13187,
+          "title": "Battle of the Badges coming in March",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/218d393e-c6c8-11ee-a3fd-ef1393f76bbc",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OAKLAND — Residents can step back in time with \"All That Jazz\" on Saturday night. Oakland Economic Development and the Lamplighter Café are presenting the event 7-10 p.m. at the Stockyard Social Hall, 127 NE First St., Oakland.",
+          "link": "https://www.nrtoday.com/briefs/step-back-to-the-roaring-20s/article_218d393e-c6c8-11ee-a3fd-ef1393f76bbc.html",
+          "publishedOn": "2024-02-09T15:15:00.000Z",
+          "wordCount": 13202,
+          "title": "Step back to the roaring '20s",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a7ff6426-c6c6-11ee-9d84-8f156281248a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINCHESTER — Zonta Club of Roseburg and Umpqua Community College are teaming up during Zonta’s Double Donation drive.",
+          "link": "https://www.nrtoday.com/briefs/free-popcorn-with-clothing-donation-saturday/article_a7ff6426-c6c6-11ee-9d84-8f156281248a.html",
+          "publishedOn": "2024-02-09T15:00:00.000Z",
+          "wordCount": 13274,
+          "title": "Free popcorn with clothing donation Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/43c630e8-c6bc-11ee-ab99-ef17a56dc164",
           "author": "SANNE GODFREY The News-Review",
           "description": "Randy Lynn Goddard, 61, of Sutherlin, was arrested Wednesday evening after he allegedly shot a woman in the leg.",
