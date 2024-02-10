@@ -429,6 +429,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/74ee3d28-c770-11ee-ac7b-d7821389283b",
+          "author": "Kris Wiley for The News Review",
+          "description": "Roseburg Public Library has created a number of ways for community members to stay connected with services, programs and projects.",
+          "link": "https://www.nrtoday.com/news/guest_submission/lots-of-ways-to-connect-with-roseburg-public-library/article_74ee3d28-c770-11ee-ac7b-d7821389283b.html",
+          "publishedOn": "2024-02-10T14:45:00.000Z",
+          "wordCount": 13510,
+          "title": "Lots of ways to connect with Roseburg Public Library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/2895da8e-c528-11ee-971a-bfb325950fdc",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "If you ask Trevor Thompson's students about his passion for his job, they will tell you it's more a calling than actual work.",
@@ -657,21 +672,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/28/0287d1e2-ab17-11ee-ba05-8f8b987ad294/64f9db4c006ce.image.jpg"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/088538f8-c47d-11ee-ba42-2bbfe709fbaf",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "To celebrate his birthday this year, Patrick Davies showed up to Bobalou Billiards to shoot a game of pool with Prescilla Davies.",
-          "link": "https://www.nrtoday.com/family/bobalou-billiard-offers-space-for-games/article_088538f8-c47d-11ee-ba42-2bbfe709fbaf.html",
-          "publishedOn": "2024-02-07T03:00:00.000Z",
-          "wordCount": 13998,
-          "title": "Bobalou Billiard offers space for games",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/1d/c1d73b5c-c492-11ee-a007-d3fdf3e3c4bf/65c1917d24f73.image.jpg?resize=300%2C200",
-            "length": "175307",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/1d/c1d73b5c-c492-11ee-a007-d3fdf3e3c4bf/65c1917d24f73.image.jpg?resize=300%2C200"
         }
       ]
     },
