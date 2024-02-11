@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-11T13:10:12.951Z</updated>
+    <updated>2024-02-11T16:11:44.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transients jailed following reported burglary incident]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/418d90c4-c846-11ee-9b5f-c7bd64773e43</id>
+        <link href="https://www.nrtoday.com/briefs/transients-jailed-following-reported-burglary-incident/article_418d90c4-c846-11ee-9b5f-c7bd64773e43.html"/>
+        <updated>2024-02-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Two transients were jailed following a reported burglary incident east of Roseburg on Thursday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tractor Supply Company hosts pet treat tasing event]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/575b7244-c6b7-11ee-a070-f734efdd7677</id>
+        <link href="https://www.nrtoday.com/briefs/tractor-supply-company-hosts-pet-treat-tasing-event/article_575b7244-c6b7-11ee-a070-f734efdd7677.html"/>
+        <updated>2024-02-11T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Tractor Supply Company is hosting a pet treat tasting event here in Sutherlin from 10 a.m. to 3 p.m. on Feb. 17, giving the chance for pets to sample a variety of the company's treat.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A family huddle: Super Bowl tradition spans generations]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/12b4013a-c840-11ee-9376-8f5f10bcda50</id>
