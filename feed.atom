@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-11T16:11:44.743Z</updated>
+    <updated>2024-02-11T19:08:29.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Empower event tickets still on sale]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6e58679e-c83e-11ee-9cf8-73f547f88009</id>
+        <link href="https://www.nrtoday.com/a_and_e/empower-event-tickets-still-on-sale/article_6e58679e-c83e-11ee-9cf8-73f547f88009.html"/>
+        <updated>2024-02-11T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — The Peace at Home Advocacy Center EMPOWER event will take place March 2 at Seven Feathers Casino Resort, 146 Chief Miwaleta Lane, Canyonville.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transients jailed following reported burglary incident]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/418d90c4-c846-11ee-9b5f-c7bd64773e43</id>
