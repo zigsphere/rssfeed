@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115679",
+          "author": "Kyle Bailey",
+          "description": "February 12, 2024 3:00 p.m.  Roseburg Police responded to seven DUII incidents in 48 hours, between early Friday and early Sunday. Information from RPD said at 2:30 a.m. Friday, officers stopped a 23-year-old man for an expired registration near the intersection of Northeast Jackson Street ant Northeast Freemont Avenue. The driver consented to stand field...",
+          "link": "https://kqennewsradio.com/2024/02/12/roseburg-police-respond-to-seven-duii-incidents-in-48-hours/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-respond-to-seven-duii-incidents-in-48-hours",
+          "publishedOn": "2024-02-12T23:08:20.000Z",
+          "wordCount": 1794,
+          "title": "ROSEBURG POLICE RESPOND TO SEVEN DUII INCIDENTS IN 48 HOURS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115675",
           "author": "Kyle Bailey",
           "description": "February 12, 2024 11:00 a.m.  A contractor working for the Oregon Department of Transportation is closing the Exit 125 northbound loop on-ramp for eastbound traffic nightly through Thursday from 8:00 p.m. to 6:00 a.m. The loop on-ramp is located at the southeast corner of the interchange, next to the northbound off-ramp. All other ramps at...",
@@ -284,16 +294,6 @@
           "wordCount": 1488,
           "title": "SALUTE TO VETERAN PATIENTS BINGO NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220220/va-e1618310167525.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115605",
-          "author": "Kyle Bailey",
-          "description": "February 9, 2024 2:50 a.m. Roseburg Police jailed a man for an alleged trespass incident on Wednesday. An RPD report said at 9:35 a.m. officers responded to a business in the 1600 block of Northeast Stephens Street after a 63-year-old man went to that location after being previously trespassed. He was charged with second-degree criminal...",
-          "link": "https://kqennewsradio.com/2024/02/09/roseburg-police-jail-man-for-alleged-trespass-incident-18/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-alleged-trespass-incident-18",
-          "publishedOn": "2024-02-09T10:56:56.000Z",
-          "wordCount": 1467,
-          "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED TRESPASS INCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
         }
       ]
     },
@@ -308,6 +308,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9d0f0728-c9f1-11ee-b72b-a38013b25a16",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — The Miss Douglas County Scholarship Program is returning 2 p.m. March 3 to the Jacoby Auditorium at the Umpqua Community College campus.",
+          "link": "https://www.nrtoday.com/family/miss-douglas-county-competition-returns-in-march/article_9d0f0728-c9f1-11ee-b72b-a38013b25a16.html",
+          "publishedOn": "2024-02-12T21:56:00.000Z",
+          "wordCount": 13130,
+          "title": "Miss Douglas County competition returns in March",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f33ea70-c9c6-11ee-8ec8-1b9ec7df8687",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OREGON — Free fishing weekend in Oregon is celebrated this weekend, ahead of President’s Day.",
+          "link": "https://www.nrtoday.com/news/environment/free-fishing-this-weekend/article_0f33ea70-c9c6-11ee-8ec8-1b9ec7df8687.html",
+          "publishedOn": "2024-02-12T16:44:00.000Z",
+          "wordCount": 13117,
+          "title": "Free fishing this weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6e58679e-c83e-11ee-9cf8-73f547f88009",
           "author": "Kyle Bailey For The News-Review",
