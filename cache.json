@@ -339,6 +339,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8afdc5c4-ca00-11ee-83fe-ebfdc3c7094d",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "CANYONVILLE — An elderly resident came over to Rain Clark, manager of Forest Glen Senior Residence, strolling in his wheelchair.",
+          "link": "https://www.nrtoday.com/news/assisted-living-facility-faces-immediate-closure-residents-fear-eviction/article_8afdc5c4-ca00-11ee-83fe-ebfdc3c7094d.html",
+          "publishedOn": "2024-02-13T19:30:00.000Z",
+          "wordCount": 13735,
+          "title": "Assisted living facility faces immediate closure, residents fear eviction",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3a/93ad542a-ca17-11ee-baf7-4b50e8737095/64a5e361499c6.image.jpg?resize=300%2C200",
+            "length": "610287",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3a/93ad542a-ca17-11ee-baf7-4b50e8737095/64a5e361499c6.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/59cc39f4-ca9b-11ee-af04-93b8a1684de4",
           "author": "Kyle Bailey For The News-Review",
           "description": "ROSEBURG — Douglas C.A.R.E.S will have its annual bowling night from 6-8 p.m. March 12.",
