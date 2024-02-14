@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115768",
+          "author": "Kyle Bailey",
+          "description": "February 14, 2024 3:00 p.m.  A Winter Storm Warning is in effect through 4:00 a.m. Friday above 5,000 feet for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected. Additional snow accumulations of 15 to 20 inches with up to 35 inches over high remote terrain...",
+          "link": "https://kqennewsradio.com/2024/02/14/winter-storm-warning-through-400-a-m-friday-above-5000-feet/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-through-400-a-m-friday-above-5000-feet",
+          "publishedOn": "2024-02-14T23:08:16.000Z",
+          "wordCount": 1632,
+          "title": "WINTER STORM WARNING THROUGH 4:00 A.M.FRIDAY ABOVE 5,000 FEET",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240214220759/wedpm-7.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115760",
           "author": "Kyle Bailey",
           "description": "February 14, 2024 11:00 a.m.  Wildlife Safari has announced the birth of two Cotton Top Tamarin babies. A Safari release said it occurred on January 25th in the game park’s village. The parents are Bey and Colonel Mustard. Public Relations Manager Taylor Holeman said the birth is a significant event for the conservation of these...",
@@ -429,6 +439,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6c6d6500-cad8-11ee-81f4-b3431be699cd",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Upon seeing Urban Blendz for the first time, you’d assume it’s a music venue that doesn’t want to be found, tucked away in the back of an unassuming parking lot along Diamond Lake Boulevard in Roseburg.",
+          "link": "https://www.nrtoday.com/a_and_e/roseburg-bands-perform-at-urban-blendz/article_6c6d6500-cad8-11ee-81f4-b3431be699cd.html",
+          "publishedOn": "2024-02-14T21:00:00.000Z",
+          "wordCount": 14327,
+          "title": "Roseburg bands perform at Urban Blendz",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/35/b35c35ea-cad8-11ee-9e2d-f368de9a5521/65cc17d093e21.image.jpg?resize=300%2C200",
+            "length": "423637",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/35/b35c35ea-cad8-11ee-9e2d-f368de9a5521/65cc17d093e21.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c67a6c1e-c6b4-11ee-8ec5-2f0369d246b9",
           "author": "HANNAH SEIBOLD and GLORIA COLEMAN The News-Review",
           "description": "Douglas County Circuit Court Judge Ann Marie Simmons held a stipulated facts trial Thursday to hear testimony in the case of John Paul Kliestik, who was charged with multiple counts of arson and attempted murder.",
@@ -702,36 +727,6 @@
           "wordCount": 13153,
           "title": "Tractor Supply Company hosts pet treat tasing event",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/12b4013a-c840-11ee-9376-8f5f10bcda50",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "What began as one person’s idea of a family football playoff competition turned into a yearly family reunion every second Sunday of February, going strong 40 years later.",
-          "link": "https://www.nrtoday.com/news/history/a-family-huddle-super-bowl-tradition-spans-generations/article_12b4013a-c840-11ee-9376-8f5f10bcda50.html",
-          "publishedOn": "2024-02-11T07:45:00.000Z",
-          "wordCount": 14591,
-          "title": "A family huddle: Super Bowl tradition spans generations",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/90/e90f14b4-c880-11ee-b4fb-f7cd98b388d3/65c829889fb02.image.jpg?resize=300%2C225",
-            "length": "292909",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/90/e90f14b4-c880-11ee-b4fb-f7cd98b388d3/65c829889fb02.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f4375736-c87e-11ee-ad27-1f7006b15ad9",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "OAKLAND — Volunteers gathered Saturday to help Source One Serenity and Friends of the Mildred Kanipe Memorial Park clear brush along the 14 miles of trials at Mildred Kanipe Memorial Park.",
-          "link": "https://www.nrtoday.com/news/environment/volunteers-clean-trails-at-mildred-kanipe-memorial-park/article_f4375736-c87e-11ee-ad27-1f7006b15ad9.html",
-          "publishedOn": "2024-02-11T07:30:00.000Z",
-          "wordCount": 14227,
-          "title": "Volunteers clean trails at Mildred Kanipe Memorial Park",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/96/c96fe18e-c870-11ee-8876-fffcfde53c89/65c80e7ba067b.image.jpg?resize=300%2C200",
-            "length": "593194",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/96/c96fe18e-c870-11ee-8876-fffcfde53c89/65c80e7ba067b.image.jpg?resize=300%2C200"
         }
       ]
     },
