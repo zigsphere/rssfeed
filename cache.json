@@ -339,6 +339,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/24bb5682-cad2-11ee-8a58-cb6be1643617",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "EUGENE — The 29th Annual Frontier Heritage Fair will be held Saturday and Sunday at the Lane County Events Center/Fairgrounds Auditorium, 796 W. 13th Ave. in Eugene. The event will run 9 a.m.-5 p.m. Saturday and 9 a.m.-4 p.m. Sunday.…",
+          "link": "https://www.nrtoday.com/briefs/visit-pre-1898-at-the-frontier-heritage-fair-on-saturday-sunday/article_24bb5682-cad2-11ee-8a58-cb6be1643617.html",
+          "publishedOn": "2024-02-14T00:44:00.000Z",
+          "wordCount": 13292,
+          "title": "Visit pre-1898 at the Frontier Heritage Fair on Saturday, Sunday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8afdc5c4-ca00-11ee-83fe-ebfdc3c7094d",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "CANYONVILLE — An elderly resident came over to Rain Clark, manager of Forest Glen Senior Residence, strolling in his wheelchair.",
@@ -555,7 +565,23 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news169679",
+          "author": null,
+          "description": "UPDATE 02/13/2024 5:30 PM\nGARDINER, Ore. - The body of a Eugene man who went missing after scuba diving in the Umpqua River has been located. \nOn Monday, February 12, 2024, at approximately 8:45 am, 9-1-1 dispatchers received a report of a deceased body on the shore near Sparrow Park Road. \nDeputies along with Oregon State Troopers responded to the area and confirmed the decedent to be 47-year-old Jeffery Scott Harris of Eugene. Harris had gone scuba diving in the Umpqua River near the mouth of the Pacific Ocean in Winchester Bay at approximately 12:30 p.m. on Sunday, January 28, 2024. Harris, who had previous diving experience, had not returned prompting a call to emergency personnel. A large-scale search took place to locate any signs of Harris, but revealed no clues. \nThe Douglas County…",
+          "link": "https://www.flashalert.net/news.html?id=5204#news169679",
+          "publishedOn": "2024-02-14T01:31:20.000Z",
+          "wordCount": 1470,
+          "title": "Scuba Diver who Went Missing Has Been Located (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-01/5204/169679/JEFFREY_SCOTT_HARRIS.jpg",
+            "length": "7026",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-01/5204/169679/JEFFREY_SCOTT_HARRIS.jpg"
+        }
+      ]
     },
     {
       "title": "Roseburg Police Dept.",
