@@ -499,6 +499,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/56cbffe0-cb69-11ee-b4f0-bbe27e7e9298",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Dennis Sox, a resident at Avamere at Oak Park, spent his first Valentine’s Day without his partner of 17 years Wednesday.",
+          "link": "https://www.nrtoday.com/news/sharing-the-love-seniors-receive-valentines-day-cards/article_56cbffe0-cb69-11ee-b4f0-bbe27e7e9298.html",
+          "publishedOn": "2024-02-15T15:45:00.000Z",
+          "wordCount": 14035,
+          "title": "Sharing the love: seniors receive Valentine's Day cards",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d3/7d31c044-cb77-11ee-a471-cf297153d5e4/65cd2237acea4.image.jpg?resize=300%2C200",
+            "length": "363601",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d3/7d31c044-cb77-11ee-a471-cf297153d5e4/65cd2237acea4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0e478c02-cc19-11ee-b765-6f3dadf6a9da",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "CANYONVILLE — A vehicle purchased by John Harder and stored at his home in Canyonville was seized by the U.S. Attorney's Office for the District of Oregon on Jan. 19.",
+          "link": "https://www.nrtoday.com/news/crime/truck-of-fraudulent-investor-seized-in-canyonville/article_0e478c02-cc19-11ee-b765-6f3dadf6a9da.html",
+          "publishedOn": "2024-02-15T15:44:00.000Z",
+          "wordCount": 13319,
+          "title": "Truck of fraudulent investor seized in Canyonville",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2c2b49c2-cba9-11ee-b8db-4fa24db2044c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "People sitting around the table Wednesday at the Douglas County Courthouse mostly seemed to agree on one common problem concerning wildfires in Oregon — the lack of management on federal lands.",
+          "link": "https://www.nrtoday.com/news/environment/drazan-hosts-roundtable-in-roseburg-concerning-wildfires/article_2c2b49c2-cba9-11ee-b8db-4fa24db2044c.html",
+          "publishedOn": "2024-02-15T14:45:00.000Z",
+          "wordCount": 14300,
+          "title": "Drazan hosts roundtable in Roseburg concerning wildfires",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/43/d4311d08-cb8c-11ee-a21b-234c4f61c949/65cd460517631.image.jpg?resize=300%2C200",
+            "length": "215918",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/43/d4311d08-cb8c-11ee-a21b-234c4f61c949/65cd460517631.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3af3222a-cb7e-11ee-8505-dfd39be3f4c6",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "All things heart related will be the focus Feb. 23, when CHI Mercy Health observes American Heart Month with a free event.",
+          "link": "https://www.nrtoday.com/news/community-invited-to-heart-health-fair-on-feb-23/article_3af3222a-cb7e-11ee-8505-dfd39be3f4c6.html",
+          "publishedOn": "2024-02-15T14:30:00.000Z",
+          "wordCount": 13736,
+          "title": "Community invited to Heart Health Fair on Feb. 23",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1a/f1afae00-cb8f-11ee-907c-5b247b3fe2c4/64bc394fc9a18.image.jpg?resize=300%2C200",
+            "length": "240940",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1a/f1afae00-cb8f-11ee-907c-5b247b3fe2c4/64bc394fc9a18.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/79f54850-cb69-11ee-9878-5fe1a8b0188b",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "ROSEBURG — Adapt Integrated Health Care's opioid treatment program will relocate to 406 NE Winchester Street in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/adapts-opioid-treatment-program-to-relocate/article_79f54850-cb69-11ee-9878-5fe1a8b0188b.html",
+          "publishedOn": "2024-02-15T14:00:00.000Z",
+          "wordCount": 13212,
+          "title": "Adapt's opioid treatment program to relocate",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6c6d6500-cad8-11ee-81f4-b3431be699cd",
           "author": "WILL GESCHKE The News-Review",
           "description": "Upon seeing Urban Blendz for the first time, you’d assume it’s a music venue that doesn’t want to be found, tucked away in the back of an unassuming parking lot along Diamond Lake Boulevard in Roseburg.",
