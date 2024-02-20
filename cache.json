@@ -209,6 +209,76 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a9d8f814-cdee-11ee-80c2-079f46a927e0",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — Roseburg Public Library will be hosting a resume-building workshop on Feb. 29 for those who may need extra help constructing a professional resume.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-public-library-to-host-resume-workshop/article_a9d8f814-cdee-11ee-80c2-079f46a927e0.html",
+          "publishedOn": "2024-02-20T16:00:00.000Z",
+          "wordCount": 13254,
+          "title": "Roseburg Public Library to host resume workshop",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/15630fd8-cf7b-11ee-b6d1-17f40503bd76",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Behind the sliding entryway doors at Coastal Farm & Ranch awaited a coveted item: Girl Scout Cookies.",
+          "link": "https://www.nrtoday.com/news/tag-along-for-tagalongs-girl-scout-cookies-return/article_15630fd8-cf7b-11ee-b6d1-17f40503bd76.html",
+          "publishedOn": "2024-02-20T15:45:00.000Z",
+          "wordCount": 13651,
+          "title": "Tag along for Tagalongs, Girl Scout Cookies return",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/8f/78f9ef10-cf82-11ee-8c66-235e8b32e66b/65d3eaa1b7192.image.jpg?resize=300%2C200",
+            "length": "277545",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/8f/78f9ef10-cf82-11ee-8c66-235e8b32e66b/65d3eaa1b7192.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a9aba4e-ccf6-11ee-95e7-8700c8151370",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — The Interstate 5 bridge spanning across the North Umpqua River near milepost 128 will undergo inspection in March.",
+          "link": "https://www.nrtoday.com/news/local/odot-inspection-at-winchester-bridge/article_8a9aba4e-ccf6-11ee-95e7-8700c8151370.html",
+          "publishedOn": "2024-02-20T14:45:00.000Z",
+          "wordCount": 13194,
+          "title": "ODOT inspection at Winchester Bridge",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ac72158-cf4c-11ee-8b94-9fcce506d8cf",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Avista Utilities started replacing aging natural gas mains in the public right-of-way, streets and alleys Monday.",
+          "link": "https://www.nrtoday.com/news/local/pipeline-replacements-to-resume/article_3ac72158-cf4c-11ee-8b94-9fcce506d8cf.html",
+          "publishedOn": "2024-02-20T14:45:00.000Z",
+          "wordCount": 13237,
+          "title": "Pipeline replacements to resume",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bcea79bc-cf4e-11ee-b875-df6809c12f28",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "EUGENE — Getting back to our roots is the focus of the 86th annual Oregon Logging Conference, which will take place Thursday through Saturday in Eugene.",
+          "link": "https://www.nrtoday.com/business/86th-annual-oregon-logging-conference-this-week-in-eugene/article_bcea79bc-cf4e-11ee-b875-df6809c12f28.html",
+          "publishedOn": "2024-02-20T14:30:00.000Z",
+          "wordCount": 13675,
+          "title": "86th annual Oregon Logging Conference this week in Eugene",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8443007a-cf67-11ee-8159-9ff080a88117",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — Takelma, a one-year-old grizzly bear cub, recently arrived at Wildlife Safari and joined the bear loop of the Safari Drive-Thru, after he was found in Alaska.",
+          "link": "https://www.nrtoday.com/news/environment/wildlife-safari-introduces-new-grizzly-cub/article_8443007a-cf67-11ee-8159-9ff080a88117.html",
+          "publishedOn": "2024-02-19T20:43:00.000Z",
+          "wordCount": 13515,
+          "title": "Wildlife Safari introduces new grizzly cub",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6a/a6a1a684-cf68-11ee-adf9-47264ddefb9e/65d3bf4f67dc6.image.jpg?resize=300%2C200",
+            "length": "488756",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6a/a6a1a684-cf68-11ee-adf9-47264ddefb9e/65d3bf4f67dc6.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1656d4c2-cf4b-11ee-97e1-df4535fdf858",
           "author": "SANNE GODFREY The News-Review",
           "description": "DOUGLAS COUNTY — People posing as Douglas County Sheriff's Office employees are trying to scam community members out of money.",
