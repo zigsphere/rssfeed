@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=115910",
+          "author": "Kyle Bailey",
+          "description": "February 21, 2024 3:00 p.m.  A rider was hurt in a motorcycle versus mattress crash on Sunday afternoon. An Oregon State Police report said the accident happened just before 5:00 p.m. when the bike hit the mattress which had fallen out the back of a pickup truck on Interstate 5 northbound about a mile north...",
+          "link": "https://kqennewsradio.com/2024/02/20/rider-hurt-in-motorcycle-versus-mattress-crash/?utm_source=rss&utm_medium=rss&utm_campaign=rider-hurt-in-motorcycle-versus-mattress-crash",
+          "publishedOn": "2024-02-20T23:04:11.000Z",
+          "wordCount": 1505,
+          "title": "RIDER HURT IN MOTORCYCLE VERSUS MATTRESS CRASH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=115906",
           "author": "Kyle Bailey",
           "description": "February 20, 2024 11:00 a.m.  Roseburg Police dealt with five driving while intoxicated incidents between Friday evening and early Sunday. An RPD report said shortly after 10:30 p.m. officers conducted a traffic stop on a vehicle at the intersection of Southeast Spruce Street and Southeast Washington Avenue and observed signs that the male driver was...",
@@ -585,7 +595,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news170163",
+          "author": null,
+          "description": "SALEM, Ore. — The Forest Trust Land Advisory Committee meets Feb. 23 at 10 a.m. at ODF headquarters in Salem, with a virtual option.\nThe public meeting will be held in the Tillamook Room, Building C, at the Oregon Department of Forestry’s Salem headquarters, 2600 State St., Salem, OR 97310. To join virtually, please use the Zoom video conference information found on the agenda.\nAgenda items will include:\n\nHabitat Conservation Plan (HCP) and Forest Management Plan (FMP) presentation\nFormulate testimony for March Board of Forestry meeting\n\nPublic comment is scheduled at the beginning of the meeting. To submit written comment, email ftlac.comment@odf.oregon.gov. Written comments sent at least 48 hours before the meeting will give the FTLAC time to review and consider information. Comments submitted after that window of time will be sent to the FTLAC after the meeting, entered into the record and posted online. Comments are not accepted after the meeting concludes.\nThe Forest Trust Land Advisory Committee is comprised of seven county commissioners representing 15 Oregon counties where state forestlands are located. The FTLAC is a statutorily established committee that advises the Board of Forestry on matters related to forestland managed by ODF. View more information on the FTLAC webpage.\nQuestions about accessibility or special accommodations can be directed to the Oregon Department of Forestry at least 24 hours prior to the meeting at 503-945-7200.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news170163",
+          "publishedOn": "2024-02-20T22:21:38.000Z",
+          "wordCount": 1200,
+          "title": "Forest Trust Land Advisory Committee meets Feb. 23",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
