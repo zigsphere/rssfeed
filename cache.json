@@ -484,26 +484,6 @@
           "wordCount": 1568,
           "title": "NATURAL GAS PIPELINE REPLACEMENT PROJECT RESUMES",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230920093651/Construction-Zone-Photo-Generic-2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115838",
-          "author": "Kyle Bailey",
-          "description": "February 19, 2024 3:05 a.m. On Friday, State Representative Boomer Wright of Reedsport released a statement after the U.S. Bureau of Ocean and Energy Management finalized two wind energy area off the coast of Coos Bay and Brookings. Wright said, “I stand with the Tribal Council of the Confederated Tribes of Coos, Lower Umpqua, and...",
-          "link": "https://kqennewsradio.com/2024/02/19/representative-wright-opposes-offshore-wind-decision/?utm_source=rss&utm_medium=rss&utm_campaign=representative-wright-opposes-offshore-wind-decision",
-          "publishedOn": "2024-02-19T11:07:54.000Z",
-          "wordCount": 1644,
-          "title": "REPRESENTATIVE WRIGHT OPPOSES OFFSHORE WIND DECISION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202510/Rep-Wright_0183-8x-scaled-e1674732667121.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115836",
-          "author": "Kyle Bailey",
-          "description": "February 19, 2024 2:50 a.m. A contractor for the Oregon Department of Transportation is continuing the Exit 125 off-ramp project at Northwest Garden Valley Boulevard. ODOT’s construction report said the work is designed to improve safety and ease congestion at Exit 125 by adding a dedicated right-turn lane to the northbound off-ramp. The project will...",
-          "link": "https://kqennewsradio.com/2024/02/19/odot-interstate-5-exit-125-off-ramp-project-continues/?utm_source=rss&utm_medium=rss&utm_campaign=odot-interstate-5-exit-125-off-ramp-project-continues",
-          "publishedOn": "2024-02-19T11:03:17.000Z",
-          "wordCount": 1532,
-          "title": "ODOT INTERSTATE 5 EXIT 125 OFF-RAMP PROJECT CONTINUES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240123163218/Exit125_P1010730.jpg"
         }
       ]
     },
@@ -518,6 +498,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1477bf46-d111-11ee-bba8-a7777658e511",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Gymnasts from across the region will converge on the fairgrounds Saturday for Riverside Classic 2024, hosted by Umpqua Valley Gymnastics.",
+          "link": "https://www.nrtoday.com/news/oregon-washington-gymnasts-to-compete-saturday/article_1477bf46-d111-11ee-bba8-a7777658e511.html",
+          "publishedOn": "2024-02-22T22:00:00.000Z",
+          "wordCount": 13603,
+          "title": "Oregon, Washington gymnasts to compete Saturday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3f/73f04a4e-d1af-11ee-b4b0-73aa4cc24361/63fa85ff39443.image.jpg?resize=300%2C200",
+            "length": "385389",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3f/73f04a4e-d1af-11ee-b4b0-73aa4cc24361/63fa85ff39443.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1d0dc4fa-d1a4-11ee-af28-ef9d068d5668",
           "author": "BUFFY POLLOCK Rogue Valley Times",

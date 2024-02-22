@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-22T19:07:41.052Z</updated>
+    <updated>2024-02-22T23:11:34.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon, Washington gymnasts to compete Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1477bf46-d111-11ee-bba8-a7777658e511</id>
+        <link href="https://www.nrtoday.com/news/oregon-washington-gymnasts-to-compete-saturday/article_1477bf46-d111-11ee-bba8-a7777658e511.html"/>
+        <updated>2024-02-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gymnasts from across the region will converge on the fairgrounds Saturday for Riverside Classic 2024, hosted by Umpqua Valley Gymnastics.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PLANT AND GARDEN EXPO ORGANIZERS ACCEPTING APPLICATIONS FOR VENDORS]]></title>
         <id>https://kqennewsradio.com/?p=115994</id>
@@ -738,26 +748,6 @@ Questions about accessibility or special accommodations can be directed to the O
         <link href="https://kqennewsradio.com/2024/02/19/natural-gas-pipeline-replacement-project-resumes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=natural-gas-pipeline-replacement-project-resumes"/>
         <updated>2024-02-19T11:14:04.000Z</updated>
         <summary type="html"><![CDATA[February 19, 2024 3:15 a.m. The City of Roseburg Public Works Department wants residents to know that a natural gas pipeline replacement project has resumed. Avista Utilities and contractor Michels Corporation are replacing aging natural gas mains in the public right-of-way, streets and alleys. Construction is expected to be completed by April 30th. To minimize...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REPRESENTATIVE WRIGHT OPPOSES OFFSHORE WIND DECISION]]></title>
-        <id>https://kqennewsradio.com/?p=115838</id>
-        <link href="https://kqennewsradio.com/2024/02/19/representative-wright-opposes-offshore-wind-decision/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=representative-wright-opposes-offshore-wind-decision"/>
-        <updated>2024-02-19T11:07:54.000Z</updated>
-        <summary type="html"><![CDATA[February 19, 2024 3:05 a.m. On Friday, State Representative Boomer Wright of Reedsport released a statement after the U.S. Bureau of Ocean and Energy Management finalized two wind energy area off the coast of Coos Bay and Brookings. Wright said, “I stand with the Tribal Council of the Confederated Tribes of Coos, Lower Umpqua, and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODOT INTERSTATE 5 EXIT 125 OFF-RAMP PROJECT CONTINUES]]></title>
-        <id>https://kqennewsradio.com/?p=115836</id>
-        <link href="https://kqennewsradio.com/2024/02/19/odot-interstate-5-exit-125-off-ramp-project-continues/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=odot-interstate-5-exit-125-off-ramp-project-continues"/>
-        <updated>2024-02-19T11:03:17.000Z</updated>
-        <summary type="html"><![CDATA[February 19, 2024 2:50 a.m. A contractor for the Oregon Department of Transportation is continuing the Exit 125 off-ramp project at Northwest Garden Valley Boulevard. ODOT’s construction report said the work is designed to improve safety and ease congestion at Exit 125 by adding a dedicated right-turn lane to the northbound off-ramp. The project will...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
