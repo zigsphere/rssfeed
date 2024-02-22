@@ -449,6 +449,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c452d036-d107-11ee-8f03-cff1a35dc3c6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The story of four local woman who fought for federal protection for wildlife near Crater lake will be brought to life Friday evening.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-library-to-host-presentation-about-limpy-rock/article_c452d036-d107-11ee-8f03-cff1a35dc3c6.html",
+          "publishedOn": "2024-02-22T15:45:00.000Z",
+          "wordCount": 13708,
+          "title": "Roseburg library to host presentation about Limpy Rock",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ea/3ea2a236-d107-11ee-b8a4-07531096b549/65d676e216ff3.image.jpg?resize=300%2C200",
+            "length": "392850",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ea/3ea2a236-d107-11ee-b8a4-07531096b549/65d676e216ff3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c2b37296-d047-11ee-bdf2-df67363ea63a",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — The city of Roseburg is seeking to fill vacancies on the Roseburg Library Commission and the city’s budget committee.",
+          "link": "https://www.nrtoday.com/briefs/city-of-roseburg-seeking-applicants/article_c2b37296-d047-11ee-bdf2-df67363ea63a.html",
+          "publishedOn": "2024-02-22T15:30:00.000Z",
+          "wordCount": 13215,
+          "title": "City of Roseburg seeking applicants",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7681f52a-d117-11ee-866e-b75265876660",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Two people were apparently hurt in a Corvette versus pickup rollover accident Wednesday afternoon on Northeast Stephens Street in Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/two-apparently-hurt-in-crash/article_7681f52a-d117-11ee-866e-b75265876660.html",
+          "publishedOn": "2024-02-22T15:00:00.000Z",
+          "wordCount": 13440,
+          "title": "Two apparently hurt in crash",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/90/890330ba-d117-11ee-b839-9b23af41cffd/65d69236c8999.image.jpg?resize=300%2C225",
+            "length": "256000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/90/890330ba-d117-11ee-b839-9b23af41cffd/65d69236c8999.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d5404356-d0f8-11ee-b0b8-6be5b52af0c5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — Organizers of the Sutherlin Throwdown, which will return in July, are holding a Kansas City Barbeque Society Judging Class on March 2.",
+          "link": "https://www.nrtoday.com/briefs/learn-how-to-judge-barbecue-food/article_d5404356-d0f8-11ee-b0b8-6be5b52af0c5.html",
+          "publishedOn": "2024-02-22T14:30:00.000Z",
+          "wordCount": 13183,
+          "title": "Learn how to judge barbecue food",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f00a0040-d00e-11ee-999e-bf759c010c39",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "GLENDALE — Residents debated the pros and cons of Koppers Utility and Industrial Products continuation of its plans to open a plant in Glendale during a town hall meeting Tuesday evening.",
