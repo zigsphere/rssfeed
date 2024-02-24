@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-24T13:10:22.916Z</updated>
+    <updated>2024-02-24T16:10:44.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WATCH SUNDAY EVENING THROUGH MONDAY EVENING]]></title>
+        <id>https://kqennewsradio.com/?p=116044</id>
+        <link href="https://kqennewsradio.com/2024/02/24/winter-storm-watch-sunday-evening-through-monday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-watch-sunday-evening-through-monday-evening"/>
+        <updated>2024-02-24T14:26:36.000Z</updated>
+        <summary type="html"><![CDATA[February 24, 2024 6:00 a.m.  A Winter Storm Watch remains in effect from Sunday evening through Monday evening for higher elevations in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible with total snow accumulations of 6 to 14 inches expected. Winds could gust as high as 45 miles...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Committee for Emergency Fire Cost meets March 5]]></title>
         <id>https://www.flashalert.net/news.html?id=1072#news170260</id>
@@ -647,16 +657,6 @@ The CMP Committee assists efforts to monitor compliance with Forest Practices Ru
         <summary type="html"><![CDATA[February 21, 2024 2:50 a.m. A Salem man was jailed for driving under the influence of intoxicants- controlled substance and inhalant, by the Oregon State Police late Friday. Information released by OSP on Tuesday, said at approximately 10:45 p.m. a sedan went off the roadway on Interstate 5 southbound near the Cox Road – Elk...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeping children safe: Douglas ESD teaches students how to bike in public]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c7adf870-d038-11ee-9bc1-1f685a15a6ab</id>
-        <link href="https://www.nrtoday.com/news/education/keeping-children-safe-douglas-esd-teaches-students-how-to-bike-in-public/article_c7adf870-d038-11ee-9bc1-1f685a15a6ab.html"/>
-        <updated>2024-02-21T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the past two weeks, students at Winchester Elementary School have been shifting gears and taking lessons by the handle bars thanks to a program through the Douglas Education Service District.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
