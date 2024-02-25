@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-24T23:10:17.951Z</updated>
+    <updated>2024-02-25T02:18:32.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[If you’re thinking about a trip to Europe this year but you want an experience that’s out of the ordinary, consider visiting one of the three communities being celebrated as a European Capital of Culture for 2024.]]></summary>
         <author>
             <name>Travel Leaders/Fly Away Travel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respect for Law banquet honors Douglas County law enforcement]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/62988944-d36e-11ee-917e-9767de427ecd</id>
+        <link href="https://www.nrtoday.com/news/local/respect-for-law-banquet-honors-douglas-county-law-enforcement/article_62988944-d36e-11ee-917e-9767de427ecd.html"/>
+        <updated>2024-02-24T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A positive example. Approachable and encouraging. A dedicated team player. An ability to handle calls with grace. Selfless service. These are some of the qualities recognized Friday when Roseburg Optimist Club hosted the Respectful for Law Banquet, honoring law enforcement…]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -777,46 +787,6 @@ The CMP Committee assists efforts to monitor compliance with Forest Practices Ru
         <summary type="html"><![CDATA[WINSTON — The city of Winston has scheduled its Walk on the Wild Side event for June 22.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTERSTATE 5, EXIT 125 NORTHBOUND ON-RAMP CLOSURE WEDNESDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=115921</id>
-        <link href="https://kqennewsradio.com/2024/02/21/interstate-5-exit-125-northbound-on-ramp-closure-wednesday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=interstate-5-exit-125-northbound-on-ramp-closure-wednesday-night"/>
-        <updated>2024-02-21T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[February 21, 2024 3:40 a.m. A contractor working for the Oregon Department of Transportation will close the Exit 125 loop on-ramp for eastbound Garden Valley Boulevard traffic getting onto northbound Interstate 5 from 8:00 p.m. Wednesday to 6:00 a.m. Thursday. Dan Latham of ODOT said the closure will allow contractors to pave around the new...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY OF ROSEBURG HAS COMMISSION/COMMITTEE OPENINGS]]></title>
-        <id>https://kqennewsradio.com/?p=115918</id>
-        <link href="https://kqennewsradio.com/2024/02/21/city-of-roseburg-has-commission-committee-openings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-roseburg-has-commission-committee-openings"/>
-        <updated>2024-02-21T11:16:59.000Z</updated>
-        <summary type="html"><![CDATA[February 21, 2024 3:30 a.m. The City of Roseburg has openings for those interested in being on a city commission or committee. A City release said applications are being accepted to fill vacancies on the Roseburg Library Commission or the Budget Committee to serve in an advisory capacity to the city council. The Library Commission...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CELEBRATION OF LITERACY WITH MORE EVENTS THIS WEEK]]></title>
-        <id>https://kqennewsradio.com/?p=115916</id>
-        <link href="https://kqennewsradio.com/2024/02/21/celebration-of-literacy-with-more-events-this-week/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=celebration-of-literacy-with-more-events-this-week"/>
-        <updated>2024-02-21T11:14:08.000Z</updated>
-        <summary type="html"><![CDATA[February 21, 2024 3:20 a.m. Celebration of Literacy continues with more events this week. The month-long series of activities is presented by Altrusa International of Roseburg and the Umpqua Literacy Council. On Thursday, Roseburg Public Library will have an after-school event featuring Magic in Books. Library staff will give away books and do crafts with...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUTHERLIN THROWDOWN WITH JUDGING CLASS MARCH 2ND]]></title>
-        <id>https://kqennewsradio.com/?p=115914</id>
-        <link href="https://kqennewsradio.com/2024/02/21/sutherlin-throwdown-with-judging-class-march-2nd/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-throwdown-with-judging-class-march-2nd"/>
-        <updated>2024-02-21T11:10:51.000Z</updated>
-        <summary type="html"><![CDATA[February 21, 2024 3:10 a.m. The Sutherlin Throwdown will be back in July and organizers are holding a Kansas City Barbeque Association Judging Class on Saturday March 2nd. Attendees will earn their KCBS Judging Certificate, which qualifies them to judge KSBS BBQ competitions all over the world. This will also be a class for teams...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
