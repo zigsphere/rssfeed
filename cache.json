@@ -294,26 +294,6 @@
           "wordCount": 1697,
           "title": "WYDEN ADDRESSES NATIONAL PARK SERVICE’S INTENT TO TERMINATE CRATER LAKE CONTRACT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116000",
-          "author": "Kyle Bailey",
-          "description": "February 23, 2024 3:00 a.m. A deputy with the Douglas County Sheriff’s Office jailed a man for an alleged trespass incident on Wednesday. A DCSO report said the 29-year-old transient had been trespassed from the courthouse in downtown Roseburg on February 14th. On Wednesday at 8:20 a.m. the man returned and walked inside the courthouse...",
-          "link": "https://kqennewsradio.com/2024/02/23/deputy-jails-man-for-alleged-trespass-at-courthouse/?utm_source=rss&utm_medium=rss&utm_campaign=deputy-jails-man-for-alleged-trespass-at-courthouse",
-          "publishedOn": "2024-02-23T11:04:54.000Z",
-          "wordCount": 1513,
-          "title": "DEPUTY JAILS MAN FOR ALLEGED TRESPASS AT COURTHOUSE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=115998",
-          "author": "Kyle Bailey",
-          "description": "February 23, 2024 2:50 a.m. A vehicle hit a building in Winston on Wednesday. Information from WPD said at about 4:15 p.m. an elderly female driver accidently hit the gas instead of the break, while in the parking lot of 7-11 on Northwest Main Street. This caused the vehicle to run into the front of...",
-          "link": "https://kqennewsradio.com/2024/02/23/vehicle-hits-store-building-in-winston-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=vehicle-hits-store-building-in-winston-wednesday",
-          "publishedOn": "2024-02-23T10:57:19.000Z",
-          "wordCount": 1492,
-          "title": "VEHICLE HITS STORE BUILDING IN WINSTON WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
         }
       ]
     },
@@ -630,7 +610,18 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news170289",
+          "author": null,
+          "description": "ROSEBURG, Ore. On Monday, February 26, 2024, the Sheriff's Office was notified by Umpqua Community College staff of a security threat to the campus. In an effort to prioritize the safety of students, staff and faculty, the College elected to cancel all classes, events, and activities until further notice. \nThe Sheriff's Office is working in partnership with the College regarding the threat. There is an increased law enforcement presence on the campus today. \n“The Sheriff's Office takes seriously any threat directed toward the safety of our schools, whether kindergarten or higher education institutions,\" Sheriff Hanlin said. “The Sheriff’s Office, with assistance from the FBI, has determined the source of the email originated from outside the country. At this time the threatening email is not considered credible, and there is no immediate threat to the college.”\nThe specifics of the security threat will not be released by the Sheriff's Office in order to protect the integrity of the investigation. \n\"We are committed to taking all necessary precautions to ensure safe learning and working environments for everyone. We understand that this closure may cause inconvenience to the academic and personal lives of our community, and we appreciate your cooperation and understanding,\" said UCC President, Dr. Rachel Pokrandt.\nAnyone with information may contact the Douglas County Sheriff's Office at 541-440-4471.",
+          "link": "https://www.flashalert.net/news.html?id=5204#news170289",
+          "publishedOn": "2024-02-26T22:45:04.000Z",
+          "wordCount": 1604,
+          "title": "Threat at UCC Determined Not Credible, Originated Outside of United States",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Police Dept.",
