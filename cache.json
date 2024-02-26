@@ -279,6 +279,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/27927e8a-d360-11ee-ba89-bf30185767fa",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Legs fluttered, arms twirled and bodies flipped around for the annual Riverside Classic 2024 gymnastics competition Saturday at the Douglas County Fairgrounds.",
+          "link": "https://www.nrtoday.com/family/a-flipping-good-time-at-riverside-classic-2024-gymnastics-competition/article_27927e8a-d360-11ee-ba89-bf30185767fa.html",
+          "publishedOn": "2024-02-26T16:00:00.000Z",
+          "wordCount": 14791,
+          "title": "A flipping good time at Riverside Classic 2024 gymnastics competition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/27/1276509c-d367-11ee-98be-73b701d8d41e/65da72a5f378e.image.jpg?resize=300%2C200",
+            "length": "348973",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/27/1276509c-d367-11ee-98be-73b701d8d41e/65da72a5f378e.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/933a0820-d350-11ee-8276-9f1d02169cd4",
           "author": "Kyle Bailey For The News-Review",
           "description": "ROSEBURG — The Zonta Club of Roseburg will celebrate a successful Dignity Drive at noon Wednesday.",
@@ -567,21 +582,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/07/407059c8-d201-11ee-aade-e79903a40913/65d81a5349d6e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fe2226d0-d1df-11ee-a977-e3d888daea14",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "Umpqua Health Alliance invested in several Douglas County projects in 2023, awarding over $2 million dollars in grants. The projects all shared a focus of enhancing social and community health, promoting economic stability and providing essential housing supports for individuals…",
-          "link": "https://www.nrtoday.com/news/umpqua-health-alliance-gives-over-2-million-to-local-projects/article_fe2226d0-d1df-11ee-a977-e3d888daea14.html",
-          "publishedOn": "2024-02-23T02:00:00.000Z",
-          "wordCount": 13664,
-          "title": "Umpqua Health Alliance gives over $2 million to local projects",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/28/d2887c78-d1e8-11ee-bc11-a7cfe2d94e44/62cdab2a41756.image.jpg?resize=300%2C203",
-            "length": "384724",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/28/d2887c78-d1e8-11ee-bc11-a7cfe2d94e44/62cdab2a41756.image.jpg?resize=300%2C203"
         }
       ]
     },
