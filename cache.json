@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116142",
+          "author": "Kyle Bailey",
+          "description": "February 27, 2024 11:10 a.m.  State Representative Court Boice says the repeal of Measure 1110 remains critical. Boice issued a release regarding recent news from the U.S. Center for Disease Control showing that Oregon has seen the highest increase of overdose deaths, 41.5 percent, of all states in the last 12-month period. Boice said he...",
+          "link": "https://kqennewsradio.com/2024/02/27/representative-boice-says-repeal-of-measure-110-remains-critical/?utm_source=rss&utm_medium=rss&utm_campaign=representative-boice-says-repeal-of-measure-110-remains-critical",
+          "publishedOn": "2024-02-27T19:09:38.000Z",
+          "wordCount": 1786,
+          "title": "REPRESENTATIVE BOICE SAYS REPEAL OF MEASURE 110 REMAINS CRITICAL",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116140",
           "author": "Kyle Bailey",
           "description": "February 27, 2024 10:50 a.m. Roseburg Public Library is hosting a free resume-building workshop at 4:00 p.m. Thursday for people who have limited experience with creating a professional resume. Led by Christian Sala, the library’s Resource Assistance for Rural Environments AmeriCorps member, the event will share tools and knowledge to help participants generate resumes that...",
@@ -640,7 +650,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news170306",
+          "author": null,
+          "description": "SALEM, Ore.—The State Forests Advisory Committee (SFAC) will meet in Salem on March 8 at 8:30 a.m. This is a hybrid meeting and those interested can attend in person or via Zoom. The meeting agenda with Zoom link is posted on the SFAC webpage.\nThe State Forests Advisory Committee will meet from 8:30 a.m. to 3 p.m. at the Oregon Department of Forestry (Tillamook Room), 2600 State St., Salem, 97310. Opportunity for public comment is on the agenda and is scheduled for 8:45 a.m.\nAgenda topics include:\n\nDraft habitat conservation plan and forest management plan for Western Oregon state forests project update\nOverview of Fiscal Year 2025 annual operations plan\nImplementation plan revision considerations for Fiscal Years 2026-27\nPlanning for SFAC meeting and field tour in May\n\nSFAC’s role\nThe State Forests Advisory Committee includes citizens and representatives of timber, environmental and recreation groups. SFAC provides a forum to discuss issues, opportunities and concerns, and offer guidance to ODF on the implementation of the Northwest Oregon State Forests Management Plan. The plan provides guidance for managing 616,000 acres within the Tillamook, Clatsop and Santiam State Forests, and several scattered state-owned forest tracts in Benton, Polk, Lincoln and Lane counties through a balanced approach to generate revenue while preserving environmental and social benefits.\nThe meeting location is accessible to people with disabilities. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 48 hours prior to the meeting. Questions about accessibility or special accommodations for the meeting can be directed to the Oregon Department of Forestry at(503) 945-7200.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news170306",
+          "publishedOn": "2024-02-27T19:43:35.000Z",
+          "wordCount": 2207,
+          "title": "State Forests Advisory Committee meets March. 8 in Salem",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
