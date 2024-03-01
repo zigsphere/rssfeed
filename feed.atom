@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-02-29T23:09:42.183Z</updated>
+    <updated>2024-03-01T02:20:42.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[February 29, 2024 3:00 p.m.  In what is being called a historic vote on the House Floor, on Thursday representatives passed HB 4002 by a vote of 51-7. Douglas County State Representative Christine Goodwin says the move sends a strong message to the rest of the country that the movement to legalize drugs nationwide ends...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon Senate passes bill to relief financial burden of wildfire victims]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/00c33fea-d745-11ee-9718-dbb6cba94215</id>
+        <link href="https://www.nrtoday.com/news/government/oregon-senate-passes-bill-to-relief-financial-burden-of-wildfire-victims/article_00c33fea-d745-11ee-9718-dbb6cba94215.html"/>
+        <updated>2024-02-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oregon Senate unanimously passed a bill Wednesday that would allow wildfire victims to be exempt from paying state taxes on settlements related to wildfire losses.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -750,46 +760,6 @@ Anyone with information may contact the Douglas County Sheriff's Office at 541-4
         <summary type="html"><![CDATA[Legs fluttered, arms twirled and bodies flipped around for the annual Riverside Classic 2024 gymnastics competition Saturday at the Douglas County Fairgrounds.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SEES SUNNY CONDITIONS, ABOVE NORMAL TEMPERATURES]]></title>
-        <id>https://kqennewsradio.com/?p=116070</id>
-        <link href="https://kqennewsradio.com/2024/02/26/roseburg-sees-sunny-conditions-above-normal-temperatures/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sees-sunny-conditions-above-normal-temperatures"/>
-        <updated>2024-02-26T11:57:47.000Z</updated>
-        <summary type="html"><![CDATA[February 26, 2024 4;00 a.m.  Roseburg saw sunny conditions and above normal temperatures between Friday and Sunday, just ahead of a big change in the weather. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 65 degrees at the Roseburg Regional Airport on Friday....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER STORM WARNING THROUGH 1:00 A.M. MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=116067</id>
-        <link href="https://kqennewsradio.com/2024/02/26/winter-storm-warning-through-100-a-m-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-through-100-a-m-monday"/>
-        <updated>2024-02-26T11:39:20.000Z</updated>
-        <summary type="html"><![CDATA[February 26, 2024 3:40 a.m. A Winter Storm Warning remains in effect through 1:00 a.m. Tuesday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected. Total snow accumulations of 8 to 22 inches are expected. Winds will gust as high as 40 miles per hour....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COASTAL CAUCUS URGES BOEM TO ADDRESS CONCERNS]]></title>
-        <id>https://kqennewsradio.com/?p=116065</id>
-        <link href="https://kqennewsradio.com/2024/02/26/coastal-caucus-urges-boem-to-address-concerns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coastal-caucus-urges-boem-to-address-concerns"/>
-        <updated>2024-02-26T11:18:52.000Z</updated>
-        <summary type="html"><![CDATA[February 26, 2024 3:20 a.m. On Friday, the Oregon Legislative Coastal Caucus issued a call for the federal Bureau of Ocean Energy Management to address significant concerns before advancing offshore wind projects off the coast of Oregon. In a letter to BOEM Director Heidi Klein, the group expressed extreme disappointment with BOEM’s decision to finalize...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL WITH VARIED AGENDA MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=116063</id>
-        <link href="https://kqennewsradio.com/2024/02/26/roseburg-city-council-with-varied-agenda-monday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-with-varied-agenda-monday-night"/>
-        <updated>2024-02-26T11:13:54.000Z</updated>
-        <summary type="html"><![CDATA[February 26, 2024  3:05 a.m. The Roseburg City Council has a varied agenda for its Monday night meeting. Mayor Larry Rich will report on awards the city has received for excellence and outstanding achievement in financial reporting. The annual comprehensive financial report will be given by auditor Jeff Cooley of Neuner Davidson & Co. Councilors...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
