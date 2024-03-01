@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116247",
+          "author": "Kyle Bailey",
+          "description": "March 1, 2024 6:50 a.m. The Umpqua Valley saw a record amount of rain for the date on Thursday, but the fact that it was February 29th impacts the data. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that 1.71 inches of rain was recorded at the Roseburg Regional...",
+          "link": "https://kqennewsradio.com/2024/03/01/record-rainfall-for-february-29th-in-roseburg/?utm_source=rss&utm_medium=rss&utm_campaign=record-rainfall-for-february-29th-in-roseburg",
+          "publishedOn": "2024-03-01T14:53:38.000Z",
+          "wordCount": 1505,
+          "title": "RECORD RAINFALL FOR FEBRUARY 29TH IN ROSEBURG",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116242",
           "author": "Kyle Bailey",
           "description": "March 1, 2024 4:15 a.m. A Winter Storm Warning remains in effect for central Douglas County above 2,000 feet through Saturday Morning at 10:00 a.m. A Winter Weather Advisory remains in place above 800 feet through Saturday morning at 10:00 a.m. Forecasters at the National Weather Service said for the Warning area, heavy snow, with...",
@@ -508,6 +518,56 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6097001e-cf4d-11ee-b261-0bf1ffb67a96",
+          "author": "AIMEE LOVE For The News-Review",
+          "description": "In 2019, an unlikely group teamed up to do something remarkable. They were archaeologist Serena Love, microbiologist Richard Bowman and Seamus Blackley — best known as the creator of the original X-box. The remarkable thing that they did was also…",
+          "link": "https://www.nrtoday.com/family/the-yeast-of-my-worries/article_6097001e-cf4d-11ee-b261-0bf1ffb67a96.html",
+          "publishedOn": "2024-03-01T14:45:00.000Z",
+          "wordCount": 13621,
+          "title": "The yeast of my worries",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/53/a5359dfc-cf4d-11ee-86f2-cbe64439f506/65d3920098c0f.image.jpg?resize=300%2C300",
+            "length": "46220",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/53/a5359dfc-cf4d-11ee-86f2-cbe64439f506/65d3920098c0f.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/145d037c-d4cc-11ee-a9c9-87c567271ea5",
+          "author": "BONNIE COURTER For The News-Review",
+          "description": "Question: I’ve noticed that my daylilies are not producing as many flowers as in the past and seem overcrowded. Is spring a good time to divide them, and how do I go about that?",
+          "link": "https://www.nrtoday.com/news/guest_submission/ask-a-master-gardener-divide-and-conquer/article_145d037c-d4cc-11ee-a9c9-87c567271ea5.html",
+          "publishedOn": "2024-03-01T14:45:00.000Z",
+          "wordCount": 14004,
+          "title": "Ask a Master Gardener: Divide and conquer",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/89/c89a3fdc-d4cf-11ee-b0fb-775f31231e2c/65dccfd260d74.image.jpg?resize=300%2C400",
+            "length": "316642",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/89/c89a3fdc-d4cf-11ee-b0fb-775f31231e2c/65dccfd260d74.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c2dd7618-d678-11ee-9f87-27998aa26187",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Oregon State University Extension Service and Douglas County Master Food Preservers are offering a workshop dedicated to sourdough from 6-8 p.m. March 21 at the Lookingglass Grange, 7426 Lookingglass Road in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/workshop-to-cover-sourdough-starter-and-discard-recipes/article_c2dd7618-d678-11ee-9f87-27998aa26187.html",
+          "publishedOn": "2024-03-01T14:30:00.000Z",
+          "wordCount": 13255,
+          "title": "Workshop to cover sourdough starter and discard recipes",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/922ebe38-d744-11ee-a273-c708eec89381",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — A Winter Storm Warning remains in effect through 10 a.m. Saturday for Douglas County areas above 2,500 feet.",
+          "link": "https://www.nrtoday.com/briefs/winter-storm-warning-in-affect-through-saturday-morning/article_922ebe38-d744-11ee-a273-c708eec89381.html",
+          "publishedOn": "2024-03-01T14:00:00.000Z",
+          "wordCount": 13296,
+          "title": "Winter Storm Warning in affect through Saturday morning",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a7b3ec40-d6a1-11ee-9d71-33a7449b6b4a",
           "author": "HANNAH SEIBOLD The News-Review",
