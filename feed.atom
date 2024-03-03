@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-03T13:09:41.089Z</updated>
+    <updated>2024-03-03T16:10:22.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY/WINTER STORM WARNING FOR CENTRAL DOUGLAS COUNTY]]></title>
+        <id>https://kqennewsradio.com/?p=116292</id>
+        <link href="https://kqennewsradio.com/2024/03/03/winter-weather-advisory-winter-storm-warning-for-central-douglas-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-winter-storm-warning-for-central-douglas-county"/>
+        <updated>2024-03-03T14:41:35.000Z</updated>
+        <summary type="html"><![CDATA[March, 2024 6:40 a.m. A Winter Weather Advisory remains in effect until Sunday evening at 10:00 p.m. above 1,500 feet with a Winter Storm Warning from 10:00 a.m. Monday through 4:00 p.m. Tuesday for central Douglas County and its eastern foothills above 1,800 feet. For the Advisory, an additional 3 to 7 inches of snow...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY/WINTER STORM WARNING FOR MOUNTAIN AREAS]]></title>
+        <id>https://kqennewsradio.com/?p=116289</id>
+        <link href="https://kqennewsradio.com/2024/03/03/winter-weather-advisory-winter-storm-warning-for-mountain-areas-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-winter-storm-warning-for-mountain-areas-2"/>
+        <updated>2024-03-03T14:28:57.000Z</updated>
+        <summary type="html"><![CDATA[March 3, 2024 6:20 a.m.  A Winter Weather Advisory remains in effect through Sunday evening at 10:00 p.m. with a Winter Storm Warning from 10:00 a.m. Monday through 4:00 p.m. Tuesday for mountain areas of southern Oregon. For the Advisory, an additional 4 to 9 inches of snow is expected. Winds will gust as high...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Homes and gardens need upgrades, too]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/099a65b6-d8ef-11ee-b402-771fd10f312e</id>
