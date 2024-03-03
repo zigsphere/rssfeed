@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116294",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2024 2:00 p.m.   A Santa Rosa, California man was rescued by Douglas County Search and Rescue after he followed Global Positioning System directions when he encountered a weather- related delay on Interstate 5. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said on Saturday just after 12:00 a.m. 911 dispatchers received a...",
+          "link": "https://kqennewsradio.com/2024/03/03/santa-rosa-man-rescued-by-sar-after-following-gps-directions/?utm_source=rss&utm_medium=rss&utm_campaign=santa-rosa-man-rescued-by-sar-after-following-gps-directions",
+          "publishedOn": "2024-03-03T22:04:24.000Z",
+          "wordCount": 1782,
+          "title": "SANTA ROSA MAN RESCUED BY SAR AFTER FOLLOWING GPS DIRECTIONS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240303210329/Mission2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116292",
           "author": "Kyle Bailey",
           "description": "March, 2024 6:40 a.m. A Winter Weather Advisory remains in effect until Sunday evening at 10:00 p.m. above 1,500 feet with a Winter Storm Warning from 10:00 a.m. Monday through 4:00 p.m. Tuesday for central Douglas County and its eastern foothills above 1,800 feet. For the Advisory, an additional 3 to 7 inches of snow...",
@@ -374,16 +384,6 @@
           "wordCount": 2026,
           "title": "FEEDING UMPQUA CHEESE AND THANK YOU FUNDRAISER IN MARCH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201124/Cheese-and-Thanks-Logo-e1682505184138.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116188",
-          "author": "Kyle Bailey",
-          "description": "February 29, 2024 2:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Concert Band will perform “Mythical and Magical Wonders” on Tuesday, March 12th at 7:00 p.m. in Jacoby Auditorium on the UCC campus. The concert is an evening of music that is based on magical and mystical stories and will feature a...",
-          "link": "https://kqennewsradio.com/2024/02/29/ucc-concert-band-presents-mythical-and-magical-wonders/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-concert-band-presents-mythical-and-magical-wonders",
-          "publishedOn": "2024-02-29T11:08:22.000Z",
-          "wordCount": 1531,
-          "title": "UCC CONCERT BAND PRESENTS MYTHICAL AND MAGICAL WONDERS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240229100811/concert-band-mythical-3-2024.jpg"
         }
       ]
     },
@@ -398,6 +398,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c1cb7e64-d993-11ee-904e-7b3704e2dc8f",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "AZALEA — A 34-year-old man was rescued by Douglas County Search and Rescue after he got stuck in the snow following his GPS.",
+          "link": "https://www.nrtoday.com/news/man-rescued-after-getting-stuck-in-snow-while-following-gps/article_c1cb7e64-d993-11ee-904e-7b3704e2dc8f.html",
+          "publishedOn": "2024-03-03T19:25:00.000Z",
+          "wordCount": 13622,
+          "title": "Man rescued after getting stuck in snow, while following GPS",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/44/d44ae912-d993-11ee-9e39-cfee81e84379/65e4ceb8043a8.image.jpg?resize=300%2C400",
+            "length": "132948",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/44/d44ae912-d993-11ee-9e39-cfee81e84379/65e4ceb8043a8.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/099a65b6-d8ef-11ee-b402-771fd10f312e",
           "author": "GLORIA COLEMAN The News-Review",
