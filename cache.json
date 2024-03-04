@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116341",
+          "author": "Kyle Bailey",
+          "description": "March 4, 2024 2:45 p.m. Roseburg Police dealt with four DUII incidents between early Friday and early Sunday. Information from RPD said Friday just after 12:20 a.m. officers contacted a 55-year-old man in the 200 block of Southeast Jackson Street during a traffic stop and noticed signs of impairment. The man consented to standard field...",
+          "link": "https://kqennewsradio.com/2024/03/04/roseburg-police-deal-with-four-duii-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-deal-with-four-duii-incidents",
+          "publishedOn": "2024-03-04T22:43:53.000Z",
+          "wordCount": 1753,
+          "title": "ROSEBURG POLICE DEAL WITH FOUR DUII INCIDENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222536/police-1024x538-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116339",
           "author": "Kyle Bailey",
           "description": "Roseburg Police charged a man with a restraining order violation on Friday. An RPD report said the 43-year-old was contacted at 8:00 a.m. while he was already in jail on another matter. The suspect was a respondent in a restraining order with the victim being the petitioner. The man had allegedly written the victim a...",
@@ -394,16 +404,6 @@
           "wordCount": 1552,
           "title": "FRIENDS OF LIBRARY BOOK SALE HAPPENING THROUGH SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212143/Library-Expands-Hours-3-Kris-Wiley-7-6-21-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116229",
-          "author": "Kyle Bailey",
-          "description": "March 1, 2024 2:50 a.m. The Roseburg Lions Club will be selling See’s Candy to help support the club’s various projects in the community between March 15th and March 30th. This fundraising event also supports the Oregon Lions Sight and Hearing Foundation’s KTP Days. KTP stands for “Keeping the Promise”. See’s Candy sales will take...",
-          "link": "https://kqennewsradio.com/2024/03/01/roseburg-lions-club-selling-sees-candy-to-benefit-community/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-lions-club-selling-sees-candy-to-benefit-community",
-          "publishedOn": "2024-03-01T11:05:18.000Z",
-          "wordCount": 1625,
-          "title": "ROSEBURG LION’S CLUB SELLING SEE’S CANDY TO BENEFIT COMMUNITY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727211730/trailer-e1649067495838.jpg"
         }
       ]
     },
@@ -418,6 +418,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9bf735ea-da40-11ee-8d38-0fcf4f7a9a10",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — Audrey Van Houten had just been crowned the new Miss Douglas County when her sister came across the stage to give her a hug.",
+          "link": "https://www.nrtoday.com/news/education/new-royalty-audrey-van-houten-and-kendyl-rae-bartz-win-titles-at-miss-douglas-county/article_9bf735ea-da40-11ee-8d38-0fcf4f7a9a10.html",
+          "publishedOn": "2024-03-04T20:15:00.000Z",
+          "wordCount": 14370,
+          "title": "New royalty: Audrey Van Houten and Kendyl-Rae Bartz win titles at Miss Douglas County and Miss Douglas County Outstanding Teen Competition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/84/a84c8ad4-da40-11ee-b1e4-a7fe677f3c3d/65e5f0ad22f31.image.jpg?resize=300%2C241",
+            "length": "277673",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/84/a84c8ad4-da40-11ee-b1e4-a7fe677f3c3d/65e5f0ad22f31.image.jpg?resize=300%2C241"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/5d840480-d81c-11ee-bf14-3f37dd19d109",
           "author": "DREW WINKELMAIER The News-Review",
