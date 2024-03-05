@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-05T13:10:08.874Z</updated>
+    <updated>2024-03-05T16:11:32.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Valley Tennis Center hosts open house with Thrive Umpqua]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/569910dc-d72e-11ee-9217-0bc0b56113c6</id>
+        <link href="https://www.nrtoday.com/news/umpqua-valley-tennis-center-hosts-open-house-with-thrive-umpqua/article_569910dc-d72e-11ee-9217-0bc0b56113c6.html"/>
+        <updated>2024-03-05T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From 10 a.m. to 2 p.m. on Saturday the public is invited to drop in for the Umpqua Valley Tennis Center's Open House in partnership with Thrive Umpqua.]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHANGES FOR TUESDAY DUE TO WEATHER CONDITIONS]]></title>
         <id>https://kqennewsradio.com/?p=116363</id>

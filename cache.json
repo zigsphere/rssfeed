@@ -369,6 +369,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/569910dc-d72e-11ee-9217-0bc0b56113c6",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "From 10 a.m. to 2 p.m. on Saturday the public is invited to drop in for the Umpqua Valley Tennis Center's Open House in partnership with Thrive Umpqua.",
+          "link": "https://www.nrtoday.com/news/umpqua-valley-tennis-center-hosts-open-house-with-thrive-umpqua/article_569910dc-d72e-11ee-9217-0bc0b56113c6.html",
+          "publishedOn": "2024-03-05T13:45:00.000Z",
+          "wordCount": 13516,
+          "title": "Umpqua Valley Tennis Center hosts open house with Thrive Umpqua",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/90/8906cd28-d762-11ee-a884-53e790cd62cc/6370229db86ba.image.jpg?resize=300%2C200",
+            "length": "378764",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/90/8906cd28-d762-11ee-a884-53e790cd62cc/6370229db86ba.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/83883cca-da68-11ee-9e72-17e5fdd7f59a",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "CAMAS VALLEY — Oregon State Police officers responded to an injury crash around 4:40 p.m. Friday on Highway 42, near milepost 51 about five miles west of Camas Valley, which resulted in the highway to be closed briefly.",
