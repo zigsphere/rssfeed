@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-05T23:09:28.995Z</updated>
+    <updated>2024-03-06T02:15:33.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Little Taste of Italy returns to the Douglas County Fairgrounds]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dd86ae1a-db34-11ee-988a-4b5159cf0b5c</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg/a-little-taste-of-italy-returns-to-the-douglas-county-fairgrounds/article_dd86ae1a-db34-11ee-988a-4b5159cf0b5c.html"/>
+        <updated>2024-03-05T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Safe Haven Maternity Home is bringing the tastes of Italian culture to the Douglas County Fairgrounds at 5 p.m. Saturday. The 10th annual Taste of Italy event supports the nonprofit's goal of providing foundational knowledge of a safe home environment…]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOUGLAS ELECTRIC COOPERATIVE HAS ANNUAL MEETING]]></title>
+        <id>https://kqennewsradio.com/?p=116409</id>
+        <link href="https://kqennewsradio.com/2024/03/05/douglas-electric-cooperative-has-annual-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-electric-cooperative-has-annual-meeting"/>
+        <updated>2024-03-05T23:21:21.000Z</updated>
+        <summary type="html"><![CDATA[March 5, 2024 3:30 p.m.  Douglas Electric Cooperative has its annual meeting on Saturday, April 6th at the Douglas County Fairgrounds. Doors will open at 9:00 a.m. with the meeting starting at 10:30 a.m. DEC will have information booths, door prizes and lunch for its members. For more information, contact the cooperative at: Erika.sullivan@dec.coop.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rulemaking advisory committee on update to statewide wildfire hazard map meeting series starting March 7 via Zoom]]></title>
         <id>https://www.flashalert.net/news.html?id=1072#news170462</id>
@@ -725,26 +745,6 @@ The Sheriff's Office was assisted by the Myrtle Creek Police Department, Douglas
         <summary type="html"><![CDATA[FISHING REPORT]]></summary>
         <author>
             <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER STORM WARNING/WEATHER ADVISORY FOR CENTRAL DOUGLAS COUNTY]]></title>
-        <id>https://kqennewsradio.com/?p=116270</id>
-        <link href="https://kqennewsradio.com/2024/03/02/winter-storm-warning-weather-advisory-for-central-douglas-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-weather-advisory-for-central-douglas-county"/>
-        <updated>2024-03-02T14:02:12.000Z</updated>
-        <summary type="html"><![CDATA[March 2, 2024 6:00 a.m.  A Winter Storm Warning remains in effect until 10:00 a.m. Saturday above 2,000 feet with a Winter Weather Advisory in place until 4:00 p.m. Sunday above 800 feet for central Douglas County. Forecasters at the National Weather Service said for the Warning, heavy snow is expected with additional accumulations of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER STORM WARNING/WEATHER ADVISORY FOR MOUNTAIN AREAS]]></title>
-        <id>https://kqennewsradio.com/?p=116267</id>
-        <link href="https://kqennewsradio.com/2024/03/02/winter-storm-warning-weather-advisory-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-weather-advisory-for-mountain-areas"/>
-        <updated>2024-03-02T13:47:36.000Z</updated>
-        <summary type="html"><![CDATA[March 2, 2024 5:30 a.m.  A Winter Storm Warning remains in effect until 10:00 a.m. Saturday with a Winter Weather Advisory in place from 10:00 a.m. Saturday through 4:00 p.m. Sunday for mountain areas in southern Oregon. Forecasters at the National Weather Service said for the Warning, heavy snow is expected with additional accumulations of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
