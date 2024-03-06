@@ -519,6 +519,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/88bb0f60-da86-11ee-b14e-4fcd845f6634",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Heidi Underwood believes women are incredibly capable and talented, and when they’re passionate about something, people should “watch out,” for it will be spectacular.",
+          "link": "https://www.nrtoday.com/a_and_e/tough-as-nails-photo-exhibit-recognizes-women-with-moxie/article_88bb0f60-da86-11ee-b14e-4fcd845f6634.html",
+          "publishedOn": "2024-03-06T21:30:00.000Z",
+          "wordCount": 14051,
+          "title": "Tough as nails: photo exhibit recognizes women with \"moxie\"",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3d/93dd4154-db50-11ee-8578-fbba5f27bbaa/65e7b8e1edf92.image.jpg?resize=300%2C200",
+            "length": "395016",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3d/93dd4154-db50-11ee-8578-fbba5f27bbaa/65e7b8e1edf92.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9dcbba76-da86-11ee-85f0-4f6376e6e709",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "GLIDE — Hao Ly felt privileged to be with his wife, Rachel Merchant-Ly, for more than 10 years, but their time was cut short following a car crash that sent her into the North Umpqua River.",
@@ -687,36 +702,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/44/d44ae912-d993-11ee-9e39-cfee81e84379/65e4ceb8043a8.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/099a65b6-d8ef-11ee-b402-771fd10f312e",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "For homeowners wondering about how to modernize their carpets or which massage chair is the best to buy, the Home & Garden Show was the perfect weekend activity.",
-          "link": "https://www.nrtoday.com/news/local/homes-and-gardens-need-upgrades-too/article_099a65b6-d8ef-11ee-b402-771fd10f312e.html",
-          "publishedOn": "2024-03-03T07:45:00.000Z",
-          "wordCount": 14842,
-          "title": "Homes and gardens need upgrades, too",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/eb/feb0e862-d909-11ee-a703-7fc613d0e5d3/65e3e77893f56.image.jpg?resize=300%2C200",
-            "length": "439755",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/eb/feb0e862-d909-11ee-a703-7fc613d0e5d3/65e3e77893f56.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/70fff4f4-d913-11ee-bd90-1788db7cc549",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — U.S. Senator Jeff Merkley braved the weather to appear in Douglas County for his first town hall of the year Saturday night at the Southern Oregon Wine Institute at Umpqua Community College.",
-          "link": "https://www.nrtoday.com/news/government/merkley-fields-questions-about-the-winchester-dam-mental-health-in-town-hall/article_70fff4f4-d913-11ee-bd90-1788db7cc549.html",
-          "publishedOn": "2024-03-03T07:30:00.000Z",
-          "wordCount": 14397,
-          "title": "Merkley fields questions about the Winchester Dam, mental health in town hall",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/01/20120442-d909-11ee-ab09-7b113816d624/65e3e6031b0f6.image.jpg?resize=300%2C200",
-            "length": "311484",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/01/20120442-d909-11ee-ab09-7b113816d624/65e3e6031b0f6.image.jpg?resize=300%2C200"
         }
       ]
     },
