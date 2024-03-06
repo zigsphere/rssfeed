@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116431",
+          "author": "Kyle Bailey",
+          "description": "March 6, 2024 5:30 a.m.  Winter weather in some locations is leading to some changes for Wednesday morning: *Winston Dillard School District has morning buses on snow routes. This applies to buses 15 and 18. Listen to News Radio 93-9 FM and 1240 KQEN and check www.541radio.com for updated information.",
+          "link": "https://kqennewsradio.com/2024/03/06/changes-for-wednesday-due-to-weather-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=changes-for-wednesday-due-to-weather-conditions",
+          "publishedOn": "2024-03-06T13:41:53.000Z",
+          "wordCount": 1472,
+          "title": "CHANGES FOR WEDNESDAY DUE TO WEATHER CONDITIONS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116429",
           "author": "Kyle Bailey",
           "description": "March 6, 2024 4:00 a.m. On Tuesday, Oregon Right to Life announced their endorsement of Oregon Army National Guard veteran Alek Skarlatos for the Republican nomination for Oregon House District 4. Skarlatos said, “I have always stood for the right to life, and I am honored to be endorsed by Oregon Right to Life PAC...",
@@ -438,6 +448,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9dcbba76-da86-11ee-85f0-4f6376e6e709",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "GLIDE — Hao Ly felt privileged to be with his wife, Rachel Merchant-Ly, for more than 10 years, but their time was cut short following a car crash that sent her into the North Umpqua River.",
+          "link": "https://www.nrtoday.com/news/glide-mourns-kindergarten-teacher-during-candlelight-vigil/article_9dcbba76-da86-11ee-85f0-4f6376e6e709.html",
+          "publishedOn": "2024-03-06T15:45:00.000Z",
+          "wordCount": 14549,
+          "title": "Glide mourns kindergarten teacher during candlelight vigil",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/4c/d4c5768c-db69-11ee-be63-5b8ea6332f33/65e7e340466b1.image.jpg?resize=300%2C200",
+            "length": "405038",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/4c/d4c5768c-db69-11ee-be63-5b8ea6332f33/65e7e340466b1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/963dbf1c-db16-11ee-b035-971962a8c93c",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Adapt Integrated Health Care has continued to expand its opioid treatment program since its origin in 2018, serving Douglas County with a full spectrum of care focused on recovery.",
+          "link": "https://www.nrtoday.com/news/adapts-opioid-treatment-program-expands-help-in-new-location/article_963dbf1c-db16-11ee-b035-971962a8c93c.html",
+          "publishedOn": "2024-03-06T14:30:00.000Z",
+          "wordCount": 13899,
+          "title": "Adapt's Opioid Treatment Program expands help in new location",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/49/649a5496-db4a-11ee-8686-33e4e0cf23d7/65e7ae81ab633.image.jpg?resize=300%2C200",
+            "length": "300635",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/49/649a5496-db4a-11ee-8686-33e4e0cf23d7/65e7ae81ab633.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dd86ae1a-db34-11ee-988a-4b5159cf0b5c",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Safe Haven Maternity Home is bringing Italian culture to the Douglas County Fairgrounds at 5 p.m. Saturday for the 10th annual Taste of Italy event to support the nonprofit's goal of providing a safe home environment for pregnant women, mothers…",
+          "link": "https://www.nrtoday.com/news/local/roseburg/safe-haven-maternity-home-hosts-fundraising-dinner/article_dd86ae1a-db34-11ee-988a-4b5159cf0b5c.html",
+          "publishedOn": "2024-03-05T23:30:00.000Z",
+          "wordCount": 13846,
+          "title": "Safe Haven Maternity Home hosts fundraising dinner",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/16/11639784-db35-11ee-ba07-6746b2f12591/5ea9b00287ef0.image.jpg?resize=300%2C260",
+            "length": "307867",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/16/11639784-db35-11ee-ba07-6746b2f12591/5ea9b00287ef0.image.jpg?resize=300%2C260"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/dd86ae1a-db34-11ee-988a-4b5159cf0b5c",
           "author": "DREW WINKELMAIER The News-Review",
