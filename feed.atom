@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-06T23:10:37.055Z</updated>
+    <updated>2024-03-07T02:09:31.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Annual Hops for K9 Cops this Sunday at Backside Brewing]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c092e4a8-da86-11ee-9a47-2f3ef5dec277</id>
+        <link href="https://www.nrtoday.com/news/annual-hops-for-k9-cops-this-sunday-at-backside-brewing/article_c092e4a8-da86-11ee-9a47-2f3ef5dec277.html"/>
+        <updated>2024-03-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Grab a drink and meet some furry law enforcement friends at the 2024 Hops for K-9 Cops event this weekend.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon's employment drops by 4,900]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f8e37940-dbe3-11ee-8ae6-53b599dec6b8</id>
+        <link href="https://www.nrtoday.com/business/oregons-employment-drops-by-4-900/article_f8e37940-dbe3-11ee-8ae6-53b599dec6b8.html"/>
+        <updated>2024-03-07T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In January, Oregon’s seasonally adjusted nonfarm payroll employment dropped by 4,900 jobs, following a revised gain of 1,900 jobs in December.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tri-City metal shop engulfs in flames, cause unknown]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7be019c4-dc12-11ee-bda3-0fd2a2175a0f</id>
+        <link href="https://www.nrtoday.com/news/tri-city-metal-shop-engulfs-in-flames-cause-unknown/article_7be019c4-dc12-11ee-bda3-0fd2a2175a0f.html"/>
+        <updated>2024-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TRI-CITY — A large metal shop was engulfed in flames, with plumes of black smoke, at about 12:45 p.m. Wednesday in Tri-City.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tough as nails: photo exhibit recognizes women with "moxie"]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/88bb0f60-da86-11ee-b14e-4fcd845f6634</id>
