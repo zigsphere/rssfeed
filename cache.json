@@ -559,6 +559,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/41fdced2-dbf3-11ee-96fb-63bb377ae463",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "The halls of the Douglas County Courthouse echoed with the sound of music Wednesday as school choirs and bands from around the county performed for the annual Music in the Courthouse event.",
+          "link": "https://www.nrtoday.com/news/local/music-in-the-courthouse-douglas-county-students-fill-the-halls-with-songs/article_41fdced2-dbf3-11ee-96fb-63bb377ae463.html",
+          "publishedOn": "2024-03-07T15:00:00.000Z",
+          "wordCount": 15129,
+          "title": "Music in the Courthouse: Douglas County students fill the halls with songs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/57/457bf5f0-dbf5-11ee-b32d-fba288a21e32/65e8cd316c0d9.image.jpg?resize=300%2C200",
+            "length": "263967",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/57/457bf5f0-dbf5-11ee-b32d-fba288a21e32/65e8cd316c0d9.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5887e6ce-dbe4-11ee-9bd9-5fc3b7eb9314",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — The Sutherlin Farmers Market is holding an informational meeting open to the public for vendors and all who would like to be involved with the market in 2024.",
+          "link": "https://www.nrtoday.com/business/sutherlin-farmers-market-hosts-meeting/article_5887e6ce-dbe4-11ee-9bd9-5fc3b7eb9314.html",
+          "publishedOn": "2024-03-07T14:45:00.000Z",
+          "wordCount": 13219,
+          "title": "Sutherlin Farmers Market hosts meeting",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/84f12170-dbf4-11ee-9af7-bf5115debaed",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "LOOKINGGLASS — Books about fossils, rocks, gems and other geology and earth sciences were donated to Lookingglass Elementary School on Wednesday by the Umpqua Gem and Mineral Club.",
+          "link": "https://www.nrtoday.com/family/book-donations-sustain-learning/article_84f12170-dbf4-11ee-9af7-bf5115debaed.html",
+          "publishedOn": "2024-03-07T14:45:00.000Z",
+          "wordCount": 13957,
+          "title": "Book donations sustain learning",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/eb/2eb07b20-dc13-11ee-9424-6792063ab3d0/65e8ff601780b.image.jpg?resize=300%2C200",
+            "length": "260918",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/eb/2eb07b20-dc13-11ee-9424-6792063ab3d0/65e8ff601780b.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c092e4a8-da86-11ee-9a47-2f3ef5dec277",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Grab a drink and meet some furry law enforcement friends at the 2024 Hops for K-9 Cops event this weekend.",
