@@ -479,6 +479,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/34d4e81c-dcb1-11ee-a2b5-171422661b32",
+          "author": null,
+          "description": "The next Friends of the Umpqua Hiking Club hike is scheduled for March 16.",
+          "link": "https://www.nrtoday.com/family/club-news-explore-brice-creek-trail-on-march-16/article_34d4e81c-dcb1-11ee-a2b5-171422661b32.html",
+          "publishedOn": "2024-03-09T16:26:00.000Z",
+          "wordCount": 13139,
+          "title": "Club News: Explore Brice Creek Trail on March 16",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/eae0edc4-da7f-11ee-a004-b788508d0e98",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Bailey’s flowing, golden locks dusted along the floor of MasterCuts during her shift at work. Her owner, Sean Hudson, called her name as her four paws trotted along and she nuzzled her head into him for more pets.",
@@ -547,6 +557,21 @@
           "wordCount": 13234,
           "title": "Fifth Annual AT-TIES Together conference in Salem April 18-19",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd3a34e8-db75-11ee-8f9f-2fa01814c58e",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Lt. paramedic Josh McDonald, firefighter/EMT Hayley Wisener and officer Lt. John Tranter of Sutherlin Fire Department spent two days in February expanding their fire service knowledge at the annual Winter Fire School in Salem.",
+          "link": "https://www.nrtoday.com/news/local-first-responders-participate-in-winter-training/article_fd3a34e8-db75-11ee-8f9f-2fa01814c58e.html",
+          "publishedOn": "2024-03-08T23:00:00.000Z",
+          "wordCount": 14110,
+          "title": "Local first responders participate in winter training",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b4/cb43d8de-dd66-11ee-bcb9-c79f71919adf/65eb3a054a640.image.jpg?resize=300%2C225",
+            "length": "302295",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b4/cb43d8de-dd66-11ee-bcb9-c79f71919adf/65eb3a054a640.image.jpg?resize=300%2C225"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fd3a34e8-db75-11ee-8f9f-2fa01814c58e",

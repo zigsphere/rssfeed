@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-09T19:07:23.956Z</updated>
+    <updated>2024-03-09T23:10:09.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Club News: Explore Brice Creek Trail on March 16]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/34d4e81c-dcb1-11ee-a2b5-171422661b32</id>
+        <link href="https://www.nrtoday.com/family/club-news-explore-brice-creek-trail-on-march-16/article_34d4e81c-dcb1-11ee-a2b5-171422661b32.html"/>
+        <updated>2024-03-09T16:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The next Friends of the Umpqua Hiking Club hike is scheduled for March 16.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pawfect companions: bringing pets to work]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/eae0edc4-da7f-11ee-a004-b788508d0e98</id>
@@ -84,6 +94,16 @@
         <summary type="html"><![CDATA[March 9, 2024 6:00 a.m.  A High Wind Warning is in effect from 10:00 p.m. Saturday through 8:00 a.m. Sunday for the headlands and exposed areas of Highway 101 on the south central and Curry County coast. Forecasters at the National Weather Service said south winds of 45 to 55 miles per hour with gusts...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local first responders participate in winter training]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fd3a34e8-db75-11ee-8f9f-2fa01814c58e</id>
+        <link href="https://www.nrtoday.com/news/local-first-responders-participate-in-winter-training/article_fd3a34e8-db75-11ee-8f9f-2fa01814c58e.html"/>
+        <updated>2024-03-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lt. paramedic Josh McDonald, firefighter/EMT Hayley Wisener and officer Lt. John Tranter of Sutherlin Fire Department spent two days in February expanding their fire service knowledge at the annual Winter Fire School in Salem.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
