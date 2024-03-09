@@ -479,6 +479,76 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/eae0edc4-da7f-11ee-a004-b788508d0e98",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Bailey’s flowing, golden locks dusted along the floor of MasterCuts during her shift at work. Her owner, Sean Hudson, called her name as her four paws trotted along and she nuzzled her head into him for more pets.",
+          "link": "https://www.nrtoday.com/business/pawfect-companions-bringing-pets-to-work/article_eae0edc4-da7f-11ee-a004-b788508d0e98.html",
+          "publishedOn": "2024-03-09T15:45:00.000Z",
+          "wordCount": 14495,
+          "title": "Pawfect companions: bringing pets to work",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f1/1f12c8ca-dbfb-11ee-9ee6-4361bf729153/65e8d701ed7d8.image.jpg?resize=300%2C209",
+            "length": "288432",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f1/1f12c8ca-dbfb-11ee-9ee6-4361bf729153/65e8d701ed7d8.image.jpg?resize=300%2C209"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a4fde41a-dc0f-11ee-a2d5-8bc30ae464c2",
+          "author": null,
+          "description": "The Umpqua Gem and Mineral Club’s next meeting will be held Wednesday at Westside Christian Church, 2712 W. Harvard Ave., Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-gem-and-mineral-club-meeting-wednesday/article_a4fde41a-dc0f-11ee-a2d5-8bc30ae464c2.html",
+          "publishedOn": "2024-03-09T15:30:00.000Z",
+          "wordCount": 13089,
+          "title": "Umpqua Gem and Mineral club meeting Wednesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/75ac7938-db1a-11ee-850a-5b51e85cc0e2",
+          "author": null,
+          "description": "The following marriage licenses were issued by the Douglas County Clerk's Office from Feb. 26 to March 1.",
+          "link": "https://www.nrtoday.com/news/local/marriages-feb-26-march-1/article_75ac7938-db1a-11ee-850a-5b51e85cc0e2.html",
+          "publishedOn": "2024-03-09T14:45:00.000Z",
+          "wordCount": 13075,
+          "title": "Marriages: Feb. 26-March 1",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/504ed390-dcb2-11ee-8990-2b6e6a0e339b",
+          "author": "KRIS WILEY Library News",
+          "description": "Spanish language readers now can get new, popular titles at Roseburg Public Library.",
+          "link": "https://www.nrtoday.com/news/guest_submission/roseburg-library-building-spanish-language-collection/article_504ed390-dcb2-11ee-8990-2b6e6a0e339b.html",
+          "publishedOn": "2024-03-09T14:45:00.000Z",
+          "wordCount": 13612,
+          "title": "Roseburg library building Spanish language collection",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/35319556-dbe6-11ee-9d37-8ffe65d62ef1",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Isabel Stribling, of Roseburg, made the dean's honor roll at the University of Wyoming's fall semester.",
+          "link": "https://www.nrtoday.com/news/education/isabel-stribling-named-to-honor-roll/article_35319556-dbe6-11ee-9d37-8ffe65d62ef1.html",
+          "publishedOn": "2024-03-09T14:45:00.000Z",
+          "wordCount": 13174,
+          "title": "Isabel Stribling named to honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/23a1db58-dcdf-11ee-ba15-43b6c0977383",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Registration is open for the annual AT-TIES Together conference scheduled for April 18-19 at the Salem Convention Center. This conference is hosted by the Regional and Statewide Services for Students with Orthopedic Impairment and the Oregon Technology Access Program.",
+          "link": "https://www.nrtoday.com/briefs/fifth-annual-at-ties-together-conference-in-salem-april-18-19/article_23a1db58-dcdf-11ee-ba15-43b6c0977383.html",
+          "publishedOn": "2024-03-09T14:45:00.000Z",
+          "wordCount": 13234,
+          "title": "Fifth Annual AT-TIES Together conference in Salem April 18-19",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fd3a34e8-db75-11ee-8f9f-2fa01814c58e",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Lt. paramedic Josh McDonald, firefighter/EMT Hayley Wisener and officer Lt. John Tranter of Sutherlin Fire Department spent two days in February expanding their fire service knowledge at the annual Winter Fire School in Salem.",
