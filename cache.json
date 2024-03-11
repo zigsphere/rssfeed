@@ -314,16 +314,6 @@
           "wordCount": 1505,
           "title": "ROSEBURG POLICE JAIL MAN FOR DRIVING WHILE SUSPENDED",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222536/police-1024x538-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116518",
-          "author": "Kyle Bailey",
-          "description": "March 8, 2024 2:50 a.m. Regional and Statewide Services for Students with Orthopedic Impairment and Oregon Technology Access Program are hosting the fifth annual AT-TIES conference, April 18th and 19th at the Salem Convention. Drew Winkelmaier has more “Drew” Q: News Radio 93-9 FM and 1240 KQEN Information provided by the Douglas Education Service District...",
-          "link": "https://kqennewsradio.com/2024/03/08/registration-open-for-at-ties-together-conference-2/?utm_source=rss&utm_medium=rss&utm_campaign=registration-open-for-at-ties-together-conference-2",
-          "publishedOn": "2024-03-08T11:04:15.000Z",
-          "wordCount": 1589,
-          "title": "REGISTRATION OPEN FOR AT-TIES TOGETHER CONFERENCE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240308100355/AT-TIES-Logo.jpg.png"
         }
       ]
     },
@@ -338,6 +328,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/66217a7e-dbe5-11ee-9bc0-632fb799bbf2",
+          "author": "Willis Cook For The News-Review",
+          "description": "Are you interested in moving forward in your career? Whether you want to work in your current company, a different one, or a new industry, changing roles can be exciting but difficult when you need to prove yourself as the…",
+          "link": "https://www.nrtoday.com/business/job-seeker-success-transferable-skills/article_66217a7e-dbe5-11ee-9bc0-632fb799bbf2.html",
+          "publishedOn": "2024-03-11T17:14:00.000Z",
+          "wordCount": 13600,
+          "title": "Job Seeker Success: Transferable Skills",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451",
+            "length": "198391",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dc/4dcb0268-d7ce-11ed-a63e-53baa25e6fdb/643456bf51f14.image.jpg?resize=300%2C451"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3b26c1f0-db1b-11ee-8e3f-ffff7ade49f8",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A commemoration to recognize, thank and honor United States military veterans who served during the Vietnam War era will take place from 10 a.m. to 2 p.m. March 27 at the Douglas County Fairgrounds.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-va-hosts-vietnam-war-commemoration-pinning-ceremony/article_3b26c1f0-db1b-11ee-8e3f-ffff7ade49f8.html",
+          "publishedOn": "2024-03-11T17:07:00.000Z",
+          "wordCount": 13263,
+          "title": "Roseburg VA hosts Vietnam War Commemoration Pinning Ceremony",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ba83e826-df2e-11ee-8b8b-0f6af03c9655",
           "author": "ERICA REYNOLDS The News-Review",
@@ -600,6 +615,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news170618",
+          "author": null,
+          "description": "What: Watch junior and senior high school students from the Career Education Technical Center in Salem plant seedlings in the Horsecamp area of the Santiam State Forest. The tree planting is hosted by the State Forests Trust of Oregon and Oregon Department of Forestry (ODF).\nVisuals: See 20 students receive hands-on training on how to plant trees.  Then they will plant trees  near the Hosrecamp area that was burned during the 2020 Labor Day fires.  Students, teachers and forestry experts from ODF and the State Forests Trust will be available for interviews.\nPeople on-site available to interview: Several students; Kelly Lau with State Forests Trust of Oregon, John Mandich, Recreation Specialist; John Walter, ODF Young Stand Silviculturist;  Tim Hoffman and Brooke Burgess, ODF Public Affairs…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news170618",
+          "publishedOn": "2024-03-11T22:21:48.000Z",
+          "wordCount": 4025,
+          "title": "Media opportunity: High school students planting trees to support recovery of the Santiam State Forest after the 2020 Labor Day fires, the work is coordinated by the State Forests Trust of Oregon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news170608",
           "author": null,
