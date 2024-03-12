@@ -339,6 +339,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/50371990-dff9-11ee-ab4e-439d9af45c4a",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Douglas County Circuit Court will begin mailing out jury summons in a different format starting Monday.",
+          "link": "https://www.nrtoday.com/news/new-format-for-circuit-court-jury-summons/article_50371990-dff9-11ee-ab4e-439d9af45c4a.html",
+          "publishedOn": "2024-03-12T20:00:00.000Z",
+          "wordCount": 13524,
+          "title": "New format for circuit court jury summons",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d1/8d166b4a-dffe-11ee-bd5a-b3f99cd17fad/65ef932a10cd6.image.png?resize=300%2C106",
+            "length": "554398",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d1/8d166b4a-dffe-11ee-bd5a-b3f99cd17fad/65ef932a10cd6.image.png?resize=300%2C106"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/73ebec3c-e0a1-11ee-b1c8-7b72c99f744c",
+          "author": "Lisa Platt For The News-Review",
+          "description": "We know leaving a hospital stay can be stressful, especially if resources like food or even a few healthy prepared meals, are not available. While community resources that can assist with nutrition are available, not everyone knows what they are…",
+          "link": "https://www.nrtoday.com/news/guest_submission/food-is-medicine/article_73ebec3c-e0a1-11ee-b1c8-7b72c99f744c.html",
+          "publishedOn": "2024-03-12T18:50:00.000Z",
+          "wordCount": 13501,
+          "title": "Food is medicine",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06d4e076-e0a2-11ee-9f9a-2768e7a9d128/65f0a503dce0d.image.jpg?resize=300%2C375",
+            "length": "284352",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06d4e076-e0a2-11ee-9f9a-2768e7a9d128/65f0a503dce0d.image.jpg?resize=300%2C375"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/efc19ee0-e085-11ee-9607-6f6ae6f08e4a",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A 13-year-old boy died Monday night in a fire at 2316 W. Harvard Ave. in Roseburg.",
+          "link": "https://www.nrtoday.com/news/local/boy-dies-in-house-fire/article_efc19ee0-e085-11ee-9607-6f6ae6f08e4a.html",
+          "publishedOn": "2024-03-12T15:33:00.000Z",
+          "wordCount": 13481,
+          "title": "Boy dies in house fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0b/00bfc0e6-e086-11ee-869e-3fe35a980ead/65f075ffc0986.image.jpg?resize=300%2C225",
+            "length": "151054",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0b/00bfc0e6-e086-11ee-869e-3fe35a980ead/65f075ffc0986.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8928033e-e082-11ee-a835-0f40740265d7",
           "author": "SANNE GODFREY The News-Review",
           "description": "TENMILE — Tenmile Community Center is hosting a pancake feed from 5-7 p.m. Saturday at 2099 Tenmile Valley Road.",
