@@ -269,6 +269,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8928033e-e082-11ee-a835-0f40740265d7",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "TENMILE — Tenmile Community Center is hosting a pancake feed from 5-7 p.m. Saturday at 2099 Tenmile Valley Road.",
+          "link": "https://www.nrtoday.com/news/local/tenmile-community-center-hosts-pancake-feed/article_8928033e-e082-11ee-a835-0f40740265d7.html",
+          "publishedOn": "2024-03-12T15:09:00.000Z",
+          "wordCount": 13170,
+          "title": "Tenmile Community Center hosts pancake feed",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1c8cbdf4-db47-11ee-bf41-53b0a786bd3e",
+          "author": "Scott Carroll The News-Review",
+          "description": "While Roseburg city officials continue to look for a location for an urban campground to house the area’s homeless population, one local resident is opening a second such site on his own.",
+          "link": "https://www.nrtoday.com/news/second-tent-campsite-approved-in-roseburg/article_1c8cbdf4-db47-11ee-bf41-53b0a786bd3e.html",
+          "publishedOn": "2024-03-12T14:15:00.000Z",
+          "wordCount": 14720,
+          "title": "Second tent campsite approved in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/db/8db5f160-dd8d-11ee-8619-c7efb42929a9/65eb7a2d433fa.image.jpg?resize=300%2C200",
+            "length": "375656",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/db/8db5f160-dd8d-11ee-8619-c7efb42929a9/65eb7a2d433fa.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/66217a7e-dbe5-11ee-9bc0-632fb799bbf2",
           "author": "Willis Cook For The News-Review",
           "description": "Are you interested in moving forward in your career? Whether you want to work in your current company, a different one, or a new industry, changing roles can be exciting but difficult when you need to prove yourself as the…",
@@ -432,7 +457,23 @@
       "title": "Roseburg Fire Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5568",
       "siteUrl": "https://www.flashalert.net/news.html?id=5568",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5568#news170626",
+          "author": null,
+          "description": "At 7:46 p.m. on March 11, 2024, Roseburg Fire Department personnel responded to a residential structure fire with a possible rescue at 2316 W. Harvard Avenue. Firefighters arrived on scene to find heavy fire coming from the second and third floors of a large residential structure that included multiple apartments.  Upon arrival, residents informed fire crews there may be a thirteen-year-old resident still inside the structure. \nMultiple crews entered the multi-family residence and searched all floors for the missing person.  Crews were able to locate the young boy on the second floor and found him to be unconscious.  Crews quickly removed the victim through a second-floor window.  The patient was transported to a nearby hospital, where the victim was pronounced deceased.  Two other patients were transported to a nearby hospital for smoke inhalation.  Crews extinguished the fire and spent considerable time overhauling the structure. There were multiple dogs found deceased due to the fire.  The American Red Cross responded and was on scene assisting multiple displaced residents. \nThe multi-family residence sustained structural, smoke, and water damage.  The fire investigation is ongoing and multiple agencies are involved in the efforts.  Thirty-one firefighters assisted with firefighting efforts. Other agencies assisting with the fire included Douglas County Fire District #2, Winston-Dillard Fire District, Umpqua Valley Ambulance, Pacific Power, Avista Utilities, Roseburg Police Department, American Red Cross, and Adapt.\nFor the latest information regarding the City of Roseburg Fire Department, please visit our website at www.cityofroseburg.org or like us on Facebook at www.facebook.com/roseburgfire.",
+          "link": "https://www.flashalert.net/news.html?id=5568#news170626",
+          "publishedOn": "2024-03-12T15:27:29.000Z",
+          "wordCount": 399,
+          "title": "Fatal Multi-Family Residential Structure Fire - 2316 W. Harvard - 3-12-24 (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-03/5568/170626/Image_1.jpg",
+            "length": "885512",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-03/5568/170626/Image_1.jpg"
+        }
+      ]
     },
     {
       "title": "Douglas Interagency Narcotics Team (DINT)",
