@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=116668",
+          "author": "Kyle Bailey",
+          "description": "March 13, 2024 9:10 a.m. Myrtle Creek Police jailed a Roseburg man on sex crimes and other charges early Tuesday. An MCPD report said just after 1:00 a.m. officers contacted 38-year-old Brian Coulombe in his vehicle in a local park. Detective Kevin Taggart said Coulombe had been under investigation for allegedly agreeing to meet with...",
+          "link": "https://kqennewsradio.com/2024/03/13/myrtle-creek-police-jail-man-for-alleged-sex-crimes-2/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-police-jail-man-for-alleged-sex-crimes-2",
+          "publishedOn": "2024-03-13T16:21:31.000Z",
+          "wordCount": 1632,
+          "title": "MYRTLE CREEK POLICE JAIL MAN FOR ALLEGED SEX CRIMES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221434/mcpd2-e1609413984764.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=116663",
           "author": "Kyle Bailey",
           "description": "March 13, 2024 4:00 a.m. A ridge of high pressure building into the region combined with an offshore flow will lead to early May like conditions for the Umpqua Valley from Friday through Tuesday. Forecasters at the National Weather Service in Medford said high temperatures will be 10 to 12 degrees above normal for the...",
@@ -378,6 +388,56 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5ca5f5a4-e14b-11ee-be85-6b6c52d9287b",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "On Tuesday, Senators Ron Wyden and Jeff Merkley, along with Congresswoman Val Hoyle asked federal officials to extend the initial comment period for the development of environmental assessment leasing activities in the Coos Bay Wind Energy Area and the Brookings…",
+          "link": "https://www.nrtoday.com/news/local/lawmakers-request-more-time-for-public-comment/article_5ca5f5a4-e14b-11ee-be85-6b6c52d9287b.html",
+          "publishedOn": "2024-03-13T15:07:00.000Z",
+          "wordCount": 13334,
+          "title": "Lawmakers request more time for public comment",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e397f04-e0cc-11ee-945a-935848f58cc9",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "OREGON – Douglas County Commissioner Tim Freeman was reappointed to the Oregon Criminal Justice Commission to serve four more years after the Oregon State Senate confirmed his appointment Feb. 8.",
+          "link": "https://www.nrtoday.com/briefs/tim-freeman-reappointed-to-oregon-criminal-justice-commission/article_6e397f04-e0cc-11ee-945a-935848f58cc9.html",
+          "publishedOn": "2024-03-13T15:00:00.000Z",
+          "wordCount": 13206,
+          "title": "Tim Freeman reappointed to Oregon Criminal Justice Commission",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/449c51e8-e0e6-11ee-9b8d-33fefeb90604",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Bowling balls crashed onto the lane before colliding with the pins at the end, knocking some down as Douglas C.A.R.E.S. brought its fundraiser back to life.",
+          "link": "https://www.nrtoday.com/family/strikes-and-spares-raises-money-for-douglas-c-a-r-e-s/article_449c51e8-e0e6-11ee-9b8d-33fefeb90604.html",
+          "publishedOn": "2024-03-13T14:15:00.000Z",
+          "wordCount": 14399,
+          "title": "Strikes and Spares raises money for Douglas C.A.R.E.S.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/64/a640bf4a-e0e8-11ee-8bc9-4fc6b09f6cd2/65f11b8022487.image.jpg?resize=300%2C200",
+            "length": "265111",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/64/a640bf4a-e0e8-11ee-8bc9-4fc6b09f6cd2/65f11b8022487.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0a05084e-e092-11ee-a8dc-3fcec7eedeb2",
+          "author": "JULIETE PALENSHUS For The News-Review",
+          "description": "In the heart of Douglas County, a health revolution is underway. Fed by the Lifestyle & Nutrition Course, healthy lifestyles are being adopted by individuals empowered to make positive choices about their nutrition and overall well-being.",
+          "link": "https://www.nrtoday.com/news/guest_submission/health-revolution-lifestyle-nutrition-course-leads-to-community-transformations/article_0a05084e-e092-11ee-a8dc-3fcec7eedeb2.html",
+          "publishedOn": "2024-03-13T13:45:00.000Z",
+          "wordCount": 13688,
+          "title": "Health revolution: Lifestyle & Nutrition Course leads to community transformations",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a6/da600fa6-565d-58eb-9b22-44d4fda846a0/63e29601986f3.image.jpg?resize=300%2C351",
+            "length": "382818",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a6/da600fa6-565d-58eb-9b22-44d4fda846a0/63e29601986f3.image.jpg?resize=300%2C351"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8c9fec14-e0b1-11ee-8104-6fe578be8363",
           "author": "GLORIA COLEMAN The News-Review",
