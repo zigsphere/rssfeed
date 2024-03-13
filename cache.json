@@ -314,16 +314,6 @@
           "wordCount": 1523,
           "title": "HOYLE SECURES $14.6 MILLION IN FUNDING APPROPRIATIONS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213323/hoyle-e1638447005968.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116554",
-          "author": "Kyle Bailey",
-          "description": "March 9, 2024 6:00 a.m.  A High Wind Warning is in effect from 10:00 p.m. Saturday through 8:00 a.m. Sunday for the headlands and exposed areas of Highway 101 on the south central and Curry County coast. Forecasters at the National Weather Service said south winds of 45 to 55 miles per hour with gusts...",
-          "link": "https://kqennewsradio.com/2024/03/09/high-wind-warning-from-saturday-evening-through-800-a-m-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=high-wind-warning-from-saturday-evening-through-800-a-m-sunday",
-          "publishedOn": "2024-03-09T14:02:52.000Z",
-          "wordCount": 1553,
-          "title": "HIGH WIND WARNING FROM SATURDAY EVENING THROUGH 8:00 A.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240309130237/wind-8.png"
         }
       ]
     },
@@ -338,6 +328,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c9fec14-e0b1-11ee-8104-6fe578be8363",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The great Easter bunny hunt will be underway once more beginning Friday, for area children to assist the bunny in finding its way around Roseburg.",
+          "link": "https://www.nrtoday.com/family/help-the-easter-bunny-find-its-way-through-roseburg/article_8c9fec14-e0b1-11ee-8104-6fe578be8363.html",
+          "publishedOn": "2024-03-12T23:30:00.000Z",
+          "wordCount": 13657,
+          "title": "Help the Easter bunny find its way through Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e2/be2a38ae-e0b4-11ee-ba82-8b8df976b70b/65f0c46a6abb3.image.jpg?resize=300%2C200",
+            "length": "600462",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e2/be2a38ae-e0b4-11ee-ba82-8b8df976b70b/65f0c46a6abb3.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/50371990-dff9-11ee-ab4e-439d9af45c4a",
           "author": "HANNAH SEIBOLD The News-Review",
@@ -407,6 +412,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/db/8db5f160-dd8d-11ee-8619-c7efb42929a9/65eb7a2d433fa.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/864e27f0-e010-11ee-963f-3f1227e43f53",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A variety of people with a variety of backgrounds gathered Monday and united over their collective desire to better supply the Douglas County public with locally grown and produced foods.",
+          "link": "https://www.nrtoday.com/news/environment/farm-to-fork-keeping-local-grown-foods-local/article_864e27f0-e010-11ee-963f-3f1227e43f53.html",
+          "publishedOn": "2024-03-12T01:33:00.000Z",
+          "wordCount": 13978,
+          "title": "Farm to Fork: keeping local grown foods local",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fc/7fc75032-e015-11ee-959e-9337e0f111c2/65efb93fc08a9.image.jpg?resize=300%2C200",
+            "length": "305327",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fc/7fc75032-e015-11ee-959e-9337e0f111c2/65efb93fc08a9.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/66217a7e-dbe5-11ee-9bc0-632fb799bbf2",
