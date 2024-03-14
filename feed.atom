@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-14T19:07:53.712Z</updated>
+    <updated>2024-03-14T23:09:38.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extension Spotlight: Pears are big in variety, nutrition]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/18cd7ae6-dff7-11ee-a255-47c25ad834ce</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/extension-spotlight-pears-are-big-in-variety-nutrition/article_18cd7ae6-dff7-11ee-a255-47c25ad834ce.html"/>
+        <updated>2024-03-14T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Pears have delighted palates for thousands of years. Believed to have originated in the region encompassing Western Asia and Europe, this fruit grew abundantly. Early pears were small, gritty and not as sweet as the cultivated varieties that we enjoy…]]></summary>
+        <author>
+            <name>Kathy Bates​ For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask a master gardener: Growing Asparagus]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/33a48264-dff3-11ee-b6b8-af32c5575560</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/ask-a-master-gardener-growing-asparagus/article_33a48264-dff3-11ee-b6b8-af32c5575560.html"/>
+        <updated>2024-03-14T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Question: What can you tell me about growing asparagus in my home garden? What is the origin of this delicious vegetable?]]></summary>
+        <author>
+            <name>CHRIS RUSCH Master Gardener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG BENEFIT CAR SHOW THIS WEEKEND]]></title>
+        <id>https://kqennewsradio.com/?p=116729</id>
+        <link href="https://kqennewsradio.com/2024/03/14/roseburg-benefit-car-show-this-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-benefit-car-show-this-weekend"/>
+        <updated>2024-03-14T21:29:20.000Z</updated>
+        <summary type="html"><![CDATA[March 15, 2024 2:30 p.m. The 45th annual Roseburg Benefit Car Show is happening this weekend at the Douglas County Fairgrounds. The show features street rods and motorcycles from all over Oregon. Attendees can vote for their favorite in the People’s Choice awards. Prizes will be given away and food will be available for sale....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annual Hydrant Flushing - 3-14-24 (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=5568#news170728</id>
+        <link href="https://www.flashalert.net/news.html?id=5568#news170728"/>
+        <updated>2024-03-14T21:17:19.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Fire Department will be flushing fire hydrants inside the city limits of Roseburg from April 1, 2024 through June 30, 2024.  Hydrant flushing will be conducted from 8:00 am to 5:00 pm, seven days a week. 
+The Fire Department realizes that hydrant flushing may cause some inconvenience; however, the flushing program is necessary to ensure the proper functioning and delivery of adequate water from the water mains when needed for fire control.  The community’s cooperation with this hydrant-flushing program is appreciated. 
+During the flushing process, customers may experience low water pressure or discolored water. While the water is safe to drink, customers may prefer to wait until it runs clear before drinking or washing clothes and dishes.]]></summary>
+        <author>
+            <name>Roseburg Fire Dept.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gov. Kotek proclaims April to be Oregon Arbor Month (Photo)]]></title>
         <id>https://www.flashalert.net/news.html?id=1072#news170722</id>
@@ -154,6 +196,16 @@ The meeting location is accessible to persons with disabilities. A request for a
         <summary type="html"><![CDATA[March 14, 2024 9:30 a.m.   The Oregon Department of Fish and Wildlife is looking for a landowner representative to serve on the Access and Habitat Program’s Southwest Region Council. An ODFW release said the southwest region covers Douglas, Coos, Curry, Jackson and Josephine counties. Applicants should live in one of those counties. People with an...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get revved up for the 45th Annual Roseburg Benefit Car Show]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/495ead06-e0ab-11ee-8e5c-f77600a71474</id>
+        <link href="https://www.nrtoday.com/news/get-revved-up-for-the-45th-annual-roseburg-benefit-car-show/article_495ead06-e0ab-11ee-8e5c-f77600a71474.html"/>
+        <updated>2024-03-14T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Charity, camaraderie and cars will be celebrated at the 45th Annual Roseburg Benefit Car Show this weekend at the Douglas County Fairgrounds.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -816,76 +868,6 @@ Oregon’s forests are among the state’s most valued resources, providing a ba
         <summary type="html"><![CDATA[Eros tries to steal his handler's snacks and loves spinning around in circles. Buster embodies the boundless energy and exuberance of a toddler. Nike's the old man, with grey in his face and knowledge of what's expected of him.]]></summary>
         <author>
             <name>ERICA REYNOLDS The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WIND ADVISORY 11:00 A.M. TO 11:00 P.M. FOR HIGHER ELEVATIONS IN CENTRAL DOUGLAS COUNTY]]></title>
-        <id>https://kqennewsradio.com/?p=116580</id>
-        <link href="https://kqennewsradio.com/2024/03/11/wind-advisory-1100-a-m-to-1100-p-m-for-higher-elevations-in-central-douglas-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wind-advisory-1100-a-m-to-1100-p-m-for-higher-elevations-in-central-douglas-county"/>
-        <updated>2024-03-11T11:05:35.000Z</updated>
-        <summary type="html"><![CDATA[March 11, 2024 4:00 a.m.  A Wind Advisory is in effect Monday from 11:00 a.m. to 11:00 p.m. for elevated terrain in Central Douglas County, eastern Curry County and Josephine County. Forecasters at the National Weather Service said south winds of 15 to 25 miles per hour with gusts up to 45 miles per hour...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY STARTING MONDAY NIGHT FOR MOUNTAIN AREAS]]></title>
-        <id>https://kqennewsradio.com/?p=116577</id>
-        <link href="https://kqennewsradio.com/2024/03/11/winter-weather-advisory-starting-monday-night-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-starting-monday-night-for-mountain-areas"/>
-        <updated>2024-03-11T10:48:59.000Z</updated>
-        <summary type="html"><![CDATA[March 24, 2024 3:50 a.m. A Winter Weather Advisory remains in effect from 5:00 p.m. Monday to 5:00 p.m. Tuesday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said 5 to 10 inches of snow is expected with up to 14 inches at peaks and ridgetops. Winds gusting as...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINSTON POLICE JAIL WOMAN FOLLOWING OVERNIGHT DISTURBANCE]]></title>
-        <id>https://kqennewsradio.com/?p=116575</id>
-        <link href="https://kqennewsradio.com/2024/03/11/winston-police-jail-woman-following-overnight-disturbance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-police-jail-woman-following-overnight-disturbance"/>
-        <updated>2024-03-11T10:39:46.000Z</updated>
-        <summary type="html"><![CDATA[March 22, 2024 3:40 a.m. Winston Police jailed a woman following an overnight disturbance early Sunday. A WPD report said at about 2:00 a.m. 25-year-old Lily Selzer, who was allegedly intoxicated, pushed her way uninvited into a residence in the 300 block of Southeast Park Street. Selzer reportedly refused to leave, attempted to steal a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL TO GET UPDATE ON URBAN GROWTH BOUNDARY SWAP]]></title>
-        <id>https://kqennewsradio.com/?p=116571</id>
-        <link href="https://kqennewsradio.com/2024/03/11/roseburg-city-council-to-get-update-on-urban-growth-boundary-swap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-to-get-update-on-urban-growth-boundary-swap"/>
-        <updated>2024-03-11T10:17:43.000Z</updated>
-        <summary type="html"><![CDATA[March 11, 2024 3:30 a.m. The Roseburg City Council will get an update on a potential Urban Growth Boundary Swap as part of its meeting Monday night. The process began in 2018 when staff were approached by two property owners who have a significant amount of land within the UGB. The properties face substantial development...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW CITY RECORDER FOR ROSEBURG]]></title>
-        <id>https://kqennewsradio.com/?p=116568</id>
-        <link href="https://kqennewsradio.com/2024/03/11/new-city-recorder-for-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-city-recorder-for-roseburg"/>
-        <updated>2024-03-11T10:12:53.000Z</updated>
-        <summary type="html"><![CDATA[March 11, 2024 3:20 a.m. The City of Roseburg welcomed new City Recorder Amy Nytes last week. Nytes replaces Patty Hitt, who retired on February 29th. City Manager Nikki Messenger said, “We are excited to welcome Amy to the team”. Messenger said, “She has hit the ground running. She is a great addition to the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUTHERLIN CITY COUNCIL MEETING MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=116566</id>
-        <link href="https://kqennewsradio.com/2024/03/11/sutherlin-city-council-meeting-monday-night-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-city-council-meeting-monday-night-2"/>
-        <updated>2024-03-11T10:06:02.000Z</updated>
-        <summary type="html"><![CDATA[March 11, 2024 3:00 a.m. The Sutherlin City Council will vote on several resolutions at its meeting on Monday night. Those include a Workforce Housing & Homelessness Task Force, Surplus Property, Safe Routes to School and other topics. A presentation on the police officer of the year will be made. The meeting begins at 7:00...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FISH AND WILDLIFE COMMISSION TO MEET IN ROSEBURG THURSDAY/FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=116564</id>
-        <link href="https://kqennewsradio.com/2024/03/11/fish-and-wildlife-commission-to-meet-in-roseburg-thursday-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fish-and-wildlife-commission-to-meet-in-roseburg-thursday-friday"/>
-        <updated>2024-03-11T09:59:02.000Z</updated>
-        <summary type="html"><![CDATA[March 11, 2024 2:50 a.m. The Oregon Fish and Wildlife Commission will meet in Roseburg on Thursday and Friday. An ODFW release said Thursday’s meeting is a tour of local projects including Northwestern pond turtle conservation and oak restoration at Ford’s Pond, beaver restoration on working lands, and West Region’s Wildlife Research project looking at...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
