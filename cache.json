@@ -489,6 +489,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/34743ac4-e253-11ee-8480-93682e8b3c2a",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — Roseburg Fire Department will be conducting fire hydrant flushing from 8 a.m. to 5 p.m. April 1 to June 30.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-fire-department-to-conduct-annual-fire-hydrant-flushing/article_34743ac4-e253-11ee-8480-93682e8b3c2a.html",
+          "publishedOn": "2024-03-15T15:00:00.000Z",
+          "wordCount": 13194,
+          "title": "Roseburg Fire Department to conduct annual fire hydrant flushing",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fafd8ab2-e242-11ee-9cf9-8bab26bcb469",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — The On My Own class at Glide High School hosted a battle of the food trucks, featuring 16 tables with a variety of sample-sized foods for the student body to try during lunch Thursday.",
+          "link": "https://www.nrtoday.com/news/education/battle-of-the-food-trucks-at-glide-high-school/article_fafd8ab2-e242-11ee-9cf9-8bab26bcb469.html",
+          "publishedOn": "2024-03-15T14:45:00.000Z",
+          "wordCount": 14758,
+          "title": "Battle of the food trucks at Glide High School",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/3d/d3d1b008-e24c-11ee-80e4-c3a7a0eb35f6/65f37111677e8.image.jpg?resize=300%2C200",
+            "length": "267156",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/3d/d3d1b008-e24c-11ee-80e4-c3a7a0eb35f6/65f37111677e8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/adbe068a-e230-11ee-ad44-0fb44bda9cea",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Kittie Rogers, mother of Kiya Speckman, one of three victims who died in an August 2022 car crash, is preparing for the long-awaited trial of the alleged driver responsible for the accident.",
+          "link": "https://www.nrtoday.com/news/i-miss-my-baby-family-of-victims-prepare-ahead-of-carleton-trial/article_adbe068a-e230-11ee-ad44-0fb44bda9cea.html",
+          "publishedOn": "2024-03-15T14:45:00.000Z",
+          "wordCount": 13858,
+          "title": "'I miss my baby': Family of victims prepare ahead of Carleton trial",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/2d/32dcd364-e231-11ee-a351-ff34e1d96891/6307918339cdf.image.jpg?resize=300%2C186",
+            "length": "145474",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/2d/32dcd364-e231-11ee-a351-ff34e1d96891/6307918339cdf.image.jpg?resize=300%2C186"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/09d69778-e0da-11ee-933c-6b4b546f70c1",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Douglas County's four-legged celebrity, Lily, has recently been recognized state wide. The 3-year-old Golden Lab from Oakland, a CHI Mercy Health therapy dog, was inducted into the Oregon Animal Hall of Fame on March 2.",
+          "link": "https://www.nrtoday.com/news/lily-a-therapy-dog-inducted-into-oregon-animal-hall-of-fame/article_09d69778-e0da-11ee-933c-6b4b546f70c1.html",
+          "publishedOn": "2024-03-15T13:15:00.000Z",
+          "wordCount": 15040,
+          "title": "Lily, a therapy dog, inducted into Oregon Animal Hall of Fame",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/ba/4bae0d46-e22b-11ee-8ccd-d7a5f4cc0b7c/65f338cf99586.image.jpg?resize=300%2C200",
+            "length": "282884",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/ba/4bae0d46-e22b-11ee-8ccd-d7a5f4cc0b7c/65f338cf99586.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/cf096fbc-e156-11ee-9623-7f768d230252",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "ROSEBURG — Umpqua Valley Audubon Society will host a free presentation on beavers’ impact to landscapes and habitats at 6:30 p.m. March 27, at the Roseburg Public Library, 1409 NE Diamond Lake Blvd., in Roseburg.",
@@ -737,21 +792,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/db/8db5f160-dd8d-11ee-8619-c7efb42929a9/65eb7a2d433fa.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/864e27f0-e010-11ee-963f-3f1227e43f53",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "A variety of people with a variety of backgrounds gathered Monday and united over their collective desire to better supply the Douglas County public with locally grown and produced foods.",
-          "link": "https://www.nrtoday.com/news/environment/farm-to-fork-keeping-local-grown-foods-local/article_864e27f0-e010-11ee-963f-3f1227e43f53.html",
-          "publishedOn": "2024-03-12T01:33:00.000Z",
-          "wordCount": 13978,
-          "title": "Farm to Fork: keeping local grown foods local",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fc/7fc75032-e015-11ee-959e-9337e0f111c2/65efb93fc08a9.image.jpg?resize=300%2C200",
-            "length": "305327",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fc/7fc75032-e015-11ee-959e-9337e0f111c2/65efb93fc08a9.image.jpg?resize=300%2C200"
         }
       ]
     },
