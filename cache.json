@@ -439,6 +439,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/84faaa44-e6fb-11ee-95c6-1bae56dfc297",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "AZALEA — An Azalea man was jailed Tuesday following alleged menacing incidents.",
+          "link": "https://www.nrtoday.com/news/local/azalea-man-jailed-for-menacing-weapons/article_84faaa44-e6fb-11ee-95c6-1bae56dfc297.html",
+          "publishedOn": "2024-03-20T20:50:00.000Z",
+          "wordCount": 13254,
+          "title": "Azalea man jailed for menacing, weapons",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9c07d8a0-e6e8-11ee-b6a0-cf8ecba6dc42",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Roseburg Public Schools will use its LunchBox Express to distribute free meals to children and youth over Spring Break, held Monday through March 29. The meals are available to all children and youth 18 years old and younger.",
+          "link": "https://www.nrtoday.com/briefs/lunchbox-express-will-deliver-free-meals-over-spring-break/article_9c07d8a0-e6e8-11ee-b6a0-cf8ecba6dc42.html",
+          "publishedOn": "2024-03-20T20:30:00.000Z",
+          "wordCount": 13195,
+          "title": "LunchBox Express will deliver free meals over Spring Break",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a6823b90-e6de-11ee-a254-e72b185f692c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — Umpqua Community College students will have access to on-site medical care, starting at 10 a.m. April 1.",
+          "link": "https://www.nrtoday.com/news/education/ucc-students-get-access-to-mobile-care-unit/article_a6823b90-e6de-11ee-a254-e72b185f692c.html",
+          "publishedOn": "2024-03-20T19:30:00.000Z",
+          "wordCount": 13482,
+          "title": "UCC students get access to mobile care unit",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6b/a6b68f3c-e6f5-11ee-b13a-dfd4880851c6/64039c38ac75b.image.jpg?resize=300%2C200",
+            "length": "474110",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6b/a6b68f3c-e6f5-11ee-b13a-dfd4880851c6/64039c38ac75b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/447ff688-e6e5-11ee-9728-3b3eb8cf6802",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Umpqua Actors Community Theatre will open its production of \"Moon Over Buffalo\" on April 4.",
+          "link": "https://www.nrtoday.com/a_and_e/uact-opens-moon-over-buffalo-on-april-4/article_447ff688-e6e5-11ee-9728-3b3eb8cf6802.html",
+          "publishedOn": "2024-03-20T18:11:00.000Z",
+          "wordCount": 13255,
+          "title": "UACT opens 'Moon Over Buffalo' on April 4",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f201fd50-e53d-11ee-83f0-533c744cbcc2",
           "author": "Kyle Bailey For The News-Review",
           "description": "The Umpqua Symphony Association is holding a Springtime is Tea Time event on April 20.",
