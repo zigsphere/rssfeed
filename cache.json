@@ -334,26 +334,6 @@
           "wordCount": 1522,
           "title": "ROSEBURG POLICE JAIL WOMAN FOR ALLEGEDLY PROVIDING FALSE IDENTITY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222536/police-1024x538-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116783",
-          "author": "Kyle Bailey",
-          "description": "March 16, 2024 6:30 a.m.   Roseburg had the warmest day of the year so far, on Friday. Forecasters at the National Weather Service said the mercury reached 71 degrees at the Roseburg Regional Airport. The previous highest temperature for 2024 was achieved on January 30th and 31st when the high was 69 degrees each day....",
-          "link": "https://kqennewsradio.com/2024/03/16/roseburg-had-warmest-day-of-2024-so-far-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-had-warmest-day-of-2024-so-far-on-friday",
-          "publishedOn": "2024-03-16T13:32:30.000Z",
-          "wordCount": 1584,
-          "title": "ROSEBURG HAD WARMEST DAY OF 2024 SO FAR, ON FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=116780",
-          "author": "Kyle Bailey",
-          "description": "March 16, 2024 6:15 a.m.  A Beach Hazards Statement remains in effect for the south central and Curry County coast through Saturday evening. Forecasters at the National Weather Service said a moderate to high risk of sneaker waves is expected. This applies to all beaches and shorelines of Curry, Coos, and Douglas counties. Sneaker waves...",
-          "link": "https://kqennewsradio.com/2024/03/16/beach-hazards-statement-for-south-central-oregon-coast-2/?utm_source=rss&utm_medium=rss&utm_campaign=beach-hazards-statement-for-south-central-oregon-coast-2",
-          "publishedOn": "2024-03-16T13:16:40.000Z",
-          "wordCount": 1598,
-          "title": "BEACH HAZARDS STATEMENT FOR SOUTH CENTRAL OREGON COAST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240316121626/sneaker-2.png"
         }
       ]
     },
@@ -368,6 +348,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9dd54604-e198-11ee-a8b6-a7789db73208",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — All Souls Catholic Church, located at 1242 NE Spruce Ave., Myrtle Creek, will host an Area Wide Good Friday service at noon Friday.",
+          "link": "https://www.nrtoday.com/briefs/good-friday-service-will-be-at-all-souls-catholic/article_9dd54604-e198-11ee-a8b6-a7789db73208.html",
+          "publishedOn": "2024-03-20T00:20:00.000Z",
+          "wordCount": 13185,
+          "title": "Good Friday service will be at All Souls Catholic",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f1faf076-e57b-11ee-8e02-93369ac67d72",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "ROSEBURG — Roseburg Junior Cheer will be holding informational meetings Thursday and April 2 for its upcoming 2024-2025 season.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-junior-cheer-to-hold-information-meetings/article_f1faf076-e57b-11ee-8e02-93369ac67d72.html",
+          "publishedOn": "2024-03-19T23:04:00.000Z",
+          "wordCount": 13179,
+          "title": "Roseburg Junior Cheer to hold information meetings",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/30dcbf0a-e63e-11ee-9499-17e7d4db95a6",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — Laura Patricia Ash, 81, died as a passenger involved in a two-vehicle crash around 10:30 a.m. Monday on Interstate 5 near milepost 124 in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/passenger-dies-in-rollover-crash-driver-in-hospital/article_30dcbf0a-e63e-11ee-9499-17e7d4db95a6.html",
+          "publishedOn": "2024-03-19T22:30:00.000Z",
+          "wordCount": 13270,
+          "title": "Passenger dies in rollover crash, driver in hospital",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/db560826-e63c-11ee-9e77-e7527e73628e",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "ROSEBURG — Christopher Zeutzius, a 47-year-old from Lakeside, died as the result of a vehicle versus pedestrian crash around 5:20 a.m. March 12 on Interstate 5 near milepost 127.",
+          "link": "https://www.nrtoday.com/briefs/pedestrian-crossing-on-ramp-dies-from-crash/article_db560826-e63c-11ee-9e77-e7527e73628e.html",
+          "publishedOn": "2024-03-19T22:15:00.000Z",
+          "wordCount": 13248,
+          "title": "Pedestrian crossing on-ramp dies from crash",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c89182d8-e542-11ee-bc07-27f236b21a60",
           "author": "Kyle Bailey For The News-Review",
@@ -526,76 +546,6 @@
           "publishedOn": "2024-03-16T14:22:00.000Z",
           "wordCount": 13167,
           "title": "Sutherlin accepting nominations for First Citizen",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b65e79fc-e2e2-11ee-bfd8-6b8d70b72d80",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "In 2022, the John Blodgett family purchased the longtime local family farm, Kruse Farms, with the desire to carry on the Kruse family agricultural legacy.",
-          "link": "https://www.nrtoday.com/business/the-farmstand-lehne-farm-grows-into-popular-local-produce-stand/article_b65e79fc-e2e2-11ee-bfd8-6b8d70b72d80.html",
-          "publishedOn": "2024-03-16T14:00:00.000Z",
-          "wordCount": 14059,
-          "title": "The Farmstand: Lehne Farm grows into popular local produce stand",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/1d/31df884a-e2e9-11ee-b1e5-b7df3b879cd7/65f47768ad641.image.jpg?resize=300%2C200",
-            "length": "281740",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/1d/31df884a-e2e9-11ee-b1e5-b7df3b879cd7/65f47768ad641.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/da4d303e-dff3-11ee-b050-7b1f180b79f0",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "The following marriage licenses were issued by the Douglas County Clerk’s Office from March 4 to March 8.",
-          "link": "https://www.nrtoday.com/news/local/marriages-march-4-8/article_da4d303e-dff3-11ee-b050-7b1f180b79f0.html",
-          "publishedOn": "2024-03-16T13:45:00.000Z",
-          "wordCount": 13135,
-          "title": "Marriages: March 4-8",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/182c42a8-e186-11ee-b728-ab56a47b1510",
-          "author": "JENNIFER D. COALWELL For The News-Review",
-          "description": "Are you looking for ways to get involved in our community? Do you want to make new friends while making a difference in your neighborhood? Are you searching for opportunities to teach your children or youth group about the joy…",
-          "link": "https://www.nrtoday.com/news/guest_submission/building-unity-through-community-service/article_182c42a8-e186-11ee-b728-ab56a47b1510.html",
-          "publishedOn": "2024-03-16T13:45:00.000Z",
-          "wordCount": 13711,
-          "title": "Building unity through community service",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5dedf1ec-e23a-11ee-8ef5-3bce017c5d00",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Business Champions for Kids, a program of the Douglas Education Service District, is presenting a Family Friendly Employer Summit on April 4.",
-          "link": "https://www.nrtoday.com/business/family-friendly-employer-summit-coming-to-roseburg/article_5dedf1ec-e23a-11ee-8ef5-3bce017c5d00.html",
-          "publishedOn": "2024-03-16T13:45:00.000Z",
-          "wordCount": 13328,
-          "title": "Family-friendly employer summit coming to Roseburg",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/efd66b90-e238-11ee-a03e-d3a0b690aeec",
-          "author": "Kris Wiley For The News Review",
-          "description": "Who knew books and burgers go together so well?",
-          "link": "https://www.nrtoday.com/family/read-for-in-n-out-burgers/article_efd66b90-e238-11ee-a03e-d3a0b690aeec.html",
-          "publishedOn": "2024-03-16T13:45:00.000Z",
-          "wordCount": 13556,
-          "title": "Read for In-N-Out burgers",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea0460ea-e239-11ee-a98b-fbc2cfa06394",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Crater Lake National Park has announced its popular ranger guided snowshoe walks have returned.",
-          "link": "https://www.nrtoday.com/family/crater-lake-resumes-guided-snowshoe-walks/article_ea0460ea-e239-11ee-a98b-fbc2cfa06394.html",
-          "publishedOn": "2024-03-16T13:45:00.000Z",
-          "wordCount": 13369,
-          "title": "Crater Lake resumes guided snowshoe walks",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
