@@ -469,6 +469,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f1abe322-e716-11ee-9cdb-5b1ad4019091",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Puppies with large paws flopped their way around people in the front visiting room at Adams House Assisted Living Community in Myrtle Creek.",
+          "link": "https://www.nrtoday.com/news/education/puppies-and-peers-visit-at-adams-house/article_f1abe322-e716-11ee-9cdb-5b1ad4019091.html",
+          "publishedOn": "2024-03-21T14:00:00.000Z",
+          "wordCount": 14549,
+          "title": "Puppies and peers visit at Adams House",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/7d/67d0bbe0-e717-11ee-9f02-df16bbeee5d0/65fb7aecadb59.image.jpg?resize=300%2C200",
+            "length": "372810",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/7d/67d0bbe0-e717-11ee-9f02-df16bbeee5d0/65fb7aecadb59.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/21885d32-e6f4-11ee-adfb-ebd8f4c5b38d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Hope Fest will take place 3-6 p.m. Saturday under the Stewart Park Pavilion, 1700 W. Stewart Park Drive, Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/hope-fest-this-saturday-at-stewart-park/article_21885d32-e6f4-11ee-adfb-ebd8f4c5b38d.html",
+          "publishedOn": "2024-03-21T13:00:00.000Z",
+          "wordCount": 13186,
+          "title": "Hope Fest this Saturday at Stewart Park",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/21885d32-e6f4-11ee-adfb-ebd8f4c5b38d",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "ROSEBURG — Hope Fest will take place 3-6 p.m. Saturday under the Stewart Park Pavilion, 1700 W. Stewart Park Drive, Roseburg.",
@@ -750,6 +775,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news170917",
+          "author": null,
+          "description": "PORTLAND, Ore. – The non-profit organization Oregon Community Trees (OCT) is honoring Portland residents Ryan Gilpin and Bruce Nelson and the City of Wilsonville for their work on behalf of urban trees. Gilpin and Nelson are receiving awards for their individual contributions to urban forestry, and Wilsonville is getting the award in the Organizations category.\n“Every year Oregon Community Trees recognizes individuals and organizations that are doing outstanding work to help our urban forests,” said OCT President Tyler Roth. “This year’s recipients’ are especially deserving for the depth and breadth of their commitment to educating people about urban trees and promoting policies and actions to keep those trees healthy and well cared for.”\nGilpin, who lives in North Portland’s St. Johns nei…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news170917",
+          "publishedOn": "2024-03-21T15:57:29.000Z",
+          "wordCount": 6708,
+          "title": "Two Portland residents receive Oregon's top urban forestry honors along with City of Wilsonville (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-03/1072/170917/Wilsonville_2024_3-8_%288%29.jpg",
+            "length": "4462400",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-03/1072/170917/Wilsonville_2024_3-8_%288%29.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news170859",
           "author": null,
