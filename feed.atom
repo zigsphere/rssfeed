@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-22T23:09:14.837Z</updated>
+    <updated>2024-03-23T02:15:51.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paving brings delays to Oakland Bridge area]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0c8c8ed0-e87a-11ee-a0d3-a3e17f067ed3</id>
+        <link href="https://www.nrtoday.com/news/local/paving-brings-delays-to-oakland-bridge-area/article_0c8c8ed0-e87a-11ee-a0d3-a3e17f067ed3.html"/>
+        <updated>2024-03-22T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OAKLAND — Drivers can expect delays up to 20 minutes, starting Monday, in the area of the Oakland Bridge Project due to paving work.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winchester man arrested on 38 charges]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/7786bfb8-e86a-11ee-bf9c-cfcb61719d5d</id>
