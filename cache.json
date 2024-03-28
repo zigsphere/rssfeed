@@ -509,6 +509,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/08e2e35a-ed0d-11ee-bd27-bf3e03b65023",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Douglas County Fire District No. 2 crews were battling a garage fire Wednesday afternoon on Osage Drive in the Garden Valley area when another fire was reported at Melrose Elementary School, which turned out to be a false alarm.",
+          "link": "https://www.nrtoday.com/news/local/fire-crews-knock-down-garage-fire-in-garden-valley-area/article_08e2e35a-ed0d-11ee-bd27-bf3e03b65023.html",
+          "publishedOn": "2024-03-28T14:11:00.000Z",
+          "wordCount": 13329,
+          "title": "Fire crews knock down garage fire in Garden Valley area",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8049ee08-ed0c-11ee-b519-fffe8f8ae654",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OREGON — This Sunday is the deadline to remove studded tires in Oregon.",
+          "link": "https://www.nrtoday.com/news/local/sunday-is-last-day-to-remove-studded-tires/article_8049ee08-ed0c-11ee-b519-fffe8f8ae654.html",
+          "publishedOn": "2024-03-28T14:07:00.000Z",
+          "wordCount": 13179,
+          "title": "Sunday is last day to remove studded tires",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8920d604-eb72-11ee-b4bf-4fb54d6ef4a5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Saving Grace Pet Adoption Center has announced the addition of executive director Jennifer Barta, who began work on March 1.",
+          "link": "https://www.nrtoday.com/business/jennifer-barta-takes-over-as-saving-grace-director/article_8920d604-eb72-11ee-b4bf-4fb54d6ef4a5.html",
+          "publishedOn": "2024-03-28T13:12:00.000Z",
+          "wordCount": 13508,
+          "title": "Jennifer Barta takes over as Saving Grace director",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ba/9ba228e6-eb72-11ee-a5fb-131bc55312e9/6602c9ec796c6.image.jpg?resize=300%2C225",
+            "length": "247939",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ba/9ba228e6-eb72-11ee-a5fb-131bc55312e9/6602c9ec796c6.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c2180c0e-ebb6-11ee-96d6-ebbfc009675b",
           "author": "SANNE GODFREY The News-Review",
           "description": "WINSTON — Winston-Dillard Fire District No. 5 will be doing annual hydrant flow testing in May and June.",
@@ -516,6 +551,26 @@
           "publishedOn": "2024-03-27T21:21:00.000Z",
           "wordCount": 13168,
           "title": "Annual fire hydrant testing in Winston",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0ac954aa-ec73-11ee-b1e3-97cd28ecc2d9",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — Sutherlin Farmer’s Market will start its new season April 4.",
+          "link": "https://www.nrtoday.com/business/sutherlin-farmers-market-starts-new-season/article_0ac954aa-ec73-11ee-b1e3-97cd28ecc2d9.html",
+          "publishedOn": "2024-03-27T19:48:00.000Z",
+          "wordCount": 13224,
+          "title": "Sutherlin Farmers Market starts new season",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/991b8508-ec72-11ee-a182-dbf0dbb50265",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — April is Child Abuse Prevention Awareness Month and Douglas C.A.R.E.S. wants to shed light on the issue of child abuse.",
+          "link": "https://www.nrtoday.com/news/health/douglas-c-a-r-e-s-hosts-event-april-6/article_991b8508-ec72-11ee-a182-dbf0dbb50265.html",
+          "publishedOn": "2024-03-27T19:45:00.000Z",
+          "wordCount": 13227,
+          "title": "Douglas C.A.R.E.S. hosts event April 6",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
