@@ -439,6 +439,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c2180c0e-ebb6-11ee-96d6-ebbfc009675b",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINSTON — Winston-Dillard Fire District No. 5 will be doing annual hydrant flow testing in May and June.",
+          "link": "https://www.nrtoday.com/news/local/annual-fire-hydrant-testing-in-winston/article_c2180c0e-ebb6-11ee-96d6-ebbfc009675b.html",
+          "publishedOn": "2024-03-27T21:21:00.000Z",
+          "wordCount": 13168,
+          "title": "Annual fire hydrant testing in Winston",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/44a8efc0-eb9f-11ee-9c91-87cdcdd7135f",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "DOUGLAS COUNTY — High school juniors can apply for a free week-long summer camp \"Dream It, Do It\" hosted by Umpqua Small Business Development and Umpqua Community College. Applications are due April 15.",
@@ -566,16 +576,6 @@
           "publishedOn": "2024-03-25T14:33:00.000Z",
           "wordCount": 13189,
           "title": "UC-VEG Lifestyle and Nutrition Course starts April 4",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8e855d78-e6ee-11ee-8a85-83ddfecf2202",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "ROSEBURG — Umpqua Fishermen’s Association will hear updates on Diamond Lake at the general meeting 6 p.m. Tuesday at Abby’s Pizza’s Annex, 1661 NE Stephens St. in Roseburg.",
-          "link": "https://www.nrtoday.com/briefs/umpqua-fishermen-s-association-hosts-presentation-on-diamond-lake/article_8e855d78-e6ee-11ee-8a85-83ddfecf2202.html",
-          "publishedOn": "2024-03-24T13:00:00.000Z",
-          "wordCount": 13167,
-          "title": "Umpqua Fishermen’s Association hosts presentation on Diamond Lake",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
