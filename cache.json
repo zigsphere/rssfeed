@@ -499,6 +499,86 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fdbde68a-ec91-11ee-9d5d-0b26584f3158",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Chloe Brake, 9, doesn't like people telling her what to draw.",
+          "link": "https://www.nrtoday.com/news/umpqua-valley-arts-hosts-spring-break-art-camp/article_fdbde68a-ec91-11ee-9d5d-0b26584f3158.html",
+          "publishedOn": "2024-03-29T15:00:00.000Z",
+          "wordCount": 13929,
+          "title": "Umpqua Valley Arts hosts spring break art camp",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/68/368540e4-ec97-11ee-a9b7-e3ef3b0a5767/6604b4d562567.image.jpg?resize=300%2C200",
+            "length": "307912",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/68/368540e4-ec97-11ee-a9b7-e3ef3b0a5767/6604b4d562567.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c851e090-ed28-11ee-bd8a-ef6990f162db",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — Roseburg Fire Department will be issuing burn permits from April 15 to May 15.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-to-issue-burn-permits-april-through-may/article_c851e090-ed28-11ee-bd8a-ef6990f162db.html",
+          "publishedOn": "2024-03-29T15:00:00.000Z",
+          "wordCount": 13191,
+          "title": "Roseburg to issue burn permits April through May",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/100cd338-ebd8-11ee-a72b-f73f0f307434",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "SUTHERLIN — There’s a hungry person underneath the uniform.",
+          "link": "https://www.nrtoday.com/news/sutherlin-police-get-a-taste-of-their-town/article_100cd338-ebd8-11ee-a72b-f73f0f307434.html",
+          "publishedOn": "2024-03-29T14:45:00.000Z",
+          "wordCount": 14154,
+          "title": "Sutherlin Police get a taste of their town",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/cb/2cbca134-ed40-11ee-9cf0-47f2ff454eb6/6605d04de6e9d.image.jpg?resize=300%2C200",
+            "length": "322265",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/cb/2cbca134-ed40-11ee-9cf0-47f2ff454eb6/6605d04de6e9d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/18ef7f28-edd6-11ee-a45c-c34c7be0c9aa",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "On April 16, there will be a celebration of the 105th H.O.P.E. Drug Court graduation in Douglas County.",
+          "link": "https://www.nrtoday.com/news/health/h-o-p-e-drug-court-graduation-april-16/article_18ef7f28-edd6-11ee-a45c-c34c7be0c9aa.html",
+          "publishedOn": "2024-03-29T14:10:00.000Z",
+          "wordCount": 13350,
+          "title": "H.O.P.E. Drug Court graduation April 16",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/43cd7d32-ed20-11ee-a87b-43dfd8c23558",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Senators Jeff Merkley and Ron Wyden announced Wednesday that they secured investments for what they term “essential community-initiated projects” across Oregon in both of the fiscal year 2024 government funding packages that recently cleared Congress and have been signed into…",
+          "link": "https://www.nrtoday.com/news/education/senators-secure-community-projects-throughout-oregon/article_43cd7d32-ed20-11ee-a87b-43dfd8c23558.html",
+          "publishedOn": "2024-03-29T13:45:00.000Z",
+          "wordCount": 13644,
+          "title": "Senators secure community projects throughout Oregon",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/73/b7333b30-ed21-11ee-b6d1-a74615563e02/659d75e10a759.image.jpg?resize=300%2C200",
+            "length": "315848",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/73/b7333b30-ed21-11ee-b6d1-a74615563e02/659d75e10a759.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e7da280-e7c4-11ee-b3b2-27f5191e360d",
+          "author": "AIMEE LOVE For The News-Review",
+          "description": "Kimchi is a Korean staple made with fermented vegetables.",
+          "link": "https://www.nrtoday.com/family/kimchi-confidential/article_5e7da280-e7c4-11ee-b3b2-27f5191e360d.html",
+          "publishedOn": "2024-03-29T13:45:00.000Z",
+          "wordCount": 13832,
+          "title": "Kimchi confidential",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3c/73cd901e-e7c4-11ee-bb96-9b531cd48980/65fc9d3fb82e4.image.jpg?resize=300%2C175",
+            "length": "333817",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3c/73cd901e-e7c4-11ee-bb96-9b531cd48980/65fc9d3fb82e4.image.jpg?resize=300%2C175"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f2ebf880-ed1f-11ee-8983-536d6575a8ea",
           "author": "Kyle Bailey For The News-Review",
           "description": "SUTHERLIN — Aviva Health’s new Sutherlin Clinic will open Monday at 775 Taylor Street.",
