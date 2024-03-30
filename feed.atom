@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-29T23:09:09.390Z</updated>
+    <updated>2024-03-30T02:19:26.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wolf Creek Man Arrested for Kidnapping, Stolen Vehicle]]></title>
+        <id>https://www.flashalert.net/news.html?id=5204#news171148</id>
+        <link href="https://www.flashalert.net/news.html?id=5204#news171148"/>
+        <updated>2024-03-29T23:30:48.000Z</updated>
+        <summary type="html"><![CDATA[GLENDALE, Ore. - A Wolf Creek man has been arrested and lodged in the Douglas County Jail on a number of charges to include kidnapping.
+On Thursday, March 28, 2024, shortly after 1:00 pm, 9-1-1 dispatchers received a call from a male who said his mother had been taken against her will. The victim was able to send information to her son, which he relayed to deputies.
+Deputies learned the male suspect, 35-year-old Richard Goodin of Wolf Creek, OR, was in a 2006 Chevy Silverado pickup which had been reported stolen earlier in the day.
+During the investigation, the victim was able to get away and called 9-1-1 allowing deputies to get an approximate location. Deputies converged on the area, locating Goodin and took him into custody without further incident. The victim was located and taken to safety.
+Goodin was lodged in the Douglas County Jail on the following charges:
+Kidnap in the Second Degree
+Possession of a Stolen Vehicle
+Unlawful Use of a Motor Vehicle
+Unlawful Possession of Methamphetamine - Violation Level]]></summary>
+        <author>
+            <name>Douglas Co. Sheriff's Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEPUTIES JAIL ROSEBURG MAN ON MULTIPLE CHARGES]]></title>
         <id>https://kqennewsradio.com/?p=117219</id>
@@ -812,46 +830,6 @@ View more information on the CBMAC webpage.]]></summary>
         <summary type="html"><![CDATA[ROSEBURG — The Douglas County Spring Livestock Conference and Expo will be held from 10 a.m. to 8 p.m. April 10 at the Douglas County Fairgrounds.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Supreme Court declines Cascade-Siskiyou National Monument cases, upholding 2017 expansion]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/26377c3e-eb7a-11ee-a517-5759be8e4493</id>
-        <link href="https://www.nrtoday.com/news/local/us-supreme-court-declines-cascade-siskiyou-national-monument-cases-upholding-2017-expansion/article_26377c3e-eb7a-11ee-a517-5759be8e4493.html"/>
-        <updated>2024-03-26T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Seven years ago, three groups separately sued the federal government over the expansion of the Cascade-Siskiyou National Monument: Murphy Company, an Oregon-based timber company; the Association of O&C Counties, a group advocating for timber management; and the American Forest Resource…]]></summary>
-        <author>
-            <name>Jane Vaughan Jefferson Public Radio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common School Fund releases $1.8 million to Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/41c5c0e6-e869-11ee-b2f2-df1db82c5d27</id>
-        <link href="https://www.nrtoday.com/news/education/common-school-fund-releases-1-8-million-to-douglas-county/article_41c5c0e6-e869-11ee-b2f2-df1db82c5d27.html"/>
-        <updated>2024-03-26T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Nearly $74.2 million from the Common School Fund in 2024 will go to Oregon’s K-12 public schools, Oregon Department of State Lands announced in a press release Wednesday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovation highlighted during International Day of Forestry]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cd242772-eacb-11ee-b0ee-5b36ff18717f</id>
-        <link href="https://www.nrtoday.com/news/environment/innovation-highlighted-during-international-day-of-forestry/article_cd242772-eacb-11ee-b0ee-5b36ff18717f.html"/>
-        <updated>2024-03-26T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[RIDDLE — Engineered wood is just one example of the innovation seen throughout the forestry world.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAVING GRACE PET ADOPTION CENTER HAS NEW EXECUTIVE DIRECTOR]]></title>
-        <id>https://kqennewsradio.com/?p=117068</id>
-        <link href="https://kqennewsradio.com/2024/03/26/saving-grace-pet-adoption-center-has-new-executive-director/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=saving-grace-pet-adoption-center-has-new-executive-director"/>
-        <updated>2024-03-26T12:29:30.000Z</updated>
-        <summary type="html"><![CDATA[March 26, 2024 5:30 a.m. Saving Grace Pet Adoption Center has announced the addition of its new Executive Director, Jennifer Barta who began work on March 1st. A release said Barta has over 23 years of experience in animal welfare and education, including 14 years of leadership at the Oregon Humane Society in Portland. Barta...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
