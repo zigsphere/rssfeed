@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-03-30T13:11:21.586Z</updated>
+    <updated>2024-03-30T16:12:06.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extension Spotlight: New project areas in 4-H]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/52e582fc-eabd-11ee-bfaa-47c532f9a6e5</id>
+        <link href="https://www.nrtoday.com/agriculture/extension-spotlight-new-project-areas-in-4-h/article_52e582fc-eabd-11ee-bfaa-47c532f9a6e5.html"/>
+        <updated>2024-03-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4-H is all about trying new things, stepping outside of our comfort zones, and finding our spark! Have you ever thought of trying something new? This year Douglas County 4-H has 3 new project areas: market meat goats, livestock evaluation…]]></summary>
+        <author>
+            <name>KATIE BAXTER For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg library considers electronic magazine subscription]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9ee1c628-ed3a-11ee-9d8b-6753f5685043</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/roseburg-library-considers-electronic-magazine-subscription/article_9ee1c628-ed3a-11ee-9d8b-6753f5685043.html"/>
+        <updated>2024-03-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you like to read popular magazines, help us decide whether to add electronic magazines to Roseburg Public Library’s collection.]]></summary>
+        <author>
+            <name>KRIS WILEY For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Star Gazer: Jupiter and its moons on display in April]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7cbc3372-ebb8-11ee-950c-2f76a76b81f4</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/umpqua-star-gazer-jupiter-and-its-moons-on-display-in-april/article_7cbc3372-ebb8-11ee-950c-2f76a76b81f4.html"/>
+        <updated>2024-03-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[April is the last month to watch bright Jupiter in the semi-dark evening sky. Each night, Jupiter will sink a bit closer to the sunset.]]></summary>
+        <author>
+            <name>Paul Morgan For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOLF CREEK MAN ARRESTED FOR ALLEGED KIDNAPPING/STOLEN VEHICLE]]></title>
         <id>https://kqennewsradio.com/?p=117221</id>
