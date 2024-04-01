@@ -219,6 +219,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d96b2088-d00b-11ee-8a18-e33b5df1c725",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Austin Page, alongside his crew, has the responsibility of helping people through “the worst moments of their life.”",
+          "link": "https://www.nrtoday.com/news/local/austin-page-helping-people-through-their-worst-moments/article_d96b2088-d00b-11ee-8a18-e33b5df1c725.html",
+          "publishedOn": "2024-04-01T14:45:00.000Z",
+          "wordCount": 14035,
+          "title": "Austin Page: helping people through their worst moments",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/cc/1ccf96da-d1bd-11ee-8cd2-cb4be1ddfc8f/65d7a801b9c44.image.jpg?resize=300%2C200",
+            "length": "275885",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/cc/1ccf96da-d1bd-11ee-8cd2-cb4be1ddfc8f/65d7a801b9c44.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4c68d560-d013-11ee-882e-3bdc24a9c3ad",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Things might be slow in the winter months for Douglas Forest Protective Association South Unit Protection Supervisor and Assistant Unit Forester Brennan Pettibone, but all that will change come fire season.",
+          "link": "https://www.nrtoday.com/news/local/the-unbelievable-commitment-of-brennan-pettibone-other-wildland-firefighters/article_4c68d560-d013-11ee-882e-3bdc24a9c3ad.html",
+          "publishedOn": "2024-04-01T13:45:00.000Z",
+          "wordCount": 14407,
+          "title": "The 'unbelievable commitment' of Brennan Pettibone, other wildland firefighters",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10c929e2-d58b-11ee-a340-c785becf0dbd/65de0a0762f13.image.jpg?resize=300%2C200",
+            "length": "261942",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10c929e2-d58b-11ee-a340-c785becf0dbd/65de0a0762f13.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0c51a9b0-ed56-11ee-9b43-a36400746d69",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Roseburg is entering a key phase in a proposed urban growth boundary swap process — public input.",
