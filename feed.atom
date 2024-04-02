@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-02T13:10:41.110Z</updated>
+    <updated>2024-04-02T16:11:40.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg native nominated as American Heart Association's Woman of Impact]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2e82ae28-f04c-11ee-8c11-233b1d9ae8f9</id>
+        <link href="https://www.nrtoday.com/news/roseburg-native-nominated-as-american-heart-associations-woman-of-impact/article_2e82ae28-f04c-11ee-8c11-233b1d9ae8f9.html"/>
+        <updated>2024-04-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Born and raised in Roseburg, Brooke Xavier (locally known as Stacy Biethan), is making an impact. Xavier, who now resides in New York with her husband and two daughters, was nominated as the 2024 Woman of Impact by the American…]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGH JUST SHY OF RECORD, TEMPERATURES 15 DEGREES ABOVE NORMAL]]></title>
         <id>https://kqennewsradio.com/?p=117272</id>
