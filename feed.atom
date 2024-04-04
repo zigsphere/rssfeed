@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-04T19:09:12.739Z</updated>
+    <updated>2024-04-04T23:10:49.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Circus is coming to Sutherlin]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/44e1ba7c-f201-11ee-a803-57b0d65d99e1</id>
+        <link href="https://www.nrtoday.com/news/local/circus-is-coming-to-sutherlin/article_44e1ba7c-f201-11ee-a803-57b0d65d99e1.html"/>
+        <updated>2024-04-04T21:29:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — The Culpepper and Merriweather Circus is coming to Lauren Young Park in Sutherlin with two shows May 20.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PORTLAND WOMAN CHARGED WITH THEFT]]></title>
         <id>https://kqennewsradio.com/?p=117367</id>
@@ -836,46 +846,6 @@ For specific questions about the committee, please contact Stacy McCarter at 503
         <summary type="html"><![CDATA[Things might be slow in the winter months for Douglas Forest Protective Association South Unit Protection Supervisor and Assistant Unit Forester Brennan Pettibone, but all that will change come fire season.]]></summary>
         <author>
             <name>ERICA REYNOLDS The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAWSUITS REGARDING REPRESENTATIVE GOODWIN DROPPED FOR NOW]]></title>
-        <id>https://kqennewsradio.com/?p=117232</id>
-        <link href="https://kqennewsradio.com/2024/04/01/lawsuits-regarding-representative-goodwin-dropped-for-now/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lawsuits-regarding-representative-goodwin-dropped-for-now"/>
-        <updated>2024-04-01T10:41:07.000Z</updated>
-        <summary type="html"><![CDATA[April 1, 2024 3:40 a.m. A lawsuit filed against the Oregon Secretary of State’s Office, claiming that State Representative Christine Goodwin does not live within the boundary of Senate District 2 has been dismissed, at least until after the May primary election. Attorney for the plaintiffs Steven Joncus filed a voluntary dismissal late Friday, saying...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REPAIRS CONTINUE ON WINDY COVER CRAB AND FISHING DOCK]]></title>
-        <id>https://kqennewsradio.com/?p=117230</id>
-        <link href="https://kqennewsradio.com/2024/04/01/repairs-continue-on-windy-cover-crab-and-fishing-dock/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=repairs-continue-on-windy-cover-crab-and-fishing-dock"/>
-        <updated>2024-04-01T10:35:18.000Z</updated>
-        <summary type="html"><![CDATA[April 1, 2024 3:30 a.m.   The Douglas County Parks Department has an update on the temporary closure of the Windy Cove Crab and Fishing Dock, located on Salmon Harbor Drive in Winchester Bay. A County release said the department had to temporarily close the facility on February 1st, due to structural damage that occurred during...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REEDSPORT RAILROAD CROSSING STUDY AT REEDSPORT COUNCIL MEETING]]></title>
-        <id>https://kqennewsradio.com/?p=117227</id>
-        <link href="https://kqennewsradio.com/2024/04/01/reedsport-railroad-crossing-study-at-reedsport-council-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reedsport-railroad-crossing-study-at-reedsport-council-meeting"/>
-        <updated>2024-04-01T10:23:09.000Z</updated>
-        <summary type="html"><![CDATA[April 1, 2024 3:05 a.m.   Covering coastal Douglas County: The City of Reedsport is preparing for potential future increases in train traffic, should the Port of Coos Bay container ship terminal be constructed on the North Spit in Coos Bay. Over the past year, the city, the Oregon Department of Transportation, the Port of Coos...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC VISUAL AND PERFORMING ARTS WIT HIGH DESERT TO HIGH TIDE]]></title>
-        <id>https://kqennewsradio.com/?p=117224</id>
-        <link href="https://kqennewsradio.com/2024/04/01/ucc-visual-and-performing-arts-wit-high-desert-to-high-tide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-visual-and-performing-arts-wit-high-desert-to-high-tide"/>
-        <updated>2024-04-01T10:12:01.000Z</updated>
-        <summary type="html"><![CDATA[April 1, 2024 2:50 a.m. n the KQEN Cultural Spotlight: Umpqua Community College Visual & Performing arts presents: High Desert to High Tide, an exhibition featuring fifteen watercolor and acrylic paintings by Oregon artist, Bets Cole. This series of paintings feature Oregon landscapes from the shore to the high desert, including depictions of valleys in...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
