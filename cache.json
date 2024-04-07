@@ -369,6 +369,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2135ff46-f465-11ee-b20b-4ba763ae8abc",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "CANYONVILLE — An 82-year-old Canyonville woman died Thursday after being struck by a vehicle on Interstate 5 in Canyonville.",
+          "link": "https://www.nrtoday.com/news/local/woman-dies-after-being-struck-on-interstate/article_2135ff46-f465-11ee-b20b-4ba763ae8abc.html",
+          "publishedOn": "2024-04-06T22:29:00.000Z",
+          "wordCount": 13241,
+          "title": "Woman dies after being struck on interstate",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b4b8b836-f464-11ee-9aff-c3651855965b",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "ROSEBURG — The southbound lanes of Interstate 5 at milepost 125, near Garden Valley Boulevard in Roseburg, were temporarily closed Saturday after a crash, according to the Oregon Department of Transportation.",
+          "link": "https://www.nrtoday.com/news/local/interstate-5-southbound-temporarily-closed-due-to-crash/article_b4b8b836-f464-11ee-9aff-c3651855965b.html",
+          "publishedOn": "2024-04-06T22:26:00.000Z",
+          "wordCount": 13335,
+          "title": "Interstate 5 southbound temporarily closed due to crash",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/48/648a61ba-f465-11ee-b55c-073b577bba82/6611cd3912dc3.image.jpg?resize=300%2C200",
+            "length": "356349",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/48/648a61ba-f465-11ee-b55c-073b577bba82/6611cd3912dc3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8d770e14-f45d-11ee-8071-8380e186068a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The suspect in a Thursday morning stabbing was arrested Friday afternoon in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/stabbing-suspect-found-in-roseburg/article_8d770e14-f45d-11ee-8071-8380e186068a.html",
+          "publishedOn": "2024-04-06T22:00:00.000Z",
+          "wordCount": 13311,
+          "title": "Stabbing suspect found in Roseburg",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ab2dad88-f2bd-11ee-b3d1-0b8206925ca1",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Members of the public are able to view proposed science curriculum for the South Umpqua School District and offer input.",
@@ -377,6 +412,21 @@
           "wordCount": 13288,
           "title": "South Umpqua's proposed science curriculum available for public viewing",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cf679d30-f36c-11ee-828d-b384bc0d7d95",
+          "author": "Aurora Ropp and Kris Wiley for The News Review",
+          "description": "Roseburg Public Library joins libraries all across the country in celebrating the 65th anniversary of National Library Week from April 7 through 13. We can think of no better way to honor this milestone than by recommending great reads about…",
+          "link": "https://www.nrtoday.com/news/education/celebrate-national-library-week-with-a-book/article_cf679d30-f36c-11ee-828d-b384bc0d7d95.html",
+          "publishedOn": "2024-04-06T13:45:00.000Z",
+          "wordCount": 13926,
+          "title": "Celebrate National Library Week with a book",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/5c/b5ca1f14-f36d-11ee-bf88-0330f0e3abcb/66025036a9862.image.jpg?resize=300%2C200",
+            "length": "340363",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/5c/b5ca1f14-f36d-11ee-bf88-0330f0e3abcb/66025036a9862.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d196fa16-f2c1-11ee-9918-27dea5c7064a",
@@ -816,16 +866,6 @@
           "publishedOn": "2024-04-04T15:57:27.000Z",
           "wordCount": 8088,
           "title": "Compliance Monitoring Program Committee meets April 11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=1072#news171244",
-          "author": null,
-          "description": "Salem, Ore. -- The Oregon Department of Forestry is inviting public comment on planned projects, timber sales and other management activities in state-owned forests in fiscal year 2025.    \n From April 3 through 5 p.m. May 17, Oregonians can weigh in on draft Annual Operations Plans (AOPs) for state forests on the Astoria, Forest Grove, Klamath Falls, North Cascade, Tillamook, West Oregon, and Western Lane Districts. These plans lay out on-the-ground activities expected to take place in the coming fiscal year.  \n State forests by law must provide economic, environmental, and social benefits to Oregonians. To achieve that legal mandate, these lands are managed to create healthy productive forests, high-quality habitat for native fish and wildlife, clean water, timber, revenues to rural comm…",
-          "link": "https://www.flashalert.net/news.html?id=1072#news171244",
-          "publishedOn": "2024-04-03T14:10:45.000Z",
-          "wordCount": 8334,
-          "title": "Forestry department invites public comment on state forest management activities&nbsp;",
           "imageUrl": null
         }
       ]
