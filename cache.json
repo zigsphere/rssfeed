@@ -429,6 +429,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/12fbd88a-f774-11ee-846f-0385bf720b39",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Umpqua Actors Community Theatre continues its production of Moon Over Buffalo through April 21.",
+          "link": "https://www.nrtoday.com/a_and_e/moon-over-buffalo-continues-at-uact/article_12fbd88a-f774-11ee-846f-0385bf720b39.html",
+          "publishedOn": "2024-04-10T19:53:00.000Z",
+          "wordCount": 13175,
+          "title": "Moon Over Buffalo continues at UACT",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/749aebca-f761-11ee-8f11-0b4e0da5f779",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "ROSEBURG — Isis Karensha Garcia-Lopez reportedly sprayed sewage on several homes and a vehicle in the 1100 block of Northeast Barager Avenue.",
@@ -619,7 +629,38 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news171423",
+          "author": null,
+          "description": "CENTRAL DOUGLAS FIRE & RESCUE AUTHORITY REGULAR BOARD MEETING NOTICE\nThe Board of Directors of Central Douglas Fire & Rescue Authority will hold its Regular Board meeting at Winston Dillard Fire District located at 250 SE Main St. Winston, OR 97496 on Monday April 15, 2024, at 5:30 p.m. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday April 15, 2024, for instructions.\nThe Board agenda to include but not limited to:\n\nMonthly Financials\nAgent of Record Contract Award\nAmbulance Billing Contract Award\nBudget Committee Member Appointment\nChief’s Report\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to administration at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news171423",
+          "publishedOn": "2024-04-10T23:05:43.000Z",
+          "wordCount": 1238,
+          "title": "Public Notice - Central Douglas Fire & Rescue Authority Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news171422",
+          "author": null,
+          "description": "BOARD REGULAR MEETING NOTICE\nThe Board of Directors of Winston-Dillard Fire District No. 5 will hold its Regular Board meeting at WDFD Fire Station at 250 SE Main St., Winston, OR on Monday, April 15, 2024 at 5:30 p.m. A supplemental budget adjustment will be considered at this meeting. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-679-8721 during normal business hours prior to 4:00 p.m. on Monday, April 15, 2024, for instructions.\nThe Board agenda to include but not limited to:\n   1. Monthly Financial Report\n  2. Badge Pinning\n  3. Resolution 2024-03 ~ Supplemental Budget and Appropriation Resolution\n  4. FY24-25 Budget / Appoint Budget Committee Members\n  5. Agent of Record Contact Award   \n \nThe meeting location is accessible to person with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to Winston-Dillard Fire District No. 5 at 541-679-8721",
+          "link": "https://www.flashalert.net/news.html?id=6158#news171422",
+          "publishedOn": "2024-04-10T23:04:19.000Z",
+          "wordCount": 1238,
+          "title": "Public Notice - Winston-Dillard Fire District No. 5 Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news171420",
+          "author": null,
+          "description": "BOARD REGULAR MEETING NOTICE\nThe Board of Directors of Douglas County Fire District No. 2 will hold its Regular Board meeting at the Winston Dillard Fire Station located at 250 SE Main St. Winston, OR 97496 on Monday April 15th, 2024, at 5:30 pm. A supplemental budget adjustment will be considered at this meeting. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday April 15, 2024, for instructions. \nThe Board agenda to include but not limited to:\n\nMonthly Financials\nVolunteer Badge Pinning\nResolution 2024-05: FY24 Supplemental Budget and Appropriation\nAgent of Record Contract Award\nAddendum to MedCom IGA – Termination \nAnnexation Request\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to DCFD #2 at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news171420",
+          "publishedOn": "2024-04-10T23:02:22.000Z",
+          "wordCount": 1238,
+          "title": "Public Notice - Douglas County Fire District No. 2 Regular Board Meeting",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
@@ -650,6 +691,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news171421",
+          "author": null,
+          "description": "SALEM, Ore. — The Oregon Board of Forestry will meet April 24 for a planning retreat. The annual retreat offers the board and department leadership a chance to facilitate a final discussion about their shared strategic plan, the Vision for Oregon’s Forests and review the latest developments for the State Forests Trust of Oregon. \nNo public comment or testimony will be accepted during the retreat. The public can attend in-person in the Tillamook Room, Building C, at the Oregon Department of Forestry headquarters, located at 2600 State St. in Salem or observe via a livestream on the department’s YouTube page.\nDuring this informal annual retreat, board members will focus on:\n\nNew Vision for Oregon’s Forests content\nGoals, strategy and feedback review\nState Forests Trust of Oregon update\n\nView the agenda and retreat details. \nAccommodations for people with disabilities, and special materials, services, or assistance can be arranged by calling ODF’s Public Affairs Office at least 72 hours in advance of the meeting at 503-945-7200 or by email at forestryinformation@odf.oregon.gov.\nThe Oregon Board of Forestry consists of seven citizens nominated by the Governor and confirmed by the Oregon Senate. Responsibilities include appointing the State Forester, setting management direction for state-owned forests, adopting rules governing timber harvest and other practices on private forestland, and promoting sustainable management of Oregon’s 30 million-acre forestland base. Read more information about the board.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news171421",
+          "publishedOn": "2024-04-10T23:03:58.000Z",
+          "wordCount": 7160,
+          "title": "Board of Forestry hosts a planning retreat on April 24",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news171328",
           "author": null,
