@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-12T13:10:05.547Z</updated>
+    <updated>2024-04-12T16:11:40.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bureau of Land Management thinks up changes for Cascade-Siskiyou following Supreme Court denial]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/29482f1a-f3cf-11ee-9eb8-3b1b50f6a1d8</id>
+        <link href="https://www.nrtoday.com/news/environment/bureau-of-land-management-thinks-up-changes-for-cascade-siskiyou-following-supreme-court-denial/article_29482f1a-f3cf-11ee-9eb8-3b1b50f6a1d8.html"/>
+        <updated>2024-04-12T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bureau of Land Management released a draft update April 4 for the management plan for the Cascade-Siskiyou National Monument.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask a Master Gardener: Starting a vegetable garden]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/084ac560-f5c4-11ee-a8b9-db652045c1c7</id>
+        <link href="https://www.nrtoday.com/family/ask-a-master-gardener-starting-a-vegetable-garden/article_084ac560-f5c4-11ee-a8b9-db652045c1c7.html"/>
+        <updated>2024-04-12T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Question: I just moved to a new neighborhood and wish to start a vegetable garden, but I’m not sure where to put it. Do you have any pointers when choosing a site to put my garden?]]></summary>
+        <author>
+            <name>BONNIE COURTER Master Gardener</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LAST DAY OF ABOVE NORMAL HIGH TEMPERATURES ON THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=117600</id>
