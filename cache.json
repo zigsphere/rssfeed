@@ -449,6 +449,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/51c7f304-f9d7-11ee-864d-bb08d2a35ff7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Nestled between the North and South Umpqua Rivers, an art show was introduced Saturday near Singleton Park.",
+          "link": "https://www.nrtoday.com/a_and_e/various-art-mediums-converge-at-the-confluence/article_51c7f304-f9d7-11ee-864d-bb08d2a35ff7.html",
+          "publishedOn": "2024-04-14T02:00:00.000Z",
+          "wordCount": 14326,
+          "title": "Various art mediums converge at The Confluence",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/05/a058e072-f9c4-11ee-80dd-f70e0a624283/661ad07b665cc.image.jpg?resize=300%2C200",
+            "length": "328300",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/05/a058e072-f9c4-11ee-80dd-f70e0a624283/661ad07b665cc.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a27f98ea-f939-11ee-bdfd-8f7e3038bbc7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Mercy Foundation debuted three videos at Friday's Youth Media Premiere at the Roseburg Public Library.",
+          "link": "https://www.nrtoday.com/news/education/local-youth-raise-awareness-through-media/article_a27f98ea-f939-11ee-bdfd-8f7e3038bbc7.html",
+          "publishedOn": "2024-04-14T02:00:00.000Z",
+          "wordCount": 14160,
+          "title": "Local youth raise awareness through media",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/93/093e901e-f939-11ee-aa15-574646c6289f/6619e649d36de.image.jpg?resize=300%2C200",
+            "length": "341467",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/93/093e901e-f939-11ee-aa15-574646c6289f/6619e649d36de.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e271cdee-f905-11ee-8047-33847608cf78",
           "author": "SANNE GODFREY The News-Review",
           "description": "ROSEBURG — The League of Women Voters of Umpqua Valley is hosting an informational meeting on Ranked Choice Voting at 6 p.m. April 25 at the Roseburg Public Library.",
@@ -817,36 +847,6 @@
           "wordCount": 13238,
           "title": "Rock-throwing man arrested",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3a954454-f601-11ee-83a9-4b2efa1dfc49",
-          "author": "HANNAH SEIBOLD The News-Review",
-          "description": "A group of nearly 200 volunteers traveled to the Bahamas to help provide veterinary care to animals.",
-          "link": "https://www.nrtoday.com/news/operation-potcake-providing-animals-care-in-the-bahamas/article_3a954454-f601-11ee-83a9-4b2efa1dfc49.html",
-          "publishedOn": "2024-04-10T14:45:00.000Z",
-          "wordCount": 14130,
-          "title": "Operation Potcake: Providing animals care in the Bahamas",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e2/4e2e9eea-f690-11ee-b8ec-8fbebcafb7f3/661570363c74d.image.jpg?resize=300%2C269",
-            "length": "187829",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/e2/4e2e9eea-f690-11ee-b8ec-8fbebcafb7f3/661570363c74d.image.jpg?resize=300%2C269"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7fbd6c1a-f6d2-11ee-96ee-f7e4648d0ff1",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Trucks, tax records, safety and other commercial driving related things were discussed by professionals at the Oregon Department of Transportation office Tuesday.",
-          "link": "https://www.nrtoday.com/news/government/odot-open-house-covers-how-to-keep-trucking-legal/article_7fbd6c1a-f6d2-11ee-96ee-f7e4648d0ff1.html",
-          "publishedOn": "2024-04-10T14:30:00.000Z",
-          "wordCount": 14021,
-          "title": "ODOT open house covers how to keep trucking legal",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/61/b610c19a-f6c3-11ee-a0e3-13e5cbdc067f/6615c674d4d79.image.jpg?resize=300%2C200",
-            "length": "273114",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/61/b610c19a-f6c3-11ee-a0e3-13e5cbdc067f/6615c674d4d79.image.jpg?resize=300%2C200"
         }
       ]
     },
