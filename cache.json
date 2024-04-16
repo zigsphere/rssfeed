@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=117728",
+          "author": "Kyle Bailey",
+          "description": "From Douglas CARES, Executive Director Sarah Wickersham and staff members Haleigh Gallego and Chris Caldwell talk about the Family Tree Team program.",
+          "link": "https://kqennewsradio.com/2024/04/16/inside-douglas-county-4-16-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-4-16-24",
+          "publishedOn": "2024-04-16T20:28:54.000Z",
+          "wordCount": 1525,
+          "title": "INSIDE DOUGLAS COUNTY 4.16.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240416192612/idc416.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240416192837/IMG_4359.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=117726",
           "author": "Kyle Bailey",
           "description": "April 16, 2024 10:50 a.m.  Roseburg Police cited a woman for a city ordinance violation on Tuesday morning. An RPD report said at 6:20 a.m. officers contacted the 30-year-old who was camping along the South Umpqua River at Riverside Park in the 400 block of Southeast Spruce Street. She was camping in a prohibited area...",
@@ -353,6 +368,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54595442-fc38-11ee-95f9-738a9190af68",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A police chase which started in Roseburg, ultimately ended near Eugene on Monday night.",
+          "link": "https://www.nrtoday.com/news/local/police-chase-starts-in-roseburg-ends-near-eugene/article_54595442-fc38-11ee-95f9-738a9190af68.html",
+          "publishedOn": "2024-04-16T21:28:00.000Z",
+          "wordCount": 13412,
+          "title": "Police chase starts in Roseburg, ends near Eugene",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e0bdeca-fc37-11ee-ba3d-5fc56e248be8",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "REEDSPORT — U.S. Senator Ron Wyden is visiting four Oregon counties next week, including Douglas County.",
+          "link": "https://www.nrtoday.com/news/government/wyden-to-visit-douglas-county/article_5e0bdeca-fc37-11ee-ba3d-5fc56e248be8.html",
+          "publishedOn": "2024-04-16T21:22:00.000Z",
+          "wordCount": 13211,
+          "title": "Wyden to visit Douglas County",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/129d0336-fbfd-11ee-994d-1fb032c7cd15",
           "author": "SANNE GODFREY The News-Review",
