@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=117765",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Sheriff John Hanlin and Lieutenant Brad O’Dell the National Public Safety Telecommunicators Week:",
+          "link": "https://kqennewsradio.com/2024/04/17/morning-conversation-4-17-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-17-24",
+          "publishedOn": "2024-04-17T16:11:35.000Z",
+          "wordCount": 1513,
+          "title": "MORNING CONVERSATION 4.17.24",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240417150823/IMG_4363.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=117755",
           "author": "Kyle Bailey",
           "description": "April 17, 2024 4;00 a.m. Covering coastal Douglas County: A Frost Advisory remains in effect through 9:00 a.m. Wednesday for the south-central Oregon coast. Forecasters at the National Weather Service said temperatures as low as 33 degrees will result in frost formation. The Advisory area includes the cities of Reedsport, North Bend and Coos Bay....",
@@ -14,6 +24,16 @@
           "wordCount": 1534,
           "title": "FROST ADVISORY FOR SOUTH CENTRAL OREGON COAST",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240417100024/frost-2.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=117753",
+          "author": "Kyle Bailey",
+          "description": "April 17, 2024 3:50 a.m. A Eugene man was jailed for online sex crime charges by the Myrtle Creek Police Department on April 11th. Information released late Tuesday said on March 17th, MCPD began an investigation into 27-year-old Derrick Shane Gordon. Detective Kevin Taggart said it was found that Gordon had engaged in an online...",
+          "link": "https://kqennewsradio.com/2024/04/17/eugene-man-jailed-for-online-sex-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=eugene-man-jailed-for-online-sex-crimes",
+          "publishedOn": "2024-04-17T10:50:49.000Z",
+          "wordCount": 1631,
+          "title": "EUGENE MAN JAILED FOR ONLINE SEX CRIMES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221434/mcpd2-e1609413984764.jpg"
         },
         {
           "id": "https://kqennewsradio.com/?p=117753",
@@ -617,36 +637,6 @@
           "wordCount": 13325,
           "title": "Grants boost staffing for wildland firefighters",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/51c7f304-f9d7-11ee-864d-bb08d2a35ff7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Nestled between the North and South Umpqua Rivers, an art show was introduced Saturday near Singleton Park.",
-          "link": "https://www.nrtoday.com/a_and_e/various-art-mediums-converge-at-the-confluence/article_51c7f304-f9d7-11ee-864d-bb08d2a35ff7.html",
-          "publishedOn": "2024-04-14T02:00:00.000Z",
-          "wordCount": 14326,
-          "title": "Various art mediums converge at The Confluence",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/05/a058e072-f9c4-11ee-80dd-f70e0a624283/661ad07b665cc.image.jpg?resize=300%2C200",
-            "length": "328300",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/05/a058e072-f9c4-11ee-80dd-f70e0a624283/661ad07b665cc.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a27f98ea-f939-11ee-bdfd-8f7e3038bbc7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Mercy Foundation debuted three videos at Friday's Youth Media Premiere at the Roseburg Public Library.",
-          "link": "https://www.nrtoday.com/news/education/local-youth-raise-awareness-through-media/article_a27f98ea-f939-11ee-bdfd-8f7e3038bbc7.html",
-          "publishedOn": "2024-04-14T02:00:00.000Z",
-          "wordCount": 14160,
-          "title": "Local youth raise awareness through media",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/93/093e901e-f939-11ee-aa15-574646c6289f/6619e649d36de.image.jpg?resize=300%2C200",
-            "length": "341467",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/93/093e901e-f939-11ee-aa15-574646c6289f/6619e649d36de.image.jpg?resize=300%2C200"
         }
       ]
     },
