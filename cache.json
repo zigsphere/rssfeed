@@ -855,7 +855,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news171596",
+          "author": null,
+          "description": "BURNS, Ore. — The Oregon Department of Forestry recently hosted the 2024 Rangeland Fire Protection Association Summit in Burns, Oregon. The annual summit provides a forum for the 28 Rangeland Fire Protection Associations (RFPAs) to meet with each other and partners in the spirit of helping each other be more effective at fighting wildfire on Oregon’s range. \nRFPAs are an integral part of the complete and coordinated wildfire protection system in Oregon. Oregon’s 28 rangeland associations across eastern Oregon provide initial attack response to wildfires on nearly 17.5 million acres of public and private ownership. Association members have a unique interest in suppressing wildfires since the lands they protect impact their livelihoods and those of their neighbors. \nDuring the summit the ran…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news171596",
+          "publishedOn": "2024-04-18T15:53:25.000Z",
+          "wordCount": 6197,
+          "title": "Rangeland Fire Protection Association Annual Summit--neighbors helping neighbors",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
