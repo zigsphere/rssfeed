@@ -649,6 +649,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e4c34728-fe94-11ee-b59a-bf01cce991c4",
+          "author": "DREW WINKELMAIER and SANNE GODFREY The News-Review",
+          "description": "GLIDE — Rachel Merchant-Ly has been found more than seven weeks after she was reported missing.",
+          "link": "https://www.nrtoday.com/news/local/search-and-rescue-finds-body-of-glide-teacher/article_e4c34728-fe94-11ee-b59a-bf01cce991c4.html",
+          "publishedOn": "2024-04-20T00:00:00.000Z",
+          "wordCount": 13880,
+          "title": "Search and rescue finds body of Glide teacher",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/dd/eddcd066-fe96-11ee-9630-df060c1397cf/6622e74c68dc3.image.jpg?resize=300%2C300",
+            "length": "154793",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/dd/eddcd066-fe96-11ee-9630-df060c1397cf/6622e74c68dc3.image.jpg?resize=300%2C300"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/82aa2ca4-fdd7-11ee-8998-3f8d0b510f6a",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "What has kept Melanie Morrow at Phoenix School for 28 years are the kids.",
@@ -1007,21 +1022,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/5c/95c96cf6-c51e-11ee-810e-03f596b3ba47/65c27c14c179c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/65cf287c-fb5d-11ee-b74d-e78a03d41949",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "GLIDE — Wolf Creek Job Corps Civilian Conservation Center is located on Opportunity Lane in Umpqua National Forest, a street aptly named considering what is offered to the students.",
-          "link": "https://www.nrtoday.com/news/education/wolf-creek-job-corps-offers-opportunities-for-all/article_65cf287c-fb5d-11ee-b74d-e78a03d41949.html",
-          "publishedOn": "2024-04-16T14:00:00.000Z",
-          "wordCount": 14540,
-          "title": "Wolf Creek Job Corps offers opportunities for all",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6e/a6e9c8ae-fbf7-11ee-ad2b-3b63c3dfc8d6/661e8115186c4.image.jpg?resize=300%2C200",
-            "length": "470756",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/6e/a6e9c8ae-fbf7-11ee-ad2b-3b63c3dfc8d6/661e8115186c4.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1047,6 +1047,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news171661",
+          "author": null,
+          "description": "IDLEYLD PARK, Ore. - The body of Rachel Merchant-Ly has been recovered from the North Umpqua River today. \nOn April 19, 2024, Douglas County Sheriff's Office Search and Rescue organized a large scale search in their ongoing efforts to locate 27-year-old Rachel Merchant-Ly of Idleyld Park. Merchant-Ly was reported missing on Thursday, February 29, 2024, when she didn't arrive at Glide Elementary School where she worked as a kindergarten teacher. Later that morning, a Douglas County Sheriff's deputy located signs of a motor vehicle crash near milepost 41 on Highway 138E.\nOn Friday, March 1, 2024, Merchant-Ly's vehicle was recovered from the North Umpqua River, but she was not found inside.\nSince that time, searchers have conducted numerous searches by water, land, and air without success. \nO…",
+          "link": "https://www.flashalert.net/news.html?id=5204#news171661",
+          "publishedOn": "2024-04-19T23:21:51.000Z",
+          "wordCount": 1636,
+          "title": "Body of Rachel Merchant-Ly Recovered",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=5204#news171607",
           "author": null,

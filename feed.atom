@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-19T23:12:06.290Z</updated>
+    <updated>2024-04-20T02:17:39.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Search and rescue finds body of Glide teacher]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e4c34728-fe94-11ee-b59a-bf01cce991c4</id>
+        <link href="https://www.nrtoday.com/news/local/search-and-rescue-finds-body-of-glide-teacher/article_e4c34728-fe94-11ee-b59a-bf01cce991c4.html"/>
+        <updated>2024-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — Rachel Merchant-Ly has been found more than seven weeks after she was reported missing.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER and SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Body of Rachel Merchant-Ly Recovered]]></title>
+        <id>https://www.flashalert.net/news.html?id=5204#news171661</id>
+        <link href="https://www.flashalert.net/news.html?id=5204#news171661"/>
+        <updated>2024-04-19T23:21:51.000Z</updated>
+        <summary type="html"><![CDATA[IDLEYLD PARK, Ore. - The body of Rachel Merchant-Ly has been recovered from the North Umpqua River today. 
+On April 19, 2024, Douglas County Sheriff's Office Search and Rescue organized a large scale search in their ongoing efforts to locate 27-year-old Rachel Merchant-Ly of Idleyld Park. Merchant-Ly was reported missing on Thursday, February 29, 2024, when she didn't arrive at Glide Elementary School where she worked as a kindergarten teacher. Later that morning, a Douglas County Sheriff's deputy located signs of a motor vehicle crash near milepost 41 on Highway 138E.
+On Friday, March 1, 2024, Merchant-Ly's vehicle was recovered from the North Umpqua River, but she was not found inside.
+Since that time, searchers have conducted numerous searches by water, land, and air without success. 
+O…]]></summary>
+        <author>
+            <name>Douglas Co. Sheriff's Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SENATORS ANNOUNCE $47.7 MILLION IN SECURE RURAL SCHOOL FUNDS]]></title>
         <id>https://kqennewsradio.com/?p=117893</id>
@@ -915,16 +939,6 @@ During the summit the ran…]]></summary>
         <summary type="html"><![CDATA[Colt Ford is recovering from a heart attack and will not be coming to the Douglas County Fair, as previously planned.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolf Creek Job Corps offers opportunities for all]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/65cf287c-fb5d-11ee-b74d-e78a03d41949</id>
-        <link href="https://www.nrtoday.com/news/education/wolf-creek-job-corps-offers-opportunities-for-all/article_65cf287c-fb5d-11ee-b74d-e78a03d41949.html"/>
-        <updated>2024-04-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — Wolf Creek Job Corps Civilian Conservation Center is located on Opportunity Lane in Umpqua National Forest, a street aptly named considering what is offered to the students.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
