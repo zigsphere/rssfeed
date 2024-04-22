@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=117922",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith covers current legislative topics, talks about the chances for the GOP to pick up more seats in the legislature, looks at his own race and more.",
+          "link": "https://kqennewsradio.com/2024/04/22/morning-conversation-4-22-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-22-24",
+          "publishedOn": "2024-04-22T16:06:53.000Z",
+          "wordCount": 1583,
+          "title": "MORNING CONVERSATION 4.22.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240422150330/amconv422.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=117917",
           "author": "Kyle Bailey",
           "description": "April 22, 2024 3:45 a.m.  The Umpqua Valley will experience high temperatures about ten degrees above normal for the next couple of days. Forecasters at the National Weather Service said the mercury will reach the low to mid 70’s on Monday and Tuesday. The high temperatures for this part of April are normally around 65...",
@@ -284,6 +299,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/52f774be-ff83-11ee-b539-fbe6e19b9a53",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "WINCHESTER — Aviva Health played host to the Safe Families Fiesta event with the goal of spreading awareness about the organization, its goals and how the community can contribute to the prevention of child abuse in Douglas County.",
+          "link": "https://www.nrtoday.com/family/health/safe-families-for-children-s-awareness-fiesta/article_52f774be-ff83-11ee-b539-fbe6e19b9a53.html",
+          "publishedOn": "2024-04-22T15:30:00.000Z",
+          "wordCount": 14356,
+          "title": "Safe Families for Children’s awareness fiesta",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/a4/4a4f2f88-ff87-11ee-85d4-e7cee7d453c1/66247a8eb6b91.image.jpg?resize=300%2C200",
+            "length": "316402",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/a4/4a4f2f88-ff87-11ee-85d4-e7cee7d453c1/66247a8eb6b91.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e6f429c0-fdab-11ee-b5e1-0f9f57d9d649",
           "author": "Elena Lininger For The News-Review",
           "description": "In my work of running a grassroots nonprofit, Source One Serenity, here in Roseburg, serving veterans through outdoor recreation and trail stewardship, I sometimes hear interesting quotes from participants after they spend some time outdoors. For example, “being drunk on…",
@@ -469,18 +499,7 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": [
-        {
-          "id": "https://www.flashalert.net/news.html?id=6158#news171628",
-          "author": null,
-          "description": "At 1222 hrs on Thursday afternoon Douglas County Fire District No.2 and Winston-Dillard Fire District were dispatched to a reported structure fire on Carroll Street in Winston. The first fire crew to arrive on the scene took quick action to ensure that all of the occupants were out of the residence. \nFire crews were able to stop the spread of the fire in a timely fashion with the use of a single hose line.  Unfortunately, the contents of the house suffered significant damage.\nDCFD2 and WDFD responded to this incident with 2 fire engines, 1 ambulance and 2 command units with a total of 13 personnel. Crews were unable to determine a cause of the fire. Crews were assisted by Winston PD, Avista Gas, PP&L and Umpqua Valley Ambulance. \n# # #",
-          "link": "https://www.flashalert.net/news.html?id=6158#news171628",
-          "publishedOn": "2024-04-19T03:00:26.000Z",
-          "wordCount": 836,
-          "title": "Structure Fire on Carroll Street in Winston",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Douglas Co. Sheriff's Office",
