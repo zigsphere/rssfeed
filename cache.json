@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=117945",
+          "author": "Kyle Bailey",
+          "description": "An Earth Day program with Umpqua Watersheds Executive Director Kasey Hovick:",
+          "link": "https://kqennewsradio.com/2024/04/22/inside-douglas-county-4-22-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-4-22-24",
+          "publishedOn": "2024-04-22T20:18:40.000Z",
+          "wordCount": 1575,
+          "title": "INSIDE DOUGLAS COUNTY 4.22.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240422191428/IDC422.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240422191802/IMG_4379.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=117942",
           "author": "Kyle Bailey",
           "description": "April 22, 2024 11:20 a.m.  Roseburg Police cited a man for alleged damage to a motel room on Friday. An RPD report said at 9;30 a.m. officers responded to the business in the 300 block of West Harvard Avenue. The 37-year-old allegedly did over $1,000 in damage. He was charged with first-degree criminal mischief. The...",
@@ -314,66 +329,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240416093230/salmon.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117860",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 3:50 a.m. The contents of a home in Winston suffered significant damage in a fire on Thursday afternoon. Battalion Chief Mitch Doss of Douglas County Fire District No. 2 and the Winston Dillard Fire District said both agencies responded to the structure fire on Carroll Street just after 12:20 p.m. Doss said...",
-          "link": "https://kqennewsradio.com/2024/04/19/significant-damage-to-conents-of-winston-home-due-to-fire/?utm_source=rss&utm_medium=rss&utm_campaign=significant-damage-to-conents-of-winston-home-due-to-fire",
-          "publishedOn": "2024-04-19T10:57:53.000Z",
-          "wordCount": 1659,
-          "title": "SIGNIFICANT DAMAGE TO CONENTS OF WINSTON HOME DUE TO FIRE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240111170105/WDFD-Logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117857",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 3:40 a.m. The National Park Service has approved the transfer of the Crater Lake National Park concessions contract formerly held by Crater Lake Hospitality. An NPS release said hospitality company ExplorUS will take over providing visitor services under the contract immediately. That will include: *Lodging at Crater Lake Lodge, the cabins at...",
-          "link": "https://kqennewsradio.com/2024/04/19/national-park-service-approves-crater-lake-concessions-transfer/?utm_source=rss&utm_medium=rss&utm_campaign=national-park-service-approves-crater-lake-concessions-transfer",
-          "publishedOn": "2024-04-19T10:40:38.000Z",
-          "wordCount": 1693,
-          "title": "NATIONAL PARK SERVICE APPROVES CRATER LAKE CONCESSIONS TRANSFER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215656/clake-e1622223149699.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117853",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 3:30 a.m. Roseburg Public Library invites residents to see Dr. David Lewis’ presentation of his recent book, “Tribal Histories of the Willamette Valley”, at 6:30 p.m. on Thursday, May 2nd. A City release said Dr. Lewis is a recognized researcher, scholar, writer and assistant professor of anthropology and indigenous studies at Oregon...",
-          "link": "https://kqennewsradio.com/2024/04/19/osu-professor-to-discuss-willamette-valley-tribal-history/?utm_source=rss&utm_medium=rss&utm_campaign=osu-professor-to-discuss-willamette-valley-tribal-history",
-          "publishedOn": "2024-04-19T10:33:57.000Z",
-          "wordCount": 1646,
-          "title": "OSU PROFESSOR TO DISCUSS WILLAMETTE VALLEY TRIBAL HISTORY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240419093347/David-Lewis.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117847",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 3:20 a.m.  Wildlife Safari has announced the birth of a Wallaroo joey in the Australia walkabout section of the Wildlife Safari Village. A Safari release said born to proud mother Kari, in July of 2023, the addition marks another milestone in the park’s commitment to wildlife conservation and education. At birth, Wallaroo...",
-          "link": "https://kqennewsradio.com/2024/04/19/new-addition-to-wildlife-safaris-australia-walkabout/?utm_source=rss&utm_medium=rss&utm_campaign=new-addition-to-wildlife-safaris-australia-walkabout",
-          "publishedOn": "2024-04-19T10:25:33.000Z",
-          "wordCount": 1805,
-          "title": "NEW ADDITION TO WILDLIFE SAFARI’S AUSTRALIA WALKABOUT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240419092443/Copy-of-Wallaroo-Joey-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117843",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 3:05 a.m.  The circus is coming to Myrtle Creek! Thanks to the sponsorship of the Myrtle Creek Elks Lodge #1943, the Culpepper & Merriweather Circus will be in the Ireland parking lot located parallel to Main Street on Saturday May 18th, with shows at 2:00 p.m. and 4:30 p.m. An Elks Club...",
-          "link": "https://kqennewsradio.com/2024/04/19/circus-coming-to-myrtle-creek/?utm_source=rss&utm_medium=rss&utm_campaign=circus-coming-to-myrtle-creek",
-          "publishedOn": "2024-04-19T10:17:33.000Z",
-          "wordCount": 1707,
-          "title": "CIRCUS COMING TO MYRTLE CREEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240419091651/circuslogo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=117841",
-          "author": "Kyle Bailey",
-          "description": "April 19, 2024 2:50 a.m. This week Senators Ron Wyden and Jeff Merkley urged federal officials to award a planning grant of up to $2.5 million to Oregon that would strengthen school-based health services financed by Medicaid in the state. The senators’ letter to the federal Centers for Medicare & Medicaid Services comes in...",
-          "link": "https://kqennewsradio.com/2024/04/19/senators-urges-feds-to-support-oregons-school-based-health-services/?utm_source=rss&utm_medium=rss&utm_campaign=senators-urges-feds-to-support-oregons-school-based-health-services",
-          "publishedOn": "2024-04-19T10:10:58.000Z",
-          "wordCount": 1740,
-          "title": "SENATORS URGES FEDS TO SUPPORT OREGON’S SCHOOL BASED HEALTH SERVICES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
@@ -388,6 +343,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ec55980e-fe73-11ee-9667-8f999b14f03c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The next Friends of the Umpqua Hiking Club hike is scheduled for April 27.",
+          "link": "https://www.nrtoday.com/news/local/hiking-club-heads-to-rogue-river-trail/article_ec55980e-fe73-11ee-9667-8f999b14f03c.html",
+          "publishedOn": "2024-04-22T17:40:00.000Z",
+          "wordCount": 13353,
+          "title": "Hiking Club heads to Rogue River Trail",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/22fa864a-00c6-11ef-b4ca-133b9875d7a7",
           "author": "Kyle Bailey For The News-Review",
