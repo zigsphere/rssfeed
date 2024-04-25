@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118073",
+          "author": "Kyle Bailey",
+          "description": "Roseburg VA Medical Center Chief of Pharmacy and Deputy Chief of Staff Dan Neil talks about Saturday’s prescription drug takeback day happening at the VA in Roseburg and Eugene:",
+          "link": "https://kqennewsradio.com/2024/04/25/morning-conversation-4-25-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-25-24",
+          "publishedOn": "2024-04-25T16:07:53.000Z",
+          "wordCount": 1582,
+          "title": "MORNING CONVERSATION 4.25.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240425150400/amcon425.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240425150647/IMG_4390.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118064",
           "author": "Kyle Bailey",
           "description": "April 25, 2024 6:00 a.m.   A Gardiner man has been arrested in a burglary at the Gardiner, Reedsport, and Winchester Bay Salmon Trout Enhancement Program hatchery. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said the investigation began on Monday when deputies were alerted that someone had made forced entry into the hatchery building....",
@@ -623,6 +638,96 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/45eb0e18-0184-11ef-9789-cba56d290190",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Rovers and Dragons are hosting an evening of sea shanties, comedy songs, fast jigs and reels and dance music at 6:30 p.m. Saturday at Oran Mor Artisan Meadery, 305 Melrose Road in Roseburg.",
+          "link": "https://www.nrtoday.com/a_and_e/vikings-and-pirates-show/article_45eb0e18-0184-11ef-9789-cba56d290190.html",
+          "publishedOn": "2024-04-25T15:15:00.000Z",
+          "wordCount": 13339,
+          "title": "Vikings and pirates show",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6fd4f5ca-01b8-11ef-bd4b-c3ca9025a440",
+          "author": "Scott Carroll The News-Review",
+          "description": "A veteran mortgage broker and former Douglas County Treasurer has been ordered by a judge to pay back more than $500,000 to five local investors, who say he convinced them to put their money in homes that never got built.",
+          "link": "https://www.nrtoday.com/news/court/mortgage-broker-ordered-to-pay-500k-for-investments-gone-bad/article_6fd4f5ca-01b8-11ef-bd4b-c3ca9025a440.html",
+          "publishedOn": "2024-04-25T15:00:00.000Z",
+          "wordCount": 14055,
+          "title": "Mortgage broker ordered to pay $500k for investments gone bad",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/2b/f2bf9156-fdc2-11ee-a01f-a7ffd397050f/64c99585033c8.image.jpg?resize=300%2C200",
+            "length": "313796",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/2b/f2bf9156-fdc2-11ee-a01f-a7ffd397050f/64c99585033c8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/363ff0be-00fd-11ef-b588-f3598b33959b",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Tagged on the window of a vacant space was the word “frog leg.”",
+          "link": "https://www.nrtoday.com/a_and_e/expanding-horizons-frogleg-studio-supports-art-community/article_363ff0be-00fd-11ef-b588-f3598b33959b.html",
+          "publishedOn": "2024-04-25T14:45:00.000Z",
+          "wordCount": 14400,
+          "title": "Expanding horizons: Frogleg Studio supports art community",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/25/52503e5c-01e4-11ef-b231-133e40cadaec/662871a1aa388.image.jpg?resize=300%2C200",
+            "length": "220022",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/25/52503e5c-01e4-11ef-b231-133e40cadaec/662871a1aa388.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c5ddaa0a-0287-11ef-9a8a-5342a189f4c8",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Canopy Lumber Products, a manufacturer of custom pallets and shipping solutions, based in Rock Valley, Iowa, is partnering with Roseburg-based 7robotics.",
+          "link": "https://www.nrtoday.com/news/7robotics-partners-with-iowa-lumber-company/article_c5ddaa0a-0287-11ef-9a8a-5342a189f4c8.html",
+          "publishedOn": "2024-04-25T14:45:00.000Z",
+          "wordCount": 13532,
+          "title": "7robotics partners with Iowa lumber company",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/b3/db36de5c-0288-11ef-9391-33c25b72bf55/662985acce05d.image.jpg?resize=300%2C220",
+            "length": "396632",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/b3/db36de5c-0288-11ef-9391-33c25b72bf55/662985acce05d.image.jpg?resize=300%2C220"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1aac7602-0282-11ef-aab7-433fb4a3d0a0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Narcan, electric gurneys and how to embalm a body were the topics of discussion Wednesday in Sutherlin.",
+          "link": "https://www.nrtoday.com/news/education/sutherlin-glide-students-learn-from-emergency-and-medical-workers/article_1aac7602-0282-11ef-aab7-433fb4a3d0a0.html",
+          "publishedOn": "2024-04-25T14:45:00.000Z",
+          "wordCount": 14422,
+          "title": "Sutherlin, Glide students learn from emergency and medical workers",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/49/249d25f6-0275-11ef-adda-579a9bfdb567/6629649a0d138.image.jpg?resize=300%2C200",
+            "length": "245593",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/49/249d25f6-0275-11ef-adda-579a9bfdb567/6629649a0d138.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/eb7860f6-030f-11ef-8ee5-9b1616513116",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "GARDINER — Joshua Alexander Heckathorn was arrested Tuesday for allegedly breaking into a hatchery and killing thousands of fish.",
+          "link": "https://www.nrtoday.com/news/crime/man-arrested-for-breaking-into-hatchery/article_eb7860f6-030f-11ef-8ee5-9b1616513116.html",
+          "publishedOn": "2024-04-25T14:27:00.000Z",
+          "wordCount": 13609,
+          "title": "Man arrested for breaking into hatchery",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a3b74a50-01b8-11ef-9021-5f3fa31684ad",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "WINSTON — Roseburg's Family Development Center will be hosting its 18th annual Celebrate Children event from 11 a.m. to 3 p.m. Saturday at Wildlife Safari.",
+          "link": "https://www.nrtoday.com/family/celebrate-children-day-at-wildlife-safari-on-saturday/article_a3b74a50-01b8-11ef-9021-5f3fa31684ad.html",
+          "publishedOn": "2024-04-25T14:15:00.000Z",
+          "wordCount": 13420,
+          "title": "Celebrate Children Day at Wildlife Safari on Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/119331a0-028c-11ef-918e-73c34aae7c98",
           "author": "GLORIA COLEMAN The News-Review",
