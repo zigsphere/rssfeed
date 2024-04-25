@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-24T23:12:17.148Z</updated>
+    <updated>2024-04-25T02:21:15.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Student arrested for alleged verbal threats]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/119331a0-028c-11ef-918e-73c34aae7c98</id>
+        <link href="https://www.nrtoday.com/news/education/student-arrested-for-alleged-verbal-threats/article_119331a0-028c-11ef-918e-73c34aae7c98.html"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Roseburg Police Department responded to Horizons, commonly known as Rose School, because a student was making threats on Wednesday morning.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part of Whistler's Bend closes temporarily for rehabilitation project]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/66ebf522-0284-11ef-a9de-43485cbbfef4</id>
+        <link href="https://www.nrtoday.com/news/environment/part-of-whistlers-bend-closes-temporarily-for-rehabilitation-project/article_66ebf522-0284-11ef-a9de-43485cbbfef4.html"/>
+        <updated>2024-04-24T21:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The lower day use area of Whistler's Bend County Park and Campground will be closed as the county parks department starts a rehabilitation project in the area.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reedsport Main Street receives national designation]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/66f822ac-0275-11ef-bbef-076134357ca3</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[REEDSPORT — Reedsport Main Street was awarded affiliate status from Main Street of America.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Army Band returns to Myrtle Creek]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8e324084-0282-11ef-aaec-d7ac8c983ae0</id>
+        <link href="https://www.nrtoday.com/a_and_e/army-band-returns-to-myrtle-creek/article_8e324084-0282-11ef-aaec-d7ac8c983ae0.html"/>
+        <updated>2024-04-24T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — The 204th Army Band will perform May 14 in Myrtle Creek.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -716,16 +746,6 @@ First Stop - Forest Grove: Matt Mills, Oregon Dept. of Agriculture’s Project M
         <link href="https://kqennewsradio.com/2024/04/21/wydens-town-halls-in-southern-oregon-postponed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wydens-town-halls-in-southern-oregon-postponed"/>
         <updated>2024-04-21T22:35:49.000Z</updated>
         <summary type="html"><![CDATA[April 21, 2024 3:30 p.m.  U.S. Senate votes now expected for this week will force the postponement of Senator Ron Wyden’s town hall that had been scheduled for this week. The four town halls in Douglas, Josephine, Coos and Curry counties will be rescheduled.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WASHINGTON STATE MAN DIES IN SINGLE VEHICLE CRASH NEAR RICE VALLEY]]></title>
-        <id>https://kqennewsradio.com/?p=117904</id>
-        <link href="https://kqennewsradio.com/2024/04/21/washington-state-man-dies-in-single-vehicle-crash-near-rice-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=washington-state-man-dies-in-single-vehicle-crash-near-rice-valley"/>
-        <updated>2024-04-21T13:17:59.000Z</updated>
-        <summary type="html"><![CDATA[April 21, 2024 6:20 a.m. A Washington State man died in a single vehicle crash on Interstate 5 in Douglas County Friday night. An Oregon State Police report said just before 8:00 p.m. troopers responded to the southbound lanes of the interstate near Rice Valley. A preliminary investigation indicated that a sports car operated by...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
