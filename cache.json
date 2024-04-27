@@ -679,6 +679,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c597a208-0296-11ef-b654-df1298e8dc31",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Wolf Creek Job Corps, at 2010 Opportunity Lane in Glide, will host an open house from 10 a.m. to 2 p.m. May 15 to celebrate 60 years of job corps.",
+          "link": "https://www.nrtoday.com/briefs/wolf-creek-job-corps-will-host-open-house/article_c597a208-0296-11ef-b654-df1298e8dc31.html",
+          "publishedOn": "2024-04-27T00:00:00.000Z",
+          "wordCount": 13322,
+          "title": "Wolf Creek Job Corps will host open house",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/40f1df18-03dc-11ef-b4f0-23d60206d825",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "Ariel, with her flowing red hair, found herself having legs for the first time, but in the process she lost one of her best assets: her voice.",
@@ -1072,26 +1082,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b3/1b35edc4-00f2-11ef-b24f-23ab69bfb267/644d9dffdb941.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/404538c4-00be-11ef-ad06-e3d943ce104f",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — The Democratic Party of Douglas County will be holding two candidate forums leading up to the May 21 primary election.",
-          "link": "https://www.nrtoday.com/news/elections/democrats-host-two-primary-candidate-forums/article_404538c4-00be-11ef-ad06-e3d943ce104f.html",
-          "publishedOn": "2024-04-23T13:45:00.000Z",
-          "wordCount": 13372,
-          "title": "Democrats host two primary candidate forums",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/793c31c0-00cb-11ef-b7f1-c78abd44c43d",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "Court Appointed Special Advocates of Douglas County will be putting on the third annual 5K and Family Fun Day at River Forks Park on Saturday.",
-          "link": "https://www.nrtoday.com/news/casa-hosts-5k-and-family-fun-day-saturday/article_793c31c0-00cb-11ef-b7f1-c78abd44c43d.html",
-          "publishedOn": "2024-04-23T13:30:00.000Z",
-          "wordCount": 13474,
-          "title": "CASA hosts 5K and Family Fun Day Saturday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
