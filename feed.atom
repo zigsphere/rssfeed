@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-27T16:11:06.420Z</updated>
+    <updated>2024-04-27T19:07:36.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PUC SEEKING PUBLIC COMMENT ON UTILITY’S PROPOSED RATE INCREASE]]></title>
+        <id>https://kqennewsradio.com/?p=118151</id>
+        <link href="https://kqennewsradio.com/2024/04/27/puc-seeking-public-comment-on-utilitys-proposed-rate-increase/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=puc-seeking-public-comment-on-utilitys-proposed-rate-increase"/>
+        <updated>2024-04-27T18:08:48.000Z</updated>
+        <summary type="html"><![CDATA[April 27, 2024 11:00 a.m. The Oregon Public Utility Commission is seeking public comment on Pacific Power’s proposed rate increase. An OPUC release said a virtual event will be held on Tuesday night from 6:00 p.m. to 7:00 p.m., providing the opportunity to speak directly with commissioners about the proposal. Customers may also submit comments...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Sharing the river with others': new ownership at North Umpqua Outfitters]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/c18cb10c-026a-11ef-8689-17da5e67492a</id>
@@ -881,17 +891,6 @@ The Sheriff's Office was also assisted by the Reedsport Police Department.]]></s
         <summary type="html"><![CDATA[April 24, 2024 2:50 a.m. Roseburg Police jailed a woman for an alleged criminal mischief incident on Monday night. An RPD report said shortly before 10:00 p.m. officers responded to apartments in the 2800 block of Northeast Douglas Avenue after a victim reported that her neighbor had damaged her door by hitting it with a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water Rescue at Amacher Park in Winchester (Photo)]]></title>
-        <id>https://www.flashalert.net/news.html?id=6158#news171741</id>
-        <link href="https://www.flashalert.net/news.html?id=6158#news171741"/>
-        <updated>2024-04-24T04:29:31.000Z</updated>
-        <summary type="html"><![CDATA[At 4:29 P.M. on Tuesday afternoon, units from Douglas County Fire District No. 2 were dispatched to the report of a fishing boat in distress near Amacher Park in Winchester.  Shortly after arriving, the crews located an aluminum boat with a single occupant that had become lodged in the rapids.  The Technical Rescue Team from Douglas County Fire District No. 2 established command, set up crews downriver for safety, and launched their paddle raft.  They were able to free the boat from the rapids without issue and no injuries occurred.
-Douglas County Fire District No.2 responded to this incident with 1 engine, 2 Rescue Units, 1 Ambulance, and a command unit with a total of 11 personnel.  Crews were assisted by the Douglas County Sheriff's Office.]]></summary>
-        <author>
-            <name>Douglas Co. Fire Dist. No.2</name>
         </author>
     </entry>
 </feed>
