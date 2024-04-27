@@ -544,6 +544,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c18cb10c-026a-11ef-8689-17da5e67492a",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "MYRTLE CREEK — Dustin Paul visited the Grand Canyon earlier this year for a 30-day trip. He came back to his Myrtle Creek home, “signed the papers and bought a business” — closing the deal March 15.",
+          "link": "https://www.nrtoday.com/business/sharing-the-river-with-others-new-ownership-at-north-umpqua-outfitters/article_c18cb10c-026a-11ef-8689-17da5e67492a.html",
+          "publishedOn": "2024-04-27T15:00:00.000Z",
+          "wordCount": 14331,
+          "title": "'Sharing the river with others': new ownership at North Umpqua Outfitters",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c4/6c42adde-0367-11ef-beb3-eb4b68490ddb/662afb1471c2f.image.jpg?resize=300%2C200",
+            "length": "546462",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c4/6c42adde-0367-11ef-beb3-eb4b68490ddb/662afb1471c2f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e2269fe-028b-11ef-b04f-476b27a8ca6d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas County’s payroll employment increased by a seasonally adjusted 130 jobs in March after a loss of 40 in February and an increase of 120 in January.",
+          "link": "https://www.nrtoday.com/business/douglas-county-employers-add-jobs-in-march/article_7e2269fe-028b-11ef-b04f-476b27a8ca6d.html",
+          "publishedOn": "2024-04-27T15:00:00.000Z",
+          "wordCount": 13507,
+          "title": "Douglas County employers add jobs in March",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b",
+          "author": "ALICIA CHRISTIANSEN For The News-Review",
+          "description": "The 61st annual Douglas County School Forestry Tour, hosted by the Oregon State University Extension Service, was held April 17-19. Over the course of three days, over 850 fifth grade students, their teachers, and parent chaperones visited the county-owned Glide…",
+          "link": "https://www.nrtoday.com/news/education/thank-you-douglas-county-for-supporting-school-forestry-tour/article_c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b.html",
+          "publishedOn": "2024-04-27T13:45:00.000Z",
+          "wordCount": 14185,
+          "title": "Thank you Douglas County for supporting School Forestry Tour",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b2/9b2f4d1c-03ff-11ef-846b-c775bd0864a9/662bfa66a8c28.image.jpg?resize=300%2C225",
+            "length": "552389",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b2/9b2f4d1c-03ff-11ef-846b-c775bd0864a9/662bfa66a8c28.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7b743582-028d-11ef-96b0-377916f8cd20",
+          "author": "LOGAN BENNETT For The News-Review",
+          "description": "I have just recently passed my two-year mark with the Oregon State University Extension Service. In that time, I have had the blessing and opportunity to travel all over Douglas County, make many friends, and work with lots of fantastic…",
+          "link": "https://www.nrtoday.com/news/education/extension-spotlight-open-house-at-the-agricultural-learning-center/article_7b743582-028d-11ef-96b0-377916f8cd20.html",
+          "publishedOn": "2024-04-27T12:15:00.000Z",
+          "wordCount": 13771,
+          "title": "Extension Spotlight: Open house at the Agricultural Learning Center",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d2/2d2d6b90-028e-11ef-bd15-83c3b15b8c54/66298e99cd482.image.jpg?resize=300%2C200",
+            "length": "139539",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d2/2d2d6b90-028e-11ef-bd15-83c3b15b8c54/66298e99cd482.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8167aa9e-01ae-11ef-9ce3-a325101f3f14",
           "author": "PAUL MORGAN",
           "description": "Say goodbye to the evening planets this month. Jupiter sinks lower into the sunset’s glare each night. Look toward the west-northwest horizon just after sunset to spot Jupiter. Don’t delay your observations because Jupiter will slip out of sight by…",
