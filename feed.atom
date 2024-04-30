@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-30T19:08:03.507Z</updated>
+    <updated>2024-04-30T23:10:06.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.30.22]]></title>
+        <id>https://kqennewsradio.com/?p=118243</id>
+        <link href="https://kqennewsradio.com/2024/04/30/inside-douglas-county-4-30-22/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-4-30-22"/>
+        <updated>2024-04-30T20:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Oregon Senate District 2, Noah Robinson talks about his campaign, why he is running, and what he hopes to do if elected:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG VA HEALTH CARE SYSTEM VETERAN TOWN HALL WEDNESDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=118240</id>
@@ -544,16 +554,6 @@ The 13-member committee The Adaptive Management Program Committee helps determin
         <summary type="html"><![CDATA[I have just recently passed my two-year mark with the Oregon State University Extension Service. In that time, I have had the blessing and opportunity to travel all over Douglas County, make many friends, and work with lots of fantastic…]]></summary>
         <author>
             <name>LOGAN BENNETT For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Stargazer: Jupiter slips out of sight]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8167aa9e-01ae-11ef-9ce3-a325101f3f14</id>
-        <link href="https://www.nrtoday.com/news/education/umpqua-stargazer-jupiter-slips-out-of-sight/article_8167aa9e-01ae-11ef-9ce3-a325101f3f14.html"/>
-        <updated>2024-04-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Say goodbye to the evening planets this month. Jupiter sinks lower into the sunset’s glare each night. Look toward the west-northwest horizon just after sunset to spot Jupiter. Don’t delay your observations because Jupiter will slip out of sight by…]]></summary>
-        <author>
-            <name>PAUL MORGAN</name>
         </author>
     </entry>
 </feed>

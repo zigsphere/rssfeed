@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118243",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Oregon Senate District 2, Noah Robinson talks about his campaign, why he is running, and what he hopes to do if elected:",
+          "link": "https://kqennewsradio.com/2024/04/30/inside-douglas-county-4-30-22/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-4-30-22",
+          "publishedOn": "2024-04-30T20:15:54.000Z",
+          "wordCount": 1582,
+          "title": "INSIDE DOUGLAS COUNTY 4.30.22",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240430191224/idc430.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240430191523/IMG_4432.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118240",
           "author": "Kyle Bailey",
           "description": "April 30, 2024 11:20 a.m.  The Roseburg VA Health Care System is holding a Veteran Town Hall on Wednesday night. It will be held in the Roseburg VA Medical Center Building 16 auditorium from 5:00 p.m. to 6:00 p.m. VA leadership will speak about current topics and veterans will be able to get their questions...",
@@ -607,16 +622,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d2/2d2d6b90-028e-11ef-bd15-83c3b15b8c54/66298e99cd482.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8167aa9e-01ae-11ef-9ce3-a325101f3f14",
-          "author": "PAUL MORGAN",
-          "description": "Say goodbye to the evening planets this month. Jupiter sinks lower into the sunset’s glare each night. Look toward the west-northwest horizon just after sunset to spot Jupiter. Don’t delay your observations because Jupiter will slip out of sight by…",
-          "link": "https://www.nrtoday.com/news/education/umpqua-stargazer-jupiter-slips-out-of-sight/article_8167aa9e-01ae-11ef-9ce3-a325101f3f14.html",
-          "publishedOn": "2024-04-27T10:30:00.000Z",
-          "wordCount": 13509,
-          "title": "Umpqua Stargazer: Jupiter slips out of sight",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
