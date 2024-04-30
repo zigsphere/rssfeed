@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-30T13:10:53.274Z</updated>
+    <updated>2024-04-30T16:13:26.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After decades in Oakland, Stearns Hardware is for sale]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/54a77e1c-ec8c-11ee-9856-4b00aa7b312c</id>
+        <link href="https://www.nrtoday.com/business/after-decades-in-oakland-stearns-hardware-is-for-sale/article_54a77e1c-ec8c-11ee-9856-4b00aa7b312c.html"/>
+        <updated>2024-04-30T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[OAKLAND — The corner of Southeast Second Avenue and Southeast Locust Street was home to Stearns True Value Hardware for years on end.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carleton sentenced to 10 years in criminally negligent homicide]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e2e60af4-0686-11ef-a823-db485d583203</id>
+        <link href="https://www.nrtoday.com/news/carleton-sentenced-to-10-years-in-criminally-negligent-homicide/article_e2e60af4-0686-11ef-a823-db485d583203.html"/>
+        <updated>2024-04-30T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Ray Hodgson said he had a book of things worth sharing at the sentencing for the man who killed his two children, but he dwindled it down to fit on just one sheet of notebook paper.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOUTHERN OREGON LAWMAKERS VISIT SOUTHERN BORDER IN ARIZONA]]></title>
         <id>https://kqennewsradio.com/?p=118215</id>

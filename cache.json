@@ -269,6 +269,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54a77e1c-ec8c-11ee-9856-4b00aa7b312c",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "OAKLAND — The corner of Southeast Second Avenue and Southeast Locust Street was home to Stearns True Value Hardware for years on end.",
+          "link": "https://www.nrtoday.com/business/after-decades-in-oakland-stearns-hardware-is-for-sale/article_54a77e1c-ec8c-11ee-9856-4b00aa7b312c.html",
+          "publishedOn": "2024-04-30T14:45:00.000Z",
+          "wordCount": 13734,
+          "title": "After decades in Oakland, Stearns Hardware is for sale",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/a6/3a66c9e0-fc1d-11ee-a5fd-a705813690b4/661ec01fe072a.image.jpg?resize=300%2C200",
+            "length": "523525",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/a6/3a66c9e0-fc1d-11ee-a5fd-a705813690b4/661ec01fe072a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2e60af4-0686-11ef-a823-db485d583203",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "Ray Hodgson said he had a book of things worth sharing at the sentencing for the man who killed his two children, but he dwindled it down to fit on just one sheet of notebook paper.",
+          "link": "https://www.nrtoday.com/news/carleton-sentenced-to-10-years-in-criminally-negligent-homicide/article_e2e60af4-0686-11ef-a823-db485d583203.html",
+          "publishedOn": "2024-04-30T14:45:00.000Z",
+          "wordCount": 13961,
+          "title": "Carleton sentenced to 10 years in criminally negligent homicide",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ef/2eff4cb6-0687-11ef-b2db-67fb7a853b38/6604b8ef50e0b.image.jpg?resize=300%2C200",
+            "length": "210570",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ef/2eff4cb6-0687-11ef-b2db-67fb7a853b38/6604b8ef50e0b.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9e1eb6dc-0654-11ef-a8bc-5b3cdd28d43f",
           "author": "BRITTANY ARNOLD The News-Review",
           "description": "The YMCA of Douglas County was a packed house Saturday morning with a variety of local community groups and families for their annual YMCA Healthy Kids Day.",
