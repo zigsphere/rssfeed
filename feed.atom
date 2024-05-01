@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-01T19:10:03.133Z</updated>
+    <updated>2024-05-01T23:10:58.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Food Preservers offer workshops in Elkton]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1ffe7454-0672-11ef-91fa-679b0408dbb6</id>
+        <link href="https://www.nrtoday.com/news/environment/master-food-preservers-offer-workshops-in-elkton/article_1ffe7454-0672-11ef-91fa-679b0408dbb6.html"/>
+        <updated>2024-05-01T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[ELKTON — The Oregon State University Extension Service and Master Food Preservers will host a workshop at the Elkton Community Education Center, located at 15850 OR-38 W. in Elkton. The workshop is scheduled for 1-4 p.m. May 16 and 10…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agricultural Learning Center hosts open house on May 15]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4e22541a-0670-11ef-b7e7-8310b853ef1c</id>
+        <link href="https://www.nrtoday.com/briefs/agricultural-learning-center-hosts-open-house-on-may-15/article_4e22541a-0670-11ef-b7e7-8310b853ef1c.html"/>
+        <updated>2024-05-01T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The Oregon State University Extension Service will host an open house 4-6 p.m. May 15 at the Agricultural Learning Center, located at 238 River Forks Park Road in Roseburg.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.1.24]]></title>
+        <id>https://kqennewsradio.com/?p=118283</id>
+        <link href="https://kqennewsradio.com/2024/05/01/inside-douglas-county-5-1-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-5-1-24"/>
+        <updated>2024-05-01T20:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Second District Congressman Cliff Bentz talks about the grey wolf and his call that federal protection for the animal end.  A field hearing will be held in Minnesota on Friday:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHITTAKER CREEK AND CLAY CREEK CAMPGROUNDS TO REMAIN CLOSED]]></title>
         <id>https://kqennewsradio.com/?p=118280</id>

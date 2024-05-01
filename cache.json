@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118283",
+          "author": "Kyle Bailey",
+          "description": "Second District Congressman Cliff Bentz talks about the grey wolf and his call that federal protection for the animal end.  A field hearing will be held in Minnesota on Friday:",
+          "link": "https://kqennewsradio.com/2024/05/01/inside-douglas-county-5-1-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-5-1-24",
+          "publishedOn": "2024-05-01T20:17:19.000Z",
+          "wordCount": 1590,
+          "title": "INSIDE DOUGLAS COUNTY 5.1.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240501191354/idc51.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201148/Official-Portrait-Congressman-Cliff-Bentz-OR-02-WEBSITE-e1682366937454.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118280",
           "author": "Kyle Bailey",
           "description": "May 1, 2024 11:20 a.m.   Whittaker Creek and Clay Creek campgrounds will remain closed at the start of the 2024 season. A Bureau of Land Management release said both sides are in the coast range between Eugene and the Oregon Coast off Highway 126 on the Siuslaw River. BLM officials made the decision to keep...",
@@ -518,6 +533,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ffe7454-0672-11ef-91fa-679b0408dbb6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ELKTON — The Oregon State University Extension Service and Master Food Preservers will host a workshop at the Elkton Community Education Center, located at 15850 OR-38 W. in Elkton. The workshop is scheduled for 1-4 p.m. May 16 and 10…",
+          "link": "https://www.nrtoday.com/news/environment/master-food-preservers-offer-workshops-in-elkton/article_1ffe7454-0672-11ef-91fa-679b0408dbb6.html",
+          "publishedOn": "2024-05-01T21:47:00.000Z",
+          "wordCount": 13359,
+          "title": "Master Food Preservers offer workshops in Elkton",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4e22541a-0670-11ef-b7e7-8310b853ef1c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — The Oregon State University Extension Service will host an open house 4-6 p.m. May 15 at the Agricultural Learning Center, located at 238 River Forks Park Road in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/agricultural-learning-center-hosts-open-house-on-may-15/article_4e22541a-0670-11ef-b7e7-8310b853ef1c.html",
+          "publishedOn": "2024-05-01T21:34:00.000Z",
+          "wordCount": 13371,
+          "title": "Agricultural Learning Center hosts open house on May 15",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e165ce90-07ca-11ef-a8ef-7f173255f9bd",
           "author": "Kyle Bailey For The News-Review",
