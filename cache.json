@@ -434,6 +434,86 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e165ce90-07ca-11ef-a8ef-7f173255f9bd",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "GREEN — A Myrtle Creek man was detained after he was reported to be driving his SUV on three wheels and a rim on Monday night.",
+          "link": "https://www.nrtoday.com/news/local/myrtle-creek-man-arrested-after-unsafe-driving-drug-usage/article_e165ce90-07ca-11ef-a8ef-7f173255f9bd.html",
+          "publishedOn": "2024-05-01T14:55:00.000Z",
+          "wordCount": 13389,
+          "title": "Myrtle Creek man arrested after unsafe driving, drug usage",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c88aea4c-0741-11ef-90d3-3393e5e46f9c",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "CANYONVILLE — Harmony Active Living residents won’t have to leave their homes for a shower or toilet that flushes, as their $48,000 overdue water bill was paid Tuesday.",
+          "link": "https://www.nrtoday.com/news/48k-water-bill-paid-at-forest-glen-water-stays-on-for-now/article_c88aea4c-0741-11ef-90d3-3393e5e46f9c.html",
+          "publishedOn": "2024-05-01T14:45:00.000Z",
+          "wordCount": 14215,
+          "title": "$48K water bill paid at Forest Glen, water stays on for now",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/01/c01332a6-0742-11ef-a4be-37c46bea1b07/66186108c16bb.image.jpg?resize=300%2C203",
+            "length": "727784",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/01/c01332a6-0742-11ef-a4be-37c46bea1b07/66186108c16bb.image.jpg?resize=300%2C203"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/84d77cda-0669-11ef-9611-aff3103d5c80",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "From pebbles to boulders and everything in between, this free weekend show will rock them all.",
+          "link": "https://www.nrtoday.com/news/environment/just-one-more-rock-to-see-at-the-gem-show-this-weekend/article_84d77cda-0669-11ef-9611-aff3103d5c80.html",
+          "publishedOn": "2024-05-01T14:00:00.000Z",
+          "wordCount": 13892,
+          "title": "Just one more rock to see at the gem show this weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/85/e85ba70e-0669-11ef-a8a8-db5d818eda70/6456a73c138d1.image.jpg?resize=300%2C200",
+            "length": "418459",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/85/e85ba70e-0669-11ef-a8a8-db5d818eda70/6456a73c138d1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c984a754-0664-11ef-9088-df2dda499d04",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "The year 1920 was a catalyst, kicking-off the decade referred to as the “roaring twenties” and a year that historian and author Eric Burns argues influenced every aspect of life today.",
+          "link": "https://www.nrtoday.com/news/local-woman-celebrates-her-104th-birthday/article_c984a754-0664-11ef-9088-df2dda499d04.html",
+          "publishedOn": "2024-05-01T14:00:00.000Z",
+          "wordCount": 14064,
+          "title": "Local woman celebrates her 104th birthday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/e9/8e933ea4-075d-11ef-9412-eb0804330e6b/6631a083af63a.image.jpg?resize=300%2C200",
+            "length": "247705",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/e9/8e933ea4-075d-11ef-9412-eb0804330e6b/6631a083af63a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/200f151a-0718-11ef-a89f-1b009e0f2f42",
+          "author": "DAN BAIN For The News-Review",
+          "description": "Justin Ballenger has been through a lot the past three years having to deal with COVID-19 twice and then finding out he had a form of cancer, but he’s relied on his faith and his family to help him maneuver…",
+          "link": "https://www.nrtoday.com/news/health/faith-family-help-roseburg-man-survive-cancer/article_200f151a-0718-11ef-a89f-1b009e0f2f42.html",
+          "publishedOn": "2024-05-01T13:45:00.000Z",
+          "wordCount": 14133,
+          "title": "Faith, family help Roseburg man survive cancer",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/1e/11e35946-0719-11ef-800f-c38437bf5c10/66312d9cb768a.image.jpg?resize=300%2C225",
+            "length": "435639",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/1e/11e35946-0719-11ef-800f-c38437bf5c10/66312d9cb768a.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d577efd8-0738-11ef-8769-f384fd6c2c2f",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Roseburg Community Development Department is encouraging local homeowners and other building owners in or near flood zones to make sure they have sufficient flood insurance and take other steps to protect their properties this spring.",
+          "link": "https://www.nrtoday.com/news/local/homeowners-encouraged-to-get-flood-insurance/article_d577efd8-0738-11ef-8769-f384fd6c2c2f.html",
+          "publishedOn": "2024-04-30T21:30:00.000Z",
+          "wordCount": 13541,
+          "title": "Homeowners encouraged to get flood insurance",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/54a77e1c-ec8c-11ee-9856-4b00aa7b312c",
           "author": "HANNAH SEIBOLD The News-Review",
           "description": "OAKLAND — The corner of Southeast Second Avenue and Southeast Locust Street was home to Stearns True Value Hardware for years on end.",
@@ -597,21 +677,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/75/47583b74-0407-11ef-9ae4-e3bd68e6e7cd/662c074601746.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f3c2b752-0508-11ef-9764-bfd8118c1292",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — Iris Henry, 14, was reported missing from Roseburg.",
-          "link": "https://www.nrtoday.com/news/local/teen-missing-in-douglas-county/article_f3c2b752-0508-11ef-9764-bfd8118c1292.html",
-          "publishedOn": "2024-04-28T02:42:00.000Z",
-          "wordCount": 13349,
-          "title": "Teen missing in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/65/e65a6b04-0509-11ef-9e6e-af71f3d463b1/662db92ae362c.image.jpg?resize=300%2C208",
-            "length": "78578",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/65/e65a6b04-0509-11ef-9e6e-af71f3d463b1/662db92ae362c.image.jpg?resize=300%2C208"
         }
       ]
     },
