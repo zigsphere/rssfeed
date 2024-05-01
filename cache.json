@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118247",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2024/04/30/true-wealth-promo-4-30-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-promo-4-30-24",
+          "publishedOn": "2024-05-01T00:10:16.000Z",
+          "wordCount": 1568,
+          "title": "TRUE WEALTH PROMO 4.30.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240430230846/tw430TW.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118243",
           "author": "Kyle Bailey",
           "description": "Republican candidate for Oregon Senate District 2, Noah Robinson talks about his campaign, why he is running, and what he hopes to do if elected:",
@@ -592,36 +607,6 @@
           "wordCount": 13507,
           "title": "Douglas County employers add jobs in March",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b",
-          "author": "ALICIA CHRISTIANSEN For The News-Review",
-          "description": "The 61st annual Douglas County School Forestry Tour, hosted by the Oregon State University Extension Service, was held April 17-19. Over the course of three days, over 850 fifth grade students, their teachers, and parent chaperones visited the county-owned Glide…",
-          "link": "https://www.nrtoday.com/news/education/thank-you-douglas-county-for-supporting-school-forestry-tour/article_c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b.html",
-          "publishedOn": "2024-04-27T13:45:00.000Z",
-          "wordCount": 14185,
-          "title": "Thank you Douglas County for supporting School Forestry Tour",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b2/9b2f4d1c-03ff-11ef-846b-c775bd0864a9/662bfa66a8c28.image.jpg?resize=300%2C225",
-            "length": "552389",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b2/9b2f4d1c-03ff-11ef-846b-c775bd0864a9/662bfa66a8c28.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7b743582-028d-11ef-96b0-377916f8cd20",
-          "author": "LOGAN BENNETT For The News-Review",
-          "description": "I have just recently passed my two-year mark with the Oregon State University Extension Service. In that time, I have had the blessing and opportunity to travel all over Douglas County, make many friends, and work with lots of fantastic…",
-          "link": "https://www.nrtoday.com/news/education/extension-spotlight-open-house-at-the-agricultural-learning-center/article_7b743582-028d-11ef-96b0-377916f8cd20.html",
-          "publishedOn": "2024-04-27T12:15:00.000Z",
-          "wordCount": 13771,
-          "title": "Extension Spotlight: Open house at the Agricultural Learning Center",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d2/2d2d6b90-028e-11ef-bd15-83c3b15b8c54/66298e99cd482.image.jpg?resize=300%2C200",
-            "length": "139539",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d2/2d2d6b90-028e-11ef-bd15-83c3b15b8c54/66298e99cd482.image.jpg?resize=300%2C200"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-04-30T23:10:06.101Z</updated>
+    <updated>2024-05-01T02:25:53.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH PROMO 4.30.24]]></title>
+        <id>https://kqennewsradio.com/?p=118247</id>
+        <link href="https://kqennewsradio.com/2024/04/30/true-wealth-promo-4-30-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-promo-4-30-24"/>
+        <updated>2024-05-01T00:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.30.22]]></title>
         <id>https://kqennewsradio.com/?p=118243</id>
@@ -534,26 +544,6 @@ The 13-member committee The Adaptive Management Program Committee helps determin
         <summary type="html"><![CDATA[Douglas County’s payroll employment increased by a seasonally adjusted 130 jobs in March after a loss of 40 in February and an increase of 120 in January.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank you Douglas County for supporting School Forestry Tour]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b</id>
-        <link href="https://www.nrtoday.com/news/education/thank-you-douglas-county-for-supporting-school-forestry-tour/article_c25ecd6e-03fe-11ef-ae7b-8bd47bb74d1b.html"/>
-        <updated>2024-04-27T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The 61st annual Douglas County School Forestry Tour, hosted by the Oregon State University Extension Service, was held April 17-19. Over the course of three days, over 850 fifth grade students, their teachers, and parent chaperones visited the county-owned Glide…]]></summary>
-        <author>
-            <name>ALICIA CHRISTIANSEN For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extension Spotlight: Open house at the Agricultural Learning Center]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7b743582-028d-11ef-96b0-377916f8cd20</id>
-        <link href="https://www.nrtoday.com/news/education/extension-spotlight-open-house-at-the-agricultural-learning-center/article_7b743582-028d-11ef-96b0-377916f8cd20.html"/>
-        <updated>2024-04-27T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[I have just recently passed my two-year mark with the Oregon State University Extension Service. In that time, I have had the blessing and opportunity to travel all over Douglas County, make many friends, and work with lots of fantastic…]]></summary>
-        <author>
-            <name>LOGAN BENNETT For The News-Review</name>
         </author>
     </entry>
 </feed>
