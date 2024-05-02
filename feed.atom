@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-02T13:11:12.938Z</updated>
+    <updated>2024-05-02T16:12:06.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jerry Bruce Community Campus Partners host family fair]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6f06d584-07ec-11ef-9eda-cb302c8c2368</id>
+        <link href="https://www.nrtoday.com/news/health/jerry-bruce-community-campus-partners-host-family-fair/article_6f06d584-07ec-11ef-9eda-cb302c8c2368.html"/>
+        <updated>2024-05-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The weekend will bring free entertainment and family-friendly fun for the community at the Spring Family Fair.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CORVALLIS MAN JAILED FOLLOWING LENGTHY POLICE PURSUIT]]></title>
         <id>https://kqennewsradio.com/?p=118300</id>
@@ -124,6 +134,16 @@
         <summary type="html"><![CDATA[May 1, 2024 10:50 a.m. The Umpqua National Forest has announced the expiration of three closures in the Diamond Lake Ranger District. A UNF release said the two closure orders which prohibited the use of motorized vehicles within the Mt. Bailey Winter Closure Area and the National Forest Road to Hemlock Butte Cabin have both...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua National Forest lifts winter closures]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e2b06112-07e2-11ef-b6ac-971c708e0104</id>
+        <link href="https://www.nrtoday.com/briefs/umpqua-national-forest-lifts-winter-closures/article_e2b06112-07e2-11ef-b6ac-971c708e0104.html"/>
+        <updated>2024-05-01T17:47:00.000Z</updated>
+        <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — Umpqua National Forest announced the expiration of three winter closures and new hot springs regulations in the Diamond Lake Ranger District.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
