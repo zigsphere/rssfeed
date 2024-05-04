@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118400",
+          "author": "Kyle Bailey",
+          "description": "May 4, 2024 6:30 a.m. (Story credit: Sanna Godfrey) The News Review is reporting: On Friday afternoon, Troy Russell Phelps told a packed courtroom he was guilty of murdering Kendra Hanks. Hanks, an 18-year-old woman from Winston, disappeared on her way home from work on July 7, 2022. Her body was discovered in Cow Creek...",
+          "link": "https://kqennewsradio.com/2024/05/04/troy-phelps-pleads-guilty-to-murder-of-kendra-hanks/?utm_source=rss&utm_medium=rss&utm_campaign=troy-phelps-pleads-guilty-to-murder-of-kendra-hanks",
+          "publishedOn": "2024-05-04T13:35:53.000Z",
+          "wordCount": 1827,
+          "title": "TROY PHELPS PLEADS GUILTY TO MURDER OF KENDRA HANKS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240504123533/Phelps-Troy-Russell-B22002036.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118398",
           "author": "Kyle Bailey",
           "description": "May 4, 2024 6:00 a.m. Roseburg Police jailed a man for a probation violation on Thursday. An RPD report said just after 8:00 a.m. officers contacted the 24-yaer old at Eagle’s Park in the 700 block of Southeast Jackson Street, after he was seen with an open beer can. Officers learned the man was on...",
@@ -563,6 +573,91 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c6338f8-01ed-11ef-9694-b7b70154592b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CAMAS VALLEY — From sophomore public speaking to representing Oregon, Julie Amos has moved up the ranks of the FFA.",
+          "link": "https://www.nrtoday.com/news/education/reporting-for-oregon-ffa-this-is-julie-amos/article_7c6338f8-01ed-11ef-9694-b7b70154592b.html",
+          "publishedOn": "2024-05-04T15:00:00.000Z",
+          "wordCount": 14778,
+          "title": "Reporting for Oregon FFA, this is Julie Amos",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b0/9b0bb6f4-01ed-11ef-8f1d-936020b3bfdd/662881353063b.image.jpg?resize=300%2C200",
+            "length": "315501",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b0/9b0bb6f4-01ed-11ef-8f1d-936020b3bfdd/662881353063b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d60cbb7a-095b-11ef-896c-43dbd390af0d",
+          "author": "TRACY MAXWELL For The News-Review",
+          "description": "The birds are migrating.",
+          "link": "https://www.nrtoday.com/news/guest_submission/umpqua-valley-audubon-society-the-birds-are-back-in-town/article_d60cbb7a-095b-11ef-896c-43dbd390af0d.html",
+          "publishedOn": "2024-05-04T14:45:00.000Z",
+          "wordCount": 13798,
+          "title": "Umpqua Valley Audubon Society: The birds are back in town",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/f5/af5dc290-0978-11ef-bd04-c7346896dc3d/64f8d26b39946.image.jpg?resize=300%2C200",
+            "length": "270457",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/f5/af5dc290-0978-11ef-bd04-c7346896dc3d/64f8d26b39946.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/22ca9ed0-097c-11ef-b4b4-4b1c8dffd1cc",
+          "author": "Kris Wiley and Aurora Ropp For The News Review",
+          "description": "We love developing Roseburg Public Library’s collection of 80,000 items, purchasing and discarding materials to maintain a popular, relevant selection for all ages and interests.",
+          "link": "https://www.nrtoday.com/news/guest_submission/developing-roseburg-library-s-collection/article_22ca9ed0-097c-11ef-b4b4-4b1c8dffd1cc.html",
+          "publishedOn": "2024-05-04T14:00:00.000Z",
+          "wordCount": 13840,
+          "title": "Developing Roseburg library’s collection",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/890db79a-097c-11ef-aa2a-ff85606df838",
+          "author": "Aurora Ropp and Kris Wiley For The News Review",
+          "description": "May is Mental Health Awareness Month, and Roseburg Public Library has books for youth of all ages that can help increase their awareness of mental health and wellness.",
+          "link": "https://www.nrtoday.com/news/guest_submission/library-highlights-books-on-mental-health/article_890db79a-097c-11ef-aa2a-ff85606df838.html",
+          "publishedOn": "2024-05-04T14:00:00.000Z",
+          "wordCount": 13774,
+          "title": "Library highlights books on mental health",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/08081338-07f7-11ef-8519-db566fde63cd",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Roseburg High School senior Massimo Falleni is the recipient of the 2024 Nicholas J. Goirigolzarri Memorial scholarship. He will receive $1,500 to pursue his career goals of a degree in physics/astrophysics.",
+          "link": "https://www.nrtoday.com/briefs/falleni-receives-2024-nicholas-j-goirigolzarri-memorial-scholarship/article_08081338-07f7-11ef-8519-db566fde63cd.html",
+          "publishedOn": "2024-05-04T14:00:00.000Z",
+          "wordCount": 13422,
+          "title": "Falleni receives 2024 Nicholas J. Goirigolzarri Memorial Scholarship",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5577354a-0676-11ef-b02b-b7f784a9e625",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DAYS CREEK — These are the students who made honor roll during the third quarter of the 2023-24 school year at Days Creek Charter School.",
+          "link": "https://www.nrtoday.com/news/education/days-creek-charter-school-third-quarter-honor-roll/article_5577354a-0676-11ef-b02b-b7f784a9e625.html",
+          "publishedOn": "2024-05-04T14:00:00.000Z",
+          "wordCount": 13503,
+          "title": "Days Creek Charter School third quarter honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e64805c-0658-11ef-9761-7fbb621e749c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Douglas County Farm Bureau announced the recipients for the 28th year of scholarships. Each recipient will receive $1000 scholarship for the 2024-25 school year to further their higher education in a field of agriculture or forestry.",
+          "link": "https://www.nrtoday.com/briefs/douglas-county-farm-bureau-announces-six-scholarship-recipients/article_7e64805c-0658-11ef-9761-7fbb621e749c.html",
+          "publishedOn": "2024-05-04T14:00:00.000Z",
+          "wordCount": 13455,
+          "title": "Douglas County Farm Bureau announces six scholarship recipients",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/bffef6c2-08ac-11ef-8d00-8b89d4966731",
           "author": "GLORIA COLEMAN The News-Review",
