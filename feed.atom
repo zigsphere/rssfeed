@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-04T23:10:12.204Z</updated>
+    <updated>2024-05-05T02:23:40.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -194,6 +194,26 @@
         <summary type="html"><![CDATA[Candidate for re-election, incumbent Sheriff John Hanlin talks about his bid for re-election and the work of the sheriff:]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survey training planned]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d503924a-0982-11ef-bcdd-b76147567d97</id>
+        <link href="https://www.nrtoday.com/briefs/survey-training-planned/article_d503924a-0982-11ef-bcdd-b76147567d97.html"/>
+        <updated>2024-05-03T19:24:00.000Z</updated>
+        <summary type="html"><![CDATA[OREGON — Oregon Department of Fish and Wildlife and Oregon Department of Forestry are offering perennial stream survey certification training starting mid-May. The department's Private Forest Accord Stream Biologists will conduct several training session in various locations.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project grant funds are available through Umpqua Fishery Enhancement Derby]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9a3e9f78-097e-11ef-8851-5bdb7cde779a</id>
+        <link href="https://www.nrtoday.com/briefs/project-grant-funds-are-available-through-umpqua-fishery-enhancement-derby/article_9a3e9f78-097e-11ef-8851-5bdb7cde779a.html"/>
+        <updated>2024-05-03T18:54:00.000Z</updated>
+        <summary type="html"><![CDATA[UMPQUA BASIN — The 2024 Umpqua Fishery Enhancement Derby Steering Committee announced they have grant funds available for fishery enhancement projects in the Umpqua River Basin.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -764,36 +784,6 @@
         <summary type="html"><![CDATA[CANYONVILLE — Harmony Active Living residents won’t have to leave their homes for a shower or toilet that flushes, as their $48,000 overdue water bill was paid Tuesday.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just one more rock to see at the gem show this weekend]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/84d77cda-0669-11ef-9611-aff3103d5c80</id>
-        <link href="https://www.nrtoday.com/news/environment/just-one-more-rock-to-see-at-the-gem-show-this-weekend/article_84d77cda-0669-11ef-9611-aff3103d5c80.html"/>
-        <updated>2024-05-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From pebbles to boulders and everything in between, this free weekend show will rock them all.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local woman celebrates her 104th birthday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c984a754-0664-11ef-9088-df2dda499d04</id>
-        <link href="https://www.nrtoday.com/news/local-woman-celebrates-her-104th-birthday/article_c984a754-0664-11ef-9088-df2dda499d04.html"/>
-        <updated>2024-05-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The year 1920 was a catalyst, kicking-off the decade referred to as the “roaring twenties” and a year that historian and author Eric Burns argues influenced every aspect of life today.]]></summary>
-        <author>
-            <name>BRITTANY ARNOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faith, family help Roseburg man survive cancer]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/200f151a-0718-11ef-a89f-1b009e0f2f42</id>
-        <link href="https://www.nrtoday.com/news/health/faith-family-help-roseburg-man-survive-cancer/article_200f151a-0718-11ef-a89f-1b009e0f2f42.html"/>
-        <updated>2024-05-01T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Justin Ballenger has been through a lot the past three years having to deal with COVID-19 twice and then finding out he had a form of cancer, but he’s relied on his faith and his family to help him maneuver…]]></summary>
-        <author>
-            <name>DAN BAIN For The News-Review</name>
         </author>
     </entry>
 </feed>
