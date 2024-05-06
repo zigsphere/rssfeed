@@ -699,7 +699,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news172049",
+          "author": null,
+          "description": "The annual training required for journalists to gain unescorted access natural disaster scenes is now available. The free, one-hour online training course is provided by the Oregon Department of Forestry. Training credentials need to be renewed every year by completing the training. \nNew for this year: Training credentials will be generated automatically after passing the quiz at the end of the course and available immediately. Journalists are encouraged to print two copies of their credentials—one to display in their vehicle and another to keep in their wallet—and to save an electronic copy to their phone or computer, just in case.\nHouse Bill 4087 (2022) granted journalists access to certain natural disaster scenes even if a public safety organization escort is unavailable. The bill’s access provisions apply specifically to natural disaster scenes on non-federal public lands that are also closed to the public due to the disaster. The HB 4087 guidelines created by a joint committee of public safety and media representatives provide additional important information including personal protective equipment requirements and circumstances when access may be denied.\nFor more information about HB 4087 and media access to natural disasters in Oregon, check out these resources from the Safe Media Access to Disaster Sites Committee and the Oregon Chapter of the Society of Professional Journalists. \nIf you have problems accessing the training or questions about media access, contact Joy Krawczyk, ODF’s Public Affairs Director, at joy.p.krawczyk@odf.oregon.gov or April Ehrlich with OPB at aehrlich@opb.org.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news172049",
+          "publishedOn": "2024-05-06T15:30:29.000Z",
+          "wordCount": 3824,
+          "title": "Media Advisory Only: 2024 media access to natural disasters training now available",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
