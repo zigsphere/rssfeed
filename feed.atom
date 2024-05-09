@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-08T23:11:38.781Z</updated>
+    <updated>2024-05-09T02:25:35.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UCC end of year concert June 11]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6e0ca324-0806-11ef-959d-a37395c28af0</id>
+        <link href="https://www.nrtoday.com/a_and_e/ucc-end-of-year-concert-june-11/article_6e0ca324-0806-11ef-959d-a37395c28af0.html"/>
+        <updated>2024-05-08T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Community College Performing and Visual Arts present CODA — the Umpqua Singers and Big Horn Jazz Band Year-end concert — at 7 p.m. June 11 in Centerstage Theatre at the Whipple Fine Arts Center on the UCC campus.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[State Forests Advisory Committee hosts tour May 16, meets May 17 in Forest Grove]]></title>
         <id>https://www.flashalert.net/news.html?id=1072#news172130</id>
