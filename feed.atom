@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-10T23:10:38.455Z</updated>
+    <updated>2024-05-11T02:20:36.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -193,6 +193,16 @@ The ceremony, which will be held on Tuesday, May 14, 2024, at 9:00 am, is open t
         <summary type="html"><![CDATA[May 10, 2024 2:50 a.m.   In the KQEN Cultural Spotlight: Artists have until May 15th at 12:00 a.m.to apply for the 55th annual Summer Arts Festival presented by Umpqua Valley Arts. Staff are ecstatic over the response of interested art vendors who have already applied, but there is room for more. The Summer Arts...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geneva Academy essay contest winners]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/71fcd94a-0e91-11ef-b407-5fe55cf5e346</id>
+        <link href="https://www.nrtoday.com/briefs/geneva-academy-essay-contest-winners/article_71fcd94a-0e91-11ef-b407-5fe55cf5e346.html"/>
+        <updated>2024-05-10T05:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Geneva Academy students competed in a few different essay competitions that are open to all students from public to private to homeschooled. The competitions begin locally, then are entered into county and state competitions.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -938,36 +948,6 @@ At the J.E. Schroeder Seed Orchard, geneticist Don Kaczmarek uses traditional br
         <summary type="html"><![CDATA[RIDDLE — Douglas County Sheriff’s Office Sgt. Dan Schwenn, Sheriff John Hanlin and Undersheriff Jeff Frieze answered Riddle City Council’s questions regarding its contract Monday.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Gardeners hold Plant Expo]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/921a1b4c-0bf4-11ef-ad0f-37e76bdc0208</id>
-        <link href="https://www.nrtoday.com/news/environment/master-gardeners-hold-plant-expo/article_921a1b4c-0bf4-11ef-ad0f-37e76bdc0208.html"/>
-        <updated>2024-05-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Plants, flowers and everything you may need for a garden was available at the Douglas County Master Gardeners’ 37th annual Plant Expo on Saturday in the exhibit hall at the Douglas County Fairgrounds.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movies in the Park returns in June]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e2b035c0-0bcf-11ef-bc9e-9746dd158677</id>
-        <link href="https://www.nrtoday.com/a_and_e/movies-in-the-park-returns-in-june/article_e2b035c0-0bcf-11ef-bc9e-9746dd158677.html"/>
-        <updated>2024-05-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Movies in the Park returns in June to the Nichols Band Shell in Stewart Park.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY TO SEE RAPID RAMP UP IN TEMPERATURES]]></title>
-        <id>https://kqennewsradio.com/?p=118460</id>
-        <link href="https://kqennewsradio.com/2024/05/07/umpqua-valley-to-see-rapid-ramp-up-in-temperatures/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-to-see-rapid-ramp-up-in-temperatures"/>
-        <updated>2024-05-07T11:12:06.000Z</updated>
-        <summary type="html"><![CDATA[May 7, 2024 4:10 a.m. The Umpqua Valley will see a rapid ramp up in high temperatures later this week, with near record high conditions possible by Saturday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that high pressure will begin increasing Wednesday and is expected to peak on...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

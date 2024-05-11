@@ -659,16 +659,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240507151141/IMG_4480.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118460",
-          "author": "Kyle Bailey",
-          "description": "May 7, 2024 4:10 a.m. The Umpqua Valley will see a rapid ramp up in high temperatures later this week, with near record high conditions possible by Saturday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that high pressure will begin increasing Wednesday and is expected to peak on...",
-          "link": "https://kqennewsradio.com/2024/05/07/umpqua-valley-to-see-rapid-ramp-up-in-temperatures/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-valley-to-see-rapid-ramp-up-in-temperatures",
-          "publishedOn": "2024-05-07T11:12:06.000Z",
-          "wordCount": 1684,
-          "title": "UMPQUA VALLEY TO SEE RAPID RAMP UP IN TEMPERATURES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -697,6 +687,16 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/73/77398bf8-0e67-11ef-b628-c782f7968797/663d6f9d9ec7b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/71fcd94a-0e91-11ef-b407-5fe55cf5e346",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Geneva Academy students competed in a few different essay competitions that are open to all students from public to private to homeschooled. The competitions begin locally, then are entered into county and state competitions.",
+          "link": "https://www.nrtoday.com/briefs/geneva-academy-essay-contest-winners/article_71fcd94a-0e91-11ef-b407-5fe55cf5e346.html",
+          "publishedOn": "2024-05-10T05:52:00.000Z",
+          "wordCount": 13544,
+          "title": "Geneva Academy essay contest winners",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9029ab94-0e25-11ef-b961-5b711e781a8f",
@@ -991,31 +991,6 @@
           "publishedOn": "2024-05-07T14:45:00.000Z",
           "wordCount": 13765,
           "title": "Riddle City Councils asks DCSO about contract",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/921a1b4c-0bf4-11ef-ad0f-37e76bdc0208",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Plants, flowers and everything you may need for a garden was available at the Douglas County Master Gardeners’ 37th annual Plant Expo on Saturday in the exhibit hall at the Douglas County Fairgrounds.",
-          "link": "https://www.nrtoday.com/news/environment/master-gardeners-hold-plant-expo/article_921a1b4c-0bf4-11ef-ad0f-37e76bdc0208.html",
-          "publishedOn": "2024-05-07T14:00:00.000Z",
-          "wordCount": 14003,
-          "title": "Master Gardeners hold Plant Expo",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/f4/3f401f56-0bf5-11ef-bf88-ab36f9d7cd18/663954fec2c99.image.jpg?resize=300%2C200",
-            "length": "375566",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/f4/3f401f56-0bf5-11ef-bf88-ab36f9d7cd18/663954fec2c99.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b035c0-0bcf-11ef-bc9e-9746dd158677",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — Movies in the Park returns in June to the Nichols Band Shell in Stewart Park.",
-          "link": "https://www.nrtoday.com/a_and_e/movies-in-the-park-returns-in-june/article_e2b035c0-0bcf-11ef-bc9e-9746dd158677.html",
-          "publishedOn": "2024-05-07T14:00:00.000Z",
-          "wordCount": 13395,
-          "title": "Movies in the Park returns in June",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
