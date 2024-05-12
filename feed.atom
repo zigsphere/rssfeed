@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-12T13:09:54.835Z</updated>
+    <updated>2024-05-12T16:12:11.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Museum to open seven days a week]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d10e6c16-0f16-11ef-bd3f-b3faf0cc0291</id>
+        <link href="https://www.nrtoday.com/briefs/douglas-county-museum-to-open-seven-days-a-week/article_d10e6c16-0f16-11ef-bd3f-b3faf0cc0291.html"/>
+        <updated>2024-05-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Douglas County Museum will be open 10 a.m. to 5 p.m. seven days a week beginning Monday.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volunteer Open House at The FISH of Roseburg, mural unveiling]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f9f8fce8-0e55-11ef-9bdd-57ec265877ad</id>
+        <link href="https://www.nrtoday.com/briefs/volunteer-open-house-at-the-fish-of-roseburg-mural-unveiling/article_f9f8fce8-0e55-11ef-9bdd-57ec265877ad.html"/>
+        <updated>2024-05-12T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The FISH of Roseburg's is hosting an open house at noon Thursday at 405 Jerry's Drive in Roseburg.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG TIES RECORD HIGH ON SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=118655</id>
