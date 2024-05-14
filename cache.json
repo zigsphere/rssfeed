@@ -299,6 +299,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cfa12c48-0f01-11ef-a719-af496f76905c",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "May is Wildfire Awareness Month and the Oregon State Fire Marshal is encouraging all Oregonians to get prepared for the upcoming wildfire season.",
+          "link": "https://www.nrtoday.com/briefs/create-defensible-space-for-wildfire-awareness-month/article_cfa12c48-0f01-11ef-a719-af496f76905c.html",
+          "publishedOn": "2024-05-14T13:30:00.000Z",
+          "wordCount": 13497,
+          "title": "Create defensible space for Wildfire Awareness Month",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6defe766-116b-11ef-9351-5f89111d1c90",
           "author": "SANNE GODFREY The News-Review",
           "description": "Roseburg VA Health Care System is hosting the 14th annual National VA2K Walk & Roll and Health Fair this Wednesday.",
@@ -482,21 +492,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/5b/45b24b70-0d62-11ef-8b60-4b78c738ba87/663bb967dd6c1.image.jpg?resize=300%2C197"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/490c46c2-0e43-11ef-ac52-734ffca1f4ea",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "Wood shop students from Roseburg High School gave a helping hand to special education students from Eastwood Elementary School as they crafted wooden gifts for Mother's Day.",
-          "link": "https://www.nrtoday.com/news/elementary-students-make-mothers-day-gifts-at-rhs-woodshop/article_490c46c2-0e43-11ef-ac52-734ffca1f4ea.html",
-          "publishedOn": "2024-05-10T15:00:00.000Z",
-          "wordCount": 14512,
-          "title": "Elementary students make Mother's Day gifts at RHS woodshop",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/73/77398bf8-0e67-11ef-b628-c782f7968797/663d6f9d9ec7b.image.jpg?resize=300%2C200",
-            "length": "313765",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/73/77398bf8-0e67-11ef-b628-c782f7968797/663d6f9d9ec7b.image.jpg?resize=300%2C200"
         }
       ]
     },
