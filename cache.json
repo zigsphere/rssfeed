@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118761",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2024/05/14/true-wealth-5-13-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-5-13-24",
+          "publishedOn": "2024-05-15T00:14:35.000Z",
+          "wordCount": 1538,
+          "title": "TRUE WEALTH 5.13.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240514231232/TRUE-WEALTH-5-14-2024.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118756",
           "author": "Kyle Bailey",
           "description": "May 14, 2024 1:45 p.m. On Tuesday, Governor Tina Kotek ordered flags at Oregon public institutions to be flown at half-staff pursuant to a Presidential Proclamation in honor of Peace Officers Memorial Day. The flag should be flown at half-staff until sunset on Wednesday. Kotek said, “Our law enforcement public safety professionals are confronted head...",
@@ -363,36 +378,6 @@
           "publishedOn": "2024-05-12T12:50:04.000Z",
           "wordCount": 1600,
           "title": "ROSEBURG TIES RECORD HIGH ON SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118651",
-          "author": "Kyle Bailey",
-          "description": "May 11, 2024 6:30 a.m.  Saving Grace Pet Adoption Center has its Empty the Shelter event happening through Wednesday. Thanks to Bissell Pet Foundation, all adoption fees have been reduced to $50 or less. Saving Grace is one of 410 shelters in 43 states that are participating in this national effort. As of Friday, community...",
-          "link": "https://kqennewsradio.com/2024/05/11/saving-grace-empty-the-shelters-event-happening-through-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=saving-grace-empty-the-shelters-event-happening-through-wednesday",
-          "publishedOn": "2024-05-11T13:27:53.000Z",
-          "wordCount": 1568,
-          "title": "SAVING GRACE EMPTY THE SHELTERS EVENT HAPPENING THROUGH WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203038/sg.jpg-e1671621260916.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118649",
-          "author": "Kyle Bailey",
-          "description": "May 11, 2024 6:20 a.m.  Presidential Primary ballots are coming in slowly in Douglas County. County Clerk Daniel Loomis said 8.05 percent, or 7,207 ballots have come in as of late Friday. That lags 3.89 percent behind the participation rate for the same point in the 2020 Primary Election. Loomis said registered voters who have...",
-          "link": "https://kqennewsradio.com/2024/05/11/local-presidential-primary-election-ballots-coming-in-slowly/?utm_source=rss&utm_medium=rss&utm_campaign=local-presidential-primary-election-ballots-coming-in-slowly",
-          "publishedOn": "2024-05-11T13:23:33.000Z",
-          "wordCount": 1586,
-          "title": "LOCAL PRESIDENTIAL PRIMARY ELECTION BALLOTS COMING IN SLOWLY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118647",
-          "author": "Kyle Bailey",
-          "description": "May 11, 2024 6:00 a.m. Saturday should see another day of near record high temperatures in the Umpqua Valley. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 that the mercury is slated to reach near 90 degrees in Roseburg on Saturday. The record high for May 11th is 91 degrees,...",
-          "link": "https://kqennewsradio.com/2024/05/11/another-near-record-high-expected-for-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=another-near-record-high-expected-for-saturday",
-          "publishedOn": "2024-05-11T13:10:25.000Z",
-          "wordCount": 1615,
-          "title": "ANOTHER NEAR RECORD HIGH EXPECTED FOR SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
