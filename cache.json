@@ -709,16 +709,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240513151609/IMG_4503.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118677",
-          "author": "Kyle Bailey",
-          "description": "May 13, 2024 4:10 a.m.    Winston Police jailed a man for sex crimes and assault charges on Saturday. A WPD report said the agency initiated an investigation into an alleged domestic assault case on Friday. Saturday afternoon at 3:30 p.m. 25-year-old Oscar Valenzuela was taken into custody. It was reported that Valenzuela had assaulted,...",
-          "link": "https://kqennewsradio.com/2024/05/13/winston-police-jail-man-for-sex-crimes-assault-charges/?utm_source=rss&utm_medium=rss&utm_campaign=winston-police-jail-man-for-sex-crimes-assault-charges",
-          "publishedOn": "2024-05-13T11:14:45.000Z",
-          "wordCount": 1573,
-          "title": "WINSTON POLICE JAIL MAN FOR SEX CRIMES/ASSAULT CHARGES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
         }
       ]
     },
@@ -997,21 +987,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ee/6ee4a14e-0fcb-11ef-919c-834cb3a0777c/663fc4d47bf60.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ccabf70a-0fcb-11ef-a207-6bd6428540b0",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "OAKLAND — The cars stretched for blocks alongside Northeast Locust Street in Oakland on Saturday, as the city hosted its annual Show n' Shine event for car lovers from across Southern Oregon.",
-          "link": "https://www.nrtoday.com/news/car-lovers-come-to-oakland-for-annual-show-n-shine/article_ccabf70a-0fcb-11ef-a207-6bd6428540b0.html",
-          "publishedOn": "2024-05-13T14:00:00.000Z",
-          "wordCount": 14386,
-          "title": "Car lovers come to Oakland for annual Show n' Shine",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/1d/51de33d4-0fcc-11ef-9739-ebf14834b95f/663fc6514b686.image.jpg?resize=300%2C200",
-            "length": "463508",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/1d/51de33d4-0fcc-11ef-9739-ebf14834b95f/663fc6514b686.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1019,7 +994,38 @@
       "title": "Douglas Co. Fire Dist. No.2",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news172377",
+          "author": null,
+          "description": "BOARD REGULAR MEETING NOTICE\nThe Board of Directors of Winston-Dillard Fire District No. 5 will hold its Regular Board meeting at WDFD Fire Station at 250 SE Main St., Winston, OR on Monday, May 20, 2024 at 5:30 p.m. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-679-8721 during normal business hours prior to 4:00 p.m. on Monday, May 20, 2024, for instructions.\nThe Board agenda to include but not limited to:\n   1. Monthly Financial Report     \n        \nThe meeting location is accessible to person with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to Winston-Dillard Fire District No. 5 at 541-679-8721",
+          "link": "https://www.flashalert.net/news.html?id=6158#news172377",
+          "publishedOn": "2024-05-16T23:57:03.000Z",
+          "wordCount": 922,
+          "title": "Public Notice - Winston-Dillard Fire District No. 5 Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news172376",
+          "author": null,
+          "description": "BOARD REGULAR MEETING NOTICE     \nThe Board of Directors of Douglas County Fire District No. 2 will hold its Regular Board meeting at the Winston Dillard Fire Station located at 250 SE Main St. Winston, OR 97496 on Monday May 20th, 2024, at 5:30 pm. To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday May 20, 2024, for instructions. \nThe Board agenda to include but not limited to:                    \n\nMonthly Financials\nAnnexation Request\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to DCFD #2 at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news172376",
+          "publishedOn": "2024-05-16T23:55:37.000Z",
+          "wordCount": 922,
+          "title": "Public Notice - Douglas County Fire District No. 2 Regular Board Meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news172375",
+          "author": null,
+          "description": "CENTRAL DOUGLAS FIRE & RESCUE AUTHORITY REGULAR BOARD MEETING NOTICE\nThe Board of Directors of Central Douglas Fire & Rescue Authority will hold its Regular Board meeting at Winston Dillard Fire District located at 250 SE Main St. Winston, OR 97496 on Monday May 20, 2024, at 5:30 p.m. A supplemental budget adjustment will be considered at this meeting.  To comply with House Bill 2560, those that wish to participate can attend through videoconferencing or telephonically. If you plan on attending the meeting, please call the business office at 541-673-5503 during normal business hours prior to 4:00 p.m. on Monday May 20, 2024, for instructions.\nThe Board agenda to include but not limited to:                 \n\nMonthly Financials\nFY24 Supplemental Budget Adjustment – HEARING\nResolution 2024-07: FY24 Supplemental Budget Adjustment\nBoard Policies – 1st Reading\nAmbulance Rate Setting\n\n \nThe meeting location is accessible to persons with disabilities. A request for an interpreter for the hearing impaired or for other accommodations for persons with disabilities should be made at least 48 hours before the meeting to administration at 541-673-5503.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news172375",
+          "publishedOn": "2024-05-16T23:53:42.000Z",
+          "wordCount": 922,
+          "title": "Public Notice - Central Douglas Fire & Rescue Authority Regular Board Meeting",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
