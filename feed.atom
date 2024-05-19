@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-18T23:09:53.303Z</updated>
+    <updated>2024-05-19T02:26:25.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Shy Brewing wins silver at Oregon Beer Awards]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/11609760-1482-11ef-9308-4b817118b441</id>
+        <link href="https://www.nrtoday.com/business/two-shy-brewing-wins-silver-at-oregon-beer-awards/article_11609760-1482-11ef-9308-4b817118b441.html"/>
+        <updated>2024-05-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Two Shy Brewing is getting an extra amount of warm hugs during American Craft Beer Week, concluding Sunday. With 1,088 entries and 124 breweries represented, Roseburg's Two Shy Brewing recently took home a silver medal at the 2024 Oregon Beer…]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOCATED: Have You Seen Floyd Riach?]]></title>
         <id>https://www.flashalert.net/news.html?id=5204#news172422</id>
@@ -123,6 +133,16 @@ Search and Rescue crews are currently searching along the freeway for any signs 
         <summary type="html"><![CDATA[An orphaned baby hummingbird rescued outside Roseburg City Hall last week has been nursed back to health and was released back into the wild Wednesday.]]></summary>
         <author>
             <name>SUZANNE HURT For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bergin College is bringing its school to Canyonville]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/adaed12a-12d6-11ef-81e1-3f6568b5ca71</id>
+        <link href="https://www.nrtoday.com/news/bergin-college-is-bringing-its-school-to-canyonville/article_adaed12a-12d6-11ef-81e1-3f6568b5ca71.html"/>
+        <updated>2024-05-18T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — Fetch yourself a degree, and maybe learn a few tricks in the process.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -966,26 +986,6 @@ The 13-member committee researches policies that affect family forests, natural 
         <summary type="html"><![CDATA[REEDSPORT — Reedsport Police Chief John L. Carter is ready for some quiet at his workplace. The sounds of jackhammers are far from soothing, as is cramming three people into one office space.]]></summary>
         <author>
             <name>HANNAH SEIBOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple trophies go to Douglas County schools in OSAA band championships]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f76ad3f2-1215-11ef-9474-cf729e3c7d18</id>
-        <link href="https://www.nrtoday.com/news/education/multiple-trophies-go-to-douglas-county-schools-in-osaa-band-championships/article_f76ad3f2-1215-11ef-9474-cf729e3c7d18.html"/>
-        <updated>2024-05-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CORVALLIS — Douglas County was in the top finishers at the 2024 Band and Orchestra State Championships, held Wednesday through Saturday at Oregon State University’s LaSells Stewart Center.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon Wine Month: Abacela's Earl Jones releases memoir]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/b86d87c6-114d-11ef-9021-171c71320e52</id>
-        <link href="https://www.nrtoday.com/business/oregon-wine-month-abacelas-earl-jones-releases-memoir/article_b86d87c6-114d-11ef-9021-171c71320e52.html"/>
-        <updated>2024-05-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Abacela founder, Earl Jones, hasn’t slowed down since retiring from his 29-year-old family-owned winery where his son, Greg Jones, is now CEO. Earl Jones recently published his autobiography, “If I’d Known I Couldn’t, I Wouldn’t: Against All Odds.”]]></summary>
-        <author>
-            <name>BRITTANY ARNOLD The News-Review</name>
         </author>
     </entry>
 </feed>

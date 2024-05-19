@@ -584,6 +584,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/11609760-1482-11ef-9308-4b817118b441",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "Two Shy Brewing is getting an extra amount of warm hugs during American Craft Beer Week, concluding Sunday. With 1,088 entries and 124 breweries represented, Roseburg's Two Shy Brewing recently took home a silver medal at the 2024 Oregon Beer…",
+          "link": "https://www.nrtoday.com/business/two-shy-brewing-wins-silver-at-oregon-beer-awards/article_11609760-1482-11ef-9308-4b817118b441.html",
+          "publishedOn": "2024-05-18T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Two Shy Brewing wins silver at Oregon Beer Awards",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ffcb1888-1268-11ef-b5bf-d392e392e47c",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "WINCHESTER — Students in a science field have the opportunity to qualify for up to $45,000 in scholarships by attending Umpqua Community College and the University of Oregon.",
@@ -652,6 +662,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c0/7c064380-13a6-11ef-beed-87423227e185/66463cd3c59c1.image.jpg?resize=300%2C219"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/adaed12a-12d6-11ef-81e1-3f6568b5ca71",
+          "author": "HANNAH SEIBOLD The News-Review",
+          "description": "CANYONVILLE — Fetch yourself a degree, and maybe learn a few tricks in the process.",
+          "link": "https://www.nrtoday.com/news/bergin-college-is-bringing-its-school-to-canyonville/article_adaed12a-12d6-11ef-81e1-3f6568b5ca71.html",
+          "publishedOn": "2024-05-18T13:45:00.000Z",
+          "wordCount": 13948,
+          "title": "Bergin College is bringing its school to Canyonville",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d4/fd4b82f2-13c4-11ef-bcb1-2307be8acd2c/6646702c10f9f.image.jpg?resize=300%2C200",
+            "length": "271436",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d4/fd4b82f2-13c4-11ef-bcb1-2307be8acd2c/6646702c10f9f.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/adaed12a-12d6-11ef-81e1-3f6568b5ca71",
@@ -977,36 +1002,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/d4/ed46a412-1217-11ef-ac79-735933176b15/6643a028977cd.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f76ad3f2-1215-11ef-9474-cf729e3c7d18",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "CORVALLIS — Douglas County was in the top finishers at the 2024 Band and Orchestra State Championships, held Wednesday through Saturday at Oregon State University’s LaSells Stewart Center.",
-          "link": "https://www.nrtoday.com/news/education/multiple-trophies-go-to-douglas-county-schools-in-osaa-band-championships/article_f76ad3f2-1215-11ef-9474-cf729e3c7d18.html",
-          "publishedOn": "2024-05-15T14:00:00.000Z",
-          "wordCount": 14061,
-          "title": "Multiple trophies go to Douglas County schools in OSAA band championships",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/9d/c9da2314-121c-11ef-801e-e354dcb7f1fa/6643a850a349a.image.jpg?resize=300%2C225",
-            "length": "254411",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/9d/c9da2314-121c-11ef-801e-e354dcb7f1fa/6643a850a349a.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b86d87c6-114d-11ef-9021-171c71320e52",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "Abacela founder, Earl Jones, hasn’t slowed down since retiring from his 29-year-old family-owned winery where his son, Greg Jones, is now CEO. Earl Jones recently published his autobiography, “If I’d Known I Couldn’t, I Wouldn’t: Against All Odds.”",
-          "link": "https://www.nrtoday.com/business/oregon-wine-month-abacelas-earl-jones-releases-memoir/article_b86d87c6-114d-11ef-9021-171c71320e52.html",
-          "publishedOn": "2024-05-15T13:45:00.000Z",
-          "wordCount": 14354,
-          "title": "Oregon Wine Month: Abacela's Earl Jones releases memoir",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d6/6d6825e6-1167-11ef-95d1-33a43c8da8fd/6642784eb6d8f.image.jpg?resize=300%2C388",
-            "length": "182312",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d6/6d6825e6-1167-11ef-95d1-33a43c8da8fd/6642784eb6d8f.image.jpg?resize=300%2C388"
         }
       ]
     },
