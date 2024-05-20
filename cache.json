@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=118965",
+          "author": "Kyle Bailey",
+          "description": "Wildlife Safari Executive Director Dan Van Slyke and Public Relations Manager Taylor Holeman give an update on all the things happening at the game park in Winston:",
+          "link": "https://kqennewsradio.com/2024/05/20/inside-douglas-county-5-20-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-5-20-24",
+          "publishedOn": "2024-05-20T20:21:00.000Z",
+          "wordCount": 1557,
+          "title": "INSIDE DOUGLAS COUNTY 5.20.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240520191703/IDC-5-20-24.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240520192043/IMG_4536.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=118962",
           "author": "Kyle Bailey",
           "description": "May 20, 2024 10:45 a.m. Roseburg Police cited seven people for prohibited camping in contacts that took place between Friday afternoon and early Monday morning. An RPD report said people were found in the 100 block of Southeast Templin Avenue, in the 500 block of Northeast Stephens Street, in the 200 block of Southeast Stephens...",
@@ -314,66 +329,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240506151653/IMG_4477.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118881",
-          "author": "Kyle Bailey",
-          "description": "May 17, 2024 4:00 a.m.  Thursday afternoon the Roseburg School District announced that long time school board member, Rev. Howard Johnson passed away this week. An email to district staff from Superintendent Jared Cordon said Johnson had served on the board since 2015. Johnson submitted his resignation in April, and it was formally accepted May...",
-          "link": "https://kqennewsradio.com/2024/05/17/rev-howard-johnson-has-passed-away/?utm_source=rss&utm_medium=rss&utm_campaign=rev-howard-johnson-has-passed-away",
-          "publishedOn": "2024-05-17T11:00:29.000Z",
-          "wordCount": 1760,
-          "title": "REV. HOWARD JOHNSON HAS PASSED AWAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240517095937/howard1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118879",
-          "author": "Kyle Bailey",
-          "description": "May 17, 2024 3:40 a.m. 15.40 percent, or 13,780 of Douglas County ballots have been received for the May Presidential Primary Election, as of late Thursday. County Clerk Daniel Loomis said that lags 8.24 percent behind the participation rate for the same point in the 2020 Primary Election. Loomis reminds voters: *Friday is four days...",
-          "link": "https://kqennewsradio.com/2024/05/17/just-over-15-percent-of-ballots-have-been-recieved-for-primary-election/?utm_source=rss&utm_medium=rss&utm_campaign=just-over-15-percent-of-ballots-have-been-recieved-for-primary-election",
-          "publishedOn": "2024-05-17T10:30:08.000Z",
-          "wordCount": 1615,
-          "title": "JUST OVER 15 PERCENT OF BALLOTS HAVE BEEN RECIEVED FOR PRIMARY ELECTION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118877",
-          "author": "Kyle Bailey",
-          "description": "May 17, 2024 3:25 a.m.  Senator Ron Wyden has announced that he will hold four in-person town halls in southern Oregon later this month. A release said heading into these events, Wyden will have held 1,081 town halls throughout Oregon – including 16 so far this year – in fulfillment of his pledge to hold...",
-          "link": "https://kqennewsradio.com/2024/05/17/wyden-announces-four-town-halls-in-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-announces-four-town-halls-in-southern-oregon",
-          "publishedOn": "2024-05-17T10:14:11.000Z",
-          "wordCount": 1651,
-          "title": "WYDEN ANNOUNCES FOUR TOWN HALLS IN SOUTHERN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118872",
-          "author": "Kyle Bailey",
-          "description": "May 17, 2024 3:15 a.m. The City of Sutherlin’s Splash Pad is now open for the season. A City release said it is located in Central Park on West Central Avenue. The array of play equipment is designed to provide a safe, cool, and colorful place to escape the heat of the day with tree...",
-          "link": "https://kqennewsradio.com/2024/05/17/sutherlin-splash-pad-now-open-for-the-season/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-splash-pad-now-open-for-the-season",
-          "publishedOn": "2024-05-17T10:11:32.000Z",
-          "wordCount": 1567,
-          "title": "SUTHERLIN SPLASH PAD NOW OPEN FOR THE SEASON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240517090946/splash2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118870",
-          "author": "Kyle Bailey",
-          "description": "May 18, 2024 3:05 a.m. Friends of Umpqua Valley Police K9 Programs is presenting Police K9s Unleashed on Sunday. The event begins at 2:00 p.m. at the Douglas County Fairgrounds. It will feature multi-agency teams, demonstrations, pursuits, obstacles, stuffed K9 plushies and more. New special-edition t-shirts and sweatshirts will be on sale. Food and drink...",
-          "link": "https://kqennewsradio.com/2024/05/17/police-k9s-unleashed-happening-sunday-2/?utm_source=rss&utm_medium=rss&utm_campaign=police-k9s-unleashed-happening-sunday-2",
-          "publishedOn": "2024-05-17T10:06:17.000Z",
-          "wordCount": 1552,
-          "title": "POLICE K9’S UNLEASHED HAPPENING SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212243/K9S-e1645469455944.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118868",
-          "author": "Kyle Bailey",
-          "description": "May 17, 2024 2:50 a.m. A Riddle man was charged Wednesday by Roseburg Police for an alleged prior theft incident. An RPD report said a 37-year-old was developed as a suspect in a trailer theft from the United Community Action Network on April 12th. The suspect was contacted at 5:45 p.m. and interviewed while he...",
-          "link": "https://kqennewsradio.com/2024/05/17/riddle-man-charged-for-alleged-prior-theft-incident/?utm_source=rss&utm_medium=rss&utm_campaign=riddle-man-charged-for-alleged-prior-theft-incident",
-          "publishedOn": "2024-05-17T09:56:13.000Z",
-          "wordCount": 1571,
-          "title": "RIDDLE MAN CHARGED FOR ALLEGED PRIOR THEFT INCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
