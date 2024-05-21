@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-20T23:11:07.054Z</updated>
+    <updated>2024-05-21T02:24:18.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -94,6 +94,26 @@
         <summary type="html"><![CDATA[Glide Revitalization Executive Director Jeana Beam talks about July’s Sasquatch Festival and the need for volunteers:]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Club News: Hike scheduled for May 25]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/86c136ac-13a8-11ef-93f0-1b03ea4e4111</id>
+        <link href="https://www.nrtoday.com/news/guest_submission/club-news-hike-scheduled-for-may-25/article_86c136ac-13a8-11ef-93f0-1b03ea4e4111.html"/>
+        <updated>2024-05-20T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Friends of the Umpqua Hiking Club will be hiking the Sterling Mine Ditch Trail on May 25.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UVYO spring concert at UCC]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ac1b81a4-16b5-11ef-8809-2355b9ffa620</id>
+        <link href="https://www.nrtoday.com/a_and_e/uvyo-spring-concert-at-ucc/article_ac1b81a4-16b5-11ef-8809-2355b9ffa620.html"/>
+        <updated>2024-05-20T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — Umpqua Valley Youth Orchestra's spring concert is at 7 p.m. Tuesday at Jacoby Auditorium at Umpqua Community College.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -468,6 +488,16 @@ ODF estimates up to 75 percent of trees in the area were burned or partially bur
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Splash pad open for the season]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a3b2be62-146f-11ef-ab83-0f24cc3e6b39</id>
+        <link href="https://www.nrtoday.com/news/local/splash-pad-open-for-the-season/article_a3b2be62-146f-11ef-ab83-0f24cc3e6b39.html"/>
+        <updated>2024-05-17T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — The city of Sutherlin’s Splash Pad is open for the season.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SENATE DESIGNATES MAY 18 AS “KIDS TO PARKS DAY”]]></title>
         <id>https://kqennewsradio.com/?p=118898</id>
         <link href="https://kqennewsradio.com/2024/05/17/senate-designates-may-18-as-kids-to-parks-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senate-designates-may-18-as-kids-to-parks-day"/>
@@ -545,26 +575,6 @@ ODF estimates up to 75 percent of trees in the area were burned or partially bur
         <summary type="html"><![CDATA[A lawsuit against a Roseburg physician who allegedly botched a procedure that cost a woman her life is headed to trial early next month.]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask a Master Gardener: The benefits of companion planting]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e861da2e-1146-11ef-b8a2-23b3e122d75f</id>
-        <link href="https://www.nrtoday.com/news/environment/ask-a-master-gardener-the-benefits-of-companion-planting/article_e861da2e-1146-11ef-b8a2-23b3e122d75f.html"/>
-        <updated>2024-05-17T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Question: I’ve heard there are a lot of benefits to companion planting, however, I’m not sure what that really means or where to begin?]]></summary>
-        <author>
-            <name>Mackenzi Hall Master Gardener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon employment rises in April]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/951b2c7e-13aa-11ef-9773-1bd474685053</id>
-        <link href="https://www.nrtoday.com/news/local/oregon-employment-rises-in-april/article_951b2c7e-13aa-11ef-9773-1bd474685053.html"/>
-        <updated>2024-05-17T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[In April, Oregon’s seasonally adjusted nonfarm payroll employment rose by 4,900 jobs, following a revised gain of 2,600 jobs in March.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>

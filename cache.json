@@ -344,6 +344,26 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/86c136ac-13a8-11ef-93f0-1b03ea4e4111",
+          "author": null,
+          "description": "The Friends of the Umpqua Hiking Club will be hiking the Sterling Mine Ditch Trail on May 25.",
+          "link": "https://www.nrtoday.com/news/guest_submission/club-news-hike-scheduled-for-may-25/article_86c136ac-13a8-11ef-93f0-1b03ea4e4111.html",
+          "publishedOn": "2024-05-20T14:45:00.000Z",
+          "wordCount": 13207,
+          "title": "Club News: Hike scheduled for May 25",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ac1b81a4-16b5-11ef-8809-2355b9ffa620",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER — Umpqua Valley Youth Orchestra's spring concert is at 7 p.m. Tuesday at Jacoby Auditorium at Umpqua Community College.",
+          "link": "https://www.nrtoday.com/a_and_e/uvyo-spring-concert-at-ucc/article_ac1b81a4-16b5-11ef-8809-2355b9ffa620.html",
+          "publishedOn": "2024-05-20T14:31:00.000Z",
+          "wordCount": 13268,
+          "title": "UVYO spring concert at UCC",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/501a8a90-156f-11ef-aa75-43cee6d3cc0b",
           "author": "SANNE GODFREY The News-Review",
           "description": "WINCHESTER — Lt. Brad O'Dell of the Douglas County Sheriff's Office is the guest speaker at Thursday's breakfast for the Douglas Timber Operators.",
@@ -554,6 +574,16 @@
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
         },
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a3b2be62-146f-11ef-ab83-0f24cc3e6b39",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — The city of Sutherlin’s Splash Pad is open for the season.",
+          "link": "https://www.nrtoday.com/news/local/splash-pad-open-for-the-season/article_a3b2be62-146f-11ef-ab83-0f24cc3e6b39.html",
+          "publishedOn": "2024-05-17T17:05:00.000Z",
+          "wordCount": 13268,
+          "title": "Splash pad open for the season",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9d5c8122-13b8-11ef-a785-ab3b60e8c2ff",
           "author": "Scott Carroll The News-Review",
           "description": "SUTHERLIN — The tents are coming out and A-frame dwellings are going in at Hastings Village, the city-run homeless encampment in Sutherlin.",
@@ -627,31 +657,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/e3/ae3c8dcc-0ccc-11ef-bf7c-2b4af147e0e8/62d1fd324ad88.image.jpg?resize=300%2C386"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e861da2e-1146-11ef-b8a2-23b3e122d75f",
-          "author": "Mackenzi Hall Master Gardener",
-          "description": "Question: I’ve heard there are a lot of benefits to companion planting, however, I’m not sure what that really means or where to begin?",
-          "link": "https://www.nrtoday.com/news/environment/ask-a-master-gardener-the-benefits-of-companion-planting/article_e861da2e-1146-11ef-b8a2-23b3e122d75f.html",
-          "publishedOn": "2024-05-17T13:45:00.000Z",
-          "wordCount": 14088,
-          "title": "Ask a Master Gardener: The benefits of companion planting",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/86/286169c8-1147-11ef-b431-a3ac1fd14f50/664241e6eb2d0.image.jpg?resize=300%2C199",
-            "length": "254599",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/86/286169c8-1147-11ef-b431-a3ac1fd14f50/664241e6eb2d0.image.jpg?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/951b2c7e-13aa-11ef-9773-1bd474685053",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "In April, Oregon’s seasonally adjusted nonfarm payroll employment rose by 4,900 jobs, following a revised gain of 2,600 jobs in March.",
-          "link": "https://www.nrtoday.com/news/local/oregon-employment-rises-in-april/article_951b2c7e-13aa-11ef-9773-1bd474685053.html",
-          "publishedOn": "2024-05-17T04:15:00.000Z",
-          "wordCount": 13538,
-          "title": "Oregon employment rises in April",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
