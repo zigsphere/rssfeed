@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-21T23:11:40.272Z</updated>
+    <updated>2024-05-22T02:25:13.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 5.21.24]]></title>
+        <id>https://kqennewsradio.com/?p=119020</id>
+        <link href="https://kqennewsradio.com/2024/05/21/true-wealth-5-21-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-5-21-24"/>
+        <updated>2024-05-22T00:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umpqua Shuffle Fun Run and Walk this Saturday]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/20144c32-16fa-11ef-a766-17315ce87b3d</id>
@@ -632,16 +642,6 @@ Search and Rescue crews are currently searching along the freeway for any signs 
         <summary type="html"><![CDATA[Roseburg Public Library’s Summer Reading Program for adults is back with more opportunities to read for fun and prizes.]]></summary>
         <author>
             <name>KRIS WILEY For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LESS THAN 18 PERCENT OF BALLOTS RECEIVED FOR MAY PRIMARY ELECTION]]></title>
-        <id>https://kqennewsradio.com/?p=118918</id>
-        <link href="https://kqennewsradio.com/2024/05/18/less-than-18-percent-of-ballots-received-for-may-primary-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=less-than-18-percent-of-ballots-received-for-may-primary-election"/>
-        <updated>2024-05-18T13:21:39.000Z</updated>
-        <summary type="html"><![CDATA[May 18, 2024 6:20 a.m.  17.65 percent or 15,579 of Douglas County ballots have been received for the May Presidential Primary Election, as of late Friday. County Clerk Daniel Loomis said that lags 9.25 percent behind the participation rate for the same point in the 2020 Primary Election. Loomis said as of Saturday, it is...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

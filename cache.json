@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119020",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2024/05/21/true-wealth-5-21-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-5-21-24",
+          "publishedOn": "2024-05-22T00:09:17.000Z",
+          "wordCount": 1538,
+          "title": "TRUE WEALTH 5.21.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240521230802/TRUE-WEALTH-5-21-2024.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119012",
           "author": "Kyle Bailey",
           "description": "Music on the Half Shell committee member, Kelly Leonard talks about the 2024 season of the summer concert series, which is in its 32nd year:",
@@ -384,16 +399,6 @@
           "wordCount": 1552,
           "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED CRIMINAL TRESPASS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=118918",
-          "author": "Kyle Bailey",
-          "description": "May 18, 2024 6:20 a.m.  17.65 percent or 15,579 of Douglas County ballots have been received for the May Presidential Primary Election, as of late Friday. County Clerk Daniel Loomis said that lags 9.25 percent behind the participation rate for the same point in the 2020 Primary Election. Loomis said as of Saturday, it is...",
-          "link": "https://kqennewsradio.com/2024/05/18/less-than-18-percent-of-ballots-received-for-may-primary-election/?utm_source=rss&utm_medium=rss&utm_campaign=less-than-18-percent-of-ballots-received-for-may-primary-election",
-          "publishedOn": "2024-05-18T13:21:39.000Z",
-          "wordCount": 1630,
-          "title": "LESS THAN 18 PERCENT OF BALLOTS RECEIVED FOR MAY PRIMARY ELECTION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
         }
       ]
     },
