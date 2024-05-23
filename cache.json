@@ -544,6 +544,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c842fc86-1877-11ef-a26e-dbaf0289231c",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "ROSEBURG — The Roseburg Community Development Department is now accepting spring 2024 tourism grant applications.",
+          "link": "https://www.nrtoday.com/briefs/roseurgs-spring-tourism-grant-cycle-opens/article_c842fc86-1877-11ef-a26e-dbaf0289231c.html",
+          "publishedOn": "2024-05-22T20:13:00.000Z",
+          "wordCount": 13312,
+          "title": "Roseurg's spring tourism grant cycle opens",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6b7ab49e-1863-11ef-ae80-ebb4e73b5fa0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — The 28th annual Riverbend Live! series will feature an extended six weeks of free entertainment for the Winston area.",
+          "link": "https://www.nrtoday.com/a_and_e/riverbend-live-announces-lineup-for-2024-summer-series/article_6b7ab49e-1863-11ef-ae80-ebb4e73b5fa0.html",
+          "publishedOn": "2024-05-22T20:00:00.000Z",
+          "wordCount": 13998,
+          "title": "Riverbend Live! announces lineup for 2024 summer series",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e7/be7a65ae-1863-11ef-ae07-3fe3756dc5af/664e3056cac8a.image.png?resize=300%2C174",
+            "length": "140570",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e7/be7a65ae-1863-11ef-ae07-3fe3756dc5af/664e3056cac8a.image.png?resize=300%2C174"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8614928a-1853-11ef-a477-536d06a1fa3c",
           "author": "SANNE GODFREY The News-Review",
           "description": "ROSEBURG — A 36-year-old man ran from Roseburg police as he was being arrested. The man was tased, fell to the ground and was taken into custody.",
@@ -716,16 +741,6 @@
           "publishedOn": "2024-05-20T14:31:00.000Z",
           "wordCount": 13268,
           "title": "UVYO spring concert at UCC",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/501a8a90-156f-11ef-aa75-43cee6d3cc0b",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "WINCHESTER — Lt. Brad O'Dell of the Douglas County Sheriff's Office is the guest speaker at Thursday's breakfast for the Douglas Timber Operators.",
-          "link": "https://www.nrtoday.com/news/local/dto-breakfast-meeting-thursday/article_501a8a90-156f-11ef-aa75-43cee6d3cc0b.html",
-          "publishedOn": "2024-05-19T13:00:00.000Z",
-          "wordCount": 13242,
-          "title": "DTO breakfast meeting Thursday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
