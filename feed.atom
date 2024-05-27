@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-27T16:12:45.155Z</updated>
+    <updated>2024-05-27T19:09:22.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revitalized towns throughout Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/081b1480-f602-11ee-874c-9b64eb3e52f9</id>
+        <link href="https://www.nrtoday.com/specialsections/revitalized-towns-throughout-douglas-county/article_081b1480-f602-11ee-874c-9b64eb3e52f9.html"/>
+        <updated>2024-05-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes cities need a little revitalization to boost them back to life.]]></summary>
+        <author>
+            <name>HANNAH SEIBOLD &gt; The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BLM ANNOUNCES FIRE RESTRICTIONS FOR PACIFIC NORTHWEST COMMUNITIES]]></title>
         <id>https://kqennewsradio.com/?p=119205</id>
@@ -24,6 +34,36 @@
         <summary type="html"><![CDATA[May 27, 2024 7:20 a.m. A Roseburg man was jailed on drug charges and other counts after an alleged elude incident on Thursday. A Douglas County Sheriff’s Office report said just after 11:45 a.m. a sedan passed a deputy on Highway 99 in Dillard. The deputy observed a traffic violation and when he pulled out...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life in the slow lane]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0c3f9dda-f20e-11ee-a3af-53be00737f91</id>
+        <link href="https://www.nrtoday.com/specialsections/life-in-the-slow-lane/article_0c3f9dda-f20e-11ee-a3af-53be00737f91.html"/>
+        <updated>2024-05-27T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County is known for its outdoor recreation and adrenaline-inducing activities.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring new activities in Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/64c159a0-f2d9-11ee-93fd-ff53d67e7e71</id>
+        <link href="https://www.nrtoday.com/specialsections/exploring-new-activities-in-douglas-county/article_64c159a0-f2d9-11ee-93fd-ff53d67e7e71.html"/>
+        <updated>2024-05-27T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escape the rush of daily life: cozy staycations in Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8b5d1242-019e-11ef-a48b-6fd74e2b2eed</id>
+        <link href="https://www.nrtoday.com/family/escape-the-rush-of-daily-life-cozy-staycations-in-douglas-county/article_8b5d1242-019e-11ef-a48b-6fd74e2b2eed.html"/>
+        <updated>2024-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let the promise of peaceful respite beckon you to unwind and reconnect with a rejuvenating staycation right here in beautiful Douglas County.]]></summary>
+        <author>
+            <name>Kellie Trenkle For The News-Review</name>
         </author>
     </entry>
     <entry>

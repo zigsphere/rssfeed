@@ -284,6 +284,66 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/081b1480-f602-11ee-874c-9b64eb3e52f9",
+          "author": "HANNAH SEIBOLD > The News-Review",
+          "description": "Sometimes cities need a little revitalization to boost them back to life.",
+          "link": "https://www.nrtoday.com/specialsections/revitalized-towns-throughout-douglas-county/article_081b1480-f602-11ee-874c-9b64eb3e52f9.html",
+          "publishedOn": "2024-05-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Revitalized towns throughout Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/40/3404db44-00f2-11ef-ad7a-6fc985007124/6448212969d78.image.jpg?resize=300%2C200",
+            "length": "383459",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/40/3404db44-00f2-11ef-ad7a-6fc985007124/6448212969d78.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0c3f9dda-f20e-11ee-a3af-53be00737f91",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Douglas County is known for its outdoor recreation and adrenaline-inducing activities.",
+          "link": "https://www.nrtoday.com/specialsections/life-in-the-slow-lane/article_0c3f9dda-f20e-11ee-a3af-53be00737f91.html",
+          "publishedOn": "2024-05-27T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Life in the slow lane",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/60/b6099cca-f750-11ee-b046-bf4c69166238/64aa1f130434d.image.jpg?resize=300%2C200",
+            "length": "450169",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/60/b6099cca-f750-11ee-b046-bf4c69166238/64aa1f130434d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/64c159a0-f2d9-11ee-93fd-ff53d67e7e71",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Roseburg",
+          "link": "https://www.nrtoday.com/specialsections/exploring-new-activities-in-douglas-county/article_64c159a0-f2d9-11ee-93fd-ff53d67e7e71.html",
+          "publishedOn": "2024-05-27T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Exploring new activities in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/9c/79c5e01a-fc1f-11ee-807a-63da54d42666/661ec3e53c396.image.jpg?resize=300%2C200",
+            "length": "494029",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/9c/79c5e01a-fc1f-11ee-807a-63da54d42666/661ec3e53c396.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8b5d1242-019e-11ef-a48b-6fd74e2b2eed",
+          "author": "Kellie Trenkle For The News-Review",
+          "description": "Let the promise of peaceful respite beckon you to unwind and reconnect with a rejuvenating staycation right here in beautiful Douglas County.",
+          "link": "https://www.nrtoday.com/family/escape-the-rush-of-daily-life-cozy-staycations-in-douglas-county/article_8b5d1242-019e-11ef-a48b-6fd74e2b2eed.html",
+          "publishedOn": "2024-05-27T13:30:00.000Z",
+          "wordCount": 16171,
+          "title": "Escape the rush of daily life: cozy staycations in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d0/cd0d7dd4-8fbc-11ee-ad32-3bab1bf4ac6a/6568ecb330780.image.jpg?resize=300%2C225",
+            "length": "614571",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d0/cd0d7dd4-8fbc-11ee-ad32-3bab1bf4ac6a/6568ecb330780.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/eb5721bc-f20b-11ee-8786-6fd12ff14dc5",
           "author": "WILL GESCHKE The News-Review",
           "description": "Douglas County is chock-full of family fun year-round, from concerts to animals to parades and beyond.",
