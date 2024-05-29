@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119265",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2024/05/28/true-wealth-5-28-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-5-28-24",
+          "publishedOn": "2024-05-29T00:19:17.000Z",
+          "wordCount": 1537,
+          "title": "TRUE WEALTH 5.28.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240528231834/TWR52824.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119261",
           "author": "Kyle Bailey",
           "description": "An update on the FISH Food Pantry with Executive Director Jenn Reida and Board President Nis Jesson:",
@@ -234,26 +249,6 @@
           "wordCount": 1770,
           "title": "MEMORIAL DAY CEREMONIES HAPPENING MONDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210847/flag3-e1653908064858.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=119188",
-          "author": "Kyle Bailey",
-          "description": "May 25, 2024 5:00 a.m Roseburg Police cited a man for DUII early Friday. An RPD report said at 12:30 a.m. officers contacted the 22-year-old at the corner of Northwest Garden Valley Boulevard and Northwest Goetz Street for a traffic violation. The officers noticed that the driver was intoxicated. He agreed to perform standard field...",
-          "link": "https://kqennewsradio.com/2024/05/25/roseburg-police-cite-man-for-duii-early-friday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-man-for-duii-early-friday",
-          "publishedOn": "2024-05-25T11:58:38.000Z",
-          "wordCount": 1571,
-          "title": "ROSEBURG POLICE CITE MAN FOR DUII EARLY FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=119186",
-          "author": "Kyle Bailey",
-          "description": "May 25, 2024 4:50 a.m. Roseburg Police cited four people for littering incidents on Thursday. An RPD report said at 1:00 p.m. A 56-year-old man and a 46-year-old man were contacted in the 200 block of Southeast Pine Street. The men were reportedly sleeping in a heap of trash near the South Umpqua River. Both...",
-          "link": "https://kqennewsradio.com/2024/05/25/roseburg-police-cite-four-people-for-littering-incidents-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-four-people-for-littering-incidents-thursday",
-          "publishedOn": "2024-05-25T11:56:09.000Z",
-          "wordCount": 1637,
-          "title": "ROSEBURG POLICE CITE FOUR PEOPLE FOR LITTERING INCIDENTS THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
         }
       ]
     },
@@ -582,116 +577,6 @@
           "wordCount": 13235,
           "title": "Klopfenstein awarded Jim & Char Loomis Memorial Scholarship",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/68bfc81a-1891-11ef-aff7-930ad9aa9cc6",
-          "author": "Aurora Ropp Library News",
-          "description": "At Roseburg Public Library, I do not present public children’s programs in May to give myself time to finish planning and preparing for the Summer Reading Program.",
-          "link": "https://www.nrtoday.com/news/guest_submission/summer-reading-program-for-children-teens/article_68bfc81a-1891-11ef-aff7-930ad9aa9cc6.html",
-          "publishedOn": "2024-05-25T14:15:00.000Z",
-          "wordCount": 14210,
-          "title": "Summer Reading Program for children, teens",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265",
-            "length": "348689",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d218394c-16ba-11ef-a156-0747d886aa1f",
-          "author": null,
-          "description": "Mercy Medical Center, Roseburg",
-          "link": "https://www.nrtoday.com/news/local/births/article_d218394c-16ba-11ef-a156-0747d886aa1f.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13153,
-          "title": "Births",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6873e2c6-1885-11ef-b286-3fe5782d9f8b",
-          "author": "HEATHER VILLA For The News-Review",
-          "description": "Summer vacation is a time for relaxation and fun. It’s also the perfect opportunity for children and young adults to explore new interests and reinforce essential skills. Learning during the summer months helps students retain knowledge gained during the school…",
-          "link": "https://www.nrtoday.com/news/education/get-to-know-douglas-esd-summer-learning-adventures/article_6873e2c6-1885-11ef-b286-3fe5782d9f8b.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13712,
-          "title": "Get to know Douglas ESD: Summer learning adventures",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/04/e04ca238-1885-11ef-aaf0-ebd508d5e637/664e699a7320c.image.png?resize=300%2C233",
-            "length": "3072454",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/04/e04ca238-1885-11ef-aaf0-ebd508d5e637/664e699a7320c.image.png?resize=300%2C233"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b8971df2-185f-11ef-b560-1b3403100357",
-          "author": "DORIS KOBERNIK For The News-Review",
-          "description": "A flagpole dedication ceremony was held at 11 a.m. May 18 at Roseburg Elks Lodge No. 326 at 749 SE Jackson St.",
-          "link": "https://www.nrtoday.com/news/guest_submission/club-news-roseburg-elks-dedicate-flagpole-honor-donors/article_b8971df2-185f-11ef-b560-1b3403100357.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13476,
-          "title": "Club News: Roseburg Elks dedicate flagpole, honor donors",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2e/22eaa570-1860-11ef-9872-9bbb93636d76/664e2a4956989.image.jpg?resize=300%2C400",
-            "length": "491184",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2e/22eaa570-1860-11ef-9872-9bbb93636d76/664e2a4956989.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a2737a42-185b-11ef-8a92-8755810af597",
-          "author": "KATIE BAXTER For The News-Review",
-          "description": "When was the last time that you had the pleasure of giving back to your community? When I volunteer my time, I go home at night with such gratitude for the opportunity to give back. It is one of the…",
-          "link": "https://www.nrtoday.com/news/education/extension-spotlight-4-h-volunteer-opportunities/article_a2737a42-185b-11ef-8a92-8755810af597.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13756,
-          "title": "Extension Spotlight: 4-H volunteer opportunities",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/da/3da455e0-185c-11ef-a6cb-03e63c25873d/664e23c0315bf.image.jpg?resize=300%2C332",
-            "length": "61714",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/da/3da455e0-185c-11ef-a6cb-03e63c25873d/664e23c0315bf.image.jpg?resize=300%2C332"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/425deb94-193f-11ef-8634-430482163cb6",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Douglas County’s payroll employment decreased by a seasonally adjusted 140 jobs in April after a gain of 100 in March and a loss of 20 in February.",
-          "link": "https://www.nrtoday.com/business/county-payroll-decreases-by-140-jobs/article_425deb94-193f-11ef-8634-430482163cb6.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13457,
-          "title": "County payroll decreases by 140 jobs",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/933e67a6-1943-11ef-a806-37947d68f6b4",
-          "author": "HAILEY HOLGATE For The News-Review",
-          "description": "Sutherlin has been hard at work competing in several different state level competitions in the past two weeks, and even a national level one.",
-          "link": "https://www.nrtoday.com/news/education/sutherlin-ffa-state-level-grind-national-level-shine/article_933e67a6-1943-11ef-a806-37947d68f6b4.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 14237,
-          "title": "Sutherlin FFA: State-level grind, national-level shine",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/d2/bd228002-1943-11ef-b4dd-8f6f48372969/664fa823cf6b1.image.jpg?resize=300%2C169",
-            "length": "614463",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/d2/bd228002-1943-11ef-b4dd-8f6f48372969/664fa823cf6b1.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/93440166-192a-11ef-a95c-3f05216a580d",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "McClendon’s Old Fashioned Meats was one of 14 state grant recipients to expand meat processing in Oregon.",
-          "link": "https://www.nrtoday.com/business/mcclendons-receives-state-grant/article_93440166-192a-11ef-a95c-3f05216a580d.html",
-          "publishedOn": "2024-05-25T14:00:00.000Z",
-          "wordCount": 13588,
-          "title": "McClendon's receives state grant",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/cc/6cc4d1a4-192b-11ef-9fdf-371a44497c89/65fa442736b6c.image.jpg?resize=300%2C200",
-            "length": "275161",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/cc/6cc4d1a4-192b-11ef-9fdf-371a44497c89/65fa442736b6c.image.jpg?resize=300%2C200"
         }
       ]
     },
