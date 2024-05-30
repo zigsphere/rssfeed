@@ -419,6 +419,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1f97fa36-1e04-11ef-b267-2f59ec8ca215",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "MYRTLE CREEK — Detectives with the Douglas Interagency Narcotics Team, known as DINT, arrested 52-year-old Randall Lee Slay, of Myrtle Creek, on multiple drug related charges Tuesday.",
+          "link": "https://www.nrtoday.com/news/crime/dint-arrests-repeat-drug-offender-in-myrtle-creek/article_1f97fa36-1e04-11ef-b267-2f59ec8ca215.html",
+          "publishedOn": "2024-05-29T21:40:00.000Z",
+          "wordCount": 13568,
+          "title": "DINT arrests repeat drug offender in Myrtle Creek",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/78/87810ae0-1e07-11ef-8bcd-8baee77e1995/6463a068d9429.image.jpg?resize=300%2C400",
+            "length": "569807",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/78/87810ae0-1e07-11ef-8bcd-8baee77e1995/6463a068d9429.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f7f3d280-193e-11ef-8d0a-e35458b5b506",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Umpqua Actors Community Theatre has Dr. Jekyll and Mr. Hyde on stage to conclude the 2023-2024 season.",
+          "link": "https://www.nrtoday.com/a_and_e/dr-jekyll-and-mr-hyde-end-uact-season/article_f7f3d280-193e-11ef-8d0a-e35458b5b506.html",
+          "publishedOn": "2024-05-29T19:59:00.000Z",
+          "wordCount": 13284,
+          "title": "Dr. Jekyll and Mr. Hyde end UACT season",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f59e3168-1df0-11ef-8e42-3b82d43abd4a",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "MYRTLE CREEK — Music in the Park announced its 2024 concert lineup. The series brings free concerts to the Myrtle Creek community beginning July 11. Performances start at 6 p.m. Thursdays at Millsite Park, 441 SE Fourth Ave., Myrtle Creek.",
+          "link": "https://www.nrtoday.com/a_and_e/music-in-the-park-announces-2024-lineup/article_f59e3168-1df0-11ef-8e42-3b82d43abd4a.html",
+          "publishedOn": "2024-05-29T19:30:00.000Z",
+          "wordCount": 13255,
+          "title": "Music in the Park announces 2024 lineup",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a22b3ffa-185d-11ef-9d98-b3ceea11aebd",
           "author": "SCOTT MENDELSON For The News-Review",
           "description": "In 1964 Norman Cousins, the well-known editor of the Saturday Review, was hospitalized with a painful autoimmune disease. He suffered high fever, severe pain and near-paralysis. Mainstream medicine offered little hope of improvement, so he took matters into his own…",
@@ -722,16 +757,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/7c/67c1b500-153e-11ef-b574-bbec2c60defc/6648e93476d29.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b4e65156-18ae-11ef-acd5-eb8fbb46b21d",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SUTHERLIN — The Three Rivers Foundation awarded $1.4 million in funding to 100 organizations in six counties in Oregon.",
-          "link": "https://www.nrtoday.com/news/local/multiple-organizations-receive-funding-from-the-three-rivers-foundation/article_b4e65156-18ae-11ef-acd5-eb8fbb46b21d.html",
-          "publishedOn": "2024-05-26T14:00:00.000Z",
-          "wordCount": 13592,
-          "title": "Multiple organizations receive funding from the Three Rivers Foundation",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },

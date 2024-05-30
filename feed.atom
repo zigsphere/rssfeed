@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-05-29T23:10:58.307Z</updated>
+    <updated>2024-05-30T02:27:11.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[May 30, 2024 3:20 p.m.  Roseburg Police cited a woman on the charge of second-degree disorderly conduct, following an incident on Tuesday. An RPD report said at 12:25 p.m. the 66-year-old wanted to speak to police, so she intentionally pulled the fire alarm to gather attention. This took place at Evergreen Family Medicine in the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DINT arrests repeat drug offender in Myrtle Creek]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1f97fa36-1e04-11ef-b267-2f59ec8ca215</id>
+        <link href="https://www.nrtoday.com/news/crime/dint-arrests-repeat-drug-offender-in-myrtle-creek/article_1f97fa36-1e04-11ef-b267-2f59ec8ca215.html"/>
+        <updated>2024-05-29T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Detectives with the Douglas Interagency Narcotics Team, known as DINT, arrested 52-year-old Randall Lee Slay, of Myrtle Creek, on multiple drug related charges Tuesday.]]></summary>
+        <author>
+            <name>ERICA REYNOLDS The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +59,26 @@ Unlawful Manufacture of Methamphetamine
 In just the last two years, this is the third time Slay has been arrested by DINT.]]></summary>
         <author>
             <name>Douglas Interagency Narcotics Team (DINT)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr. Jekyll and Mr. Hyde end UACT season]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f7f3d280-193e-11ef-8d0a-e35458b5b506</id>
+        <link href="https://www.nrtoday.com/a_and_e/dr-jekyll-and-mr-hyde-end-uact-season/article_f7f3d280-193e-11ef-8d0a-e35458b5b506.html"/>
+        <updated>2024-05-29T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Actors Community Theatre has Dr. Jekyll and Mr. Hyde on stage to conclude the 2023-2024 season.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music in the Park announces 2024 lineup]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f59e3168-1df0-11ef-8e42-3b82d43abd4a</id>
+        <link href="https://www.nrtoday.com/a_and_e/music-in-the-park-announces-2024-lineup/article_f59e3168-1df0-11ef-8e42-3b82d43abd4a.html"/>
+        <updated>2024-05-29T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Music in the Park announced its 2024 concert lineup. The series brings free concerts to the Myrtle Creek community beginning July 11. Performances start at 6 p.m. Thursdays at Millsite Park, 441 SE Fourth Ave., Myrtle Creek.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -649,16 +679,6 @@ In just the last two years, this is the third time Slay has been arrested by DIN
         <summary type="html"><![CDATA[Ethan Balliew was running behind in school. As a visual learner, he had difficulties learning in a classroom setting.]]></summary>
         <author>
             <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple organizations receive funding from the Three Rivers Foundation]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/b4e65156-18ae-11ef-acd5-eb8fbb46b21d</id>
-        <link href="https://www.nrtoday.com/news/local/multiple-organizations-receive-funding-from-the-three-rivers-foundation/article_b4e65156-18ae-11ef-acd5-eb8fbb46b21d.html"/>
-        <updated>2024-05-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — The Three Rivers Foundation awarded $1.4 million in funding to 100 organizations in six counties in Oregon.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
