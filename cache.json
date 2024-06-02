@@ -394,6 +394,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3e44662e-1d3a-11ef-beed-8fc362ba7cb9",
+          "author": null,
+          "description": "NAMI Douglas County, the local chapter of the National Alliance on Mental Illness, will hold its monthly meeting 6-7:30 p.m. Monday at Vine Street Baptist Church, 2152 NE Vine St., Roseburg.",
+          "link": "https://www.nrtoday.com/life/national-alliance-on-mental-illness-meeting-monday/article_3e44662e-1d3a-11ef-beed-8fc362ba7cb9.html",
+          "publishedOn": "2024-06-02T15:00:00.000Z",
+          "wordCount": 13305,
+          "title": "National Alliance on Mental Illness meeting Monday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c480ff8e-1df0-11ef-86d1-7fc4dadb6408",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas County H.O.P.E. Drug Court Program is holding a Bridge the Gap Project to provide needed items to youth in the Adapt Deer Creek Adolescent Program.",
+          "link": "https://www.nrtoday.com/briefs/donations-requested-to-benefit-area-youth/article_c480ff8e-1df0-11ef-86d1-7fc4dadb6408.html",
+          "publishedOn": "2024-06-02T13:00:00.000Z",
+          "wordCount": 13406,
+          "title": "Donations requested to benefit area youth",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7187212e-2065-11ef-a80b-53172a8628c9",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Umpqua Community College and Douglas County Sheriff’s office are looking for federal funding to complete their projects. Help may soon be on the way.",
+          "link": "https://www.nrtoday.com/news/education/rep-hoyle-requests-funding-for-fourth-district/article_7187212e-2065-11ef-a80b-53172a8628c9.html",
+          "publishedOn": "2024-06-02T06:45:00.000Z",
+          "wordCount": 14022,
+          "title": "Rep. Hoyle requests funding for fourth district",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/15/c15aed56-206b-11ef-9745-d7757b359cdc/665ba9c0e53a7.image.jpg?resize=300%2C200",
+            "length": "621145",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/15/c15aed56-206b-11ef-9745-d7757b359cdc/665ba9c0e53a7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e7558e20-1ebe-11ef-900a-a33b8dd317f6",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER BAY — An orca made its way up the Umpqua River last weekend, likely to hunt.",
+          "link": "https://www.nrtoday.com/news/environment/killer-whale-spotted-in-the-umpqua-river/article_e7558e20-1ebe-11ef-900a-a33b8dd317f6.html",
+          "publishedOn": "2024-06-02T06:30:00.000Z",
+          "wordCount": 13826,
+          "title": "Killer whale spotted in the Umpqua River",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/cf/ccfac304-1ec5-11ef-bf93-733fc0928cbd/665c20984feb3.image.jpg?resize=300%2C169",
+            "length": "343461",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/cf/ccfac304-1ec5-11ef-bf93-733fc0928cbd/665c20984feb3.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3aa9a99e-205e-11ef-a965-9737b9c6830a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER BAY — Douglas County Parks Department closed the Windy Cove Crab and Fishing Dock on Feb. 1, and it will continue to be closed until the dock is repaired and deemed safe for use.",
+          "link": "https://www.nrtoday.com/news/environment/windy-cove-crab-and-fishing-dock-remains-closed-awaits-permits-for-repairs/article_3aa9a99e-205e-11ef-a965-9737b9c6830a.html",
+          "publishedOn": "2024-06-02T06:15:00.000Z",
+          "wordCount": 13964,
+          "title": "Windy Cove Crab and Fishing Dock remains closed, awaits permits for repairs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/66/76631660-2062-11ef-b08d-9729c146e24c/665b9a29a857f.image.jpg?resize=300%2C225",
+            "length": "346623",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/66/76631660-2062-11ef-b08d-9729c146e24c/665b9a29a857f.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ce98a8f2-205a-11ef-b4a8-bf090a7053cb",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "With loud cheers, whoops, air horn blasts and some tears, Roseburg students threw their black caps in the air and walked off Finley Field as graduates.",
@@ -757,41 +822,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/15/515ebf50-1e09-11ef-b138-1f10f984f652/6657a99c0cce0.image.jpg?resize=300%2C271"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1f97fa36-1e04-11ef-b267-2f59ec8ca215",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "MYRTLE CREEK — Detectives with the Douglas Interagency Narcotics Team, known as DINT, arrested 52-year-old Randall Lee Slay, of Myrtle Creek, on multiple drug related charges Tuesday.",
-          "link": "https://www.nrtoday.com/news/crime/dint-arrests-repeat-drug-offender-in-myrtle-creek/article_1f97fa36-1e04-11ef-b267-2f59ec8ca215.html",
-          "publishedOn": "2024-05-29T21:40:00.000Z",
-          "wordCount": 13568,
-          "title": "DINT arrests repeat drug offender in Myrtle Creek",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/78/87810ae0-1e07-11ef-8bcd-8baee77e1995/6463a068d9429.image.jpg?resize=300%2C400",
-            "length": "569807",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/78/87810ae0-1e07-11ef-8bcd-8baee77e1995/6463a068d9429.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f7f3d280-193e-11ef-8d0a-e35458b5b506",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Umpqua Actors Community Theatre has Dr. Jekyll and Mr. Hyde on stage to conclude the 2023-2024 season.",
-          "link": "https://www.nrtoday.com/a_and_e/dr-jekyll-and-mr-hyde-end-uact-season/article_f7f3d280-193e-11ef-8d0a-e35458b5b506.html",
-          "publishedOn": "2024-05-29T19:59:00.000Z",
-          "wordCount": 13284,
-          "title": "Dr. Jekyll and Mr. Hyde end UACT season",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f59e3168-1df0-11ef-8e42-3b82d43abd4a",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "MYRTLE CREEK — Music in the Park announced its 2024 concert lineup. The series brings free concerts to the Myrtle Creek community beginning July 11. Performances start at 6 p.m. Thursdays at Millsite Park, 441 SE Fourth Ave., Myrtle Creek.",
-          "link": "https://www.nrtoday.com/a_and_e/music-in-the-park-announces-2024-lineup/article_f59e3168-1df0-11ef-8e42-3b82d43abd4a.html",
-          "publishedOn": "2024-05-29T19:30:00.000Z",
-          "wordCount": 13255,
-          "title": "Music in the Park announces 2024 lineup",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
