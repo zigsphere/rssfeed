@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119471",
+          "author": "Kyle Bailey",
+          "description": "State Representative Court Boice talks about last week’s Legislative Days in Salem, and what is ahead for him this summer.",
+          "link": "https://kqennewsradio.com/2024/06/03/morning-conversation-6-3-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-3-24",
+          "publishedOn": "2024-06-03T16:07:22.000Z",
+          "wordCount": 1546,
+          "title": "MORNING CONVERSATION 6.3.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240603150551/amconv63.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119465",
           "author": "Kyle Bailey",
           "description": "June 3, 2024 3:50 a.m. The Umpqua Valley will see above average high temperatures beginning on Tuesday. Forecasters at the National Weather Service said 75 degrees is the average high temperature for Roseburg in early June. Tuesday and Wednesday’s highs are forecast to be a few degrees above normal, but by Thursday the mercury will...",
@@ -779,7 +794,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news172735",
+          "author": null,
+          "description": "SALEM, Ore. – The Oregon Department of Forestry (ODF) seeks to fund projects that improve urban and community forests in areas of Oregon that need it the most. ODF’s Urban and Community Forestry (UCF) Program received $26.6 million from the Inflation Reduction Act (IRA) through the United States Forest Service (USFS). Out of this, $10 million will be awarded to the nine Federally Recognized Tribes of Oregon, and $12.5 million will be available for all eligible entities in Oregon. This opportunity promotes equal access to the benefits of trees and aims to get more people involved in tree planting and comprehensive urban forest management.\n“This is going to be a game changer for Oregon,” said Scott Altenhoff, ODF’s UCF Program Manager. “This is the largest and most significant urban and comm…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news172735",
+          "publishedOn": "2024-06-03T15:52:48.000Z",
+          "wordCount": 8107,
+          "title": "Oregon Department of Forestry announces historic boost in funding to support equity in urban and community forestry",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
