@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-05T19:09:23.107Z</updated>
+    <updated>2024-06-05T23:11:55.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two hospitalized after a travel trailer fire in Riddle]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4a3de87a-237e-11ef-a4d3-63c0939e7150</id>
+        <link href="https://www.nrtoday.com/briefs/two-hospitalized-after-a-travel-trailer-fire-in-riddle/article_4a3de87a-237e-11ef-a4d3-63c0939e7150.html"/>
+        <updated>2024-06-05T20:57:00.000Z</updated>
+        <summary type="html"><![CDATA[RIDDLE — Just after 9:30 p.m. Tuesday, Riddle Fire Protection District crews were dispatched to the 300 block of East First Avenue after multiple callers said a trailer had exploded, a press release said. Firefighters arrived to find a fifth…]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.5.24]]></title>
+        <id>https://kqennewsradio.com/?p=119602</id>
+        <link href="https://kqennewsradio.com/2024/06/05/inside-douglas-county-6-5-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-5-24"/>
+        <updated>2024-06-05T20:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Riverbend Live! Board Vice-President Liz Jones talks about the summer lineup of concerts at the venue in Winston.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veteran town hall in Eugene]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f012c772-236d-11ef-93b4-87a36515cb9f</id>
+        <link href="https://www.nrtoday.com/news/local/veteran-town-hall-in-eugene/article_f012c772-236d-11ef-93b4-87a36515cb9f.html"/>
+        <updated>2024-06-05T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EUGENE — The Roseburg VA Health Care System is inviting veterans, family members and stakeholders to a veterans town hall at the Eugene VA Health Care Center.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movies in the Park returns to Stewart Park on Friday]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/f982e00c-235f-11ef-9040-8fc94e1ff6fc</id>

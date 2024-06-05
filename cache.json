@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119602",
+          "author": "Kyle Bailey",
+          "description": "Riverbend Live! Board Vice-President Liz Jones talks about the summer lineup of concerts at the venue in Winston.",
+          "link": "https://kqennewsradio.com/2024/06/05/inside-douglas-county-6-5-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-6-5-24",
+          "publishedOn": "2024-06-05T20:13:03.000Z",
+          "wordCount": 1549,
+          "title": "INSIDE DOUGLAS COUNTY 6.5.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240605190516/IDC6-5-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240605191254/IMG_4680.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119597",
           "author": "Kyle Bailey",
           "description": "June 5, 2024 11:05 a.m. Two people were hospitalized after a travel trailer fire in Riddle Tuesday night. Fire Chief Devin Loughridge of the Riddle Fire Protection District said just after 9:30 p.m. crews were dispatched to the 300 block of East First Avene after multiple callers said a trailer had exploded. Loughridge said firefighters...",
@@ -598,6 +613,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4a3de87a-237e-11ef-a4d3-63c0939e7150",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "RIDDLE — Just after 9:30 p.m. Tuesday, Riddle Fire Protection District crews were dispatched to the 300 block of East First Avenue after multiple callers said a trailer had exploded, a press release said. Firefighters arrived to find a fifth…",
+          "link": "https://www.nrtoday.com/briefs/two-hospitalized-after-a-travel-trailer-fire-in-riddle/article_4a3de87a-237e-11ef-a4d3-63c0939e7150.html",
+          "publishedOn": "2024-06-05T20:57:00.000Z",
+          "wordCount": 13475,
+          "title": "Two hospitalized after a travel trailer fire in Riddle",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f012c772-236d-11ef-93b4-87a36515cb9f",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "EUGENE — The Roseburg VA Health Care System is inviting veterans, family members and stakeholders to a veterans town hall at the Eugene VA Health Care Center.",
+          "link": "https://www.nrtoday.com/news/local/veteran-town-hall-in-eugene/article_f012c772-236d-11ef-93b4-87a36515cb9f.html",
+          "publishedOn": "2024-06-05T19:00:00.000Z",
+          "wordCount": 13390,
+          "title": "Veteran town hall in Eugene",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f982e00c-235f-11ef-9040-8fc94e1ff6fc",
           "author": "Kyle Bailey For The News-Review",
