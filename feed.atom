@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-07T23:12:16.790Z</updated>
+    <updated>2024-06-08T02:27:16.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek man dies after being struck by truck]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1dc68dd6-2529-11ef-b6a7-0f50c44a4b96</id>
+        <link href="https://www.nrtoday.com/news/local/myrtle-creek-man-dies-after-being-struck-by-truck/article_1dc68dd6-2529-11ef-b6a7-0f50c44a4b96.html"/>
+        <updated>2024-06-07T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — William Nailus Baird, of Myrtle Creek, was killed just before 10:30 p.m. Thursday when he was struck by a semitruck.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Man who killed hatchery smolts sentenced to 30 days]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5783f93c-2510-11ef-be60-eb88acf8b5b5</id>
@@ -856,36 +866,6 @@ So far this year, the district has experienced 16 fires, of which half were esca
         <summary type="html"><![CDATA[TRI CITY — Tri City Elementary School students will be able to hone into their five senses — touch, hearing, taste, sight and smell — as well as learn more about the world outside of their classroom, with the school’s…]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County projects receive $2.7 million in first Private Forest Accord grants]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2856abc8-21d7-11ef-be23-9f521f843949</id>
-        <link href="https://www.nrtoday.com/news/environment/douglas-county-projects-receive-2-7-million-in-first-private-forest-accord-grants/article_2856abc8-21d7-11ef-be23-9f521f843949.html"/>
-        <updated>2024-06-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Four conservation projects in Douglas County received a total of $2,737,175 to improve stream and wetland conditions for fish and wildlife.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoncalla to host town hall]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0c53fa72-1ece-11ef-86a3-07c7c046f4bb</id>
-        <link href="https://www.nrtoday.com/briefs/yoncalla-to-host-town-hall/article_0c53fa72-1ece-11ef-86a3-07c7c046f4bb.html"/>
-        <updated>2024-06-04T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[YONCALLA — Yoncalla city officials will host a town hall at 5:30 p.m. June 11 at Yoncalla City Hall, 2640 Eagle Valley Road, Yoncalla.]]></summary>
-        <author>
-            <name>ERICA REYNOLDS The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIVER LOSES CONTROL LEADING TO INJURY HEAD-ON FREEWAY CRASH]]></title>
-        <id>https://kqennewsradio.com/?p=119521</id>
-        <link href="https://kqennewsradio.com/2024/06/04/driver-loses-control-leading-to-injury-head-on-freeway-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-loses-control-leading-to-injury-head-on-freeway-crash"/>
-        <updated>2024-06-04T12:43:38.000Z</updated>
-        <summary type="html"><![CDATA[June 4, 2024 5:40 a.m. A driver lost control of his vehicle, leading to a head-on freeway crash on Sunday afternoon. An Oregon State Police report said just before 4:00 p.m. the accident took place while a pickup was merging onto Interstate Five southbound at the Sutherlin interchange. The vehicle spun around and consequently caused...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
