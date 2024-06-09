@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-09T16:11:39.351Z</updated>
+    <updated>2024-06-09T19:09:35.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bridge named to Nebraska Wesleyan honor list]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/03d2bcc8-229b-11ef-ba41-178643f7948f</id>
+        <link href="https://www.nrtoday.com/briefs/bridge-named-to-nebraska-wesleyan-honor-list/article_03d2bcc8-229b-11ef-ba41-178643f7948f.html"/>
+        <updated>2024-06-09T17:51:00.000Z</updated>
+        <summary type="html"><![CDATA[LINCOLN, Neb. — Aubree Bridge of Glide was named to the Nebraska Wesleyan University spring 2024 honors list.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin Food Service Program will begin June 18]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5cce7a3a-2460-11ef-88b9-53e96bc2c35a</id>
+        <link href="https://www.nrtoday.com/briefs/sutherlin-food-service-program-will-begin-june-18/article_5cce7a3a-2460-11ef-88b9-53e96bc2c35a.html"/>
+        <updated>2024-06-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Youth in Sutherlin and the surrounding areas will receive free breakfast and lunch through the summer from the Summer Food Service Program sponsored by the Sutherlin School District.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blocktober Fest event accepting vendors]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/2f4ad26c-244b-11ef-9fdc-af95bf6148a1</id>
