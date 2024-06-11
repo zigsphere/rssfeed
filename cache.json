@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119818",
+          "author": "Kyle Bailey",
+          "description": "Sutherlin School District Superintendent Terry Prestianni has a end-of-school-year look at the district:",
+          "link": "https://kqennewsradio.com/2024/06/11/inside-douglas-county-6-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-6-11-24",
+          "publishedOn": "2024-06-11T20:28:19.000Z",
+          "wordCount": 1545,
+          "title": "INSIDE DOUGLAS COUNTY 6.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240611192707/IDC-6-11-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727205050/terry-e1662062914969.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119813",
           "author": "Kyle Bailey",
           "description": "June 11, 2024 11:00 a.m. On Tuesday, Governor Tina Kotek issued a proclamation declaring the month of June 2024 as LGBTW+ Pride Month in Oregon. Kotek said, “Pride is about love, acceptance, and community. Great joy and great struggle have always existed side by side in the LGBTQ+ movement. Pride will always shine bigger than...",
@@ -717,7 +732,18 @@
       "title": "Roseburg Police Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
       "siteUrl": "https://www.flashalert.net/news.html?id=5489",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news172956",
+          "author": null,
+          "description": "On June 11, 2024 at approximately 8:40 AM, the Roseburg Police Department and emergency personnel responded to the report of a two-vehicle accident at the intersection of S.E. Pine Street and S.E. Oak Street in Roseburg, OR.\nPreliminary investigation indicated a 2019 Ford F-550, operated by Bowan Middlesworth (20) of Azalea, was traveling eastbound on S.E. Oak Street through a red light when a 2012 Toyota Prius, operated by Gene Manor (69) of Roseburg, struck the side of the F-550 near the rear axle.\nManor was declared deceased at the scene.  The passenger of the Toyota Prius, Christopher Ronan (57) of Roseburg, suffered a broken arm.  Neither occupant appeared to be wearing their seatbelts.\nThe operator of the F-550, Middlesworth, was not injured.\nTraffic at the intersection was impacted for approximately 3 hours during the on-scene investigation.  The cause of the crash is still under investigation.\nThe Roseburg Police Department was assisted by the Douglas County Sheriff’s Office Crash Reconstruction Team and Medical Examiner’s Office, the Roseburg Fire Department, Umpqua Valley Ambulance and the Oregon Department of Transportation.",
+          "link": "https://www.flashalert.net/news.html?id=5489#news172956",
+          "publishedOn": "2024-06-11T22:37:24.000Z",
+          "wordCount": 304,
+          "title": "Fatal Traffic Crash",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Fire Dept.",

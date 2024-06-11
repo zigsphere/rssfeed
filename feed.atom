@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-11T19:09:18.310Z</updated>
+    <updated>2024-06-11T23:10:32.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fatal Traffic Crash]]></title>
+        <id>https://www.flashalert.net/news.html?id=5489#news172956</id>
+        <link href="https://www.flashalert.net/news.html?id=5489#news172956"/>
+        <updated>2024-06-11T22:37:24.000Z</updated>
+        <summary type="html"><![CDATA[On June 11, 2024 at approximately 8:40 AM, the Roseburg Police Department and emergency personnel responded to the report of a two-vehicle accident at the intersection of S.E. Pine Street and S.E. Oak Street in Roseburg, OR.
+Preliminary investigation indicated a 2019 Ford F-550, operated by Bowan Middlesworth (20) of Azalea, was traveling eastbound on S.E. Oak Street through a red light when a 2012 Toyota Prius, operated by Gene Manor (69) of Roseburg, struck the side of the F-550 near the rear axle.
+Manor was declared deceased at the scene.  The passenger of the Toyota Prius, Christopher Ronan (57) of Roseburg, suffered a broken arm.  Neither occupant appeared to be wearing their seatbelts.
+The operator of the F-550, Middlesworth, was not injured.
+Traffic at the intersection was impacted for approximately 3 hours during the on-scene investigation.  The cause of the crash is still under investigation.
+The Roseburg Police Department was assisted by the Douglas County Sheriff’s Office Crash Reconstruction Team and Medical Examiner’s Office, the Roseburg Fire Department, Umpqua Valley Ambulance and the Oregon Department of Transportation.]]></summary>
+        <author>
+            <name>Roseburg Police Dept.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.11.24]]></title>
+        <id>https://kqennewsradio.com/?p=119818</id>
+        <link href="https://kqennewsradio.com/2024/06/11/inside-douglas-county-6-11-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-11-24"/>
+        <updated>2024-06-11T20:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Sutherlin School District Superintendent Terry Prestianni has a end-of-school-year look at the district:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR KOTEK PROCLAIMS LGBTQ+ PRIDE MONTH FOR JUNE]]></title>
         <id>https://kqennewsradio.com/?p=119813</id>
