@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119792",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Sheriff’s Office Lieutenant Brad O’Dell talked about Friday’s prescription drug take back event in south county and about the search for a missing Sutherlin man, as he joined us live from the search scene:",
+          "link": "https://kqennewsradio.com/2024/06/11/morning-conversation-6-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-11-24",
+          "publishedOn": "2024-06-11T16:10:26.000Z",
+          "wordCount": 1563,
+          "title": "MORNING CONVERSATION 6.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240611150804/amconv-6-11-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214346/ODell-B-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119785",
           "author": "Kyle Bailey",
           "description": "June 11, 2024 4:05 a.m. After several days of hot weather, afternoon temperatures are beginning to slowly cool down in the Umpqua Valley. Forecasters at the National Weather Service said the mercury reached 86 degrees at the Roseburg Regional Airport on Monday. That was well under the record high for June 10th, which was 95...",
@@ -329,6 +344,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/eadfd5ba-2809-11ef-b4c2-27278fac2b9b",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Around 4:30 a.m. Tuesday two commercial vehicles crashed at the intersection of Northeast Stephens Street and Northeast Diamond Lake Boulevard.",
+          "link": "https://www.nrtoday.com/news/local/commercial-vehicles-collide-near-downtown-roseburg/article_eadfd5ba-2809-11ef-b4c2-27278fac2b9b.html",
+          "publishedOn": "2024-06-11T15:47:00.000Z",
+          "wordCount": 13560,
+          "title": "Commercial vehicles collide near downtown Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/1b/91bf37d4-280c-11ef-861d-fb6a36b39b3d/666876082a7ae.image.jpg?resize=300%2C225",
+            "length": "233347",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/1b/91bf37d4-280c-11ef-861d-fb6a36b39b3d/666876082a7ae.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6cfab4c2-273b-11ef-9623-0b5fdcf96105",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — The Roseburg VA Medical Center was fined $4,400 in April for greenhouse gas, according to a press release from the Oregon Department of Environmental Quality.",
+          "link": "https://www.nrtoday.com/news/environment/deq-issues-11-penalties-including-to-roseburg-va-in-april/article_6cfab4c2-273b-11ef-9623-0b5fdcf96105.html",
+          "publishedOn": "2024-06-11T13:45:00.000Z",
+          "wordCount": 13318,
+          "title": "DEQ issues 11 penalties, including to Roseburg VA, in April",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dfcaade2-242d-11ef-b614-f7e51fd9367a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Taylor Moser will soon begin her third year of a four year online program through Chemeketa Community College while working a full-time electrician apprenticeship with Powerhouse Engineering Inc.",
+          "link": "https://www.nrtoday.com/news/education/youth-in-trades-receive-first-sutherlin-throwdown-scholarships/article_dfcaade2-242d-11ef-b614-f7e51fd9367a.html",
+          "publishedOn": "2024-06-11T13:45:00.000Z",
+          "wordCount": 13972,
+          "title": "Youth in Trades receive first Sutherlin Throwdown scholarships",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/67/967ae7ac-2431-11ef-9f01-cfdd1b5ba302/6661fe26ce270.image.jpg?resize=300%2C400",
+            "length": "295422",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/67/967ae7ac-2431-11ef-9f01-cfdd1b5ba302/6661fe26ce270.image.jpg?resize=300%2C400"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0d9d4772-2774-11ef-bb38-6b677fcb8d89",
           "author": "SANNE GODFREY The News-Review",
           "description": "Douglas County Sheriff's Office arrested a man Sunday for stealing money from the payment boxes in the Umpqua National Forest.",
@@ -547,56 +602,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/14/51483096-e187-11ee-b3bb-7f32c39e2a78/65f225b388ce8.image.jpg?resize=300%2C300"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1dc68dd6-2529-11ef-b6a7-0f50c44a4b96",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "MYRTLE CREEK — William Nailus Baird, of Myrtle Creek, was killed just before 10:30 p.m. Thursday when he was struck by a semitruck.",
-          "link": "https://www.nrtoday.com/news/local/myrtle-creek-man-dies-after-being-struck-by-truck/article_1dc68dd6-2529-11ef-b6a7-0f50c44a4b96.html",
-          "publishedOn": "2024-06-07T23:53:00.000Z",
-          "wordCount": 13465,
-          "title": "Myrtle Creek man dies after being struck by truck",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5783f93c-2510-11ef-be60-eb88acf8b5b5",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "Joshua Alexander Heckathorn will spend 30 days in jail for breaking into a fish hatchery facility and pouring bleach into one of the rearing ponds, killing thousands of presmolt Chinook salmon.",
-          "link": "https://www.nrtoday.com/news/environment/man-who-killed-hatchery-smolts-sentenced-to-30-days/article_5783f93c-2510-11ef-be60-eb88acf8b5b5.html",
-          "publishedOn": "2024-06-07T21:45:00.000Z",
-          "wordCount": 14073,
-          "title": "Man who killed hatchery smolts sentenced to 30 days",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/5e/95ec53da-2516-11ef-b0f9-9be90650e977/66637e58a10dd.image.jpg?resize=300%2C272",
-            "length": "514308",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/5e/95ec53da-2516-11ef-b0f9-9be90650e977/66637e58a10dd.image.jpg?resize=300%2C272"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/51c44ab8-2422-11ef-9039-fba94fb7e578",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "SUTHERLIN — Sutherlin Downtown Development Inc. presents Central Park Movie night June 28.",
-          "link": "https://www.nrtoday.com/news/local/sutherlin-shows-the-goonies/article_51c44ab8-2422-11ef-9039-fba94fb7e578.html",
-          "publishedOn": "2024-06-07T16:32:00.000Z",
-          "wordCount": 13378,
-          "title": "Sutherlin shows 'The Goonies'",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c85cae22-2436-11ef-bb90-9f7a6cc3b609",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Summertime brings with it activities, events, camps and library summer reading programs to occupy both children and adults throughout the long sunny days.",
-          "link": "https://www.nrtoday.com/family/summer-library-programs-will-keep-you-busy/article_c85cae22-2436-11ef-bb90-9f7a6cc3b609.html",
-          "publishedOn": "2024-06-07T14:30:00.000Z",
-          "wordCount": 14898,
-          "title": "Summer library programs will keep you busy",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9f/e9fb065e-245f-11ef-af4e-4f2d21c4bad7/64c58fccc6b3a.image.jpg?resize=300%2C200",
-            "length": "306672",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9f/e9fb065e-245f-11ef-af4e-4f2d21c4bad7/64c58fccc6b3a.image.jpg?resize=300%2C200"
         }
       ]
     },
