@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119825",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program:",
+          "link": "https://kqennewsradio.com/2024/06/11/true-wealth-6-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-11-24",
+          "publishedOn": "2024-06-12T00:39:50.000Z",
+          "wordCount": 1540,
+          "title": "TRUE WEALTH 6.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240611233748/TRUE-WEALTH-6-11-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=119821",
+          "author": "Kyle Bailey",
+          "description": "(Photo credits: Will Geschke) June 12, 2024 4:15 p.m.  A Roseburg man died and the passenger in his vehicle was injured in a two-vehicle accident in downtown Roseburg on Tuesday morning. A Roseburg Police Department release at approximately 8:40 a.m., officers and emergency personnel responded to the wreck at the intersection of Southeast Pine Street...",
+          "link": "https://kqennewsradio.com/2024/06/11/roseburg-driver-dies-passenger-injured-in-two-vehicle-accident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-driver-dies-passenger-injured-in-two-vehicle-accident",
+          "publishedOn": "2024-06-11T23:24:26.000Z",
+          "wordCount": 1672,
+          "title": "ROSEBURG DRIVER DIES, PASSENGER INJURED IN TWO-VEHICLE ACCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240611221516/240612-nrr-fatal-1-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119818",
           "author": "Kyle Bailey",
           "description": "Sutherlin School District Superintendent Terry Prestianni has a end-of-school-year look at the district:",
@@ -394,26 +419,6 @@
           "wordCount": 1563,
           "title": "ROSEBURG POLICE CITE MAN FOR OVERNIGHT DRINKING IN PUBLIC",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=119716",
-          "author": "Kyle Bailey",
-          "description": "June 8, 2024 6;20 a.m. A Myrtle Creek man died after being struck by a semi-truck on Interstate Five northbound Thursday night. An Oregon State Police report said at approximately 10:20 p.m. troopers responded to the accident near the Myrtle Creek exit. The preliminary investigation revealed that the pedestrian, 74-year-old William Baird was walking on...",
-          "link": "https://kqennewsradio.com/2024/06/08/myrtle-creek-man-dies-after-being-struck-by-semi-truck/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-man-dies-after-being-struck-by-semi-truck",
-          "publishedOn": "2024-06-08T13:20:04.000Z",
-          "wordCount": 1621,
-          "title": "MYRTLE CREEK MAN DIES AFTER BEING STRUCK BY SEMI-TRUCK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=119714",
-          "author": "Kyle Bailey",
-          "description": "June 8, 2024 6:00 a.m.  Friday tied for the hottest day of 2024 so far in Roseburg. Forecasters at the National Weather Service said the mercury reached 91 degrees at the Roseburg Regional Airport. May 10th and 11th also saw high temperatures of 91 degrees. Afternoon temperatures are slated to range between 80 and 85...",
-          "link": "https://kqennewsradio.com/2024/06/08/friday-ties-for-the-hottest-day-of-2024-so-far-in-roseburg/?utm_source=rss&utm_medium=rss&utm_campaign=friday-ties-for-the-hottest-day-of-2024-so-far-in-roseburg",
-          "publishedOn": "2024-06-08T13:04:53.000Z",
-          "wordCount": 1572,
-          "title": "FRIDAY TIES FOR THE HOTTEST DAY OF 2024 SO FAR IN ROSEBURG",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
