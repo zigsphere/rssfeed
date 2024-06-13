@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119913",
+          "author": "Kyle Bailey",
+          "description": "Nick Cianci and Greg Hasseltine of the Umpqua Valley Amateur Radio Club talk about their group and a Field Day happening on Saturday June 22nd at OC Brown Park:",
+          "link": "https://kqennewsradio.com/2024/06/13/morning-conversation-6-13-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-13-24",
+          "publishedOn": "2024-06-13T16:12:32.000Z",
+          "wordCount": 1558,
+          "title": "MORNING CONVERSATION 6.13.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240613150754/AMCONV-6-13-24.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240613151212/IMG_4739.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=119906",
+          "author": "Kyle Bailey",
+          "description": "June 13, 2024 6:50 a.m. On Tuesday, the State Land Board appointed the first voting members of the Elliot State Research Forest Board of Directors. The appointees are Melissa Cribbins of Coos Bay, Peter Hayes of Portland, Haley Lutz of Coos Bay, Mike Kennedy of Siletz, Bob Sallinger of Portland and Keith Tymchuk of Reedsport....",
+          "link": "https://kqennewsradio.com/2024/06/13/land-board-appoints-elliot-state-research-forest-board/?utm_source=rss&utm_medium=rss&utm_campaign=land-board-appoints-elliot-state-research-forest-board",
+          "publishedOn": "2024-06-13T13:49:37.000Z",
+          "wordCount": 1726,
+          "title": "LAND BOARD APPOINTS ELLIOT STATE RESEARCH FOREST BOARD",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202327/ODSL-Logo-Blue-e1675876199125.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119901",
           "author": "Kyle Bailey",
           "description": "June 13, 2024 4:00 a.m. On Wednesday, Senator Ron Wyden urged bipartisan support for two of his bills highlighting the need to combat disastrous wildfires by using prescribed burns, while ensuring local communities have access to reliable drinking water. A release said the pieces of legislation are the National Prescribed Fire Act and the River...",
@@ -669,6 +694,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a8a7e30-28e6-11ef-81d3-8f464f880619",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "OREGON — Ellie Norris, owner/operator of Norris Blueberry Farms in Umpqua, was one of two individuals appointed to the Oregon State Board of Agriculture by Gov. Tina Kotek.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-farmer-appointed-to-oregon-state-board-of-agriculture/article_8a8a7e30-28e6-11ef-81d3-8f464f880619.html",
+          "publishedOn": "2024-06-13T15:15:00.000Z",
+          "wordCount": 13348,
+          "title": "Umpqua farmer appointed to Oregon State Board of Agriculture",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1c503898-283b-11ef-b16f-eb2243c653fa",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "ELKTON — They're known for their ability to fly, but Saturday might be your best bet to see butterflies run.",
+          "link": "https://www.nrtoday.com/news/butterflies-on-the-loose-at-blooms-butterflies-fun-run/article_1c503898-283b-11ef-b16f-eb2243c653fa.html",
+          "publishedOn": "2024-06-13T15:00:00.000Z",
+          "wordCount": 13664,
+          "title": "Butterflies on the loose at Blooms & Butterflies fun run",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ec/6eced69e-2938-11ef-a294-53ab6a2bb885/648e4ca5a15a1.image.jpg?resize=300%2C200",
+            "length": "363035",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ec/6eced69e-2938-11ef-a294-53ab6a2bb885/648e4ca5a15a1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/aa9143e0-28d6-11ef-b579-af800ee4c62a",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Fire season will officially begin Friday, according Douglas Forest Protective Association and Bureau of Land Management Roseburg District.",
+          "link": "https://www.nrtoday.com/news/environment/fire-seasons-starts-friday/article_aa9143e0-28d6-11ef-b579-af800ee4c62a.html",
+          "publishedOn": "2024-06-13T13:45:00.000Z",
+          "wordCount": 13516,
+          "title": "Fire seasons starts Friday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/68/4683d8ac-28d8-11ef-a860-cf527bd84d13/6669cbcb465ca.image.png?resize=300%2C300",
+            "length": "375878",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/68/4683d8ac-28d8-11ef-a860-cf527bd84d13/6669cbcb465ca.image.png?resize=300%2C300"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c2972038-2910-11ef-b7ae-133d0a65b1b3",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "MYRTLE CREEK — Barrel racing, bull riding, calf roping and steer wrestling will be some of the sights to see this weekend in Myrtle Creek.",
@@ -982,21 +1047,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ae/faeaad00-24f7-11ef-a451-d3a950990f1e/66634affab019.image.jpg?resize=300%2C151"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/797bd154-25c9-11ef-98ae-7bf2d4c1bf5d",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "WINSTON — Graduates of Douglas High School took center stage of Riverbend Park in Winston on Saturday evening as 94 students received their diplomas and marked the beginning of a new chapter in life.",
-          "link": "https://www.nrtoday.com/celebrations/hundreds-gathered-in-winston-s-riverbend-park-to-celebrate-nearly-100-graduates-from-douglas-high/article_797bd154-25c9-11ef-98ae-7bf2d4c1bf5d.html",
-          "publishedOn": "2024-06-10T02:30:00.000Z",
-          "wordCount": 15016,
-          "title": "Hundreds gathered in Winston’s Riverbend Park to celebrate nearly 100 graduates from Douglas High School",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/fc/dfc61c6c-2605-11ef-9659-93d04f67205f/66650fce44a4d.image.jpg?resize=300%2C200",
-            "length": "361274",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/fc/dfc61c6c-2605-11ef-9659-93d04f67205f/66650fce44a4d.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1061,7 +1111,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173005",
+          "author": null,
+          "description": "SALEM, Ore. — After two completed sessions in central and northeast Oregon, the state is reminding communities of four remaining open houses about the state’s new community wildfire risk reduction programs. Next week’s scheduled events are in Central Point and Grants Pass. These events will offer opportunities to learn about new defensible space and home hardening standards, as well as the draft wildfire hazard map. \nThe resource-fair style open houses are being held in the communities that have some of the greatest levels of wildfire hazard within the wildland-urban interface. Each open house will begin with a short presentation and introductions, but visitors may stop in at any point during the event to get questions answered about the draft hazard map and associated community wildfire p…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173005",
+          "publishedOn": "2024-06-13T15:42:57.000Z",
+          "wordCount": 5865,
+          "title": "State holding open house meetings on wildfire hazard map and community defense programs",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
