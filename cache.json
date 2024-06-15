@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=119989",
+          "author": "Kyle Bailey",
+          "description": "June 15, 2024 7:50 a.m. Roseburg Police cited a man Thursday, after contacting him at 8:00 a.m. near the Oak Street Bridge, where there was a large cavern dug into the riverbank. An RPD report said it appears the property is under the jurisdiction of the Oregon Department of Transportation. The cavern had straight vertical...",
+          "link": "https://kqennewsradio.com/2024/06/15/roseburg-police-cite-man-due-to-large-cavern-dug-into-riverbank/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-man-due-to-large-cavern-dug-into-riverbank",
+          "publishedOn": "2024-06-15T14:51:19.000Z",
+          "wordCount": 1626,
+          "title": "ROSEBURG POLICE CITE MAN DUE TO LARGE CAVERN DUG INTO RIVERBANK",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=119984",
           "author": "Kyle Bailey",
           "description": "Douglas Forest Protective Association Public Information Officer Rachel Pope talks about the start of fire season and the restrictions that are now in place:",
@@ -578,6 +588,41 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9274194c-2a6e-11ef-bde6-3ba0da08ae26",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "ROSEBURG — The city of Roseburg is taking applications to fill a vacancy on the Public Works Commission.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-seeks-applicants-for-public-works-commission/article_9274194c-2a6e-11ef-bde6-3ba0da08ae26.html",
+          "publishedOn": "2024-06-15T15:00:00.000Z",
+          "wordCount": 13330,
+          "title": "Roseburg seeks applicants for Public Works Commission",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/832d7856-29ac-11ef-b241-435858ccb94d",
+          "author": "Kris Wiley Library News",
+          "description": "Roseburg Public Library’s combination of digital and physical books provides tens of thousands of titles for patrons’ reading pleasure.",
+          "link": "https://www.nrtoday.com/family/consider-becoming-a-hybrid-reader/article_832d7856-29ac-11ef-b241-435858ccb94d.html",
+          "publishedOn": "2024-06-15T14:15:00.000Z",
+          "wordCount": 13718,
+          "title": "Consider becoming a hybrid reader",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
+            "length": "186332",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cf6ef15a-0bce-11ef-84e2-a75ff0b48f77",
+          "author": "Travel Leaders/Fly Away Travel",
+          "description": "If you’re thinking about a trip to Europe this summer, planning your vacation around a festival or special event is a great way to get an inside look at history and culture. Here are a few examples.",
+          "link": "https://www.nrtoday.com/news/guest_submission/european-summer-festivals/article_cf6ef15a-0bce-11ef-84e2-a75ff0b48f77.html",
+          "publishedOn": "2024-06-15T14:00:00.000Z",
+          "wordCount": 13472,
+          "title": "European summer festivals",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/2a82ee7c-2ac7-11ef-a26f-3747df1dcf7b",
           "author": "GLORIA COLEMAN The News-Review",
