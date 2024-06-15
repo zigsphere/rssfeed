@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-15T02:27:46.099Z</updated>
+    <updated>2024-06-15T13:11:02.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Students encouraged to never give up at Umpqua Community College commencement]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2a82ee7c-2ac7-11ef-a26f-3747df1dcf7b</id>
+        <link href="https://www.nrtoday.com/news/education/students-encouraged-to-never-give-up-at-umpqua-community-college-commencement/article_2a82ee7c-2ac7-11ef-a26f-3747df1dcf7b.html"/>
+        <updated>2024-06-15T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — Adam Harris moved from Melbourne, Austalia, and began attending Umpqua Community College two years ago because he wanted to play college baseball.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[County hosts psychological first aid course]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/512bacda-2a95-11ef-ab5c-37aa1e23e75b</id>
+        <link href="https://www.nrtoday.com/news/county-hosts-psychological-first-aid-course/article_512bacda-2a95-11ef-ab5c-37aa1e23e75b.html"/>
+        <updated>2024-06-14T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — Douglas County Emergency Management is hosting a Psychological First Aid course June 22.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virgle Osborne to speak at DTO breakfast]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7a91626a-2a8e-11ef-98dc-c7a910707f12</id>
+        <link href="https://www.nrtoday.com/news/environment/virgle-osborne-to-speak-at-dto-breakfast/article_7a91626a-2a8e-11ef-98dc-c7a910707f12.html"/>
+        <updated>2024-06-14T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — State Rep. Virgle Osborne will speak about legislative discussion affecting local businesses at the June 27 DTO breakfast meeting.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.14.24]]></title>
         <id>https://kqennewsradio.com/?p=119984</id>
@@ -107,6 +137,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Woofs and fun to come Saturday to Sutherlin's Central Park]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d0345994-280d-11ef-9d34-63f4528a78e4</id>
+        <link href="https://www.nrtoday.com/family/woofs-and-fun-to-come-saturday-to-sutherlins-central-park/article_d0345994-280d-11ef-9d34-63f4528a78e4.html"/>
+        <updated>2024-06-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Umpqua Woofstock Festival hopes to connect people with their pets, and to remind them of their bond, through fun and games.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observatory to host summer star party on June 28]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/49952ae0-28e8-11ef-9b33-070d8599a58b</id>
+        <link href="https://www.nrtoday.com/briefs/observatory-to-host-summer-star-party-on-june-28/article_49952ae0-28e8-11ef-9b33-070d8599a58b.html"/>
+        <updated>2024-06-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — Umpqua Astronomers' Doug Pieschel and Paul Morgan will host the public for the first star party of the summer, beginning at 9:45 p.m. June 28 — weather permitting.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoga in the Park kicks off in July]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dcdeeefa-28eb-11ef-94dd-53a7391e79af</id>
+        <link href="https://www.nrtoday.com/briefs/yoga-in-the-park-kicks-off-in-july/article_dcdeeefa-28eb-11ef-94dd-53a7391e79af.html"/>
+        <updated>2024-06-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Saturday morning yoga in the park will return to Stewart Park beginning July 6.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extension offers workshop on selling ag products]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ff5e3242-29a4-11ef-8672-c3ac231ea687</id>
+        <link href="https://www.nrtoday.com/agriculture/extension-offers-workshop-on-selling-ag-products/article_ff5e3242-29a4-11ef-8672-c3ac231ea687.html"/>
+        <updated>2024-06-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — Oregon State University Extension Service welcomes agricultural producers to attend the "Don’t Get in a Jam, Learn How to Sell Farm Direct" workshop July 19.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask a Master Gardener: Recycle gardening]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/33974d08-2736-11ef-add6-dbd2e0080f21</id>
+        <link href="https://www.nrtoday.com/life/home_and_garden/ask-a-master-gardener-recycle-gardening/article_33974d08-2736-11ef-add6-dbd2e0080f21.html"/>
+        <updated>2024-06-14T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Question: Can you give me any ideas for using recycled materials in my garden? I am looking to save some money as well as helping our environment.]]></summary>
+        <author>
+            <name>JANET BITTER Master Gardener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes made to Sutherlin Workforce Housing and Homelessness Task Force]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e4b33798-28dd-11ef-9c52-131af258df0d</id>
+        <link href="https://www.nrtoday.com/news/local/changes-made-to-sutherlin-workforce-housing-and-homelessness-task-force/article_e4b33798-28dd-11ef-9c52-131af258df0d.html"/>
+        <updated>2024-06-14T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — City officials have changed the scope and responsibilities of the Workforce Housing and Homelessness Task Force in Sutherlin just three months after it was created.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BEVERLY BEACH EXTENDS CLOSURE THROUGH JULY 31ST-CONSTRUCTION DELAYS]]></title>
         <id>https://kqennewsradio.com/?p=119957</id>
         <link href="https://kqennewsradio.com/2024/06/14/beverly-beach-extends-closure-through-july-31st-construction-delays/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=beverly-beach-extends-closure-through-july-31st-construction-delays"/>
@@ -164,6 +254,16 @@
         <summary type="html"><![CDATA[June 14, 2024 2:50 a.m. In the KQEN Business Spotlight: Richwine Vineyards near Myrtle Creek is holding a pop-up event on Saturday. Owned by Tyler Richwine and wife Katrina since March of 2022, the couple is slowly working at building the business up. Saturday’s event will run from 3:00 p.m. to 8:00 p.m. and will...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire crews from around the county respond to small fires]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bfab93d0-2a01-11ef-8e7c-d32491942901</id>
+        <link href="https://www.nrtoday.com/news/local/fire-crews-from-around-the-county-respond-to-small-fires/article_bfab93d0-2a01-11ef-8e7c-d32491942901.html"/>
+        <updated>2024-06-14T03:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The day before fire season was set to start, Douglas Forest Protective Association responded to four separate fires before 5 p.m.]]></summary>
+        <author>
+            <name>ERICA REYNOLDS The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -840,231 +940,6 @@ The Douglas County Sheriff's Office would like t…]]></summary>
         <summary type="html"><![CDATA[June 12, 2024 2:50 a.m. In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre present Dr. Jekyll and Mr. Hyde continuing on stage through June 23rd as they conclude their 2023-2024 season. It is directed by Ashley Chitwood. Performances are Thursdays through Saturdays at 7:00 p.m. and Sunday matinees at 2:00 p.m. Tickets are $17...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 6.11.24]]></title>
-        <id>https://kqennewsradio.com/?p=119825</id>
-        <link href="https://kqennewsradio.com/2024/06/11/true-wealth-6-11-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-6-11-24"/>
-        <updated>2024-06-12T00:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program:]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG DRIVER DIES, PASSENGER INJURED IN TWO-VEHICLE ACCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=119821</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-driver-dies-passenger-injured-in-two-vehicle-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-driver-dies-passenger-injured-in-two-vehicle-accident"/>
-        <updated>2024-06-11T23:24:26.000Z</updated>
-        <summary type="html"><![CDATA[(Photo credits: Will Geschke) June 12, 2024 4:15 p.m.  A Roseburg man died and the passenger in his vehicle was injured in a two-vehicle accident in downtown Roseburg on Tuesday morning. A Roseburg Police Department release at approximately 8:40 a.m., officers and emergency personnel responded to the wreck at the intersection of Southeast Pine Street...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fatal Traffic Crash]]></title>
-        <id>https://www.flashalert.net/news.html?id=5489#news172956</id>
-        <link href="https://www.flashalert.net/news.html?id=5489#news172956"/>
-        <updated>2024-06-11T22:37:24.000Z</updated>
-        <summary type="html"><![CDATA[On June 11, 2024 at approximately 8:40 AM, the Roseburg Police Department and emergency personnel responded to the report of a two-vehicle accident at the intersection of S.E. Pine Street and S.E. Oak Street in Roseburg, OR.
-Preliminary investigation indicated a 2019 Ford F-550, operated by Bowan Middlesworth (20) of Azalea, was traveling eastbound on S.E. Oak Street through a red light when a 2012 Toyota Prius, operated by Gene Manor (69) of Roseburg, struck the side of the F-550 near the rear axle.
-Manor was declared deceased at the scene.  The passenger of the Toyota Prius, Christopher Ronan (57) of Roseburg, suffered a broken arm.  Neither occupant appeared to be wearing their seatbelts.
-The operator of the F-550, Middlesworth, was not injured.
-Traffic at the intersection was impacted for approximately 3 hours during the on-scene investigation.  The cause of the crash is still under investigation.
-The Roseburg Police Department was assisted by the Douglas County Sheriff’s Office Crash Reconstruction Team and Medical Examiner’s Office, the Roseburg Fire Department, Umpqua Valley Ambulance and the Oregon Department of Transportation.]]></summary>
-        <author>
-            <name>Roseburg Police Dept.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.11.24]]></title>
-        <id>https://kqennewsradio.com/?p=119818</id>
-        <link href="https://kqennewsradio.com/2024/06/11/inside-douglas-county-6-11-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-11-24"/>
-        <updated>2024-06-11T20:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Sutherlin School District Superintendent Terry Prestianni has a end-of-school-year look at the district:]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR KOTEK PROCLAIMS LGBTQ+ PRIDE MONTH FOR JUNE]]></title>
-        <id>https://kqennewsradio.com/?p=119813</id>
-        <link href="https://kqennewsradio.com/2024/06/11/governor-kotek-proclaims-lgbtq-pride-month-for-june/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-kotek-proclaims-lgbtq-pride-month-for-june"/>
-        <updated>2024-06-11T18:05:36.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 11:00 a.m. On Tuesday, Governor Tina Kotek issued a proclamation declaring the month of June 2024 as LGBTW+ Pride Month in Oregon. Kotek said, “Pride is about love, acceptance, and community. Great joy and great struggle have always existed side by side in the LGBTQ+ movement. Pride will always shine bigger than...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE FIFTEEN PEOPLE FOR PROHIBITED CAMPING MONDAY/EARLY TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=119811</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-police-cite-fifteen-people-for-prohibited-camping-monday-early-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-fifteen-people-for-prohibited-camping-monday-early-tuesday"/>
-        <updated>2024-06-11T17:53:59.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 10:55 a.m.  Roseburg Police cited fifteen people for prohibited camping between Monday and early Tuesday. An RPD report said the incidents took place in the 200 block of Southeast Pine Street, in the 3000 block of Northeast Stewart Parkway, in the 200 block of Southeast Jackson Street, in the 200 block of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN AFTER TWO TRAFFIC STOPS]]></title>
-        <id>https://kqennewsradio.com/?p=119805</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-police-cite-woman-after-two-traffic-stops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-woman-after-two-traffic-stops"/>
-        <updated>2024-06-11T17:30:45.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 10;30 a.m.  Roseburg Police cited a woman Monday after two traffic stops. An RPD report said at around 230 p.m. officers made two traffic stops on the vehicle within ten minutes. During the first stop, the 54-year-old :woman was warned that officers would tow her vehicle if she drove. Three minutes later,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=119803</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-police-jail-man-for-alleged-trespass-incident-27/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-alleged-trespass-incident-27"/>
-        <updated>2024-06-11T17:18:44.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 10:15 a.m. Roseburg Police jailed a man for an alleged trespass incident on Monday. An RPD report said at approximately 4:15 p.m. officers responded to the corner of Southeast Washington Avenue and Southeast Rose Street after a caller said an intoxicated man was trying to get on a bus. Officers contacted the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR THIRD-DEGREE THEFT]]></title>
-        <id>https://kqennewsradio.com/?p=119801</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-police-jail-man-for-third-degree-theft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-third-degree-theft"/>
-        <updated>2024-06-11T17:06:36.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 10:00 a.m. Roseburg Police jailed a man for third-degree theft after an incident at a store on Monday. An RPD report said at 2:00 p.m. officers responded to the 2100 block of Northeast Diamond Lake Boulevard. A 49-year-old man had allegedly eaten and drank several food items inside the business and refused...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR SECOND-DEGREE THEFT]]></title>
-        <id>https://kqennewsradio.com/?p=119799</id>
-        <link href="https://kqennewsradio.com/2024/06/11/roseburg-police-jail-man-for-second-degree-theft-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-second-degree-theft-2"/>
-        <updated>2024-06-11T16:54:39.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 9:50 a.m.  Roseburg Police jailed a man for second-degree theft following an incident Monday morning. An RPD report said at approximately 7:30 a.m. officers contacted the 47-year-old in the 700 block of Southeast Stephens Street because he had a Fred Meyer shopping cart in his possession. The man was given numerous warnings...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOG TRUCK AND TRACTOR TRAILER COLLIDE IN EARLY MORNING CRASH]]></title>
-        <id>https://kqennewsradio.com/?p=119795</id>
-        <link href="https://kqennewsradio.com/2024/06/11/log-truck-and-tractor-trailer-collide-in-early-morning-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=log-truck-and-tractor-trailer-collide-in-early-morning-crash"/>
-        <updated>2024-06-11T16:37:25.000Z</updated>
-        <summary type="html"><![CDATA[June 11, 2024 9:30 a.m. A log truck and a tractor trailer collided in an early morning crash near downtown Roseburg Tuesday morning. A Roseburg Police report said at 4:30 a.m. officers responded to the accident at the intersection of Northeast Stephens Street and Northeast Diamond Lake Boulevard. The log truck was westbound on Diamond...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eagle Point man dies in crash]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e623f362-280e-11ef-bc24-9fe500afdc50</id>
-        <link href="https://www.nrtoday.com/news/local/eagle-point-man-dies-in-crash/article_e623f362-280e-11ef-bc24-9fe500afdc50.html"/>
-        <updated>2024-06-11T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[DIAMOND LAKE — A 31-year-old Eagle Point man died in a vehicle crash Sunday morning near Diamond Lake on Highway 230, near milepost 10.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 6.11.24]]></title>
-        <id>https://kqennewsradio.com/?p=119792</id>
-        <link href="https://kqennewsradio.com/2024/06/11/morning-conversation-6-11-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-6-11-24"/>
-        <updated>2024-06-11T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County Sheriff’s Office Lieutenant Brad O’Dell talked about Friday’s prescription drug take back event in south county and about the search for a missing Sutherlin man, as he joined us live from the search scene:]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commercial vehicles collide near downtown Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/eadfd5ba-2809-11ef-b4c2-27278fac2b9b</id>
-        <link href="https://www.nrtoday.com/news/local/commercial-vehicles-collide-near-downtown-roseburg/article_eadfd5ba-2809-11ef-b4c2-27278fac2b9b.html"/>
-        <updated>2024-06-11T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Around 4:30 a.m. Tuesday two commercial vehicles crashed at the intersection of Northeast Stephens Street and Northeast Diamond Lake Boulevard.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEQ issues 11 penalties, including to Roseburg VA, in April]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6cfab4c2-273b-11ef-9623-0b5fdcf96105</id>
-        <link href="https://www.nrtoday.com/news/environment/deq-issues-11-penalties-including-to-roseburg-va-in-april/article_6cfab4c2-273b-11ef-9623-0b5fdcf96105.html"/>
-        <updated>2024-06-11T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The Roseburg VA Medical Center was fined $4,400 in April for greenhouse gas, according to a press release from the Oregon Department of Environmental Quality.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youth in Trades receive first Sutherlin Throwdown scholarships]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/dfcaade2-242d-11ef-b614-f7e51fd9367a</id>
-        <link href="https://www.nrtoday.com/news/education/youth-in-trades-receive-first-sutherlin-throwdown-scholarships/article_dfcaade2-242d-11ef-b614-f7e51fd9367a.html"/>
-        <updated>2024-06-11T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — Taylor Moser will soon begin her third year of a four year online program through Chemeketa Community College while working a full-time electrician apprenticeship with Powerhouse Engineering Inc.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man arrested for stealing payments made to Umpqua National Forest]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0d9d4772-2774-11ef-bb38-6b677fcb8d89</id>
-        <link href="https://www.nrtoday.com/news/local/man-arrested-for-stealing-payments-made-to-umpqua-national-forest/article_0d9d4772-2774-11ef-bb38-6b677fcb8d89.html"/>
-        <updated>2024-06-10T21:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County Sheriff's Office arrested a man Sunday for stealing money from the payment boxes in the Umpqua National Forest.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sutherlin man arrested in connection to hit and run]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/80f24ae2-276f-11ef-85dc-3b22a0adf9d6</id>
-        <link href="https://www.nrtoday.com/news/local/sutherlin-man-arrested-in-connection-to-hit-and-run/article_80f24ae2-276f-11ef-85dc-3b22a0adf9d6.html"/>
-        <updated>2024-06-10T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — A 64-year-old Sutherlin man has been arrested in connection with a hit and run Friday evening that sent a man to the hospital.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Law enforcement search for missing Sutherlin man]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/653b5f86-276b-11ef-bb96-ab4fa7af0797</id>
-        <link href="https://www.nrtoday.com/news/local/law-enforcement-search-for-missing-sutherlin-man/article_653b5f86-276b-11ef-bb96-ab4fa7af0797.html"/>
-        <updated>2024-06-10T20:52:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — A search is underway for 68-year-old Lynn Simmons, of Sutherlin, who left his home around 9 p.m. Sunday and has not been seen since.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree trimming closes road]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1267db74-2741-11ef-a37a-cbfb705dae0d</id>
-        <link href="https://www.nrtoday.com/news/local/tree-trimming-closes-road/article_1267db74-2741-11ef-a37a-cbfb705dae0d.html"/>
-        <updated>2024-06-10T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[REEDSPORT — A general contractor will be trimming trees Wednesday on North 22nd Street and Forest Hill Drive in Reedsport, closing a section of the road.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping those diagnosed with Type 1 diabetes]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/66397254-2740-11ef-a5b2-d7e26040ee84</id>
-        <link href="https://www.nrtoday.com/news/guest_submission/helping-those-diagnosed-with-type-1-diabetes/article_66397254-2740-11ef-a5b2-d7e26040ee84.html"/>
-        <updated>2024-06-10T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Every two months, a child in Douglas County is diagnosed with Type 1 diabetes, a chronic, life-long disease affecting the pancreas. Before Mercy Foundation initiated “T1D Beyond the Diagnosis” in 2018, youth and families found themselves trying to navigate a…]]></summary>
-        <author>
-            <name>LISA PLATT For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg library to host free anime drawing class]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9e0a117a-24f2-11ef-8d3e-9fa104e9437f</id>
-        <link href="https://www.nrtoday.com/news/roseburg-library-to-host-free-anime-drawing-class/article_9e0a117a-24f2-11ef-8d3e-9fa104e9437f.html"/>
-        <updated>2024-06-10T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Carlos Nieto grew up being inspired by 80s anime shows.]]></summary>
-        <author>
-            <name>WILL GESCHKE The News-Review</name>
         </author>
     </entry>
 </feed>
