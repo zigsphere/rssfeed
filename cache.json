@@ -559,6 +559,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/91a2cd76-2dc3-11ef-861d-cfc67a8ba8d1",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Coastal Farm & Ranch will hand out 250 lifejackets at 11 a.m. Saturday at its Roseburg store at 782 NE Garden Valley Blvd.",
+          "link": "https://www.nrtoday.com/news/local/coastal-to-hand-out-life-jackets/article_91a2cd76-2dc3-11ef-861d-cfc67a8ba8d1.html",
+          "publishedOn": "2024-06-19T22:39:00.000Z",
+          "wordCount": 13195,
+          "title": "Coastal to hand out life jackets",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d1d2feba-2e73-11ef-bac7-8f4d310be219",
+          "author": "MARIAH JOHNSTON For The News-Review",
+          "description": "WINSTON — Wildlife Safari is celebrating the transfer of a recently born cheetah cub to the Cincinnati Zoo and Botanical Garden for fostering.",
+          "link": "https://www.nrtoday.com/news/wildlife-safari-celebrates-cheetah-transfer/article_d1d2feba-2e73-11ef-bac7-8f4d310be219.html",
+          "publishedOn": "2024-06-19T22:30:00.000Z",
+          "wordCount": 13510,
+          "title": "Wildlife Safari celebrates cheetah transfer",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19d9d422-2e74-11ef-b672-071e023f7c2c/667334b5a1341.image.jpg?resize=300%2C200",
+            "length": "171190",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19d9d422-2e74-11ef-b672-071e023f7c2c/667334b5a1341.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d0f8e40c-2e76-11ef-ac77-633351ecca65",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Two people were sleeping around 1 a.m. Wednesday in a home in the 1700 block of Southeast Jackson Street when a van came through the wall.",
+          "link": "https://www.nrtoday.com/news/local/van-crashes-into-house/article_d0f8e40c-2e76-11ef-ac77-633351ecca65.html",
+          "publishedOn": "2024-06-19T20:02:00.000Z",
+          "wordCount": 13221,
+          "title": "Van crashes into house",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bbd49d38-2e75-11ef-9e9d-cb4c87414f6c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — A pickup truck crashed into a vehicle and then the Costco fuel station around 2:20 p.m. Tuesday.",
+          "link": "https://www.nrtoday.com/news/local/pickup-crashes-into-costco-fuel-station/article_bbd49d38-2e75-11ef-9e9d-cb4c87414f6c.html",
+          "publishedOn": "2024-06-19T19:54:00.000Z",
+          "wordCount": 13289,
+          "title": "Pickup crashes into Costco fuel station",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3e6d6f18-2dbd-11ef-818c-b38fae9ec4c3",
           "author": "ERICA REYNOLDS The News-Review",
           "description": "ROSEBURG — Youth ages 5 to 12 are invited to the 5-Day Club at Creekside Family Church for games, songs, Bible stories and more.",
@@ -792,36 +837,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/89/6899ab38-2acc-11ef-b8ce-0fb33449261a/666d12e0cceb6.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9c9b6a2a-2ab3-11ef-89a2-1b26f178e1ae",
-          "author": "SANNE GODFREY and GLORIA COLEMAN The News-Review",
-          "description": "Oakland Superintendent Jeff Clark can breathe a sigh of relief, as the official final results of the May election show the Oakland school bond passed.",
-          "link": "https://www.nrtoday.com/news/elections/oakland-school-bond-officially-passed-write-in-candidates-revealed/article_9c9b6a2a-2ab3-11ef-89a2-1b26f178e1ae.html",
-          "publishedOn": "2024-06-16T06:45:00.000Z",
-          "wordCount": 13717,
-          "title": "Oakland school bond officially passed, write-in candidates revealed",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/91/49105dd8-dbcc-11ee-94c9-d3482cde4236/666e96008afee.image.png?resize=300%2C273",
-            "length": "258026",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/91/49105dd8-dbcc-11ee-94c9-d3482cde4236/666e96008afee.image.png?resize=300%2C273"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8006a7e0-2b48-11ef-a44c-0bc6d217e7a5",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "ELKTON — After a rainy morning, the clouds broke to show sunshine when members of the community from Elkton and beyond lined up Saturday morning for the 17th annual Butterfly Run.",
-          "link": "https://www.nrtoday.com/news/fluttering-through-town-elkton-hosts-annual-butterfly-run/article_8006a7e0-2b48-11ef-a44c-0bc6d217e7a5.html",
-          "publishedOn": "2024-06-16T06:30:00.000Z",
-          "wordCount": 13935,
-          "title": "Fluttering through town: Elkton hosts annual Butterfly Run",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/80/b80b5a70-2b6e-11ef-b829-1b4e0155dd48/666e233091e37.image.jpg?resize=300%2C200",
-            "length": "482662",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/80/b80b5a70-2b6e-11ef-b829-1b4e0155dd48/666e233091e37.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -847,6 +862,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news173159",
+          "author": null,
+          "description": "ROSEBURG, Ore. - The Douglas County Sheriff's Office is seeking information regarding damage to the disc golf baskets at Whistlers Bend County Park. \nOn Friday, June 14, 2024, the Sheriff's Office was advised of criminal damage to three new disc golf baskets at Whistlers Bend Park. The damages are estimated to be just under $1,500.00. \nA group within the community is offering and administering a $1,000 reward for the person who provides information which leads to the arrest and conviction of the individual(s) responsible. \nThe Sheriff's Office is asking anyone who may have knowledge about the damage to contact deputies at (541) 440-4471 referencing Case #24-2418.",
+          "link": "https://www.flashalert.net/news.html?id=5204#news173159",
+          "publishedOn": "2024-06-19T22:34:30.000Z",
+          "wordCount": 1366,
+          "title": "Reward Offered for Tip Leading to Arrest of Individual(s) Responsible for Damage of Whistlers Bend Disc Golf Course Baskets (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-06/5204/173159/WBDG_DamageA.jpg",
+            "length": "1078136",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-06/5204/173159/WBDG_DamageA.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=5204#news173057",
           "author": null,
