@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120097",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial> Matt Dickson and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/06/19/true-wealth-6-18-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-18-24",
+          "publishedOn": "2024-06-19T01:27:16.000Z",
+          "wordCount": 1542,
+          "title": "TRUE WEALTH 6.18.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619002357/TRUE-WEALTH-6-18-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120093",
           "author": "Kyle Bailey",
           "description": "Douglas Timber Operators Executive Director Matt Hill talks about an Oregon Department of Fish and Wildlife budget proposal that could lead to the permanent closure of the Rock Creek Hatchery, instead of rebuilding it.",
