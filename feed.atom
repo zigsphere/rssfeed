@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-20T13:12:38.935Z</updated>
+    <updated>2024-06-20T16:14:25.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 6.20.24]]></title>
+        <id>https://kqennewsradio.com/?p=120195</id>
+        <link href="https://kqennewsradio.com/2024/06/20/morning-conversation-6-20-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-6-20-24"/>
+        <updated>2024-06-20T16:08:54.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Senator Jeff Merkley joins us live from Washington D.C. to talk about funding for the Douglas County emergency radio upgrade, an ask of VA officials to provide money for the proposed Roseburg Veteran’s Home, forest management and other topics.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA VALLEY HEATING UP THROUGH SATURDAY AS SUMMER BEGINS]]></title>
         <id>https://kqennewsradio.com/?p=120187</id>
