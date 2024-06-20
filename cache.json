@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120159",
+          "author": "Kyle Bailey",
+          "description": "June 19, 2024 5:15 p.m. The Roseburg Police Department is conducting a death investigation. Public Information Officer Sergeant Daniel Allen said Wednesday at 11:30 a.m. RPD responded to an address in the 1100 block of Southeast Pine Street to conduct a welfare check on 77-year-old Samuel Steven Smeth. Allen said Smeth was found deceased inside...",
+          "link": "https://kqennewsradio.com/2024/06/19/death-investigation-underway-by-roseburg-police/?utm_source=rss&utm_medium=rss&utm_campaign=death-investigation-underway-by-roseburg-police",
+          "publishedOn": "2024-06-20T00:18:43.000Z",
+          "wordCount": 1579,
+          "title": "DEATH INVESTIGATION UNDERWAY BY ROSEBURG POLICE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619231815/IMG_4801.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120140",
           "author": "Kyle Bailey",
           "description": "June 19, 2024 11:00 a.m.  Roseburg Police cited a man for prohibited camping Wednesday morning. An RPD report said at 2:00 a.m. the 49-year-old was contacted in a tent, between the bike path and the creek in Charles Gardner Park in the 2600 block of Northwest Edenbower Boulevard. He was in violation of the “place”...",
@@ -534,16 +544,6 @@
           "wordCount": 1553,
           "title": "DOUGLAS TIMBER OPERATORS HOLDING MONTHLY MEETING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=119992",
-          "author": "Kyle Bailey",
-          "description": "June 16, 2024 5;00 a.m. The Altrusa Club of Roseburg will have a Stuff the Bus event on Saturday. The non-profit is collecting children’s books to give out as part of their literacy projects in the county. This includes the Celebration of Literacy and Little Community Libraries, plus more. The event takes place from 10:00...",
-          "link": "https://kqennewsradio.com/2024/06/16/altrusa-club-stuff-the-bus-event-is-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=altrusa-club-stuff-the-bus-event-is-saturday",
-          "publishedOn": "2024-06-16T12:03:11.000Z",
-          "wordCount": 1566,
-          "title": "ALTRUSA CLUB STUFF THE BUS EVENT IS SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230824165132/altrusa.png"
         }
       ]
     },
@@ -558,6 +558,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a33507e-2e7a-11ef-b10e-c31764259568",
+          "author": "Scott Carroll The News-Review",
+          "description": "Roseburg Public Schools agreed to pay $475,000 to settle a lawsuit filed on behalf of a former Joseph Lane Middle School student who was sent home with an adult acquaintance — not approved by the girl’s family — who authorities…",
+          "link": "https://www.nrtoday.com/news/roseburg-school-district-settles-lawsuit-with-family-of-girl-who-was-allegedly-raped/article_5a33507e-2e7a-11ef-b10e-c31764259568.html",
+          "publishedOn": "2024-06-20T00:00:00.000Z",
+          "wordCount": 13836,
+          "title": "Roseburg school district settles lawsuit with family of girl who was allegedly raped",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/cc/7cc61dc0-f4fa-11ed-bc68-7f5e7a832986/61f2dc03a86dd.image.jpg?resize=300%2C205",
+            "length": "852951",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/cc/7cc61dc0-f4fa-11ed-bc68-7f5e7a832986/61f2dc03a86dd.image.jpg?resize=300%2C205"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ed92a7e-2e8e-11ef-870a-b76a6d486ff0",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "WINCHESTER — The Douglas County Sheriff's Office is seeking information about damages to the disc golf baskets at Whistlers Bend County Park.",
+          "link": "https://www.nrtoday.com/briefs/reward-offered-for-tips-leading-to-arrest/article_3ed92a7e-2e8e-11ef-870a-b76a6d486ff0.html",
+          "publishedOn": "2024-06-19T22:49:00.000Z",
+          "wordCount": 13423,
+          "title": "Reward offered for tips leading to arrest",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400",
+            "length": "603907",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/91a2cd76-2dc3-11ef-861d-cfc67a8ba8d1",
           "author": "SANNE GODFREY The News-Review",
@@ -908,7 +938,18 @@
       "title": "Roseburg Police Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
       "siteUrl": "https://www.flashalert.net/news.html?id=5489",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news173162",
+          "author": null,
+          "description": "On June 19, 2024, at approximately 11:30 AM, the Roseburg Police Department responded to an address in the 1100 block of SE Pine to conduct a welfare check on 77 year old Samuel Steven Smeth.  Smeth was found deceased in his residence.  Next of kin has been notified.  \nRoseburg Police detectives, Douglas County Sheriff’s Office detectives, and Oregon State Police responded to assist and will continue to investigate the matter with assistance from the Douglas County District Attorney’s Office. At this time, there is no known ongoing threat to the general public",
+          "link": "https://www.flashalert.net/news.html?id=5489#news173162",
+          "publishedOn": "2024-06-20T00:04:09.000Z",
+          "wordCount": 400,
+          "title": "Death Investigation",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Fire Dept.",
