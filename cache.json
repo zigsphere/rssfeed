@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120269",
+          "author": "Kyle Bailey",
+          "description": "June 22, 2024 6:50 a.m.  Late Friday the Oregon Department of Agriculture and Oregon Department of Fish and Wildlife announced new shellfish openings after tests showed clams in these areas are safe to eat. A release from both agencies said bay clamming has been reopened on the north coast and is now open from the...",
+          "link": "https://kqennewsradio.com/2024/06/22/more-areas-open-for-shellfish-harvests/?utm_source=rss&utm_medium=rss&utm_campaign=more-areas-open-for-shellfish-harvests",
+          "publishedOn": "2024-06-22T13:58:35.000Z",
+          "wordCount": 1705,
+          "title": "MORE AREAS OPEN FOR SHELLFISH HARVESTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120267",
           "author": "Kyle Bailey",
           "description": "June 21, 2024 1:30 p.m. Effective Saturday, the Douglas Forest Protective Association is changing the Public Use Restriction Level to Moderate for all private, county, state and Bureau of Indian Affairs lands within the Douglas District. Public Information Office Rachel Pope said this imposes certain fire restrictions on the public to help prevent wildfires. Pope...",
@@ -514,21 +524,6 @@
           "wordCount": 1573,
           "title": "2024 GRAFFITI WEEKEND COMING JULY 10TH-14TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619091631/cidf_lxkmas8e0-copy-scaled-e1718792209547.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120097",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial> Matt Dickson and Justin Bruggeman have our weekly local financial program.",
-          "link": "https://kqennewsradio.com/2024/06/19/true-wealth-6-18-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-18-24",
-          "publishedOn": "2024-06-19T01:27:16.000Z",
-          "wordCount": 1542,
-          "title": "TRUE WEALTH 6.18.24",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619002357/TRUE-WEALTH-6-18-2024.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },
@@ -543,6 +538,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e079b674-2cc6-11ef-875d-9b7b26834867",
+          "author": "DORIS KOBERNIK For The News-Review",
+          "description": "On June 10 the Roseburg Elks delivered a truck load full of diapers and baby wipes, along with a cash donation of $350, to the Safe Haven Maternity Home office found on Northeast Chestnut Avenue in Roseburg.",
+          "link": "https://www.nrtoday.com/news/guest_submission/roseburg-elks-dontate-to-safe-haven-maternity-home/article_e079b674-2cc6-11ef-875d-9b7b26834867.html",
+          "publishedOn": "2024-06-22T16:00:00.000Z",
+          "wordCount": 13321,
+          "title": "Roseburg Elks dontate to Safe Haven Maternity Home",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/fe/4fe16480-2cc7-11ef-8598-470d6ec68f26/6670655232dd6.image.jpg?resize=300%2C236",
+            "length": "364544",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/fe/4fe16480-2cc7-11ef-8598-470d6ec68f26/6670655232dd6.image.jpg?resize=300%2C236"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/247cf130-2fef-11ef-805d-933ea0654637",
+          "author": "MARIAH JOHNSTON For The News-Review",
+          "description": "WINSTON — If you ask members of the Winston Area Community Partnership, they will tell you the impact of the Douglas High School mural on the community is still felt over 70 years later. That's why this local nonprofit is…",
+          "link": "https://www.nrtoday.com/news/education/douglas-high-school-mural-in-need-of-more-funding/article_247cf130-2fef-11ef-805d-933ea0654637.html",
+          "publishedOn": "2024-06-22T14:30:00.000Z",
+          "wordCount": 14014,
+          "title": "Douglas High School mural in need of more funding",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/29/22998836-301e-11ef-98a1-2f744ffa9ec4/6047cba98b978.image.jpg?resize=300%2C225",
+            "length": "201849",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/29/22998836-301e-11ef-98a1-2f744ffa9ec4/6047cba98b978.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/020993e0-3000-11ef-a7fc-976854f9229a",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "CANYONVILLE — Beginning Monday, the Canyonville branch of the Oregon Driver and Motor Vehicle will be reducing its services hours.",
+          "link": "https://www.nrtoday.com/briefs/canyonville-dmv-shifts-operations-to-three-days-a-week/article_020993e0-3000-11ef-a7fc-976854f9229a.html",
+          "publishedOn": "2024-06-22T14:15:00.000Z",
+          "wordCount": 13250,
+          "title": "Canyonville DMV shifts operations to three days a week",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e2875e90-2f40-11ef-89d0-7b8f7c1124a6",
           "author": "DREW WINKELMAIER The News-Review",
