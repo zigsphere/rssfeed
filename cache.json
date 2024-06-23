@@ -464,16 +464,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619150905/IMG_4798.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120116",
-          "author": "Kyle Bailey",
-          "description": "June 19, 2024 4:15 a.m.   The leader of an international drug trafficking organization operating in Lane County and credited with impacting Douglas County, responsible for trafficking large quantities of methamphetamine, heroin and cocaine into the state between 2018 and 2020, was sentenced to federal prison on Tuesday. A release from the U.S. Attorney’s Office –...",
-          "link": "https://kqennewsradio.com/2024/06/19/leader-of-international-drug-trafficking-organization-headed-to-prison/?utm_source=rss&utm_medium=rss&utm_campaign=leader-of-international-drug-trafficking-organization-headed-to-prison",
-          "publishedOn": "2024-06-19T11:21:48.000Z",
-          "wordCount": 1889,
-          "title": "LEADER OF INTERNATIONAL DRUG TRAFFICKING ORGANIZATION HEADED TO PRISON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240619102133/doj.jpg"
         }
       ]
     },
@@ -488,6 +478,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3c8d3d40-300b-11ef-b40a-bb2a90341df2",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Cities across the county are embracing the summer weather and taking entertainment opportunities outdoors. Along with a variety of musical offerings, Myrtle Creek, Roseburg and Sutherlin offer movies in the park.",
+          "link": "https://www.nrtoday.com/a_and_e/cities-across-the-county-host-movies-in-the-park/article_3c8d3d40-300b-11ef-b40a-bb2a90341df2.html",
+          "publishedOn": "2024-06-23T00:00:00.000Z",
+          "wordCount": 13612,
+          "title": "Cities across the county host movies in the park",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a7/6a7e9f60-30ff-11ef-b3a8-27e44397415f/6677796f50660.image.jpg?resize=300%2C225",
+            "length": "288692",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a7/6a7e9f60-30ff-11ef-b3a8-27e44397415f/6677796f50660.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ff134ec-30d2-11ef-9653-973831c2608c",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "CANYONVILLE — For the racers of the Takelma Gravel Grinder on Saturday there is nothing better than finishing a race with a cold beverage and some hearty food. That is what the Squatchee Fest set out to do for racers…",
+          "link": "https://www.nrtoday.com/a_and_e/squatchee-fest-sees-hundreds-of-cyclists-enjoy-their-race-achievements/article_3ff134ec-30d2-11ef-9653-973831c2608c.html",
+          "publishedOn": "2024-06-22T23:30:00.000Z",
+          "wordCount": 14345,
+          "title": "Squatchee Fest sees hundreds of cyclists enjoy their race achievements",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ce/9ce59b58-30db-11ef-8b02-3f624f8769e4/66773d5e02013.image.jpg?resize=300%2C200",
+            "length": "372113",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ce/9ce59b58-30db-11ef-8b02-3f624f8769e4/66773d5e02013.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9234cf82-30cf-11ef-b669-8b4503eff8bc",
           "author": "ERICA REYNOLDS The News-Review",
@@ -857,16 +877,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/28/52831c74-2a6f-11ef-80f4-23e34983f1ca/6408e4be5a8b9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/598d77ce-2dd7-11ef-abbc-3b9f65f1557b",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "YONCALLA — The Grand Lunch, an intergenerational lunch series hosted by Douglas County’s Bistro Sixty Senior Dining Site in Yoncalla, begins Friday.",
-          "link": "https://www.nrtoday.com/briefs/douglas-county-announces-new-program-called-the-grand-lunch-in-yoncalla/article_598d77ce-2dd7-11ef-abbc-3b9f65f1557b.html",
-          "publishedOn": "2024-06-19T13:30:00.000Z",
-          "wordCount": 13243,
-          "title": "Douglas County announces new program called The Grand Lunch in Yoncalla",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
