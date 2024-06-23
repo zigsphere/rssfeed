@@ -374,6 +374,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/237f523a-3005-11ef-9f2c-2f7bb0419695",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "DOUGLAS COUNTY — As of midnight Saturday, public fire restriction levels changed to moderate for all private, county, state and Bureau of Indian Affairs lands within the Douglas District., according to Douglas Forest Protective Association.",
+          "link": "https://www.nrtoday.com/briefs/public-use-fire-restriction-level-changes-to-moderate/article_237f523a-3005-11ef-9f2c-2f7bb0419695.html",
+          "publishedOn": "2024-06-23T13:30:00.000Z",
+          "wordCount": 13245,
+          "title": "Public use fire restriction level changes to moderate",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fdd41718-30c8-11ef-b179-8f9d3b912b72",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Late Friday, the Oregon Department of Agriculture and Oregon Department of Fish and Wildlife announced new shellfish openings after tests showed clams in these areas were safe to eat.",
+          "link": "https://www.nrtoday.com/news/local/more-areas-open-for-shellfish-harvest/article_fdd41718-30c8-11ef-b179-8f9d3b912b72.html",
+          "publishedOn": "2024-06-23T12:45:00.000Z",
+          "wordCount": 13465,
+          "title": "More areas open for shellfish harvest",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b1/3b1c75cc-a658-11ed-b6b2-7770d2650aa6/57c6fd3260bfb.image.jpg?resize=300%2C242",
+            "length": "720438",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b1/3b1c75cc-a658-11ed-b6b2-7770d2650aa6/57c6fd3260bfb.image.jpg?resize=300%2C242"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/01a2ebaa-3022-11ef-b182-d360ca79b0e3",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Various road work projects across Douglas County will be conducted throughout the summer months by operations and maintenance divisions, Douglas County Public Works announced Friday.",
+          "link": "https://www.nrtoday.com/news/local/douglas_county/douglas-county-public-works-department-announces-summer-road-maintenance-projects/article_01a2ebaa-3022-11ef-b182-d360ca79b0e3.html",
+          "publishedOn": "2024-06-23T06:45:00.000Z",
+          "wordCount": 13500,
+          "title": "Douglas County Public Works Department announces summer road maintenance projects",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1a/71ae0a0a-3023-11ef-bde4-db40d771d0f4/5a867ee423ca0.image.jpg?resize=300%2C203",
+            "length": "423236",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1a/71ae0a0a-3023-11ef-bde4-db40d771d0f4/5a867ee423ca0.image.jpg?resize=300%2C203"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3c8d3d40-300b-11ef-b40a-bb2a90341df2",
           "author": "ERICA REYNOLDS The News-Review",
           "description": "Cities across the county are embracing the summer weather and taking entertainment opportunities outdoors. Along with a variety of musical offerings, Myrtle Creek, Roseburg and Sutherlin offer movies in the park.",
@@ -617,161 +657,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/80/480a27a0-2e6c-11ef-968e-1f8752b96e77/667327972e7ec.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a33507e-2e7a-11ef-b10e-c31764259568",
-          "author": "Scott Carroll The News-Review",
-          "description": "Roseburg Public Schools agreed to pay $475,000 to settle a lawsuit filed on behalf of a former Joseph Lane Middle School student who was sent home with an adult acquaintance — not approved by the girl’s family — who authorities…",
-          "link": "https://www.nrtoday.com/news/roseburg-school-district-settles-lawsuit-with-family-of-girl-who-was-allegedly-raped/article_5a33507e-2e7a-11ef-b10e-c31764259568.html",
-          "publishedOn": "2024-06-20T00:00:00.000Z",
-          "wordCount": 13836,
-          "title": "Roseburg school district settles lawsuit with family of girl who was allegedly raped",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/cc/7cc61dc0-f4fa-11ed-bc68-7f5e7a832986/61f2dc03a86dd.image.jpg?resize=300%2C205",
-            "length": "852951",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/cc/7cc61dc0-f4fa-11ed-bc68-7f5e7a832986/61f2dc03a86dd.image.jpg?resize=300%2C205"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ed92a7e-2e8e-11ef-870a-b76a6d486ff0",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "WINCHESTER — The Douglas County Sheriff's Office is seeking information about damages to the disc golf baskets at Whistlers Bend County Park.",
-          "link": "https://www.nrtoday.com/briefs/disc-golf-baskets-damaged-police-seek-answers/article_3ed92a7e-2e8e-11ef-870a-b76a6d486ff0.html",
-          "publishedOn": "2024-06-19T22:49:00.000Z",
-          "wordCount": 13408,
-          "title": "Disc golf baskets damaged, police seek answers",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400",
-            "length": "603907",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ed92a7e-2e8e-11ef-870a-b76a6d486ff0",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "WINCHESTER — The Douglas County Sheriff's Office is seeking information about damages to the disc golf baskets at Whistlers Bend County Park.",
-          "link": "https://www.nrtoday.com/briefs/reward-offered-for-tips-leading-to-arrest/article_3ed92a7e-2e8e-11ef-870a-b76a6d486ff0.html",
-          "publishedOn": "2024-06-19T22:49:00.000Z",
-          "wordCount": 13423,
-          "title": "Reward offered for tips leading to arrest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400",
-            "length": "603907",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/12/2128c94a-2e92-11ef-aa44-0bc84fdd8ab7/66736716c8a98.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/91a2cd76-2dc3-11ef-861d-cfc67a8ba8d1",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — Coastal Farm & Ranch will hand out 250 lifejackets at 11 a.m. Saturday at its Roseburg store at 782 NE Garden Valley Blvd.",
-          "link": "https://www.nrtoday.com/news/local/coastal-to-hand-out-life-jackets/article_91a2cd76-2dc3-11ef-861d-cfc67a8ba8d1.html",
-          "publishedOn": "2024-06-19T22:39:00.000Z",
-          "wordCount": 13195,
-          "title": "Coastal to hand out life jackets",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d1d2feba-2e73-11ef-bac7-8f4d310be219",
-          "author": "MARIAH JOHNSTON For The News-Review",
-          "description": "WINSTON — Wildlife Safari is celebrating the transfer of a recently born cheetah cub to the Cincinnati Zoo and Botanical Garden for fostering.",
-          "link": "https://www.nrtoday.com/news/wildlife-safari-celebrates-cheetah-transfer/article_d1d2feba-2e73-11ef-bac7-8f4d310be219.html",
-          "publishedOn": "2024-06-19T22:30:00.000Z",
-          "wordCount": 13510,
-          "title": "Wildlife Safari celebrates cheetah transfer",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19d9d422-2e74-11ef-b672-071e023f7c2c/667334b5a1341.image.jpg?resize=300%2C200",
-            "length": "171190",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19d9d422-2e74-11ef-b672-071e023f7c2c/667334b5a1341.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d0f8e40c-2e76-11ef-ac77-633351ecca65",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — Two people were sleeping around 1 a.m. Wednesday in a home in the 1700 block of Southeast Jackson Street when a van came through the wall.",
-          "link": "https://www.nrtoday.com/news/local/van-crashes-into-house/article_d0f8e40c-2e76-11ef-ac77-633351ecca65.html",
-          "publishedOn": "2024-06-19T20:02:00.000Z",
-          "wordCount": 13221,
-          "title": "Van crashes into house",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bbd49d38-2e75-11ef-9e9d-cb4c87414f6c",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "ROSEBURG — A pickup truck crashed into a vehicle and then the Costco fuel station around 2:20 p.m. Tuesday.",
-          "link": "https://www.nrtoday.com/news/local/pickup-crashes-into-costco-fuel-station/article_bbd49d38-2e75-11ef-9e9d-cb4c87414f6c.html",
-          "publishedOn": "2024-06-19T19:54:00.000Z",
-          "wordCount": 13289,
-          "title": "Pickup crashes into Costco fuel station",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3e6d6f18-2dbd-11ef-818c-b38fae9ec4c3",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "ROSEBURG — Youth ages 5 to 12 are invited to the 5-Day Club at Creekside Family Church for games, songs, Bible stories and more.",
-          "link": "https://www.nrtoday.com/briefs/club-held-next-week-for-youth-5-12/article_3e6d6f18-2dbd-11ef-818c-b38fae9ec4c3.html",
-          "publishedOn": "2024-06-19T15:20:00.000Z",
-          "wordCount": 13169,
-          "title": "Club held next week for youth 5-12",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/05ce2c2c-2dc4-11ef-8c9b-7b6c0077d09f",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "CANYONVILLE — Elkton Community Education Center was one of 82 nonprofits that received a grant from the Cow Creek Umpqua Indian Foundation during Tuesday's bi-annual awards ceremony at Seven Feathers Casino Resort.",
-          "link": "https://www.nrtoday.com/business/local_biz/cow-creek-umpqua-indian-foundation-hosts-82-charities-and-award-grants/article_05ce2c2c-2dc4-11ef-8c9b-7b6c0077d09f.html",
-          "publishedOn": "2024-06-19T15:00:00.000Z",
-          "wordCount": 14317,
-          "title": "Cow Creek Umpqua Indian Foundation hosts 82 charities and award grants",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/1f/b1fa7dce-2dc5-11ef-88a8-6338945b0d71/6672101aee22d.image.jpg?resize=300%2C200",
-            "length": "332817",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/1f/b1fa7dce-2dc5-11ef-88a8-6338945b0d71/6672101aee22d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd64180a-2d9e-11ef-95ce-d7d5de29163c",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "After years of operating as a video production company in Douglas County, Spiderking Studios will now have a studio space in Roseburg.",
-          "link": "https://www.nrtoday.com/a_and_e/spiderking-studios-local-film-production-company-to-open-studio-downtown/article_fd64180a-2d9e-11ef-95ce-d7d5de29163c.html",
-          "publishedOn": "2024-06-19T15:00:00.000Z",
-          "wordCount": 13777,
-          "title": "Spiderking Studios, local film production company, to open studio downtown",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/cf/ecff3be8-2dcb-11ef-a2df-0bdc4faef36f/66721a8ee9cd9.image.jpg?resize=300%2C200",
-            "length": "222932",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/cf/ecff3be8-2dcb-11ef-a2df-0bdc4faef36f/66721a8ee9cd9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd8178de-2e4b-11ef-affd-2b053d2828d0",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "The leader of an international drug trafficking organization operating in Lane County, responsible for trafficking large quantities of methamphetamine, heroin and cocaine into the state between 2018 and 2020, was sentenced to federal prison on Tuesday.",
-          "link": "https://www.nrtoday.com/news/local/leader-of-international-drug-trafficking-organization-heads-to-prison/article_fd8178de-2e4b-11ef-affd-2b053d2828d0.html",
-          "publishedOn": "2024-06-19T14:55:00.000Z",
-          "wordCount": 13492,
-          "title": "Leader of international drug trafficking organization heads to prison",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a3b6326c-2a69-11ef-b4e3-cbda885f3235",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "Over the next six weeks, CHI Mercy Health and Centennial Medical Group will eliminate 18 positions, according to CHI Mercy Health CEO and President Russell Woolley.",
-          "link": "https://www.nrtoday.com/news/health/restructuring-eliminates-18-positions-at-chi-mercy-health-centennial-medical-group/article_a3b6326c-2a69-11ef-b4e3-cbda885f3235.html",
-          "publishedOn": "2024-06-19T14:30:00.000Z",
-          "wordCount": 13613,
-          "title": "Restructuring eliminates 18 positions at CHI Mercy Health, Centennial Medical Group",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/28/52831c74-2a6f-11ef-80f4-23e34983f1ca/6408e4be5a8b9.image.jpg?resize=300%2C200",
-            "length": "367610",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/28/52831c74-2a6f-11ef-80f4-23e34983f1ca/6408e4be5a8b9.image.jpg?resize=300%2C200"
         }
       ]
     },
