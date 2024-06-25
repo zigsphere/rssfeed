@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120377",
+          "author": "Kyle Bailey",
+          "description": "Joseph Ziegler and Capri Moore talk about the funds that are needed to restore a 70+ year old mural to the campus of Douglas High School.",
+          "link": "https://kqennewsradio.com/2024/06/25/inside-douglas-county-6-25-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-6-25-24",
+          "publishedOn": "2024-06-25T20:11:11.000Z",
+          "wordCount": 1557,
+          "title": "INSIDE DOUGLAS COUNTY 6.25.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240625190353/IDC-6-25-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240625190729/IMG_4851.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120370",
           "author": "Kyle Bailey",
           "description": "June 25, 2024 10:50 a.m.   Crews with the Douglas Forest Protective Association have responded to fires in north and south Douglas County. Public Information Officer Rachel Pope said Tuesday at around 6:00 a.m. firefighters from DFPA and Azalea Rural Fire Protection District responded to an estimated quarter of an acre fire near Fortune Branch Road...",
@@ -373,6 +388,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9023644a-3324-11ef-9858-ff068a20aa21",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Douglas County Sheriff’s Office said a scam is back, and residents should just hang up.",
+          "link": "https://www.nrtoday.com/news/local/dcso-warns-that-scammers-are-back/article_9023644a-3324-11ef-9858-ff068a20aa21.html",
+          "publishedOn": "2024-06-25T23:00:00.000Z",
+          "wordCount": 13472,
+          "title": "DCSO warns that scammers are back",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/81a386a4-326e-11ef-a309-b7561e831056",
           "author": "KIMBERLI HOLMQUIST The News-Review",
@@ -945,7 +970,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173256",
+          "author": null,
+          "description": "SALEM, Ore. — The Oregon Board of Forestry welcomed two new members at its June 6 meeting. \nBob Van Dyk, of Forest Grove, and Heath Curtiss, of Silverton, were appointed by Gov. Tina Kotek to complete the terms of two departing board members, Chandra Ferrari and Karla Chambers, which run through March 2025. The Oregon Senate confirmed their appointments on May 31.\nVan Dyk has been involved in forest policy since 1997, first as a private citizen and later while employed by a fisheries conservation group.  His work includes participation in smaller planning efforts, such as that for the Forest Grove Watershed; medium planning efforts, such as that for the Elliott State Forest; and statewide efforts, such as the Private Forest Accord, a process which he co-chaired for the conservation communi…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173256",
+          "publishedOn": "2024-06-25T20:30:00.000Z",
+          "wordCount": 4065,
+          "title": "Board of Forestry welcomes new members",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

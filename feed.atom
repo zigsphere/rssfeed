@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-25T19:09:31.122Z</updated>
+    <updated>2024-06-25T23:10:35.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DCSO warns that scammers are back]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9023644a-3324-11ef-9858-ff068a20aa21</id>
+        <link href="https://www.nrtoday.com/news/local/dcso-warns-that-scammers-are-back/article_9023644a-3324-11ef-9858-ff068a20aa21.html"/>
+        <updated>2024-06-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Sheriff’s Office said a scam is back, and residents should just hang up.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Board of Forestry welcomes new members]]></title>
+        <id>https://www.flashalert.net/news.html?id=1072#news173256</id>
+        <link href="https://www.flashalert.net/news.html?id=1072#news173256"/>
+        <updated>2024-06-25T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SALEM, Ore. — The Oregon Board of Forestry welcomed two new members at its June 6 meeting. 
+Bob Van Dyk, of Forest Grove, and Heath Curtiss, of Silverton, were appointed by Gov. Tina Kotek to complete the terms of two departing board members, Chandra Ferrari and Karla Chambers, which run through March 2025. The Oregon Senate confirmed their appointments on May 31.
+Van Dyk has been involved in forest policy since 1997, first as a private citizen and later while employed by a fisheries conservation group.  His work includes participation in smaller planning efforts, such as that for the Forest Grove Watershed; medium planning efforts, such as that for the Elliott State Forest; and statewide efforts, such as the Private Forest Accord, a process which he co-chaired for the conservation communi…]]></summary>
+        <author>
+            <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.25.24]]></title>
+        <id>https://kqennewsradio.com/?p=120377</id>
+        <link href="https://kqennewsradio.com/2024/06/25/inside-douglas-county-6-25-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-25-24"/>
+        <updated>2024-06-25T20:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Joseph Ziegler and Capri Moore talk about the funds that are needed to restore a 70+ year old mural to the campus of Douglas High School.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA CREWS RESPOND TO FIRES IN NORTH AND SOUTH COUNTY]]></title>
         <id>https://kqennewsradio.com/?p=120370</id>
