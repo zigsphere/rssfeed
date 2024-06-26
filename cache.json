@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120384",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/06/25/true-wealth-6-25-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-25-24",
+          "publishedOn": "2024-06-26T00:16:54.000Z",
+          "wordCount": 1540,
+          "title": "TRUE WEALTH 6.25.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240625231217/TRUE-WEALTH-6-25-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120377",
           "author": "Kyle Bailey",
           "description": "Joseph Ziegler and Capri Moore talk about the funds that are needed to restore a 70+ year old mural to the campus of Douglas High School.",
@@ -364,16 +379,6 @@
           "wordCount": 1635,
           "title": "DEPUTIES CHARGE WOMAN WITH THIRD-DEGREE THEFT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120269",
-          "author": "Kyle Bailey",
-          "description": "June 22, 2024 6:50 a.m.  Late Friday the Oregon Department of Agriculture and Oregon Department of Fish and Wildlife announced new shellfish openings after tests showed clams in these areas are safe to eat. A release from both agencies said bay clamming has been reopened on the north coast and is now open from the...",
-          "link": "https://kqennewsradio.com/2024/06/22/more-areas-open-for-shellfish-harvests/?utm_source=rss&utm_medium=rss&utm_campaign=more-areas-open-for-shellfish-harvests",
-          "publishedOn": "2024-06-22T13:58:35.000Z",
-          "wordCount": 1705,
-          "title": "MORE AREAS OPEN FOR SHELLFISH HARVESTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
         }
       ]
     },
@@ -388,6 +393,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/96d9121e-3340-11ef-b585-ab02d3eb3f93",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Two downtown Roseburg properties that have been vacant for decades have a new owner.",
+          "link": "https://www.nrtoday.com/business/cow-creek-tribe-purchase-vacant-rite-aid-safeway-properties/article_96d9121e-3340-11ef-b585-ab02d3eb3f93.html",
+          "publishedOn": "2024-06-26T00:00:00.000Z",
+          "wordCount": 13901,
+          "title": "Cow Creek Tribe purchase vacant Rite Aid, Safeway properties",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/d1/9d11efbe-3342-11ef-85f7-d341406336ed/667b452abfa73.image.jpg?resize=300%2C225",
+            "length": "400724",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/d1/9d11efbe-3342-11ef-85f7-d341406336ed/667b452abfa73.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9023644a-3324-11ef-9858-ff068a20aa21",
           "author": "Kyle Bailey For The News-Review",
@@ -912,16 +932,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/29/22998836-301e-11ef-98a1-2f744ffa9ec4/6047cba98b978.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/020993e0-3000-11ef-a7fc-976854f9229a",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "CANYONVILLE — Beginning Monday, the Canyonville branch of the Oregon Driver and Motor Vehicle will be reducing its services hours.",
-          "link": "https://www.nrtoday.com/briefs/canyonville-dmv-shifts-operations-to-three-days-a-week/article_020993e0-3000-11ef-a7fc-976854f9229a.html",
-          "publishedOn": "2024-06-22T14:15:00.000Z",
-          "wordCount": 13250,
-          "title": "Canyonville DMV shifts operations to three days a week",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
