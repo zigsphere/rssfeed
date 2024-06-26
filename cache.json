@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120435",
+          "author": "Kyle Bailey",
+          "description": "Nick Smith from the American Forest Resource Council talks about the Forest Service seeking public comment on draft guidance for old growth forest management. He shares the perspective of the AFRC on this matter.",
+          "link": "https://kqennewsradio.com/2024/06/26/inside-douglas-county-6-26-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-6-26-24",
+          "publishedOn": "2024-06-26T20:10:40.000Z",
+          "wordCount": 1562,
+          "title": "INSIDE DOUGLAS COUNTY 6.26.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240626190517/IDC-6-26-24.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240626191021/nsmith_photo-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120429",
           "author": "Kyle Bailey",
           "description": "June 26, 2024 10:40 a.m.  Roseburg Police arrested six people for warrants between Tuesday afternoon and early Wednesday morning. An RPD report said four people were contacted while checking on transient camps in the 1400 block of Stewart Park Drive and in the 900 block of Northeast Rowe Avenue. One man was contacted after he...",
@@ -1146,6 +1161,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173324",
+          "author": null,
+          "description": "SALEM, Ore. — The Adaptive Management Program Committee will hold a virtual meeting Tuesday, July 2, at 2 p.m. To join virtually, please use the Zoom video conference information found on the agenda.\nThe committee’s agenda includes:\n\nFinalize letter portion of Eastern Oregon Steep Slopes questions package (Substantial decision item)\n\nThe meeting is open to the public to attend online via Zoom. Public comments will be accepted near the start of the meeting. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 48 hours before the meeting by emailing adaptivemanagementprogram@odf.oregon.gov.\nThe 13-member committee The Adaptive Management Program Committee helps determine if forest practices are meeting their goals to protect natural resources through a science-based and transparent process. The committee sets the research agenda that the Independent Research and Science Team (IRST) implements. View more information on the AMPC webpage.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173324",
+          "publishedOn": "2024-06-26T22:23:52.000Z",
+          "wordCount": 4220,
+          "title": "Adaptive Management Program Committee meets July 2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news173256",
           "author": null,
