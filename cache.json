@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120444",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/06/26/mike-winters-lawn-and-garden-show-6-26-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-6-26-24",
+          "publishedOn": "2024-06-27T00:07:42.000Z",
+          "wordCount": 1548,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 6.26.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240626230611/MWLGS-6-26-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240626230734/newmike-4.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120435",
           "author": "Kyle Bailey",
           "description": "Nick Smith from the American Forest Resource Council talks about the Forest Service seeking public comment on draft guidance for old growth forest management. He shares the perspective of the AFRC on this matter.",
@@ -564,6 +579,96 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a665fbfc-33d6-11ef-93c7-236211e9039a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — A neighborhood dispute ended in a fatality Tuesday night in Glide.",
+          "link": "https://www.nrtoday.com/news/crime/glide-man-killed-in-neighborhood-dispute/article_a665fbfc-33d6-11ef-93c7-236211e9039a.html",
+          "publishedOn": "2024-06-26T17:00:00.000Z",
+          "wordCount": 13288,
+          "title": "Glide man killed in neighborhood dispute",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/42627ac2-3336-11ef-9226-c79e68fcf5dc",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "RIDDLE — Riddle will be a hotspot of games, activities, contests and more this weekend.",
+          "link": "https://www.nrtoday.com/news/local/riddle-sawdust-jubilee-takes-over-this-weekend/article_42627ac2-3336-11ef-9226-c79e68fcf5dc.html",
+          "publishedOn": "2024-06-26T15:00:00.000Z",
+          "wordCount": 13791,
+          "title": "Riddle Sawdust Jubilee takes over this weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2d/62d2286a-3350-11ef-943f-a7bf31d59cee/62b7b368ba3f9.image.jpg?resize=300%2C210",
+            "length": "326123",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2d/62d2286a-3350-11ef-943f-a7bf31d59cee/62b7b368ba3f9.image.jpg?resize=300%2C210"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bf21cb58-336d-11ef-89cb-0b1435e2fcd8",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "Music on the Half Shell continued for its second consecutive week Tuesday, welcoming back the people in the crowd. The crowd then welcomed performers The Paperboys with claps and cheers.",
+          "link": "https://www.nrtoday.com/news/eclectic-offerings-at-music-on-the-half-shell/article_bf21cb58-336d-11ef-89cb-0b1435e2fcd8.html",
+          "publishedOn": "2024-06-26T15:00:00.000Z",
+          "wordCount": 14350,
+          "title": "Eclectic offerings at Music on the Half Shell",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/1b/e1b7b890-336c-11ef-9e9e-6bc14b33f1ca/667b8c14c89ba.image.jpg?resize=300%2C200",
+            "length": "266048",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/1b/e1b7b890-336c-11ef-9e9e-6bc14b33f1ca/667b8c14c89ba.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e313d78-3340-11ef-8a14-9f64ffb8715c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — A lawsuit was filed Thursday in the Douglas County Circuit Court against Sutherlin School District 130 for alleged negligence, assault and battery against a child.",
+          "link": "https://www.nrtoday.com/news/court/lawsuit-filed-against-sutherlin-school-district-for-alleged-abuse/article_6e313d78-3340-11ef-8a14-9f64ffb8715c.html",
+          "publishedOn": "2024-06-26T14:00:00.000Z",
+          "wordCount": 13603,
+          "title": "Lawsuit filed against Sutherlin School District for alleged abuse",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/5b/e5b1fd50-33dc-11ef-92a2-afe57cc1522f/667c48031f794.image.jpg?resize=300%2C200",
+            "length": "309334",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/5b/e5b1fd50-33dc-11ef-92a2-afe57cc1522f/667c48031f794.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8141e47e-2d93-11ef-af6e-e72c565523f7",
+          "author": "SCOTT MENDELSON For The News-Review",
+          "description": "Any medication can cause side effects, ranging in severity from trivial to life-threatening. There can also be psychiatric side effects, such as depression, mania, confusion or even psychosis.",
+          "link": "https://www.nrtoday.com/news/guest_submission/antibiomania-mania-caused-by-antibiotics/article_8141e47e-2d93-11ef-af6e-e72c565523f7.html",
+          "publishedOn": "2024-06-26T13:30:00.000Z",
+          "wordCount": 14206,
+          "title": "Antibiomania: mania caused by antibiotics",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/26/d2659952-5c94-11ee-917c-0fe92cab8973/6513194af0bdf.image.jpg?resize=300%2C360",
+            "length": "134035",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/26/d2659952-5c94-11ee-917c-0fe92cab8973/6513194af0bdf.image.jpg?resize=300%2C360"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ee9264a0-333c-11ef-ad93-97bc9b7632ba",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS COUNTY — Crews from Douglas Forest Protective Association assisted in two fire calls Monday and Tuesday, according to a press release issued Tuesday.",
+          "link": "https://www.nrtoday.com/news/environment/douglas-forest-protective-association-responds-to-two-calls-in-two-days/article_ee9264a0-333c-11ef-ad93-97bc9b7632ba.html",
+          "publishedOn": "2024-06-26T13:00:00.000Z",
+          "wordCount": 13364,
+          "title": "Douglas Forest Protective Association responds to two calls in two days",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3cd71f46-330d-11ef-9196-ffa5d921ceb7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS COUNTY — Umpqua National Forest, Rogue-River Siskiyou National Forest and Cow Creek Band of Umpqua Tribe of Indians received $150,000 from the U.S. Department of Agriculture Forest Service.",
+          "link": "https://www.nrtoday.com/briefs/forest-service-invests-money-for-tribal-forest-protection-act-projects/article_3cd71f46-330d-11ef-9196-ffa5d921ceb7.html",
+          "publishedOn": "2024-06-26T12:00:00.000Z",
+          "wordCount": 13246,
+          "title": "Forest service invests money for Tribal Forest Protection Act projects",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/96d9121e-3340-11ef-b585-ab02d3eb3f93",
           "author": "Kyle Bailey For The News-Review",
           "description": "Two downtown Roseburg properties that have been vacant for decades have a new owner.",
@@ -992,116 +1097,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/24/824b0b74-2fe7-11ef-90ce-634d97e5327c/6675a3d42a8c7.image.jpg?resize=300%2C398"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/237f523a-3005-11ef-9f2c-2f7bb0419695",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "DOUGLAS COUNTY — As of midnight Saturday, public fire restriction levels changed to moderate for all private, county, state and Bureau of Indian Affairs lands within the Douglas District., according to Douglas Forest Protective Association.",
-          "link": "https://www.nrtoday.com/briefs/public-use-fire-restriction-level-changes-to-moderate/article_237f523a-3005-11ef-9f2c-2f7bb0419695.html",
-          "publishedOn": "2024-06-23T13:30:00.000Z",
-          "wordCount": 13245,
-          "title": "Public use fire restriction level changes to moderate",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fdd41718-30c8-11ef-b179-8f9d3b912b72",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Late Friday, the Oregon Department of Agriculture and Oregon Department of Fish and Wildlife announced new shellfish openings after tests showed clams in these areas were safe to eat.",
-          "link": "https://www.nrtoday.com/news/local/more-areas-open-for-shellfish-harvest/article_fdd41718-30c8-11ef-b179-8f9d3b912b72.html",
-          "publishedOn": "2024-06-23T12:45:00.000Z",
-          "wordCount": 13465,
-          "title": "More areas open for shellfish harvest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b1/3b1c75cc-a658-11ed-b6b2-7770d2650aa6/57c6fd3260bfb.image.jpg?resize=300%2C242",
-            "length": "720438",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b1/3b1c75cc-a658-11ed-b6b2-7770d2650aa6/57c6fd3260bfb.image.jpg?resize=300%2C242"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/01a2ebaa-3022-11ef-b182-d360ca79b0e3",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "Various road work projects across Douglas County will be conducted throughout the summer months by operations and maintenance divisions, Douglas County Public Works announced Friday.",
-          "link": "https://www.nrtoday.com/news/local/douglas_county/douglas-county-public-works-department-announces-summer-road-maintenance-projects/article_01a2ebaa-3022-11ef-b182-d360ca79b0e3.html",
-          "publishedOn": "2024-06-23T06:45:00.000Z",
-          "wordCount": 13500,
-          "title": "Douglas County Public Works Department announces summer road maintenance projects",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1a/71ae0a0a-3023-11ef-bde4-db40d771d0f4/5a867ee423ca0.image.jpg?resize=300%2C203",
-            "length": "423236",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1a/71ae0a0a-3023-11ef-bde4-db40d771d0f4/5a867ee423ca0.image.jpg?resize=300%2C203"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3c8d3d40-300b-11ef-b40a-bb2a90341df2",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "Cities across the county are embracing the summer weather and taking entertainment opportunities outdoors. Along with a variety of musical offerings, Myrtle Creek, Roseburg and Sutherlin offer movies in the park.",
-          "link": "https://www.nrtoday.com/a_and_e/cities-across-the-county-host-movies-in-the-park/article_3c8d3d40-300b-11ef-b40a-bb2a90341df2.html",
-          "publishedOn": "2024-06-23T00:00:00.000Z",
-          "wordCount": 13612,
-          "title": "Cities across the county host movies in the park",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a7/6a7e9f60-30ff-11ef-b3a8-27e44397415f/6677796f50660.image.jpg?resize=300%2C225",
-            "length": "288692",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a7/6a7e9f60-30ff-11ef-b3a8-27e44397415f/6677796f50660.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ff134ec-30d2-11ef-9653-973831c2608c",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "CANYONVILLE — For the racers of the Takelma Gravel Grinder on Saturday there is nothing better than finishing a race with a cold beverage and some hearty food. That is what the Squatchee Fest set out to do for racers…",
-          "link": "https://www.nrtoday.com/a_and_e/squatchee-fest-sees-hundreds-of-cyclists-enjoy-their-race-achievements/article_3ff134ec-30d2-11ef-9653-973831c2608c.html",
-          "publishedOn": "2024-06-22T23:30:00.000Z",
-          "wordCount": 14345,
-          "title": "Squatchee Fest sees hundreds of cyclists enjoy their race achievements",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ce/9ce59b58-30db-11ef-8b02-3f624f8769e4/66773d5e02013.image.jpg?resize=300%2C200",
-            "length": "372113",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ce/9ce59b58-30db-11ef-8b02-3f624f8769e4/66773d5e02013.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9234cf82-30cf-11ef-b669-8b4503eff8bc",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "ROSEBURG — Umpqua Valley Arts is seeking volunteers for the Summer Arts Festival, scheduled for Friday through Sunday.",
-          "link": "https://www.nrtoday.com/a_and_e/uva-seeks-volunteers-for-festival/article_9234cf82-30cf-11ef-b669-8b4503eff8bc.html",
-          "publishedOn": "2024-06-22T19:42:00.000Z",
-          "wordCount": 13255,
-          "title": "UVA seeks volunteers for festival",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e079b674-2cc6-11ef-875d-9b7b26834867",
-          "author": "DORIS KOBERNIK For The News-Review",
-          "description": "On June 10 the Roseburg Elks delivered a truck load full of diapers and baby wipes, along with a cash donation of $350, to the Safe Haven Maternity Home office found on Northeast Chestnut Avenue in Roseburg.",
-          "link": "https://www.nrtoday.com/news/guest_submission/roseburg-elks-dontate-to-safe-haven-maternity-home/article_e079b674-2cc6-11ef-875d-9b7b26834867.html",
-          "publishedOn": "2024-06-22T16:00:00.000Z",
-          "wordCount": 13321,
-          "title": "Roseburg Elks dontate to Safe Haven Maternity Home",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/fe/4fe16480-2cc7-11ef-8598-470d6ec68f26/6670655232dd6.image.jpg?resize=300%2C236",
-            "length": "364544",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/fe/4fe16480-2cc7-11ef-8598-470d6ec68f26/6670655232dd6.image.jpg?resize=300%2C236"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/247cf130-2fef-11ef-805d-933ea0654637",
-          "author": "MARIAH JOHNSTON For The News-Review",
-          "description": "WINSTON — If you ask members of the Winston Area Community Partnership, they will tell you the impact of the Douglas High School mural on the community is still felt over 70 years later. That's why this local nonprofit is…",
-          "link": "https://www.nrtoday.com/news/education/douglas-high-school-mural-in-need-of-more-funding/article_247cf130-2fef-11ef-805d-933ea0654637.html",
-          "publishedOn": "2024-06-22T14:30:00.000Z",
-          "wordCount": 14014,
-          "title": "Douglas High School mural in need of more funding",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/29/22998836-301e-11ef-98a1-2f744ffa9ec4/6047cba98b978.image.jpg?resize=300%2C225",
-            "length": "201849",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/29/22998836-301e-11ef-98a1-2f744ffa9ec4/6047cba98b978.image.jpg?resize=300%2C225"
         }
       ]
     },
