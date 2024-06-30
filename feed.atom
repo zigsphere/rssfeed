@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-06-30T13:11:09.600Z</updated>
+    <updated>2024-06-30T16:13:22.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping your trees alive is harder than it sounds]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c1586e12-34a9-11ef-887c-f7ec815d9551</id>
+        <link href="https://www.nrtoday.com/news/education/keeping-your-trees-alive-is-harder-than-it-sounds/article_c1586e12-34a9-11ef-887c-f7ec815d9551.html"/>
+        <updated>2024-06-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[When you plant a tree in the forest, you expect Mother Nature to take care of the tree’s water needs. But with recent hotter and drier drought conditions in Southern Oregon, many landowners are experiencing massive die-offs of newly planted…]]></summary>
+        <author>
+            <name>ALICIA CHRISTIANSEN For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City of Roseburg buildings to close for holiday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/380e26b8-3654-11ef-84ba-431f77b4071c</id>
+        <link href="https://www.nrtoday.com/briefs/city-of-roseburg-buildings-to-close-for-holiday/article_380e26b8-3654-11ef-84ba-431f77b4071c.html"/>
+        <updated>2024-06-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Government buildings operated by the city of Roseburg will be closed Thursday in observation of the Independence Day holiday.]]></summary>
+        <author>
+            <name>ERICA REYNOLDS The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Club hike scheduled for Saturday]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/df3b39b0-365b-11ef-91fe-bb282dd15a78</id>
