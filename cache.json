@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120614",
+          "author": "Kyle Bailey",
+          "description": "Music on the Half Shell committee memeber Lani Kimoto talks about the concert series and tonight’s artist Bombino.",
+          "link": "https://kqennewsradio.com/2024/07/02/morning-conversation-7-2-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-2-24",
+          "publishedOn": "2024-07-02T16:09:50.000Z",
+          "wordCount": 1550,
+          "title": "MORNING CONVERSATION 7.2.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240702150622/AM-CONV-7-2-24-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214855/shell-e1627382011800.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120610",
           "author": "Kyle Bailey",
           "description": "July 2, 2024 4:00 a.m. An Excessive Heat Watch remains in effect from Thursday morning through Sunday evening for inland areas in southern Oregon and northern California. Forecasters at the National Weather Service said dangerously hot conditions with high temperatures between 100 and 115 degrees are expected with low temperatures in the mid 60’s. In...",
@@ -279,6 +294,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7ab1152c-37bf-11ef-9ba4-fb13995d1ab6",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "With the goal of raising $15,000 for the Douglas County Emergency Food System, the two month long campaign known as Pouring Generosity has returned.",
+          "link": "https://www.nrtoday.com/business/pouring-generosity-returns/article_7ab1152c-37bf-11ef-9ba4-fb13995d1ab6.html",
+          "publishedOn": "2024-07-02T15:00:00.000Z",
+          "wordCount": 13454,
+          "title": "Pouring Generosity returns",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/50/550cd43b-b6da-5014-b887-40c3c015fd2e/632e18f964995.image.jpg?resize=300%2C210",
+            "length": "397453",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/50/550cd43b-b6da-5014-b887-40c3c015fd2e/632e18f964995.image.jpg?resize=300%2C210"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d8713948-37fc-11ef-a3e0-d3fb124e82cf",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "UMPQUA NATIONAL FOREST — Due to an increase in temperatures this week, Umpqua National Forest is increasing its Public Use Fire Restrictions to Level 1.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-national-forest-increases-campfire-restrictions-as-temperatures-rise/article_d8713948-37fc-11ef-a3e0-d3fb124e82cf.html",
+          "publishedOn": "2024-07-02T15:00:00.000Z",
+          "wordCount": 13194,
+          "title": "Umpqua National Forest increases campfire restrictions as temperatures rise",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bac3cc90-37c4-11ef-8428-077dfe62a6e6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "OAKLAND — A prescribed pasture burn is scheduled for 9 a.m. Monday, near the intersection of Driver Valley Road and Old Pioneer Road in Oakland, according to the Douglas Forest Protective Association and Umpqua Prescribed Burn Association.",
+          "link": "https://www.nrtoday.com/briefs/prescribed-pasture-burn-on-monday-in-oakland/article_bac3cc90-37c4-11ef-8428-077dfe62a6e6.html",
+          "publishedOn": "2024-07-02T14:30:00.000Z",
+          "wordCount": 13177,
+          "title": "Prescribed Pasture Burn on Monday in Oakland",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ad71466a-37da-11ef-b54b-ffc8dd8e86b0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SEASIDE — Douglas County will be represented at the national level by the newly crowned Miss Oregon’s Outstanding Teen, Kendyl-Rae Bartz of Oakland.",
+          "link": "https://www.nrtoday.com/news/education/kendyl-rae-bartz-named-miss-oregons-outstanding-teen/article_ad71466a-37da-11ef-b54b-ffc8dd8e86b0.html",
+          "publishedOn": "2024-07-02T14:00:00.000Z",
+          "wordCount": 13908,
+          "title": "Kendyl-Rae Bartz named Miss Oregon's Outstanding Teen",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/52/35251c58-37f4-11ef-91af-0bd2a5b22c4c/6683251b7970d.image.jpg?resize=300%2C400",
+            "length": "294248",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/52/35251c58-37f4-11ef-91af-0bd2a5b22c4c/6683251b7970d.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2c0b0886-366d-11ef-bc4c-0f1e50a9dd4c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "LOOKINGGLASS — Matthew Thompson of MTL Nursery said he built the koi pond at the nursery just shy of two years ago as a tribute to his mother.",
+          "link": "https://www.nrtoday.com/news/environment/self-guided-tour-displays-koi-ponds-from-around-the-county/article_2c0b0886-366d-11ef-bc4c-0f1e50a9dd4c.html",
+          "publishedOn": "2024-07-02T13:00:00.000Z",
+          "wordCount": 14223,
+          "title": "Self-guided tour displays koi ponds from around the county",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/34/e344ac82-366d-11ef-a741-5b43950ec1ca/6680964263af1.image.jpg?resize=300%2C200",
+            "length": "349553",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/34/e344ac82-366d-11ef-a741-5b43950ec1ca/6680964263af1.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/00a15958-34b9-11ef-9549-cf56e3761278",
           "author": "DREW WINKELMAIER The News-Review",
           "description": "From an early age, Bjarne Engen dreamed of the opportunities moving to the United States could afford him; chances 1930s Norway could not afford him.",
@@ -292,6 +372,16 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/47/547e80c8-34b9-11ef-994b-4f5805813fd7/667db9d64d9cc.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/767c3214-37c6-11ef-b29e-9771aa9f9ddf",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — CHI Mercy Health's Hospice team will host two events about Advance Care Planning.",
+          "link": "https://www.nrtoday.com/briefs/mercy-hosts-events-on-advance-care-planning/article_767c3214-37c6-11ef-b29e-9771aa9f9ddf.html",
+          "publishedOn": "2024-07-01T16:25:00.000Z",
+          "wordCount": 13169,
+          "title": "Mercy hosts events on Advance Care Planning",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d16f1282-34a0-11ef-96d7-db84d66d4ce9",
@@ -437,111 +527,6 @@
           "wordCount": 13572,
           "title": "Umpqua Stargazer: July starts summer meteor shower season",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/47ccc712-33f2-11ef-ac8c-974c5c524778",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "The first annual Family Fun Day, hosted by the Douglas County H.O.P.E. Drug Court program, FARA and Safe at Home, will take over the Douglas County Courthouse lawn from 4-6 p.m. Saturday.",
-          "link": "https://www.nrtoday.com/news/family-fun-day-recognizing-family-reunification-this-saturday/article_47ccc712-33f2-11ef-ac8c-974c5c524778.html",
-          "publishedOn": "2024-06-29T02:30:00.000Z",
-          "wordCount": 13574,
-          "title": "Family Fun Day recognizing family reunification this Saturday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/4b/e4be0b8e-34b6-11ef-ac3a-e3b4652ec8e7/65626844db175.image.jpg?resize=300%2C200",
-            "length": "244770",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/4b/e4be0b8e-34b6-11ef-ac3a-e3b4652ec8e7/65626844db175.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e3b37dc-34d0-11ef-be5e-33fc74613c2e",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "DOUGLAS COUNTY — Umpqua National Forest moved to Moderate Fire Danger across all districts of the forest Wednesday. No Public Use Restrictions have been issued at this time.",
-          "link": "https://www.nrtoday.com/news/environment/umpqua-national-forest-moved-to-moderate-fire-danger/article_7e3b37dc-34d0-11ef-be5e-33fc74613c2e.html",
-          "publishedOn": "2024-06-28T14:30:00.000Z",
-          "wordCount": 13273,
-          "title": "Umpqua National Forest moved to Moderate fire danger",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/43319080-3405-11ef-8f52-5bf39c68706f",
-          "author": "Mackenzi Hall Master Gardener",
-          "description": "Question: I live on a small piece of property in town and I do not have irrigation. Every summer my lawn turns brown because I don’t have a way of watering it besides moving sprinklers around. A friend told me…",
-          "link": "https://www.nrtoday.com/news/environment/ask-a-master-gardener-drought-tolerant-lawns/article_43319080-3405-11ef-8f52-5bf39c68706f.html",
-          "publishedOn": "2024-06-28T13:45:00.000Z",
-          "wordCount": 13995,
-          "title": "Ask a Master Gardener: Drought tolerant lawns",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/06/6066a4ec-3405-11ef-a23b-6fb656d59f25/667c8becd27ee.image.jpg?resize=300%2C225",
-            "length": "609009",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/06/6066a4ec-3405-11ef-a23b-6fb656d59f25/667c8becd27ee.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e2f9846-3323-11ef-b772-3783c06f9c0b",
-          "author": "AIMEE LOVE For The News-Review",
-          "description": "It can be difficult to understand today’s highly complex global food systems, but the evidence of its existence is on full display anytime you shop for produce at a chain grocery store.",
-          "link": "https://www.nrtoday.com/family/extension-spotlight-home-sweet-oinion/article_6e2f9846-3323-11ef-b772-3783c06f9c0b.html",
-          "publishedOn": "2024-06-28T13:45:00.000Z",
-          "wordCount": 14001,
-          "title": "Extension Spotlight: Home sweet oinion",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/04/a0405e06-3323-11ef-995e-8f12c2f1e020/667b112db095f.image.jpg?resize=300%2C203",
-            "length": "184263",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/04/a0405e06-3323-11ef-995e-8f12c2f1e020/667b112db095f.image.jpg?resize=300%2C203"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/dff00de6-34ca-11ef-b27e-4ba6ecb21bff",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Roseburg District of the Bureau of Land Management will place a fire prevention order in effect as of Friday morning on the bureau’s administered lands. This order aims to mitigate the risk of human-caused fires and will remain in effect…",
-          "link": "https://www.nrtoday.com/news/environment/fire-prevention-order-in-effect-in-roseburg-blm-lands/article_dff00de6-34ca-11ef-b27e-4ba6ecb21bff.html",
-          "publishedOn": "2024-06-28T13:45:00.000Z",
-          "wordCount": 13396,
-          "title": "Fire Prevention Order in effect in Roseburg BLM lands",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8b62f6d6-3406-11ef-9b2c-a750f7b50387",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "DOUGLAS COUNTY — In observance of July Fourth, Douglas County announced the closure of the Douglas County Courthouse, Douglas County Justice Building, Douglas County Courthouse Annex in Reedsport, Douglas County Fairgrounds office, Douglas County Landfill and transfer sites, and all…",
-          "link": "https://www.nrtoday.com/briefs/douglas-county-holiday-closures/article_8b62f6d6-3406-11ef-9b2c-a750f7b50387.html",
-          "publishedOn": "2024-06-28T13:45:00.000Z",
-          "wordCount": 13286,
-          "title": "Douglas County holiday closures",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a773bf44-34b6-11ef-beb6-dfffc5303f5f",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "With the Fourth of July just around the corner, firework tents are popping up in grocery store parking lots scattered across the county.",
-          "link": "https://www.nrtoday.com/family/fireworks-and-fire-safety-in-douglas-county/article_a773bf44-34b6-11ef-beb6-dfffc5303f5f.html",
-          "publishedOn": "2024-06-28T13:45:00.000Z",
-          "wordCount": 13959,
-          "title": "Fireworks and fire safety in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/55/e55a9f4e-34b6-11ef-a100-8b9298f854c8/667db5c0ce3a6.image.jpg?resize=300%2C200",
-            "length": "498290",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/55/e55a9f4e-34b6-11ef-a100-8b9298f854c8/667db5c0ce3a6.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/39f6986a-34cf-11ef-addd-4b0ee350fbbe",
-          "author": "KIMBERLI HOLMQUIST The News-Review",
-          "description": "The new owners of 55,000 acres of timberland in Southwest Oregon will allow greater access for recreation, the company announced in a press release.",
-          "link": "https://www.nrtoday.com/news/company-purchases-55-000-acres-of-timberland-in-douglas-coos-and-curry-counties/article_39f6986a-34cf-11ef-addd-4b0ee350fbbe.html",
-          "publishedOn": "2024-06-28T13:30:00.000Z",
-          "wordCount": 13707,
-          "title": "Company purchases 55,000 acres of timberland in Douglas, Coos and Curry counties",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/72/a7244da6-34cf-11ef-8361-27b75698f949/667ddf49d8036.image.jpg?resize=300%2C534",
-            "length": "285925",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/72/a7244da6-34cf-11ef-8361-27b75698f949/667ddf49d8036.image.jpg?resize=300%2C534"
         }
       ]
     },
@@ -609,16 +594,6 @@
             "length": "115067",
             "type": "application/pdf"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=1072#news173391",
-          "author": null,
-          "description": "PRINEVILLE, Ore. – Starting Monday, July 1, 2024, at 12:01 a.m. on all lands protected by the Oregon Department of Forestry’s (ODF) Central Oregon District, the district’s fire danger level will be “High,” and the Industrial Fire Precaution Level (IFPL) will be II (two) in MH-1 (portions of Hood River and Wasco counties). \nWith continued high temperatures, winds and drying fuels, the district is issuing public restrictions and regulated use closures in recognition of the increasing fire danger in order to reduce the risk of human-caused fires. \nWith that in mind, the Central Oregon District restricts the following activities: \n\nUse of fireworks and blasting is prohibited. \nNo debris burning, including piles and debris burned in burn barrels.\nOpen fires are prohibited, including campfires, charcoal fires, cooking fires and warming fires, except in designated areas. Propane fire pits and camp stoves are allowed but require one shovel and one gallon of water or one 2 ½ pound fire extinguisher on site.\nChainsaw use and mowing of dried grass is prohibited, between the hours of 1 p.m. and 8 p.m. One hour fire watch required.\nNo smoking while traveling through or working in any operation area.\n\nIn addition to the fire prevention requirements Under IFPL II (two), limited shutdown, the following activities are not permitted between the hours of 1 p.m. and 8 p.m., except as noted: \n\nPower saws may operate at loading sites;\nFeller-bunchers with rotary head saws;\nCable yarding\nBlasting\nWelding, cutting, or grinding of metal\n\nAdditional fire restrictions or regulations may apply depending on the various fire risks. Check the full list of restrictions at https://www.oregon.gov/odf/fire/pages/restrictions.aspx. \nFor more information on the Central Oregon District and fire season regulations, visit https://odfcentraloregon.com/.\nThe less human-caused fires we have, the less the district’s resources are strained. For tips on wildfire prevention, visit www.keeporegongreen.org.",
-          "link": "https://www.flashalert.net/news.html?id=1072#news173391",
-          "publishedOn": "2024-06-29T02:59:41.000Z",
-          "wordCount": 4522,
-          "title": "Central Oregon District enters High Fire Danger July 1",
           "imageUrl": null
         }
       ]
