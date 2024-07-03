@@ -464,6 +464,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/05c07232-3885-11ef-994f-435c11cbd9d5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — This month at the Better Life Roseburg Seventh Day Adventist Church, an extensively equipped and specialized dental van will be on-site every Sunday and Wednesday to provide, by appointment, necessary dental care for the community at large.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-church-provide-free-dental-care/article_05c07232-3885-11ef-994f-435c11cbd9d5.html",
+          "publishedOn": "2024-07-03T15:09:00.000Z",
+          "wordCount": 13200,
+          "title": "Roseburg church provide free dental care",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bde8cd64-38cb-11ef-846f-473e98ce3387",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Glide Revitalization is in its second year hosting a Youth Outdoor Adventure Program, which teaches students how to survive in the wild.",
+          "link": "https://www.nrtoday.com/news/education/children-and-adults-learn-essential-life-skills/article_bde8cd64-38cb-11ef-846f-473e98ce3387.html",
+          "publishedOn": "2024-07-03T15:00:00.000Z",
+          "wordCount": 14387,
+          "title": "Children and adults learn essential life skills",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/d6/5d678dc4-38dd-11ef-abf2-87c774218999/6684ac47becb0.image.jpg?resize=300%2C200",
+            "length": "307673",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/d6/5d678dc4-38dd-11ef-abf2-87c774218999/6684ac47becb0.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/26386f0e-3896-11ef-b8fc-3f263235927e",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "The sunny and warm weather might call for naps in a hammock or sitting riverside with a lawn chair, but the nice weather is also a great opportunity to try a variety of community-centered exercise offered outside during the summer…",
+          "link": "https://www.nrtoday.com/news/health/summer-outdoor-fitness/article_26386f0e-3896-11ef-b8fc-3f263235927e.html",
+          "publishedOn": "2024-07-03T14:30:00.000Z",
+          "wordCount": 13674,
+          "title": "Summer outdoor fitness",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/ff/cfffd85e-38a2-11ef-9ad1-bf773742a5a7/648b468eaa0ac.image.jpg?resize=300%2C200",
+            "length": "808973",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/ff/cfffd85e-38a2-11ef-9ad1-bf773742a5a7/648b468eaa0ac.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62ceee3c-356e-11ef-af46-277955648612",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "Hardships and down days are exactly what this furry friend with four legs specializes in, and bringing a familiar face and comforting presence is exactly what he does.",
+          "link": "https://www.nrtoday.com/news/healing-with-four-paws/article_62ceee3c-356e-11ef-af46-277955648612.html",
+          "publishedOn": "2024-07-03T13:45:00.000Z",
+          "wordCount": 14179,
+          "title": "Healing with four paws",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/54/e5474b84-356e-11ef-b644-673260f30d49/667eea741c753.image.jpg?resize=300%2C226",
+            "length": "575544",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/54/e5474b84-356e-11ef-b644-673260f30d49/667eea741c753.image.jpg?resize=300%2C226"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5425cc0c-3884-11ef-bab1-0789cf303c40",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — An Excessive Heat Watch remains in effect from Thursday morning through Sunday evening for inland areas in Southern Oregon and Northern California.",
+          "link": "https://www.nrtoday.com/news/local/excessive-heat-watch-in-affect-thursday-through-sunday/article_5425cc0c-3884-11ef-bab1-0789cf303c40.html",
+          "publishedOn": "2024-07-03T13:00:00.000Z",
+          "wordCount": 13212,
+          "title": "Excessive heat watch in affect Thursday through Sunday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9ffc5524-38d4-11ef-89df-1f17bd0d30a3",
           "author": "ERICA REYNOLDS The News-Review",
           "description": "Just days after local fire crews participated in wildland fire training exercise, Roseburg Fire Department responded to a natural cover fire on Reservoir Hill.",
@@ -642,56 +707,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/ef/7ef9373e-366d-11ef-8eda-5baedd92e034/6680959a22c6d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f82c9268-3569-11ef-acd9-cf01ddc9142c",
-          "author": "Kris Wiley for The News-Review",
-          "description": "Whether you’re planning a day hike or a journey across an ocean, Roseburg Public Library has some fun, practical guidebooks to make your next adventure special.",
-          "link": "https://www.nrtoday.com/news/guest_submission/use-the-library-to-plan-your-next-adventure/article_f82c9268-3569-11ef-acd9-cf01ddc9142c.html",
-          "publishedOn": "2024-06-29T22:41:00.000Z",
-          "wordCount": 13634,
-          "title": "Use the library to plan your next adventure",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/710303a2-35e2-11ef-b5be-43057b98928a",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — About 50 people sat in lawn chairs, draped in blankets as they alternated between watching a powerpoint, looking at telescope photos or following the laser pointer local astronomers used to identify objects in the night sky.",
-          "link": "https://www.nrtoday.com/news/environment/observatory-hosts-first-summer-event/article_710303a2-35e2-11ef-b5be-43057b98928a.html",
-          "publishedOn": "2024-06-29T18:00:00.000Z",
-          "wordCount": 14364,
-          "title": "Observatory hosts first summer event",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/8d/e8d53bc0-35dd-11ef-a478-ef6860aadc2e/667fa4b434e0e.image.jpg?resize=300%2C200",
-            "length": "217619",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/8d/e8d53bc0-35dd-11ef-a478-ef6860aadc2e/667fa4b434e0e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9f574d98-3589-11ef-961e-03b8be32a11d",
-          "author": "Scott Carroll The News-Review",
-          "description": "YONCALLA — The owner of the truck stop in Rice Hill have been fined more than $50,000 by the state’s top environmental watchdog for a myriad of problems involving improper discharges from the wastewater treatment facility at the site.",
-          "link": "https://www.nrtoday.com/business/truck-stop-owners-cited-for-wastewater-violations/article_9f574d98-3589-11ef-961e-03b8be32a11d.html",
-          "publishedOn": "2024-06-29T15:30:00.000Z",
-          "wordCount": 13900,
-          "title": "Truck stop owners cited for wastewater violations",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ad8d8204-356d-11ef-ada9-5b50657c7671",
-          "author": null,
-          "description": "NAMI Douglas County, the local chapter of the National Alliance on Mental Illness, will hold its monthly meeting 6-7:30 p.m. Monday at Vine Street Baptist Church, 2152 NE Vine St., Roseburg.",
-          "link": "https://www.nrtoday.com/life/national-alliance-on-mental-illness-meeting-monday/article_ad8d8204-356d-11ef-ada9-5b50657c7671.html",
-          "publishedOn": "2024-06-29T15:00:00.000Z",
-          "wordCount": 13195,
-          "title": "National Alliance on Mental Illness meeting Monday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
