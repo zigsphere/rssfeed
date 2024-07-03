@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120652",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/07/02/true-wealth-7-2-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-7-2-24",
+          "publishedOn": "2024-07-03T00:37:09.000Z",
+          "wordCount": 1540,
+          "title": "TRUE WEALTH 7..2.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240702233531/TRUE-WEALTH-7-2-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120639",
           "author": "Kyle Bailey",
           "description": "County Emergency Manager Emily Ring and Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office talk about the Douglas Alerts emergency alert and warning system.",
@@ -364,16 +379,6 @@
           "wordCount": 1635,
           "title": "RAZOR CLAMMING NOW OPEN FROM COOS BAY TO THE CALIFORNIA BORDER",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120537",
-          "author": "Kyle Bailey",
-          "description": "June 29, 2024 6:30 a.m. The driver was taken to the hospital, following a rollover accident on Friday afternoon. Information from Roseburg Police said just after 3:15 p.m. a large SUV was westbound on Northeast Diamond Lake Boulevard when it rolled and ended up in the parking lot of a business in the 3300 block,...",
-          "link": "https://kqennewsradio.com/2024/06/29/driver-taken-to-hospital-after-friday-rollover-accident/?utm_source=rss&utm_medium=rss&utm_campaign=driver-taken-to-hospital-after-friday-rollover-accident",
-          "publishedOn": "2024-06-29T13:42:36.000Z",
-          "wordCount": 1608,
-          "title": "DRIVER TAKEN TO HOSPITAL AFTER FRIDAY ROLLOVER ACCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240629124123/drew1.jpg"
         }
       ]
     },
@@ -388,6 +393,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9ffc5524-38d4-11ef-89df-1f17bd0d30a3",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Just days after local fire crews participated in wildland fire training exercise, Roseburg Fire Department responded to a natural cover fire on Reservoir Hill.",
+          "link": "https://www.nrtoday.com/news/fire-crews-respond-to-fire-on-reservoir-hill/article_9ffc5524-38d4-11ef-89df-1f17bd0d30a3.html",
+          "publishedOn": "2024-07-03T00:38:00.000Z",
+          "wordCount": 13366,
+          "title": "Fire crews respond to fire on Reservoir Hill",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8eaec762-38ce-11ef-a3a7-0b5268b47688",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS DISTRICT — Public Use Restriction levels will change to high for all private, county, state and Bureau of Indian Affairs lands in the Douglas Forest Protective Association's district, effective Thursday.",
+          "link": "https://www.nrtoday.com/briefs/public-use-restriction-levels-change-to-high-thursday/article_8eaec762-38ce-11ef-a3a7-0b5268b47688.html",
+          "publishedOn": "2024-07-02T23:55:00.000Z",
+          "wordCount": 13188,
+          "title": "Public Use Restriction Levels change to high Thursday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7ab1152c-37bf-11ef-9ba4-fb13995d1ab6",
           "author": "MARIAH JOHNSTON The News-Review",
@@ -597,31 +622,6 @@
           "wordCount": 13195,
           "title": "National Alliance on Mental Illness meeting Monday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ba9b0e6a-357e-11ef-bb3e-13f19b533583",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "The LGBTQ+ community and allies gathered together Thursday night to create beaded crafts and celebrate Pride and come together as a community at Frogleg Studio in downtown Roseburg.",
-          "link": "https://www.nrtoday.com/a_and_e/beads-of-pride-a-rainbow-of-inclusion/article_ba9b0e6a-357e-11ef-bb3e-13f19b533583.html",
-          "publishedOn": "2024-06-29T14:00:00.000Z",
-          "wordCount": 13988,
-          "title": "Beads of Pride a rainbow of inclusion",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/04/00429780-357f-11ef-9462-3f15646ca7a5/667f0579509ff.image.jpg?resize=300%2C200",
-            "length": "214715",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/04/00429780-357f-11ef-9462-3f15646ca7a5/667f0579509ff.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e23b67d0-356a-11ef-a4d8-c7655a6b5672",
-          "author": "PAUL MORGAN For The News-Review",
-          "description": "Two planets enter the evening sky this month. Mercury climbs away from the sunset each night as Venus drifts parallel to the western horizon.",
-          "link": "https://www.nrtoday.com/news/education/umpqua-stargazer-july-starts-summer-meteor-shower-season/article_e23b67d0-356a-11ef-a4d8-c7655a6b5672.html",
-          "publishedOn": "2024-06-29T14:00:00.000Z",
-          "wordCount": 13572,
-          "title": "Umpqua Stargazer: July starts summer meteor shower season",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -663,7 +663,18 @@
       "title": "Roseburg Fire Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5568",
       "siteUrl": "https://www.flashalert.net/news.html?id=5568",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5568#news173483",
+          "author": null,
+          "description": "At 2:08 p.m. on July 2, 2024, Roseburg Fire Department personnel responded to a reported natural cover fire on Reservoir Hill.  The caller reported seeing both smoke and flames on the hillside.\nFirefighters arrived on scene to find a natural cover fire that was determined to be a rekindle from the previous night.  The natural cover fire was in the area of the 200 block of Pine Street at the base of Reservoir Hill.  The fire had spread throughout portions of the hillside. Although access to the site was difficult, firefighters from the Roseburg Fire Department and the Douglas Forest Protective Association were able to bring the fire under control quickly, limiting the area of the burn to approximately two and a half acres.\nThe initial natural cover fire, being a half acre in size, occurred …",
+          "link": "https://www.flashalert.net/news.html?id=5568#news173483",
+          "publishedOn": "2024-07-03T00:26:47.000Z",
+          "wordCount": 805,
+          "title": "Natural Cover Fire -- 200 Block of Pine / Base of Reservoir Hill -- 7-2-24",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Interagency Narcotics Team (DINT)",
