@@ -539,6 +539,121 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d02607bc-3ae7-11ef-85c9-931816dee41e",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — An Excessive Heat Warning remains in effect through 9 p.m. Monday for central Douglas County and its eastern foothills including Roseburg, Sutherlin and Toketee Falls.",
+          "link": "https://www.nrtoday.com/briefs/excessive-heat-warning-through-monday-evening/article_d02607bc-3ae7-11ef-85c9-931816dee41e.html",
+          "publishedOn": "2024-07-05T16:01:00.000Z",
+          "wordCount": 13167,
+          "title": "Excessive Heat Warning through Monday evening",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/94c75004-3ae7-11ef-8610-671fbba30675",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — The National Weather Service has a Red Flag Warning in effect Friday from 4-8 p.m. for much of the Interstate Five corridor from the Umpqua Valley into northern California.",
+          "link": "https://www.nrtoday.com/briefs/red-flag-warning-fire-weather-watch-in-place-friday/article_94c75004-3ae7-11ef-8610-671fbba30675.html",
+          "publishedOn": "2024-07-05T15:59:00.000Z",
+          "wordCount": 13155,
+          "title": "Red Flag Warning/Fire Weather Watch in place Friday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/222c0396-3ae7-11ef-ad01-773e4ae9f7c0",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINCHESTER — The Paul Morgan Observatory at Umpqua Community College will host a Cruising to the Stars event during Graffiti Weekend.",
+          "link": "https://www.nrtoday.com/briefs/cruising-to-the-stars-on-july-12/article_222c0396-3ae7-11ef-ad01-773e4ae9f7c0.html",
+          "publishedOn": "2024-07-05T15:56:00.000Z",
+          "wordCount": 13141,
+          "title": "Cruising to the Stars on July 12",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d98e1738-3ae5-11ef-8412-7f079d1a22da",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINSTON — The Riverbend Live! summer concert series features blues and roots music at 7 p.m. Friday in Winston’s Riverbend Park.",
+          "link": "https://www.nrtoday.com/a_and_e/riverbend-live-continues-friday/article_d98e1738-3ae5-11ef-8412-7f079d1a22da.html",
+          "publishedOn": "2024-07-05T15:47:00.000Z",
+          "wordCount": 13197,
+          "title": "Riverbend Live! continues Friday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a3bbd15a-38a0-11ef-8533-c307ee8e5522",
+          "author": "Bonnie Courter Master Gardener",
+          "description": "Question: I’ve heard talk of a new bee arrival in Oregon called a squash bee. Can you tell me more about it?",
+          "link": "https://www.nrtoday.com/news/environment/ask-a-master-gardener-what-are-squash-bees/article_a3bbd15a-38a0-11ef-8533-c307ee8e5522.html",
+          "publishedOn": "2024-07-05T13:45:00.000Z",
+          "wordCount": 13995,
+          "title": "Ask a Master Gardener: What are squash bees?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/29/c2922fca-38a0-11ef-be61-17887cefe6ff/6684469a332bd.image.jpg?resize=300%2C200",
+            "length": "129365",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/29/c2922fca-38a0-11ef-be61-17887cefe6ff/6684469a332bd.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ce51556c-38c7-11ef-bc0d-1bfc85e29881",
+          "author": "BRITTANY ARNOLD The News-Review",
+          "description": "July is here and it promptly brought the heat with it. Much of Douglas County is seeing temperatures in the triple digits this weekend. Such a heat wave demands paying close attention to health and being even more intentional about…",
+          "link": "https://www.nrtoday.com/news/stay-cool-and-healthy-during-heat-wave/article_ce51556c-38c7-11ef-bc0d-1bfc85e29881.html",
+          "publishedOn": "2024-07-05T13:30:00.000Z",
+          "wordCount": 13848,
+          "title": "Stay cool and healthy during heat wave",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/68/f6859e70-3ae0-11ee-88ed-3b2659a5f3fa/64da8e25c96f4.image.jpg?resize=300%2C200",
+            "length": "372395",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/68/f6859e70-3ae0-11ee-88ed-3b2659a5f3fa/64da8e25c96f4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f87a204c-3a9a-11ef-ba52-63c37632e628",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "Hundreds came to the Douglas County Fairgrounds in Roseburg on Thursday to celebrate the day the United States declared independence form Great Britain with a racetrack event and fireworks show.",
+          "link": "https://www.nrtoday.com/news/roseburg-celebrates-fourth-of-july-with-fireworks/article_f87a204c-3a9a-11ef-ba52-63c37632e628.html",
+          "publishedOn": "2024-07-05T13:30:00.000Z",
+          "wordCount": 13714,
+          "title": "Roseburg celebrates Fourth of July with fireworks",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/45/24582be6-3a9b-11ef-b57b-0bb09eb681b7/6687982b90900.image.jpg?resize=300%2C200",
+            "length": "298506",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/45/24582be6-3a9b-11ef-b57b-0bb09eb681b7/6687982b90900.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a0f2fc02-399d-11ef-a720-47b6d1f537bd",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "WINCHESTER — Umpqua Community College will bring the sound of the 50s to Douglas County next week, with the upcoming musical theater review, “The Day the Music Died.”",
+          "link": "https://www.nrtoday.com/news/umpqua-community-college-to-perform-the-day-the-music-died/article_a0f2fc02-399d-11ef-a720-47b6d1f537bd.html",
+          "publishedOn": "2024-07-04T21:15:00.000Z",
+          "wordCount": 13444,
+          "title": "Umpqua Community College to perform 'The Day the Music Died'",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/97/e973c2ce-39a0-11ef-a25b-cfc22207e862/6685f45a936ed.image.jpg?resize=300%2C388",
+            "length": "341373",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/97/e973c2ce-39a0-11ef-a25b-cfc22207e862/6685f45a936ed.image.jpg?resize=300%2C388"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/803781d4-3a3a-11ef-aa00-1b70bb0ab93e",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "OAKLAND — The sirens from an Oakland Fire District fire truck could be heard throughout the small town of Oakland, signaling the start of the town’s annual Fourth of July parade.",
+          "link": "https://www.nrtoday.com/celebrations/fun-in-the-summer-sun-during-oaklands-fourth-of-july-celebration/article_803781d4-3a3a-11ef-aa00-1b70bb0ab93e.html",
+          "publishedOn": "2024-07-04T19:30:00.000Z",
+          "wordCount": 15099,
+          "title": "Fun in the summer sun during Oakland's Fourth of July celebration",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/9f/29f45c2c-3a42-11ef-a07f-379a565b855b/66888e693c7e8.image.jpg?resize=300%2C200",
+            "length": "355307",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/9f/29f45c2c-3a42-11ef-a07f-379a565b855b/66888e693c7e8.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a57e7ca6-38cb-11ef-b19d-837af01fef4e",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Umpqua National Forest held a ribbon cutting ceremony for the new supervisor’s office located on Garden Valley Boulevard.",
@@ -716,61 +831,6 @@
           "publishedOn": "2024-07-02T14:30:00.000Z",
           "wordCount": 13177,
           "title": "Prescribed Pasture Burn on Monday in Oakland",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ad71466a-37da-11ef-b54b-ffc8dd8e86b0",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SEASIDE — Douglas County will be represented at the national level by the newly crowned Miss Oregon’s Outstanding Teen, Kendyl-Rae Bartz of Oakland.",
-          "link": "https://www.nrtoday.com/news/education/kendyl-rae-bartz-named-miss-oregons-outstanding-teen/article_ad71466a-37da-11ef-b54b-ffc8dd8e86b0.html",
-          "publishedOn": "2024-07-02T14:00:00.000Z",
-          "wordCount": 13908,
-          "title": "Kendyl-Rae Bartz named Miss Oregon's Outstanding Teen",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/52/35251c58-37f4-11ef-91af-0bd2a5b22c4c/6683251b7970d.image.jpg?resize=300%2C400",
-            "length": "294248",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/52/35251c58-37f4-11ef-91af-0bd2a5b22c4c/6683251b7970d.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2c0b0886-366d-11ef-bc4c-0f1e50a9dd4c",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "LOOKINGGLASS — Matthew Thompson of MTL Nursery said he built the koi pond at the nursery just shy of two years ago as a tribute to his mother.",
-          "link": "https://www.nrtoday.com/news/environment/self-guided-tour-displays-koi-ponds-from-around-the-county/article_2c0b0886-366d-11ef-bc4c-0f1e50a9dd4c.html",
-          "publishedOn": "2024-07-02T13:00:00.000Z",
-          "wordCount": 14223,
-          "title": "Self-guided tour displays koi ponds from around the county",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/34/e344ac82-366d-11ef-a741-5b43950ec1ca/6680964263af1.image.jpg?resize=300%2C200",
-            "length": "349553",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/34/e344ac82-366d-11ef-a741-5b43950ec1ca/6680964263af1.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/00a15958-34b9-11ef-9549-cf56e3761278",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "From an early age, Bjarne Engen dreamed of the opportunities moving to the United States could afford him; chances 1930s Norway could not afford him.",
-          "link": "https://www.nrtoday.com/news/local/from-norway-to-canyonville-surviving-wwii-and-vietnam/article_00a15958-34b9-11ef-9549-cf56e3761278.html",
-          "publishedOn": "2024-07-01T17:00:00.000Z",
-          "wordCount": 14216,
-          "title": "From Norway to Canyonville: Surviving WWII and Vietnam",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/47/547e80c8-34b9-11ef-994b-4f5805813fd7/667db9d64d9cc.image.jpg?resize=300%2C200",
-            "length": "354506",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/47/547e80c8-34b9-11ef-994b-4f5805813fd7/667db9d64d9cc.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/767c3214-37c6-11ef-b29e-9771aa9f9ddf",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "ROSEBURG — CHI Mercy Health's Hospice team will host two events about Advance Care Planning.",
-          "link": "https://www.nrtoday.com/briefs/mercy-hosts-events-on-advance-care-planning/article_767c3214-37c6-11ef-b29e-9771aa9f9ddf.html",
-          "publishedOn": "2024-07-01T16:25:00.000Z",
-          "wordCount": 13169,
-          "title": "Mercy hosts events on Advance Care Planning",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
