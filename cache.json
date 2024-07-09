@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120874",
+          "author": "Kyle Bailey",
+          "description": "Graffiti Committee President Bob Scott talks about all the events happening between Wednesday and Sunday.",
+          "link": "https://kqennewsradio.com/2024/07/09/morning-conversation-7-9-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-9-24",
+          "publishedOn": "2024-07-09T16:04:49.000Z",
+          "wordCount": 1546,
+          "title": "MORNING CONVERSATION 7.9.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240709145610/AM-CONV-7-9-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240709150431/IMG_4925.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120867",
           "author": "Kyle Bailey",
           "description": "July 9, 2024 4:10 a.m.  An Excessive Heat Warning remains in effect through 9:00 p.m. Tuesday. Forecasters at the National Weather Service said high temperatures of 100 to 108 degrees with lows in the mid to upper 60s are expected. The Warning area applies to central Douglas County and its eastern foothills. Forecasters said heat...",
@@ -394,6 +409,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6d4f15ec-3d81-11ef-ba54-3b676d365cac",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Volunteers are welcome to transport fish by horseback or backpack to the high lakes of the Umpqua.",
+          "link": "https://www.nrtoday.com/news/environment/restock-local-lakes-manually/article_6d4f15ec-3d81-11ef-ba54-3b676d365cac.html",
+          "publishedOn": "2024-07-09T15:00:00.000Z",
+          "wordCount": 13524,
+          "title": "Restock local lakes manually",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/09e20622-3d4f-11ef-a18b-dbc2a31b9dd2",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "GARNER — Oregon State Police responded to a fatal crash on Highway 101 near milepost 207 on Saturday.",
+          "link": "https://www.nrtoday.com/briefs/idaho-man-dies-in-douglas-county-crash/article_09e20622-3d4f-11ef-a18b-dbc2a31b9dd2.html",
+          "publishedOn": "2024-07-09T14:00:00.000Z",
+          "wordCount": 13158,
+          "title": "Idaho man dies in Douglas County crash",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/694f7d44-3d43-11ef-a597-bba1470d868b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Central Douglas Fire & Rescue responded to the Douglas County Landfill at approximately 4:16 p.m. Sunday for reports of a fire in the trash at the top of the landfill. Several reports were received about heavy smoke above…",
+          "link": "https://www.nrtoday.com/briefs/landfill-fire-sparks-concern-kept-under-control/article_694f7d44-3d43-11ef-a597-bba1470d868b.html",
+          "publishedOn": "2024-07-09T14:00:00.000Z",
+          "wordCount": 13476,
+          "title": "Landfill fire sparks concern, kept under control",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/1e/a1ebb09e-3d45-11ef-ae83-ffef9119785c/668c113309cbd.image.jpg?resize=300%2C225",
+            "length": "58156",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/1e/a1ebb09e-3d45-11ef-ae83-ffef9119785c/668c113309cbd.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/51be5fea-3da4-11ef-998a-5b622e4a8036",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "SUTHERLIN — Instead of outright banning psilocybin related businesses within city limits, Sutherlin City Council members deliberated Monday to put the decision in the hands of voters during the November general election.",
+          "link": "https://www.nrtoday.com/news/government/city/sutherlin-residents-to-decide-whether-to-ban-psilocybin-service-centers-in-november-election/article_51be5fea-3da4-11ef-998a-5b622e4a8036.html",
+          "publishedOn": "2024-07-09T13:45:00.000Z",
+          "wordCount": 14086,
+          "title": "Sutherlin residents to decide whether to ban psilocybin service centers in November election",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a2c296-3da6-11ef-b6f7-cfb9ccf008f1/668cb37394041.image.jpg?resize=300%2C200",
+            "length": "274608",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a2c296-3da6-11ef-b6f7-cfb9ccf008f1/668cb37394041.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ec71e466-3d82-11ef-8285-bf2e74de4cce",
           "author": "ERICA REYNOLDS The News-Review",
           "description": "ROSEBURG — An unidentified female pedestrian died at approximately 3 p.m. Monday in a vehicle vs. pedestrian accident in the intersection of Southeast Stephens Street and Southeast Douglas Avenue in Roseburg.",
@@ -422,6 +487,16 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/9a/49a83f04-3c25-11ef-b95e-5754530b7e0f/668a2d6fdd74e.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ELKTON— Firefighters from Douglas Forest Protective Association, Elkton Rural Fire Protection District, Kellogg Rural Fire District, Scottsburg Rural Fire District and North Douglas Fire & EMS responded at approximately 10:25 p.m. Saturday to a reported natural cover fire in Elkton,…",
+          "link": "https://www.nrtoday.com/briefs/crews-stop-natural-cover-fire-near-elkton/article_dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d.html",
+          "publishedOn": "2024-07-08T16:55:00.000Z",
+          "wordCount": 13241,
+          "title": "Crews stop natural cover fire near Elkton",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d19b7014-3afb-11ef-b373-f7c3f93abee9",
