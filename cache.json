@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120849",
+          "author": "Kyle Bailey",
+          "description": "July 8, 2024 5;00 p.m.  Monday afternoon at approximately 3:00 p.m. Roseburg Police Department and emergency personnel responded to a report that a pedestrian had been hit by a commercial motor vehicle and trailer at the intersection of Southeast Stephens Street and Southeast Douglas Street. Sergeant Daniel Allen said the preliminary investigation revealed that the...",
+          "link": "https://kqennewsradio.com/2024/07/08/fatal-vehicle-versus-pedestrian-accident-monday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=fatal-vehicle-versus-pedestrian-accident-monday-afternoon",
+          "publishedOn": "2024-07-08T23:59:45.000Z",
+          "wordCount": 1617,
+          "title": "FATAL VEHICLE VERSUS PEDESTRIAN ACCIDENT MONDAY AFTERNOON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240708225933/IMG_4920.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120845",
           "author": "Kyle Bailey",
           "description": "Douglas County Commission Chair Chris Boice talks about county government in the new fiscal year, which began on July 1st.",
@@ -657,7 +667,18 @@
       "title": "Roseburg Police Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
       "siteUrl": "https://www.flashalert.net/news.html?id=5489",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news173598",
+          "author": null,
+          "description": "On Monday, July 8, 2024 at approximately 3:00 PM, the Roseburg Police Department and emergency personnel responded to the report of a pedestrian hit by a Peterbilt commercial motor vehicle and trailer at the intersection of SE Stephens and SE Douglas Streets.\nPreliminary investigation revealed that a commercial motor vehicle and trailer, operated by Dylan York (35), were stopped at a red light, facing southbound, and proceeded through the crosswalk when their light turned green and struck a female who was walking within the crosswalk.\nThe female was pronounced deceased at the scene by the Douglas County M.E. and has not been identified at this time.  \nYork was not injured and is cooperating with law enforcement.\nThe Roseburg Police Department was assisted by the Roseburg Fire Department, Douglas County Sheriff’s Office and the Oregon Department of Transportation.",
+          "link": "https://www.flashalert.net/news.html?id=5489#news173598",
+          "publishedOn": "2024-07-08T23:35:52.000Z",
+          "wordCount": 540,
+          "title": "Fatal vehicle versus pedestrian",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Fire Dept.",
