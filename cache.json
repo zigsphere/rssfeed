@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120994",
+          "author": "Kyle Bailey",
+          "description": "Paul Morgan of the Paul Morgan Observatory at Umpqua Community College talks about the Cruising to the Stars event on Friday night at 9:30 p.m.",
+          "link": "https://kqennewsradio.com/2024/07/11/morning-conversation-7-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-11-24",
+          "publishedOn": "2024-07-11T16:11:32.000Z",
+          "wordCount": 1550,
+          "title": "MORNING CONVERSATION 7.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240711150935/AM-CONV-7-11-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120987",
           "author": "Kyle Bailey",
           "description": "July 11, 2024 5:50 a.m.  More people and resources are fighting the Larch Creek Fire in Wasco County. An Oregon Department of Forestry release said the Central Oregon Type 3 Interagency Fire Management Team as well as the Green Incident Management Team from the Oregon State Fire Marshal are in place at Dufur High School....",
@@ -1013,6 +1028,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173694",
+          "author": null,
+          "description": "Dufur, Ore. – With a Red Flag warning across the fire area yesterday the high winds, high temperatures and low relative humidity moved the Larch Creek Fire across Highway 197 and continued its fast-moving growth to the east Wednesday evening. The Wasco County Sheriffs Office and the Incident Commanders of the Unified Command, Central Oregon Type 3 Interagency Incident Management Team and Oregon State Fire Marshal (OSFM) Green Team worked together to quickly elevate the evacuation levels. \nThe Oregon Department of Forestry (ODF) Team 2 has been ordered and will be arriving this morning. They will be in unified command with OSFM Green Team starting tomorrow evening.\nAir resources, structure task forces, dozers, engines and handcrews worked tirelessly throughout the day.  Resources will remain engaged throughout the night, protecting structures and building fireline. \nStay informed on updated evacuation alerts here: \nhttps://www.facebook.com/WascoCountySheriff?ref=embed_page\nA Red Cross shelter is open at Maupin High School for all community members effected by the current evacuations.\n Sherman County Fairgrounds is open for evacuation of livestock and pets. Hood River Fairgrounds is also open to displaced animals. Hwy 197 is being closely monitored and may be closed or have traffic control, check Trip Check for updates. Road & Weather Conditions Map | TripCheck - Oregon Traveler Information\nLocal fire danger levels are “extreme”, everyone is strongly encouraged to realize the current danger of how quickly a fire can start; it only takes one spark. Please do your part, do not park or drive on dry grass, know the current fire restrictions and prepare yourself with a shovel, water and fire extinguisher when outdoors.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173694",
+          "publishedOn": "2024-07-11T13:41:24.000Z",
+          "wordCount": 6932,
+          "title": "Larch Creek Fire evacuation levels increase with substantial fire growth to the east",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news173682",
           "author": null,
