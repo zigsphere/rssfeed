@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=120959",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/07/10/mike-winters-lawn-and-garden-show-7-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-7-10-24",
+          "publishedOn": "2024-07-11T00:20:46.000Z",
+          "wordCount": 1544,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 7.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240710231741/MWLGS-7-10-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=120954",
           "author": "Kyle Bailey",
           "description": "Cowboy poet Tom Swearingen talks about his poetry and his appearance next Friday at Riverbend Live! in Winston.",
@@ -579,36 +594,6 @@
           "wordCount": 1636,
           "title": "CREWS ATTACK NATURAL COVER FIRE NEAR ELKTON SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240707193756/IMG_4250.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120797",
-          "author": "Kyle Bailey",
-          "description": "July 7, 2024 5:20 a.m. A Red Flag Warning is in effect for the region on Sunday from 2:00 p.m. to 11:00 p.m. A Urgent Fire Weather Message from the National Weather Service said the Warning applies to the Umpqua National Forest, Klamath National Forest- Umpqua Basin, western Rogue Basin including Illinois Valley, eastern Rogue...",
-          "link": "https://kqennewsradio.com/2024/07/07/red-flag-warning-for-region-sunday-200-p-m-to-1100-p-m/?utm_source=rss&utm_medium=rss&utm_campaign=red-flag-warning-for-region-sunday-200-p-m-to-1100-p-m",
-          "publishedOn": "2024-07-07T12:22:27.000Z",
-          "wordCount": 1650,
-          "title": "RED FLAG WARNING FOR REGION SUNDAY 2:00 P.M. TO 11:00 P.M.",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240707110345/extsun.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120794",
-          "author": "Kyle Bailey",
-          "description": "July 7, 2024 5:00 a.m. An Excessive Heat Warning for central Douglas County and its eastern foothills has been extended through Tuesday evening at 9:00 p.m. Forecasters at the National Weather Service said high temperatures of 100 to 110 degrees with overnight lows in the mid to upper 60s are expected. Heat related illnesses increase...",
-          "link": "https://kqennewsradio.com/2024/07/07/excessive-heat-warning-extended-through-tuesday-evening/?utm_source=rss&utm_medium=rss&utm_campaign=excessive-heat-warning-extended-through-tuesday-evening",
-          "publishedOn": "2024-07-07T12:03:59.000Z",
-          "wordCount": 1663,
-          "title": "EXCESSIVE HEAT WARNING EXTENDED THROUGH TUESDAY EVENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240707110345/extsun.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120792",
-          "author": "Kyle Bailey",
-          "description": "July 7, 2024 4:50 a.m. Roseburg saw the hottest day of 2024 so far and set a new record high for the date on Saturday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the mercury reached 107 degrees at the Roseburg Regional Airport. The previous high for the...",
-          "link": "https://kqennewsradio.com/2024/07/07/roseburg-sees-hottest-day-of-2024-so-far-record-high-for-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-sees-hottest-day-of-2024-so-far-record-high-for-date-set",
-          "publishedOn": "2024-07-07T11:51:49.000Z",
-          "wordCount": 1619,
-          "title": "ROSEBURG SEES HOTTEST DAY OF 2024 SO FAR, RECORD HIGH FOR DATE SET",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
         }
       ]
     },
@@ -623,6 +608,126 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/682e5062-3eeb-11ef-a4db-93e6e54938a1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Spent grains were shoveled out of the mash turn Wednesday morning in the brew room at Two Shy Brewing, the air filling with the oatmeal-like aroma as the only batch of the Umpqua Brewers Pale prepared to launch.",
+          "link": "https://www.nrtoday.com/business/breweries/local-breweries-create-one-time-brew-for-pouring-generosity/article_682e5062-3eeb-11ef-a4db-93e6e54938a1.html",
+          "publishedOn": "2024-07-11T00:00:00.000Z",
+          "wordCount": 14016,
+          "title": "Local breweries create one time brew for Pouring Generosity",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a1/da16eed6-3ef1-11ef-9975-6f64c9c925d9/668edfa1d6fa3.image.jpg?resize=300%2C200",
+            "length": "388506",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a1/da16eed6-3ef1-11ef-9975-6f64c9c925d9/668edfa1d6fa3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/248352c8-3e13-11ef-848e-1f60634a0146",
+          "author": "Jennifer D. Coalwell For The News-Review",
+          "description": "The Umpqua Valley is home to perfect berry-growing conditions. Local farmers markets, fruit stands and u-pick farms offer marionberries, cherries, blueberries, raspberries, strawberries, boysenberries and blackberries in a rotating succession beginning near the end of May and running through August…",
+          "link": "https://www.nrtoday.com/family/a-berry-bonanza-the-health-benefits-and-versatile-uses-of-berries/article_248352c8-3e13-11ef-848e-1f60634a0146.html",
+          "publishedOn": "2024-07-10T16:49:00.000Z",
+          "wordCount": 13693,
+          "title": "A berry bonanza: The health benefits and versatile uses of berries",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/78/178f83f6-3e14-11ef-8577-3ffe76d72457/668d6b94b38da.image.jpg?resize=300%2C300",
+            "length": "283761",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/78/178f83f6-3e14-11ef-8577-3ffe76d72457/668d6b94b38da.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/697c8c00-3e68-11ef-a6ca-f73bab4222df",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The sweltering heat Tuesday evening didn’t stop a crowd from gathering to enjoy Music at the Half Shell and the New Orleans-based band The Rumble.",
+          "link": "https://www.nrtoday.com/news/local/half-shell-crowd-turns-out-smaller-than-normal-due-to-heat/article_697c8c00-3e68-11ef-a6ca-f73bab4222df.html",
+          "publishedOn": "2024-07-10T15:00:00.000Z",
+          "wordCount": 14000,
+          "title": "Half Shell crowd turns out smaller than normal due to heat",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b9/6b90dbb4-3e6c-11ef-8632-c348799ad818/668dffc55eff9.image.jpg?resize=300%2C200",
+            "length": "647955",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b9/6b90dbb4-3e6c-11ef-8632-c348799ad818/668dffc55eff9.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3a82fbb4-3e45-11ef-8ff7-d3e8ab62f3df",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "A special public meeting was held at the Douglas County Courthouse on Tuesday where the Douglas County PEIR selection committee heard the testimony of Glide Water Association, which sought to make additions to its original proposal from March 2024.",
+          "link": "https://www.nrtoday.com/news/government/pier-selection-committee-holds-special-meeting-for-glide-water-association/article_3a82fbb4-3e45-11ef-8ff7-d3e8ab62f3df.html",
+          "publishedOn": "2024-07-10T14:15:00.000Z",
+          "wordCount": 13866,
+          "title": "PIER Selection Committee holds special meeting for Glide Water Association",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/c4/dc46a5b8-3e45-11ef-9a79-3beb6ca3b31e/668dbf141e1c8.image.jpg?resize=300%2C200",
+            "length": "268598",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/c4/dc46a5b8-3e45-11ef-9a79-3beb6ca3b31e/668dbf141e1c8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b76236c4-3ec5-11ef-ac03-2f071ac3f73a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg Police Department has deployed a 32-hour workweek program, which became effective July 1.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-police-department-deploys-32-hour-workweek/article_b76236c4-3ec5-11ef-ac03-2f071ac3f73a.html",
+          "publishedOn": "2024-07-10T14:07:00.000Z",
+          "wordCount": 13568,
+          "title": "Roseburg Police Department deploys 32-hour workweek",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/70/570b0dd6-3ec6-11ef-bff0-a749b0682ffb/64de3de9df9d6.image.jpg?resize=300%2C204",
+            "length": "252712",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/70/570b0dd6-3ec6-11ef-bff0-a749b0682ffb/64de3de9df9d6.image.jpg?resize=300%2C204"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/18c1d9a2-3ec5-11ef-a947-3f1de28c0ca2",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OAKLAND — A missing at risk juvenile was located late Tuesday, following a search that lasted for much of the afternoon.",
+          "link": "https://www.nrtoday.com/briefs/missing-at-risk-juvenile-located-after-hours-long-search/article_18c1d9a2-3ec5-11ef-a947-3f1de28c0ca2.html",
+          "publishedOn": "2024-07-10T14:02:00.000Z",
+          "wordCount": 13260,
+          "title": "Missing at-risk juvenile located after hours long search",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/38b0a2bc-3e3d-11ef-b76b-7f6c2ec74eac",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "When the door to Roseburg Public Library’s Ford Room opened at 1 p.m., oohs and aahs were abundant as families entered into the prehistoric era.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-public-library-overruns-with-dinosaurs/article_38b0a2bc-3e3d-11ef-b76b-7f6c2ec74eac.html",
+          "publishedOn": "2024-07-10T14:00:00.000Z",
+          "wordCount": 14245,
+          "title": "Roseburg Public Library overruns with dinosaurs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/4c/34c7a63c-3e5b-11ef-a1d6-df1f644db6f9/668ed1aa1c55e.image.png?resize=300%2C200",
+            "length": "2959774",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/4c/34c7a63c-3e5b-11ef-a1d6-df1f644db6f9/668ed1aa1c55e.image.png?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a45b467a-3ec4-11ef-9101-774824fbb860",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg had its fifth record high for the date in a row on Tuesday, reaching 106 degrees.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-sees-fifth-record-high-for-the-date-on-tuesday/article_a45b467a-3ec4-11ef-9101-774824fbb860.html",
+          "publishedOn": "2024-07-10T13:59:00.000Z",
+          "wordCount": 13189,
+          "title": "Roseburg sees fifth record high for the date on Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6cd6d1fe-3e3f-11ef-b203-1f1ba5e856e2",
+          "author": "The News-Review",
+          "description": "ROSEBURG — Local knitters and crocheters are asked to create hats, scarves and afghans for children of Douglas County who are in need during Christmas time.",
+          "link": "https://www.nrtoday.com/life/seeking-hats-scarves-for-douglas-county-youth/article_6cd6d1fe-3e3f-11ef-b203-1f1ba5e856e2.html",
+          "publishedOn": "2024-07-10T13:15:00.000Z",
+          "wordCount": 13003,
+          "title": "Seeking: hats, scarves for Douglas County youth",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6d4f15ec-3d81-11ef-ba54-3b676d365cac",
           "author": "GLORIA COLEMAN The News-Review",
@@ -712,146 +817,6 @@
           "wordCount": 13241,
           "title": "Crews stop natural cover fire near Elkton",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d19b7014-3afb-11ef-b373-f7c3f93abee9",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "MELROSE — Joe Strupp never thought he’d find another car like it.",
-          "link": "https://www.nrtoday.com/news/graffiti-weekend-annual-car-centered-tradition-set-to-return-to-douglas-county/article_d19b7014-3afb-11ef-b373-f7c3f93abee9.html",
-          "publishedOn": "2024-07-07T06:45:00.000Z",
-          "wordCount": 13912,
-          "title": "Graffiti Weekend, annual car-centered tradition, set to return to Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bb/ebb78bd4-3b02-11ef-b7cb-4b61d036fe35/668846483c2c8.image.jpg?resize=300%2C200",
-            "length": "275587",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bb/ebb78bd4-3b02-11ef-b7cb-4b61d036fe35/668846483c2c8.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f58b5774-3af5-11ef-a35f-57cb2698bbfe",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "With the sweltering heat, it’s only normal to flock to the waters of Douglas County to cool off. However, with the many water activities that the Umpqua Valley has to offer, it’s important to consider water safety, especially when there…",
-          "link": "https://www.nrtoday.com/news/water-safety-in-douglas-county/article_f58b5774-3af5-11ef-a35f-57cb2698bbfe.html",
-          "publishedOn": "2024-07-07T06:00:00.000Z",
-          "wordCount": 13769,
-          "title": "Water safety in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/0c/30c3f6c0-3af6-11ef-a75f-dfe5a925370f/668830ec9b285.image.jpg?resize=300%2C200",
-            "length": "647578",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/0c/30c3f6c0-3af6-11ef-a75f-dfe5a925370f/668830ec9b285.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9fee3690-3bf6-11ef-9ead-978ba49c0ebb",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "DOUGLAS COUNTY — Industrial Fire Precaution Level 3 will go into effect Monday for all private, county, state, Bureau of Indian Affairs and all BLM-managed lands within the Douglas District.",
-          "link": "https://www.nrtoday.com/briefs/industrial-fire-precaution-level-raised-to-level-3/article_9fee3690-3bf6-11ef-9ead-978ba49c0ebb.html",
-          "publishedOn": "2024-07-07T00:19:00.000Z",
-          "wordCount": 13227,
-          "title": "Industrial Fire Precaution Level raised to level 3",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6f897a14-3be2-11ef-9647-e37732972d79",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "WINSTON — Who said Independence Day could only be celebrated on the fourth?",
-          "link": "https://www.nrtoday.com/news/winston-continues-fourth-of-july-celebrations/article_6f897a14-3be2-11ef-9647-e37732972d79.html",
-          "publishedOn": "2024-07-06T23:30:00.000Z",
-          "wordCount": 15083,
-          "title": "Winston continues Fourth of July celebrations",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9f/e9f742b4-3be6-11ef-abae-536a3469bd79/6689c4ca89b69.image.jpg?resize=300%2C200",
-            "length": "399071",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9f/e9f742b4-3be6-11ef-abae-536a3469bd79/6689c4ca89b69.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8df3d6a0-3be9-11ef-9fb9-ab911a96a270",
-          "author": null,
-          "description": "ROSEBURG — Roseburg had a record high temperature for the date Friday.",
-          "link": "https://www.nrtoday.com/briefs/roseburg-with-record-high-for-date-friday/article_8df3d6a0-3be9-11ef-9fb9-ab911a96a270.html",
-          "publishedOn": "2024-07-06T22:46:00.000Z",
-          "wordCount": 12985,
-          "title": "Roseburg with record high for date Friday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e25723b4-3991-11ef-aa6c-d736fadfe5af",
-          "author": "Kris Wiley for The News-Review",
-          "description": "Digital magazines now are available from Roseburg Public Library.",
-          "link": "https://www.nrtoday.com/news/guest_submission/roseburg-public-library-offers-digital-magazines/article_e25723b4-3991-11ef-aa6c-d736fadfe5af.html",
-          "publishedOn": "2024-07-06T22:41:00.000Z",
-          "wordCount": 13558,
-          "title": "Roseburg Public Library offers digital magazines",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/19488704-3be6-11ef-a52b-27b913ccd500",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "WINSTON — Douglas Forest Protective Association, Douglas County Sheriff’s Office, Tenmile Rural Fire District, Lookingglass Rural Fire District and Central Douglas Fire & Rescue personnel responded to a fire in the 9900 block of Upper Olalla Road in Winston at…",
-          "link": "https://www.nrtoday.com/briefs/crews-respond-to-upper-olalla-road-fire/article_19488704-3be6-11ef-a52b-27b913ccd500.html",
-          "publishedOn": "2024-07-06T22:21:00.000Z",
-          "wordCount": 13407,
-          "title": "Crews respond to Upper Olalla Road fire",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/f4/0f486ef2-3be8-11ef-a295-4772d9936d33/6689c6b6a338e.image.jpg?resize=300%2C400",
-            "length": "638774",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/f4/0f486ef2-3be8-11ef-a295-4772d9936d33/6689c6b6a338e.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b0ff7532-3bdf-11ef-9c30-03abc9ab4bdd",
-          "author": "LEO GIMBEL The News-Review",
-          "description": "WINSTON — For years, the bleating of goats, braying of donkeys and grunts of pigs have been heard by visitors of the Wildlife Safari petting zoo. However, with the introduction of the newly finished Barnyard that opened Saturday, guests of…",
-          "link": "https://www.nrtoday.com/family/wildlife-safaris-new-barnyard-opens-to-public/article_b0ff7532-3bdf-11ef-9c30-03abc9ab4bdd.html",
-          "publishedOn": "2024-07-06T21:35:00.000Z",
-          "wordCount": 13970,
-          "title": "Wildlife Safari's new Barnyard opens to public",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/fc/1fcb0aa2-3bf5-11ef-b69c-8f8b6ec37e26/6689dca1c8f20.image.jpg?resize=300%2C199",
-            "length": "372011",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/fc/1fcb0aa2-3bf5-11ef-b69c-8f8b6ec37e26/6689dca1c8f20.image.jpg?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/cfc1fae0-397c-11ef-b12f-cb0cc820a02f",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "Despite a history of complications, the location once known as The SunnySide Theatre is sprouting new life as The Rosebud Theatre.",
-          "link": "https://www.nrtoday.com/business/the-rosebud-theatre-and-the-green-heron-to-open-under-new-owner/article_cfc1fae0-397c-11ef-b12f-cb0cc820a02f.html",
-          "publishedOn": "2024-07-06T14:15:00.000Z",
-          "wordCount": 14471,
-          "title": "The Rosebud Theatre and The Green Heron to open under new owner",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/9e/59e54754-397d-11ef-83f3-838be36adce7/6685b8b15adf9.image.jpg?resize=300%2C200",
-            "length": "364186",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/9e/59e54754-397d-11ef-83f3-838be36adce7/6685b8b15adf9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e30b0a6-38c8-11ef-8c62-c377e2474809",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Asael Parra and Ayden Jenkins, students at South Umpqua High School, were signed up for the Peer 2 Peer mentorship program by their counselor Beau Shelby. This program provides them with a summer internship.",
-          "link": "https://www.nrtoday.com/news/education/douglas-countys-rising-workers-giving-work-opportunity-to-everyone/article_5e30b0a6-38c8-11ef-8c62-c377e2474809.html",
-          "publishedOn": "2024-07-06T14:15:00.000Z",
-          "wordCount": 13900,
-          "title": "Douglas County's rising workers: Giving work opportunity to everyone",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/10/810e781c-38cb-11ef-92ef-039ca896c804/66848e50a0ff4.image.jpg?resize=300%2C300",
-            "length": "163731",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/10/810e781c-38cb-11ef-92ef-039ca896c804/66848e50a0ff4.image.jpg?resize=300%2C300"
         }
       ]
     },
@@ -943,6 +908,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173682",
+          "author": null,
+          "description": "Dufur, Ore. – Initial attack crews worked through the night putting in dozer line and burnouts along the east and west flanks from the north down to the unsecured south. The Central Oregon Type 3 Interagency Fire Management Team as well as the Green Incident Management Team from the Oregon State Fire Marshal are in place at the Dufur High School. \nToday, resources from state, local, and federal agencies will work on transitioning night shift crews to day shift while slowing progression towards Highway 197 and nearby Shadybrook community to the south. Some spot fires have been identified in the southern Oak Creek area. Air attack remains a primary resource for day operations. The fire is burning mostly in open grass fuel types. \nThe Emergency Conflagration Act was invoked Tuesday night arou…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173682",
+          "publishedOn": "2024-07-11T00:00:00.000Z",
+          "wordCount": 6616,
+          "title": "More people and resources fighting Larch Creek Fire now at 7,100 acres",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news173661",
           "author": null,
