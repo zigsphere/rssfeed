@@ -719,6 +719,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6cd7b2da-3eea-11ef-a9e3-5f6fa5a10a37",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Local nonprofit organizations can apply for grants that support the delivery of services vital to improving health, wellbeing and health equity through CHI Mercy Health.",
+          "link": "https://www.nrtoday.com/briefs/mercy-foundation-offers-grants-to-nonprofits/article_6cd7b2da-3eea-11ef-a9e3-5f6fa5a10a37.html",
+          "publishedOn": "2024-07-11T14:30:00.000Z",
+          "wordCount": 13159,
+          "title": "Mercy Foundation offers grants to nonprofits",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8707c450-3eeb-11ef-8cfe-2f74b361262d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "For children attending Patriot Camp, mornings at Covenant Life Church this week are full of stories about the Mayflower’s crossing, what the pilgrims did and how they did it.",
+          "link": "https://www.nrtoday.com/news/education/children-learn-history-eat-and-play-games-at-patriot-camp/article_8707c450-3eeb-11ef-8cfe-2f74b361262d.html",
+          "publishedOn": "2024-07-11T13:45:00.000Z",
+          "wordCount": 14339,
+          "title": "Children learn history, eat and play games at Patriot Camp",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/e6/2e6b0734-3eec-11ef-9734-bfbaf7549128/668ed61e5ca38.image.jpg?resize=300%2C200",
+            "length": "389628",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/e6/2e6b0734-3eec-11ef-9734-bfbaf7549128/668ed61e5ca38.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ccebbe9a-3f86-11ef-9b01-b3692764ee54",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — On Tuesday, Douglas Interagency Narcotics Team was named the 2024 Outstanding Drug Enforcement Task Force by the Oregon/Idaho High Intensity Drug Trafficking Area Program and Oregon Narcotics Enforcement Association.",
+          "link": "https://www.nrtoday.com/briefs/dint-awarded-2024-outstanding-drug-enforcement-task-force/article_ccebbe9a-3f86-11ef-9b01-b3692764ee54.html",
+          "publishedOn": "2024-07-11T13:09:00.000Z",
+          "wordCount": 13180,
+          "title": "DINT awarded 2024 Outstanding Drug Enforcement Task Force",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0e29632e-3ee9-11ef-8458-cf77f9cce47c",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "ROSEBURG — Douglas County Fairgrounds is offering free wristbands for families to place on their child with their phone number during the Douglas County Fair.",
@@ -727,6 +762,21 @@
           "wordCount": 13197,
           "title": "Fairgrounds launches safe and found wristbands",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/589f63ae-3f2f-11ef-8824-773be223dde6",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "ROSEBURG — Samantha Bollinber, 14, of Roseburg, has been found safe, according to reports from Roseburg police.",
+          "link": "https://www.nrtoday.com/briefs/missing-roseburg-teen-found-thursday-morning/article_589f63ae-3f2f-11ef-8824-773be223dde6.html",
+          "publishedOn": "2024-07-11T02:43:00.000Z",
+          "wordCount": 13245,
+          "title": "Missing Roseburg teen found Thursday morning",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c1/7c15810a-3f30-11ef-9cbf-8f042c0fe629/668f48b66f127.image.jpg?resize=300%2C400",
+            "length": "176244",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c1/7c15810a-3f30-11ef-9cbf-8f042c0fe629/668f48b66f127.image.jpg?resize=300%2C400"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/589f63ae-3f2f-11ef-8824-773be223dde6",
