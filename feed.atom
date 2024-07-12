@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-12T13:08:50.159Z</updated>
+    <updated>2024-07-12T13:14:06.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -829,6 +829,23 @@ Learn more about the Roseburg Police Department here:  www.cityofroseburg.org/d
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fatal vehicle versus pedestrian]]></title>
+        <id>https://www.flashalert.net/news.html?id=5489#news173598</id>
+        <link href="https://www.flashalert.net/news.html?id=5489#news173598"/>
+        <updated>2024-07-09T20:37:08.000Z</updated>
+        <summary type="html"><![CDATA[***UPDATE***
+The decedent in this case has been identified as Linda Louise Stafford (59) of Roseburg.
+ 
+On Monday, July 8, 2024 at approximately 3:00 PM, the Roseburg Police Department and emergency personnel responded to the report of a pedestrian hit by a Peterbilt commercial motor vehicle and trailer at the intersection of SE Stephens and SE Douglas Streets.
+Preliminary investigation revealed that a commercial motor vehicle and trailer, operated by Dylan York (35), were stopped at a red light, facing southbound, and proceeded through the crosswalk when their light turned green and struck a female who was walking within the crosswalk.
+The female was pronounced deceased at the scene by the Douglas County M.E. and has not been identified at this time.  
+York was not injured and is cooperating with law enforcement.
+The Roseburg Police Department was assisted by the Roseburg Fire Department, Douglas County Sheriff’s Office and the Oregon Department of Transportation.]]></summary>
+        <author>
+            <name>Roseburg Police Dept.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.9.24]]></title>
         <id>https://kqennewsradio.com/?p=120893</id>
         <link href="https://kqennewsradio.com/2024/07/09/inside-douglas-county-7-9-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-7-9-24"/>
@@ -1036,36 +1053,6 @@ Learn more about the Roseburg Police Department here:  www.cityofroseburg.org/d
         <summary type="html"><![CDATA[July 9, 2024 2:50 a.m. The Friendly Kitchen/Meals on Wheels was recently awarded $15,000 from the Cow Creek Umpqua Indian Foundation in its spring round of giving. Volunteer Coordinator Casey Buller said the Friendly Kitchen/Meals on Wheels is a non-profit agency that has been providing USDA certified and professional nutritionist approved meals since 1973. Buller...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unidentified female dies in Roseburg intersection crash]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ec71e466-3d82-11ef-8285-bf2e74de4cce</id>
-        <link href="https://www.nrtoday.com/briefs/unidentified-female-dies-in-roseburg-intersection-crash/article_ec71e466-3d82-11ef-8285-bf2e74de4cce.html"/>
-        <updated>2024-07-08T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — An unidentified female pedestrian died at approximately 3 p.m. Monday in a vehicle vs. pedestrian accident in the intersection of Southeast Stephens Street and Southeast Douglas Avenue in Roseburg.]]></summary>
-        <author>
-            <name>ERICA REYNOLDS The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fireworks light up night sky over Winston]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/56a8c544-3c24-11ef-a798-b730049453b3</id>
-        <link href="https://www.nrtoday.com/news/fireworks-light-up-night-sky-over-winston/article_56a8c544-3c24-11ef-a798-b730049453b3.html"/>
-        <updated>2024-07-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — To cap off a day of festivities in Winston celebrating Independence Day, the Winston Area Independence Day organization set off a firework show in Riverbend Park, lasting over 20 minutes.]]></summary>
-        <author>
-            <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crews stop natural cover fire near Elkton]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d</id>
-        <link href="https://www.nrtoday.com/briefs/crews-stop-natural-cover-fire-near-elkton/article_dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d.html"/>
-        <updated>2024-07-08T16:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ELKTON— Firefighters from Douglas Forest Protective Association, Elkton Rural Fire Protection District, Kellogg Rural Fire District, Scottsburg Rural Fire District and North Douglas Fire & EMS responded at approximately 10:25 p.m. Saturday to a reported natural cover fire in Elkton,…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>

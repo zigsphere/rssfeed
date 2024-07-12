@@ -922,46 +922,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a2c296-3da6-11ef-b6f7-cfb9ccf008f1/668cb37394041.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ec71e466-3d82-11ef-8285-bf2e74de4cce",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "ROSEBURG — An unidentified female pedestrian died at approximately 3 p.m. Monday in a vehicle vs. pedestrian accident in the intersection of Southeast Stephens Street and Southeast Douglas Avenue in Roseburg.",
-          "link": "https://www.nrtoday.com/briefs/unidentified-female-dies-in-roseburg-intersection-crash/article_ec71e466-3d82-11ef-8285-bf2e74de4cce.html",
-          "publishedOn": "2024-07-08T23:36:00.000Z",
-          "wordCount": 13346,
-          "title": "Unidentified female dies in Roseburg intersection crash",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/50/b50922ea-3d7e-11ef-9bac-2b7408df706a/668c70f467b33.image.jpg?resize=300%2C225",
-            "length": "371862",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/50/b50922ea-3d7e-11ef-9bac-2b7408df706a/668c70f467b33.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/56a8c544-3c24-11ef-a798-b730049453b3",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "WINSTON — To cap off a day of festivities in Winston celebrating Independence Day, the Winston Area Independence Day organization set off a firework show in Riverbend Park, lasting over 20 minutes.",
-          "link": "https://www.nrtoday.com/news/fireworks-light-up-night-sky-over-winston/article_56a8c544-3c24-11ef-a798-b730049453b3.html",
-          "publishedOn": "2024-07-08T17:00:00.000Z",
-          "wordCount": 13476,
-          "title": "Fireworks light up night sky over Winston",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/9a/49a83f04-3c25-11ef-b95e-5754530b7e0f/668a2d6fdd74e.image.jpg?resize=300%2C200",
-            "length": "254461",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/9a/49a83f04-3c25-11ef-b95e-5754530b7e0f/668a2d6fdd74e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "ELKTON— Firefighters from Douglas Forest Protective Association, Elkton Rural Fire Protection District, Kellogg Rural Fire District, Scottsburg Rural Fire District and North Douglas Fire & EMS responded at approximately 10:25 p.m. Saturday to a reported natural cover fire in Elkton,…",
-          "link": "https://www.nrtoday.com/briefs/crews-stop-natural-cover-fire-near-elkton/article_dc9f7a18-3d4a-11ef-b4c2-9f115b5c127d.html",
-          "publishedOn": "2024-07-08T16:55:00.000Z",
-          "wordCount": 13241,
-          "title": "Crews stop natural cover fire near Elkton",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -1037,6 +997,16 @@
           "publishedOn": "2024-07-09T21:00:15.000Z",
           "wordCount": 778,
           "title": "Roseburg Police Department deploys 32-hour workweek",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news173598",
+          "author": null,
+          "description": "***UPDATE***\nThe decedent in this case has been identified as Linda Louise Stafford (59) of Roseburg.\n \nOn Monday, July 8, 2024 at approximately 3:00 PM, the Roseburg Police Department and emergency personnel responded to the report of a pedestrian hit by a Peterbilt commercial motor vehicle and trailer at the intersection of SE Stephens and SE Douglas Streets.\nPreliminary investigation revealed that a commercial motor vehicle and trailer, operated by Dylan York (35), were stopped at a red light, facing southbound, and proceeded through the crosswalk when their light turned green and struck a female who was walking within the crosswalk.\nThe female was pronounced deceased at the scene by the Douglas County M.E. and has not been identified at this time.  \nYork was not injured and is cooperating with law enforcement.\nThe Roseburg Police Department was assisted by the Roseburg Fire Department, Douglas County Sheriff’s Office and the Oregon Department of Transportation.",
+          "link": "https://www.flashalert.net/news.html?id=5489#news173598",
+          "publishedOn": "2024-07-09T20:37:08.000Z",
+          "wordCount": 600,
+          "title": "Fatal vehicle versus pedestrian",
           "imageUrl": null
         }
       ]
