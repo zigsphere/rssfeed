@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121080",
+          "author": "Kyle Bailey",
+          "description": "July 13, 2024 7:00 a.m. On Friday, Governor Tina Kotek declared a state of emergency because of the imminent threat of wildfire, continuing through October 1st. Kotek said, “Wildfires are active across Oregon and are growing at a concerning pace”. Kotek said, “I am declaring a State of Emergency to access state resources for communities...",
+          "link": "https://kqennewsradio.com/2024/07/13/governor-declares-extended-state-of-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=governor-declares-extended-state-of-emergency",
+          "publishedOn": "2024-07-13T14:01:27.000Z",
+          "wordCount": 1713,
+          "title": "GOVERNOR DECLARES EXTENDED STATE OF EMERGENCY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=121076",
+          "author": "Kyle Bailey",
+          "description": "July 13, 2024 6:20 a.m. Graffiti Weekend continues through Sunday with events happening around the county: On Saturday: *Roseburg Optimist Club presents the Rock N’ Rollin’ Pancake Breakfast, hosted by Lehne Farms on Melrose Road in the former Kruse Farms location. Breakfast is served from 8:00 a.m. to 11:30 a.m. Cost is $10 for adults,...",
+          "link": "https://kqennewsradio.com/2024/07/13/graffiti-weekend-saturday-events/?utm_source=rss&utm_medium=rss&utm_campaign=graffiti-weekend-saturday-events",
+          "publishedOn": "2024-07-13T13:20:12.000Z",
+          "wordCount": 1693,
+          "title": "GRAFFITI WEEKEND SATURDAY EVENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240628214345/102488-Graffiti-300x250-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121069",
           "author": "Kyle Bailey",
           "description": "Roseburg Police Chief Gary Klopfenstein talks about their deployment of a 32-hour work week schedule for patrol officers:",
@@ -966,7 +986,23 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news173775",
+          "author": null,
+          "description": "𝐃𝐎𝐔𝐆𝐋𝐀𝐒 𝐂𝐎𝐔𝐍𝐓𝐘, 𝐎𝐫𝐞. - Since 2019, the Douglas County Sheriff's Office - 911 Communications Division has had the ability to receive Text-to-911.\nText-to-911 is an important service. It is intended to benefit people that may not be able to speak due to an emergency, such as a home invasion or abusive partner. Additionally, individuals that are deaf, hard of hearing or have speech disabilities may benefit from this technology.\nA few things you should know about how Text-to-911 works:\n• Texting to 911 is intended to benefit people that may not be able to speak in an emergency. The key thing to remember is “𝑪𝒂𝒍𝒍 𝒊𝒇 𝒚𝒐𝒖 𝑪𝒂𝒏, 𝑻𝒆𝒙𝒕 𝒊𝒇 𝒚𝒐𝒖 𝑪𝒂𝒏’𝒕”.\n• When texting to 911 for an emergency the first message should be the location of the emergency (including city) and the type of emergency help needed (police, fire, or medical).\n• Keep text messages brief and concise; using full words.\n• Stay with your phone, be prepared to answer questions and follow instructions from the 911 dispatcher.\n• Photos and videos should not be sent to 911 because not all wireless carriers are able to support this feature and it can delay dispatchers in sending help to you.\n• You cannot include 911 in a group text or while roaming.\nSome jurisdictions are unable to accept Text-to-911. If you send a text to 911 from a wireless carrier or a city/county without Text-to-911 service, you should receive a message saying that there is no text service to 911 available at this time.\nPlease remember, “𝑪𝒂𝒍𝒍 𝒊𝒇 𝒚𝒐𝒖 𝑪𝒂𝒏, 𝑻𝒆𝒙𝒕 𝒊𝒇 𝒚𝒐𝒖 𝑪𝒂𝒏’𝒕”.",
+          "link": "https://www.flashalert.net/news.html?id=5204#news173775",
+          "publishedOn": "2024-07-13T15:57:59.000Z",
+          "wordCount": 1888,
+          "title": "Call if you Can, Text if you Can't (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-07/5204/173775/638465272555930000.png",
+            "length": "82625",
+            "type": "image/png"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-07/5204/173775/638465272555930000.png"
+        }
+      ]
     },
     {
       "title": "Roseburg Police Dept.",
