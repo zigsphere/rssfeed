@@ -709,16 +709,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240709150431/IMG_4925.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=120867",
-          "author": "Kyle Bailey",
-          "description": "July 9, 2024 4:10 a.m.  An Excessive Heat Warning remains in effect through 9:00 p.m. Tuesday. Forecasters at the National Weather Service said high temperatures of 100 to 108 degrees with lows in the mid to upper 60s are expected. The Warning area applies to central Douglas County and its eastern foothills. Forecasters said heat...",
-          "link": "https://kqennewsradio.com/2024/07/09/excessive-heat-warning-through-900-p-m-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=excessive-heat-warning-through-900-p-m-tuesday",
-          "publishedOn": "2024-07-09T11:14:15.000Z",
-          "wordCount": 1662,
-          "title": "EXCESSIVE HEAT WARNING THROUGH 9:00 P.M. TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240709101405/exttues.png"
         }
       ]
     },
@@ -733,6 +723,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/afac96de-3fdf-11ef-8a1b-33c938939d7b",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "Car enthusiasts paraded their cars to the doorstep of those who couldn’t get out and enjoy the festivities Thursday during the Retirement & Rest Home Tour.",
+          "link": "https://www.nrtoday.com/news/classic-cars-cruise-to-roseburg-rest-homes/article_afac96de-3fdf-11ef-8a1b-33c938939d7b.html",
+          "publishedOn": "2024-07-13T01:45:00.000Z",
+          "wordCount": 14440,
+          "title": "Classic cars cruise to Roseburg rest homes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/86/6869ac0c-4030-11ef-9ed1-c7f54c099da5/66917a7ec6c0b.image.png?resize=300%2C200",
+            "length": "3142918",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/86/6869ac0c-4030-11ef-9ed1-c7f54c099da5/66917a7ec6c0b.image.png?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1640b6ae-4068-11ef-85de-5b0fdca2b17e",
           "author": "GLORIA COLEMAN The News-Review",
@@ -1037,46 +1042,6 @@
           "wordCount": 13524,
           "title": "Restock local lakes manually",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/09e20622-3d4f-11ef-a18b-dbc2a31b9dd2",
-          "author": "KIMBERLI HOLMQUIST The News-Review",
-          "description": "GARNER — Oregon State Police responded to a fatal crash on Highway 101 near milepost 207 on Saturday.",
-          "link": "https://www.nrtoday.com/briefs/idaho-man-dies-in-douglas-county-crash/article_09e20622-3d4f-11ef-a18b-dbc2a31b9dd2.html",
-          "publishedOn": "2024-07-09T14:00:00.000Z",
-          "wordCount": 13158,
-          "title": "Idaho man dies in Douglas County crash",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/694f7d44-3d43-11ef-a597-bba1470d868b",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "ROSEBURG — Central Douglas Fire & Rescue responded to the Douglas County Landfill at approximately 4:16 p.m. Sunday for reports of a fire in the trash at the top of the landfill. Several reports were received about heavy smoke above…",
-          "link": "https://www.nrtoday.com/briefs/landfill-fire-sparks-concern-kept-under-control/article_694f7d44-3d43-11ef-a597-bba1470d868b.html",
-          "publishedOn": "2024-07-09T14:00:00.000Z",
-          "wordCount": 13476,
-          "title": "Landfill fire sparks concern, kept under control",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/1e/a1ebb09e-3d45-11ef-ae83-ffef9119785c/668c113309cbd.image.jpg?resize=300%2C225",
-            "length": "58156",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/1e/a1ebb09e-3d45-11ef-ae83-ffef9119785c/668c113309cbd.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/51be5fea-3da4-11ef-998a-5b622e4a8036",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "SUTHERLIN — Instead of outright banning psilocybin related businesses within city limits, Sutherlin City Council members deliberated Monday to put the decision in the hands of voters during the November general election.",
-          "link": "https://www.nrtoday.com/news/government/city/sutherlin-residents-to-decide-whether-to-ban-psilocybin-service-centers-in-november-election/article_51be5fea-3da4-11ef-998a-5b622e4a8036.html",
-          "publishedOn": "2024-07-09T13:45:00.000Z",
-          "wordCount": 14086,
-          "title": "Sutherlin residents to decide whether to ban psilocybin service centers in November election",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a2c296-3da6-11ef-b6f7-cfb9ccf008f1/668cb37394041.image.jpg?resize=300%2C200",
-            "length": "274608",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a2c296-3da6-11ef-b6f7-cfb9ccf008f1/668cb37394041.image.jpg?resize=300%2C200"
         }
       ]
     },
