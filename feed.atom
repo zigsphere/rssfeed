@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-14T02:37:18.539Z</updated>
+    <updated>2024-07-14T13:32:37.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GRAFFITI WEEKEND CONCLUDES SUNDAY]]></title>
+        <id>https://kqennewsradio.com/?p=121086</id>
+        <link href="https://kqennewsradio.com/2024/07/14/graffiti-weekend-concludes-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=graffiti-weekend-concludes-sunday"/>
+        <updated>2024-07-14T13:02:48.000Z</updated>
+        <summary type="html"><![CDATA[July 14, 2024 6:00 a.m. Graffiti Weekend is concluding Sunday. *30th annual Graffiti Week-End Fun Run presented by the Classic Chevelles of Oregon and Stray Angels Car Club. Starts on Northwest Stewart Parkway in Roseburg between McDonalds and Goodwill.  Registration is from 9:00 a.m. to 10:30 a.m. Cruise entry is $5 and includes a dash...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Law enforcement encourages 'call if you can, text if you can't']]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/9893d1a4-4149-11ef-bd0f-c73c86ca9d66</id>
@@ -793,16 +803,6 @@ Local fire danger levels are “extreme”, everyone is strongly encouraged to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 7.10.24]]></title>
-        <id>https://kqennewsradio.com/?p=120959</id>
-        <link href="https://kqennewsradio.com/2024/07/10/mike-winters-lawn-and-garden-show-7-10-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-7-10-24"/>
-        <updated>2024-07-11T00:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Local breweries create one time brew for Pouring Generosity]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/682e5062-3eeb-11ef-a4db-93e6e54938a1</id>
         <link href="https://www.nrtoday.com/business/breweries/local-breweries-create-one-time-brew-for-pouring-generosity/article_682e5062-3eeb-11ef-a4db-93e6e54938a1.html"/>
@@ -813,126 +813,6 @@ Local fire danger levels are “extreme”, everyone is strongly encouraged to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More people and resources fighting Larch Creek Fire now at 7,100 acres]]></title>
-        <id>https://www.flashalert.net/news.html?id=1072#news173682</id>
-        <link href="https://www.flashalert.net/news.html?id=1072#news173682"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dufur, Ore. – Initial attack crews worked through the night putting in dozer line and burnouts along the east and west flanks from the north down to the unsecured south. The Central Oregon Type 3 Interagency Fire Management Team as well as the Green Incident Management Team from the Oregon State Fire Marshal are in place at the Dufur High School. 
-Today, resources from state, local, and federal agencies will work on transitioning night shift crews to day shift while slowing progression towards Highway 197 and nearby Shadybrook community to the south. Some spot fires have been identified in the southern Oak Creek area. Air attack remains a primary resource for day operations. The fire is burning mostly in open grass fuel types. 
-The Emergency Conflagration Act was invoked Tuesday night arou…]]></summary>
-        <author>
-            <name>Oregon Dept. of Forestry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.10.24]]></title>
-        <id>https://kqennewsradio.com/?p=120954</id>
-        <link href="https://kqennewsradio.com/2024/07/10/inside-douglas-county-7-10-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-7-10-24"/>
-        <updated>2024-07-10T20:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Cowboy poet Tom Swearingen talks about his poetry and his appearance next Friday at Riverbend Live! in Winston.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Oregon District enters higher fire danger, issues restrictions to help prevent wildfires]]></title>
-        <id>https://www.flashalert.net/news.html?id=1072#news173661</id>
-        <link href="https://www.flashalert.net/news.html?id=1072#news173661"/>
-        <updated>2024-07-10T18:35:02.000Z</updated>
-        <summary type="html"><![CDATA[PRINEVILLE, Ore. – All lands protected by the Oregon Department of Forestry’s (ODF) Central Oregon District are now in Industrial Fire Precaution Level (IFPL) 3 in MH-1 (portions of Hood River and Wasco counties).
-With continued high temperatures, winds and drying fuels, the district is issuing public restrictions and regulated use closures in recognition of the increasing fire danger in order to reduce the risk of human-caused fires.
-The Central Oregon District restricts the following activities:
-
-Use of fireworks and blasting is prohibited.
-No debris burning, including piles and debris burned in burn barrels.
-Open fires are prohibited, including campfires, charcoal fires, cooking fires and warming fires, except in designated areas. Propane fire pits and camp stoves are allowed but requir…]]></summary>
-        <author>
-            <name>Oregon Dept. of Forestry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITCH NIGHT HAPPENING NEXT WEDNESDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=120951</id>
-        <link href="https://kqennewsradio.com/2024/07/10/pitch-night-happening-next-wednesday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pitch-night-happening-next-wednesday-night"/>
-        <updated>2024-07-10T18:11:58.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 11:10 a.m.   The Umpqua Economic Development Partnership has its next Umpqua Growth Talks Pitch night Wednesday night July 17th starting at 6:00 p.m. at Backside Brewing in Roseburg. Small business owners from a wide range of industries will pitch their growth plans to a panel of judges and a live audience with...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC FALL GUEST SPEAKER RICHARD REEVES]]></title>
-        <id>https://kqennewsradio.com/?p=120948</id>
-        <link href="https://kqennewsradio.com/2024/07/10/ucc-fall-guest-speaker-richard-reeves/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-fall-guest-speaker-richard-reeves"/>
-        <updated>2024-07-10T17:59:39.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 10:50 a.m.  Umpqua Community College has announced a fall guest speaker. A college release said he will be Richard Reeves. Reeves is the author of: Of Boys and Men: Why the Modern Male is Struggling, Why It Matters and What to Do About It. His book was described by the New York...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAVENDER FESTIVAL HAPPENING FRIDAY THROUGH SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=120946</id>
-        <link href="https://kqennewsradio.com/2024/07/10/lavender-festival-happening-friday-through-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lavender-festival-happening-friday-through-sunday"/>
-        <updated>2024-07-10T17:45:57.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 10:45 a.m.   Growing Miracles Lavender Garden will have its 7th annual Lavender Festival happening Friday through Sunday. The event will include over 70 artisan booths, live music, yoga in the lavender, essential oil distillation, lavender wreaths and wand booth, and much more. The farm has over 5,000 lavender plants including some along...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSP JAILS CALIFORNIA MAN FOR FALSE INFORMATION/FAILURE TO CARRY]]></title>
-        <id>https://kqennewsradio.com/?p=120944</id>
-        <link href="https://kqennewsradio.com/2024/07/10/osp-jails-california-man-for-false-information-failure-to-carry/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=osp-jails-california-man-for-false-information-failure-to-carry"/>
-        <updated>2024-07-10T17:19:49.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 10:20 a.m.  Oregon State Police jailed a California man after a traffic stop Tuesday night. An OSP report said just after 6:30 p.m. the 27-year-old’s vehicle was pulled over on Interstate Five southbound a mile north of the Winchester interchange. The driver failed to present his driver’s license and allegedly provided a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OREGON STATE POLICE JAIL MAN FOR WARRANTS]]></title>
-        <id>https://kqennewsradio.com/?p=120942</id>
-        <link href="https://kqennewsradio.com/2024/07/10/oregon-state-police-jail-man-for-warrants/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oregon-state-police-jail-man-for-warrants"/>
-        <updated>2024-07-10T17:04:52.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 10:00 a.m. Oregon State Police jailed a man for warrants after an incident on Monday night. An OSP report said just after 11:00 p.m. 37-year-old Joshua Breeding was contacted in a tent along Interstate 5 northbound, about a mile south of the Winchester interchange. Breeding was with a victim mentioned in his...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoke Management Advisory Committee meets on July 17]]></title>
-        <id>https://www.flashalert.net/news.html?id=1072#news173649</id>
-        <link href="https://www.flashalert.net/news.html?id=1072#news173649"/>
-        <updated>2024-07-10T16:57:50.000Z</updated>
-        <summary type="html"><![CDATA[SALEM, Ore. — The Smoke Management Advisory Committee will meet Wednesday, July 17, from 9 a.m. to 3 p.m. at the ODF Headquarters, Building C, Tillamook Room, 2600 State Street, Salem. To join virtually, please use the Zoom video conference information found on the agenda. 
-The committee’s agenda includes:
-
-Welcome and roll call
-Committee business
-Committee & agency reports
-Smoke Management Unit FY24 budget
-Rulemaking process - Update/planning/recommendations
-Spring burning overview
-
-The meeting is open to the public to attend either in person or virtually. There will be a period for public comment in the morning. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 48 hours before the meeting by contacting Shelby Berry at 503-949-5181.
-View more information on the SMAC webpage.
-Created by the Legislature in 1989, the five-member committee assists and advises the Oregon Department of Forestry in carrying out its Smoke Management Program. Members are appointed by the State Forester to serve a two-year term, which is renewable.]]></summary>
-        <author>
-            <name>Oregon Dept. of Forestry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR OFFENSIVE LITTERING]]></title>
-        <id>https://kqennewsradio.com/?p=120940</id>
-        <link href="https://kqennewsradio.com/2024/07/10/roseburg-police-jail-man-for-offensive-littering-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-offensive-littering-3"/>
-        <updated>2024-07-10T16:52:36.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 9:50 a.m.  Roseburg Police jailed a man for offensive littering on Tuesday. An RPD report said at 11:40 a.m. the 54-year-old had his tent sent up in the bark mulch/landscaped area between the Interstate 5 northbound onramp and the freeway at the Harvard Avenue interchange. There were approximately two pickup truckloads of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A berry bonanza: The health benefits and versatile uses of berries]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/248352c8-3e13-11ef-848e-1f60634a0146</id>
         <link href="https://www.nrtoday.com/family/a-berry-bonanza-the-health-benefits-and-versatile-uses-of-berries/article_248352c8-3e13-11ef-848e-1f60634a0146.html"/>
@@ -940,26 +820,6 @@ Created by the Legislature in 1989, the five-member committee assists and advise
         <summary type="html"><![CDATA[The Umpqua Valley is home to perfect berry-growing conditions. Local farmers markets, fruit stands and u-pick farms offer marionberries, cherries, blueberries, raspberries, strawberries, boysenberries and blackberries in a rotating succession beginning near the end of May and running through August…]]></summary>
         <author>
             <name>Jennifer D. Coalwell For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE  JAILED, ONE CITED FOLLOWING REPORTED ROAD RAGE INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=120937</id>
-        <link href="https://kqennewsradio.com/2024/07/10/one-jailed-one-cited-following-reported-road-rage-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-jailed-one-cited-following-reported-road-rage-incident"/>
-        <updated>2024-07-10T16:42:33.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2024 9:30 a.m. One person was jailed, and one was cited following a reported road rage incident on Tuesday night. A Roseburg Police report said the incident on West Harvard Avenue and West Harrison Street took place at 9:50 p.m. and involved a Winston man and a Roseburg woman, both age 18. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 7.10.24]]></title>
-        <id>https://kqennewsradio.com/?p=120934</id>
-        <link href="https://kqennewsradio.com/2024/07/10/morning-conversation-7-10-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-7-10-24"/>
-        <updated>2024-07-10T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Howard Sand talks about the Growing Miracles Lavender Garden Lavender Festival happening Friday through Sunday.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
     <entry>
