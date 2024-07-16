@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-16T13:09:31.449Z</updated>
+    <updated>2024-07-16T16:12:32.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Douglas County prepares for fair]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/232f2372-42df-11ef-b2b2-630b9bc52d4d</id>
+        <link href="https://www.nrtoday.com/family/north-douglas-county-prepares-for-fair/article_232f2372-42df-11ef-b2b2-630b9bc52d4d.html"/>
+        <updated>2024-07-16T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DRAIN — North Douglas County Fair will provide entertainment, artwork, crafts, games and more Friday evening and all day Saturday at Drain's Civic Center, located at 515 S. Cedar St. in Drain.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Big Benefits of Temporary Staffing]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/42d92b94-42e1-11ef-b9f8-4388cfdc6a71</id>
+        <link href="https://www.nrtoday.com/business/3-big-benefits-of-temporary-staffing/article_42d92b94-42e1-11ef-b9f8-4388cfdc6a71.html"/>
+        <updated>2024-07-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many decisions hiring managers and business leaders face each day. But perhaps the most important decision has to do with your people, specifically, deciding when it’s time to add more staff.]]></summary>
+        <author>
+            <name>WILLIS COOK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire danger now extreme on DFPA lands]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e29ab19e-4376-11ef-b40f-13b33f2c9fe6</id>
+        <link href="https://www.nrtoday.com/briefs/fire-danger-now-extreme-on-dfpa-lands/article_e29ab19e-4376-11ef-b40f-13b33f2c9fe6.html"/>
+        <updated>2024-07-16T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS DISTRICT — The Fire Danger Level and Public Use Restriction Level is now extreme for all private, county, state and Bureau of Indian Affairs land within Douglas Forest Protective Association’s Douglas District]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOUGLAS COUNTY TASK FORCE RESPONDS TO FALLS FIRE]]></title>
         <id>https://kqennewsradio.com/?p=121184</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[July 16, 2024 6:00 a.m. On Sunday afternoon, the Oregon State Fire Marshal’s office activated Douglas County for a Conflagration on the Falls Fire near Burns. A release from Central Douglas Fire & Rescue said the task force includes equipment and personnel from CDF&R, Riddle Fire District, North Douglas Fire County Fire & EMS, Tenmile...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire put out twice in Myrtle Creek]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d74fd520-42ff-11ef-ad9e-1f52895a0131</id>
+        <link href="https://www.nrtoday.com/briefs/fire-put-out-twice-in-myrtle-creek/article_d74fd520-42ff-11ef-ad9e-1f52895a0131.html"/>
+        <updated>2024-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Crews from Douglas Forest Protective Association, Douglas County Sheriff’s Office, Riddle Fire Department, Myrtle Creek Fire Department, Tri-City Fire Department, Oregon State Police and Oregon Department of Transportation responded at approximately 5:13 p.m. Sunday to reports of…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -32,6 +72,16 @@
         <link href="https://kqennewsradio.com/2024/07/16/red-flag-warning-for-parts-of-southern-oregon-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=red-flag-warning-for-parts-of-southern-oregon-2"/>
         <updated>2024-07-16T11:27:00.000Z</updated>
         <summary type="html"><![CDATA[July 16, 2024 4:20 a.m.  A Red Flag Warning is in effect from 2:00 p.m. to 11:00 p.m. Tuesday for abundant lightning on dry fuels in parts of southern Oregon. An Urgent Fire Weather Message from the National Weather Service said the Warning area includes the Umpqua National Forest, Southern Oregon Cascades, Klamath Basin and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIRE DANGER/PUBLIC USE RESTRICTIONS NOW EXTREME ON ALL DFPA LANDS]]></title>
+        <id>https://kqennewsradio.com/?p=121176</id>
+        <link href="https://kqennewsradio.com/2024/07/16/fire-danger-public-use-restrictions-now-extreme-on-all-dfpa-lands/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fire-danger-public-use-restrictions-now-extreme-on-all-dfpa-lands"/>
+        <updated>2024-07-16T11:06:32.000Z</updated>
+        <summary type="html"><![CDATA[July 16, 2024 4:00 a.m. The Fire Danger Level and Public Use Restriction Level is now EXTREME for all private, county, state and Bureau of Indian Affairs land within the Douglas Forest Protective Association’s Douglas District Industrial Fire Precaution Levels remain at IFPL Level 3 in regulated use areas of DFPA lands and all forestland...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
@@ -114,6 +164,16 @@
         <summary type="html"><![CDATA[On Sunday afternoon 7/14/24 the Oregon State Fire Marshalls office for activated Douglas County for a Conflagration to the Falls Fire near Burns, Oregon. The Task Force includes equipment and personnel from Central Douglas Fire & Rescue, Riddle Fire District, North Douglas Fire and Ems, Tenmile Fire District, and Lookingglass Fire District. The Task Force will be providing structure protection, infrastructure protection, and assisting wildland firefighters.]]></summary>
         <author>
             <name>Douglas Co. Fire Dist. No.2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kroger-Albertson merger doesn't affect Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/51ca25f6-42e4-11ef-9409-f7a69a4a65b2</id>
+        <link href="https://www.nrtoday.com/business/kroger-albertson-merger-doesnt-affect-douglas-county/article_51ca25f6-42e4-11ef-9409-f7a69a4a65b2.html"/>
+        <updated>2024-07-15T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The proposed merger between Kroger and Albertsons does not affect any stores in Douglas County, according to an Albertson’s spokesperson.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -542,96 +602,6 @@ Please remember, “𝑪𝒂𝒍𝒍 𝒊𝒇 𝒚𝒐𝒖 𝑪𝒂𝒏, 𝑻�
         <summary type="html"><![CDATA[Last weekend, I went to the farmers market. Even though it was warm outside, I wanted to pick up some produce for dinner.]]></summary>
         <author>
             <name>LOGAN BENNETT For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic cars cruise to Roseburg rest homes]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/afac96de-3fdf-11ef-8a1b-33c938939d7b</id>
-        <link href="https://www.nrtoday.com/news/classic-cars-cruise-to-roseburg-rest-homes/article_afac96de-3fdf-11ef-8a1b-33c938939d7b.html"/>
-        <updated>2024-07-13T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Car enthusiasts paraded their cars to the doorstep of those who couldn’t get out and enjoy the festivities Thursday during the Retirement & Rest Home Tour.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live fire training Friday in Camas Valley]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1640b6ae-4068-11ef-85de-5b0fdca2b17e</id>
-        <link href="https://www.nrtoday.com/briefs/live-fire-training-friday-in-camas-valley/article_1640b6ae-4068-11ef-85de-5b0fdca2b17e.html"/>
-        <updated>2024-07-12T16:02:00.000Z</updated>
-        <summary type="html"><![CDATA[CAMAS VALLEY — Camas Valley Rural Fire District scheduled a live fire training for Friday in the 1000 block of Main Camas Road in Camas Valley, according to a press release from the Douglas Forest Protective Association.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local detailer Rose selected to detail cars at Motorlux]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/32bd53ba-3fc2-11ef-ac69-9753491ec889</id>
-        <link href="https://www.nrtoday.com/life/local-detailer-rose-selected-to-detail-cars-at-motorlux/article_32bd53ba-3fc2-11ef-ac69-9753491ec889.html"/>
-        <updated>2024-07-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lindsay Rose said detailing in Monterey, California, was on her bucket list, but she never expected to be invited so soon.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winston Summer Night Cruise returns]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9ed0d210-3fb9-11ef-a93e-1760af125bd6</id>
-        <link href="https://www.nrtoday.com/news/winston-summer-night-cruise-returns/article_9ed0d210-3fb9-11ef-a93e-1760af125bd6.html"/>
-        <updated>2024-07-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — Join the Winston community as it celebrates cruisin’ cars from 5-10 p.m. Saturday, orchestrated by the Winston-Dillard Area Festival Association.]]></summary>
-        <author>
-            <name>MARIAH JOHNSTON The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veteran suicide awareness ride scheduled for July 20]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2cfd80a6-405f-11ef-a56e-575350d8c88b</id>
-        <link href="https://www.nrtoday.com/briefs/veteran-suicide-awareness-ride-scheduled-for-july-20/article_2cfd80a6-405f-11ef-a56e-575350d8c88b.html"/>
-        <updated>2024-07-12T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Ride for 22 is having its annual Veteran Suicide Awareness Ride on July 20.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saving Grace lowers adoption fees]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f2b4451c-4057-11ef-b7c8-e7f3f94e08b3</id>
-        <link href="https://www.nrtoday.com/briefs/saving-grace-lowers-adoption-fees/article_f2b4451c-4057-11ef-b7c8-e7f3f94e08b3.html"/>
-        <updated>2024-07-12T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Saving Grace Pet Adoption Center will participate in a national Empty the Shelters reduced-fee adoption event through July 31.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask a Master Gardener: Growing marionberries]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/07844bc2-3ee6-11ef-91f0-8f24032d517b</id>
-        <link href="https://www.nrtoday.com/news/environment/ask-a-master-gardener-growing-marionberries/article_07844bc2-3ee6-11ef-91f0-8f24032d517b.html"/>
-        <updated>2024-07-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Question: I love fresh summer berries, especially marionberries. I can never find fresh marionberries at the grocery store. I want to grow some, but I have a small yard. Am I out of luck?]]></summary>
-        <author>
-            <name>JULIE BURCHSTEAD Master Gardener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backside Brewing hosts burnout competition for Graffiti]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/702bb44e-3fe5-11ef-8dea-7b761d5e91a3</id>
-        <link href="https://www.nrtoday.com/news/local/backside-brewing-hosts-burnout-competition-for-graffiti/article_702bb44e-3fe5-11ef-8dea-7b761d5e91a3.html"/>
-        <updated>2024-07-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Smoke poured into the sky as engines revved and tires popped at the Backside Brewing Co. Burnout Competition on Thursday night, courtesy of Graffiti Weekend.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night work on Highways 38 and 101 next week]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/04eaa59a-3fa0-11ef-8989-f7aa32363b52</id>
-        <link href="https://www.nrtoday.com/briefs/night-work-on-highways-38-and-101-next-week/article_04eaa59a-3fa0-11ef-8989-f7aa32363b52.html"/>
-        <updated>2024-07-12T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[REEDSPORT — Oregon Department of Transportation will be doing asphalt grinding and paving on Highways 38 and 101 (Reedsport to Winchester Bay) between 7:30 p.m. and 5:30 a.m. Monday-Friday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
