@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-15T23:12:07.326Z</updated>
+    <updated>2024-07-16T02:31:36.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Task Force Responds to Falls Fire]]></title>
+        <id>https://www.flashalert.net/news.html?id=6158#news173814</id>
+        <link href="https://www.flashalert.net/news.html?id=6158#news173814"/>
+        <updated>2024-07-16T02:27:13.000Z</updated>
+        <summary type="html"><![CDATA[On Sunday afternoon 7/14/24 the Oregon State Fire Marshalls office for activated Douglas County for a Conflagration to the Falls Fire near Burns, Oregon. The Task Force includes equipment and personnel from Central Douglas Fire & Rescue, Riddle Fire District, North Douglas Fire and Ems, Tenmile Fire District, and Lookingglass Fire District. The Task Force will be providing structure protection, infrastructure protection, and assisting wildland firefighters.]]></summary>
+        <author>
+            <name>Douglas Co. Fire Dist. No.2</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.15.24]]></title>
         <id>https://kqennewsradio.com/?p=121145</id>
@@ -639,16 +649,6 @@ Comments can also be sent to maprules@odf.oregon.gov until 5 p.m. on Aug. 15. P
         <summary type="html"><![CDATA[ROSEBURG — Saving Grace Pet Adoption Center will participate in a national Empty the Shelters reduced-fee adoption event through July 31.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAWMAKERS INTRODUCE BILL TO SUPPORT WOMEN-OWNED SMALLL BUSINESSES]]></title>
-        <id>https://kqennewsradio.com/?p=121040</id>
-        <link href="https://kqennewsradio.com/2024/07/12/lawmakers-introduce-bill-to-support-women-owned-smalll-businesses/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lawmakers-introduce-bill-to-support-women-owned-smalll-businesses"/>
-        <updated>2024-07-12T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[July 12, 2024 7:05 a.m. Friday, U.S. Representatives Lori Chavez-DeRemer and Val Hoyle introduced the Veterans Affairs Opportunity for Women-Owned Small Businesses Act. A joint release said its bipartisan legislation to improve federal contracting opportunities for women-owned small businesses in the U.S. Department of Veterans Affairs, Vets First Contracting Program. Hoyle said, “Small businesses are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
     <entry>
