@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121217",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/07/16/true-wealth-7-16-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-7-16-24",
+          "publishedOn": "2024-07-17T00:10:34.000Z",
+          "wordCount": 1532,
+          "title": "TRUE WEALTH 7.16.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240716230409/TRUE-WEALTH-7-16-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121210",
           "author": "Kyle Bailey",
           "description": "Glide Revitalization Executive Director Jeana Beam talks about the organization and Saturday’s Sasquatch Festival.",
@@ -418,26 +433,6 @@
           "publishedOn": "2024-07-14T13:02:48.000Z",
           "wordCount": 1567,
           "title": "GRAFFITI WEEKEND CONCLUDES SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240628214345/102488-Graffiti-300x250-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121080",
-          "author": "Kyle Bailey",
-          "description": "July 13, 2024 7:00 a.m. On Friday, Governor Tina Kotek declared a state of emergency because of the imminent threat of wildfire, continuing through October 1st. Kotek said, “Wildfires are active across Oregon and are growing at a concerning pace”. Kotek said, “I am declaring a State of Emergency to access state resources for communities...",
-          "link": "https://kqennewsradio.com/2024/07/13/governor-declares-extended-state-of-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=governor-declares-extended-state-of-emergency",
-          "publishedOn": "2024-07-13T14:01:27.000Z",
-          "wordCount": 1713,
-          "title": "GOVERNOR DECLARES EXTENDED STATE OF EMERGENCY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121076",
-          "author": "Kyle Bailey",
-          "description": "July 13, 2024 6:20 a.m. Graffiti Weekend continues through Sunday with events happening around the county: On Saturday: *Roseburg Optimist Club presents the Rock N’ Rollin’ Pancake Breakfast, hosted by Lehne Farms on Melrose Road in the former Kruse Farms location. Breakfast is served from 8:00 a.m. to 11:30 a.m. Cost is $10 for adults,...",
-          "link": "https://kqennewsradio.com/2024/07/13/graffiti-weekend-saturday-events/?utm_source=rss&utm_medium=rss&utm_campaign=graffiti-weekend-saturday-events",
-          "publishedOn": "2024-07-13T13:20:12.000Z",
-          "wordCount": 1693,
-          "title": "GRAFFITI WEEKEND SATURDAY EVENTS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240628214345/102488-Graffiti-300x250-1.jpg"
         }
       ]
