@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-18T13:15:11.074Z</updated>
+    <updated>2024-07-18T16:13:08.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Draft wildfire hazard maps posted for public comment]]></title>
+        <id>https://www.flashalert.net/news.html?id=1072#news173901</id>
+        <link href="https://www.flashalert.net/news.html?id=1072#news173901"/>
+        <updated>2024-07-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SALEM, Ore. — Draft versions of the statewide wildfire hazard and wildland-urban interface maps are available to the public for review and comment starting today on Oregon State University’s Wildfire Risk Explorer website. 
+The wildfire hazard map's purposes are to:
+
+Educate Oregon residents and property owners about the level of hazard where they live.
+Assist in prioritizing fire adaptation and mitigation resources for the most vulnerable locations.
+Identify where defensible space standards and home hardening codes will apply.
+
+A series of open houses about the state’s new community wildfire risk reduction programs were held from June 3 to July 1 throughout Oregon. It was an opportunity to learn about wildfire hazard assessments, new defensible space and home hardening programs and standa…]]></summary>
+        <author>
+            <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annual Safety Day for Kids this Saturday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/01d79532-42d6-11ef-bfa9-e38b7279af1d</id>
+        <link href="https://www.nrtoday.com/family/annual-safety-day-for-kids-this-saturday/article_01d79532-42d6-11ef-bfa9-e38b7279af1d.html"/>
+        <updated>2024-07-18T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The community is invited to the 9th Annual Safety Day for Kids event Saturday. The free event is from 10 a.m. to 1 p.m. and will be held in the Sherm's Thunderbird Market parking lot.]]></summary>
+        <author>
+            <name>BRITTANY ARNOLD The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer camp at UCC teaches Lego robotics]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5da01f8a-447d-11ef-bebe-330d8db19876</id>
+        <link href="https://www.nrtoday.com/news/education/summer-camp-at-ucc-teaches-lego-robotics/article_5da01f8a-447d-11ef-bebe-330d8db19876.html"/>
+        <updated>2024-07-18T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — STEAM summer camps at Umpqua Community College this year involve LEGOs and robots.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring the heat this weekend with Sutherlin Throwdown]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bff64c9a-4464-11ef-8de6-1bfe05c55c9e</id>
+        <link href="https://www.nrtoday.com/news/local/bring-the-heat-this-weekend-with-sutherlin-throwdown/article_bff64c9a-4464-11ef-8de6-1bfe05c55c9e.html"/>
+        <updated>2024-07-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Shawna Newquist's first time competing in a sanctioned barbecue event was in at the 2023 Sutherlin Throwdown. It was also the first year of the throwdown.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lindsey Rose wins Pitch Night]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5143e3d2-44b1-11ef-b881-3f21d8d5a56e</id>
+        <link href="https://www.nrtoday.com/business/lindsey-rose-wins-pitch-night/article_5143e3d2-44b1-11ef-b881-3f21d8d5a56e.html"/>
+        <updated>2024-07-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Lindsey Rose electrified the audience and judges alike Wednesday night with her Eclectic Rose Auto Salon presentation during Umpqua Growth Talks’ Pitch Night, taking home the $10,000 first-place prize and the Audience Choice Award of $2,500.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fires burn across the county]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9fd06c52-4509-11ef-acc1-b3d15561eb30</id>
+        <link href="https://www.nrtoday.com/news/local/fires-burn-across-the-county/article_9fd06c52-4509-11ef-acc1-b3d15561eb30.html"/>
+        <updated>2024-07-18T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Over 1,000 lightning strikes made ground contact throughout Oregon on Tuesday night. Of those, about 130 impacted the Douglas District, according to Douglas Forest Protective Association.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA FIRE UPDATE FOR EARLY THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=121299</id>
@@ -64,6 +131,16 @@
         <summary type="html"><![CDATA[July 18, 2024 2:50 a.m. Pouring Generosity continues through August. Feeding Umpqua, a program of the United Community Action Network, is coordinating the campaign for the seventh year. In addition to Umpqua Valley wineries, local breweries are also participating this summer. The overall goal of the campaign is to raise $15,000 to help support the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dwight named new principal in Glide School District]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e1b402e6-44b4-11ef-97b0-ff58f68c6264</id>
+        <link href="https://www.nrtoday.com/news/education/dwight-named-new-principal-in-glide-school-district/article_e1b402e6-44b4-11ef-97b0-ff58f68c6264.html"/>
+        <updated>2024-07-18T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — With a motion, a second and the bang of the gavel, Glide School District board of directors approved Kerry Dwight as the new principal of the Glide High and Middle schools in their regular meeting Wednesday night.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
