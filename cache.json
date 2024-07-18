@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121284",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/07/17/mike-winters-lawn-and-garden-show-7-17-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-7-17-24",
+          "publishedOn": "2024-07-18T00:05:51.000Z",
+          "wordCount": 1541,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 7.17.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240717230414/MWLGS-7-17-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=121282",
+          "author": "Kyle Bailey",
+          "description": "July 17, 2024 4:50 p.m.  The Trail Fire at Diamond Lake has resulted in the implementation of Evacuation Notices, which were issued by the Douglas County Sheriff’s Office late Wednesday afternoon. Level 3 – GO NOW *Pacific Crest Trail is closed from the intersection of Highway 138 East at the North Crater Trailhead to the...",
+          "link": "https://kqennewsradio.com/2024/07/17/trail-fire-evacuation-notices-issued/?utm_source=rss&utm_medium=rss&utm_campaign=trail-fire-evacuation-notices-issued",
+          "publishedOn": "2024-07-17T23:53:08.000Z",
+          "wordCount": 1596,
+          "title": "TRAIL FIRE EVACUATION NOTICES ISSUED",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=121280",
+          "author": "Kyle Bailey",
+          "description": "July 18, 2024 4:40 p.m.  Forest Service crews are dealing with the Trail Fire in the Diamond Lake area. Information from the Umpqua National Forest said the fire is impacting traffic on Highway 138. The Trail Fire was estimated at 100 acres, as of Wednesday afternoon. Resources on the scene include a dozer, three engines,...",
+          "link": "https://kqennewsradio.com/2024/07/17/trail-fire-in-diamond-lake-area/?utm_source=rss&utm_medium=rss&utm_campaign=trail-fire-in-diamond-lake-area",
+          "publishedOn": "2024-07-17T23:40:06.000Z",
+          "wordCount": 1541,
+          "title": "TRAIL FIRE IN DIAMOND LAKE AREA",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203008/Umpqua-National-Forest-Sign-e1671794501431.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121272",
           "author": "Kyle Bailey",
           "description": "Live from Milwaukie Wisconsin, former Oregon Republican Party Chair Bob Tiernan shares his thoughts about being at this week’s GOP National Convention.",
@@ -604,26 +639,6 @@
           "wordCount": 1540,
           "title": "WINSTON MAN JAILED FOR TRESPASS INCIDENT AT LANDFILL",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121088",
-          "author": "Kyle Bailey",
-          "description": "July 14, 2024 6:40 a.m.  First responders dealt with a fire in the Camas Valley area on Saturday. Douglas Forest Protective Association Public Information Officer Rachel Pope said just before 10:30 a.m. crews from DFPA, the Coos Forest Protective Association, Tenmile Rural Fire District, Camas Valley Rural Fire District, Lookingglass Rural Fire District, the Douglas...",
-          "link": "https://kqennewsradio.com/2024/07/14/first-responders-deal-with-fire-in-the-camas-valley-area/?utm_source=rss&utm_medium=rss&utm_campaign=first-responders-deal-with-fire-in-the-camas-valley-area",
-          "publishedOn": "2024-07-14T13:42:03.000Z",
-          "wordCount": 1706,
-          "title": "FIRST RESPONDERS DEAL WITH FIRE IN THE CAMAS VALLEY AREA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240714124116/fire3-16.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121086",
-          "author": "Kyle Bailey",
-          "description": "July 14, 2024 6:00 a.m. Graffiti Weekend is concluding Sunday. *30th annual Graffiti Week-End Fun Run presented by the Classic Chevelles of Oregon and Stray Angels Car Club. Starts on Northwest Stewart Parkway in Roseburg between McDonalds and Goodwill.  Registration is from 9:00 a.m. to 10:30 a.m. Cruise entry is $5 and includes a dash...",
-          "link": "https://kqennewsradio.com/2024/07/14/graffiti-weekend-concludes-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=graffiti-weekend-concludes-sunday",
-          "publishedOn": "2024-07-14T13:02:48.000Z",
-          "wordCount": 1567,
-          "title": "GRAFFITI WEEKEND CONCLUDES SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240628214345/102488-Graffiti-300x250-1.jpg"
         }
       ]
     },
@@ -638,6 +653,161 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b67175b0-4490-11ef-84f8-8bcab2126f72",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "UMPQUA NATIONAL FOREST/DIAMOND LAKE — Evacuation levels 2 and 3 have been issued per an update from the Douglas County Sheriff's Office for the Trail Fire burning in the Diamond Lake area.",
+          "link": "https://www.nrtoday.com/news/environment/evacuations-issued-for-trail-fire-in-the-diamond-lake-area/article_b67175b0-4490-11ef-84f8-8bcab2126f72.html",
+          "publishedOn": "2024-07-17T23:02:00.000Z",
+          "wordCount": 13409,
+          "title": "Evacuations issued for Trail Fire in the Diamond Lake area",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/54/854130d0-4494-11ef-8fd0-e32b01571b93/66985407509df.image.jpg?resize=300%2C225",
+            "length": "329577",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/54/854130d0-4494-11ef-8fd0-e32b01571b93/66985407509df.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e91ec624-4473-11ef-a890-83d29c987e3c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Tuesday's lightning storms led to multiple fires ignited throughout the Douglas Forest Protective Association's district. As of 9 a.m. Wednesday, five fire starts have been confirmed in the district, according to a press release from the association.",
+          "link": "https://www.nrtoday.com/news/environment/five-fire-starts-confirmed-in-douglas-district/article_e91ec624-4473-11ef-a890-83d29c987e3c.html",
+          "publishedOn": "2024-07-17T19:36:00.000Z",
+          "wordCount": 13500,
+          "title": "Five fire starts confirmed in Douglas district",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/c2/4c24863e-4495-11ef-8882-2bd3d8a5fb5b/669855550297c.image.jpg?resize=300%2C388",
+            "length": "236252",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/c2/4c24863e-4495-11ef-8882-2bd3d8a5fb5b/669855550297c.image.jpg?resize=300%2C388"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/059648fa-42cf-11ef-ad33-af5994169599",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "OREGON — Oregon Department of Forestry’s Regional Forest Practices Committees is searching for new members. There are vacancies on all three regional committees: Eastern, Southwest and Northwest.",
+          "link": "https://www.nrtoday.com/briefs/volunteers-desired-for-forest-practice-advice/article_059648fa-42cf-11ef-ad33-af5994169599.html",
+          "publishedOn": "2024-07-17T15:00:00.000Z",
+          "wordCount": 13166,
+          "title": "Volunteers desired for forest practice advice",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4854353e-444c-11ef-9c7b-934663f62883",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Umpqua Watersheds is hosting the 38th River Appreciation Day from 1-7 p.m. Saturday.",
+          "link": "https://www.nrtoday.com/briefs/umpqua-watersheds-to-host-38th-river-appreciation-day/article_4854353e-444c-11ef-9c7b-934663f62883.html",
+          "publishedOn": "2024-07-17T14:53:00.000Z",
+          "wordCount": 13119,
+          "title": "Umpqua Watersheds to host 38th River Appreciation Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/17ce5b24-4447-11ef-a33d-479c32375e64",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Greater Douglas United Way will launch its 70th Annual Giving Campaign on Sept. 5.",
+          "link": "https://www.nrtoday.com/briefs/70th-annual-giving-campaign-kicks-off-sept-5/article_17ce5b24-4447-11ef-a33d-479c32375e64.html",
+          "publishedOn": "2024-07-17T14:16:00.000Z",
+          "wordCount": 13131,
+          "title": "70th annual giving campaign kicks off Sept. 5",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f5707b48-445a-11ef-a3b8-8715172c1eea",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "Being an entertainer is something Tom Swearingen never thought he would be, much less perform in front of large crowds.",
+          "link": "https://www.nrtoday.com/a_and_e/cowboy-poetry-returns-with-tom-swearingen-at-riverbend-live/article_f5707b48-445a-11ef-a3b8-8715172c1eea.html",
+          "publishedOn": "2024-07-17T14:00:00.000Z",
+          "wordCount": 13940,
+          "title": "Cowboy poetry returns with Tom Swearingen at Riverbend Live",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/4f/74fa2c2e-445b-11ef-b7c0-9f86c361cca5/6697f44aad9e5.image.jpg?resize=300%2C200",
+            "length": "256833",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/4f/74fa2c2e-445b-11ef-b7c0-9f86c361cca5/6697f44aad9e5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5371bc60-4443-11ef-ae1f-af3e008a4673",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "A predicted lightning storm swept across Oregon on Tuesday, igniting multiple fires.",
+          "link": "https://www.nrtoday.com/news/local/lightning-causes-multiple-fires/article_5371bc60-4443-11ef-ae1f-af3e008a4673.html",
+          "publishedOn": "2024-07-17T14:00:00.000Z",
+          "wordCount": 13316,
+          "title": "Lightning causes multiple fires",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/eb/deb8e8b4-4445-11ef-8c9c-635b8680eca0/6697d0132dd4b.image.jpg?resize=300%2C310",
+            "length": "136222",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/eb/deb8e8b4-4445-11ef-8c9c-635b8680eca0/6697d0132dd4b.image.jpg?resize=300%2C310"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d1d40672-43f2-11ef-b6be-6b3d50486aac",
+          "author": "LEO GIMBEL The News-Review",
+          "description": "It was a warm summer night as hundreds of people gathered at Stewart Park for Tuesday’s Half Shell performance, a night of drums, cellos and impressive vocals from DakhaBrakha, a band originating out of Ukraine.",
+          "link": "https://www.nrtoday.com/a_and_e/dakhabrakha-plays-at-the-half-shell/article_d1d40672-43f2-11ef-b6be-6b3d50486aac.html",
+          "publishedOn": "2024-07-17T13:45:00.000Z",
+          "wordCount": 14794,
+          "title": "DakhaBrakha plays at the Half Shell",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/51/0515e870-43f3-11ef-8a1b-a3aa21cb4eec/669745134f414.image.jpg?resize=300%2C200",
+            "length": "224275",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/51/0515e870-43f3-11ef-8a1b-a3aa21cb4eec/669745134f414.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5d3bddea-43b5-11ef-8d67-c38c63cb3ebf",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Lavola Bakken’s book “Lone Rock Free State” has been touted as the leading piece of literature that lays the foundation for the history of the North Umpqua River territory near Glide.",
+          "link": "https://www.nrtoday.com/news/history/lone-rock-free-state-sets-the-foundation-for-douglas-countys-history/article_5d3bddea-43b5-11ef-8d67-c38c63cb3ebf.html",
+          "publishedOn": "2024-07-17T13:30:00.000Z",
+          "wordCount": 14030,
+          "title": "Lone Rock Free State sets the foundation for Douglas County's history",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/f6/9f665c12-43bb-11ef-abbb-db9a26abe591/6696e82262c59.image.jpg?resize=300%2C200",
+            "length": "178149",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/f6/9f665c12-43bb-11ef-abbb-db9a26abe591/6696e82262c59.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b1bce2ea-42c2-11ef-904c-0359bccd8931",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Roseburg VA Medical Center's Virtual Health Resource Center will host a session to teach veterans how to use the My VA Health Patient Portal at 10:30 a.m. July 31.",
+          "link": "https://www.nrtoday.com/briefs/class-teaches-veterans-how-to-use-patient-portal/article_b1bce2ea-42c2-11ef-904c-0359bccd8931.html",
+          "publishedOn": "2024-07-17T13:00:00.000Z",
+          "wordCount": 13247,
+          "title": "Class teaches veterans how to use patient portal",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9fcaecc8-43ce-11ef-aa24-9fad2ff06884",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "The Oregon State Fire Marshal’s office activated Douglas County on Sunday for a conflagration on the Falls Fire near Burns in Eastern Oregon. The task force includes equipment and personnel from Central Douglas Fire & Rescue, Riddle Fire Protection District,…",
+          "link": "https://www.nrtoday.com/news/local/douglas-county-firefighters-tapped-for-falls-fire/article_9fcaecc8-43ce-11ef-aa24-9fad2ff06884.html",
+          "publishedOn": "2024-07-17T01:15:00.000Z",
+          "wordCount": 13430,
+          "title": "Douglas County firefighters tapped for Falls Fire",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/17ff0630-4301-11ef-a513-332cd7e4a5af",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "CAMAS VALLEY — Guests will learn why the slogan for Camas Valley Fun Days is “No mud, no glory,” when the event returns for its 19th year this weekend.",
+          "link": "https://www.nrtoday.com/news/camas-valley-fun-days-returns-for-nineteenth-year/article_17ff0630-4301-11ef-a513-332cd7e4a5af.html",
+          "publishedOn": "2024-07-17T00:30:00.000Z",
+          "wordCount": 13525,
+          "title": "Camas Valley Fun Days returns for nineteenth year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/16/f168e572-43d2-11ef-ae75-9bfdbb7182e7/64fce926785f7.image.jpg?resize=300%2C200",
+            "length": "568445",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/16/f168e572-43d2-11ef-ae75-9bfdbb7182e7/64fce926785f7.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/232f2372-42df-11ef-b2b2-630b9bc52d4d",
           "author": "GLORIA COLEMAN The News-Review",
@@ -722,171 +892,6 @@
           "wordCount": 13152,
           "title": "Oregon Institute of Technology 2024 spring honor roll",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0e177516-3d58-11ef-85bf-83fb60652c1e",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "FISHING REPORT",
-          "link": "https://www.nrtoday.com/news/environment/douglas-county-recreation-report/article_0e177516-3d58-11ef-85bf-83fb60652c1e.html",
-          "publishedOn": "2024-07-14T14:00:00.000Z",
-          "wordCount": 16182,
-          "title": "Douglas County recreation report",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/71fea984-3d4c-11ef-af3c-9b5407ac4fb6",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "BUFFALO, NY — Bhakti Kulkarni of Roseburg graduated magna cum laude from the University at Buffalo with a bachelor's degree in biomedical engineering from the School of Engineering and Applied Sciences.",
-          "link": "https://www.nrtoday.com/briefs/kulkarni-graduates-from-university-at-buffalo/article_71fea984-3d4c-11ef-af3c-9b5407ac4fb6.html",
-          "publishedOn": "2024-07-14T13:00:00.000Z",
-          "wordCount": 13134,
-          "title": "Kulkarni graduates from University at Buffalo",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d7ad516e-416f-11ef-895e-936c874c9676",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "CAMAS VALLEY — Personnel from Douglas Forest Protective Association, Coos Forest Protective Association, Tenmile Rural Fire District, Camas Valley Rural Fire District, Lookingglass Rural Fire District, Douglas County Sheriff’s Office, Oregon State Police and Oregon Department of Transportation responded to…",
-          "link": "https://www.nrtoday.com/briefs/fire-crews-respond-to-highway-42-fire/article_d7ad516e-416f-11ef-895e-936c874c9676.html",
-          "publishedOn": "2024-07-13T23:30:00.000Z",
-          "wordCount": 13244,
-          "title": "Fire crews respond to Highway 42 fire",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9893d1a4-4149-11ef-bd0f-c73c86ca9d66",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "DOUGLAS COUNTY — Local law enforcement is encouraging the public to call if you can, text if you can't when contacting emergency services.",
-          "link": "https://www.nrtoday.com/briefs/law-enforcement-encourages-call-if-you-can-text-if-you-cant/article_9893d1a4-4149-11ef-bd0f-c73c86ca9d66.html",
-          "publishedOn": "2024-07-13T19:30:00.000Z",
-          "wordCount": 13266,
-          "title": "Law enforcement encourages 'call if you can, text if you can't'",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c711fe1c-4148-11ef-af39-4f1f9b5ddfed",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "OREGON — On Friday, Gov. Tina Kotek declared a state of emergency because of the imminent threat of wildfire, continuing through Oct. 1.",
-          "link": "https://www.nrtoday.com/briefs/kotek-declares-state-of-emergency/article_c711fe1c-4148-11ef-af39-4f1f9b5ddfed.html",
-          "publishedOn": "2024-07-13T18:50:00.000Z",
-          "wordCount": 13237,
-          "title": "Kotek declares state of emergency",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a85b29c4-4091-11ef-b57a-3339e2d58a88",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "The sound of buzzing bees and wafts of lavender filled the air at the seventh annual Lavender Festival and Farm Tour held at Growing Miracles Lavender Garden on Friday.",
-          "link": "https://www.nrtoday.com/news/seventh-annual-lavender-festival-returns/article_a85b29c4-4091-11ef-b57a-3339e2d58a88.html",
-          "publishedOn": "2024-07-13T17:00:00.000Z",
-          "wordCount": 14345,
-          "title": "Seventh annual lavender festival returns",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f9/df904fdc-4091-11ef-8cfc-fb90dc6653fc/66919999abd7a.image.jpg?resize=300%2C200",
-            "length": "439429",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/f9/df904fdc-4091-11ef-8cfc-fb90dc6653fc/66919999abd7a.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fac13b6e-40a9-11ef-8bc9-2fbdf18ae6e6",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "GLIDE — Rat rods are different from the routine shine and sparkle of your usual car show found during Graffiti Weekend. Where rust is the enemy of most car enthusiasts, others invite the rust and scrappy look that comes with…",
-          "link": "https://www.nrtoday.com/a_and_e/the-2024-rat-rod-round-up-if-its-cool-bring-it/article_fac13b6e-40a9-11ef-8bc9-2fbdf18ae6e6.html",
-          "publishedOn": "2024-07-13T16:30:00.000Z",
-          "wordCount": 14351,
-          "title": "The 2024 Rat Rod Round-Up: If it's cool, bring it",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2f/22fe6d08-40ab-11ef-aec4-1333665e82cd/6691c3fc3fabd.image.jpg?resize=300%2C200",
-            "length": "358685",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2f/22fe6d08-40ab-11ef-aec4-1333665e82cd/6691c3fc3fabd.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fac13b6e-40a9-11ef-8bc9-2fbdf18ae6e6",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "GLIDE — Rat rods are different from the routine shine and sparkle of your usual car show found during Graffiti Weekend. Where rust is the enemy of most car enthusiasts, others invite the rust and scrappy look that comes with…",
-          "link": "https://www.nrtoday.com/a_and_e/the-2024-rat-rod-roundup-if-its-cool-bring-it/article_fac13b6e-40a9-11ef-8bc9-2fbdf18ae6e6.html",
-          "publishedOn": "2024-07-13T16:30:00.000Z",
-          "wordCount": 14383,
-          "title": "The 2024 Rat Rod Roundup: If it's cool, bring it",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2f/22fe6d08-40ab-11ef-aec4-1333665e82cd/6691c3fc3fabd.image.jpg?resize=300%2C200",
-            "length": "358685",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/2f/22fe6d08-40ab-11ef-aec4-1333665e82cd/6691c3fc3fabd.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/413b0e52-3336-11ef-aca1-2b7f797c0eec",
-          "author": "WILL GESCHKE The News-Review",
-          "description": "When Leah and Nick Jones first met, the town of Roseburg was probably the last thing on their minds.",
-          "link": "https://www.nrtoday.com/news/finding-kid-friendly-dates-in-douglas-county/article_413b0e52-3336-11ef-aca1-2b7f797c0eec.html",
-          "publishedOn": "2024-07-13T15:00:00.000Z",
-          "wordCount": 13835,
-          "title": "Finding kid-friendly dates in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/0d/d0da5004-3340-11ef-8690-7b332736f4c8/667b4226a70eb.image.jpg?resize=300%2C200",
-            "length": "404968",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/0d/d0da5004-3340-11ef-8690-7b332736f4c8/667b4226a70eb.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/22006c86-3fba-11ef-9552-bfab76ff83d6",
-          "author": "Kris Wiley For The News-Review",
-          "description": "Roseburg Public Library patrons are sharing their favorite books this summer and providing reading inspiration for the community.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-readers-share-favorite-books/article_22006c86-3fba-11ef-9552-bfab76ff83d6.html",
-          "publishedOn": "2024-07-13T14:15:00.000Z",
-          "wordCount": 13639,
-          "title": "Roseburg Readers Share Favorite Books",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e724c4f2-3fde-11ef-8b6b-3fb11fef33f7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Youth in Sutherlin and the surrounding areas will receive free breakfast and lunch through the summer from the Summer Food Service Program sponsored by the Sutherlin School District.",
-          "link": "https://www.nrtoday.com/briefs/sutherlin-food-service-program-runs-through-july-18/article_e724c4f2-3fde-11ef-8b6b-3fb11fef33f7.html",
-          "publishedOn": "2024-07-13T14:00:00.000Z",
-          "wordCount": 13191,
-          "title": "Sutherlin Food Service Program runs through July 18",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1103fea8-3fb4-11ef-987d-03f3ca8f5cb1",
-          "author": "Aurora Ropp and Kris Wiley For The News-Review",
-          "description": "Roseburg Public Library’s Summer Reading Program is in full swing, and we encourage people of all ages to read for fun and prizes. Reading logs and book review forms are available in person at the front desk or on the…",
-          "link": "https://www.nrtoday.com/news/education/feed-your-love-of-reading-at-the-library/article_1103fea8-3fb4-11ef-987d-03f3ca8f5cb1.html",
-          "publishedOn": "2024-07-13T14:00:00.000Z",
-          "wordCount": 13685,
-          "title": "Feed your love of reading at the library",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1c38917e-3fbb-11ef-89dc-1f8ebab63129",
-          "author": "LOGAN BENNETT For The News-Review",
-          "description": "Last weekend, I went to the farmers market. Even though it was warm outside, I wanted to pick up some produce for dinner.",
-          "link": "https://www.nrtoday.com/news/education/extension-spotlight-pickle-bill-workshop/article_1c38917e-3fbb-11ef-89dc-1f8ebab63129.html",
-          "publishedOn": "2024-07-13T12:15:00.000Z",
-          "wordCount": 13656,
-          "title": "Extension Spotlight: Pickle bill workshop",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f7/6f717c4c-3fbc-11ef-89bb-cff50b7cc5de/660f301b9874a.image.jpg?resize=300%2C200",
-            "length": "431510",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f7/6f717c4c-3fbc-11ef-89bb-cff50b7cc5de/660f301b9874a.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -916,7 +921,23 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news173889",
+          "author": null,
+          "description": "DIAMOND LAKE, ORE. - 𝐓𝐡𝐞 𝐓𝐫𝐚𝐢𝐥 𝐅𝐢𝐫𝐞 𝐚𝐭 𝐃𝐢𝐚𝐦𝐨𝐧𝐝 𝐋𝐚𝐤𝐞 𝐢𝐧 𝐃𝐨𝐮𝐠𝐥𝐚𝐬 𝐂𝐨𝐮𝐧𝐭𝐲 𝐡𝐚𝐬 𝐫𝐞𝐬𝐮𝐥𝐭𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐄𝐯𝐚𝐜𝐮𝐚𝐭𝐢𝐨𝐧 𝐍𝐨𝐭𝐢𝐜𝐞𝐬.\n𝐋𝐄𝐕𝐄𝐋 𝟑 - 𝐆𝐎 𝐍𝐎𝐖!\n𝟏. 𝐏𝐚𝐜𝐢𝐟𝐢𝐜 𝐂𝐫𝐞𝐬𝐭 𝐓𝐫𝐚𝐢𝐥 𝐢𝐬 𝐜𝐥𝐨𝐬𝐞𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐇𝐢𝐠𝐡𝐰𝐚𝐲 𝟏𝟑𝟖 𝐄𝐚𝐬𝐭 𝐚𝐭 𝐭𝐡𝐞 “𝐍𝐨𝐫𝐭𝐡 𝐂𝐫𝐚𝐭𝐞𝐫 𝐓𝐫𝐚𝐢𝐥𝐡𝐞𝐚𝐝” (𝐬𝐨𝐮𝐭𝐡𝐞𝐫𝐧 𝐜𝐥𝐨𝐬𝐮𝐫𝐞 𝐩𝐨𝐢𝐧𝐭) 𝐭𝐨 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐔𝐒𝐅𝐒 𝐌𝐚𝐢𝐝𝐮 𝐋𝐚𝐤𝐞 𝐓𝐫𝐚𝐢𝐥 #𝟏𝟒𝟒𝟔 (𝐧𝐨𝐫𝐭𝐡𝐞𝐫𝐧 𝐜𝐥𝐨𝐬𝐮𝐫𝐞 𝐩𝐨𝐢𝐧𝐭) 𝐧𝐞𝐚𝐫 𝐌𝐢𝐥𝐥𝐞𝐫 𝐋𝐚𝐤𝐞.\n𝟐. 𝐔𝐒𝐅𝐒 𝐍𝐨𝐫𝐭𝐡 𝐂𝐫𝐚𝐭𝐞𝐫 𝐓𝐫𝐚𝐢𝐥 #𝟏𝟒𝟏𝟎\n𝟑. 𝐔𝐒𝐅𝐒 𝐒𝐮𝐦𝐦𝐢𝐭 𝐑𝐨𝐜𝐤 / 𝐂𝐫𝐚𝐭𝐞𝐫 𝐓𝐫𝐚𝐢𝐥 #𝟏𝟒𝟓𝟕\n𝟒. 𝐔\ud835…",
+          "link": "https://www.flashalert.net/news.html?id=5204#news173889",
+          "publishedOn": "2024-07-17T23:23:20.000Z",
+          "wordCount": 2062,
+          "title": "Trail Fire Evacuation Notices Issued (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-07/5204/173889/Trail_Fire_at_Diamond_Lake.jpg",
+            "length": "2295732",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-07/5204/173889/Trail_Fire_at_Diamond_Lake.jpg"
+        }
+      ]
     },
     {
       "title": "Roseburg Police Dept.",
