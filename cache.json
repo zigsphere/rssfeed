@@ -684,6 +684,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f6f7eda-44b1-11ef-8834-73074d823b23",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "LEMOLO LAKE — Douglas County Sheriff's Office has issued a Level 1 \"Be Ready\" Evacuation notice for the campgrounds and resort at Lemolo Lake, as a fire has been detected nearby.",
+          "link": "https://www.nrtoday.com/news/local/be-ready-evacuation-notice-issued-for-lemolo-lake/article_0f6f7eda-44b1-11ef-8834-73074d823b23.html",
+          "publishedOn": "2024-07-18T02:54:00.000Z",
+          "wordCount": 13510,
+          "title": "\"Be Ready\" Evacuation notice issued for Lemolo Lake",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/12/612c358e-c094-11ee-9900-13d345fc8d75/65bade394abe3.image.png?resize=300%2C157",
+            "length": "612428",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/12/612c358e-c094-11ee-9900-13d345fc8d75/65bade394abe3.image.png?resize=300%2C157"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b67175b0-4490-11ef-84f8-8bcab2126f72",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "UMPQUA NATIONAL FOREST/DIAMOND LAKE — Evacuation levels 2 and 3 have been issued per an update from the Douglas County Sheriff's Office for the Trail Fire burning in the Diamond Lake area.",
@@ -902,26 +917,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/0f/60f1c6ea-42e6-11ef-b614-4f076328f508/6560bd403030b.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/242aab24-3d4a-11ef-bffb-e7975455418f",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — Umpqua Community College Director of Registration and Record announced the 2024 spring term honor roll.",
-          "link": "https://www.nrtoday.com/news/education/umpqua-community-college-2024-spring-honor-roll/article_242aab24-3d4a-11ef-bffb-e7975455418f.html",
-          "publishedOn": "2024-07-14T16:00:00.000Z",
-          "wordCount": 13933,
-          "title": "Umpqua Community College 2024 spring honor roll",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/37343768-3e11-11ef-a647-17c5d13017bc",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "KLAMATH FALLS — Oregon Institute of Technology announced its honor roll for the 2024 spring term. Students with a 3.7 GPA and above are named to the president's list and students with a GPA between 3.30 and 3.69 are named…",
-          "link": "https://www.nrtoday.com/news/education/oregon-institute-of-technology-2024-spring-honor-roll/article_37343768-3e11-11ef-a647-17c5d13017bc.html",
-          "publishedOn": "2024-07-14T15:15:00.000Z",
-          "wordCount": 13152,
-          "title": "Oregon Institute of Technology 2024 spring honor roll",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },

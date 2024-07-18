@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-18T12:54:41.641Z</updated>
+    <updated>2024-07-18T13:15:11.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -64,6 +64,16 @@
         <summary type="html"><![CDATA[July 18, 2024 2:50 a.m. Pouring Generosity continues through August. Feeding Umpqua, a program of the United Community Action Network, is coordinating the campaign for the seventh year. In addition to Umpqua Valley wineries, local breweries are also participating this summer. The overall goal of the campaign is to raise $15,000 to help support the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Be Ready" Evacuation notice issued for Lemolo Lake]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0f6f7eda-44b1-11ef-8834-73074d823b23</id>
+        <link href="https://www.nrtoday.com/news/local/be-ready-evacuation-notice-issued-for-lemolo-lake/article_0f6f7eda-44b1-11ef-8834-73074d823b23.html"/>
+        <updated>2024-07-18T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[LEMOLO LAKE — Douglas County Sheriff's Office has issued a Level 1 "Be Ready" Evacuation notice for the campgrounds and resort at Lemolo Lake, as a fire has been detected nearby.]]></summary>
+        <author>
+            <name>ERICA REYNOLDS The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -869,26 +879,6 @@ The deadline for committee applications is July 31.]]></summary>
         <summary type="html"><![CDATA[July 15, 2024 2:50 a.m. Umpqua Watersheds is hosting the 38th River Appreciation Day this Saturday from 1:00 p.m. to 7:00 p.m. It will held in partnership with the Umpqua Valley BIPOC community, and will take place at River Forks Park, northwest of Roseburg. A Watersheds release said the event started following the efforts of...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Community College 2024 spring honor roll]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/242aab24-3d4a-11ef-bffb-e7975455418f</id>
-        <link href="https://www.nrtoday.com/news/education/umpqua-community-college-2024-spring-honor-roll/article_242aab24-3d4a-11ef-bffb-e7975455418f.html"/>
-        <updated>2024-07-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — Umpqua Community College Director of Registration and Record announced the 2024 spring term honor roll.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon Institute of Technology 2024 spring honor roll]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/37343768-3e11-11ef-a647-17c5d13017bc</id>
-        <link href="https://www.nrtoday.com/news/education/oregon-institute-of-technology-2024-spring-honor-roll/article_37343768-3e11-11ef-a647-17c5d13017bc.html"/>
-        <updated>2024-07-14T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[KLAMATH FALLS — Oregon Institute of Technology announced its honor roll for the 2024 spring term. Students with a 3.7 GPA and above are named to the president's list and students with a GPA between 3.30 and 3.69 are named…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
