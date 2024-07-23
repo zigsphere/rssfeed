@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121442",
+          "author": "Kyle Bailey",
+          "description": "July 22, 2024 4:20 p.m.  An Air Quality Alert is in effect until 5:00 p.m. Wednesday for parts of southern Oregon. The Oregon Department of Environmental Quality has issued an Air Pollution Advisory for eastern Douglas County and Klamath County due to numerous wildfires burning in the region. DEQ also expects intermittent smoke in Jackson,...",
+          "link": "https://kqennewsradio.com/2024/07/22/air-quality-alert-for-eastern-douglas-klamath-county/?utm_source=rss&utm_medium=rss&utm_campaign=air-quality-alert-for-eastern-douglas-klamath-county",
+          "publishedOn": "2024-07-22T23:25:38.000Z",
+          "wordCount": 1687,
+          "title": "AIR QUALITY ALERT FOR EASTERN DOUGLAS/KLAMATH COUNTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240722222525/badair-3.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121437",
           "author": "Kyle Bailey",
           "description": "Roseburg VA Medical Center Director Patrick Hull talks about his first 15 months leading the facility.",
@@ -359,16 +369,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240719152042/IMG_5003.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121343",
-          "author": "Kyle Bailey",
-          "description": "July 19, 2024 4:15 a.m. The Douglas Forest Protective Association has an update on the fire situation: On Tuesday at approximately 5:00 p.m. a lightning storm trekked across Oregon, bringing over 1,000 recorded strikes. Of those, an estimated 130 strikes made air-to-ground contact in the Douglas District. DFPA activated reconnaissance and has been in initial...",
-          "link": "https://kqennewsradio.com/2024/07/19/douglas-forest-protective-association-late-thursday-fire-update/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-forest-protective-association-late-thursday-fire-update",
-          "publishedOn": "2024-07-19T11:13:46.000Z",
-          "wordCount": 1851,
-          "title": "DOUGLAS FOREST PROTECTIVE ASSOCIATION LATE THURSDAY FIRE UPDATE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240716132333/071524-EXTREME.png"
         }
       ]
     },
@@ -787,6 +787,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news173994",
+          "author": null,
+          "description": "THE DALLES, Ore. – Residents west of the Columbia Gorge town of Mosier are being told to evacuate as the fast-moving Microwave Tower Fire burns eastward, driven by strong westerly winds of 30 to 35 miles per hour. \nLEVEL 3 - GO NOW! Evacuate immediately from Hwy 30 south the Proctor Rd., east to Huskey Rd and the border of the City of Mosier and west to the Hood River County line.\nLEVEL 2 - GET SET to evacuate from the city of Mosier and from Huskey Rd. east to Mosier Creek Rd., and south to Jasper Lane.\nA Red Cross shelter for evacuees has been set up at the Hood River Middle School, 1602 May Street, Hood River, OR 97031\nFirefighters from ODF’s Unit Office in The Dalles are being aided by Columbia River Gorge National Scenic Area U.S. Forest Service and local fire departments in battling the blaze that started west of Rattler Ridge just west of Mosier in the Columbia Gorge. A very large airtanker has been ordered to help on the fire, which was reported at 4 p.m. this afternoon. A task force of fire engines and a dozer from the Larch Creek Fire in south Wasco County are being diverted to assist on the fire. The I-84 freeway currently remains open. \nThe fire is burning in grass and timber, pushed eastwards by strong westerly winds of 30 to 35 miles per hour. Earlier this afternoon it was estimated at 100 to 150 acres. Cause is not known at this time. \nEvacuation levels may change quickly given the spread rate of the fire, with new areas being moved into evacuation status. For the most up-to-date evacuation information, please visit the Wasco County Sheriff’s Facebook page at https://www.facebook.com/WascoCountySheriff/\n                                                              # # #",
+          "link": "https://www.flashalert.net/news.html?id=1072#news173994",
+          "publishedOn": "2024-07-23T01:27:14.000Z",
+          "wordCount": 9385,
+          "title": "Aircraft and ground firefighters battle Microwave Tower Fire west of Mosier (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-07/1072/173994/Microwave_Fire_evacuation_map.jpg",
+            "length": "398541",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-07/1072/173994/Microwave_Fire_evacuation_map.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news173983",
           "author": null,

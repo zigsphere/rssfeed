@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-22T23:11:18.372Z</updated>
+    <updated>2024-07-23T02:30:43.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aircraft and ground firefighters battle Microwave Tower Fire west of Mosier (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=1072#news173994</id>
+        <link href="https://www.flashalert.net/news.html?id=1072#news173994"/>
+        <updated>2024-07-23T01:27:14.000Z</updated>
+        <summary type="html"><![CDATA[THE DALLES, Ore. – Residents west of the Columbia Gorge town of Mosier are being told to evacuate as the fast-moving Microwave Tower Fire burns eastward, driven by strong westerly winds of 30 to 35 miles per hour. 
+LEVEL 3 - GO NOW! Evacuate immediately from Hwy 30 south the Proctor Rd., east to Huskey Rd and the border of the City of Mosier and west to the Hood River County line.
+LEVEL 2 - GET SET to evacuate from the city of Mosier and from Huskey Rd. east to Mosier Creek Rd., and south to Jasper Lane.
+A Red Cross shelter for evacuees has been set up at the Hood River Middle School, 1602 May Street, Hood River, OR 97031
+Firefighters from ODF’s Unit Office in The Dalles are being aided by Columbia River Gorge National Scenic Area U.S. Forest Service and local fire departments in battling the blaze that started west of Rattler Ridge just west of Mosier in the Columbia Gorge. A very large airtanker has been ordered to help on the fire, which was reported at 4 p.m. this afternoon. A task force of fire engines and a dozer from the Larch Creek Fire in south Wasco County are being diverted to assist on the fire. The I-84 freeway currently remains open. 
+The fire is burning in grass and timber, pushed eastwards by strong westerly winds of 30 to 35 miles per hour. Earlier this afternoon it was estimated at 100 to 150 acres. Cause is not known at this time. 
+Evacuation levels may change quickly given the spread rate of the fire, with new areas being moved into evacuation status. For the most up-to-date evacuation information, please visit the Wasco County Sheriff’s Facebook page at https://www.facebook.com/WascoCountySheriff/
+                                                              # # #]]></summary>
+        <author>
+            <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIR QUALITY ALERT FOR EASTERN DOUGLAS/KLAMATH COUNTY]]></title>
+        <id>https://kqennewsradio.com/?p=121442</id>
+        <link href="https://kqennewsradio.com/2024/07/22/air-quality-alert-for-eastern-douglas-klamath-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-quality-alert-for-eastern-douglas-klamath-county"/>
+        <updated>2024-07-22T23:25:38.000Z</updated>
+        <summary type="html"><![CDATA[July 22, 2024 4:20 p.m.  An Air Quality Alert is in effect until 5:00 p.m. Wednesday for parts of southern Oregon. The Oregon Department of Environmental Quality has issued an Air Pollution Advisory for eastern Douglas County and Klamath County due to numerous wildfires burning in the region. DEQ also expects intermittent smoke in Jackson,...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.22.24]]></title>
         <id>https://kqennewsradio.com/?p=121437</id>
@@ -636,16 +663,6 @@ The Roseburg City contract would standardize a 32-hour workweek with no loss in
         <summary type="html"><![CDATA[Douglas County Sheriff’s Office issued evacuation orders Wednesday for areas near the Trail Fire in the Diamond Lake Ranger District and Thursday for the Slide Creek area due to the Boulder Flat Fire.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOUGLAS FOREST PROTECTIVE ASSOCIATION LATE THURSDAY FIRE UPDATE]]></title>
-        <id>https://kqennewsradio.com/?p=121343</id>
-        <link href="https://kqennewsradio.com/2024/07/19/douglas-forest-protective-association-late-thursday-fire-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-forest-protective-association-late-thursday-fire-update"/>
-        <updated>2024-07-19T11:13:46.000Z</updated>
-        <summary type="html"><![CDATA[July 19, 2024 4:15 a.m. The Douglas Forest Protective Association has an update on the fire situation: On Tuesday at approximately 5:00 p.m. a lightning storm trekked across Oregon, bringing over 1,000 recorded strikes. Of those, an estimated 130 strikes made air-to-ground contact in the Douglas District. DFPA activated reconnaissance and has been in initial...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
