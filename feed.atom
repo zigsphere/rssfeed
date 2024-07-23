@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-23T13:14:31.620Z</updated>
+    <updated>2024-07-23T13:23:09.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -564,6 +564,66 @@ The Oregon Department of Forestry is urging the public to actively practice wild
         <summary type="html"><![CDATA[WINCHESTER — Executive Director Matt Hill give an update on state and federal forest management policies affecting Douglas County at Thursday's breakfast for Douglas Timber Operators.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partner Sports Camp, where everyone is a winner]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2e67dd62-4553-11ef-b19c-035d37892458</id>
+        <link href="https://www.nrtoday.com/news/partner-sports-camp-where-everyone-is-a-winner/article_2e67dd62-4553-11ef-b19c-035d37892458.html"/>
+        <updated>2024-07-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A sports camp where everyone is a winner. Where no boundaries exist, and where kids can just be kids.]]></summary>
+        <author>
+            <name>MARIAH JOHNSTON The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA and UNF engage in suppression efforts around county]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/93feaefa-4533-11ef-9ea1-7b1d7be85a3e</id>
+        <link href="https://www.nrtoday.com/news/environment/dfpa-and-unf-engage-in-suppression-efforts-around-county/article_93feaefa-4533-11ef-9ea1-7b1d7be85a3e.html"/>
+        <updated>2024-07-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since Tuesday, first responders have been attacking multiple fires around the county.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operation Ship Shape commences second round]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/050e1fe0-453e-11ef-9d69-978117933aa2</id>
+        <link href="https://www.nrtoday.com/news/environment/operation-ship-shape-commences-second-round/article_050e1fe0-453e-11ef-9d69-978117933aa2.html"/>
+        <updated>2024-07-19T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OREGON — Oregon State Marine Board is partnering with 31 county sheriff's offices and Oregon State Police to look for expired boat registrations and required equipment compliance on state waterways in the second round of Operation Ship Shape.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua National Forest increases public use restrictions to Level 2]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/71c3fd16-4535-11ef-9059-f3df7657018a</id>
+        <link href="https://www.nrtoday.com/briefs/umpqua-national-forest-increases-public-use-restrictions-to-level-2/article_71c3fd16-4535-11ef-9059-f3df7657018a.html"/>
+        <updated>2024-07-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — Umpqua National Forest increased public use restrictions to Level 2 on all ranger districts in the forest as of Friday morning. All districts of the Umpqua National Forest have a fire danger rating of High.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting biocontrol with native plants]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5e6cef56-4522-11ef-8a43-e3c47cd0f3f8</id>
+        <link href="https://www.nrtoday.com/news/environment/supporting-biocontrol-with-native-plants/article_5e6cef56-4522-11ef-8a43-e3c47cd0f3f8.html"/>
+        <updated>2024-07-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Question: How can I attract beneficial insects to my garden?]]></summary>
+        <author>
+            <name>CHRIS RUSCH Master Gardener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evacuation orders and closures currently in place due to fires]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ce8b5f14-45d3-11ef-92e0-f7e1ebdacce1</id>
+        <link href="https://www.nrtoday.com/news/local/evacuation-orders-and-closures-currently-in-place-due-to-fires/article_ce8b5f14-45d3-11ef-92e0-f7e1ebdacce1.html"/>
+        <updated>2024-07-19T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Sheriff’s Office issued evacuation orders Wednesday for areas near the Trail Fire in the Diamond Lake Ranger District and Thursday for the Slide Creek area due to the Boulder Flat Fire.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
