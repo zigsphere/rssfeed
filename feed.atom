@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-23T13:23:09.234Z</updated>
+    <updated>2024-07-23T16:15:28.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 7.23.24]]></title>
+        <id>https://kqennewsradio.com/?p=121474</id>
+        <link href="https://kqennewsradio.com/2024/07/23/morning-conversation-7-23-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-7-23-24"/>
+        <updated>2024-07-23T16:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Kelly Leonard and Marcy Williams were live in Stewart Park to talk about tonight’s Music on the Half Shell concert with Ian Moore.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR QUALITY ALERT FOR MUCH OF SOUTHERN OREGON]]></title>
         <id>https://kqennewsradio.com/?p=121464</id>
@@ -117,6 +127,56 @@ Evacuation levels may change quickly given the spread rate of the fire, with new
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intoxicated woman searches for scared child]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fade4f5c-486e-11ef-a272-5b237a78587b</id>
+        <link href="https://www.nrtoday.com/briefs/intoxicated-woman-searches-for-scared-child/article_fade4f5c-486e-11ef-a272-5b237a78587b.html"/>
+        <updated>2024-07-22T21:11:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A woman was arrested for driving under the influence of intoxicants at 9:15 p.m. Sunday in the 2700 block of West Langenberg Avenue.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin Rotary to hold annual golf tourney]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0a8156ee-486e-11ef-99f1-3f62545495f8</id>
+        <link href="https://www.nrtoday.com/news/local/sutherlin-rotary-to-hold-annual-golf-tourney/article_0a8156ee-486e-11ef-99f1-3f62545495f8.html"/>
+        <updated>2024-07-22T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — The Sutherlin Rotary Club will host its 25th annual golf tournament on Friday, Aug. 16, at Oak Hills Golf Club.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man threatens to kill woman with hammer]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d53e97da-486d-11ef-81a0-e34cd474bfcb</id>
+        <link href="https://www.nrtoday.com/briefs/man-threatens-to-kill-woman-with-hammer/article_d53e97da-486d-11ef-81a0-e34cd474bfcb.html"/>
+        <updated>2024-07-22T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A man allegedly threatened to kill a woman with a hammer just after 10 a.m. Sunday in the 2100 block of Northwest Stewart Parkway.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man driving his SUV on the bike path]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b5e7857e-486b-11ef-889d-33cd70d8c16d</id>
+        <link href="https://www.nrtoday.com/briefs/man-driving-his-suv-on-the-bike-path/article_b5e7857e-486b-11ef-889d-33cd70d8c16d.html"/>
+        <updated>2024-07-22T20:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A 30-year-old man was reported to be driving a red GMC on the bike path around 1:30 a.m. Sunday at the 200 block of Southeast Pine Street.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman smears dog feces on self]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5bb71746-486a-11ef-b122-b3bf2d34b8bf</id>
+        <link href="https://www.nrtoday.com/briefs/woman-smears-dog-feces-on-self/article_5bb71746-486a-11ef-b122-b3bf2d34b8bf.html"/>
+        <updated>2024-07-22T20:38:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A 32-year-old Roseburg woman was arrested for disorderly conduct Friday in an incident that reportedly started with her yelling at Walmart customers and ended with her smearing dog feces on herself.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.22.24]]></title>
         <id>https://kqennewsradio.com/?p=121437</id>
         <link href="https://kqennewsradio.com/2024/07/22/inside-douglas-county-7-22-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-7-22-24"/>
@@ -137,6 +197,16 @@ How can people help prevent wildfires?
 The Oregon Department of Forestry is urging the public to actively practice wildfire prevention as the state works to control over 20 la…]]></summary>
         <author>
             <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend storms bring more fires to Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2696f584-4853-11ef-81e5-c7d1ac76d9cb</id>
+        <link href="https://www.nrtoday.com/news/local/weekend-storms-bring-more-fires-to-douglas-county/article_2696f584-4853-11ef-81e5-c7d1ac76d9cb.html"/>
+        <updated>2024-07-22T17:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The predicted thunderstorms struck Douglas County and much of Oregon during Saturday night with lightning and light rain.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -564,66 +634,6 @@ The Oregon Department of Forestry is urging the public to actively practice wild
         <summary type="html"><![CDATA[WINCHESTER — Executive Director Matt Hill give an update on state and federal forest management policies affecting Douglas County at Thursday's breakfast for Douglas Timber Operators.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partner Sports Camp, where everyone is a winner]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2e67dd62-4553-11ef-b19c-035d37892458</id>
-        <link href="https://www.nrtoday.com/news/partner-sports-camp-where-everyone-is-a-winner/article_2e67dd62-4553-11ef-b19c-035d37892458.html"/>
-        <updated>2024-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A sports camp where everyone is a winner. Where no boundaries exist, and where kids can just be kids.]]></summary>
-        <author>
-            <name>MARIAH JOHNSTON The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA and UNF engage in suppression efforts around county]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/93feaefa-4533-11ef-9ea1-7b1d7be85a3e</id>
-        <link href="https://www.nrtoday.com/news/environment/dfpa-and-unf-engage-in-suppression-efforts-around-county/article_93feaefa-4533-11ef-9ea1-7b1d7be85a3e.html"/>
-        <updated>2024-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since Tuesday, first responders have been attacking multiple fires around the county.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operation Ship Shape commences second round]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/050e1fe0-453e-11ef-9d69-978117933aa2</id>
-        <link href="https://www.nrtoday.com/news/environment/operation-ship-shape-commences-second-round/article_050e1fe0-453e-11ef-9d69-978117933aa2.html"/>
-        <updated>2024-07-19T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OREGON — Oregon State Marine Board is partnering with 31 county sheriff's offices and Oregon State Police to look for expired boat registrations and required equipment compliance on state waterways in the second round of Operation Ship Shape.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua National Forest increases public use restrictions to Level 2]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/71c3fd16-4535-11ef-9059-f3df7657018a</id>
-        <link href="https://www.nrtoday.com/briefs/umpqua-national-forest-increases-public-use-restrictions-to-level-2/article_71c3fd16-4535-11ef-9059-f3df7657018a.html"/>
-        <updated>2024-07-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — Umpqua National Forest increased public use restrictions to Level 2 on all ranger districts in the forest as of Friday morning. All districts of the Umpqua National Forest have a fire danger rating of High.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting biocontrol with native plants]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5e6cef56-4522-11ef-8a43-e3c47cd0f3f8</id>
-        <link href="https://www.nrtoday.com/news/environment/supporting-biocontrol-with-native-plants/article_5e6cef56-4522-11ef-8a43-e3c47cd0f3f8.html"/>
-        <updated>2024-07-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Question: How can I attract beneficial insects to my garden?]]></summary>
-        <author>
-            <name>CHRIS RUSCH Master Gardener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evacuation orders and closures currently in place due to fires]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ce8b5f14-45d3-11ef-92e0-f7e1ebdacce1</id>
-        <link href="https://www.nrtoday.com/news/local/evacuation-orders-and-closures-currently-in-place-due-to-fires/article_ce8b5f14-45d3-11ef-92e0-f7e1ebdacce1.html"/>
-        <updated>2024-07-19T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County Sheriff’s Office issued evacuation orders Wednesday for areas near the Trail Fire in the Diamond Lake Ranger District and Thursday for the Slide Creek area due to the Boulder Flat Fire.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
