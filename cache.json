@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121552",
+          "author": "Kyle Bailey",
+          "description": "July 24, 2024 1:50 p.m.  The Diamond Complex burning in the Umpqua National Forest is comprised of 20 fires totaling 3,811 acres, as of mid-day Wednesday. A UNF update said while some fires are now out, 8 new fires totaling an estimated 62 acres have been identified and added to the complex, since mid-day on...",
+          "link": "https://kqennewsradio.com/2024/07/24/diamond-complex-at-3800-acres-with-20-fires/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-complex-at-3800-acres-with-20-fires",
+          "publishedOn": "2024-07-24T20:50:52.000Z",
+          "wordCount": 1682,
+          "title": "DIAMOND COMPLEX AT 3,800 ACRES WITH 20 FIRES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240723200349/diamond2.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=121548",
+          "author": "Kyle Bailey",
+          "description": "City of Roseburg Community Development Director Stuart Cowie talks about the land swap proposal and eventual potential development in Charter Oaks.",
+          "link": "https://kqennewsradio.com/2024/07/24/inside-douglas-county-7-24-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-7-24-24",
+          "publishedOn": "2024-07-24T20:19:26.000Z",
+          "wordCount": 1548,
+          "title": "INSIDE DOUGLAS COUNTY 7.24.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240724191725/IDC-7-24-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240724191901/IMG_5026.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121545",
           "author": "Kyle Bailey",
           "description": "July 24, 2024 11:10 a.m. The Homestead Complex, burning in the Umpqua National Forest, has seven fires totaling a combined 910 acres as of mid-day Wednesday. A Forest Service update said about 230 people are assigned to the complex with more scheduled to arrive. The Horse Heaven Creek Fire, at 258 acres, was the most...",
@@ -801,6 +826,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news174036",
+          "author": null,
+          "description": "Correction/Clarification: Media can post/publish/share the daily ODF situation reports. The ask to not share or publish was meant to be about the media alert itself. We apologize for the confusion. \n \n \nWith the Regional Preparedness Level and ODF Fire Activity Level at 5, the Oregon Department of Forestry (ODF) will begin to send out Daily Situation Reports via GovDelivery in the afternoon. The reports will include information on ODF incident management teams, what fires the agency is prioritizing, district highlights, and other pertinent information. \nThese reports will be published daily on ODFfire.com and on ODF’s Statewide Facebook page if you would like to guide people to it.  The public can also sign up through GovDelivery to receive these reports. \nIf you have follow-up or clarifying questions, please reach out to jessica.neujahr@odf.oregon.gov.  \nDetails: Click to subscribe through GovDelivery to receive these reports daily.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news174036",
+          "publishedOn": "2024-07-24T22:55:56.000Z",
+          "wordCount": 10421,
+          "title": "MEDIA ALERT: Oregon Department of Forestry Begins Daily Situation Reports",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-07/1072/174036/Media_Alert_-_Daily_Sit_Report_Sign_Up.pdf",
+            "length": "111125",
+            "type": "application/pdf"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news174028",
           "author": null,
