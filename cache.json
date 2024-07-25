@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121585",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Youth Services Librarian Aurora Ropp talks about Harry Potter Day, happening this Saturday.",
+          "link": "https://kqennewsradio.com/2024/07/25/morning-conversation-7-25-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-25-24",
+          "publishedOn": "2024-07-25T16:06:00.000Z",
+          "wordCount": 1538,
+          "title": "MORNING CONVERSATION 7.25.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240725150223/AM-CONV-7-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240725150542/IMG_5028.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121581",
           "author": "Kyle Bailey",
           "description": "July 25, 2024 5:45 a.m. Roseburg could have the warmest average temperature for the month of July on record, if current trends continue for the remainder of July. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that as of Wednesday, the average daily temperature this month has been 77.9...",
@@ -629,6 +644,116 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1746c402-4839-11ef-b6d3-2368efe2e7a9",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The Parrott House is hosting The Sounds of Summer Concert Series this summer at its L. Bowers Amphitheater.",
+          "link": "https://www.nrtoday.com/a_and_e/concert-series-continues-at-amphitheater/article_1746c402-4839-11ef-b6d3-2368efe2e7a9.html",
+          "publishedOn": "2024-07-25T14:45:00.000Z",
+          "wordCount": 13122,
+          "title": "Concert series continues at amphitheater",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/78397432-4977-11ef-96fd-335749512f85",
+          "author": "WILL GESCHKE The News-Review",
+          "description": "WINCHESTER — In the famous 1971 film adaptation of “Charlie and the Chocolate Factory,” chocolatier Willy Wonka tells the five children who have entered his factory to close their eyes, seeing a world of “pure imagination.”",
+          "link": "https://www.nrtoday.com/a_and_e/a-feast-for-the-eyes-uact-brings-charlie-and-the-chocolate-factory-to-stage/article_78397432-4977-11ef-96fd-335749512f85.html",
+          "publishedOn": "2024-07-25T14:45:00.000Z",
+          "wordCount": 14863,
+          "title": "'A feast for the eyes' — UACT brings 'Charlie and the Chocolate Factory' to stage",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/1d/b1d73896-4977-11ef-90bf-2fc8d9678cc2/66a08726849fe.image.jpg?resize=300%2C200",
+            "length": "349632",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/1d/b1d73896-4977-11ef-90bf-2fc8d9678cc2/66a08726849fe.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/74620f22-4945-11ef-af94-1732e0dca023",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "Students of Halau Hula Aulani, Roseburg's Hawaiian hula school, will be surrounded in Hawaiian culture when they head to Vancouver, Washington, this week.",
+          "link": "https://www.nrtoday.com/news/local-hawaiian-hula-school-to-compete-in-vancouver/article_74620f22-4945-11ef-af94-1732e0dca023.html",
+          "publishedOn": "2024-07-25T14:30:00.000Z",
+          "wordCount": 14083,
+          "title": "Local Hawaiian hula school to compete in Vancouver",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8c/18c0b0d0-49cf-11ef-890c-6367bf110580/66a119c965b16.image.jpg?resize=300%2C200",
+            "length": "286937",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8c/18c0b0d0-49cf-11ef-890c-6367bf110580/66a119c965b16.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f7d50320-49d4-11ef-9a26-d38b40f92943",
+          "author": "MARIAH JOHNSTON The News-Review",
+          "description": "Gryffindors, Hufflepuffs, Ravenclaws and Slytherins can come together and unite during Harry Potter Day from 10 a.m. to 1:30 p.m. Saturday, at Roseburg Public Library.",
+          "link": "https://www.nrtoday.com/news/harry-potter-day-returns-to-roseburg-public-library/article_f7d50320-49d4-11ef-9a26-d38b40f92943.html",
+          "publishedOn": "2024-07-25T14:15:00.000Z",
+          "wordCount": 13671,
+          "title": "Harry Potter Day returns to Roseburg Public Library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/85/4852c0a8-49d5-11ef-b624-9f4bdd566b04/64c58fc3dca21.image.jpg?resize=300%2C200",
+            "length": "234246",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/85/4852c0a8-49d5-11ef-b624-9f4bdd566b04/64c58fc3dca21.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/73521380-49f3-11ef-8da2-3f18ec526f28",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "Roseburg Police Chief Gary Klopfenstein is implementing a 32-hour work week pilot program while still paying patrol officers for 40 hours to meet a challenge in the department.",
+          "link": "https://www.nrtoday.com/news/government/roseburg-police-department-introduces-modified-work-week/article_73521380-49f3-11ef-8da2-3f18ec526f28.html",
+          "publishedOn": "2024-07-25T13:45:00.000Z",
+          "wordCount": 13991,
+          "title": "Roseburg Police Department introduces modified work week",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/91/691b00ec-49f4-11ef-8c58-c38e7a1448fd/66a1586394147.image.jpg?resize=300%2C200",
+            "length": "601455",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/91/691b00ec-49f4-11ef-8c58-c38e7a1448fd/66a1586394147.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/67b81ac8-4a03-11ef-8e55-4340386885db",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Residents are invited to eat dinner at the Stewart Park Green Bridge to get to know their neighbors and share ideas at The Longest Table even from 5:30-7:30 p.m. Aug. 24.",
+          "link": "https://www.nrtoday.com/news/health/meet-your-neighbors-for-dinner/article_67b81ac8-4a03-11ef-8e55-4340386885db.html",
+          "publishedOn": "2024-07-24T21:26:00.000Z",
+          "wordCount": 13123,
+          "title": "Meet your neighbors for dinner",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4d9a70ac-4a01-11ef-b3fb-97079ee5635c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Adapt will be hosting a quarterly Community Health Seminar series, starting from 5-6:30 p.m. Aug. 6 at the Roseburg Public Library's Ford Room.",
+          "link": "https://www.nrtoday.com/news/health/community-health-seminar-series-starts-in-august/article_4d9a70ac-4a01-11ef-b3fb-97079ee5635c.html",
+          "publishedOn": "2024-07-24T21:11:00.000Z",
+          "wordCount": 13096,
+          "title": "Community Health Seminar series starts in August",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62f2b6cc-4a00-11ef-98a7-2fdf2ae41d0c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "GLIDE — Oregon State University Extension Service and Master Food Preservers are hosting a tomato preservation workshop from 10 a.m. to 12:30 p.m. Sept. 21 at the Glide Rural Fire Protection District Office.",
+          "link": "https://www.nrtoday.com/news/health/registration-opens-for-tomato-preservation-workshop/article_62f2b6cc-4a00-11ef-98a7-2fdf2ae41d0c.html",
+          "publishedOn": "2024-07-24T21:04:00.000Z",
+          "wordCount": 13113,
+          "title": "Registration opens for tomato preservation workshop",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a95f8ca-49ff-11ef-8825-939e0f1270b9",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — The 42nd annual Dave Johnson Memorial Golf Tournament is back Sept. 12 at Bar Run Golf & RV Resort to raise money for Greater Douglas United Way.",
+          "link": "https://www.nrtoday.com/news/local/golf-fundraiser-coming-sept-12/article_8a95f8ca-49ff-11ef-8825-939e0f1270b9.html",
+          "publishedOn": "2024-07-24T20:58:00.000Z",
+          "wordCount": 13128,
+          "title": "Golf fundraiser coming Sept. 12",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/26ab0a1c-490f-11ef-a84a-67962de4622b",
           "author": "LISA PLATT For The News-Review",
           "description": "Mercy Foundation’s Healthy Kids Outreach Program (HKOP) serves Douglas County youth by providing oral health care and education, resource nurses and connection to care, and health and nutrition education throughout the school year.",
@@ -781,71 +906,6 @@
           "publishedOn": "2024-07-22T14:57:00.000Z",
           "wordCount": 13155,
           "title": "Roseburg VA hosts class about patient portal",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/152cbfb0-42d4-11ef-b2e8-bf7d7c535db8",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "DECATUR, ILL — Jensen Mast, of Reedsport, graduated summa cum laude from Millikin University with a bachelor's of science in biology.",
-          "link": "https://www.nrtoday.com/briefs/jensen-mast-graduates-from-millikin-university/article_152cbfb0-42d4-11ef-b2e8-bf7d7c535db8.html",
-          "publishedOn": "2024-07-21T18:00:00.000Z",
-          "wordCount": 13073,
-          "title": "Jensen Mast graduates from Millikin University",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/20c68326-46ab-11ef-a75e-cf07e1707f0e",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "CAMAS VALLEY — Mud flew as the crowd applauded vehicles that braved the muddy pits that lay ahead of them.",
-          "link": "https://www.nrtoday.com/news/mud-flies-at-camas-valley-fun-days/article_20c68326-46ab-11ef-a75e-cf07e1707f0e.html",
-          "publishedOn": "2024-07-21T15:00:00.000Z",
-          "wordCount": 14678,
-          "title": "Mud flies at Camas Valley Fun Days",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/df/5dffc52c-46ab-11ef-a144-07ae6bf55e11/669bd55a36161.image.jpg?resize=300%2C190",
-            "length": "262449",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/df/5dffc52c-46ab-11ef-a144-07ae6bf55e11/669bd55a36161.image.jpg?resize=300%2C190"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/83b90d02-46ef-11ef-bb72-7f8c5b784dd8",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "GLIDE — Cars lined up and down North Umpqua Highway, waiting to turn into the parking lot of the Glide Sasquatch Festival as the festival opened at noon.",
-          "link": "https://www.nrtoday.com/news/local/glide-sasquatch-festival-sees-all-things-bigfoot-on-saturday/article_83b90d02-46ef-11ef-bb72-7f8c5b784dd8.html",
-          "publishedOn": "2024-07-21T14:30:00.000Z",
-          "wordCount": 14731,
-          "title": "Glide Sasquatch Festival sees all things Bigfoot on Saturday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/7d/b7d9deee-46f0-11ef-9a2d-ffde179a1d65/669c49b43b3db.image.jpg?resize=300%2C200",
-            "length": "367547",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/7d/b7d9deee-46f0-11ef-9a2d-ffde179a1d65/669c49b43b3db.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/116be0c6-4537-11ef-acc3-bfcf5dd25c18",
-          "author": "JENNIFER D. COALWELL For The News-Review",
-          "description": "Sunny skies and longer days make this the perfect season for outdoor service projects. From a downtown Roseburg clean up activity to a massive bed building event, you can make a positive impact in our community while enjoying the summer…",
-          "link": "https://www.nrtoday.com/news/guest_submission/summer-is-the-perfect-season-for-outdoor-service/article_116be0c6-4537-11ef-acc3-bfcf5dd25c18.html",
-          "publishedOn": "2024-07-21T13:30:00.000Z",
-          "wordCount": 13576,
-          "title": "Summer is the perfect season for outdoor service",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/14/51483096-e187-11ee-b3bb-7f32c39e2a78/65f225b388ce8.image.jpg?resize=300%2C300",
-            "length": "275857",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/14/51483096-e187-11ee-b3bb-7f32c39e2a78/65f225b388ce8.image.jpg?resize=300%2C300"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c71da0f4-46bc-11ef-92d8-cb9ace8ecc6c",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — A man from Umpqua died in an SUV versus motorcycle accident Wednesday afternoon.",
-          "link": "https://www.nrtoday.com/briefs/motorcyclist-dies-in-accident/article_c71da0f4-46bc-11ef-92d8-cb9ace8ecc6c.html",
-          "publishedOn": "2024-07-21T13:15:00.000Z",
-          "wordCount": 13130,
-          "title": "Motorcyclist dies in accident",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
