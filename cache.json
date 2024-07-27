@@ -719,26 +719,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214855/shell-e1627382011800.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121464",
-          "author": "Kyle Bailey",
-          "description": "July 23, 2024 4:20 a.m. An Air Quality Alert is in effect until 5:00 p.m. Wednesday for much of southern Oregon. The Oregon Department of Environmental Quality has issued an Air Pollution Advisory for eastern Douglas County, Jackson, Josephine, and Klamath counties, due to numerous wildfires burning in the region. Wildfire smoke combined with forecast...",
-          "link": "https://kqennewsradio.com/2024/07/23/air-quality-alert-for-much-of-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=air-quality-alert-for-much-of-southern-oregon",
-          "publishedOn": "2024-07-23T11:25:10.000Z",
-          "wordCount": 1688,
-          "title": "AIR QUALITY ALERT FOR MUCH OF SOUTHERN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240723102601/badairtues-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121461",
-          "author": "Kyle Bailey",
-          "description": "July 23, 2024 4:00 a.m. The Douglas County Sheriff’s Office has made modifications to the evacuation level boundaries for the Lemolo Fire, which is part of the Diamond Complex. Lieutenant Brad O’Dell said largely the boundaries remain the same. O’Dell said however, the Pool Creek Campground and the Lemolo KOA have been downgraded to a...",
-          "link": "https://kqennewsradio.com/2024/07/23/fire-evacuation-level-boundary-line-updates/?utm_source=rss&utm_medium=rss&utm_campaign=fire-evacuation-level-boundary-line-updates",
-          "publishedOn": "2024-07-23T11:17:24.000Z",
-          "wordCount": 1551,
-          "title": "FIRE EVACUATION LEVEL BOUNDARY LINE UPDATES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240723101712/Lemolo_Evac_Map_Updated.png"
         }
       ]
     },
@@ -991,6 +971,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news174113",
+          "author": null,
+          "description": "Salem, Ore.—The heat of summer makes shade-covered state forest an appealing destination for many.\n“July and August see the most visitors to our state forests,” said Joe Offer, Oregon Department of Forestry’s Recreation Program Manager. “With that increase of visitors is also an increase in wildfire danger since 70 percent of wildfires are human caused.”\nODF posts fire danger levels and public use restrictions on information boards in recreation areas and on most access roads to state forests. There are four levels: Low, Moderate, High and Extreme, with corresponding restrictions for certain activities. As the forests dry out and the humidity levels decrease, the fire danger levels typically increase—and so do the restrictions to help prevent fires.\n“The vast majority of our visitors want …",
+          "link": "https://www.flashalert.net/news.html?id=1072#news174113",
+          "publishedOn": "2024-07-26T23:13:37.000Z",
+          "wordCount": 10871,
+          "title": "Recreational users play vital role in preventing wildfires in state forests",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-07/1072/174113/2024_NCAS_Public_Use_Restrictions.pdf",
+            "length": "182848",
+            "type": "application/pdf"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news174071",
           "author": null,
