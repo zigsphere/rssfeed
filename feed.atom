@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-28T13:11:44.073Z</updated>
+    <updated>2024-07-28T16:14:04.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Local students graduate from Pacific University]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b18de288-4b78-11ef-b66e-ff2295c4c310</id>
+        <link href="https://www.nrtoday.com/news/education/local-students-graduate-from-pacific-university/article_b18de288-4b78-11ef-b66e-ff2295c4c310.html"/>
+        <updated>2024-07-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FOREST GROVE — Three students from Douglas County graduated in the spring 2024 from Pacific University.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA ATTACKS GOODRICH HIGHWAY FIRE SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=121694</id>
@@ -34,6 +44,56 @@
         <summary type="html"><![CDATA[July 27, 2024 4:40 p.m. Myrtle Creek Police jailed a man following an overnight stabbing incident early Saturday. An MCPD report said just before 3:00 a.m. officers responded to an apartment complex in the 700 block of Northeast Johnson Street after a caller said there had been an assault. Detective Kevin Taggert said a 28-year-old...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man arrested for stabbing]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/59012d9c-4c71-11ef-a710-7fd4cc4324ee</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-man-arrested-for-stabbing/article_59012d9c-4c71-11ef-a710-7fd4cc4324ee.html"/>
+        <updated>2024-07-27T23:38:00.000Z</updated>
+        <summary type="html"><![CDATA[MYR TLE CREEK —A stabbing in Myrtle Creek apartment complex just before 3 a.m. Saturday in the 700 block of Northeast Johnson Street ended with one man in the hospital and another behind bars.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mussel, razor clam harvesting closes]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bad48ac4-4c6b-11ef-8eb9-4b730578641f</id>
+        <link href="https://www.nrtoday.com/news/local/mussel-razor-clam-harvesting-closes/article_bad48ac4-4c6b-11ef-8eb9-4b730578641f.html"/>
+        <updated>2024-07-27T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[SOUTH COAST — Marine biotoxin levels are above alert level, leading to a shellfish closure on the south coast from the Oregon Department of Agriculture and Oregon Department of Fish and Wildlife.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewards climb to $2,000 in pellet gun poaching case]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ce63eb26-4c6a-11ef-9341-6f67aba4a888</id>
+        <link href="https://www.nrtoday.com/news/local/rewards-climb-to-2-000-in-pellet-gun-poaching-case/article_ce63eb26-4c6a-11ef-9341-6f67aba4a888.html"/>
+        <updated>2024-07-27T22:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Rewards have doubled for information leading to the individual(s) using pellet guns to harass and kill deer in the Roseburg area this summer following multiple calls to report carcasses to the Turn in Poachers line.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to do as wildfires rampage Oregon]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/87e59472-4c62-11ef-9f97-43173e4cdedc</id>
+        <link href="https://www.nrtoday.com/news/local/what-to-do-as-wildfires-rampage-oregon/article_87e59472-4c62-11ef-9f97-43173e4cdedc.html"/>
+        <updated>2024-07-27T21:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Forest Protective Association crews tackled two fires, one Friday in Yoncalla and the other Saturday in Oakland.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Umpqua registration open online]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ea02b520-4abb-11ef-aa8d-4f784affb4dd</id>
+        <link href="https://www.nrtoday.com/news/education/south-umpqua-registration-open-online/article_ea02b520-4abb-11ef-aa8d-4f784affb4dd.html"/>
+        <updated>2024-07-27T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The South Umpqua School District has registration open for the upcoming school year.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -658,96 +718,6 @@ An interactive evacuation map can be found on our website at https://www.dcso.co
         <summary type="html"><![CDATA[July 25, 2024 2:50 a.m. A trooper with Oregon State Police responded to a single-vehicle wreck on Highway 138E a few miles east of Glide on Tuesday night. An OSP report said just after 8:00 p.m. a pickup with a camper was traveling eastbound near milepost 21, when the vehicle went over on its driver’s...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet your neighbors for dinner]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/67b81ac8-4a03-11ef-8e55-4340386885db</id>
-        <link href="https://www.nrtoday.com/news/health/meet-your-neighbors-for-dinner/article_67b81ac8-4a03-11ef-8e55-4340386885db.html"/>
-        <updated>2024-07-24T21:26:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Residents are invited to eat dinner at the Stewart Park Green Bridge to get to know their neighbors and share ideas at The Longest Table even from 5:30-7:30 p.m. Aug. 24.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community Health Seminar series starts in August]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/4d9a70ac-4a01-11ef-b3fb-97079ee5635c</id>
-        <link href="https://www.nrtoday.com/news/health/community-health-seminar-series-starts-in-august/article_4d9a70ac-4a01-11ef-b3fb-97079ee5635c.html"/>
-        <updated>2024-07-24T21:11:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Adapt will be hosting a quarterly Community Health Seminar series, starting from 5-6:30 p.m. Aug. 6 at the Roseburg Public Library's Ford Room.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Registration opens for tomato preservation workshop]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/62f2b6cc-4a00-11ef-98a7-2fdf2ae41d0c</id>
-        <link href="https://www.nrtoday.com/news/health/registration-opens-for-tomato-preservation-workshop/article_62f2b6cc-4a00-11ef-98a7-2fdf2ae41d0c.html"/>
-        <updated>2024-07-24T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — Oregon State University Extension Service and Master Food Preservers are hosting a tomato preservation workshop from 10 a.m. to 12:30 p.m. Sept. 21 at the Glide Rural Fire Protection District Office.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golf fundraiser coming Sept. 12]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8a95f8ca-49ff-11ef-8825-939e0f1270b9</id>
-        <link href="https://www.nrtoday.com/news/local/golf-fundraiser-coming-sept-12/article_8a95f8ca-49ff-11ef-8825-939e0f1270b9.html"/>
-        <updated>2024-07-24T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The 42nd annual Dave Johnson Memorial Golf Tournament is back Sept. 12 at Bar Run Golf & RV Resort to raise money for Greater Douglas United Way.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summertime and feeling feeling fine with the Healthy Kids Outreach Programs]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/26ab0a1c-490f-11ef-a84a-67962de4622b</id>
-        <link href="https://www.nrtoday.com/news/guest_submission/summertime-and-feeling-feeling-fine-with-the-healthy-kids-outreach-programs/article_26ab0a1c-490f-11ef-a84a-67962de4622b.html"/>
-        <updated>2024-07-24T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Mercy Foundation’s Healthy Kids Outreach Program (HKOP) serves Douglas County youth by providing oral health care and education, resource nurses and connection to care, and health and nutrition education throughout the school year.]]></summary>
-        <author>
-            <name>LISA PLATT For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua National Forest issues closure due to new fire activity]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/202425e2-491a-11ef-9269-83661cb349ab</id>
-        <link href="https://www.nrtoday.com/news/local/umpqua-national-forest-issues-closure-due-to-new-fire-activity/article_202425e2-491a-11ef-9269-83661cb349ab.html"/>
-        <updated>2024-07-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Umpqua National Forest closed portions of the Umpqua National Forest on Tuesday due to fire activity to protect public and wildland firefighter safety on the Rocky Ridge Fire.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community BBQ fundraiser Thursday for Alzheimer's]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8cb606a0-485f-11ef-a9a9-8b9d343b459b</id>
-        <link href="https://www.nrtoday.com/news/community-bbq-fundraiser-thursday-for-alzheimers/article_8cb606a0-485f-11ef-a9a9-8b9d343b459b.html"/>
-        <updated>2024-07-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The community is invited to enjoy some classic, finger-licking barbecue in a fundraising effort for the Walk to End Alzheimer’s. The Rodeo Days BBQ Dinner will be held at 5 p.m. Thursday at The Landing in Roseburg.]]></summary>
-        <author>
-            <name>BRITTANY ARNOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bar Run opens Lazy River]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2c0f3d36-45e8-11ef-a5a2-73cc8177af37</id>
-        <link href="https://www.nrtoday.com/business/bar-run-opens-lazy-river/article_2c0f3d36-45e8-11ef-a5a2-73cc8177af37.html"/>
-        <updated>2024-07-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tucked in with the Callahan Mountains overlooking Bar Run Golf and RV Resort, the lazy river pool provides a peaceful, easy feeling for RV campers and resort members.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland Creek Vineyards coming to Oakland]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ffb66178-43a4-11ef-9591-1b917c56d684</id>
-        <link href="https://www.nrtoday.com/business/oakland-creek-vineyards-coming-to-oakland/article_ffb66178-43a4-11ef-9591-1b917c56d684.html"/>
-        <updated>2024-07-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — The former E.G. Young bank building in Oakland is now the home of the new Oakland Creek Vineyards Tasting Room, where the new owners are embracing the community and its history.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
 </feed>
