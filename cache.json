@@ -394,6 +394,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a0929e12-4dbf-11ef-ba63-9712cac818f0",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "REEDSPORT — A general contractor working for the city of Reedsport will be doing miscellaneous paving around the city in coming days.",
+          "link": "https://www.nrtoday.com/news/local/paving-projects-take-place-in-reedsport/article_a0929e12-4dbf-11ef-ba63-9712cac818f0.html",
+          "publishedOn": "2024-07-29T15:31:00.000Z",
+          "wordCount": 13073,
+          "title": "Paving projects take place in Reedsport",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54becb3c-4dbf-11ef-bf56-83a0920e13ba",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "YONCALLA — A manufactured home was destroyed in an overnight fire in Yoncalla early Sunday morning.",
+          "link": "https://www.nrtoday.com/news/local/manufactured-home-destroyed-in-yoncalla-fire/article_54becb3c-4dbf-11ef-bf56-83a0920e13ba.html",
+          "publishedOn": "2024-07-29T15:29:00.000Z",
+          "wordCount": 13209,
+          "title": "Manufactured home destroyed in Yoncalla fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/81/1814d0fe-4dc0-11ef-83a4-03b5e1eb0050/66a7b69a777d9.image.jpg?resize=300%2C140",
+            "length": "542412",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/81/1814d0fe-4dc0-11ef-83a4-03b5e1eb0050/66a7b69a777d9.image.jpg?resize=300%2C140"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b18de288-4b78-11ef-b66e-ff2295c4c310",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "FOREST GROVE — Three students from Douglas County graduated in the spring 2024 from Pacific University.",

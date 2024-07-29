@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-07-29T13:15:05.914Z</updated>
+    <updated>2024-07-29T16:13:55.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paving projects take place in Reedsport]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a0929e12-4dbf-11ef-ba63-9712cac818f0</id>
+        <link href="https://www.nrtoday.com/news/local/paving-projects-take-place-in-reedsport/article_a0929e12-4dbf-11ef-ba63-9712cac818f0.html"/>
+        <updated>2024-07-29T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — A general contractor working for the city of Reedsport will be doing miscellaneous paving around the city in coming days.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manufactured home destroyed in Yoncalla fire]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/54becb3c-4dbf-11ef-bf56-83a0920e13ba</id>
+        <link href="https://www.nrtoday.com/news/local/manufactured-home-destroyed-in-yoncalla-fire/article_54becb3c-4dbf-11ef-bf56-83a0920e13ba.html"/>
+        <updated>2024-07-29T15:29:00.000Z</updated>
+        <summary type="html"><![CDATA[YONCALLA — A manufactured home was destroyed in an overnight fire in Yoncalla early Sunday morning.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MYRTLE CREEK MAN JAILED FOR DUII/RECKLESS DRIVING]]></title>
         <id>https://kqennewsradio.com/?p=121720</id>
