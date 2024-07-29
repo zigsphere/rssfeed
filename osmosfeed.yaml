@@ -8,7 +8,7 @@ sources:
   - href: https://kqennewsradio.com/feed/ # Get new feature announcement via this feed
   - href: https://www.dcso.com/RSSFeed.aspx?ModID=63&CID=All-0
   - href: https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc
-  - href: https://www.fs.usda.gov/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110615&desc=alerts
+  - href: http://www.kezi.com/search/?f=rss&amp;t=article&amp;c=news&amp;l=50&amp;s=start_time&amp;sd=desc # KEZI
   - href: https://www.flashalert.net/rss.html?id=6158 # Fire district 2
   - href: https://www.flashalert.net/rss.html?id=5204 # DCSO
   - href: https://www.flashalert.net/rss.html?id=5489 # Roseburg Police
