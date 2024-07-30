@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121787",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Parks Department Director Mark Wall talks about the county’s parks and new projects that are coming up.",
+          "link": "https://kqennewsradio.com/2024/07/30/inside-douglas-county-7-30-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-7-30-24",
+          "publishedOn": "2024-07-30T20:19:01.000Z",
+          "wordCount": 1546,
+          "title": "INSIDE DOUGLAS COUNTY 7.30.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240730191507/IDC-7-30-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240730191847/IMG_5073.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121785",
           "author": "Kyle Bailey",
           "description": "July 30, 2024 11:40 a.m. The Diamond Complex on the Umpqua National Forest remains estimated at 5,188 acres and is now 9 percent contained. The Middle Fork is still at 715 acres and 1 percent contained, burning in Crater Lake National Park. A UNF update said fire behavior should be limited to backing, flanking, creeping...",
@@ -434,6 +449,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/99fe614e-4dba-11ef-809f-07662d3eece0",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Roseburg’s Economic Development Commission awarded nearly $38,000 in tourism grants to local organizations during its July 25 meeting.",
+          "link": "https://www.nrtoday.com/news/government/roseburg-economic-development-commission-awards-six-tourism-grants/article_99fe614e-4dba-11ef-809f-07662d3eece0.html",
+          "publishedOn": "2024-07-30T14:55:00.000Z",
+          "wordCount": 13265,
+          "title": "Roseburg Economic Development Commission awards six tourism grants",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b03ac27c-4ac7-11ef-bd39-5b738dfa58e5",
           "author": "Christian Sala for The News-Review",
           "description": "I am extremely grateful for the incredible opportunity to work at Roseburg Public Library for the past 11 months as their Resource Assistance for Rural Environments (RARE) AmeriCorps member.",
@@ -617,86 +642,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/01/1018290c-44a4-11ef-825d-3bd7d1221967/66986e1aaeea9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/befdc09c-4866-11ef-8bc7-af9a9f73b55f",
-          "author": "JANET BITTER Master Gardener",
-          "description": "Question: I have been seeing a plant for sale that I am not familiar with. It is tagged as a mandevilla plant. It looks very pretty — will it grow here in Douglas County?",
-          "link": "https://www.nrtoday.com/news/guest_submission/ask-a-master-gardener-mandevilla-plant/article_befdc09c-4866-11ef-8bc7-af9a9f73b55f.html",
-          "publishedOn": "2024-07-26T20:12:00.000Z",
-          "wordCount": 13725,
-          "title": "Ask a Master Gardener: Mandevilla plant",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/b3/eb36c4e2-4866-11ef-bd31-db9f99ca2cae/669ebd822e070.image.jpg?resize=300%2C400",
-            "length": "199421",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/b3/eb36c4e2-4866-11ef-bd31-db9f99ca2cae/669ebd822e070.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e579e80e-4b86-11ef-be51-77c432e75f39",
-          "author": null,
-          "description": "The next Friends of the Umpqua Hiking Club hike is scheduled for Aug. 3.",
-          "link": "https://www.nrtoday.com/news/local/club-news-hiking-club-heads-to-cape-blanco/article_e579e80e-4b86-11ef-be51-77c432e75f39.html",
-          "publishedOn": "2024-07-26T19:40:00.000Z",
-          "wordCount": 12997,
-          "title": "Club News: Hiking club heads to Cape Blanco",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a5a3d068-4aab-11ef-a3f5-5faa9ae1708b",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Footballs, spikeballs and volleyballs flew around the YMCA of Douglas County’s Courtyard as 10 children and three adults occupied themselves on Thursday.",
-          "link": "https://www.nrtoday.com/news/education/summer-sports-camps-encourage-children-to-play-outdoors/article_a5a3d068-4aab-11ef-a3f5-5faa9ae1708b.html",
-          "publishedOn": "2024-07-26T15:30:00.000Z",
-          "wordCount": 13933,
-          "title": "Summer sports camps encourage children to play outdoors",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/93/693d0018-4ac4-11ef-9cd7-6f3711527bb7/66a2b55b23d81.image.jpg?resize=300%2C200",
-            "length": "226582",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/93/693d0018-4ac4-11ef-9cd7-6f3711527bb7/66a2b55b23d81.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/58f0039a-49f7-11ef-b860-838d5dde4949",
-          "author": "MARIAH JOHNSTON The News-Review",
-          "description": "For many of the 14 Japanese students who are immersing themselves in the American life that Roseburg has to offer, it is their first time abroad.",
-          "link": "https://www.nrtoday.com/news/fostering-cultural-exchange-japanese-students-explore-roseburg-through-exchange-program/article_58f0039a-49f7-11ef-b860-838d5dde4949.html",
-          "publishedOn": "2024-07-26T15:00:00.000Z",
-          "wordCount": 14317,
-          "title": "Fostering cultural exchange, Japanese students explore Roseburg through exchange program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/e8/6e89138a-494e-11ef-b7fb-632bec002df1/66a041ec3ee81.image.jpg?resize=300%2C200",
-            "length": "325214",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/e8/6e89138a-494e-11ef-b7fb-632bec002df1/66a041ec3ee81.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4bae331a-4aaa-11ef-b411-af9bfadbde03",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Oregon Department of Forestry said there are approximately 6,774 personnel assigned to 38 large fires across Oregon, which doesn’t include local and agency government employees, landowners, forestland operators and members of the community who are contributing to the suppression efforts…",
-          "link": "https://www.nrtoday.com/news/local/full-suppression-efforts-continue-on-fires-in-forest/article_4bae331a-4aaa-11ef-b411-af9bfadbde03.html",
-          "publishedOn": "2024-07-26T14:45:00.000Z",
-          "wordCount": 13731,
-          "title": "Full suppression efforts continue on fires in forest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/21/c211b870-4b03-11ef-8697-c752525945e8/66a31fa272ffd.image.jpg?resize=300%2C225",
-            "length": "80688",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/21/c211b870-4b03-11ef-8697-c752525945e8/66a31fa272ffd.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/cd2edd98-4b5b-11ef-b027-1b426e59130c",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — The Roseburg VA Medical Center is inviting veterans to take part in their local creative arts competition.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-va-hosts-creative-arts-competition/article_cd2edd98-4b5b-11ef-b027-1b426e59130c.html",
-          "publishedOn": "2024-07-26T14:31:00.000Z",
-          "wordCount": 13108,
-          "title": "Roseburg VA hosts creative arts competition",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
