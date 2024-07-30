@@ -389,16 +389,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240726151600/IMG_5030.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121636",
-          "author": "Kyle Bailey",
-          "description": "July 26, 2024 5:30 a.m. In the KQEN Cultural Spotlight: Riverbend Live! presents its annual youth theater production Friday and Saturday night with “Schoolhouse Rock Live!”. Umpqua Community College Assistant Theatre Professor Bart McHenry is directing the production, along with help from college theater students and others.  Winston-Dillard area young people have been working on...",
-          "link": "https://kqennewsradio.com/2024/07/26/riverbend-live-youth-theater-with-schoolhouse-rock-live-friday-and-saturday-night/?utm_source=rss&utm_medium=rss&utm_campaign=riverbend-live-youth-theater-with-schoolhouse-rock-live-friday-and-saturday-night",
-          "publishedOn": "2024-07-26T12:40:18.000Z",
-          "wordCount": 1615,
-          "title": "RIVERBEND LIVE YOUTH THEATER WITH “SCHOOLHOUSE ROCK LIVE!” FRIDAY AND SATURDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240726113858/rb2.webp"
         }
       ]
     },
@@ -413,6 +403,56 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b03ac27c-4ac7-11ef-bd39-5b738dfa58e5",
+          "author": "Christian Sala for The News-Review",
+          "description": "I am extremely grateful for the incredible opportunity to work at Roseburg Public Library for the past 11 months as their Resource Assistance for Rural Environments (RARE) AmeriCorps member.",
+          "link": "https://www.nrtoday.com/news/education/a-year-at-roseburg-public-library/article_b03ac27c-4ac7-11ef-bd39-5b738dfa58e5.html",
+          "publishedOn": "2024-07-29T20:51:00.000Z",
+          "wordCount": 13615,
+          "title": "A year at Roseburg Public Library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/34/234b9544-58b0-11ee-a694-5f201ba4cce4/650c9122736b0.image.jpg?resize=300%2C225",
+            "length": "400157",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/34/234b9544-58b0-11ee-a694-5f201ba4cce4/650c9122736b0.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/072769a0-4866-11ef-b03f-9f86749a8d27",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Active military, veterans and first responders will get free entry into the Douglas County Fair on Aug. 8 courtesy of Roseburg Forest Products.",
+          "link": "https://www.nrtoday.com/news/local/free-admission-to-douglas-county-fair-for-military-veterans/article_072769a0-4866-11ef-b03f-9f86749a8d27.html",
+          "publishedOn": "2024-07-29T20:07:00.000Z",
+          "wordCount": 13074,
+          "title": "Free admission to Douglas County Fair for military, veterans",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4f135244-4ddc-11ef-8b29-df1f75161f1a",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The Douglas County Youth Orchestra, supported by the Umpqua Symphony Association, is currently recruiting youth and adults for its fall orchestra program.",
+          "link": "https://www.nrtoday.com/a_and_e/registration-open-for-douglas-county-youth-orchestra/article_4f135244-4ddc-11ef-8b29-df1f75161f1a.html",
+          "publishedOn": "2024-07-29T18:56:00.000Z",
+          "wordCount": 13076,
+          "title": "Registration open for Douglas County Youth Orchestra",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fcaaeea6-4dc5-11ef-9621-db3c72ff10a9",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "Employees at the Roseburg Elmer's were told the restaurant would close Aug. 1. The News-Review was told the restaurant may remain open by its owner.",
+          "link": "https://www.nrtoday.com/news/uncertainty-looms-for-elmers-restaurant-employees/article_fcaaeea6-4dc5-11ef-9621-db3c72ff10a9.html",
+          "publishedOn": "2024-07-29T16:17:00.000Z",
+          "wordCount": 13448,
+          "title": "Uncertainty looms for Elmer's Restaurant employees",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/0f/60f577e8-4dc9-11ef-be8f-8bc92b06c601/6401114b846f2.image.jpg?resize=300%2C200",
+            "length": "462200",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/0f/60f577e8-4dc9-11ef-be8f-8bc92b06c601/6401114b846f2.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a0929e12-4dbf-11ef-ba63-9712cac818f0",
           "author": "Kyle Bailey For The News-Review",
@@ -627,46 +667,6 @@
           "wordCount": 13108,
           "title": "Roseburg VA hosts creative arts competition",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d7819c5c-4a9f-11ef-b0a2-3fefa48fc749",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "Sunday and Wednesday will be the last days for free dental care provided by Caring Hands Worldwide and Roseburg's Better Life Seventh-day Adventist Church.",
-          "link": "https://www.nrtoday.com/briefs/last-week-for-free-dental-care/article_d7819c5c-4a9f-11ef-b0a2-3fefa48fc749.html",
-          "publishedOn": "2024-07-26T14:00:00.000Z",
-          "wordCount": 13136,
-          "title": "Last week for free dental care",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ab37f658-4aba-11ef-8a06-3fc86beb6a3b",
-          "author": "LEO GIMBEL The News-Review",
-          "description": "Most people know the library to be a place of reading, learning and research. On Wednesday, it was home to a paper-mache class as well.",
-          "link": "https://www.nrtoday.com/news/local/sutherlin-library-hosts-class-on-how-to-make-paper-mache-pets/article_ab37f658-4aba-11ef-8a06-3fc86beb6a3b.html",
-          "publishedOn": "2024-07-26T13:45:00.000Z",
-          "wordCount": 14136,
-          "title": "Sutherlin library hosts class on how to make paper mache pets",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/45/e4514a18-4ae0-11ef-9ca0-ef105c346ea7/66a2e52385f81.image.jpg?resize=300%2C200",
-            "length": "256289",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/45/e4514a18-4ae0-11ef-9ca0-ef105c346ea7/66a2e52385f81.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/876b41ea-4910-11ef-87ff-2b327a192f47",
-          "author": "AIMEE LOVE For The News-Review",
-          "description": "Last week, I made the worst jam of my life.",
-          "link": "https://www.nrtoday.com/family/extension-spotlight-all-jammed-up/article_876b41ea-4910-11ef-87ff-2b327a192f47.html",
-          "publishedOn": "2024-07-26T13:45:00.000Z",
-          "wordCount": 13561,
-          "title": "Extension Spotlight: All jammed up",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/9c/49cf8050-4913-11ef-96ba-6be58ecdbd45/669fdeb253053.image.jpg?resize=300%2C229",
-            "length": "599693",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/9c/49cf8050-4913-11ef-96ba-6be58ecdbd45/669fdeb253053.image.jpg?resize=300%2C229"
         }
       ]
     },
