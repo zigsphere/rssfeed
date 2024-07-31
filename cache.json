@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=121791",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/07/30/true-wealth-radio-7-30-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-7-30-24",
+          "publishedOn": "2024-07-31T00:04:31.000Z",
+          "wordCount": 1536,
+          "title": "TRUE WEALTH RADIO 7.30.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240730230341/TRUE-WEALTH-7-30-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=121787",
           "author": "Kyle Bailey",
           "description": "Douglas County Parks Department Director Mark Wall talks about the county’s parks and new projects that are coming up.",
@@ -424,16 +439,6 @@
           "wordCount": 1706,
           "title": "DIAMOND COMPLEX 7 PERCENT CONTAINED, MIDDLE FORK 1 PERCENT CONTAINED",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240723200349/diamond2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=121676",
-          "author": "Kyle Bailey",
-          "description": "July 27, 2024 6:20 a.m. Rewards have doubled for information leading to the individual(s) using pellet guns to harass and kill deer in the Roseburg area this summer following multiple calls to report carcasses to the Turn in Poachers line. An update from the Oregon Department of Fish and Wildlife said the Oregon Hunters Association...",
-          "link": "https://kqennewsradio.com/2024/07/27/rewards-climb-to-2000-in-pellet-gun-poaching-case/?utm_source=rss&utm_medium=rss&utm_campaign=rewards-climb-to-2000-in-pellet-gun-poaching-case",
-          "publishedOn": "2024-07-27T13:23:58.000Z",
-          "wordCount": 1843,
-          "title": "REWARDS CLIMB TO $2,000 IN PELLET GUN POACHING CASE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240727122352/Ohdeer.jpg"
         }
       ]
     },
@@ -650,6 +655,141 @@
       "feedUrl": "http://www.kezi.com/search/?f=rss&amp;t=article&amp;c=news&amp;l=50&amp;s=start_time&amp;sd=desc",
       "siteUrl": "https://www.kezi.com/search/?f=rss&amp;t=article&amp;c=news&amp;l=50&amp;s=start_time&amp;sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/402185f1-bd7f-58d4-bec4-d39c63d59ae9",
+          "author": "Alfredo Meza",
+          "description": "(CNN Español) -- El Consejo Nacional Electoral (CNE) no ha publicado los resultados detallados por colegio electoral y mesa de votación que respaldan el anuncio de la victoria del presidente Nicolás Maduro en las elecciones presidenciales del domingo, pero las…",
+          "link": "https://www.kezi.com/news/spanish/d-nde-est-n-las-actas-de-las-elecciones-presidenciales-de-venezuela-algunas-de-ellas/article_402185f1-bd7f-58d4-bec4-d39c63d59ae9.html",
+          "publishedOn": "2024-07-31T01:59:29.000Z",
+          "wordCount": 9323,
+          "title": "¿Dónde están las actas de las elecciones presidenciales de Venezuela? Algunas de ellas podrían estar en dos direcciones web",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/custom/image/8669ec34-4408-11ec-8535-9377ced27e8c.png?resize=600%2C315"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/64769e2f-f2b0-5979-9e4d-d1bf82717b14",
+          "author": null,
+          "description": "Neighbors are cautious of the people staying at the empty house as the area becomes more filled with litter",
+          "link": "https://www.kezi.com/video/empty-house-attracts-unwanted-visitors-to-springfield-neighborhood/video_64769e2f-f2b0-5979-9e4d-d1bf82717b14.html",
+          "publishedOn": "2024-07-31T01:52:00.000Z",
+          "wordCount": 7931,
+          "title": "Empty house attracts unwanted visitors to Springfield neighborhood",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/47/64769e2f-f2b0-5979-9e4d-d1bf82717b14/66a99aa441264.image.jpg?resize=300%2C169",
+            "length": "88789",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/47/64769e2f-f2b0-5979-9e4d-d1bf82717b14/66a99aa441264.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/5ac5b184-4edd-11ef-86ea-f7ea2ed47afc",
+          "author": null,
+          "description": "Both the home and surrounding property remains both damaged and filled with trash.",
+          "link": "https://www.kezi.com/trashed-land/image_5ac5b184-4edd-11ef-86ea-f7ea2ed47afc.html",
+          "publishedOn": "2024-07-31T01:36:00.000Z",
+          "wordCount": null,
+          "title": "Trashed land",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/ac/5ac5b184-4edd-11ef-86ea-f7ea2ed47afc/66a9956a7c6da.image.jpg?resize=300%2C169",
+            "length": "125707",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/ac/5ac5b184-4edd-11ef-86ea-f7ea2ed47afc/66a9956a7c6da.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/1d345faa-4edd-11ef-a331-5795fb3fe662",
+          "author": null,
+          "description": "The home has frequently been reboarded following countless attempts by visitors to stay in the building.",
+          "link": "https://www.kezi.com/boarded-home/image_1d345faa-4edd-11ef-a331-5795fb3fe662.html",
+          "publishedOn": "2024-07-31T01:35:00.000Z",
+          "wordCount": 7850,
+          "title": "Boarded home",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/d3/1d345faa-4edd-11ef-a331-5795fb3fe662/66a9950ce3be6.image.jpg?resize=300%2C169",
+            "length": "101231",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/d3/1d345faa-4edd-11ef-a331-5795fb3fe662/66a9950ce3be6.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/bcdea246-4edc-11ef-ad50-239b8f80d955",
+          "author": "By: Noah Chavez",
+          "description": "Young teenagers and homeless adults alike have frequented an empty house in a Springfield neighborhood and have left it damaged and trashed.",
+          "link": "https://www.kezi.com/news/empty-home-attracts-unwanted-guests-to-springfield-neighborhood/article_bcdea246-4edc-11ef-ad50-239b8f80d955.html",
+          "publishedOn": "2024-07-31T01:32:00.000Z",
+          "wordCount": 8767,
+          "title": "Empty home attracts unwanted guests to Springfield neighborhood",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/d3/1d345faa-4edd-11ef-a331-5795fb3fe662/66a9950ce3be6.image.jpg?resize=300%2C169",
+            "length": "101231",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/d3/1d345faa-4edd-11ef-a331-5795fb3fe662/66a9950ce3be6.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/50b6a5c9-0a97-5e70-955b-086ff0d75c14",
+          "author": "Valeria Ordóñez Ghio",
+          "description": "(CNN Español) -- El Gobierno de Estados Unidos insistió en su llamado a que haya transparencia en los resultados de la elección presidencial en Venezuela donde el Consejo Nacional Electoral (CNE) proclamó ganador al presidente Nicolás Maduro, al tiempo que…",
+          "link": "https://www.kezi.com/news/spanish/ee-uu-pide-transparencia-en-los-resultados-de-la-elecci-n-en-venezuela-y-rechaza/article_50b6a5c9-0a97-5e70-955b-086ff0d75c14.html",
+          "publishedOn": "2024-07-31T01:24:20.000Z",
+          "wordCount": 8231,
+          "title": "EE.UU. pide transparencia en los resultados de la elección en Venezuela y rechaza los llamados a arrestar a Machado y González",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/custom/image/8669ec34-4408-11ec-8535-9377ced27e8c.png?resize=600%2C315"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/6c976772-4ed8-11ef-8cc7-af4dad30115c",
+          "author": null,
+          "description": "People living near Skinner Butte said they are extra concerned about the possibility of a fire.",
+          "link": "https://www.kezi.com/neighborhood/image_6c976772-4ed8-11ef-8cc7-af4dad30115c.html",
+          "publishedOn": "2024-07-31T01:01:00.000Z",
+          "wordCount": null,
+          "title": "Neighborhood",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/c9/6c976772-4ed8-11ef-8cc7-af4dad30115c/66a98d06e7f00.image.jpg?resize=300%2C169",
+            "length": "141732",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/c9/6c976772-4ed8-11ef-8cc7-af4dad30115c/66a98d06e7f00.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/468ff3fa-4ed8-11ef-9bf1-8f92636a44e2",
+          "author": null,
+          "description": "Eugene Springfield Fire Chief Mike Caven said Skinner Butte is known to be a problem area when it comes to illegal fireworks.",
+          "link": "https://www.kezi.com/next-to-skinner-butte/image_468ff3fa-4ed8-11ef-9bf1-8f92636a44e2.html",
+          "publishedOn": "2024-07-31T01:00:00.000Z",
+          "wordCount": 7865,
+          "title": "Next to Skinner Butte",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/68/468ff3fa-4ed8-11ef-9bf1-8f92636a44e2/66a98ce69a5e1.image.jpg?resize=300%2C169",
+            "length": "195568",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/68/468ff3fa-4ed8-11ef-9bf1-8f92636a44e2/66a98ce69a5e1.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/0e56ada8-4ed8-11ef-8dc2-db672c9ea4ad",
+          "author": "By: Joey Vacca",
+          "description": "Nearby residents said the illegal firework issue is not a new problem, but during fire season it is a real worry.",
+          "link": "https://www.kezi.com/news/people-living-near-skinner-butte-share-concerns-over-illegal-fireworks-being-lit/article_0e56ada8-4ed8-11ef-8dc2-db672c9ea4ad.html",
+          "publishedOn": "2024-07-31T00:58:00.000Z",
+          "wordCount": 9113,
+          "title": "People living near Skinner Butte share concerns over illegal fireworks being lit",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/68/468ff3fa-4ed8-11ef-9bf1-8f92636a44e2/66a98ce69a5e1.image.jpg?resize=300%2C169",
+            "length": "195568",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/68/468ff3fa-4ed8-11ef-9bf1-8f92636a44e2/66a98ce69a5e1.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/6421d2c1-81e7-5473-a673-3e8d20f5b4e0",
+          "author": "Belén Liotti",
+          "description": "(CNN) -- Este martes, la campaña de Harris mostró un primer vistazo sobre cómo planea contrarrestar los ataques del expresidente Donald Trump, quien presenta falsamente a la vicepresidenta Kamala Harris como el “zar fronterizo” de la administración.",
+          "link": "https://www.kezi.com/news/spanish/la-campa-a-de-harris-responde-a-las-acusaciones-de-trump-en-materia-de-inmigraci/article_6421d2c1-81e7-5473-a673-3e8d20f5b4e0.html",
+          "publishedOn": "2024-07-31T00:49:45.000Z",
+          "wordCount": 8440,
+          "title": "La campaña de Harris responde a las acusaciones de Trump en materia de inmigración",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/custom/image/8669ec34-4408-11ec-8535-9377ced27e8c.png?resize=600%2C315"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/5a6d06dd-774c-5108-bc47-38fcda2a941a",
           "author": null,
