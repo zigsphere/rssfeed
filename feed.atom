@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-04T13:11:25.504Z</updated>
+    <updated>2024-08-04T16:11:17.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Community members build beds for children]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fdb03504-51c1-11ef-8f34-1bbfa9332472</id>
+        <link href="https://www.nrtoday.com/news/local/community-members-build-beds-for-children/article_fdb03504-51c1-11ef-8f34-1bbfa9332472.html"/>
+        <updated>2024-08-04T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The north side of the parking lot at Lowe’s was filled with people, lumber and tools as they aimed to build 100 beds Saturday morning.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Declarations filed in Winchester Dam lawsuit]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bc42ce40-51d7-11ef-9f1e-97a7bc5f1784</id>
+        <link href="https://www.nrtoday.com/news/environment/declarations-filed-in-winchester-dam-lawsuit/article_bc42ce40-51d7-11ef-9f1e-97a7bc5f1784.html"/>
+        <updated>2024-08-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Waterwatch of Oregon, Native Fish Society, The Steamboaters, Umpqua Watersheds, The North Umpqua Foundation, James V. McCarthy and Kirk Blaine submitted a motion to intervene and support the Oregon Department of Fish and Wildlife in the civil lawsuit against the…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smoke impacts air quality]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/824318ae-5208-11ef-abab-17366229e2d7</id>
@@ -644,16 +664,6 @@
         <summary type="html"><![CDATA[August 1, 2024 2:50 a.m. In the KQEN Cultural Spotlight: Music in the Park in Myrtle Creek has another evening of live music Thursday night. Broadway Phil & The Shouters are from Murphy. “Broadway Phil” Newton, his harmonica and the band have been bringing the blues to concerts and clubs in southern Oregon since 1994....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman flees from arrest warrant]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a34e60a0-4f6d-11ef-a6ec-2bf70c596e3a</id>
-        <link href="https://www.nrtoday.com/briefs/woman-flees-from-arrest-warrant/article_a34e60a0-4f6d-11ef-a6ec-2bf70c596e3a.html"/>
-        <updated>2024-07-31T18:49:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — A woman tried to flee from Roseburg police Tuesday morning, but was ultimately taken into custody.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
 </feed>

@@ -464,6 +464,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fdb03504-51c1-11ef-8f34-1bbfa9332472",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The north side of the parking lot at Lowe’s was filled with people, lumber and tools as they aimed to build 100 beds Saturday morning.",
+          "link": "https://www.nrtoday.com/news/local/community-members-build-beds-for-children/article_fdb03504-51c1-11ef-8f34-1bbfa9332472.html",
+          "publishedOn": "2024-08-04T05:15:00.000Z",
+          "wordCount": 14410,
+          "title": "Community members build beds for children",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f6098b7c-51ce-11ef-9311-03e04ff0c481/66ae858873f97.image.jpg?resize=300%2C200",
+            "length": "352305",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f6098b7c-51ce-11ef-9311-03e04ff0c481/66ae858873f97.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc42ce40-51d7-11ef-9f1e-97a7bc5f1784",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Waterwatch of Oregon, Native Fish Society, The Steamboaters, Umpqua Watersheds, The North Umpqua Foundation, James V. McCarthy and Kirk Blaine submitted a motion to intervene and support the Oregon Department of Fish and Wildlife in the civil lawsuit against the…",
+          "link": "https://www.nrtoday.com/news/environment/declarations-filed-in-winchester-dam-lawsuit/article_bc42ce40-51d7-11ef-9f1e-97a7bc5f1784.html",
+          "publishedOn": "2024-08-04T05:00:00.000Z",
+          "wordCount": 13857,
+          "title": "Declarations filed in Winchester Dam lawsuit",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19da318a-51db-11ef-a417-7fad3764c6fb/64dd050d4981d.image.jpg?resize=300%2C200",
+            "length": "723967",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19da318a-51db-11ef-a417-7fad3764c6fb/64dd050d4981d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/824318ae-5208-11ef-abab-17366229e2d7",
           "author": "Kyle Bailey For The News-Review",
           "description": "SOUTHERN OREGON — An Air Quality Alert is in effect through 11 a.m. Monday for parts of southern Oregon.",
@@ -727,16 +757,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/4d/14d9d15e-4f92-11ef-9660-8f398acc4e7e/66aac46685490.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a34e60a0-4f6d-11ef-a6ec-2bf70c596e3a",
-          "author": "KIMBERLI HOLMQUIST The News-Review",
-          "description": "ROSEBURG — A woman tried to flee from Roseburg police Tuesday morning, but was ultimately taken into custody.",
-          "link": "https://www.nrtoday.com/briefs/woman-flees-from-arrest-warrant/article_a34e60a0-4f6d-11ef-a6ec-2bf70c596e3a.html",
-          "publishedOn": "2024-07-31T18:49:00.000Z",
-          "wordCount": 13154,
-          "title": "Woman flees from arrest warrant",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
