@@ -6,6 +6,56 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=122169",
+          "author": "Kyle Bailey",
+          "description": "August 7, 2024 3:30 p.m.  A Washington State man is no longer missing, according to the Douglas County Sheriff’s Office. 82-year-old Gyula Cserfoi was reported missing after leaving his passengers at a closed gas station on South Pine Street in Canyonville at approximately 4:50 a.m. Monday. The man from Rochester had reportedly made statements about...",
+          "link": "https://kqennewsradio.com/2024/08/07/washington-state-man-is-no-longer-missing/?utm_source=rss&utm_medium=rss&utm_campaign=washington-state-man-is-no-longer-missing",
+          "publishedOn": "2024-08-07T22:29:22.000Z",
+          "wordCount": 1530,
+          "title": "WASHINGTON STATE MAN IS NO LONGER MISSING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=122167",
+          "author": "Kyle Bailey",
+          "description": "August 7, 2024 3:20 p.m.  Bloodworks Northwest is having a blood drive Thursday from 10:00 a.m. to 3:00 p.m. The non-profit from Seattle is partnering with local employment agency, Selectemp for the event. Bloodworks Northwest will bring in a bus that has the capacity to seat four donors. The donation process takes about an hour,...",
+          "link": "https://kqennewsradio.com/2024/08/07/bloodworks-northwest-blood-drive-thurday/?utm_source=rss&utm_medium=rss&utm_campaign=bloodworks-northwest-blood-drive-thurday",
+          "publishedOn": "2024-08-07T22:18:39.000Z",
+          "wordCount": 1583,
+          "title": "BLOODWORKS NORTHWEST BLOOD DRIVE THURDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=122162",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at the Douglas County Fair with State Representative Virgle Osborne and Douglas Timber Operators Executive Director Matt Hill:",
+          "link": "https://kqennewsradio.com/2024/08/07/inside-douglas-county-8-7-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-8-7-24",
+          "publishedOn": "2024-08-07T21:10:33.000Z",
+          "wordCount": 1540,
+          "title": "INSIDE DOUGLAS COUNTY 8.7.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240807200725/IDC-8-7-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240807201021/IMG_5110.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=122159",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/08/07/true-wealth-8-6-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-8-6-24",
+          "publishedOn": "2024-08-07T21:04:35.000Z",
+          "wordCount": 1531,
+          "title": "TRUE WEALTH 8.6.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240807200241/TRUE-WEALTH-8-6-2024.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=122157",
           "author": "Kyle Bailey",
           "description": "August 7, 2024 11:00 a.m. The Homestead Complex is up to 2,851 acres, with containment at 14 percent. An Umpqua National Forest update said 455 people are working on the fire. The forecast again includes smoke and hazy conditions in the valley and sheltered drainages. Temperatures are expected to be in the 70s to mid-80s...",
@@ -584,6 +634,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3863d6f6-50f0-11ef-98f2-7f3149d8fd69",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Rodney Norman is scheduled to perform at 7 p.m. Aug. 15 at The Hive, at 753 SE Main St. in Roseburg.",
+          "link": "https://www.nrtoday.com/a_and_e/rodney-norman-returns-to-roseburg/article_3863d6f6-50f0-11ef-98f2-7f3149d8fd69.html",
+          "publishedOn": "2024-08-07T16:56:00.000Z",
+          "wordCount": 13147,
+          "title": "Rodney Norman returns to Roseburg",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/85768d40-5383-11ef-9116-533f455599b3",
           "author": "MARIAH JOHNSTON The News-Review",
           "description": "Nicki Opp, 52, and her sister, Desta Walsh, 49, have been working for the Douglas County Fairgrounds since they were each 14 years old. It was their first job and they kept coming back.",
@@ -797,36 +857,6 @@
           "wordCount": 13120,
           "title": "Roseburg VA offers BTSSS class",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fdb03504-51c1-11ef-8f34-1bbfa9332472",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The north side of the parking lot at Lowe’s was filled with people, lumber and tools as they aimed to build 100 beds Saturday morning.",
-          "link": "https://www.nrtoday.com/news/local/community-members-build-beds-for-children/article_fdb03504-51c1-11ef-8f34-1bbfa9332472.html",
-          "publishedOn": "2024-08-04T05:15:00.000Z",
-          "wordCount": 14410,
-          "title": "Community members build beds for children",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f6098b7c-51ce-11ef-9311-03e04ff0c481/66ae858873f97.image.jpg?resize=300%2C200",
-            "length": "352305",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f6098b7c-51ce-11ef-9311-03e04ff0c481/66ae858873f97.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc42ce40-51d7-11ef-9f1e-97a7bc5f1784",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Waterwatch of Oregon, Native Fish Society, The Steamboaters, Umpqua Watersheds, The North Umpqua Foundation, James V. McCarthy and Kirk Blaine submitted a motion to intervene and support the Oregon Department of Fish and Wildlife in the civil lawsuit against the…",
-          "link": "https://www.nrtoday.com/news/environment/declarations-filed-in-winchester-dam-lawsuit/article_bc42ce40-51d7-11ef-9f1e-97a7bc5f1784.html",
-          "publishedOn": "2024-08-04T05:00:00.000Z",
-          "wordCount": 13857,
-          "title": "Declarations filed in Winchester Dam lawsuit",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19da318a-51db-11ef-a417-7fad3764c6fb/64dd050d4981d.image.jpg?resize=300%2C200",
-            "length": "723967",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9d/19da318a-51db-11ef-a417-7fad3764c6fb/64dd050d4981d.image.jpg?resize=300%2C200"
         }
       ]
     },
