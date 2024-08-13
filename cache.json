@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=122411",
+          "author": "Kyle Bailey",
+          "description": "An update on the Dixon Fire with Kent Romney at the fire camp, and Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office",
+          "link": "https://kqennewsradio.com/2024/08/13/inside-douglas-county-8-13-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-8-13-24",
+          "publishedOn": "2024-08-13T20:14:58.000Z",
+          "wordCount": 1545,
+          "title": "INSIDE DOUGLAS COUNTY 8.13.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240813190755/IDC-8-13-24-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240813191452/dixon10.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=122409",
           "author": "Kyle Bailey",
           "description": "August 13, 2024 11:00 a.m. The seven fires making up the Homestead Complex, burning in the Umpqua National Forest, have increased to 4,387 acres with an overall containment of 14 percent. A UNF update said the largest fire remains the 1,660 acre No Man Fire. Monday crews had good success with tactical fire operations inside...",
@@ -598,6 +613,16 @@
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
       "articles": [
         {
+          "id": "https://www.flashalert.net/news.html?id=5204#news174511",
+          "author": null,
+          "description": "CURRENT EVACUATION NOTICES\nTILLER, Ore. - Evacuations remain in place for the Dixon Fire, previously referred to as the Tiller Trail Fire. The following is a summary of the current evacuation levels as of Tuesday, August 13, 2024, at 2:30 pm. An interactive map reflecting these evacuation levels can be found online at www.dcso.com/evacuations. \n\nLEVEL 3 \"GO!\":\nAll residences on Crume Ranch Lane\nAll residences on Devil's Knob Road, also known as USFS Road #1610\nAll residences on Tiller Trail Highway from the intersection of Devil's Knob (USFS 1610) south to milepost 31 on Tiller Trail Highway. This includes all residences between these two points.\n \n\nLEVEL 2 \"BE SET\":\nAll residences on Tiller Trail Highway from milepost 31 to milepost 34. This includes all homes between these two points.\nTh…",
+          "link": "https://www.flashalert.net/news.html?id=5204#news174511",
+          "publishedOn": "2024-08-13T21:31:22.000Z",
+          "wordCount": 4595,
+          "title": "Dixon Fire Evacuation Update - 08/13/2024",
+          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
+        },
+        {
           "id": "https://www.flashalert.net/news.html?id=5204#news174492",
           "author": null,
           "description": "CURRENT EVACUATION NOTICES IN PLACE AS A RESULT OF THE DIXON FIRE\nTILLER, Ore. - Evacuations remain in place for the Dixon Fire, previously referred to as the Tiller Trail Fire. The following is a summary of the current evacuation levels as of Monday, August 12, 2024. An interactive map reflecting these evacuation levels can be found online at www.dcso.com/evacuations. \n\nLEVEL 3 \"GO!\":\nAll residences on Crume Ranch Lane\nAll residences on Devil's Knob Road, also known as USFS Road #1610 \nAll residences on Tiller Trail Highway from the intersection of Devil's Knob (USFS 1610) south to milepost 31 on Tiller Trail Highway. This includes all residences between these two points. (UPGRADED 8/12)\n \n\nLEVEL 2 \"BE SET\":\nAll residences on Tiller Trail Highway from milepost 31 to milepost 34. This incl…",
@@ -661,7 +686,23 @@
       "title": "Douglas Interagency Narcotics Team (DINT)",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6255",
       "siteUrl": "https://www.flashalert.net/news.html?id=6255",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6255#news174514",
+          "author": null,
+          "description": "The Douglas Interagency Narcotics Team (DINT) is currently conducting an investigation into a large amount of suspected methamphetamine located early this week by a citizen in Fir Grove Park in Roseburg.  \n \nLaw Enforcement was contacted after the citizen located what appeared to be two brand new bags of charcoal briquettes in the brush along a trail in the park.  The bags appeared to have been abandoned, and it was suspected they'd been stolen.  The bags were opened and were found to contain a large amount of suspected methamphetamine mixed in with the briquettes.  \n \nThis area is highly populated during the day with kids and citizens utilizing the park and trails. DINT took possession of the bags of briquettes and suspected controlled substances. DINT is seeking information from the public on anyone who may have seen the briquettes being carried into or left at the park. The specific amount of methamphetamine is not being disclosed at this time. \n \nDINT can be contacted at 541-440-4474 or through our web tip line that can be found at DCSO.COM",
+          "link": "https://www.flashalert.net/news.html?id=6255#news174514",
+          "publishedOn": "2024-08-13T22:28:35.000Z",
+          "wordCount": 959,
+          "title": "Found Meth (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-08/6255/174514/Briquettes.jpg",
+            "length": "36939",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-08/6255/174514/Briquettes.jpg"
+        }
+      ]
     },
     {
       "title": "Oregon Dept. of Forestry",
