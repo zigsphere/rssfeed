@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=122422",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/08/13/true-wealth-8-13-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-8-13-24",
+          "publishedOn": "2024-08-14T00:10:23.000Z",
+          "wordCount": 1530,
+          "title": "TRUE WEALTH 8.13.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240813230819/TRUE-WEALTH-8-13-2024-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=122419",
+          "author": "Kyle Bailey",
+          "description": "August 14, 2024 4:50 p.m.   The Douglas Interagency Narcotics Team is conducting an investigation into a large amount of suspected methamphetamine located early this week by a citizen in Fir Grove Park in Roseburg. DINT Commander, Lieutenant Rick McArthur said law enforcement was contacted after the resident found what appeared to be two brand new...",
+          "link": "https://kqennewsradio.com/2024/08/13/dint-investigating-methamphetamine-found-in-fir-grove-park/?utm_source=rss&utm_medium=rss&utm_campaign=dint-investigating-methamphetamine-found-in-fir-grove-park",
+          "publishedOn": "2024-08-13T23:53:53.000Z",
+          "wordCount": 1654,
+          "title": "DINT INVESTIGATING METHAMPHETAMINE FOUND IN FIR GROVE PARK",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240813225230/Briquettes.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=122411",
           "author": "Kyle Bailey",
           "description": "An update on the Dixon Fire with Kent Romney at the fire camp, and Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office",
@@ -474,16 +499,6 @@
           "wordCount": 1717,
           "title": "HOMESTEAD COMPLEX UP TO 3,726 ACRES, REMAINS 14 PERCENT CONTAINED",
           "imageUrl": "https://kqennewsradio.com/wp-content/uploads/homestead2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=122266",
-          "author": "Kyle Bailey",
-          "description": "August 10, 2024 7:00 a.m. It’s day four of the Douglas County Fair. It’s Family Day at the fair, sponsored by Pepsi and Clint Newell Auto Group. Kids aged 12 and under are admitted for free sponsored by the Cow Creek Band of Umpqua Tribe of Indians. Teens get in for $2 off when they...",
-          "link": "https://kqennewsradio.com/2024/08/10/douglas-county-fair-day-four-activities/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-fair-day-four-activities",
-          "publishedOn": "2024-08-10T14:01:37.000Z",
-          "wordCount": 1647,
-          "title": "DOUGLAS COUNTY FAIR DAY FOUR ACTIVITIES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240711093403/2024-Fair-logo_sponsors-1.jpg"
         }
       ]
     },
@@ -567,31 +582,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/72/4729ac92-5339-11ef-8d72-f3811e7575f3/66b0e56660170.image.jpg"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/69c839ae-54c8-11ef-9f14-8f387cb943be",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "The enrollment process is underway for the 2024-25 school year at Roseburg school district.",
-          "link": "https://www.nrtoday.com/news/education/enrollment-underway-for-roseburg-school-district/article_69c839ae-54c8-11ef-9f14-8f387cb943be.html",
-          "publishedOn": "2024-08-10T14:22:00.000Z",
-          "wordCount": 13261,
-          "title": "Enrollment underway for Roseburg school district",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ccc20570-5677-11ef-beba-0b0e8966b826",
-          "author": "KIMBERLI HOLMQUIST The News-Review",
-          "description": "Spirit Halloween is coming soon to 444 SE Stephens St., the former Rite Aid location in Roseburg.",
-          "link": "https://www.nrtoday.com/business/spirit-halloween-returns-to-roseburg/article_ccc20570-5677-11ef-beba-0b0e8966b826.html",
-          "publishedOn": "2024-08-10T13:45:00.000Z",
-          "wordCount": 13618,
-          "title": "Spirit Halloween returns to Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a1/da13c000-5678-11ef-ac01-d32502832f8a/66b6588ca166d.image.jpg?resize=300%2C200",
-            "length": "309006",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a1/da13c000-5678-11ef-ac01-d32502832f8a/66b6588ca166d.image.jpg?resize=300%2C200"
         }
       ]
     },

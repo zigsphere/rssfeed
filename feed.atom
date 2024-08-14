@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-13T23:10:13.353Z</updated>
+    <updated>2024-08-14T02:32:31.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 8.13.24]]></title>
+        <id>https://kqennewsradio.com/?p=122422</id>
+        <link href="https://kqennewsradio.com/2024/08/13/true-wealth-8-13-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-8-13-24"/>
+        <updated>2024-08-14T00:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DINT INVESTIGATING METHAMPHETAMINE FOUND IN FIR GROVE PARK]]></title>
+        <id>https://kqennewsradio.com/?p=122419</id>
+        <link href="https://kqennewsradio.com/2024/08/13/dint-investigating-methamphetamine-found-in-fir-grove-park/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-investigating-methamphetamine-found-in-fir-grove-park"/>
+        <updated>2024-08-13T23:53:53.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2024 4:50 p.m.   The Douglas Interagency Narcotics Team is conducting an investigation into a large amount of suspected methamphetamine located early this week by a citizen in Fir Grove Park in Roseburg. DINT Commander, Lieutenant Rick McArthur said law enforcement was contacted after the resident found what appeared to be two brand new...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Found Meth (Photo)]]></title>
         <id>https://www.flashalert.net/news.html?id=6255#news174514</id>
@@ -634,36 +654,6 @@ The interior of the Lee Falls fire continues to burn slowly so residents will ex
         <summary type="html"><![CDATA[Here at JustServe we are all about building community. One way to do that is to work alongside our friends and neighbors for a good cause. Another way is to reach out to strangers and those we don’t know well…]]></summary>
         <author>
             <name>JENNIFER COALWELL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enrollment underway for Roseburg school district]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/69c839ae-54c8-11ef-9f14-8f387cb943be</id>
-        <link href="https://www.nrtoday.com/news/education/enrollment-underway-for-roseburg-school-district/article_69c839ae-54c8-11ef-9f14-8f387cb943be.html"/>
-        <updated>2024-08-10T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The enrollment process is underway for the 2024-25 school year at Roseburg school district.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOUGLAS COUNTY FAIR DAY FOUR ACTIVITIES]]></title>
-        <id>https://kqennewsradio.com/?p=122266</id>
-        <link href="https://kqennewsradio.com/2024/08/10/douglas-county-fair-day-four-activities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-county-fair-day-four-activities"/>
-        <updated>2024-08-10T14:01:37.000Z</updated>
-        <summary type="html"><![CDATA[August 10, 2024 7:00 a.m. It’s day four of the Douglas County Fair. It’s Family Day at the fair, sponsored by Pepsi and Clint Newell Auto Group. Kids aged 12 and under are admitted for free sponsored by the Cow Creek Band of Umpqua Tribe of Indians. Teens get in for $2 off when they...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirit Halloween returns to Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ccc20570-5677-11ef-beba-0b0e8966b826</id>
-        <link href="https://www.nrtoday.com/business/spirit-halloween-returns-to-roseburg/article_ccc20570-5677-11ef-beba-0b0e8966b826.html"/>
-        <updated>2024-08-10T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Spirit Halloween is coming soon to 444 SE Stephens St., the former Rite Aid location in Roseburg.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
 </feed>
