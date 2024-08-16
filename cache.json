@@ -734,26 +734,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240812151932/Rich-Valdes-Headshot-1-thumbnail.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=122317",
-          "author": "Kyle Bailey",
-          "description": "August 12, 2024 6:00 a.m. In response to the Dixon Fire, the Douglas County Sheriff’s Office has evacuation notices remaining in place: *Level 3: GO – All residences on Crume Ranch Lane and Devil’s Knob Road, also known as USFS Road #1610, and the one residence in the area of Hamlin Prairie *Level 2: BE...",
-          "link": "https://kqennewsradio.com/2024/08/12/dcso-dixon-fire-update/?utm_source=rss&utm_medium=rss&utm_campaign=dcso-dixon-fire-update",
-          "publishedOn": "2024-08-12T13:05:51.000Z",
-          "wordCount": 1782,
-          "title": "DCSO DIXON FIRE UPDATE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240812100110/free1-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=122311",
-          "author": "Kyle Bailey",
-          "description": "August 12, 2024  4:00 a.m. The Oregon Department of Environmental Quality has issued an Air Pollution Advisory, in effect through at least 3:00 p.m. Monday for much of southern Oregon. The DEQ advisory is for central and eastern Douglas County, and Klamath and Lake counties, due to wildfires burning in the region. DEQ also expects...",
-          "link": "https://kqennewsradio.com/2024/08/12/air-quality-alert-through-300-p-m-monday/?utm_source=rss&utm_medium=rss&utm_campaign=air-quality-alert-through-300-p-m-monday",
-          "publishedOn": "2024-08-12T11:12:19.000Z",
-          "wordCount": 1626,
-          "title": "AIR QUALITY ALERT THROUGH 3:00 P.M. MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240812101210/airmon-1.png"
         }
       ]
     },
@@ -918,6 +898,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news174578",
+          "author": null,
+          "description": "CURRENT EVACUATION NOTICES\nTILLER, Ore. - Evacuations remain in place for the Dixon Fire. The following is a summary of the current evacuation levels as of Thursday, August 15, 2024, at 4:15 pm. An interactive map reflecting these evacuation levels can be found online at www.dcso.com/evacuations. \n\nLEVEL 3 \"GO!\":\nNo Level 3 evacuation notices exist for this incident. The previous Level 3 evacuation notices for this incident have been downgraded. \n \n\nLEVEL 2 \"BE SET\":\nAll residences on Crume Ranch Lane\nAll residences on Devil's Knob Road, also known as USFS Road #1610\nAll residences on the north side of Tiller Trail Highway from the intersection of Devil's Knob (USFS 1610) south to milepost 32.5 on Tiller Trail Highway. This includes all residences between these two points.\n \n\nLEVEL 1 “BE R…",
+          "link": "https://www.flashalert.net/news.html?id=5204#news174578",
+          "publishedOn": "2024-08-15T23:13:05.000Z",
+          "wordCount": 5527,
+          "title": "Dixon Fire Evacuation Downgrades",
+          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=5204#news174511",
           "author": null,
