@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-22T13:15:11.862Z</updated>
+    <updated>2024-08-22T16:13:05.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.22.24]]></title>
+        <id>https://kqennewsradio.com/?p=122822</id>
+        <link href="https://kqennewsradio.com/2024/08/22/morning-conversation-8-22-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-22-24"/>
+        <updated>2024-08-22T16:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Debbie Hamilton and Dan Bartram talk about tonight’s Music Off Central concert in Sutherlin, which wraps up the season for the venue.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police search for missing man]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c309168a-6091-11ef-a9b3-23c81e81e723</id>
+        <link href="https://www.nrtoday.com/news/local/police-search-for-missing-man/article_c309168a-6091-11ef-a9b3-23c81e81e723.html"/>
+        <updated>2024-08-22T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The Roseburg Police Department is investigating a missing person case.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orenco systems to be acquired by Advanced Drainage Systems]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b6de9624-6090-11ef-be85-371925e18449</id>
+        <link href="https://www.nrtoday.com/business/orenco-systems-to-be-acquired-by-advanced-drainage-systems/article_b6de9624-6090-11ef-be85-371925e18449.html"/>
+        <updated>2024-08-22T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Orenco Systems Inc. will be acquired by Advanced Drainage Systems Inc.’s subsidiary Infiltrator Water the company announced Tuesday.]]></summary>
+        <author>
+            <name>The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rep. Virgle Osborne kicks off campaign Friday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/498d55d8-6090-11ef-a6bc-8b46abd7952c</id>
+        <link href="https://www.nrtoday.com/news/elections/rep-virgle-osborne-kicks-off-campaign-friday/article_498d55d8-6090-11ef-a6bc-8b46abd7952c.html"/>
+        <updated>2024-08-22T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[WINSTON — State Rep. Virgle Osborne has a campaign kick-off event Friday night at Lookingglass Brewery in Winston..]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life in a fire camp: Communication is key to keeping everyone safe]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/39b17472-5f8d-11ef-bc02-57a34ce3de44</id>
+        <link href="https://www.nrtoday.com/news/local/life-in-a-fire-camp-communication-is-key-to-keeping-everyone-safe/article_39b17472-5f8d-11ef-bc02-57a34ce3de44.html"/>
+        <updated>2024-08-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whenever personnel assigned to a wildfire head out to the fire line, they take a handheld radio with them in case a situation arises or they need to communicate with those back at the fire camp.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE DEPARTMENT – MISSING PERSON CASE]]></title>
         <id>https://kqennewsradio.com/?p=122815</id>
@@ -87,6 +137,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lehne Garden & Orchards celebrate 50 years]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/89a4161c-5cb1-11ef-96ce-93e399268fff</id>
+        <link href="https://www.nrtoday.com/business/lehne-garden-orchards-celebrate-50-years/article_89a4161c-5cb1-11ef-96ce-93e399268fff.html"/>
+        <updated>2024-08-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Norm and Cinda Lehne served up root beer floats Wednesday morning to celebrate 50 years of u-pick business with their customers.]]></summary>
+        <author>
+            <name>KIMBERLI HOLMQUIST The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 8/21/24]]></title>
         <id>https://kqennewsradio.com/?p=122785</id>
         <link href="https://kqennewsradio.com/2024/08/21/inside-douglas-county-8-21-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-8-21-24"/>
@@ -94,6 +154,16 @@
         <summary type="html"><![CDATA[Author Don Witten graduated in the Roseburg High School class of 1971.  He is the author of two books, the latest of which is titled, “Storyteller”. A book reading event and fundraiser for the Oakland High School English Department will be held at the Roseburg Public Library this Saturday from 10:30 a.m. to 12:30 p.m.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buddy Walk at Stewart Park]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/aee36c04-5fe8-11ef-8bec-23d87deabfce</id>
+        <link href="https://www.nrtoday.com/news/health/buddy-walk-at-stewart-park/article_aee36c04-5fe8-11ef-8bec-23d87deabfce.html"/>
+        <updated>2024-08-21T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Umpqua Homes Inc. and Sunrise Enterprises are hosting an intellectual developmental disability buddy walk from 9 a.m. to 3 p.m. Saturday at Stewart Park.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -198,6 +268,16 @@ The post Energy Trust of Oregon Seeking New Members for Diversity Advisory Counc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Grant class offered by consultant]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9b23697a-5fda-11ef-ab13-5750274fbc9e</id>
+        <link href="https://www.nrtoday.com/news/local/grant-class-offered-by-consultant/article_9b23697a-5fda-11ef-ab13-5750274fbc9e.html"/>
+        <updated>2024-08-21T16:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Smooth Operations, a local consulting business, is hosting a Foundation Grant Fundamentals course from 1-4 p.m. Oct. 29 in the United Way conference room at 702 SE Jackson St. in Roseburg.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MORNING CONVERSATION 8.21.24]]></title>
         <id>https://kqennewsradio.com/?p=122761</id>
         <link href="https://kqennewsradio.com/2024/08/21/morning-conversation-8-21-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-21-24"/>
@@ -213,6 +293,16 @@ The post Energy Trust of Oregon Seeking New Members for Diversity Advisory Counc
         <link href="https://www.nrtoday.com/business/douglas-county-employment-drops-in-july/article_e4338f9e-5fd7-11ef-b67f-57eb0d38b87d.html"/>
         <updated>2024-08-21T16:10:00.000Z</updated>
         <summary type="html"><![CDATA[Douglas County’s seasonally adjusted payroll employment dropped 150 jobs in July after a gain of 120 in June and a gain of 10 in May.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Overdose Awareness Day event Aug. 31]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6d199d0e-5fd7-11ef-ad64-3b4583ff25c8</id>
+        <link href="https://www.nrtoday.com/news/health/international-overdose-awareness-day-event-aug-31/article_6d199d0e-5fd7-11ef-ad64-3b4583ff25c8.html"/>
+        <updated>2024-08-21T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Adapt Integrated Health Care, HIV Alliance and Douglas Public Health Network are joining forces to host the second annual International Overdose Awareness Day event from 11 a.m. to 2 p.m. Aug. 31 at Stewart Park in Roseburg.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
         </author>
@@ -599,6 +689,19 @@ The 13-member committee The Adaptive Management Program Committee helps determin
         <summary type="html"><![CDATA[August 20, 2024 2:45 a.m. Saving Grace Pet Adoption Center has its Paws for a Cause Fundraiser happening September 20th at 5:00 p.m. at Melrose Vineyards. The event includes appetizers, dinner, wine or beer, both silent and live auctions, a paddle raise, raffle, dessert dash, stories about the animals and more. Tickets are $100 per...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDATE: Search Underway for Man Presumed Drowned at Diamond Lake (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=5204#news174631</id>
+        <link href="https://www.flashalert.net/news.html?id=5204#news174631"/>
+        <updated>2024-08-20T04:45:39.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE 08/19/2024 9:00 PM 
+DIAMOND LAKE, Ore. - Search efforts continued today in the search for a man who drowned at Diamond Lake on Saturday. 
+For the past two days, deputies have searched for signs of the victim, 37-year-old Chimanbai Patel of Bend, Oregon without success. On Saturday, August 17, 2024, at approximately 5:38 pm, 9-1-1 dispatchers received a report that Patel had been on a pontoon boat with friends at Diamond Lake when he jumped into the water to swim. Shortly after entering the water Patel went under and never resurfaced. 
+Deputies have enlisted the assistance of the Douglas County Sheriff's Office Dive Team, Douglas County Search and Rescue, Klamath County Sheriff's Office Search and Rescue, and Oregon State Police. Today, a dog trained in water recovery was deployed on…]]></summary>
+        <author>
+            <name>Douglas Co. Sheriff's Office</name>
         </author>
     </entry>
     <entry>
