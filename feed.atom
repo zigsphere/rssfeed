@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-21T23:10:46.113Z</updated>
+    <updated>2024-08-22T02:33:49.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ORENCO SYSTEMS TO BE ACQUIRED BY ADVANCED DRAINAGE SYSTEMS]]></title>
+        <id>https://kqennewsradio.com/?p=122792</id>
+        <link href="https://kqennewsradio.com/2024/08/21/orenco-systems-to-be-acquired-by-advanced-drainage-systems/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=orenco-systems-to-be-acquired-by-advanced-drainage-systems"/>
+        <updated>2024-08-21T23:24:06.000Z</updated>
+        <summary type="html"><![CDATA[August 22, 2024 4:20 p.m.  In the KQEN Business Spotlight: Advanced Drainage Systems Inc., a leading provider of innovative water management solutions in the stormwater and onsite septic wastewater industries, announced on Tuesday the signing of a definitive agreement pursuant to which the company’s wholly owned subsidiary, Infiltrator Water Technologies, will acquire Orenco Systems Inc....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 8/21/24]]></title>
         <id>https://kqennewsradio.com/?p=122785</id>
@@ -925,16 +935,6 @@ Marine Deputies, along with a rescue crew from Central Douglas Fire & Rescue and
 Today, searchers have returned to Diamond Lake to resume recovery efforts. Resources from Douglas County Marine Patrol, Douglas County Dive Team, Douglas County Search and Rescue, Klamath County Sheriff's Office Search and Rescue, and Oregon State Police are on scene.]]></summary>
         <author>
             <name>Douglas Co. Sheriff's Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DECREASE IN FIRE DANGER LEVELS CAUSES A DECREASE IN RESTRICTIONS]]></title>
-        <id>https://kqennewsradio.com/?p=122604</id>
-        <link href="https://kqennewsradio.com/2024/08/18/decrease-in-fire-danger-levels-causes-a-decrease-in-restrictions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=decrease-in-fire-danger-levels-causes-a-decrease-in-restrictions"/>
-        <updated>2024-08-18T12:21:01.000Z</updated>
-        <summary type="html"><![CDATA[August 18, 2024 5:20 a.m.  Industrial Fire Precaution Levels have decreased to IFPL LEVEL 2 on all lands protected by the Douglas Forest Protective Association. Public Information Officer Rachel Pope said that includes lands managed by the Bureau of Land Management. Pope said Public Use Restrictions have decreased to moderate for all private, county, state,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
