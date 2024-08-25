@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-25T13:11:51.722Z</updated>
+    <updated>2024-08-25T16:12:23.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn about 'Green Bag' food program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/456042b6-617d-11ef-bd36-43c2694e9c3c</id>
+        <link href="https://www.nrtoday.com/briefs/learn-about-green-bag-food-program/article_456042b6-617d-11ef-bd36-43c2694e9c3c.html"/>
+        <updated>2024-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Zonta Club of Roseburg will host a program at noon Wednesday at the Abby's Legendary Pizza annex, at 1661 NE Stephens St. in Roseburg, to discuss the Roseburg Food Project, known as the "Green Bag" program.]]></summary>
+        <author>
+            <name>WILL GESCHKE The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life in a fire camp: Watch the skies with an incident meteorologist]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5d9a2a3c-6028-11ef-9ac8-1f55566d115c</id>
