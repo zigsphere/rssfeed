@@ -474,6 +474,86 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1eaef244-654b-11ef-8055-07c40829e902",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Homestead Complex, burning on the Umpqua National Forest about 30 miles from Glide, was 50% contained, with just slight growth to 5,909 acres, as reported Tuesday afternoon.",
+          "link": "https://www.nrtoday.com/news/local/homestead-complex-50-contained-slight-growth/article_1eaef244-654b-11ef-8055-07c40829e902.html",
+          "publishedOn": "2024-08-28T14:37:00.000Z",
+          "wordCount": 13728,
+          "title": "Homestead Complex 50% contained, slight growth",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62207fa8-654a-11ef-977d-c360afe38e58",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "GREEN — A structure fire on Sunburst Court in the Green District was contained to the garage just after 4 p.m. Tuesday.",
+          "link": "https://www.nrtoday.com/news/local/garage-fire-quickly-doused/article_62207fa8-654a-11ef-977d-c360afe38e58.html",
+          "publishedOn": "2024-08-28T14:32:00.000Z",
+          "wordCount": 13490,
+          "title": "Garage fire quickly doused",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5dd2967e-64f6-11ef-b95d-27b83cbffc23",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DIAMOND LAKE — The U.S. Department of Agriculture Forest Service's National Technology and Development Program is running a solar power pilot program to collect data at multiple fire camps, including the Diamond Complex's camp in the Diamond Lake District of…",
+          "link": "https://www.nrtoday.com/news/environment/diamond-complex-fire-camp-tests-solar-generator-limits/article_5dd2967e-64f6-11ef-b95d-27b83cbffc23.html",
+          "publishedOn": "2024-08-28T14:15:00.000Z",
+          "wordCount": 14294,
+          "title": "Diamond Complex fire camp tests solar generator limits",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/73/b738d3e4-60ce-11ef-b0d9-dfb3f96973e9/66c7af928158d.image.jpg?resize=300%2C200",
+            "length": "332422",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/73/b738d3e4-60ce-11ef-b0d9-dfb3f96973e9/66c7af928158d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/731dad4c-64b6-11ef-beaa-d38f801c36dd",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Writing letters to strangers can be hard if you don't have a good topic to write about.",
+          "link": "https://www.nrtoday.com/news/local/send-a-letter-to-a-stranger-through-roseburg-library/article_731dad4c-64b6-11ef-beaa-d38f801c36dd.html",
+          "publishedOn": "2024-08-28T14:00:00.000Z",
+          "wordCount": 14121,
+          "title": "Send a letter to a stranger through Roseburg library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/87/787add74-64ba-11ef-ac2d-3f36adfd37d7/66ce4397f010f.image.jpg?resize=300%2C225",
+            "length": "344521",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/87/787add74-64ba-11ef-ac2d-3f36adfd37d7/66ce4397f010f.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/018da1d2-6191-11ef-98cc-07d1e3224252",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "Bumble and Bean coffee house is scheduled to open its doors at 410 SE Jackson Street in mid-October.",
+          "link": "https://www.nrtoday.com/business/bumble-and-bean-is-coming-to-jackson-street/article_018da1d2-6191-11ef-98cc-07d1e3224252.html",
+          "publishedOn": "2024-08-28T13:45:00.000Z",
+          "wordCount": 13918,
+          "title": "Bumble and Bean is coming to Jackson Street",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/57/157e7b40-64dd-11ef-a1a9-cb1d94e750ed/66ce7daa4c648.image.jpg?resize=300%2C200",
+            "length": "298354",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/57/157e7b40-64dd-11ef-a1a9-cb1d94e750ed/66ce7daa4c648.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3f651f56-6193-11ef-bc18-a7e99d36d33c",
+          "author": "LISA PLATT For The News-Review",
+          "description": "Going back to school is a time filled with excitement and anxiety.",
+          "link": "https://www.nrtoday.com/news/guest_submission/the-joys-and-stresses-of-returning-to-school/article_3f651f56-6193-11ef-bc18-a7e99d36d33c.html",
+          "publishedOn": "2024-08-28T13:45:00.000Z",
+          "wordCount": 13993,
+          "title": "The joys and stresses of returning to school",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06d4e076-e0a2-11ee-9f9a-2768e7a9d128/65f0a503dce0d.image.jpg?resize=300%2C375",
+            "length": "284352",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6d/06d4e076-e0a2-11ee-9f9a-2768e7a9d128/65f0a503dce0d.image.jpg?resize=300%2C375"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/85b66050-64f4-11ef-81d8-4bc956635028",
           "author": "SANNE GODFREY The News-Review",
           "description": "ROSEBURG — The Douglas County Courthouse and Justice Building closed early Tuesday due to a threat.",
@@ -642,36 +722,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/7b/b7b92ed6-5cc8-11ef-a139-67ebe8b1efed/66c0ef85b4cef.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c72310a-60fb-11ef-be1e-2fa286cba64e",
-          "author": "Kris Wiley for The News-Review",
-          "description": "As students and educators prepare for another school year, consider adding Roseburg Public Library to your back-to-school plans.",
-          "link": "https://www.nrtoday.com/family/add-the-library-to-your-back-to-school-plans/article_8c72310a-60fb-11ef-be1e-2fa286cba64e.html",
-          "publishedOn": "2024-08-25T02:58:00.000Z",
-          "wordCount": 13802,
-          "title": "Add the library to your back-to-school plans",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5b74bf40-6264-11ef-81ed-63208692f0b3",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "MELROSE — After taking two years off of competing in highland games, Anthony McIrvin was back on the field Saturday at the 2024 Highland Games and Clan Gathering at Melrose Vineyards.",
-          "link": "https://www.nrtoday.com/news/history/highland-games-off-to-smashing-start-after-venue-change/article_5b74bf40-6264-11ef-81ed-63208692f0b3.html",
-          "publishedOn": "2024-08-25T01:30:00.000Z",
-          "wordCount": 15162,
-          "title": "Highland Games off to smashing start after venue change",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e2/be2a57da-6269-11ef-b7aa-c31af117843f/66ca61295211f.image.jpg?resize=300%2C199",
-            "length": "439961",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e2/be2a57da-6269-11ef-b7aa-c31af117843f/66ca61295211f.image.jpg?resize=300%2C199"
         }
       ]
     },
@@ -685,7 +735,23 @@
       "title": "Central Douglas Fire & Rescue",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news174839",
+          "author": null,
+          "description": "At 4:08 on Tuesday afternoon, crews from Central Douglas Fire & Rescue were dispatched to a reported structure fire on Sunburst Court off of Ryland Drive in the Green District.  Initial reports indicated that the garage was on fire and the house was filling with smoke.\nThanks to the efficient response of our firefighters, the fire was contained to the garage and did not extend to the living quarters of the residence. Although the garage suffered significant damage, the most important thing to note is that the occupants and their pets were able to get out of the structure safely.  No injuries were reported by the residents or the firefighters working the scene.\nCDF&R responded to this incident with three fire engines and two command units, totaling 12 personnel.  Due to the heavy fire damage, crews could not determine the cause of the fire.  PP&L assisted crews at the scene.  The Red Cross was notified and assisted the occupants of the home.\n# # #",
+          "link": "https://www.flashalert.net/news.html?id=6158#news174839",
+          "publishedOn": "2024-08-28T14:29:19.000Z",
+          "wordCount": 871,
+          "title": "Structure Fire on Stonewood Court in Green",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-08/6158/174839/Sunburst_Ct._Press_Release.docx",
+            "length": "185947",
+            "type": "application/vnd.openxmlformats-o"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
