@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-29T19:09:46.535Z</updated>
+    <updated>2024-08-29T23:11:12.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 8.29.24]]></title>
+        <id>https://kqennewsradio.com/?p=123114</id>
+        <link href="https://kqennewsradio.com/2024/08/29/inside-douglas-county-8-29-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-8-29-24"/>
+        <updated>2024-08-29T20:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Valley Winegrowers Executive Director Ali Rodgers and Rob Ikola of Whitetail Ridge Vineyard talk about next month’s Harvest Tour event.  Find out more at: www.umpquavalleywineries.org]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MORNING CONVERSATION 8.29.24]]></title>
         <id>https://kqennewsradio.com/?p=123111</id>
@@ -882,56 +892,6 @@ The Emergency Fire Cost Committee (EFCC) oversees the Oregon Forest Land Protect
         <summary type="html"><![CDATA[The Roseburg VA Medical Center is holding a Mental Health Summit from 9 a.m. to 4 p.m. Sept. 19.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUMMER WEATHER RETURNS TO SOUTHERN OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=122941</id>
-        <link href="https://kqennewsradio.com/2024/08/26/summer-weather-returns-to-southern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=summer-weather-returns-to-southern-oregon"/>
-        <updated>2024-08-26T10:54:32.000Z</updated>
-        <summary type="html"><![CDATA[August 26, 2024 3:50 a.m. After some cooler temperatures and rain last week, summer weather has returned to the Umpqua Valley. Forecasters at the National Weather Service said the region will see at or above normal temperatures this week. Roseburg is expected to make it to the upper 80’s Monday before cooling to the low...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL WITH BUSY AGENDA MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=122939</id>
-        <link href="https://kqennewsradio.com/2024/08/26/roseburg-city-council-with-busy-agenda-monday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-with-busy-agenda-monday-night"/>
-        <updated>2024-08-26T10:28:37.000Z</updated>
-        <summary type="html"><![CDATA[August 26, 2024 3:30 a.m. The Roseburg City Council has a busy agenda for its meeting Monday night. Councilors will have second reading on several ordinances including a Comprehensive Plan Amendment, a legislative amendment for the Urban Growth Boundary Swap, a proposed prohibited camping amendment, and an ordinance regarding prohibited weapons, tools and other implements...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UACT OPENS SEASON WITH THE MOUSETRAP]]></title>
-        <id>https://kqennewsradio.com/?p=122936</id>
-        <link href="https://kqennewsradio.com/2024/08/26/uact-opens-season-with-the-mousetrap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uact-opens-season-with-the-mousetrap"/>
-        <updated>2024-08-26T10:22:32.000Z</updated>
-        <summary type="html"><![CDATA[August 26, 2024 3:20 a.m. In the KQEN Cultural Spotlight: Umpqua Actors Community Season is opening its 2024-2025 season with The Mousetrap. Along with producing the longest running play in the world, UACT is also introducing a brand-new director who is leading this Agatha Christie classic. While he has been on stage in many productions,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY YOUTH ORCHESTRA REGISTRATION UNDERWAY]]></title>
-        <id>https://kqennewsradio.com/?p=122934</id>
-        <link href="https://kqennewsradio.com/2024/08/26/umpqua-valley-youth-orchestra-registration-underway/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-youth-orchestra-registration-underway"/>
-        <updated>2024-08-26T10:14:19.000Z</updated>
-        <summary type="html"><![CDATA[August 26, 2024 3:05 a.m. In the KQEN Cultural Spotlight: The Umpqua Valley Youth Orchestra is holding registration for its 2024/2025 classes. They are offered for new students with no prior experience up to advanced players, ages 6 to adult, on the violin, viola, cello and string bass. Classes will start on September 12th and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENTLE YOGA FOR WELLNESS CLASSES AT ROSEBURG VA]]></title>
-        <id>https://kqennewsradio.com/?p=122929</id>
-        <link href="https://kqennewsradio.com/2024/08/26/gentle-yoga-for-wellness-classes-at-roseburg-va/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gentle-yoga-for-wellness-classes-at-roseburg-va"/>
-        <updated>2024-08-26T10:08:04.000Z</updated>
-        <summary type="html"><![CDATA[August 26, 2024 2:50 a.m. The Roseburg VA Medical Center is offering Gentle Yoga for Wellness classes for veterans and their family members. A VA release said they are designed specifically for veterans looking to enhance their physical and mental well-being. The class offers a supportive environment where participants can relax, rejuvenate, and connect with...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
