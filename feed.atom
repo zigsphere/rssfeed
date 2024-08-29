@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-28T23:11:40.868Z</updated>
+    <updated>2024-08-29T02:36:40.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW]]></title>
+        <id>https://kqennewsradio.com/?p=123071</id>
+        <link href="https://kqennewsradio.com/2024/08/28/mike-winters-lawn-and-garden-show-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-4"/>
+        <updated>2024-08-29T00:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, with our weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CHARGE MAN FOR CRIMINAL MISCHIEF-PUBLIC SAFETY CENTER]]></title>
         <id>https://kqennewsradio.com/?p=123069</id>
@@ -44,6 +54,16 @@
         <summary type="html"><![CDATA[Roseburg Police Chief Gary Klopfenstein and City Manager Nikki Messenger talks about changes regarding prohibited camping in Roseburg, following a recent Supreme Court decision, and city council action on Monday night. \]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observatory hosts stargazing party Friday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fb9cc558-64f8-11ef-95d9-b7be0479bef7</id>
+        <link href="https://www.nrtoday.com/briefs/observatory-hosts-stargazing-party-friday/article_fb9cc558-64f8-11ef-95d9-b7be0479bef7.html"/>
+        <updated>2024-08-28T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — The Paul Morgan observatory will host a stargazing party, starting at 8:30 p.m. Friday.]]></summary>
+        <author>
+            <name>The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +134,16 @@
         <summary type="html"><![CDATA[August 28, 2024 9:20 a.m. A structure fire was contained to a garage in Green on Tuesday afternoon. Battalion Chief Mitch Doss of Central Douglas Fire & Rescue said just before 4:10 p.m. crews were dispatched to a reported structure fire on Sunburst Court off Ryland Drive. Doss said initial reports indicated the garage was...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoke testing in sewers Thursday in Reedsport]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c029efae-6553-11ef-afb5-db1194cb75d6</id>
+        <link href="https://www.nrtoday.com/briefs/smoke-testing-in-sewers-thursday-in-reedsport/article_c029efae-6553-11ef-afb5-db1194cb75d6.html"/>
+        <updated>2024-08-28T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The city of Reedsport Public Works Department will conduct smoke tests of sanitary sewers on Thursday in the areas of Maple Street, Morris Place, Bellevue Drive and Rowe Street. These tests are to locate breaks and defects in the system.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -782,16 +812,6 @@ The Emergency Fire Cost Committee (EFCC) oversees the Oregon Forest Land Protect
         <summary type="html"><![CDATA[ROSEBURG — Zonta Club of Roseburg will host a program at noon Wednesday at the Abby's Legendary Pizza annex, at 1661 NE Stephens St. in Roseburg, to discuss the Roseburg Food Project, known as the "Green Bag" program.]]></summary>
         <author>
             <name>WILL GESCHKE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life in a fire camp: Watch the skies with an incident meteorologist]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5d9a2a3c-6028-11ef-9ac8-1f55566d115c</id>
-        <link href="https://www.nrtoday.com/news/local/life-in-a-fire-camp-watch-the-skies-with-an-incident-meteorologist/article_5d9a2a3c-6028-11ef-9ac8-1f55566d115c.html"/>
-        <updated>2024-08-25T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Editor’s Note:]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
