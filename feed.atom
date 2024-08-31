@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-08-31T13:13:15.941Z</updated>
+    <updated>2024-08-31T16:13:03.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extension Spotlight: Feeling saucy?]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/717db418-64a3-11ef-bb58-338bf65735ea</id>
+        <link href="https://www.nrtoday.com/news/education/extension-spotlight-feeling-saucy/article_717db418-64a3-11ef-bb58-338bf65735ea.html"/>
+        <updated>2024-08-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m not much of a gardener, yet somehow, this time of year, my dining room table still looks like a farm stand. Friends deliver zucchini, colleagues pile buckets of free-to-good-home plums in the break room, and flats filled with juicy…]]></summary>
+        <author>
+            <name>AIMEE LOVE For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHILDREN SUBJECT OF CALIFORNIA AMBER ALERT LOCATED, TWO ARRESTED]]></title>
+        <id>https://kqennewsradio.com/?p=123179</id>
+        <link href="https://kqennewsradio.com/2024/08/31/children-subject-of-california-amber-alert-located-two-arrested/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=children-subject-of-california-amber-alert-located-two-arrested"/>
+        <updated>2024-08-31T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[August 31, 2024 6:30 a.m. Two children, subject of a California Amber Alert, were located Friday and their non-custodial parents were arrested. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said at 1:30 p.m. DCSO deputies received information from the Los Angeles County Sheriff’s Department that a kidnapping suspect’s phone was near the Love’s...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG HAD RECORD HIGH TEMPERATURE ON FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=123177</id>
+        <link href="https://kqennewsradio.com/2024/08/31/roseburg-had-record-high-temperature-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-had-record-high-temperature-on-friday"/>
+        <updated>2024-08-31T13:09:58.000Z</updated>
+        <summary type="html"><![CDATA[August 30, 2024 6:00 a.m. Roseburg had a record high temperature for the date on Friday. Forecasters at the National Weather Service said the mercury reached 101 degrees at the Roseburg Regional Airport. The record for August 30th had been 99 degrees, set in 2022. Roseburg is forecast to reach 97 degrees on Saturday. The...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAS RECORD HIGH TEMPERATURE ON FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=123177</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[August 30, 2024 6:00 a.m. Roseburg had a record high temperature for the date on Friday. Forecasters at the National Weather Service said the mercury reached 101 degrees at the Roseburg Regional Airport. The record for August 30th had been 99 degrees, set in 2022. Roseburg is forecast to reach 97 degrees on Saturday. The...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg library facilitates letter-exchange project]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/246e7016-662b-11ef-a36b-6728e88d777d</id>
+        <link href="https://www.nrtoday.com/news/education/roseburg-library-facilitates-letter-exchange-project/article_246e7016-662b-11ef-a36b-6728e88d777d.html"/>
+        <updated>2024-08-31T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library is excited to partner on a letter-writing exchange project that connects Oregonians through the mail.]]></summary>
+        <author>
+            <name>Kris Wiley for The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -29,6 +69,16 @@ James and Bryant were lodged at the Douglas County Jail on the Kidnapping warran
 Assisting agencies included the Oregon State Police, Douglas Interagency Narcotics Team, Myrtle Creek Police Department and Oregon Department of Human Services – Child Welfare.]]></summary>
         <author>
             <name>Douglas Co. Sheriff's Office</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stargazer: Watch Saturn disappear behind the moon]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/48b49406-64f9-11ef-8647-eb54bae17c0e</id>
+        <link href="https://www.nrtoday.com/news/education/stargazer-watch-saturn-disappear-behind-the-moon/article_48b49406-64f9-11ef-8647-eb54bae17c0e.html"/>
+        <updated>2024-08-31T04:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Venus skims the horizon just after sunset. As the sky darkens, Saturn and Neptune appear in the southeast. Tonight, Uranus and Jupiter rise in the east southeast between 11 p.m. and midnight. By month’s close, Venus will set more than…]]></summary>
+        <author>
+            <name>PAUL MORGAN For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -792,90 +842,6 @@ CDF&R responded to this incident with three fire engines and two command units, 
         <summary type="html"><![CDATA[ROSEBURG — The Douglas County Courthouse and Justice Building closed early Tuesday due to a threat.]]></summary>
         <author>
             <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deputies Investigate Unfounded Threat at Douglas County Courthouse]]></title>
-        <id>https://www.flashalert.net/news.html?id=5204#news174836</id>
-        <link href="https://www.flashalert.net/news.html?id=5204#news174836"/>
-        <updated>2024-08-28T03:07:35.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG, Ore. - On Tuesday, August 27, 2024, shortly before the end of the business day, the Douglas County Sheriff’s Office investigated a reported threat at the Douglas County Courthouse and Justice Building Complex. 
-Out of an abundance of caution and in coordination with County Officials, the Courthouse and Justice Buildings were closed early, and all occupants were sent home for the day. 
-The incident has since been determined to not be credible and remains under further investigation. 
-The Courthouse and Justice Building complex will re-open tomorrow, Wednesday, August 28, 2024, at its normal time and all business will resume as normal. 
-No further information will be released at this time.]]></summary>
-        <author>
-            <name>Douglas Co. Sheriff's Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pitch Night applications are due Sept. 4]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/27533a26-64b6-11ef-bde6-47d9cc8440c5</id>
-        <link href="https://www.nrtoday.com/briefs/pitch-night-applications-are-due-sept-4/article_27533a26-64b6-11ef-bde6-47d9cc8440c5.html"/>
-        <updated>2024-08-27T20:51:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The final Umpqua Growth Talks Pitch Night of 2024, organized by the Umpqua Economic Development Partnership, is scheduled for 5 p.m. Oct. 16 at Backside Brewery, at 1640 NE Odell Ave. in Roseburg.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats host banquet, auction]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/17a56232-63e1-11ef-b783-6704efb0377d</id>
-        <link href="https://www.nrtoday.com/news/elections/democrats-host-banquet-auction/article_17a56232-63e1-11ef-b783-6704efb0377d.html"/>
-        <updated>2024-08-27T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The Democratic Party of Douglas County is hosting the 37th annual Flegel Banquet and Auction from 5-9 p.m. Sept. 14 at the Douglas County Fairgrounds.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg City Council approves changes to camping policies]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/86746ef2-642b-11ef-b09c-d378a7c027f8</id>
-        <link href="https://www.nrtoday.com/news/government/roseburg-city-council-approves-changes-to-camping-policies/article_86746ef2-642b-11ef-b09c-d378a7c027f8.html"/>
-        <updated>2024-08-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Those cited for camping in an urban setting can now face jail time following a Roseburg City Council decision Monday.]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban campground put on hold]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/20119838-63ef-11ef-9a30-bbd4dd9791e8</id>
-        <link href="https://www.nrtoday.com/news/government/urban-campground-put-on-hold/article_20119838-63ef-11ef-9a30-bbd4dd9791e8.html"/>
-        <updated>2024-08-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Plans for an urban campground in Roseburg are on hold while city officials look at whether one is still needed, following a recent Supreme Court ruling that shifted the laws surrounding the homeless.]]></summary>
-        <author>
-            <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freeway partially closed after wreck]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6841ddfe-6483-11ef-943c-6798869bf541</id>
-        <link href="https://www.nrtoday.com/news/local/freeway-partially-closed-after-wreck/article_6841ddfe-6483-11ef-943c-6798869bf541.html"/>
-        <updated>2024-08-27T14:48:00.000Z</updated>
-        <summary type="html"><![CDATA[CANYONVILLE — Interstate 5 was partially closed for a time, following an early morning wreck on Monday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to School: Students begin school year with excitement, nervousness]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9909a46c-63e8-11ef-81bb-834104265256</id>
-        <link href="https://www.nrtoday.com/news/education/back-to-school-students-begin-school-year-with-excitement-nervousness/article_9909a46c-63e8-11ef-81bb-834104265256.html"/>
-        <updated>2024-08-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Throughout the end of August and early September, schools are opening to welcome students for the 2024-25 school year. Multiple Douglas County schools welcomed students back to school Monday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life in a fire camp: Food keeps body and spirit healthy]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/71681254-63ed-11ef-a25e-77a1058b7e07</id>
-        <link href="https://www.nrtoday.com/news/local/life-in-a-fire-camp-food-keeps-body-and-spirit-healthy/article_71681254-63ed-11ef-a25e-77a1058b7e07.html"/>
-        <updated>2024-08-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A fire camp is a mini city. Single-person tents sit inside the perimeter of the designated sleeping area; large yurts or command posts are set up in orderly rows where people work; the kitchen in the middle of camp offers…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
