@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123195",
+          "author": "Kyle Bailey",
+          "description": "August 31, 2024 11:20 a.m. The Diamond Complex, burning on the Umpqua National Forest, remains 78 percent contained, with the acreage total revised downward slightly to 11,138 acres as of midday Saturday. 1,133 personnel are working on the complex. A UNF update said Saturday at 7:00 a.m. the Southern Area Hold Complex Incident Management Team...",
+          "link": "https://kqennewsradio.com/2024/08/31/diamond-complex-remains-78-percent-contained-1133-acres/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-complex-remains-78-percent-contained-1133-acres",
+          "publishedOn": "2024-08-31T18:24:27.000Z",
+          "wordCount": 1661,
+          "title": "DIAMOND COMPLEX REMAINS 78 PERCENT CONTAINED, 1,133 ACRES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240810161658/diamondsat.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=123188",
+          "author": "Kyle Bailey",
+          "description": "August 31, 2024 10:50 a.m. A Roseburg home sustained structural, smoke and water damage from an early morning fire on Saturday. Fire Chief Tyler Christopherson of the Roseburg Fire Department said just after 5:45 a.m. crews responded to a structure fire with smoke inside the home in the 500 block of West Warren Court, next...",
+          "link": "https://kqennewsradio.com/2024/08/31/roseburg-home-sustains-structural-smoke-and-water-damage/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-home-sustains-structural-smoke-and-water-damage",
+          "publishedOn": "2024-08-31T17:56:20.000Z",
+          "wordCount": 1683,
+          "title": "ROSEBURG HOME SUSTAINS STRUCTURAL, SMOKE AND WATER DAMAGE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240831165539/fire3-17.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=123186",
+          "author": "Kyle Bailey",
+          "description": "August 31, 2024 10:00 a.m. Crews with the Homestead Complex, burning in the Umpqua National Forest, continue securing, patrolling and finishing up containment throughout the fire area. A UNF update said the fire remains 60 percent contained and 5,910 acres as of midday Saturday. A high-pressure system dominates the atmosphere, causing unseasonably high temperatures. Friday...",
+          "link": "https://kqennewsradio.com/2024/08/31/homestead-complex-crews-work-on-finishing-up-containment/?utm_source=rss&utm_medium=rss&utm_campaign=homestead-complex-crews-work-on-finishing-up-containment",
+          "publishedOn": "2024-08-31T17:05:04.000Z",
+          "wordCount": 1741,
+          "title": "HOMESTEAD COMPLEX CREWS WORK ON FINISHING UP CONTAINMENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240818200839/home6.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123179",
           "author": "Kyle Bailey",
           "description": "August 31, 2024 6:30 a.m. Two children, subject of a California Amber Alert, were located Friday and their non-custodial parents were arrested. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said at 1:30 p.m. DCSO deputies received information from the Los Angeles County Sheriff’s Department that a kidnapping suspect’s phone was near the Love’s...",
@@ -985,7 +1015,23 @@
       "title": "Roseburg Fire Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5568",
       "siteUrl": "https://www.flashalert.net/news.html?id=5568",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5568#news174926",
+          "author": null,
+          "description": "At 5:47 a.m. on August 31, 2024, firefighters responded to a residential structure fire with reported smoke inside the home. Firefighters arrived on scene to find a single-family residential structure with flames and smoke showing from the back portion of the structure. Upon arrival, firefighters found a male resident and his dog were still inside the structure.  The resident and his dog were able to exit the home on their own at the direction of the firefighters.\nFire crews entered the single-family residence and made an interior attack. Crews extinguished the fire found to be in the attic space and completed overhaul of the structure.  The single-family residence sustained structural, smoke, and water damage. A fire investigator responded to the scene of the fire. The cause of the fire was determined to be electrical in nature.  Umpqua Valley Ambulance evaluated the resident for smoke inhalation. The resident refused treatment. Both the resident and his dog survived the fire.\nTen firefighters assisted with firefighting operations. Other agencies assisting with the fire included Umpqua Valley Ambulance, Central Douglas Fire & Rescue, Roseburg Police Department, Avista Utilities, and Pacific Power. \nThe Roseburg Fire Department would like to remind everyone of the importance of working smoke alarms and ensuring you have the appropriate number of smoke alarms installed in the home. Remember to make sure you have working smoke alarms on every level of your home, outside each sleeping area and in every bedroom. Roseburg Fire Department recommends that homeowners consider a home fire sprinkler system for increased protection.",
+          "link": "https://www.flashalert.net/news.html?id=5568#news174926",
+          "publishedOn": "2024-08-31T17:19:38.000Z",
+          "wordCount": 402,
+          "title": "Residential Structure Fire - 575 Warren Court - 8-31-24 (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-08/5568/174926/Image_1.jpg",
+            "length": "84029",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-08/5568/174926/Image_1.jpg"
+        }
+      ]
     },
     {
       "title": "Douglas Interagency Narcotics Team (DINT)",
