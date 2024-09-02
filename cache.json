@@ -447,31 +447,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/0a/80a51b86-65a5-11ef-ba1f-e72d9b9b448a/66cfcde965368.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b720c250-6690-11ef-acc2-577c1cd2f144",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "DOUGLAS COUNTY — Jordan Wade Eldridge, 28, was arrested Wednesday on charges of unauthorized use of motor vehicle, possession of a stolen vehicle, attempt to elude a police officer by vehicle and reckless driving.",
-          "link": "https://www.nrtoday.com/news/local/man-flees-from-police-in-stolen-car/article_b720c250-6690-11ef-acc2-577c1cd2f144.html",
-          "publishedOn": "2024-08-30T05:28:00.000Z",
-          "wordCount": 13531,
-          "title": "Man flees from police in stolen car",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c635ffc-668e-11ef-8d24-7be92ab0bf01",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "Wednesday's focus on the Homestead Complex was putting a police on primary and secondary control lines, according to a press release.",
-          "link": "https://www.nrtoday.com/news/local/firefighters-get-more-control-over-fires/article_8c635ffc-668e-11ef-8d24-7be92ab0bf01.html",
-          "publishedOn": "2024-08-30T05:13:00.000Z",
-          "wordCount": 13984,
-          "title": "Firefighters get more control over fires",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/cc/bcc01f50-668e-11ef-9cb4-db2c8bf04b25/66d15536f160f.image.jpg?resize=300%2C225",
-            "length": "453175",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/cc/bcc01f50-668e-11ef-9cb4-db2c8bf04b25/66d15536f160f.image.jpg?resize=300%2C225"
         }
       ]
     },
@@ -548,6 +523,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news174940",
+          "author": null,
+          "description": "Chiloquin, Ore. – Oregon Department of Forestry’s Incident Management Team 3 was mobilized last night to the Copperfield Fire in the Klamath-Lake District. The team will in brief at 1:00p.m. today and will enter unified command with the Oregon State Fire Marshal’s Red Team at 6:00 p.m. \nThe Copperfield Fire, 5 miles southeast of Chiloquin, is estimated to be 2,500 acres as of this morning. \nResources were successful overnight in laying dozer line from the heel of the fire and up the east and west flanks. Today, they will continue to work on creating dozer line along the north side of the fire to stop forward progression. Multiple air resources are on order today to help with suppression efforts. Southwest to west winds are expected to challenge the eastern fire lines throughout today. \n“Due to unfavorable weather conditions, this is a rapidly evolving incident.” Teresa Williams, Klamath-Lake District Forester said, “We’re grateful to have the help of the incident management teams in managing and working to contain this fire and protect our communities.”\nAccording to the National Weather Service, the area is in a Red Flag Warning until 8 p.m. tonight due to strong winds with gusts up to 40 mph and low humidity. A red flag warning is issued when there are weather conditions that promote rapid spread of fire which may become life-threatening.\nKlamath County Sheriff’s office has declared Level 3 (Go Now) evacuations east of Chiloquin. To check your evacuation status and for evacuation information, please visit https://www.klamathcounty.org/300/Emergency-Management.  Road closures are still in place from mile marker 5-15 on Sprague River Highway.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news174940",
+          "publishedOn": "2024-09-02T17:08:56.000Z",
+          "wordCount": 7254,
+          "title": "ODF Incident Management Team 3 deployed to the Copperfield Fire (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-09/1072/174940/20240902-Copperfield_Fire.pdf",
+            "length": "194937",
+            "type": "application/pdf"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news174934",
           "author": null,

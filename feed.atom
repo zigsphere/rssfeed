@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-02T16:14:47.946Z</updated>
+    <updated>2024-09-02T19:09:23.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ODF Incident Management Team 3 deployed to the Copperfield Fire (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=1072#news174940</id>
+        <link href="https://www.flashalert.net/news.html?id=1072#news174940"/>
+        <updated>2024-09-02T17:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Chiloquin, Ore. – Oregon Department of Forestry’s Incident Management Team 3 was mobilized last night to the Copperfield Fire in the Klamath-Lake District. The team will in brief at 1:00p.m. today and will enter unified command with the Oregon State Fire Marshal’s Red Team at 6:00 p.m. 
+The Copperfield Fire, 5 miles southeast of Chiloquin, is estimated to be 2,500 acres as of this morning. 
+Resources were successful overnight in laying dozer line from the heel of the fire and up the east and west flanks. Today, they will continue to work on creating dozer line along the north side of the fire to stop forward progression. Multiple air resources are on order today to help with suppression efforts. Southwest to west winds are expected to challenge the eastern fire lines throughout today. 
+“Due to unfavorable weather conditions, this is a rapidly evolving incident.” Teresa Williams, Klamath-Lake District Forester said, “We’re grateful to have the help of the incident management teams in managing and working to contain this fire and protect our communities.”
+According to the National Weather Service, the area is in a Red Flag Warning until 8 p.m. tonight due to strong winds with gusts up to 40 mph and low humidity. A red flag warning is issued when there are weather conditions that promote rapid spread of fire which may become life-threatening.
+Klamath County Sheriff’s office has declared Level 3 (Go Now) evacuations east of Chiloquin. To check your evacuation status and for evacuation information, please visit https://www.klamathcounty.org/300/Emergency-Management.  Road closures are still in place from mile marker 5-15 on Sprague River Highway.]]></summary>
+        <author>
+            <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CANYONVILLE WOMAN TAKEN TO HOSPITAL AFTER ATV WRECK]]></title>
         <id>https://kqennewsradio.com/?p=123211</id>
@@ -436,26 +451,6 @@ Assisting agencies included the Oregon State Police, Douglas Interagency Narcoti
         <summary type="html"><![CDATA[August 30, 2024 2:50 a.m. The Paul Morgan Observatory at Umpqua Community College is having a public stargazing event on Friday night. Knight Jarecki has the details: “Knight” Q: News Radio 93-9 FM and 1240 KQEN Astronomy Professor Dr. Paul Morgan said a 2-hour tour of the galaxy and beyond will be offered. Morgan said...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man flees from police in stolen car]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/b720c250-6690-11ef-acc2-577c1cd2f144</id>
-        <link href="https://www.nrtoday.com/news/local/man-flees-from-police-in-stolen-car/article_b720c250-6690-11ef-acc2-577c1cd2f144.html"/>
-        <updated>2024-08-30T05:28:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — Jordan Wade Eldridge, 28, was arrested Wednesday on charges of unauthorized use of motor vehicle, possession of a stolen vehicle, attempt to elude a police officer by vehicle and reckless driving.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefighters get more control over fires]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8c635ffc-668e-11ef-8d24-7be92ab0bf01</id>
-        <link href="https://www.nrtoday.com/news/local/firefighters-get-more-control-over-fires/article_8c635ffc-668e-11ef-8d24-7be92ab0bf01.html"/>
-        <updated>2024-08-30T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Wednesday's focus on the Homestead Complex was putting a police on primary and secondary control lines, according to a press release.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
 </feed>
