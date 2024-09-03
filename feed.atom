@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-02T23:11:58.725Z</updated>
+    <updated>2024-09-03T02:36:14.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man jailed after high speed chase]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ff2a90b4-6986-11ef-8bcc-73b86bdf1eba</id>
+        <link href="https://www.nrtoday.com/news/local/man-jailed-after-high-speed-chase/article_ff2a90b4-6986-11ef-8bcc-73b86bdf1eba.html"/>
+        <updated>2024-09-02T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — A 29-year-old Eugene man was arrested Friday after fleeing from police in a stolen vehicle.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIAMOND COMPLEX/MIDDLE FORK FIRES UPDATE]]></title>
         <id>https://kqennewsradio.com/?p=123216</id>
@@ -391,16 +401,6 @@ Assisting agencies included the Oregon State Police, Douglas Interagency Narcoti
         <summary type="html"><![CDATA[Douglas Forest Protective Association Public Information Officer Rachel Pope talks about fire danger concerns over Labor Day weekend and officers advice to those that are recreating]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incoming season changes bring new fruits and veggies]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/51e69588-6643-11ef-b37c-a38599325d3f</id>
-        <link href="https://www.nrtoday.com/news/environment/incoming-season-changes-bring-new-fruits-and-veggies/article_51e69588-6643-11ef-b37c-a38599325d3f.html"/>
-        <updated>2024-08-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The sun sets earlier than it did last month and the morning chill remains for a bit longer as August ends and September brings the fall season. As the weather changes, farmers switch over to the fall crops.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>

@@ -304,6 +304,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ff2a90b4-6986-11ef-8bcc-73b86bdf1eba",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — A 29-year-old Eugene man was arrested Friday after fleeing from police in a stolen vehicle.",
+          "link": "https://www.nrtoday.com/news/local/man-jailed-after-high-speed-chase/article_ff2a90b4-6986-11ef-8bcc-73b86bdf1eba.html",
+          "publishedOn": "2024-09-02T23:56:00.000Z",
+          "wordCount": 13594,
+          "title": "Man jailed after high speed chase",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3a5b7c10-63c5-11ef-8b14-c788ba45cfe2",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "South Umpqua School District is accepting applications for the one vacant position on the board of education for Zone 2 Position 2. The applicant will serve through June 30, 2025.",
@@ -382,21 +392,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d4/2d4aaf32-63ca-11ef-9754-f3dde30b4983/66ccb07297541.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/51e69588-6643-11ef-b37c-a38599325d3f",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The sun sets earlier than it did last month and the morning chill remains for a bit longer as August ends and September brings the fall season. As the weather changes, farmers switch over to the fall crops.",
-          "link": "https://www.nrtoday.com/news/environment/incoming-season-changes-bring-new-fruits-and-veggies/article_51e69588-6643-11ef-b37c-a38599325d3f.html",
-          "publishedOn": "2024-08-30T13:30:00.000Z",
-          "wordCount": 14426,
-          "title": "Incoming season changes bring new fruits and veggies",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/0a/80a51b86-65a5-11ef-ba1f-e72d9b9b448a/66cfcde965368.image.jpg?resize=300%2C200",
-            "length": "494566",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/0a/80a51b86-65a5-11ef-ba1f-e72d9b9b448a/66cfcde965368.image.jpg?resize=300%2C200"
         }
       ]
     },
