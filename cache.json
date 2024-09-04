@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123259",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn has our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/09/03/true-wealth-9-3-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-9-3-24",
+          "publishedOn": "2024-09-04T00:47:44.000Z",
+          "wordCount": 1532,
+          "title": "TRUE WEALTH 9.3.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240903234641/TW-9-3-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123251",
           "author": "Kyle Bailey",
           "description": "Peace at Home Advocacy Center Executive Director Melanie Prummer provides an update on the services offered by the non-profit.",
@@ -274,36 +289,6 @@
           "wordCount": 1741,
           "title": "HOMESTEAD COMPLEX CREWS WORK ON FINISHING UP CONTAINMENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240818200839/home6.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123179",
-          "author": "Kyle Bailey",
-          "description": "August 31, 2024 6:30 a.m. Two children, subject of a California Amber Alert, were located Friday and their non-custodial parents were arrested. Lieutenant Brad O’Dell of the Douglas County Sheriff’s Office said at 1:30 p.m. DCSO deputies received information from the Los Angeles County Sheriff’s Department that a kidnapping suspect’s phone was near the Love’s...",
-          "link": "https://kqennewsradio.com/2024/08/31/children-subject-of-california-amber-alert-located-two-arrested/?utm_source=rss&utm_medium=rss&utm_campaign=children-subject-of-california-amber-alert-located-two-arrested",
-          "publishedOn": "2024-08-31T13:37:00.000Z",
-          "wordCount": 1761,
-          "title": "CHILDREN SUBJECT OF CALIFORNIA AMBER ALERT LOCATED, TWO ARRESTED",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240831123651/Atrisk.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123177",
-          "author": "Kyle Bailey",
-          "description": "August 30, 2024 6:00 a.m. Roseburg had a record high temperature for the date on Friday. Forecasters at the National Weather Service said the mercury reached 101 degrees at the Roseburg Regional Airport. The record for August 30th had been 99 degrees, set in 2022. Roseburg is forecast to reach 97 degrees on Saturday. The...",
-          "link": "https://kqennewsradio.com/2024/08/31/roseburg-had-record-high-temperature-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-had-record-high-temperature-on-friday",
-          "publishedOn": "2024-08-31T13:09:58.000Z",
-          "wordCount": 1553,
-          "title": "ROSEBURG HAD RECORD HIGH TEMPERATURE ON FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123177",
-          "author": "Kyle Bailey",
-          "description": "August 30, 2024 6:00 a.m. Roseburg had a record high temperature for the date on Friday. Forecasters at the National Weather Service said the mercury reached 101 degrees at the Roseburg Regional Airport. The record for August 30th had been 99 degrees, set in 2022. Roseburg is forecast to reach 97 degrees on Saturday. The...",
-          "link": "https://kqennewsradio.com/2024/08/31/roseburg-has-record-high-temperature-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-has-record-high-temperature-on-friday",
-          "publishedOn": "2024-08-31T13:09:58.000Z",
-          "wordCount": 1552,
-          "title": "ROSEBURG HAS RECORD HIGH TEMPERATURE ON FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
         }
       ]
     },
@@ -318,6 +303,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/326423a6-6a53-11ef-a3c9-8b5efb234ad7",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "William Edward Wasyluk, 48, of Roseburg, stabbed a man in the knee with a knife, nicking an artery following an altercation around 1 p.m. Sunday at Stewart Park pavilion in Roseburg.",
+          "link": "https://www.nrtoday.com/news/crime/man-stabs-another-man-in-stewart-park-nicking-his-artery/article_326423a6-6a53-11ef-a3c9-8b5efb234ad7.html",
+          "publishedOn": "2024-09-04T01:30:00.000Z",
+          "wordCount": 13687,
+          "title": "Man stabs another man in Stewart Park, nicking his artery",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/42bb7c64-6a0c-11ef-afc7-c7b5c54b2907",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas Forest Protective Association will start issuing prescribed pasture burn permits.",
+          "link": "https://www.nrtoday.com/news/local/dfpa-to-issue-pasture-burn-permits/article_42bb7c64-6a0c-11ef-afc7-c7b5c54b2907.html",
+          "publishedOn": "2024-09-03T15:50:00.000Z",
+          "wordCount": 13458,
+          "title": "DFPA to issue pasture burn permits",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/51a496e0-6483-11ef-9335-6375e5fc8acd",
           "author": "Kyle Bailey For The News-Review",
@@ -436,36 +441,6 @@
           "publishedOn": "2024-08-31T17:25:00.000Z",
           "wordCount": 13982,
           "title": "Ready to get in the school spirit",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/717db418-64a3-11ef-bb58-338bf65735ea",
-          "author": "AIMEE LOVE For The News-Review",
-          "description": "I’m not much of a gardener, yet somehow, this time of year, my dining room table still looks like a farm stand. Friends deliver zucchini, colleagues pile buckets of free-to-good-home plums in the break room, and flats filled with juicy…",
-          "link": "https://www.nrtoday.com/news/education/extension-spotlight-feeling-saucy/article_717db418-64a3-11ef-bb58-338bf65735ea.html",
-          "publishedOn": "2024-08-31T14:00:00.000Z",
-          "wordCount": 13926,
-          "title": "Extension Spotlight: Feeling saucy?",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ed/9ed83cd4-64a4-11ef-aa37-ab970590e8a0/66ce1eef65fa8.image.jpg?resize=300%2C240",
-            "length": "292572",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ed/9ed83cd4-64a4-11ef-aa37-ab970590e8a0/66ce1eef65fa8.image.jpg?resize=300%2C240"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/246e7016-662b-11ef-a36b-6728e88d777d",
-          "author": "Kris Wiley for The News-Review",
-          "description": "Roseburg Public Library is excited to partner on a letter-writing exchange project that connects Oregonians through the mail.",
-          "link": "https://www.nrtoday.com/news/education/roseburg-library-facilitates-letter-exchange-project/article_246e7016-662b-11ef-a36b-6728e88d777d.html",
-          "publishedOn": "2024-08-31T10:30:00.000Z",
-          "wordCount": 13904,
-          "title": "Roseburg library facilitates letter-exchange project",
           "enclosure": {
             "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
             "length": "186332",
