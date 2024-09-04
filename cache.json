@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123306",
+          "author": "Kyle Bailey",
+          "description": "Our annual Back to School series begins with Superintendent Jared Cordon of Roseburg Public Schools.",
+          "link": "https://kqennewsradio.com/2024/09/04/inside-douglas-county-9-4-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-4-24",
+          "publishedOn": "2024-09-04T20:18:31.000Z",
+          "wordCount": 1541,
+          "title": "INSIDE DOUGLAS COUNTY 9.4.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240904191510/IDC-9-4-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240904191817/IMG_5221.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123304",
           "author": "Kyle Bailey",
           "description": "September 4, 2024 11:10 a.m. Roseburg Police cited a man for a DUII incident Tuesday evening. An RPD report said at approximately 10:15 p.m. officers responded to the 700 block of Northwest Garden Valley Boulevard after a witness reported seeing a pickup speeding and swerving on the roadway. Officers contacted the driver, a 21-year-old man,...",
@@ -429,6 +444,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/93fa7a7a-6acb-11ef-9515-2f9219cfd239",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A Portland man who served as the head men’s basketball coach at Mt. Hood Community College in Gresham was sentenced to federal prison Tuesday for persuading a child to send him sexually explicit images.",
+          "link": "https://www.nrtoday.com/news/local/former-college-coach-sentenced-to-federal-prison/article_93fa7a7a-6acb-11ef-9515-2f9219cfd239.html",
+          "publishedOn": "2024-09-04T14:40:00.000Z",
+          "wordCount": 13778,
+          "title": "Former college coach sentenced to federal prison",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9e/d9e8168c-15f8-5dad-ba51-35b7bac2d6f4/622bb3ab0a24d.image.jpg?crop=392%2C323%2C8%2C66&resize=300%2C247&order=crop%2Cresize",
+            "length": "28119",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9e/d9e8168c-15f8-5dad-ba51-35b7bac2d6f4/622bb3ab0a24d.image.jpg?crop=392%2C323%2C8%2C66&resize=300%2C247&order=crop%2Cresize"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Douglas Forest Protective Association increased the fire danger level to high and the Industrial Fire Precaution Level to level 3, effective Wednesday, because of high temperatures in the forecast.",
+          "link": "https://www.nrtoday.com/news/local/diamond-complex-is-11-141-acres-78-contained/article_e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2.html",
+          "publishedOn": "2024-09-04T13:00:00.000Z",
+          "wordCount": 14083,
+          "title": "Diamond Complex is 11,141 acres, 78% contained",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/326423a6-6a53-11ef-a3c9-8b5efb234ad7",
           "author": "KIMBERLI HOLMQUIST The News-Review",
           "description": "William Edward Wasyluk, 48, of Roseburg, stabbed a man in the knee with a knife, nicking an artery following an altercation around 1 p.m. Sunday at Stewart Park pavilion in Roseburg.",
@@ -557,21 +597,6 @@
           "wordCount": 13537,
           "title": "Vacant spot on South Umpqua School District board of directors",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c01bf2b8-662b-11ef-8a55-83b7224ac64e",
-          "author": "Aurora Ropp and Kris Wiley for The News Review",
-          "description": "With kids headed back to school, this is a great time to read books that mirror their experiences and introduce them to new ways of considering their classmates. We recommend these titles, all of which feature students navigating their education.",
-          "link": "https://www.nrtoday.com/news/education/ready-to-get-in-the-school-spirit/article_c01bf2b8-662b-11ef-8a55-83b7224ac64e.html",
-          "publishedOn": "2024-08-31T17:25:00.000Z",
-          "wordCount": 13982,
-          "title": "Ready to get in the school spirit",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
         }
       ]
     },

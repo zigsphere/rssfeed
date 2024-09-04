@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-04T19:09:30.668Z</updated>
+    <updated>2024-09-04T23:11:49.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.4.24]]></title>
+        <id>https://kqennewsradio.com/?p=123306</id>
+        <link href="https://kqennewsradio.com/2024/09/04/inside-douglas-county-9-4-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-4-24"/>
+        <updated>2024-09-04T20:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Our annual Back to School series begins with Superintendent Jared Cordon of Roseburg Public Schools.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR DUII INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=123304</id>
@@ -94,6 +104,26 @@
         <summary type="html"><![CDATA[Nikol Hansen from the Roseburg VA Medical Center talks about several upcoming events for veterans and the community.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former college coach sentenced to federal prison]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/93fa7a7a-6acb-11ef-9515-2f9219cfd239</id>
+        <link href="https://www.nrtoday.com/news/local/former-college-coach-sentenced-to-federal-prison/article_93fa7a7a-6acb-11ef-9515-2f9219cfd239.html"/>
+        <updated>2024-09-04T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A Portland man who served as the head men’s basketball coach at Mt. Hood Community College in Gresham was sentenced to federal prison Tuesday for persuading a child to send him sexually explicit images.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamond Complex is 11,141 acres, 78% contained]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2</id>
+        <link href="https://www.nrtoday.com/news/local/diamond-complex-is-11-141-acres-78-contained/article_e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2.html"/>
+        <updated>2024-09-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Forest Protective Association increased the fire danger level to high and the Industrial Fire Precaution Level to level 3, effective Wednesday, because of high temperatures in the forecast.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -543,16 +573,6 @@ For residents evacuating west, an evacuation center is being stood up at the Chi
         <summary type="html"><![CDATA[South Umpqua School District is accepting applications for the one vacant position on the board of education for Zone 2 Position 2. The applicant will serve through June 30, 2025.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready to get in the school spirit]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c01bf2b8-662b-11ef-8a55-83b7224ac64e</id>
-        <link href="https://www.nrtoday.com/news/education/ready-to-get-in-the-school-spirit/article_c01bf2b8-662b-11ef-8a55-83b7224ac64e.html"/>
-        <updated>2024-08-31T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[With kids headed back to school, this is a great time to read books that mirror their experiences and introduce them to new ways of considering their classmates. We recommend these titles, all of which feature students navigating their education.]]></summary>
-        <author>
-            <name>Aurora Ropp and Kris Wiley for The News Review</name>
         </author>
     </entry>
 </feed>
