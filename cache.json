@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123314",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden show.",
+          "link": "https://kqennewsradio.com/2024/09/04/mike-winters-lawn-and-garden-show-9-4-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-9-4-24",
+          "publishedOn": "2024-09-05T00:50:21.000Z",
+          "wordCount": 1547,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 9.4.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240904234643/MWLGS-9-4-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123306",
           "author": "Kyle Bailey",
           "description": "Our annual Back to School series begins with Superintendent Jared Cordon of Roseburg Public Schools.",
