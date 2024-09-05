@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123337",
+          "author": "Kyle Bailey",
+          "description": "Fire Information Officer Trish Boles has an update on the Diamond Complex fires.",
+          "link": "https://kqennewsradio.com/2024/09/05/morning-conversation-9-5-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-5-24",
+          "publishedOn": "2024-09-05T16:12:17.000Z",
+          "wordCount": 1541,
+          "title": "MORNING CONVERSATION 9.5.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240905150627/AM-CONV-9-5-24-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240810161658/diamondsat.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123332",
           "author": "Kyle Bailey",
           "description": "September 5, 2024 4:10 a.m.  A Heat Advisory remains in effect for Thursday from 12:00 p.m. to 10:00 p.m. for much of the region. Forecasters at the National Weather Service said afternoon high temperatures between 100 and 105 degrees are expected. The Advisory area includes Douglas, Josephine, Jackson and eastern Curry counties. Forecasters said hot...",
@@ -681,7 +696,18 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news175009",
+          "author": null,
+          "description": "DOUGLAS COUNTY, Ore. - Scammers are posing as officials from the Douglas County Sheriff’s Office (DCSO) in an effort to scam community members out of money. Deputies have once again begun receiving reports from people contacted by phone by individuals posing as DCSO employees. \nThe scammer will tell the intended victim they have missed some court appearance, failed to appear for jury duty, they owe fines or have a warrant for their arrest and eventually demands payment. The victim is often directed to immediately make payment or they face consequences including arrest. These are tactics that are never utilized by legitimate law enforcement agencies. \nIt is critically important for our community to be aware of these tactics and to share them with their friends and family members, especially those who may be vulnerable to falling victim to the scams, such as the elderly members of the community. However, we also wish to remind the community not to focus too much on specific scam tactics; scammers often change their methods over time:\n\nScammers can easily obtain new phone numbers and will change them often.\nScammers may use “spoof” programs to make the Caller ID show an agency’s actual phone number.  \nScammers may use the names of actual DCSO employees to make the call seem legitimate.  \nScammers may obtain personal information about a victim online including their name, address, phone number, and the names of others in the home. \nScammers may initially contact victims by mail, email, or through social media.\n\nDue to the technology used in the scam – and the fact that scammers can be located anywhere in the world – it is virtually impossible to track the scammers or to get money back.\n“If anyone has any question about a possible scam call, they should call dispatch at (541) 440-4471 and ask to speak to a deputy,” said Lieutenant Brad O'Dell.  “The most important thing is to not send any money or agree to meet someone to make payment.”",
+          "link": "https://www.flashalert.net/news.html?id=5204#news175009",
+          "publishedOn": "2024-09-05T14:49:51.000Z",
+          "wordCount": 5300,
+          "title": "Scammers Preying on Community Members",
+          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
+        }
+      ]
     },
     {
       "title": "Roseburg Police Dept.",
@@ -717,21 +743,6 @@
           "enclosure": {
             "url": "http://www.flashalertnewswire.net/images/news/2024-09/1072/174940/20240902-Copperfield_Fire.pdf",
             "length": "194937",
-            "type": "application/pdf"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=1072#news174934",
-          "author": null,
-          "description": "Correction: The Copperfield Fire is reported at 1000 acres as of 7:30 p.m.. \nChiloquin, Ore. – Oregon Department of Forestry’s Klamath-Lake District, alongside federal, state, local and private partners, is responding to the Copperfield Fire five miles southeast of Chiloquin, Ore. The fire is approximately 1000 acres as of 7:30 p.m. today with high fire potential. \nFirefighters responded to the fire around 3:00 p.m. today, September 1. Even with aggressive initial attack, the fire progression has not yet been stopped. Last reported at 4:30 p.m., there were six engines, five airtankers, two helicopters, two water tenders and four dozers on scene with more resources ordered and on the way. Night operations will continue to work as we move into the evening. \nKlamath County Sheriff’s office has declared Level 3 (Go Now) evacuations east of Chiloquin, Sprague River Road mile post 6-7. To check your evacuation status, please visit https://www.klamathcounty.org/300/Emergency-Management. \nFor residents evacuating west, an evacuation center is being stood up at the Chiloquin Community Center. Residents headed east on Sprague River Hwy. are being asked to head to the town of Sprague River. Sprague River Hwy is currently closed between mile post 5 to Lone Pine mile post 15.",
-          "link": "https://www.flashalert.net/news.html?id=1072#news174934",
-          "publishedOn": "2024-09-02T02:37:34.000Z",
-          "wordCount": 6973,
-          "title": "Correction: Firefighters respond to Copperfield Fire near Chiloquin (Photo)",
-          "enclosure": {
-            "url": "http://www.flashalertnewswire.net/images/news/2024-09/1072/174934/20240901-Copperfield_Fire.pdf",
-            "length": "191262",
             "type": "application/pdf"
           },
           "imageUrl": null
