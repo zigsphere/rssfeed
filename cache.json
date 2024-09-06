@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123423",
+          "author": "Kyle Bailey",
+          "description": "Our Back to School series continues with Superintendent Erika Bare of the South Umpqua School District.",
+          "link": "https://kqennewsradio.com/2024/09/06/inside-douglas-county-9-6-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-6-24",
+          "publishedOn": "2024-09-06T20:26:34.000Z",
+          "wordCount": 1546,
+          "title": "INSIDE DOUGLAS COUNTY 9.6.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240906191843/IDC-9-6-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240906192615/IMG_5231.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123421",
           "author": "Kyle Bailey",
           "description": "September 6, 2024 11:20 a.m.  Decreased temperatures throughout the night limited fire activity and spread on the Devils Knob Fire, burning in the Tiller area. Douglas Forest Protective Association Public Information Officer Rachel Pope said the fire is estimated between 1,200 and 1,500 acres as of midday Friday. Pope said crews continue to engage in...",
@@ -674,56 +689,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240903151416/IMG_5215.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123227",
-          "author": "Kyle Bailey",
-          "description": "September 2, 2024 3:40 a.m.  The National Weather Service has issued a Heat Advisory from 12:00 p.m. to 8:00 p.m. Thursday for much of southern Oregon. Forecasters said high temperatures of 100 to 105 degrees will be around 20 degrees above normal. The Advisory area includes Douglas, Josephine, Jackson and eastern Curry counties. At and...",
-          "link": "https://kqennewsradio.com/2024/09/03/heat-advisory-at-and-near-record-high-temperatures-expected/?utm_source=rss&utm_medium=rss&utm_campaign=heat-advisory-at-and-near-record-high-temperatures-expected",
-          "publishedOn": "2024-09-03T10:35:31.000Z",
-          "wordCount": 1635,
-          "title": "HEAT ADVISORY: AT AND NEAR RECORD HIGH TEMPERATURES EXPECTED",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240903093520/heat-5.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123224",
-          "author": "Kyle Bailey",
-          "description": "September 3, 2024 3:30 a.m. Motorists on Oregon 138W between Elkton and Sutherlin can expect delays for most of September due to a slide repair project. Dan Latham of the Oregon Department of Transportation said construction is underway at milepost 4.8 near the entrance to the Big K Guest Ranch. Latham said flaggers will provide...",
-          "link": "https://kqennewsradio.com/2024/09/03/slide-repair-project-will-delay-traffic-on-oregon-138w-near-elkton/?utm_source=rss&utm_medium=rss&utm_campaign=slide-repair-project-will-delay-traffic-on-oregon-138w-near-elkton",
-          "publishedOn": "2024-09-03T10:04:00.000Z",
-          "wordCount": 1678,
-          "title": "SLIDE REPAIR PROJECT WILL DELAY TRAFFIC ON OREGON 138W NEAR ELKTON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240903090342/slide.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123222",
-          "author": "Kyle Bailey",
-          "description": "September 3, 2024 3:20 a.m. The YMCA of Douglas County is reopening Tuesday after a weeklong closure due to facility enhancements. A YMCA release said this was not the annual maintenance and improvement closure, but rather was elevated like never before due to tremendous support from the community. The enhancements include: *Family Locker Room Remodel...",
-          "link": "https://kqennewsradio.com/2024/09/03/ymca-reopens-after-facility-enhancements/?utm_source=rss&utm_medium=rss&utm_campaign=ymca-reopens-after-facility-enhancements",
-          "publishedOn": "2024-09-03T10:00:43.000Z",
-          "wordCount": 1699,
-          "title": "YMCA REOPENS AFTER FACILITY ENHANCEMENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215720/ymca_prpl_rgb_r-e1622111471592.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123220",
-          "author": "Kyle Bailey",
-          "description": "September 3, 2024 3:05 a.m.  The Friendly Kitchen/Meals on Wheels Roseburg is partnering with the Douglas County Farmer’s Co-Op for a month-long fundraiser that just got underway. Co-Op customers have an opportunity to donate with a “coupon” purchase of any amount at the store registers. One hundred percent will benefit the Friendly Kitchen/Meals on Wheels...",
-          "link": "https://kqennewsradio.com/2024/09/03/meals-on-wheels-d-c-farmers-co-op-partner-for-fundraiser/?utm_source=rss&utm_medium=rss&utm_campaign=meals-on-wheels-d-c-farmers-co-op-partner-for-fundraiser",
-          "publishedOn": "2024-09-03T09:56:32.000Z",
-          "wordCount": 1617,
-          "title": "MEALS ON WHEELS/D.C. FARMERS CO-OP PARTNER FOR FUNDRAISER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230912095457/meals.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123218",
-          "author": "Kyle Bailey",
-          "description": "September 3, 2024 2:50 a.m. An Oakland man was jailed for an alleged overnight DUII incident early Saturday. A Douglas County Sheriff’s Office report said at 2:00 a.m. a victim was turning his vehicle onto the 4000 block of Old Highway 99 South in the Oakland area when an SUV failed to stop at the...",
-          "link": "https://kqennewsradio.com/2024/09/03/oakland-man-jailed-for-alleged-overnight-duii-incident/?utm_source=rss&utm_medium=rss&utm_campaign=oakland-man-jailed-for-alleged-overnight-duii-incident",
-          "publishedOn": "2024-09-03T09:52:36.000Z",
-          "wordCount": 1624,
-          "title": "OAKLAND MAN JAILED FOR ALLEGED OVERNIGHT DUII INCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
@@ -749,6 +714,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0d5156ba-6c7e-11ef-93ab-7bc0727cec5c",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Decreased temperatures limited fire activity and spread of the Devils Knob fire in Tiller.",
+          "link": "https://www.nrtoday.com/news/local/south-county-fire-updates/article_0d5156ba-6c7e-11ef-93ab-7bc0727cec5c.html",
+          "publishedOn": "2024-09-06T18:30:00.000Z",
+          "wordCount": 13574,
+          "title": "South County fire updates",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ebeb7766-6c65-11ef-b675-9b2eb02126f9",
           "author": "Kyle Bailey For The News-Review",
@@ -1084,6 +1059,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news175076",
+          "author": null,
+          "description": "SALEM, Ore. — The Committee for Family Forestlands will meet virtually on Thursday, Sept. 12 from 9 a.m. to 2 p.m. To join virtually, please use the Zoom video conference information found on the agenda. \nThe committee’s agenda includes:\n\nForest Resources Division update\nDiscuss vacant industry representative position\nSmall Forestland Investment in Stream Habitat Program (SFISH) one-pager\nProtection Division update\nProtection messaging and prevention\nBoard of Forestry update\nDiscuss upcoming meeting schedule and agenda topics\n\nThe meeting is open to the public to attend online via Zoom. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 24 hours before the meeting by emailing committee.of.family.forestlands@odf.oregon.gov.\nThe 13-member committee researches policies that affect family forests, natural resources and forestry benefits. Based on its findings, the committee recommends actions to the Oregon Board of Forestry and the State Forester. View more information on the CFF webpage.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news175076",
+          "publishedOn": "2024-09-06T22:48:55.000Z",
+          "wordCount": 8494,
+          "title": "Committee for Family Forestlands meets on Sept. 12",
+          "imageUrl": null
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news175046",
           "author": null,
