@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-08T13:13:52.043Z</updated>
+    <updated>2024-09-08T16:13:33.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Julie Cherry to lead Umpqua Valley Christian]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4797945a-6c0c-11ef-9a39-6f7fefeecbdd</id>
+        <link href="https://www.nrtoday.com/news/education/julie-cherry-to-lead-umpqua-valley-christian/article_4797945a-6c0c-11ef-9a39-6f7fefeecbdd.html"/>
+        <updated>2024-09-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Julie Cherry is bringing her 15 years of education experience and music program managing to her new role as superintendent at Umpqua Valley Christian School.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVILS KNOB/MILEPOST 98 FIRE UPDATES]]></title>
+        <id>https://kqennewsradio.com/?p=123449</id>
+        <link href="https://kqennewsradio.com/2024/09/08/devils-knob-milepost-98-fire-updates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=devils-knob-milepost-98-fire-updates"/>
+        <updated>2024-09-08T13:48:12.000Z</updated>
+        <summary type="html"><![CDATA[September 8, 2024 6:45 a.m. The Northwest Interagency Incident Management Team #13 assumed command of both the Devil’s Knob and MP98 fires as of 6:00 a.m. Sunday. The Devil’s Knob Fire in the Tiller area is estimated to be between 2,500 and 2.800 acres as of Saturday evening. On Saturday, crews on the northern part...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVACUATION DOWNGRADE NOTICE FOR MILE POST 98 FIRE]]></title>
+        <id>https://kqennewsradio.com/?p=123446</id>
+        <link href="https://kqennewsradio.com/2024/09/08/evacuation-downgrade-notice-for-mile-post-98-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=evacuation-downgrade-notice-for-mile-post-98-fire"/>
+        <updated>2024-09-08T13:23:29.000Z</updated>
+        <summary type="html"><![CDATA[September 8, 2024 6:20 a.m. Late Saturday night, the Douglas County Sheriff’s Office issued a downgrade notice for all homes within the previously established evacuation zones for the Mile Post 98 fire in the Canyonville area. *Downgraded to a Level 2 – Be Set for: The 100 to 7500 block of Richie Road to Canyon...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update to Wildfire Evacuation Notices Issued for Mile Post 98 Fire]]></title>
         <id>https://www.flashalert.net/news.html?id=5204#news175092</id>
@@ -787,16 +817,6 @@ Due to the technology used in the scam – and the fact that scammers can be loc
         <summary type="html"><![CDATA[September 5, 2024 2:50 a.m. Greater Douglas United Way has their 42nd annual Dave Johnson Memorial Golf Tournament happening next Thursday. The event returns to Bar Run Golf Course west of Roseburg. Proceeds will benefit GDUW’s annual fundraising campaign thanks to generous loyal sponsors, enthusiastic golfers, volunteers and United Way staff. The tournament is sponsored...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogs show tricks, obedience and skill]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cddcd782-6b12-11ef-9607-a78357729500</id>
-        <link href="https://www.nrtoday.com/news/dogs-show-tricks-obedience-and-skill/article_cddcd782-6b12-11ef-9607-a78357729500.html"/>
-        <updated>2024-09-04T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Jacque Keller's dachshund Inky Ball will drive a battery-operated car in the expert level trick dog testing competition at the Umpqua Valley Kennel Club's dog show at the Douglas County Fairgrounds.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
 </feed>
