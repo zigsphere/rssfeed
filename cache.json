@@ -600,6 +600,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/538ec3d2-6d65-11ef-8097-db020601967f",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Northwest Interagency Incident Management Team 13 will take over command of the Devils Knob and Milepost 98 fires at 6 a.m. Sunday.",
+          "link": "https://www.nrtoday.com/news/local/new-team-to-take-command-of-south-county-fires/article_538ec3d2-6d65-11ef-8097-db020601967f.html",
+          "publishedOn": "2024-09-08T00:30:00.000Z",
+          "wordCount": 14011,
+          "title": "New team to take command of south county fires",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/65/665984a8-6d6e-11ef-ad68-5ff2402d3233/66dcdd70451b5.image.jpg?resize=300%2C200",
+            "length": "217740",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/65/665984a8-6d6e-11ef-ad68-5ff2402d3233/66dcdd70451b5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f2a444ea-6b14-11ef-b9b3-2f3ca32d1250",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "SUTHERLIN — Children played on the new playground equipment and on the splash pad Friday afternoon at the grand opening of Ford’s Pond Community Park in Sutherlin.",
+          "link": "https://www.nrtoday.com/news/grand-opening-of-fords-pond-in-sutherlin/article_f2a444ea-6b14-11ef-b9b3-2f3ca32d1250.html",
+          "publishedOn": "2024-09-07T23:25:00.000Z",
+          "wordCount": 14406,
+          "title": "Grand opening of Ford's Pond in Sutherlin",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/3f/43fc9988-6c9f-11ef-8dad-6f212c5abf20/66db81ecc4750.image.jpg?resize=300%2C200",
+            "length": "363624",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/3f/43fc9988-6c9f-11ef-8dad-6f212c5abf20/66db81ecc4750.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4c00323e-6d67-11ef-9102-6b915e7f5d97",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "WINCHESTER BAY — Anthony Knight of Medford died following a boating accident Thursday in Winchester Bay, according to a press release from the Douglas County Sheriff's Office.",
+          "link": "https://www.nrtoday.com/news/local/dcso-investigates-boating-accidents-including-fatality/article_4c00323e-6d67-11ef-9102-6b915e7f5d97.html",
+          "publishedOn": "2024-09-07T22:19:00.000Z",
+          "wordCount": 13580,
+          "title": "DCSO investigates boating accidents, including fatality",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f1198534-6c8d-11ef-b162-e7e785894c52",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "Painters were sipping on Hurricane slushies, white wine blends, and Irish cream pumkin spice slushies as they painted door hangers and porch leaners Saturday morning at JosephJane Winery.",
+          "link": "https://www.nrtoday.com/news/paint-sip-at-josephjane-winery/article_f1198534-6c8d-11ef-b162-e7e785894c52.html",
+          "publishedOn": "2024-09-07T20:23:00.000Z",
+          "wordCount": 14429,
+          "title": "Paint & Sip at JosephJane Winery",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/fc/bfc0fcfa-6d60-11ef-a1ee-b30984754ce5/66dcc6894e12a.image.jpg?resize=300%2C200",
+            "length": "260693",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/fc/bfc0fcfa-6d60-11ef-a1ee-b30984754ce5/66dcc6894e12a.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c75247bc-6c7f-11ef-b876-53b0436aad46",
           "author": "JENNIFER COALWELL For The News-Review",
           "description": "Are you searching for your next volunteering spot? Need some fresh inspiration? Then get ready for Douglas County’s Second Annual Volunteer Recruitment Fair taking place Sept. 21 in the Aviva Health parking lot on Kenneth Ford Drive next to Costco.",
@@ -778,31 +833,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/b3/7b329eee-6bb8-11ef-aa02-c3cb6b6a4603/66d9febba855f.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/93fa7a7a-6acb-11ef-9515-2f9219cfd239",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "A Portland man who served as the head men’s basketball coach at Mt. Hood Community College in Gresham was sentenced to federal prison Tuesday for persuading a child to send him sexually explicit images.",
-          "link": "https://www.nrtoday.com/news/local/former-college-coach-sentenced-to-federal-prison/article_93fa7a7a-6acb-11ef-9515-2f9219cfd239.html",
-          "publishedOn": "2024-09-04T14:40:00.000Z",
-          "wordCount": 13778,
-          "title": "Former college coach sentenced to federal prison",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9e/d9e8168c-15f8-5dad-ba51-35b7bac2d6f4/622bb3ab0a24d.image.jpg?crop=392%2C323%2C8%2C66&resize=300%2C247&order=crop%2Cresize",
-            "length": "28119",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9e/d9e8168c-15f8-5dad-ba51-35b7bac2d6f4/622bb3ab0a24d.image.jpg?crop=392%2C323%2C8%2C66&resize=300%2C247&order=crop%2Cresize"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The Douglas Forest Protective Association increased the fire danger level to high and the Industrial Fire Precaution Level to level 3, effective Wednesday, because of high temperatures in the forecast.",
-          "link": "https://www.nrtoday.com/news/local/diamond-complex-is-11-141-acres-78-contained/article_e2b8db08-6a43-11ef-bfd8-4bd5380f2ae2.html",
-          "publishedOn": "2024-09-04T13:00:00.000Z",
-          "wordCount": 14083,
-          "title": "Diamond Complex is 11,141 acres, 78% contained",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
