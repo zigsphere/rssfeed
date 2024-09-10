@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123522",
+          "author": "Kyle Bailey",
+          "description": "U.S. Senator Jeff Merkley joins us live to share his thoughts on a number of issues facing Congress.",
+          "link": "https://kqennewsradio.com/2024/09/10/morning-conversation-9-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-10-24",
+          "publishedOn": "2024-09-10T16:08:04.000Z",
+          "wordCount": 1539,
+          "title": "MORNING CONVERSATION 9.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240910150648/AM-CONV-9-10-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123518",
           "author": "Kyle Bailey",
           "description": "September 10, 2024 4;00 a.m. An Air Pollution Advisory has been issued by the Oregon Department of Environmental Quality and remains in effect through 5:00 p.m. Wednesday. The Advisory is in place for eastern Douglas, northern Klamath and northern Lake counties. Wildfires burning in the region combined with forecast conditions will cause air quality levels...",
@@ -550,16 +565,6 @@
           "publishedOn": "2024-09-07T17:58:52.000Z",
           "wordCount": 6338,
           "title": "Deputies Investigate Two Boating Accidents, One Fatal",
-          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news175079",
-          "author": null,
-          "description": "TILLER, Ore. - This is a wildfire emergency alert from the Douglas County Sheriff's Office. This is an UPGRADE from a Level 1 to a Level 3 – GO NOW! for the following areas: East side of Tiller Trail Hwy 34000 to 36760 block. Also, Tison Road, Diamond Elk Road, Joe Hall area.\n\nLevel 3 – GO NOW means leave without delay, it is unsafe to stay and threatens the safety of you, your family, and emergency responders.\nEmergency services personnel may not be available to help you if you choose to stay.\n• Do not stop to gather your belongings or protect your home. Follow your emergency plan.\n• Leave as fast as safely possible. Drive carefully. Turn on your headlights. Follow traffic safety warnings and instructions from local authorities.\n \nUse TripCheck.com (Road & Weather Conditions Map | TripCheck - Oregon Traveler Information) or call 511 for road closure information.\nAfter you evacuate:\n• Do not return to the area until public safety officials announce the area is safe. • Continue to check for updates through local city and county websites, social media, TV, and radio.\n• An interactive wildfire evacuation map can be located at: www.dcso.com/evacuations\n• Once you are safe, check with friends and family.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news175079",
-          "publishedOn": "2024-09-07T03:33:21.000Z",
-          "wordCount": 5973,
-          "title": "Level 3 - GO NOW! Wildfire Evacuation Notices Issued for Devils Knob Fire, Tiller",
           "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
         }
       ]
