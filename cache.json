@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123548",
+          "author": "Kyle Bailey",
+          "description": "September 10, 2024 2:00 p.m.  An Idleyld Park man died in a two-vehicle accident early Monday morning. An Oregon State Police report said shortly at 6:00 a.m. troopers responded to the wreck on Highway 138E near milepost 18, approximately one mile east of Glide. The preliminary investigation indicated that a motorcycle, operated by 38-year-old Thomas...",
+          "link": "https://kqennewsradio.com/2024/09/10/idleyld-park-man-dies-in-a-two-vehicle-accident/?utm_source=rss&utm_medium=rss&utm_campaign=idleyld-park-man-dies-in-a-two-vehicle-accident",
+          "publishedOn": "2024-09-10T21:05:04.000Z",
+          "wordCount": 1610,
+          "title": "IDLEYLD PARK MAN DIES IN A TWO-VEHICLE ACCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=123543",
+          "author": "Kyle Bailey",
+          "description": "Sutherlin School District Superintendent Terry Prestianni talks about what’s happening in the district as part of our Back to School series.",
+          "link": "https://kqennewsradio.com/2024/09/10/inside-douglas-county-9-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-10-24",
+          "publishedOn": "2024-09-10T20:12:31.000Z",
+          "wordCount": 1549,
+          "title": "INSIDE DOUGLAS COUNTY 9.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240910190530/IDC-9-10-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240910191209/IMG_5242-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123540",
           "author": "Kyle Bailey",
           "description": "September 10, 2024 11:00 a.m. Fires on the Homestead Complex have grown by over 300 acres as of midday Tuesday. An Umpqua National Forest update said fire behavior remains very active on the northern flank of the Horse Heaven Creek, Fuller Lake and Bullpup fires. Fire updates: *Horse Heaven Creek Fire remains at 2,539 acres...",
@@ -424,6 +449,101 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2576afc0-6fb6-11ef-89c4-5375d9a2ceff",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A man died Monday morning in a two-vehicle crash on Highway 138 East, approximately one mile east of Glide.",
+          "link": "https://www.nrtoday.com/news/local/motorcycle-rider-dies-in-crash-monday-morning/article_2576afc0-6fb6-11ef-89c4-5375d9a2ceff.html",
+          "publishedOn": "2024-09-10T20:49:00.000Z",
+          "wordCount": 13479,
+          "title": "Motorcycle rider dies in crash Monday morning",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/eaa5e83e-6f29-11ef-b2c2-0fd2ed032cff",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — In a special meeting Monday evening, the Glide School District board of directors voted to \"accept the report and findings\" from a third-party investigation.",
+          "link": "https://www.nrtoday.com/briefs/glide-board-accepts-report-on-investigation/article_eaa5e83e-6f29-11ef-b2c2-0fd2ed032cff.html",
+          "publishedOn": "2024-09-10T16:15:00.000Z",
+          "wordCount": 13465,
+          "title": "Glide board accepts report on investigation",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dccb1326-6ebe-11ef-aca0-f7bab3b1d149",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "SUTHERLIN — Refundable cans and bottles can be donated to the Sutherlin Lions at the collection bins on the northeast corner of Central and State Street, at 175 E. 1st Ave. or at SKP Park in Sutherlin.",
+          "link": "https://www.nrtoday.com/news/local/sutherlin-lions-take-donations/article_dccb1326-6ebe-11ef-aca0-f7bab3b1d149.html",
+          "publishedOn": "2024-09-10T15:19:00.000Z",
+          "wordCount": 13439,
+          "title": "Sutherlin Lions take donations",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1b5c7860-59c4-11ef-98ec-7b416ffd7972",
+          "author": "KIMBERLI HOLMQUIST The News-Review",
+          "description": "In 1982, when John Hanlin was 18 years old, he had been out drinking with his buddies, crashed his car into a parked car, left the scene of the accident and drove home.",
+          "link": "https://www.nrtoday.com/news/douglas-county-sheriff-john-hanlin-leads-with-compassion-empathy/article_1b5c7860-59c4-11ef-98ec-7b416ffd7972.html",
+          "publishedOn": "2024-09-10T14:45:00.000Z",
+          "wordCount": 15121,
+          "title": "Douglas County Sheriff John Hanlin leads with compassion, empathy",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/89/189ce228-5b58-11ef-8c45-73e802ef03c5/66be851400212.image.jpg?resize=300%2C200",
+            "length": "261350",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/89/189ce228-5b58-11ef-8c45-73e802ef03c5/66be851400212.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/56d4f10c-6c0b-11ef-96a2-0b4cd323585a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLENDALE — Shelly Ness was enjoying her retirement in Myrtle Creek with her husband Bob, living by the river and fishing daily, but when they were approached with an offer for work, they decided to take it.",
+          "link": "https://www.nrtoday.com/business/bonfire-bar-and-grill-opens-in-glendale/article_56d4f10c-6c0b-11ef-96a2-0b4cd323585a.html",
+          "publishedOn": "2024-09-10T14:30:00.000Z",
+          "wordCount": 14262,
+          "title": "Bonfire Bar and Grill opens in Glendale",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/3f/a3f94cfe-6c0f-11ef-921d-df054d4c7c9d/66da90f64e746.image.jpg?resize=300%2C200",
+            "length": "416705",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/3f/a3f94cfe-6c0f-11ef-921d-df054d4c7c9d/66da90f64e746.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/016c71fe-6f80-11ef-ae68-83c3f7ef8abf",
+          "author": "Kyle Bailey and Sanne Godfrey For The News-Review",
+          "description": "The Devil’s Knob Fire in the Tiller area and the Milepost 98 Fire near Canyonville saw acreage totals grow Monday, while both remain 0% contained.",
+          "link": "https://www.nrtoday.com/news/local/fires-continue-to-grow-throughout-douglas-county/article_016c71fe-6f80-11ef-ae68-83c3f7ef8abf.html",
+          "publishedOn": "2024-09-10T14:21:00.000Z",
+          "wordCount": 14137,
+          "title": "Fires continue to grow throughout Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/4a/b4a949a8-6c61-11ef-bf9e-332fb8c44f1a/66db1aa50ace2.image.jpg?resize=300%2C400",
+            "length": "393691",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/4a/b4a949a8-6c61-11ef-bf9e-332fb8c44f1a/66db1aa50ace2.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e921ddc0-6ef1-11ef-a4d2-13da3c3d5d98",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Elkton Community Education Center received $5,110 from Oregon Cultural Trust.",
+          "link": "https://www.nrtoday.com/a_and_e/ecec-receives-grant-from-cultural-trust/article_e921ddc0-6ef1-11ef-a4d2-13da3c3d5d98.html",
+          "publishedOn": "2024-09-09T21:24:00.000Z",
+          "wordCount": 13456,
+          "title": "ECEC receives grant from Cultural Trust",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a2a9456-6eef-11ef-affe-87c18e2439cf",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — People can donate new diapers and wiper to families working toward reunification, until Oct. 18 with Michelle Sumner at the DHS office at 738 W. Harvard Ave.",
+          "link": "https://www.nrtoday.com/news/health/diapers-and-wipers-drive-for-families/article_5a2a9456-6eef-11ef-affe-87c18e2439cf.html",
+          "publishedOn": "2024-09-09T21:06:00.000Z",
+          "wordCount": 13388,
+          "title": "Diapers and wipers drive for families",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/96ae4f6e-6baa-11ef-a591-5f9293ff7ea3",
           "author": null,
           "description": "Friends of the Umpqua Hiking Club heads to Mary’s Peak",
@@ -431,6 +551,16 @@
           "publishedOn": "2024-09-09T17:16:00.000Z",
           "wordCount": 13309,
           "title": "Friends of the Umpqua Hiking Club heads to Mary's Peak",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc89eb58-6ec5-11ef-a34c-0799d3715ebb",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Jamie Marie Ortega was arrested Sunday morning for her alleged involvement in the theft from a patient at Rose Haven Nursing Center.",
+          "link": "https://www.nrtoday.com/news/crime/nursing-assistant-arrested-for-stealing/article_bc89eb58-6ec5-11ef-a34c-0799d3715ebb.html",
+          "publishedOn": "2024-09-09T16:08:00.000Z",
+          "wordCount": 13619,
+          "title": "Nursing assistant arrested for stealing",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
@@ -471,6 +601,36 @@
           "publishedOn": "2024-09-09T15:12:00.000Z",
           "wordCount": 13485,
           "title": "Senators boost Oregon literacy with $11.5M",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a1f67f7a-6ebd-11ef-a46c-932e6e5028fd",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Umpqua Actors Community Theatre has its 2024-2025 season underway with a production of \"The Mousetrap.\"",
+          "link": "https://www.nrtoday.com/a_and_e/the-moustrap-underway-at-uact/article_a1f67f7a-6ebd-11ef-a46c-932e6e5028fd.html",
+          "publishedOn": "2024-09-09T15:10:00.000Z",
+          "wordCount": 13473,
+          "title": "'The Moustrap' underway at UACT",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6c62ee2a-6ebd-11ef-a890-133368fd3baa",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "GLIDE — The Oregon State University Extension Service and Master Food Preservers are offering a workshop covering tomato preservation from 10 a.m. to 12:30 p.m. Sept. 21 at the Glide Rural Fire Protection District Office.",
+          "link": "https://www.nrtoday.com/news/education/osu-workshop-on-tomato-preservation/article_6c62ee2a-6ebd-11ef-a890-133368fd3baa.html",
+          "publishedOn": "2024-09-09T15:08:00.000Z",
+          "wordCount": 13414,
+          "title": "OSU workshop on tomato preservation",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/021b867c-6eb7-11ef-9893-23675cfe8d78",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — The workshop Kombucha? You Betcha! from the Oregon State University Extension Service and Master Food Preservers will be held from 10 a.m. to noon Oct. 12 at the extension office at 1134 SE Douglas Ave. in Roseburg.",
+          "link": "https://www.nrtoday.com/news/education/registration-open-for-kombucha-workshop/article_021b867c-6eb7-11ef-9893-23675cfe8d78.html",
+          "publishedOn": "2024-09-09T14:22:00.000Z",
+          "wordCount": 13436,
+          "title": "Registration open for Kombucha workshop",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
