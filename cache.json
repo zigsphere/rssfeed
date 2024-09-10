@@ -389,16 +389,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240906151255/IMG_5229.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123387",
-          "author": "Kyle Bailey",
-          "description": "September 6, 2024 6:50 a.m. Detectives with the Douglas Interagency Narcotics Team executed 5 search warrants in recent weeks, leading to the seizure of over 240,000 marijuana plants from massive illegal production sites in Douglas County and 8 arrests. DINT Commander Lieutenant Rick McArthur said on August 15th detectives went to a property in the...",
-          "link": "https://kqennewsradio.com/2024/09/06/dint-finds-5-illegal-grow-sites-over-240000-marijuana-plants/?utm_source=rss&utm_medium=rss&utm_campaign=dint-finds-5-illegal-grow-sites-over-240000-marijuana-plants",
-          "publishedOn": "2024-09-06T13:54:09.000Z",
-          "wordCount": 1877,
-          "title": "DINT FINDS 5 ILLEGAL GROW SITES, OVER 240,000 MARIJUANA PLANTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240906125022/dint6-scaled.jpg"
         }
       ]
     },
@@ -432,6 +422,16 @@
           "publishedOn": "2024-09-09T17:16:00.000Z",
           "wordCount": 13309,
           "title": "Friends of the Umpqua Hiking Club heads to Mary's Peak",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc89eb58-6ec5-11ef-a34c-0799d3715ebb",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Jamie Marie Ortega was arrested Sunday morning on charges for her alleged involvement in the theft of a credit card from a patient at Rose Haven Nursing Center.",
+          "link": "https://www.nrtoday.com/news/crime/nurse-arrested-on-charges-related-to-theft/article_bc89eb58-6ec5-11ef-a34c-0799d3715ebb.html",
+          "publishedOn": "2024-09-09T16:08:00.000Z",
+          "wordCount": 13573,
+          "title": "Nurse arrested on charges related to theft",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
@@ -618,36 +618,6 @@
           "wordCount": 13471,
           "title": "DTO hosts breakfast meeting",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/beafd8d0-6c5d-11ef-8420-37ec5ccafcea",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Detectives with the Douglas Interagency Narcotics Team executed five search warrants in recent weeks, leading to the seizure of over 240,000 marijuana plants from illegal production sites in Douglas County and eight arrests.",
-          "link": "https://www.nrtoday.com/news/local/dint-finds-5-illegal-grow-sites-more-than-240-000-marijuana-plants/article_beafd8d0-6c5d-11ef-8420-37ec5ccafcea.html",
-          "publishedOn": "2024-09-06T14:38:00.000Z",
-          "wordCount": 14389,
-          "title": "DINT finds 5 illegal grow sites, more than 240,000 marijuana plants",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/97/497bac4e-6c60-11ef-8ae5-ff067297734b/66db1843b37d8.image.jpg?resize=300%2C225",
-            "length": "713369",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/97/497bac4e-6c60-11ef-8ae5-ff067297734b/66db1843b37d8.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/11a64e30-6bfe-11ef-bcb4-273149e31249",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "A vehicle crash resulted in a wildfire around 5:15 p.m. Thursday in the southbound lanes of Interestate 5 around milepost 98 in Canyonville.",
-          "link": "https://www.nrtoday.com/news/local/two-new-wildfires-start-in-south-douglas-county/article_11a64e30-6bfe-11ef-bcb4-273149e31249.html",
-          "publishedOn": "2024-09-06T14:30:00.000Z",
-          "wordCount": 14646,
-          "title": "Two new wildfires start in south Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b63272ac-6bff-11ef-8bd4-db0a19568654/66da763ce5ace.image.jpg?resize=300%2C200",
-            "length": "263792",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b63272ac-6bff-11ef-8bd4-db0a19568654/66da763ce5ace.image.jpg?resize=300%2C200"
         }
       ]
     },

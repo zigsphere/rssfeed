@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-09T23:12:04.062Z</updated>
+    <updated>2024-09-10T02:39:35.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -114,6 +114,16 @@
         <summary type="html"><![CDATA[Paul Whitworth of the Umpqua Velo Club talks about The Vineyard Tour bike ride, happening in October.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nurse arrested on charges related to theft]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bc89eb58-6ec5-11ef-a34c-0799d3715ebb</id>
+        <link href="https://www.nrtoday.com/news/crime/nurse-arrested-on-charges-related-to-theft/article_bc89eb58-6ec5-11ef-a34c-0799d3715ebb.html"/>
+        <updated>2024-09-09T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Jamie Marie Ortega was arrested Sunday morning on charges for her alleged involvement in the theft of a credit card from a patient at Rose Haven Nursing Center.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -647,36 +657,6 @@ The local district office and area biologists cam…]]></summary>
         <summary type="html"><![CDATA[ROSEBURG — The Douglas Timber Operators will have their monthly meeting for September at a different location.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DINT finds 5 illegal grow sites, more than 240,000 marijuana plants]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/beafd8d0-6c5d-11ef-8420-37ec5ccafcea</id>
-        <link href="https://www.nrtoday.com/news/local/dint-finds-5-illegal-grow-sites-more-than-240-000-marijuana-plants/article_beafd8d0-6c5d-11ef-8420-37ec5ccafcea.html"/>
-        <updated>2024-09-06T14:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Detectives with the Douglas Interagency Narcotics Team executed five search warrants in recent weeks, leading to the seizure of over 240,000 marijuana plants from illegal production sites in Douglas County and eight arrests.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two new wildfires start in south Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/11a64e30-6bfe-11ef-bcb4-273149e31249</id>
-        <link href="https://www.nrtoday.com/news/local/two-new-wildfires-start-in-south-douglas-county/article_11a64e30-6bfe-11ef-bcb4-273149e31249.html"/>
-        <updated>2024-09-06T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A vehicle crash resulted in a wildfire around 5:15 p.m. Thursday in the southbound lanes of Interestate 5 around milepost 98 in Canyonville.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DINT FINDS 5 ILLEGAL GROW SITES, OVER 240,000 MARIJUANA PLANTS]]></title>
-        <id>https://kqennewsradio.com/?p=123387</id>
-        <link href="https://kqennewsradio.com/2024/09/06/dint-finds-5-illegal-grow-sites-over-240000-marijuana-plants/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-finds-5-illegal-grow-sites-over-240000-marijuana-plants"/>
-        <updated>2024-09-06T13:54:09.000Z</updated>
-        <summary type="html"><![CDATA[September 6, 2024 6:50 a.m. Detectives with the Douglas Interagency Narcotics Team executed 5 search warrants in recent weeks, leading to the seizure of over 240,000 marijuana plants from massive illegal production sites in Douglas County and 8 arrests. DINT Commander Lieutenant Rick McArthur said on August 15th detectives went to a property in the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
