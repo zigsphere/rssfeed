@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123601",
+          "author": "Kyle Bailey",
+          "description": "Camas Valley Charter School Superintendent Don Wonsley joins us for the Back to School series.",
+          "link": "https://kqennewsradio.com/2024/09/11/inside-douglas-county-9-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-11-24",
+          "publishedOn": "2024-09-11T20:22:12.000Z",
+          "wordCount": 1544,
+          "title": "INSIDE DOUGLAS COUNTY 9.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240911191941/IDC-9-11-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240911192200/IMG_5248.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123598",
           "author": "Kyle Bailey",
           "description": "September 11, 2024 11:10 a.m.  Late Wednesday morning, the Umpqua National Forest issued a closure order on the Tiller Ranger District in response to the Devil’s Knob Fire. A UNF release said the closure order is in addition to a prior closure order which is still in effect to protect public and firefighter safety. Currently...",
