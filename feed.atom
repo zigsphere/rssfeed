@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-11T23:11:21.342Z</updated>
+    <updated>2024-09-12T02:38:44.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 9.11.24]]></title>
+        <id>https://kqennewsradio.com/?p=123606</id>
+        <link href="https://kqennewsradio.com/2024/09/11/mike-winters-lawn-and-garden-show-9-11-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-9-11-24"/>
+        <updated>2024-09-12T00:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, with our local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.11.24]]></title>
         <id>https://kqennewsradio.com/?p=123601</id>
@@ -796,26 +806,6 @@ All residents who have been placed on any level of evacuation notice and those l
         <summary type="html"><![CDATA[Julie Cherry is bringing her 15 years of education experience and music program managing to her new role as superintendent at Umpqua Valley Christian School.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVILS KNOB/MILEPOST 98 FIRE UPDATES]]></title>
-        <id>https://kqennewsradio.com/?p=123449</id>
-        <link href="https://kqennewsradio.com/2024/09/08/devils-knob-milepost-98-fire-updates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=devils-knob-milepost-98-fire-updates"/>
-        <updated>2024-09-08T13:48:12.000Z</updated>
-        <summary type="html"><![CDATA[September 8, 2024 6:45 a.m. The Northwest Interagency Incident Management Team #13 assumed command of both the Devil’s Knob and MP98 fires as of 6:00 a.m. Sunday. The Devil’s Knob Fire in the Tiller area is estimated to be between 2,500 and 2.800 acres as of Saturday evening. On Saturday, crews on the northern part...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVACUATION DOWNGRADE NOTICE FOR MILE POST 98 FIRE]]></title>
-        <id>https://kqennewsradio.com/?p=123446</id>
-        <link href="https://kqennewsradio.com/2024/09/08/evacuation-downgrade-notice-for-mile-post-98-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=evacuation-downgrade-notice-for-mile-post-98-fire"/>
-        <updated>2024-09-08T13:23:29.000Z</updated>
-        <summary type="html"><![CDATA[September 8, 2024 6:20 a.m. Late Saturday night, the Douglas County Sheriff’s Office issued a downgrade notice for all homes within the previously established evacuation zones for the Mile Post 98 fire in the Canyonville area. *Downgraded to a Level 2 – Be Set for: The 100 to 7500 block of Richie Road to Canyon...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
