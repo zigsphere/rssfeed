@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-14T13:14:28.493Z</updated>
+    <updated>2024-09-14T16:12:52.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PACIFIC CREST TRAIL FULLY OPEN AT CRATER LAKE NATIONAL PARK]]></title>
+        <id>https://kqennewsradio.com/?p=123713</id>
+        <link href="https://kqennewsradio.com/2024/09/14/pacific-crest-trail-fully-open-at-crater-lake-national-park/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pacific-crest-trail-fully-open-at-crater-lake-national-park"/>
+        <updated>2024-09-14T14:01:19.000Z</updated>
+        <summary type="html"><![CDATA[September 14, 2024 7:00 a.m. The Pacific Crest Trail is now fully open within Crater Lake National Park. A National Park Service release issued Friday said due to potentially hazardous conditions created by the Middle Fork Fire, these trails are closed to entry and use until further notice: *Bald Crater Loop Trail *Bert Creek Trail...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short chapters from the library]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fd4791e0-713b-11ef-98f3-3b57f23cbb80</id>
+        <link href="https://www.nrtoday.com/news/education/short-chapters-from-the-library/article_fd4791e0-713b-11ef-98f3-3b57f23cbb80.html"/>
+        <updated>2024-09-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Please join us for a celebration of the fifth anniversary of Dolly Parton’s Imagination Library in our community at 10:15 a.m. Wednesday, Oct. 2.]]></summary>
+        <author>
+            <name>KRIS WILEY For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.13.24]]></title>
         <id>https://kqennewsradio.com/?p=123705</id>
@@ -835,46 +855,6 @@ All residential addresses on Canyon Creek Road, Canyonville (Milepost 98 Fire)
 All residents who have been placed on any level of evacuation notice and those living in proximity of the fire should continue to monitor official sources for updated information. Any changes to these evacuation notices or danger levels will be communicated through official channels.]]></summary>
         <author>
             <name>Douglas Co. Sheriff's Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorcycle rider dies in crash Monday morning]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2576afc0-6fb6-11ef-89c4-5375d9a2ceff</id>
-        <link href="https://www.nrtoday.com/news/local/motorcycle-rider-dies-in-crash-monday-morning/article_2576afc0-6fb6-11ef-89c4-5375d9a2ceff.html"/>
-        <updated>2024-09-10T20:49:00.000Z</updated>
-        <summary type="html"><![CDATA[A man died Monday morning in a two-vehicle crash on Highway 138 East, approximately one mile east of Glide.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glide board accepts report on investigation]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/eaa5e83e-6f29-11ef-b2c2-0fd2ed032cff</id>
-        <link href="https://www.nrtoday.com/briefs/glide-board-accepts-report-on-investigation/article_eaa5e83e-6f29-11ef-b2c2-0fd2ed032cff.html"/>
-        <updated>2024-09-10T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — In a special meeting Monday evening, the Glide School District board of directors voted to "accept the report and findings" from a third-party investigation.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sutherlin Lions take donations]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/dccb1326-6ebe-11ef-aca0-f7bab3b1d149</id>
-        <link href="https://www.nrtoday.com/news/local/sutherlin-lions-take-donations/article_dccb1326-6ebe-11ef-aca0-f7bab3b1d149.html"/>
-        <updated>2024-09-10T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — Refundable cans and bottles can be donated to the Sutherlin Lions at the collection bins on the northeast corner of Central and State Street, at 175 E. 1st Ave. or at SKP Park in Sutherlin.]]></summary>
-        <author>
-            <name>SANNE GODFREY The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Sheriff John Hanlin leads with compassion, empathy]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1b5c7860-59c4-11ef-98ec-7b416ffd7972</id>
-        <link href="https://www.nrtoday.com/news/douglas-county-sheriff-john-hanlin-leads-with-compassion-empathy/article_1b5c7860-59c4-11ef-98ec-7b416ffd7972.html"/>
-        <updated>2024-09-10T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In 1982, when John Hanlin was 18 years old, he had been out drinking with his buddies, crashed his car into a parked car, left the scene of the accident and drove home.]]></summary>
-        <author>
-            <name>KIMBERLI HOLMQUIST The News-Review</name>
         </author>
     </entry>
 </feed>
