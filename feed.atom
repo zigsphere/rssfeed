@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-13T23:10:59.786Z</updated>
+    <updated>2024-09-14T02:37:33.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[A two-part program with Rachel Pope of the Douglas Forest Protective Association and Martin Tomaselli in Elkton at Bluegrass and Butterflies, which is happening through Saturday night.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man arrested for stealing keys, car]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/82bf5810-7206-11ef-8dd1-97ec46f8b5c3</id>
+        <link href="https://www.nrtoday.com/news/local/man-arrested-for-stealing-keys-car/article_82bf5810-7206-11ef-8dd1-97ec46f8b5c3.html"/>
+        <updated>2024-09-13T19:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — A man was arrested Thursday for allegedly breaking into a house, stealing her keys and then stealing her car.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +104,56 @@
         <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our local real estate update.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua National Forest receives grant for forest health projects]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/45afc03e-7190-11ef-bb79-b76d5188b237</id>
+        <link href="https://www.nrtoday.com/briefs/umpqua-national-forest-receives-grant-for-forest-health-projects/article_45afc03e-7190-11ef-bb79-b76d5188b237.html"/>
+        <updated>2024-09-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — U.S. Department of Agriculture committed $4.89 million to the Elk Tribal and Community healthy forest restoration project in the Umpqua National Forest.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass Creek County Park and Campground to close]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1435b3b6-718f-11ef-b6a9-1f864e414e66</id>
+        <link href="https://www.nrtoday.com/news/environment/pass-creek-county-park-and-campground-to-close/article_1435b3b6-718f-11ef-b6a9-1f864e414e66.html"/>
+        <updated>2024-09-13T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CURTIN—Douglas County Parks Department will close Pass Creek County Park and Campground in Curtin permanently Sept. 30.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three people taken to hospital following wreck]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/64d5580c-71db-11ef-bd4a-ff99236dcb34</id>
+        <link href="https://www.nrtoday.com/news/local/three-people-taken-to-hospital-following-wreck/article_64d5580c-71db-11ef-bd4a-ff99236dcb34.html"/>
+        <updated>2024-09-13T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Three people were taken to the hospital following a three-vehicle wreck Monday afternoon.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric car show on Sunday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7c1520d4-6f9b-11ef-a908-473d353b88fd</id>
+        <link href="https://www.nrtoday.com/news/local/electric-car-show-on-sunday/article_7c1520d4-6f9b-11ef-a908-473d353b88fd.html"/>
+        <updated>2024-09-13T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Umpqua Transportation Electrification Team in partnership with Douglas County Global Warming Coalition will present EV Show and Ride from 11 a.m. to 4 p.m. Sunday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire containment increases, evacuation levels decrease]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/69c8edc6-718e-11ef-a00d-dfd692d5cce2</id>
+        <link href="https://www.nrtoday.com/news/environment/fire-containment-increases-evacuation-levels-decrease/article_69c8edc6-718e-11ef-a00d-dfd692d5cce2.html"/>
+        <updated>2024-09-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Devils Knob Fire, about 5 miles southeast of Tiller, was 4,130 acres and 15% contained Friday with 673 people are assigned to the fire. The northern flank and western edge of fire perimeter is in patrol status with active…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -915,26 +975,6 @@ All residents who have been placed on any level of evacuation notice and those l
         <summary type="html"><![CDATA[In 1982, when John Hanlin was 18 years old, he had been out drinking with his buddies, crashed his car into a parked car, left the scene of the accident and drove home.]]></summary>
         <author>
             <name>KIMBERLI HOLMQUIST The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonfire Bar and Grill opens in Glendale]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/56d4f10c-6c0b-11ef-96a2-0b4cd323585a</id>
-        <link href="https://www.nrtoday.com/business/bonfire-bar-and-grill-opens-in-glendale/article_56d4f10c-6c0b-11ef-96a2-0b4cd323585a.html"/>
-        <updated>2024-09-10T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[GLENDALE — Shelly Ness was enjoying her retirement in Myrtle Creek with her husband Bob, living by the river and fishing daily, but when they were approached with an offer for work, they decided to take it.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fires continue to grow throughout Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/016c71fe-6f80-11ef-ae68-83c3f7ef8abf</id>
-        <link href="https://www.nrtoday.com/news/local/fires-continue-to-grow-throughout-douglas-county/article_016c71fe-6f80-11ef-ae68-83c3f7ef8abf.html"/>
-        <updated>2024-09-10T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Devil’s Knob Fire in the Tiller area and the Milepost 98 Fire near Canyonville saw acreage totals grow Monday, while both remain 0% contained.]]></summary>
-        <author>
-            <name>Kyle Bailey and Sanne Godfrey For The News-Review</name>
         </author>
     </entry>
 </feed>
