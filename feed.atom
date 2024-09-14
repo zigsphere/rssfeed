@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-09-14T16:12:52.921Z</updated>
+    <updated>2024-09-14T19:08:23.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FIRE ACTIVITY REMAINS MINIMAL ON DEVIL’S KNOB/MILEPOST 98 FIRES]]></title>
+        <id>https://kqennewsradio.com/?p=123718</id>
+        <link href="https://kqennewsradio.com/2024/09/14/fire-activity-remains-minimal-on-devils-knob-milepost-98-fires/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fire-activity-remains-minimal-on-devils-knob-milepost-98-fires"/>
+        <updated>2024-09-14T17:29:05.000Z</updated>
+        <summary type="html"><![CDATA[September 14, 2024 10:30 a.m. Fire activity remains minimal on the Devil’s Knob and Milepost 98 fires, as of midday Saturday. An update from Northwest Incident Management Team 13 said high moisture levels are aiding in efforts on the ground and extensive mop up operations are adding to overall containment on the incidents. The current...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRANSIENT JAILED FOR ALLEGED DISORDERLY CONDUCT/CRIMINAL MISCHIEF]]></title>
+        <id>https://kqennewsradio.com/?p=123716</id>
+        <link href="https://kqennewsradio.com/2024/09/14/transient-jailed-for-alleged-disorderly-conduct-criminal-mischief/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transient-jailed-for-alleged-disorderly-conduct-criminal-mischief"/>
+        <updated>2024-09-14T16:45:36.000Z</updated>
+        <summary type="html"><![CDATA[September 14, 2024 9:40 a.m. A transient was jailed for alleged disorderly conduct and criminal mischief on Friday night. A Douglas County Sheriff’s Office report said just after 6:00 p.m. the 37-year-old was called in for a second time in the day for allegedly causing a disturbance and being disorderly at a park in the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PACIFIC CREST TRAIL FULLY OPEN AT CRATER LAKE NATIONAL PARK]]></title>
         <id>https://kqennewsradio.com/?p=123713</id>
@@ -823,38 +843,6 @@ Bean says Tabitha went as far as to contact the Douglas County District Attorney
         <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wildfire Evacuation Status, Including Downgrades]]></title>
-        <id>https://www.flashalert.net/news.html?id=5204#news175177</id>
-        <link href="https://www.flashalert.net/news.html?id=5204#news175177"/>
-        <updated>2024-09-11T05:24:54.000Z</updated>
-        <summary type="html"><![CDATA[CURRENT EVACUATION NOTICES
-DOUGLAS COUNTY, Ore. - Evacuations remain in place for the Devil's Knob and Milepost 98 Fire, although the Sheriff's Office has instituted a number of downgrades this evening. The following is a summary of the current evacuation levels as of Tuesday, September 10, 2024, at 8:00 pm. An interactive map reflecting these evacuation levels can be found online at: www.dcso.com/evacuations 
-
-LEVEL 3 "GO!":
-No Level 3 evacuation notices exist. The previous Level 3 evacuation notices have been downgraded. 
- 
-
-LEVEL 2 "BE SET":
-All residences on Joe Hall Road, Tiller (Devil's Knob Fire)
-All residences on Tison Road, Tiller (Devil's Knob Fire)
-All residences on Elk Diamond Road, Tiller (Devil's Knob Fire)
-All residences on Ritchie Road, Canyonville (Milepost 98 Fire)
- 
-
-LEVEL 1 “BE READY”:
-All residences on the East side of Tiller Trail Hwy between the 34000 block to 36760 block, Tiller (Devil's Knob Fire)
- 
-
-CANCELLED EVACUATION NOTICES
-All residential addresses on Canyon Creek Road, Canyonville (Milepost 98 Fire)
-
-
-All residents who have been placed on any level of evacuation notice and those living in proximity of the fire should continue to monitor official sources for updated information. Any changes to these evacuation notices or danger levels will be communicated through official channels.]]></summary>
-        <author>
-            <name>Douglas Co. Sheriff's Office</name>
         </author>
     </entry>
 </feed>
