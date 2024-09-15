@@ -519,16 +519,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240911151938/IMG_5245.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123570",
-          "author": "Kyle Bailey",
-          "description": "September 11, 2024 4:10 a.m.  An Air Quality Alert issued by the Oregon Department of Environmental Quality remains in place through 5:00 p.m. Wednesday. The advisory is in effect for eastern Douglas, northern Klamath and northern Lake counties. Wildfires burning in the region combined with forecast conditions will cause air quality levels to fluctuate and...",
-          "link": "https://kqennewsradio.com/2024/09/11/air-quality-alert-through-500-p-m-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=air-quality-alert-through-500-p-m-wednesday",
-          "publishedOn": "2024-09-11T11:12:49.000Z",
-          "wordCount": 1568,
-          "title": "AIR QUALITY ALERT THROUGH 5:00 P.M. WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240911101237/wedam-12.png"
         }
       ]
     },
@@ -543,6 +533,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3034b302-72e6-11ef-b1b5-33d6c3997678",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ELKTON — Scott and Sally Worthge were in Athens, Greece, on Thursday but traveled back to Oregon in time to visit Elkton for Bluegrass and Butterflies on Saturday.",
+          "link": "https://www.nrtoday.com/a_and_e/tunes-and-food-come-to-fort-umpqua-for-bluegrass-and-butterflies/article_3034b302-72e6-11ef-b1b5-33d6c3997678.html",
+          "publishedOn": "2024-09-15T01:00:00.000Z",
+          "wordCount": 14661,
+          "title": "Tunes and food come to Fort Umpqua for Bluegrass and Butterflies",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/65/565fa3aa-72e8-11ef-a458-1fdac17e8fee/66e60d7fdb2f6.image.jpg?resize=300%2C200",
+            "length": "373095",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/65/565fa3aa-72e8-11ef-a458-1fdac17e8fee/66e60d7fdb2f6.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/965dd77c-72e5-11ef-83ec-7fb203197e62",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINSTON — A Winston woman was jailed for allegedly stealing a pickup Thursday.",
+          "link": "https://www.nrtoday.com/news/local/winston-woman-jailed-for-vehicle-theft/article_965dd77c-72e5-11ef-83ec-7fb203197e62.html",
+          "publishedOn": "2024-09-14T22:06:00.000Z",
+          "wordCount": 13517,
+          "title": "Winston woman jailed for vehicle theft",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fd4791e0-713b-11ef-98f3-3b57f23cbb80",
           "author": "KRIS WILEY For The News-Review",
@@ -712,81 +727,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/df/4df66c48-6fb5-11ef-b777-9f202965a206/66e0af63e9ab4.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f191f9a-6c14-11ef-85b3-e731df75c79d",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Fires continue to rage in Oregon and Douglas County.",
-          "link": "https://www.nrtoday.com/news/local/aggressive-initial-fire-attack-adequate-preparation-is-important/article_2f191f9a-6c14-11ef-85b3-e731df75c79d.html",
-          "publishedOn": "2024-09-11T14:45:00.000Z",
-          "wordCount": 14476,
-          "title": "Aggressive initial fire attack, adequate preparation is important",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/77/1779b8f6-6fff-11ef-9df1-5b3b915e66b5/66e12b2f49209.image.jpg?resize=300%2C400",
-            "length": "373130",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/77/1779b8f6-6fff-11ef-9df1-5b3b915e66b5/66e12b2f49209.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed661274-704b-11ef-9ca2-33a9100ac380",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — A rider was taken to the hospital after a bicycle versus vehicle accident Monday.",
-          "link": "https://www.nrtoday.com/news/local/cyclist-taken-to-hospital-after-crash/article_ed661274-704b-11ef-9ca2-33a9100ac380.html",
-          "publishedOn": "2024-09-11T14:41:00.000Z",
-          "wordCount": 13495,
-          "title": "Cyclist taken to hospital after crash",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/79e430d8-704b-11ef-b59c-43476c970e6e",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "CANYONVILLE — Beginning this Sunday, the Douglas County parks Department will temporarily close the Upper Campground and Day Use Area at Charles V. Stanton Park, 1540 Stanton Park Road north of Canyonville.",
-          "link": "https://www.nrtoday.com/news/local/partial-closure-of-stanton-park-on-sunday/article_79e430d8-704b-11ef-b59c-43476c970e6e.html",
-          "publishedOn": "2024-09-11T14:38:00.000Z",
-          "wordCount": 13521,
-          "title": "Partial closure of Stanton Park on Sunday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0051f856-6c0c-11ef-b073-9baf2f4421c2",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "TRI CITY — Mid Town Grill is opening a new location in Winston.",
-          "link": "https://www.nrtoday.com/news/local/new-location-of-mid-town-grill-to-open-in-october/article_0051f856-6c0c-11ef-b073-9baf2f4421c2.html",
-          "publishedOn": "2024-09-11T14:15:00.000Z",
-          "wordCount": 14478,
-          "title": "New location of Mid Town Grill to open in October",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/33/5332e4ba-6ed5-11ef-8ff4-037f80019e14/66df379d75c74.image.jpg?resize=300%2C200",
-            "length": "383525",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/33/5332e4ba-6ed5-11ef-8ff4-037f80019e14/66df379d75c74.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b8c8c238-6f87-11ef-91c4-cb325a4ecd62",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Blane Olsen and Nic Tillett, both sixth graders at Sutherlin, held signs with other students from their leadership class Tuesday morning along the street in front of Central Park in Sutherlin.",
-          "link": "https://www.nrtoday.com/news/education/sutherlin-students-show-appreciation-for-community-members-on-world-suicide-prevention-day/article_b8c8c238-6f87-11ef-91c4-cb325a4ecd62.html",
-          "publishedOn": "2024-09-11T14:00:00.000Z",
-          "wordCount": 14493,
-          "title": "Sutherlin students show appreciation for community members on World Suicide Prevention Day",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/be/7bedb3c6-6fd9-11ef-bd77-7f5a8ed7a7c1/66e1e5242b909.image.jpg?resize=300%2C200",
-            "length": "455528",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/be/7bedb3c6-6fd9-11ef-bd77-7f5a8ed7a7c1/66e1e5242b909.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2eb51ce2-6fa3-11ef-8fbd-77326e4729c7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Bluegrass and Butterflies are hitting the grasses of Fort Umpqua in Elkton as the Elkton Community Education Center hosts its two-day annual music festival Friday and Saturday.",
-          "link": "https://www.nrtoday.com/news/local/bluegrass-and-butterflies-are-back-in-elkton/article_2eb51ce2-6fa3-11ef-8fbd-77326e4729c7.html",
-          "publishedOn": "2024-09-11T14:00:00.000Z",
-          "wordCount": 13736,
-          "title": "Bluegrass and butterflies are back in Elkton",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
