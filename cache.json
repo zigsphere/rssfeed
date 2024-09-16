@@ -344,16 +344,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240912151744/IMG_5250.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123625",
-          "author": "Kyle Bailey",
-          "description": "September 12, 2024 4:20 a.m. Roseburg set a daily record for rainfall on Wednesday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport saw .54 inches of rain. That beat the previous record for September 11th, which was .17 inches, set in 2005. It was...",
-          "link": "https://kqennewsradio.com/2024/09/12/roseburg-sets-daily-record-for-rainfall/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-sets-daily-record-for-rainfall",
-          "publishedOn": "2024-09-12T11:27:50.000Z",
-          "wordCount": 1570,
-          "title": "ROSEBURG SETS DAILY RECORD FOR RAINFALL",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202854/rain1-1-e1672833992609.jpg"
         }
       ]
     },
@@ -368,6 +358,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3713b498-71fb-11ef-8070-5716d0de0ba8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "UCC Summer honor roll",
+          "link": "https://www.nrtoday.com/news/education/umpqua-community-college-2024-summer-honor-roll/article_3713b498-71fb-11ef-8070-5716d0de0ba8.html",
+          "publishedOn": "2024-09-15T14:00:00.000Z",
+          "wordCount": 13528,
+          "title": "Umpqua Community College 2024 summer honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/93c65e0e-72e9-11ef-b68a-7b67557fa3ed",
           "author": "GLORIA COLEMAN The News-Review",
@@ -527,56 +527,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/ca/5ca797a2-6f98-11ef-b488-0f4a9da888a2/632677b46b7bf.image.jpg?resize=300%2C212"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/81037022-7113-11ef-89a7-db684dc55eb3",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "GARDINER — A husband and wife have been arrested for witness tampering in a child sex abuse case.",
-          "link": "https://www.nrtoday.com/news/local/husband-wife-arrested-for-witness-tampering/article_81037022-7113-11ef-89a7-db684dc55eb3.html",
-          "publishedOn": "2024-09-12T14:30:00.000Z",
-          "wordCount": 13619,
-          "title": "Husband, wife arrested for witness tampering",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c260480-7112-11ef-925e-770c18f48a4d",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — Douglas Forest Protective Association decreased the Public Use Restrictions and Industrial Fire Precaution Levels as of Wednesday afternoon.",
-          "link": "https://www.nrtoday.com/news/local/fire-levels-restrictions-change/article_7c260480-7112-11ef-925e-770c18f48a4d.html",
-          "publishedOn": "2024-09-12T14:22:00.000Z",
-          "wordCount": 13464,
-          "title": "Fire levels, restrictions change",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/17467cc6-70bc-11ef-a1a4-47f0a41202d0",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "TILLER — Roy Doolittle was at his house in Drew when he was asked to evacuate by the Douglas County Sheriff’s Office due to wildfire in the area. He stayed with his son in Days Creek before returning a few…",
-          "link": "https://www.nrtoday.com/news/environment/management-give-updates-on-milepost-98-devils-knob-fires-in-public-meeting/article_17467cc6-70bc-11ef-a1a4-47f0a41202d0.html",
-          "publishedOn": "2024-09-12T14:00:00.000Z",
-          "wordCount": 14982,
-          "title": "Management give updates on Milepost 98, Devils Knob fires in public meeting",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/99/699b0388-70bd-11ef-b652-936cc9497e8e/66e26a7d72fbd.image.jpg?resize=300%2C200",
-            "length": "229836",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/99/699b0388-70bd-11ef-b652-936cc9497e8e/66e26a7d72fbd.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2571f3fa-6fb5-11ef-b9e5-e7ba0348c113",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "WINCHESTER — A collection of 17 sculptures by Oregon artist Janet Geib Pretti will be on display at The Art Gallery at the Whipple Fine Arts Center at Umpqua Community College.",
-          "link": "https://www.nrtoday.com/a_and_e/ucc-presents-in-search-for-meaning/article_2571f3fa-6fb5-11ef-b9e5-e7ba0348c113.html",
-          "publishedOn": "2024-09-12T10:30:00.000Z",
-          "wordCount": 13740,
-          "title": "UCC presents 'In Search for Meaning'",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/df/4df66c48-6fb5-11ef-b777-9f202965a206/66e0af63e9ab4.image.jpg?resize=300%2C225",
-            "length": "172600",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/df/4df66c48-6fb5-11ef-b777-9f202965a206/66e0af63e9ab4.image.jpg?resize=300%2C225"
         }
       ]
     },
