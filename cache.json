@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123886",
+          "author": "Kyle Bailey",
+          "description": "September 18, 2024 1:30 p.m.  Effective at 1:00 p.m. on Wednesday, the Douglas County Sheriff’s Office canceled all remaining evacuation notices for the Devil’s Knob Fire. No evacuation notices exist for residents impacted by the Devil’s Knob Fire or any other location in Douglas County.",
+          "link": "https://kqennewsradio.com/2024/09/18/all-evacuation-notices-canceled-for-devils-knob-fire/?utm_source=rss&utm_medium=rss&utm_campaign=all-evacuation-notices-canceled-for-devils-knob-fire",
+          "publishedOn": "2024-09-18T20:52:37.000Z",
+          "wordCount": 1515,
+          "title": "ALL EVACUATION NOTICES CANCELED FOR DEVIL’S KNOB FIRE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=123878",
+          "author": "Kyle Bailey",
+          "description": "Jessica Paugh and Chase Gilley from Umpqua Community College talk about the school’s history and the 60th anniversary event happening on Saturday.",
+          "link": "https://kqennewsradio.com/2024/09/18/inside-douglas-county-9-18-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-18-24",
+          "publishedOn": "2024-09-18T20:25:55.000Z",
+          "wordCount": 1547,
+          "title": "INSIDE DOUGLAS COUNTY 9.18.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240918191303/IDC-9-18-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240918192539/IMG_5303.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123876",
           "author": "Kyle Bailey",
           "description": "September 18, 2024 11:10 a.m. Roseburg Police cited 5 people for prohibited camping on Tuesday. An RPD report said at 8:30 a.m. officers responded to a camping complaint and contacted a 39-year-old woman near the intersection of Northwest Edenbower Boulevard and Northwest Stewart Parkway. She was reportedly sleeping on the sidewalk. Her camp was in...",
@@ -938,6 +963,16 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5204#news175397",
+          "author": null,
+          "description": "TILLER, Ore. - Effective at 1:00 pm on Wednesday, September 18, 2024, the Douglas County Sheriff's Office has cancelled all remaining evacuation notices for the Devil's Knob Fire. No evacuation notices exist for residents impacted by the Devil's Knob Fire or any other location in Douglas County. This is the last update from the Sheriff's Office regarding this incident. \n###",
+          "link": "https://www.flashalert.net/news.html?id=5204#news175397",
+          "publishedOn": "2024-09-18T20:20:08.000Z",
+          "wordCount": 3793,
+          "title": "All Evacuation Notices Cancelled for Devil's Knob Fire",
+          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=5204#news175312",
           "author": null,
