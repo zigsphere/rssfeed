@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123833",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/09/17/true-wealth-9-17-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-9-17-24",
+          "publishedOn": "2024-09-18T00:15:59.000Z",
+          "wordCount": 1531,
+          "title": "TRUE WEALTH 9.17.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240917231357/TRUE-WEALTH-9-17-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123831",
           "author": "Kyle Bailey",
           "description": "September 17, 2024 2:45 p.m.  Covering coastal Douglas County: A Washington State woman died in a two-vehicle crash on Highway 101 near milepost 202, about 10 miles north of Reedsport, on Friday night at approximately 6:45 p.m. An Oregon State Police report released Tuesday afternoon, said the preliminary investigation was that a pickup, operated by...",
@@ -404,16 +419,6 @@
           "wordCount": 1578,
           "title": "TRANSIENT JAILED FOR ALLEGED DISORDERLY CONDUCT/CRIMINAL MISCHIEF",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=123713",
-          "author": "Kyle Bailey",
-          "description": "September 14, 2024 7:00 a.m. The Pacific Crest Trail is now fully open within Crater Lake National Park. A National Park Service release issued Friday said due to potentially hazardous conditions created by the Middle Fork Fire, these trails are closed to entry and use until further notice: *Bald Crater Loop Trail *Bert Creek Trail...",
-          "link": "https://kqennewsradio.com/2024/09/14/pacific-crest-trail-fully-open-at-crater-lake-national-park/?utm_source=rss&utm_medium=rss&utm_campaign=pacific-crest-trail-fully-open-at-crater-lake-national-park",
-          "publishedOn": "2024-09-14T14:01:19.000Z",
-          "wordCount": 1589,
-          "title": "PACIFIC CREST TRAIL FULLY OPEN AT CRATER LAKE NATIONAL PARK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215656/clake-e1622223149699.jpg"
         }
       ]
     },
