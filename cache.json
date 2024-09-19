@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=123890",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/09/18/mike-winters-lawn-and-garden-program-9-18-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-program-9-18-24",
+          "publishedOn": "2024-09-19T00:08:55.000Z",
+          "wordCount": 1546,
+          "title": "MIKE WINTERS LAWN AND GARDEN PROGRAM 9.18.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240918230717/MWLGS-9-19-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=123886",
           "author": "Kyle Bailey",
           "description": "September 18, 2024 1:30 p.m.  Effective at 1:00 p.m. on Wednesday, the Douglas County Sheriff’s Office canceled all remaining evacuation notices for the Devil’s Knob Fire. No evacuation notices exist for residents impacted by the Devil’s Knob Fire or any other location in Douglas County.",
