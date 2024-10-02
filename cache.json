@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124348",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/10/01/true-wealth-10-1-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-1-24",
+          "publishedOn": "2024-10-02T00:06:58.000Z",
+          "wordCount": 1532,
+          "title": "TRUE WEALTH 10.1.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241001230529/TWR-10-01-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124344",
           "author": "Kyle Bailey",
           "description": "State Representative Court Boice looks back at last week’s Legislative Days and covers a number of legislative issues.",
