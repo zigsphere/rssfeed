@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-10-02T19:09:28.204Z</updated>
+    <updated>2024-10-02T23:11:42.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINSTON MAN DIES IN CAMAS VALLEY AREA ACCIDENT ON MONDAY]]></title>
+        <id>https://kqennewsradio.com/?p=124398</id>
+        <link href="https://kqennewsradio.com/2024/10/02/winston-man-dies-in-camas-valley-area-accident-on-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-man-dies-in-camas-valley-area-accident-on-monday"/>
+        <updated>2024-10-02T22:56:05.000Z</updated>
+        <summary type="html"><![CDATA[October 2, 2024 4:00 p.m. A Winston man died in a single-vehicle accident in the Camas Valley area on Monday afternoon. A Douglas County Sheriff’s Office report said at 3:25 p.m. the wreck was reported in the 2000 block of Upper Camas Road. CPR was performed and the driver, 80-year-old John Parret, was pronounced deceased...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.2.24]]></title>
+        <id>https://kqennewsradio.com/?p=124390</id>
+        <link href="https://kqennewsradio.com/2024/10/02/inside-douglas-county-10-2-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-2-24"/>
+        <updated>2024-10-02T20:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Brittany Arnold talks about Blocktoberfest happening Saturday in downtown Roseburg.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA RIVER CLEANUP COMING SUNDAY OCTOBER 13TH]]></title>
         <id>https://kqennewsradio.com/?p=124385</id>
@@ -101,6 +121,56 @@ The CMP Committee assists efforts to monitor compliance with Forest Practices Ru
         <summary type="html"><![CDATA[Joey Keeran talks with Feeding Umpqua Director Sarah McGregor about their annual Empty Bowls fundraiser, happening on Monday.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VA Pharmacy copayments have resumed]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c116b9e4-80d1-11ef-a29c-4f2c68884b51</id>
+        <link href="https://www.nrtoday.com/news/local/va-pharmacy-copayments-have-resumed/article_c116b9e4-80d1-11ef-a29c-4f2c68884b51.html"/>
+        <updated>2024-10-02T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[NATION — The Veteran’s Administration has resumed charging copayments for outpatient pharmacy services this month.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vineyard Tour happens this weekend]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6044c462-80d1-11ef-8cac-5b5dc716d1f5</id>
+        <link href="https://www.nrtoday.com/news/local/vineyard-tour-happens-this-weekend/article_6044c462-80d1-11ef-8cac-5b5dc716d1f5.html"/>
+        <updated>2024-10-02T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The Vineyard Tour is happening this weekend, with cycling, wine and social events from Friday to Monday.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New dialysis center opening this fall in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/98097c2a-806e-11ef-9a56-6f960dd75563</id>
+        <link href="https://www.nrtoday.com/news/health/new-dialysis-center-opening-this-fall-in-roseburg/article_98097c2a-806e-11ef-9a56-6f960dd75563.html"/>
+        <updated>2024-10-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Innovative Renal Care is opening a medical center this fall in Roseburg for people in need of dialysis services.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrate fire safety during Fire Prevention Month]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f51515c2-806f-11ef-8f39-2b317dc6d9aa</id>
+        <link href="https://www.nrtoday.com/news/local/celebrate-fire-safety-during-fire-prevention-month/article_f51515c2-806f-11ef-8f39-2b317dc6d9aa.html"/>
+        <updated>2024-10-02T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oregon State Fire Marshal is hosting a campaign “Celebrate Fire Safety” to celebrate October as Fire Prevention Month: a good time to focus on fire prevention and safety at home.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg voters information now available online]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0dbc51de-8071-11ef-96cd-4bec1ced9a12</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-voters-information-now-available-online/article_0dbc51de-8071-11ef-96cd-4bec1ced9a12.html"/>
+        <updated>2024-10-02T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A voters pamphlet is available for Roseburg residents who want to learn more about candidates running for mayor and City Council.]]></summary>
+        <author>
+            <name>SANNE GODFREY The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -624,66 +694,6 @@ For additional information, please visit ODF’s proposed laws & rules website.
         <summary type="html"><![CDATA[Sidney Mauch, a fourth grade student at Geneva Academy, won first place in Oregon for grades K-8 in the Veterans of Foreign Wars Auxiliary's national anthem singing contest Get Excited for the Red, White and Blue.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drain hosts Oktoberfest with focus on Halloween]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/03b176c6-7d59-11ef-b00b-6f00968e4fa4</id>
-        <link href="https://www.nrtoday.com/news/local/drain-hosts-oktoberfest-with-focus-on-halloween/article_03b176c6-7d59-11ef-b00b-6f00968e4fa4.html"/>
-        <updated>2024-09-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DRAIN — North Douglas County's Oktoberfest brought the community together with pumpkins, drinks, food, cider and games Saturday afternoon in Drain.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've Got Your Six event benefits veteran organizations]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/959c58c8-7ded-11ef-876b-6bd7e5fec303</id>
-        <link href="https://www.nrtoday.com/family/weve-got-your-six-event-benefits-veteran-organizations/article_959c58c8-7ded-11ef-876b-6bd7e5fec303.html"/>
-        <updated>2024-09-29T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — Vietnam Veterans of Foreign Wars Post 2468 fired up the grills Saturday afternoon, sending the smell of bratwurst, burgers and more into the air during the We’ve Got Your Six event at Riverbend Park in Winston.]]></summary>
-        <author>
-            <name>DREW WINKELMAIER The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree School Umpqua teaches forestry, stewardship]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0263e536-7d56-11ef-b02a-771fcc002fb8</id>
-        <link href="https://www.nrtoday.com/news/education/tree-school-umpqua-teaches-forestry-stewardship/article_0263e536-7d56-11ef-b02a-771fcc002fb8.html"/>
-        <updated>2024-09-29T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Larry Hall has owned his Umpqua land for more than 50 years. On Saturday, he sat in a classroom at Umpqua Community College to learn new information in Tree School Umpqua.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Star Gazer: Bright comet can be spotted in predawn skies]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9aa67bc2-79e8-11ef-a58b-530f406e481f</id>
-        <link href="https://www.nrtoday.com/news/education/umpqua-star-gazer-bright-comet-can-be-spotted-in-predawn-skies/article_9aa67bc2-79e8-11ef-a58b-530f406e481f.html"/>
-        <updated>2024-09-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[All the planets parade from sunset to midnight. Look to the west southwest as twilight fades to spot brilliant Venus. Our sister world slinks along the horizon gaining little altitude until November. Mercury joins Venus during the last week of…]]></summary>
-        <author>
-            <name>PAUL MORGAN For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extension Spotlight: Fall into 4-H]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/bedcc98c-7c32-11ef-9533-4f090eb53276</id>
-        <link href="https://www.nrtoday.com/family/extension-spotlight-fall-into-4-h/article_bedcc98c-7c32-11ef-9533-4f090eb53276.html"/>
-        <updated>2024-09-28T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[What is positive youth development? According to youth.gov, “PYD is an intentional, prosocial approach that engages youth within their communities, schools, organizations, peer groups, and families in a manner that is productive and constructive; recognizes utilizes and enhances young people’s…]]></summary>
-        <author>
-            <name>Kelly Simonson For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annual report quantifies public library services]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/82788fe6-7d02-11ef-98b8-1f8a87eb5cbf</id>
-        <link href="https://www.nrtoday.com/family/annual-report-quantifies-public-library-services/article_82788fe6-7d02-11ef-98b8-1f8a87eb5cbf.html"/>
-        <updated>2024-09-28T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library continues to expand our reach in the community.]]></summary>
-        <author>
-            <name>Kris Wiley</name>
         </author>
     </entry>
 </feed>

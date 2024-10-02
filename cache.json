@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124398",
+          "author": "Kyle Bailey",
+          "description": "October 2, 2024 4:00 p.m. A Winston man died in a single-vehicle accident in the Camas Valley area on Monday afternoon. A Douglas County Sheriff’s Office report said at 3:25 p.m. the wreck was reported in the 2000 block of Upper Camas Road. CPR was performed and the driver, 80-year-old John Parret, was pronounced deceased...",
+          "link": "https://kqennewsradio.com/2024/10/02/winston-man-dies-in-camas-valley-area-accident-on-monday/?utm_source=rss&utm_medium=rss&utm_campaign=winston-man-dies-in-camas-valley-area-accident-on-monday",
+          "publishedOn": "2024-10-02T22:56:05.000Z",
+          "wordCount": 1572,
+          "title": "WINSTON MAN DIES IN CAMAS VALLEY AREA ACCIDENT ON MONDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=124390",
+          "author": "Kyle Bailey",
+          "description": "Brittany Arnold talks about Blocktoberfest happening Saturday in downtown Roseburg.",
+          "link": "https://kqennewsradio.com/2024/10/02/inside-douglas-county-10-2-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-2-24",
+          "publishedOn": "2024-10-02T20:09:07.000Z",
+          "wordCount": 1531,
+          "title": "INSIDE DOUGLAS COUNTY 10.2.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241002190514/IDC-10-2-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241002190850/IMG_5397.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124385",
           "author": "Kyle Bailey",
           "description": "The 40th annual Umpqua River Cleanup is scheduled for Sunday October 13th. An Umpqua Watersheds release said the event offers volunteers an opportunity to help protect and preserve of one of Oregon’s most beautiful and vital waterways, from the headwaters to the sea. The event is organized by Umpqua Watersheds and supported by Thrive Umpqua,...",
@@ -484,6 +509,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c116b9e4-80d1-11ef-a29c-4f2c68884b51",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "NATION — The Veteran’s Administration has resumed charging copayments for outpatient pharmacy services this month.",
+          "link": "https://www.nrtoday.com/news/local/va-pharmacy-copayments-have-resumed/article_c116b9e4-80d1-11ef-a29c-4f2c68884b51.html",
+          "publishedOn": "2024-10-02T15:19:00.000Z",
+          "wordCount": 13429,
+          "title": "VA Pharmacy copayments have resumed",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6044c462-80d1-11ef-8cac-5b5dc716d1f5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Vineyard Tour is happening this weekend, with cycling, wine and social events from Friday to Monday.",
+          "link": "https://www.nrtoday.com/news/local/vineyard-tour-happens-this-weekend/article_6044c462-80d1-11ef-8cac-5b5dc716d1f5.html",
+          "publishedOn": "2024-10-02T15:17:00.000Z",
+          "wordCount": 13523,
+          "title": "Vineyard Tour happens this weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/98097c2a-806e-11ef-9a56-6f960dd75563",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "Innovative Renal Care is opening a medical center this fall in Roseburg for people in need of dialysis services.",
+          "link": "https://www.nrtoday.com/news/health/new-dialysis-center-opening-this-fall-in-roseburg/article_98097c2a-806e-11ef-9a56-6f960dd75563.html",
+          "publishedOn": "2024-10-02T15:00:00.000Z",
+          "wordCount": 13604,
+          "title": "New dialysis center opening this fall in Roseburg",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f51515c2-806f-11ef-8f39-2b317dc6d9aa",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "The Oregon State Fire Marshal is hosting a campaign “Celebrate Fire Safety” to celebrate October as Fire Prevention Month: a good time to focus on fire prevention and safety at home.",
+          "link": "https://www.nrtoday.com/news/local/celebrate-fire-safety-during-fire-prevention-month/article_f51515c2-806f-11ef-8f39-2b317dc6d9aa.html",
+          "publishedOn": "2024-10-02T14:30:00.000Z",
+          "wordCount": 13588,
+          "title": "Celebrate fire safety during Fire Prevention Month",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0dbc51de-8071-11ef-96cd-4bec1ced9a12",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "A voters pamphlet is available for Roseburg residents who want to learn more about candidates running for mayor and City Council.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-voters-information-now-available-online/article_0dbc51de-8071-11ef-96cd-4bec1ced9a12.html",
+          "publishedOn": "2024-10-02T14:15:00.000Z",
+          "wordCount": 13735,
+          "title": "Roseburg voters information now available online",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d7/2d7fdd5a-2a8c-11ef-871e-8fc23135a9d2/664d8a02b8850.image.jpg?resize=300%2C200",
+            "length": "306165",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d7/2d7fdd5a-2a8c-11ef-871e-8fc23135a9d2/664d8a02b8850.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7d91cb7e-8008-11ef-82da-afd57b84c62d",
           "author": "SANNE GODFREY The News-Review",
           "description": "WINSTON — Wildlife Safari's annual family-friendly Halloween event, Zoobilee, will last three nights this year.",
@@ -667,91 +747,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ed/fed24bf0-7a9a-11ef-a3fe-d36ef98ca1c2/66f2f7b70d370.image.jpg?resize=300%2C328"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/03b176c6-7d59-11ef-b00b-6f00968e4fa4",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "DRAIN — North Douglas County's Oktoberfest brought the community together with pumpkins, drinks, food, cider and games Saturday afternoon in Drain.",
-          "link": "https://www.nrtoday.com/news/local/drain-hosts-oktoberfest-with-focus-on-halloween/article_03b176c6-7d59-11ef-b00b-6f00968e4fa4.html",
-          "publishedOn": "2024-09-29T01:00:00.000Z",
-          "wordCount": 14244,
-          "title": "Drain hosts Oktoberfest with focus on Halloween",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a24ac4-7dfb-11ef-b16d-5740beb5ba74/66f8a1d93a69d.image.jpg?resize=300%2C200",
-            "length": "378899",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/7a/57a24ac4-7dfb-11ef-b16d-5740beb5ba74/66f8a1d93a69d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/959c58c8-7ded-11ef-876b-6bd7e5fec303",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "WINSTON — Vietnam Veterans of Foreign Wars Post 2468 fired up the grills Saturday afternoon, sending the smell of bratwurst, burgers and more into the air during the We’ve Got Your Six event at Riverbend Park in Winston.",
-          "link": "https://www.nrtoday.com/family/weve-got-your-six-event-benefits-veteran-organizations/article_959c58c8-7ded-11ef-876b-6bd7e5fec303.html",
-          "publishedOn": "2024-09-29T00:15:00.000Z",
-          "wordCount": 14858,
-          "title": "We've Got Your Six event benefits veteran organizations",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/27/b27c5cd6-7ded-11ef-8b1b-fbd1d78b9986/66f88af4ad40b.image.jpg?resize=300%2C200",
-            "length": "343618",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/27/b27c5cd6-7ded-11ef-8b1b-fbd1d78b9986/66f88af4ad40b.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0263e536-7d56-11ef-b02a-771fcc002fb8",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Larry Hall has owned his Umpqua land for more than 50 years. On Saturday, he sat in a classroom at Umpqua Community College to learn new information in Tree School Umpqua.",
-          "link": "https://www.nrtoday.com/news/education/tree-school-umpqua-teaches-forestry-stewardship/article_0263e536-7d56-11ef-b02a-771fcc002fb8.html",
-          "publishedOn": "2024-09-29T00:15:00.000Z",
-          "wordCount": 14664,
-          "title": "Tree School Umpqua teaches forestry, stewardship",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/5f/45f3d2b6-7de7-11ef-97e9-03753ed70bf9/66f8802d9ce85.image.jpg?resize=300%2C200",
-            "length": "454383",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/5f/45f3d2b6-7de7-11ef-97e9-03753ed70bf9/66f8802d9ce85.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9aa67bc2-79e8-11ef-a58b-530f406e481f",
-          "author": "PAUL MORGAN For The News-Review",
-          "description": "All the planets parade from sunset to midnight. Look to the west southwest as twilight fades to spot brilliant Venus. Our sister world slinks along the horizon gaining little altitude until November. Mercury joins Venus during the last week of…",
-          "link": "https://www.nrtoday.com/news/education/umpqua-star-gazer-bright-comet-can-be-spotted-in-predawn-skies/article_9aa67bc2-79e8-11ef-a58b-530f406e481f.html",
-          "publishedOn": "2024-09-28T14:30:00.000Z",
-          "wordCount": 14024,
-          "title": "Umpqua Star Gazer: Bright comet can be spotted in predawn skies",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bedcc98c-7c32-11ef-9533-4f090eb53276",
-          "author": "Kelly Simonson For The News-Review",
-          "description": "What is positive youth development? According to youth.gov, “PYD is an intentional, prosocial approach that engages youth within their communities, schools, organizations, peer groups, and families in a manner that is productive and constructive; recognizes utilizes and enhances young people’s…",
-          "link": "https://www.nrtoday.com/family/extension-spotlight-fall-into-4-h/article_bedcc98c-7c32-11ef-9533-4f090eb53276.html",
-          "publishedOn": "2024-09-28T13:45:00.000Z",
-          "wordCount": 13738,
-          "title": "Extension Spotlight: Fall into 4-H",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/2a/42a89b4a-da4c-11ed-986f-5b52b67d7f87/643884fade074.image.jpg?resize=300%2C400",
-            "length": "315864",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/2a/42a89b4a-da4c-11ed-986f-5b52b67d7f87/643884fade074.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/82788fe6-7d02-11ef-98b8-1f8a87eb5cbf",
-          "author": "Kris Wiley",
-          "description": "Roseburg Public Library continues to expand our reach in the community.",
-          "link": "https://www.nrtoday.com/family/annual-report-quantifies-public-library-services/article_82788fe6-7d02-11ef-98b8-1f8a87eb5cbf.html",
-          "publishedOn": "2024-09-28T13:45:00.000Z",
-          "wordCount": 13786,
-          "title": "Annual report quantifies public library services",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
         }
       ]
     },
