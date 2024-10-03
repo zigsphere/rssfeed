@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124402",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/10/02/mike-winters-lawn-and-garden-show-10-2-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-10-2-24",
+          "publishedOn": "2024-10-03T00:09:31.000Z",
+          "wordCount": 1547,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 10.2.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241002230628/MWLGS-10-2-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212405/mike-3-e1644455769791.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=124400",
+          "author": "Kyle Bailey",
+          "description": "October 3, 2024 4:20 p.m.  A Myrtle Creek man was jailed following an alleged incident at a business on Tuesday. A Douglas County Sheriff’s Office report said just before 1:00 p.m. the 45-year-old randomly attacked an employee while he was pumping gas at a station in the 200 block of Pruner Road.  The man then...",
+          "link": "https://kqennewsradio.com/2024/10/02/myrtle-creek-man-jailed-following-alleged-incident-at-business/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-man-jailed-following-alleged-incident-at-business",
+          "publishedOn": "2024-10-02T23:27:09.000Z",
+          "wordCount": 1657,
+          "title": "MYRTLE CREEK MAN JAILED FOLLOWING ALLEGED INCIDENT AT BUSINESS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124398",
           "author": "Kyle Bailey",
           "description": "October 2, 2024 4:00 p.m. A Winston man died in a single-vehicle accident in the Camas Valley area on Monday afternoon. A Douglas County Sheriff’s Office report said at 3:25 p.m. the wreck was reported in the 2000 block of Upper Camas Road. CPR was performed and the driver, 80-year-old John Parret, was pronounced deceased...",
@@ -732,21 +757,6 @@
           "wordCount": 13957,
           "title": "Lawsuit filed against Blue and Gold logging project",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/43e9f790-7a98-11ef-bfbb-6320c96cf809",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Sidney Mauch, a fourth grade student at Geneva Academy, won first place in Oregon for grades K-8 in the Veterans of Foreign Wars Auxiliary's national anthem singing contest Get Excited for the Red, White and Blue.",
-          "link": "https://www.nrtoday.com/briefs/geneva-academy-student-wins-national-anthem-singing-contest/article_43e9f790-7a98-11ef-bfbb-6320c96cf809.html",
-          "publishedOn": "2024-09-29T14:00:00.000Z",
-          "wordCount": 13689,
-          "title": "Geneva Academy student wins national anthem singing contest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ed/fed24bf0-7a9a-11ef-a3fe-d36ef98ca1c2/66f2f7b70d370.image.jpg?resize=300%2C328",
-            "length": "216717",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/ed/fed24bf0-7a9a-11ef-a3fe-d36ef98ca1c2/66f2f7b70d370.image.jpg?resize=300%2C328"
         }
       ]
     },
