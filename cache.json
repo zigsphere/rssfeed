@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124679",
+          "author": "Kyle Bailey",
+          "description": "October 9, 2024 3:00 p.m.   A Douglas Interagency Narcotics Team investigation led to locating illegal drugs and multiple arrests on Tuesday. DINT Commander Lieutenant Rick McArthur said with the assistance of the Douglas County Sheriff’s Office, a search warrant was executed at a residence in the 700 block of Yeust Road in Azalea. McArthur said...",
+          "link": "https://kqennewsradio.com/2024/10/09/dint-investigation-yields-illegal-drugs-arrests-made/?utm_source=rss&utm_medium=rss&utm_campaign=dint-investigation-yields-illegal-drugs-arrests-made",
+          "publishedOn": "2024-10-09T22:08:08.000Z",
+          "wordCount": 1673,
+          "title": "DINT INVESTIGATION YIELDS ILLEGAL DRUGS, ARRESTS MADE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=124672",
+          "author": "Kyle Bailey",
+          "description": "State Treasurer Tobias Read, the Democratic candidate for Oregon Secretary of State talks about his background and his plans for the office if elected.",
+          "link": "https://kqennewsradio.com/2024/10/09/inside-douglas-county-10-9-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-9-24",
+          "publishedOn": "2024-10-09T20:07:29.000Z",
+          "wordCount": 1497,
+          "title": "INSIDE DOUGLAS COUNTY 10.9.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241009190456/IDC-10-9-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241009190715/newtobias-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124669",
           "author": "Kyle Bailey",
           "description": "October 9, 2024 11:00 a.m.  Northwest Incident Management Team 12 will transition command of the Homestead and Diamond Complex fires to a local Umpqua National Forest Type 3 team Wednesday evening at 6:00 p.m. An Umpqua National Forest update said this will be the final daily information release for the fires. The Homestead Complex is...",
@@ -543,6 +568,56 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/889f5f12-868a-11ef-8d85-77acf1570ee6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Douglas County Clerk Dan Loomis will be the guest speaker at the next no host breakfast for Douglas Timber Operators. The breakfast will be 8 a.m. Thursday, Oct. 24.",
+          "link": "https://www.nrtoday.com/briefs/douglas-timber-operators-host-last-breakfast-meeting-of-2024/article_889f5f12-868a-11ef-8d85-77acf1570ee6.html",
+          "publishedOn": "2024-10-09T22:05:00.000Z",
+          "wordCount": 13439,
+          "title": "Douglas Timber Operators host last breakfast meeting of 2024",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e50c0f0-8676-11ef-9794-2b62349f9982",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "AZALEA — Three people were arrested Tuesday after Douglas Interagency Narcotics Team and Douglas County Sheriff's Office executed a search warrant at a home in Azalea for a suspected illegal marijuana operation.",
+          "link": "https://www.nrtoday.com/news/local/dint-arrests-3-in-azalea/article_7e50c0f0-8676-11ef-9794-2b62349f9982.html",
+          "publishedOn": "2024-10-09T19:41:00.000Z",
+          "wordCount": 13650,
+          "title": "DINT arrests 3 in Azalea",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6ba15cee-8211-11ef-94e4-ab718456ceae",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "TRI CITY — On Tuesday morning, most Tri City Elementary School students were dropped off at TJ’s Market instead of school.",
+          "link": "https://www.nrtoday.com/news/education/walking-and-rolling-to-tri-city-elementary-school/article_6ba15cee-8211-11ef-94e4-ab718456ceae.html",
+          "publishedOn": "2024-10-09T14:45:00.000Z",
+          "wordCount": 14767,
+          "title": "Walking and rolling to Tri City Elementary School",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/41/b4112afc-85b0-11ef-8ceb-cf696de0fdb6/670590995911f.image.jpg?resize=300%2C200",
+            "length": "446465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/41/b4112afc-85b0-11ef-8ceb-cf696de0fdb6/670590995911f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c30aa8d2-8211-11ef-bb26-5f365249a302",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The era of The Rosebud Theatre is here, with evenings of music planned for the space where Sunnyside Theater used to be.",
+          "link": "https://www.nrtoday.com/a_and_e/rosebud-theatre-soft-launches-thursday-with-grand-opening-planned-for-january/article_c30aa8d2-8211-11ef-bb26-5f365249a302.html",
+          "publishedOn": "2024-10-09T14:30:00.000Z",
+          "wordCount": 14229,
+          "title": "Rosebud Theatre soft launches Thursday with grand opening planned for January",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/4d/04d30fbe-85fc-11ef-be94-bb8a506980f6/67060ef51b1df.image.jpg?resize=300%2C200",
+            "length": "367463",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/4d/04d30fbe-85fc-11ef-be94-bb8a506980f6/67060ef51b1df.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/cd0d4c28-851c-11ef-9bfa-8bf682a5995a",
           "author": "GLORIA COLEMAN The News-Review",
