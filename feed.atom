@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-10-08T23:12:07.431Z</updated>
+    <updated>2024-10-09T02:44:04.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 10.8.24]]></title>
+        <id>https://kqennewsradio.com/?p=124625</id>
+        <link href="https://kqennewsradio.com/2024/10/08/true-wealth-10-8-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-10-8-24"/>
+        <updated>2024-10-09T00:04:29.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.8.24]]></title>
         <id>https://kqennewsradio.com/?p=124619</id>
@@ -107,6 +117,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elementary children read under the stadium lights]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/cd0d4c28-851c-11ef-9bfa-8bf682a5995a</id>
+        <link href="https://www.nrtoday.com/news/education/elementary-children-read-under-the-stadium-lights/article_cd0d4c28-851c-11ef-9bfa-8bf682a5995a.html"/>
+        <updated>2024-10-08T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Izzy Johnston of Sunnyslope Elementary School spent her Monday evening at Champion Car Wash Field in Roseburg reading and hanging out with her friends.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GOVERNOR CALLS FOR AUDIT, PAUSE IN AUTOMATIC VOTER REGISTRATION]]></title>
         <id>https://kqennewsradio.com/?p=124591</id>
         <link href="https://kqennewsradio.com/2024/10/08/governor-calls-for-audit-pause-in-automatic-voter-registration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-calls-for-audit-pause-in-automatic-voter-registration"/>
@@ -164,6 +184,16 @@
         <summary type="html"><![CDATA[October 8, 2024 2:50 a.m. The Roseburg VA Medical Center is continuing its flu and COVID-19 vaccine clinics through November 2nd. Enrolled veterans may access vaccines during scheduled VA primary care visits or at the clinics, where no appointment is needed. Clinics are drive-through and are held under the canopy of Building 1 on the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glide area community members conduct prescribed burn]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/51c9fcfe-8211-11ef-8212-2b1416bcd444</id>
+        <link href="https://www.nrtoday.com/news/environment/glide-area-community-members-conduct-prescribed-burn/article_51c9fcfe-8211-11ef-8212-2b1416bcd444.html"/>
+        <updated>2024-10-08T05:27:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — Jesse McGraw began in the cadet program at Glide Rural Fire Protection District last year and on Monday he was able to join in setting a fire.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -408,16 +438,6 @@ For the latest information regarding the City of Roseburg Fire Department, pleas
         <summary type="html"><![CDATA[October 7, 2024 8:30 a.m.  A transient was jailed for trespassing by the Douglas County Sheriff’s Office on Thursday afternoon. A DCSO report said at 12:50 p.m. the woman was contacted at a property in the 3800 block of Happy Valley Road in Green. She had returned to the residence after being released from corrections...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prescribed burn in Glide slated to benefit school]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/14b0af08-81fc-11ef-a6fa-8bf7af557386</id>
-        <link href="https://www.nrtoday.com/news/education/prescribed-burn-in-glide-slated-to-benefit-school/article_14b0af08-81fc-11ef-a6fa-8bf7af557386.html"/>
-        <updated>2024-10-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — In mid-September, the Glide High School fire science class and Wolf Creek Job Corps forestry students cleared an area in the Glide Elementary School nature area, behind the school.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
