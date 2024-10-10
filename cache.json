@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124722",
+          "author": "Kyle Bailey",
+          "description": "Republican State Senator Dennis Linthicum is running to be Oregon’s Secretary of State. He talks about his views on the role of the office.",
+          "link": "https://kqennewsradio.com/2024/10/10/inside-douglas-county-10-10-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-10-24",
+          "publishedOn": "2024-10-10T20:08:18.000Z",
+          "wordCount": 1494,
+          "title": "INSIDE DOUGLAS COUNTY 10.10.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241010190408/IDC-10-10-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241010190746/Press-Sen-Linthicum-2024.jpg.jpeg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124719",
           "author": "Kyle Bailey",
           "description": "October 10, 2024 11:00 a.m. Deputies with the Douglas County Sheriff’s Office jailed a transient for five warrants on Wednesday. A DCSO report said at 11:00 a.m. the 38-year-old woman was found sleeping in her car behind a business property in the 2300 block of Old Highway 99 South, south of Roseburg. The warrants were...",
@@ -644,66 +659,6 @@
           "wordCount": 1669,
           "title": "FORMER SHERIFF’S DEPUTY SENTENCED TO PRISON",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241007112206/Collins.JPG.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124535",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 3:50 a.m.  The Umpqua Valley continues to have above normal high temperatures for this part of October, with the potential to reach near a record high for the date on Monday. Forecasters at the National Service told News Radio 93-9 FM and 1240 KQEN that the mercury is expected to reach near...",
-          "link": "https://kqennewsradio.com/2024/10/07/near-record-high-temperature-for-the-date-expected-on-monday/?utm_source=rss&utm_medium=rss&utm_campaign=near-record-high-temperature-for-the-date-expected-on-monday",
-          "publishedOn": "2024-10-07T10:53:45.000Z",
-          "wordCount": 1609,
-          "title": "NEAR RECORD HIGH TEMPERATURE FOR THE DATE EXPECTED ON MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124533",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 3:40 a.m.  Deputies with the Douglas County Sheriff’s Office jailed a man for warrants late Saturday morning. A DCSO report deputies knew that the 41-year-old had warrants and attempted to contact him in the 800 block of North Old Pacific Highway near Myrtle Creek just before 12:00 p.m. Deputies spoke with the...",
-          "link": "https://kqennewsradio.com/2024/10/07/dcso-jails-man-for-warrants/?utm_source=rss&utm_medium=rss&utm_campaign=dcso-jails-man-for-warrants",
-          "publishedOn": "2024-10-07T10:35:05.000Z",
-          "wordCount": 1597,
-          "title": "DCSO JAILS MAN FOR WARRANTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124530",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 3:30 a.m. Douglas County Commissioners Chris Boice, Tim Freeman and Tom Kress are inviting the public to attend the open house and dedication ceremony for the Wayne Stinson Emergency Management Center on Tuesday, October 22nd, from 6:00 p.m. to 7:00 p.m. A county release said the newly remodeled building will be home...",
-          "link": "https://kqennewsradio.com/2024/10/07/wayne-stinson-emergency-management-center-open-house/?utm_source=rss&utm_medium=rss&utm_campaign=wayne-stinson-emergency-management-center-open-house",
-          "publishedOn": "2024-10-07T10:24:06.000Z",
-          "wordCount": 1594,
-          "title": "WAYNE STINSON EMERGENCY MANAGEMENT CENTER OPEN HOUSE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241007092352/stinson.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124528",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 3:20 a.m. Douglas County Commissioners will not be holding their weekly business meeting this week. Their next meeting will be Wednesday October 16th at 9:00 a.m. in room 216 of the courthouse. Meeting agendas for board meetings are posted at least 24 hours in advance at: https://douglascountyor.gov/ Call the commissioner’s office at...",
-          "link": "https://kqennewsradio.com/2024/10/07/county-commissioners-not-holding-business-meeting-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=county-commissioners-not-holding-business-meeting-wednesday",
-          "publishedOn": "2024-10-07T10:18:15.000Z",
-          "wordCount": 1526,
-          "title": "COUNTY COMMISSIONERS NOT HOLDING BUSINESS MEETING WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212532/DC_Commissioners_Logo_WEB_Small.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124526",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 3:05 a.m. The Umpqua National Forest has a number of volunteer opportunities throughout the year. A UNF release said while formal volunteer events slow down during the winter months, the work still continues. Upcoming volunteer opportunities include: *Dorena Genetic Resource Center is seeking volunteers this Wednesday and the second Wednesday of every...",
-          "link": "https://kqennewsradio.com/2024/10/07/umpqua-national-forest-volunteer-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-national-forest-volunteer-opportunities",
-          "publishedOn": "2024-10-07T10:15:21.000Z",
-          "wordCount": 1616,
-          "title": "UMPQUA NATIONAL FOREST VOLUNTEER OPPORTUNITIES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203008/Umpqua-National-Forest-Sign-e1671794501431.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=124524",
-          "author": "Kyle Bailey",
-          "description": "October 7, 2024 2:50 a.m. The 28th annual National Walk & Roll to School Day is Wednesday and some schools in Douglas County have events planned for this week or later in the month. Janelle James of Safe Routes to School and Thrive Umpqua said the local events include: Tuesday, Tri City Elementary is hosting...",
-          "link": "https://kqennewsradio.com/2024/10/07/walk-roll-to-school-day-with-local-events-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=walk-roll-to-school-day-with-local-events-this-week",
-          "publishedOn": "2024-10-07T10:11:34.000Z",
-          "wordCount": 1676,
-          "title": "WALK & ROLL TO SCHOOL DAY WITH LOCAL EVENTS THIS WEEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
         }
       ]
     },
@@ -718,6 +673,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d6f7e4f6-86b0-11ef-8f6b-5fdbd30ce8ab",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "OAKLAND — In the next stage of his life, Andrei Andreev is hoping to make a performance career for himself in the United States. He plans to start his concerts by playing at The Secret Wine Society in Oakland.",
+          "link": "https://www.nrtoday.com/a_and_e/international-pianist-andreev-crescendos-into-oakland/article_d6f7e4f6-86b0-11ef-8f6b-5fdbd30ce8ab.html",
+          "publishedOn": "2024-10-10T23:00:00.000Z",
+          "wordCount": 15144,
+          "title": "International pianist Andreev crescendos into Oakland",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/4f/24f90ee4-873f-11ef-88d1-939889a33a0e/67082d1274a7f.image.jpg?resize=300%2C298",
+            "length": "94126",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/4f/24f90ee4-873f-11ef-88d1-939889a33a0e/67082d1274a7f.image.jpg?resize=300%2C298"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c27a2af2-8660-11ef-93f1-2b33af59daee",
+          "author": "SANNE GODFREY The News-Review",
+          "description": "ROSEBURG — Community partners are hosting a veteran's health and awareness fair from 11 a.m. to 3 p.m. Tuesday, Oct. 15 at the Roseburg VA Medical Center.",
+          "link": "https://www.nrtoday.com/news/local/veterans-health-awareness-fair-on-tuesday/article_c27a2af2-8660-11ef-93f1-2b33af59daee.html",
+          "publishedOn": "2024-10-10T17:06:00.000Z",
+          "wordCount": 13430,
+          "title": "Veterans health, awareness fair on Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d526ea2e-868c-11ef-86a0-abce1b59ac3e",
           "author": "Scott Carroll The News-Review",
@@ -746,6 +726,21 @@
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e276d1f0-8211-11ef-88bb-d3f2ec894f5a",
           "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Umpqua Woofstock’s Howl-O-Ween will bring fun, games, prizes and many treats for animals and people alike to Central Park in Sutherlin.",
+          "link": "https://www.nrtoday.com/family/umpqua-woofstock-hosts-animal-halloween-party-in-sutherlin/article_e276d1f0-8211-11ef-88bb-d3f2ec894f5a.html",
+          "publishedOn": "2024-10-10T14:30:00.000Z",
+          "wordCount": 14785,
+          "title": "Umpqua Woofstock hosts animal halloween party in Sutherlin",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a5/1a50c1fe-8716-11ef-9a15-878d6b7b490b/652b14b937f8d.image.jpg?resize=300%2C200",
+            "length": "265901",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a5/1a50c1fe-8716-11ef-9a15-878d6b7b490b/652b14b937f8d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e276d1f0-8211-11ef-88bb-d3f2ec894f5a",
+          "author": "GLORIA COLEMAN The News-Review",
           "description": "SUTHERLIN — Umpqua Woofstock's Howl-O-Ween will bring fun, games, prizes and many treats for animals and people alike to Central Park in Sutherlin.",
           "link": "https://www.nrtoday.com/family/howl-o-ween-bounds-into-sutherlin-on-saturday/article_e276d1f0-8211-11ef-88bb-d3f2ec894f5a.html",
           "publishedOn": "2024-10-10T14:30:00.000Z",
@@ -757,6 +752,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a5/1a50c1fe-8716-11ef-9a15-878d6b7b490b/652b14b937f8d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8520dea8-8697-11ef-b718-8bb951662705",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "WINSTON — Cougar Ridge Ranch Experience LESA is a free equestrian therapy program for children between 3 and 18 years old in Winston.",
+          "link": "https://www.nrtoday.com/news/local/cougar-ridge-provides-equine-therapy-for-children/article_8520dea8-8697-11ef-b718-8bb951662705.html",
+          "publishedOn": "2024-10-09T23:38:00.000Z",
+          "wordCount": 14508,
+          "title": "Cougar Ridge provides equine therapy for children",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/32/a32f3084-8697-11ef-8702-d3d6f09d4332/6707140abe373.image.jpg?resize=300%2C200",
+            "length": "456083",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/32/a32f3084-8697-11ef-8702-d3d6f09d4332/6707140abe373.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8520dea8-8697-11ef-b718-8bb951662705",
