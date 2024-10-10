@@ -624,6 +624,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d526ea2e-868c-11ef-86a0-abce1b59ac3e",
+          "author": "Scott Carroll The News-Review",
+          "description": "A woman who says she was wrongly placed in the psychiatric ward at CHI Mercy Health is suing the hospital, claiming a mentally ill patient in the ward, who was left unsupervised, entered her room and assaulted her.",
+          "link": "https://www.nrtoday.com/business/mercy-sued-following-alleged-patient-assault/article_d526ea2e-868c-11ef-86a0-abce1b59ac3e.html",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 14176,
+          "title": "Mercy sued following alleged patient assault",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b8/9b8cbf94-868e-11ef-a2ff-373e2d9b7993/6408e4dc96a5e.image.jpg?resize=300%2C200",
+            "length": "438674",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b8/9b8cbf94-868e-11ef-a2ff-373e2d9b7993/6408e4dc96a5e.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/856fe9c0-85e4-11ef-b8cd-2b1242577d78",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The National Fire Protection Association named October 6-12 as Fire Prevention Week, according to its website.",
+          "link": "https://www.nrtoday.com/news/local/remain-fire-prepared-during-fire-prevention-week/article_856fe9c0-85e4-11ef-b8cd-2b1242577d78.html",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 15096,
+          "title": "Remain fire prepared during Fire Prevention Week",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e276d1f0-8211-11ef-88bb-d3f2ec894f5a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Umpqua Woofstock's Howl-O-Ween will bring fun, games, prizes and many treats for animals and people alike to Central Park in Sutherlin.",
+          "link": "https://www.nrtoday.com/family/howl-o-ween-bounds-into-sutherlin-on-saturday/article_e276d1f0-8211-11ef-88bb-d3f2ec894f5a.html",
+          "publishedOn": "2024-10-10T14:30:00.000Z",
+          "wordCount": 14764,
+          "title": "Howl-O-Ween bounds into Sutherlin on Saturday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a5/1a50c1fe-8716-11ef-9a15-878d6b7b490b/652b14b937f8d.image.jpg?resize=300%2C200",
+            "length": "265901",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a5/1a50c1fe-8716-11ef-9a15-878d6b7b490b/652b14b937f8d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8520dea8-8697-11ef-b718-8bb951662705",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "WINSTON — The Cougar Ridge Ranch Experience LESA is a free equestrian therapy program for children between 3 and 18 years old in Winston.",
+          "link": "https://www.nrtoday.com/news/local/cougar-ridge-provides-equine-therapy-for-children-in-need/article_8520dea8-8697-11ef-b718-8bb951662705.html",
+          "publishedOn": "2024-10-09T23:38:00.000Z",
+          "wordCount": 14501,
+          "title": "Cougar Ridge provides equine therapy for children in need",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/32/a32f3084-8697-11ef-8702-d3d6f09d4332/6707140abe373.image.jpg?resize=300%2C200",
+            "length": "456083",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/32/a32f3084-8697-11ef-8702-d3d6f09d4332/6707140abe373.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6d922c96-868e-11ef-bfd0-27672b27e6de",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "UMPQUA RIVER BASIN — Public comment is open through Nov. 25 on a proposed plan by the U.S. Environmental Protection Agency to reduce high water temperatures in the Umpqua River basin.",
+          "link": "https://www.nrtoday.com/news/local/umpqua-basin-temperature-project-open-to-public-comment/article_6d922c96-868e-11ef-bfd0-27672b27e6de.html",
+          "publishedOn": "2024-10-09T22:32:00.000Z",
+          "wordCount": 13456,
+          "title": "Umpqua Basin temperature project open to public comment",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/889f5f12-868a-11ef-8d85-77acf1570ee6",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Douglas County Clerk Dan Loomis will be the guest speaker at the next no host breakfast for Douglas Timber Operators. The breakfast will be 8 a.m. Thursday, Oct. 24.",
@@ -787,7 +852,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news175930",
+          "author": null,
+          "description": "SALEM, Ore. — The Regional Forest Practice Committee for southwest Oregon will meet at 9 a.m. on Thursday, Oct. 17 at the ODF Grants Pass Office, 5375 Monument Drive, Grants Pass, OR 97526. To join virtually, please use the Zoom video conference information found on the agenda. To provide public comment, please email forestresources.committees@odf.oregon.gov. \nThe committee’s agenda includes:\n\nDivision updates\nOperator of the Year discussion and voting\nForest Practice Technical Guidance (FPTG) development and stream flow permanence update\nE-Notification System (FERNS) changes\nForest resources training strategy\nCompliance monitoring update\n\nThe public may attend in-person or online via Zoom. Public comments will be accepted. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 72 hours before the meeting by emailing forestresources.committees@odf.oregon.gov.\nRegional Forest Practices Committees are panels of citizens – mandated under Oregon law – that advise the Oregon Board of Forestry on current forestry issues and forest management approaches. In 1971, the legislature enacted Oregon’s Forest Practices Act which includes three Regional Forest Practices Committees, serving the Eastern, Northwest, and Southwest regions of the state. Under Oregon law, a majority of the committees’ members must be private forest landowners and logging or forest operations companies.\nOregon’s forests are among the state’s most valued resources, providing a balanced mix of environmental, economic, and social benefits. View more information on the RFPC webpage.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news175930",
+          "publishedOn": "2024-10-10T15:58:38.000Z",
+          "wordCount": 3612,
+          "title": "Regional Forest Practice Committee for southwest Oregon meets Oct. 17",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
