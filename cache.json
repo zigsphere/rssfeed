@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124814",
+          "author": "Kyle Bailey",
+          "description": "Tiffany Roddy of the Douglas County Chapter of the Oregon Women in Timber talks about the educational program OWIT offers for young people.",
+          "link": "https://kqennewsradio.com/2024/10/14/morning-conversation-10-14-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-14-24",
+          "publishedOn": "2024-10-14T16:13:27.000Z",
+          "wordCount": 1493,
+          "title": "MORNING CONVERSATION 10.14.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241014150839/AM-CONV-10-14-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241007205301/IMG_5435.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124805",
           "author": "Kyle Bailey",
           "description": "October 14, 2024 4:00 a.m. An elderly man was taken to the hospital following a head-on crash on Saturday afternoon. A Douglas County Sheriff’s Office report said just after 1:50 p.m. a 22-year-old driver was traveling north in his sedan on old Highway 99 North near Del Rio Road when he failed to maintain his...",
@@ -546,7 +561,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news175999",
+          "author": null,
+          "description": "SALEM, Ore. — The Oregon Board of Forestry will meet in Pendleton for their fall retreat on Oct. 16 and 17. The retreat’s two-day itinerary will include an executive session, field tour, and public social on Wednesday, Oct. 16, and an executive session and public meeting on Thursday, Oct. 17. Both executive sessions will be closed to the public, except for members of the press. The field tour and social event that will take place on Oct. 16 are open to the public for in-person participation, and recordings of highlights will be posted on the board’s meeting page afterward. The public meeting that will take place on Oct. 17 will be open for in-person observation and livestreamed on the department’s YouTube channel.\nThe board’s agenda for the retreat’s public meeting includes:\n\nState of the …",
+          "link": "https://www.flashalert.net/news.html?id=1072#news175999",
+          "publishedOn": "2024-10-14T15:21:26.000Z",
+          "wordCount": 4316,
+          "title": "Board of Forestry to meet on Oct. 16 and 17 in Pendleton",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
