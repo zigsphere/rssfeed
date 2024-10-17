@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=124938",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/10/16/mike-winters-lawn-and-garden-show-10-16-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-10-16-24",
+          "publishedOn": "2024-10-17T00:07:07.000Z",
+          "wordCount": 1497,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 10.16.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241016230549/MWLGS-10-16-24-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=124929",
           "author": "Kyle Bailey",
           "description": "Douglas County Commissioner Tom Kress talks about a revenue shortfall to maintain safe county roads.",
