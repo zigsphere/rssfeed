@@ -766,7 +766,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news176255",
+          "author": null,
+          "description": "The Oregon Department of Forestry (ODF) - Central Oregon District will officially reduce the fire danger to LOW and end the 2024 fire season Friday, October 25, 2024, at 12:01 a.m., for lands under their protection and management. The end of fire season is a result of recent wetting rains and an overall cooling trend that has returned to the area. \nWith the end of fire season, the public and industrial fire restrictions implemented through the Central Oregon District will no longer be in effect.\nDespite the fire season ending, fire officials advise residents to not rush burning. Instead, cover the top two-thirds of debris piles with a tarp or plastic. Doing this will keep the pile dry to allow for a cleaner burn later into the fall/winter months when the risk of fire spread is minimal. Several days of sunshine and dry weather during the fall months can create a fire risk even if a week or more of cool, wet conditions precede them.\nResidents should contact their local fire department or ODF before conducting any type of debris burning as fire restrictions may vary between local fire districts. ODF offices are located in Sisters, 541-549-2731, Prineville 541-447-5658, The Dalles 541-296-4626, Fossil 541-763-2575 and John Day 541-575-1139.\nWhen burning yard debris, ensure an adequate fire trail around the pile before igniting and have fire tools and a water supply at the burn site. Debris piles should never be left unattended and fully extinguished before leaving the area. If a debris burn escapes containment, the party responsible may be held financially responsible for the resulting fire suppression costs and associated damages.\nThe Central Oregon District staff would like to thank the community for their cooperation and support during the 2024 fire season.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news176255",
+          "publishedOn": "2024-10-24T15:30:00.000Z",
+          "wordCount": 4476,
+          "title": "Central Oregon District 2024 Fire Season Ends Friday, October 25, 2024",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
