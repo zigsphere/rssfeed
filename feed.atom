@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-10-27T13:16:39.443Z</updated>
+    <updated>2024-10-27T16:13:07.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volunteers make differences Saturday across Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/482f456e-92f6-11ef-809d-63e22aa147b6</id>
+        <link href="https://www.nrtoday.com/family/volunteers-make-differences-saturday-across-douglas-county/article_482f456e-92f6-11ef-809d-63e22aa147b6.html"/>
+        <updated>2024-10-27T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Some of the Roseburg High School’s U-Dub Club — a club with Greater Douglas United Way — spent their Saturday morning at Fir Grove Elementary School taking walnuts from squirrels.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Corner Montessori hosts International Children Day]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/08ea3434-92f8-11ef-9765-478a164cacc4</id>
+        <link href="https://www.nrtoday.com/news/education/maple-corner-montessori-hosts-international-children-day/article_08ea3434-92f8-11ef-9765-478a164cacc4.html"/>
+        <updated>2024-10-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — Maple Corner Montessori was a busy hub Friday as students learned about different countries in-depth through hands-on activities and learning stations.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEARLY 21 PERCENT OF DOUGLAS COUNTY BALLOTS RETURNED]]></title>
         <id>https://kqennewsradio.com/?p=125318</id>
@@ -439,16 +459,6 @@ The Central Oregon District staff would like to thank the community for their c
         <summary type="html"><![CDATA[October 24, 2024 2:50 a.m. Covering coastal Douglas County: Reedsport’s Main Street Program is holding its inaugural Fall Festival this Saturday. Knight Uretski has more: “Knight4” Q: News Radio 93-9 FM and 1240 KQEN The is a free family-fun festival celebrating all the wonderful things about fall. It will be held in the Reedsport Community...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County 4-H recognizes members for past season]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3c9743fe-91b7-11ef-9c52-376deab50158</id>
-        <link href="https://www.nrtoday.com/news/education/douglas-county-4-h-recognizes-members-for-past-season/article_3c9743fe-91b7-11ef-9c52-376deab50158.html"/>
-        <updated>2024-10-24T03:22:00.000Z</updated>
-        <summary type="html"><![CDATA[At the 2024 Douglas County Fair in August, Colten Boyer-Stephens went to the weigh-in room with a steer and left with a bull.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
