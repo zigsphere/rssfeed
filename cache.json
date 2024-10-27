@@ -514,26 +514,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241023152505/IMG_5526.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125172",
-          "author": "Kyle Bailey",
-          "description": "October 23, 2024 6:55 a.m.  Deputies with the Douglas County Sheriff’s Office are investigating a fatal shooting that occurred Monday in Scottsburg. Lieutenant Brad O’Dell said at approximately 12:00 p.m., deputies were responding to a reported criminal mischief and assault incident in the 5000 block of Lutsinger Creek Road. O’Dell said while deputies were responding,...",
-          "link": "https://kqennewsradio.com/2024/10/23/deputies-investigate-fatal-shooting-in-scottsburg-monday/?utm_source=rss&utm_medium=rss&utm_campaign=deputies-investigate-fatal-shooting-in-scottsburg-monday",
-          "publishedOn": "2024-10-23T13:54:21.000Z",
-          "wordCount": 1634,
-          "title": "DEPUTIES INVESTIGATE FATAL SHOOTING IN SCOTTSBURG MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125168",
-          "author": "Kyle Bailey",
-          "description": "October 23, 2024 5:50 a.m. Deputies with the Douglas County Sheriff’s Office have investigated an apparent accidental shooting Sunday evening in Tiller. Lieutenant Brad O’Dell said shortly before 7:30 p.m. deputies responded to a residence in the 32000 block of Tiller Trail Highway for a report with a gunshot wound. O’Dell said when deputies arrived,...",
-          "link": "https://kqennewsradio.com/2024/10/23/deputies-investigate-firearm-accident/?utm_source=rss&utm_medium=rss&utm_campaign=deputies-investigate-firearm-accident",
-          "publishedOn": "2024-10-23T12:49:49.000Z",
-          "wordCount": 1533,
-          "title": "DEPUTIES INVESTIGATE FIREARM ACCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
@@ -666,38 +646,7 @@
       "title": "Douglas Co. Sheriff's Office",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5204",
       "siteUrl": "https://www.flashalert.net/news.html?id=5204",
-      "articles": [
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news176219",
-          "author": null,
-          "description": "SCOTTSBURG, Ore. - Detectives are investigating a fatal shooting incident that occurred on Monday in Scottsburg.\nOn Monday, October 21, 2024, at approximately 12:00 pm, deputies were responding to a reported criminal mischief and assault in the 5000 block of Lutsinger Creek Road.\nWhile deputies were responding, 9-1-1 dispatchers received additional calls from the residents in the area reporting the incident was escalating and reports of gunshots heard.\nWhen deputies arrived, they located 58-year-old Darrel Dow Dodd unconscious with apparent gunshot wounds. Deputies attempted lifesaving efforts, which were unsuccessful.\nDetectives with the Douglas County Sheriff's Office and the Douglas County Medical Examiner's Office responded to the scene.\nThrough the investigation, it was learned that Dodd was armed with a weapon, had broken into a residence and began assaulting and strangling a female known to him while threatening to stab her. Another individual attempted to intervene, but Dodd continued his attack. Dodd was shot twice by a third individual.\nDetectives are currently investigating the incident as a case of justified defense of another person, based upon the evidence and circumstances of the incident, although the investigation is ongoing. Once the investigation is complete, it will be forwarded to the Douglas County District Attorney's Office for review.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news176219",
-          "publishedOn": "2024-10-23T13:20:21.000Z",
-          "wordCount": 1632,
-          "title": "Detectives Investigate Fatal Shooting in Scottsburg",
-          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news176218",
-          "author": null,
-          "description": "DOUGLAS COUNTY, Ore. – The Douglas County Sheriff’s Office intends to submit an Edward Byrne Memorial Justice Assistance Grant (JAG) Program FY 2024 Local Solicitation Application through the U.S. Department of Justice Bureau of Justice Assistance.\nThe Edward Byrne Memorial Justice Assistance Grant (Byrne/JAG) Program is the primary provider of federal criminal justice funding to state and local jurisdictions. Byrne/JAG local allocation funds may be used to support a range of program areas including law enforcement, prosecution and court programs, prevention and education programs and crime victim and witness programs.\nRequirements for the Edward Byrne Memorial Justice Assistance Grant (JAG) Program FY 2024 Local Solicitation indicate that an applicant agency make its grant application available for review to the public upon request. The Sheriff’s Office is making the application available to the public for consideration and comment, which will fulfill the requirement.\nRequests to review the application or to submit public comment must be submitted by e-mail to dcso.pio@co.douglas.or.us before Thursday, October 31, 2024, at 8:00 a.m. Public comments must include the name and address of the person submitting the comment.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news176218",
-          "publishedOn": "2024-10-23T12:41:11.000Z",
-          "wordCount": 1632,
-          "title": "Public Comment Opportunity: Edward Byrne Memorial Justice Assitance Grant (JAG) Program FY2024 Local Solicitation Application",
-          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news176217",
-          "author": null,
-          "description": "TILLER, Ore. - Douglas County Deputies investigated an apparent accidental shooting on Sunday evening in Tiller.\nShortly before 7:30 p.m. on Sunday, October 20, 2024, deputies responded to the 32000 block of Tiller Trail Highway for a report of a person with a gunshot wound.\nWhen deputies arrived, they learned 63-year-old Carolyn Hatley had sustained a gunshot wound after finding and handling the firearm. Ms. Hatley reported to deputies the injury was accidental and she was uncertain how the firearm discharged. She was transported to Mercy Medical Center for treatment of her injury.\nDeputies conducted follow up and have concluded in the incident was accidental.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news176217",
-          "publishedOn": "2024-10-23T12:35:10.000Z",
-          "wordCount": 1632,
-          "title": "Deputies Investigate Firearm Accident",
-          "imageUrl": "http://flashalertnewswire.net/images/logo/5204/Sheriff-Badge_seal-small-web.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Roseburg Police Dept.",
