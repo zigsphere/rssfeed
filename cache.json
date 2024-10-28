@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125342",
+          "author": "Kyle Bailey",
+          "description": "Tiffany Roddy of the Douglas County Chapter of Oregon Women in Timber talks about employment  in the forest products sector, and related topics.",
+          "link": "https://kqennewsradio.com/2024/10/28/morning-conversation-10-28-24/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-28-24",
+          "publishedOn": "2024-10-28T16:13:14.000Z",
+          "wordCount": 1492,
+          "title": "MORNING CONVERSATION 10.28.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241028151116/AM-CONV-10-28-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241021151406/IMG_5521.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125336",
           "author": "Kyle Bailey",
           "description": "October 28, 2024 3:45 a.m. A Washington man was injured after dodging a deer while on his motorcycle Friday afternoon. A Douglas County Sheriff’s Office report said just after 2:00 p.m. the 82-year-old from Mount Vernon was riding in the 7000 block of Driver Valley Road in the Oakland area when a deer jumped out...",
@@ -435,7 +450,18 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news176338",
+          "author": null,
+          "description": "SALEM, Ore. — The Adaptive Management Program Committee will meet at noon on Monday, Nov. 4 in the Clatsop Room, Building C, at the Oregon Department of Forestry headquarters, located at 2600 State St. in Salem. To join virtually, please use the Zoom video conference information found on the agenda.\nThe committee’s agenda includes:\n\nDiscuss amphibians research questions\nDiscuss effectiveness monitoring strategy (Substantial decision item)\nWrap up & discuss AMPC member renewals for 2025 and upcoming AMPC Co-chair election\n\nThe meeting is open to the public to attend in person and online via Zoom. Public comments will be accepted near the start of the meeting. Requests for an interpreter for the hearing impaired or other accommodations for persons with disabilities should be made at least 48 hours in advance of the meeting at 503-945-7200 or by email at adaptivemanagementprogram@odf.oregon.gov.\nThe 13-member committee The Adaptive Management Program Committee helps determine if forest practices are meeting their goals to protect natural resources through a science-based and transparent process. The committee sets the research agenda that the Independent Research and Science Team (IRST) implements. View more information on the AMPC webpage.",
+          "link": "https://www.flashalert.net/news.html?id=1072#news176338",
+          "publishedOn": "2024-10-28T15:43:12.000Z",
+          "wordCount": 3550,
+          "title": "Adaptive Management Program Committee meets Nov. 4",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
