@@ -279,6 +279,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/006ed810-959a-11ef-aab6-a3dcfafa344c",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Dillon Eugene Oden, 34, formerly of Klamath Falls, appeared in Douglas County Circuit Court on Monday morning as the third and final defendant from a spree of armed robberies of convenience stores that occurred last year.",
+          "link": "https://www.nrtoday.com/news/final-defendant-in-crime-spree-pleads-for-leniency/article_006ed810-959a-11ef-aab6-a3dcfafa344c.html",
+          "publishedOn": "2024-10-29T13:45:00.000Z",
+          "wordCount": 14244,
+          "title": "Final defendant in crime spree pleads for leniency",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b14c2376-92f8-11ef-b909-bf435cbdbf97",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "SUTHERLIN — Zuree Roark said she planned to trunk or treat Saturday as the Disney character Stitch, but moments before the family left the house, the dog peed on the costume.",
@@ -337,51 +347,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/75/c75a03ea-9311-11ef-881b-4343049549f7/671c02ec0528a.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/65f17760-9004-11ef-9a3c-47f189c79bd2",
-          "author": "Bonnie Courter Master Gardener",
-          "description": "Question: I’ve noticed these tall trees growing along the bridge across from Stewart Park. They have interesting seed pods. Can you tell me what they are and more about them?",
-          "link": "https://www.nrtoday.com/family/ask-a-master-gardener-tree-of-heaven/article_65f17760-9004-11ef-9a3c-47f189c79bd2.html",
-          "publishedOn": "2024-10-25T15:00:00.000Z",
-          "wordCount": 14449,
-          "title": "Ask a Master Gardener: Tree of heaven",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4d/94d7f678-900c-11ef-af1e-cb2c5f719951/6716f1b649828.image.jpg?resize=300%2C225",
-            "length": "611834",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4d/94d7f678-900c-11ef-af1e-cb2c5f719951/6716f1b649828.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9d799f04-8e5c-11ef-8559-771343260289",
-          "author": "Kris Wiley for the News review",
-          "description": "Americans and the Holocaust traveling exhibition is coming soon to Roseburg Public Library.",
-          "link": "https://www.nrtoday.com/news/guest_submission/roseburg-library-to-host-americans-and-the-holocaust-exhibition/article_9d799f04-8e5c-11ef-8559-771343260289.html",
-          "publishedOn": "2024-10-25T13:45:00.000Z",
-          "wordCount": 14109,
-          "title": "Roseburg library to host 'Americans and the Holocaust' exhibition",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227",
-            "length": "186332",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd9551a3-fe5f-5c2f-9ace-470f0f2a15d8/64dcfc9ad6879.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e369169a-8fd6-11ef-9ef6-d7d84c947043",
-          "author": "HEATHER VILLA for News-Review",
-          "description": "October is more than a beautiful fall month. It also marks the 79th National Disability Employment Awareness Month, a time to celebrate the valuable contributions of individuals experiencing disabilities in the workforce. On a state level, Oregon is leading the…",
-          "link": "https://www.nrtoday.com/news/education/get-to-know-douglas-esd-national-disability-employment-awareness-month/article_e369169a-8fd6-11ef-9ef6-d7d84c947043.html",
-          "publishedOn": "2024-10-25T13:45:00.000Z",
-          "wordCount": 14016,
-          "title": "Get to know Douglas ESD: National Disability Employment Awareness Month",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/95/d95e0fe4-8fee-11ef-b605-331fb889c157/6716c14d17dd7.image.jpg?resize=300%2C450",
-            "length": "246153",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/95/d95e0fe4-8fee-11ef-b605-331fb889c157/6716c14d17dd7.image.jpg?resize=300%2C450"
         }
       ]
     },
@@ -442,6 +407,21 @@
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
       "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news176371",
+          "author": null,
+          "description": "Salem, Ore. – The Oregon Department of Forestry is excited to welcome home 13 firefighters after a two-week deployment in North Carolina to assist in Hurricane Helene recovery efforts. The crew supported the North Carolina Forest Service in state forest clean up, wildfire initial attack and other assignments. To date, they accomplished over 55 miles of clearing roads and trails, averaging about three to five miles a day.  \n“It was an honor and a privilege to work with such an outstanding group of individuals,” said Dave Larson, ODF’s Agency Representative for the assignment and Southern Oregon Area Director.  \nThe crew was mobilized on October 9 to North Carolina with a simple instruction: to help wherever needed. Upon landing, they almost immediately saw the level of devastation and were …",
+          "link": "https://www.flashalert.net/news.html?id=1072#news176371",
+          "publishedOn": "2024-10-29T18:00:00.000Z",
+          "wordCount": 4928,
+          "title": "ODF firefighters return home from hurricane recovery assignment (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-10/1072/176371/IMG_1271.jpg",
+            "length": "3526471",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-10/1072/176371/IMG_1271.jpg"
+        },
         {
           "id": "https://www.flashalert.net/news.html?id=1072#news176370",
           "author": null,
