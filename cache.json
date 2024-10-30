@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125445",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Congress Monique DeSpain provides another update on her campaign and talks about why she would like to be elected in the 4th district.",
+          "link": "https://kqennewsradio.com/2024/10/30/inside-douglas-county-10-30-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-30-24",
+          "publishedOn": "2024-10-30T20:21:17.000Z",
+          "wordCount": 1496,
+          "title": "INSIDE DOUGLAS COUNTY 10.30.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241030190825/IDC-10-30-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231122201617/Monique-01-1-scaled-cropped-headshot.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125443",
           "author": "Kyle Bailey",
           "description": "October 30, 2024 11:10 a.m. Roseburg Police cited a man for drinking in public on Tuesday afternoon. An RPD report said at 4:40 p.m. officers contacted the 63-year-old behind a business in the 1300 block of Northeast Stephens Street. He had an open beer in his possession. An officer confirmed the beer was still half...",
@@ -489,6 +504,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e5d09ab0-9653-11ef-9d58-b7dd63e073a6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — Receiving a Bachelor of Arts in social work without leaving Douglas County will be possible through a new partnership between Umpqua Community College and Idaho State University.",
+          "link": "https://www.nrtoday.com/news/education/umpqua-community-college-introduces-social-work-degree-opportunities/article_e5d09ab0-9653-11ef-9d58-b7dd63e073a6.html",
+          "publishedOn": "2024-10-30T15:00:00.000Z",
+          "wordCount": 14107,
+          "title": "Umpqua Community College introduces social work degree opportunities",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e06e68c6-9640-11ef-862d-3fc5ee29bf88",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Bernie Woodard’s company, Elk Island Trading Group LLC, worked on its third urban camp Tuesday afternoon.",
+          "link": "https://www.nrtoday.com/news/new-urban-campground-comes-to-south-roseburg/article_e06e68c6-9640-11ef-862d-3fc5ee29bf88.html",
+          "publishedOn": "2024-10-30T14:45:00.000Z",
+          "wordCount": 14545,
+          "title": "New urban campground comes to south Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/8f/48fffcf6-964b-11ef-9cfe-6f9202e290f0/67216be452100.image.jpg?resize=300%2C200",
+            "length": "608805",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/8f/48fffcf6-964b-11ef-9cfe-6f9202e290f0/67216be452100.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c97e800c-9630-11ef-97ef-6fb1448d9003",
+          "author": "STEPHANIE HALE The News-Review",
+          "description": "ROSEBURG — The Roseburg High School Marching Ensemble will perform the entire production of \"The Outlaw of Nottingham\" at 7 p.m. Tuesday, Nov. 5, at Roseburg High School's Finlay Field.",
+          "link": "https://www.nrtoday.com/news/free-marching-band-perfomance/article_c97e800c-9630-11ef-97ef-6fb1448d9003.html",
+          "publishedOn": "2024-10-30T13:45:00.000Z",
+          "wordCount": 13434,
+          "title": "Free marching band perfomance",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ddc4572a-92f8-11ef-927c-d3d3fd93d549",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Al and Trudy Walker took their first trip to Asia, visiting Kuki, Japan, in early October.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-delegates-visit-kuki-japan/article_ddc4572a-92f8-11ef-927c-d3d3fd93d549.html",
+          "publishedOn": "2024-10-30T13:30:00.000Z",
+          "wordCount": 14809,
+          "title": "Roseburg delegates visit Kuki, Japan",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/7a/a7affbc0-9583-11ef-9eca-0bc2c476b2da/67201cf7cc5b4.image.jpg?resize=300%2C225",
+            "length": "129007",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/7a/a7affbc0-9583-11ef-9eca-0bc2c476b2da/67201cf7cc5b4.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/765287f6-9613-11ef-9877-0f1fede8f58d",
           "author": "STEPHANIE HALE The News-Review",
           "description": "ROSEBURG — Oregon Department of Transportation and the city of Roseburg are hosting an online event to share information and receive public opinion.",
@@ -496,6 +561,16 @@
           "publishedOn": "2024-10-30T10:30:00.000Z",
           "wordCount": 13491,
           "title": "ODOT and city of Roseburg seek public opinion on freeway interchange",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/66778336-964f-11ef-a25f-03e131a43ea0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "FISHING REPORT",
+          "link": "https://www.nrtoday.com/news/environment/douglas-county-recreation-report-november-2024/article_66778336-964f-11ef-a25f-03e131a43ea0.html",
+          "publishedOn": "2024-10-29T23:42:00.000Z",
+          "wordCount": 17836,
+          "title": "Douglas County Recreation Report November 2024",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
