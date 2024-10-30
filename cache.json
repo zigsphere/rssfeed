@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125402",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littejohn Financial Services,  David Littlejohn and Justin Bruggeman has our weekly local financial program",
+          "link": "https://kqennewsradio.com/2024/10/29/true-wealth-radio-10-29-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-10-29-24",
+          "publishedOn": "2024-10-30T00:20:37.000Z",
+          "wordCount": 1493,
+          "title": "TRUE WEALTH RADIO 10.29.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241029230831/TWR-10-29-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=125400",
+          "author": "Kyle Bailey",
+          "description": "October 29, 2024 4:10 a.m.  The News-Review reports that the Roseburg City Council heard from numerous community members in support of City Manager Nikki Messenger during a City Council meeting Monday. Umpqua Community College President Rachel Pokrandt, Roseburg Urban Sanitary Authority General Manager Jim Baird, former employees and former members of council voiced their support...",
+          "link": "https://kqennewsradio.com/2024/10/29/city-manager-receives-support-at-city-council-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=city-manager-receives-support-at-city-council-meeting",
+          "publishedOn": "2024-10-29T23:14:55.000Z",
+          "wordCount": 1596,
+          "title": "CITY MANAGER RECEIVES SUPPORT AT CITY COUNCIL MEETING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241018094814/nikki2-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125398",
           "author": "Joey Keeran",
           "description": "Oct. 29, 2024 1:50 p.m.  A Roseburg woman was arrested for allegedly attempting to pass counterfeit bills at a restaurant on Harvard Avenue Monday morning. Roseburg Police responded to the business just before 9 a.m. The 40-year-old woman allegedly tried to use a counterfeit bill to pay for more than $20 worth of food. Officers...",
@@ -314,16 +339,6 @@
           "wordCount": 1539,
           "title": "ROSEBURG MAN DIES IN MOTORCYCLE ACCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125318",
-          "author": "Kyle Bailey",
-          "description": "Oregon 26th, 2024 7:00 a.m.   Nearly 21 percent of ballots for the 2024 Douglas County November Presidential General Election have been returned as of Friday evening. Douglas County Clerk Daniel Loomis said 20.99 percent, or 18,842 ballots have been received. Loomis said that lags 16.9 percent behind the participation rate for the same point in...",
-          "link": "https://kqennewsradio.com/2024/10/26/nearly-21-percent-of-douglas-county-ballots-returned/?utm_source=rss&utm_medium=rss&utm_campaign=nearly-21-percent-of-douglas-county-ballots-returned",
-          "publishedOn": "2024-10-26T13:56:30.000Z",
-          "wordCount": 1564,
-          "title": "NEARLY 21 PERCENT OF DOUGLAS COUNTY BALLOTS RETURNED",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
         }
       ]
     },
