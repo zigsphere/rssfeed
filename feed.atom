@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-02T16:12:59.288Z</updated>
+    <updated>2024-11-02T19:10:09.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY STARTS SATURDAY AT 5:00 P.M. FOR MOUNTAIN AREAS]]></title>
+        <id>https://kqennewsradio.com/?p=125583</id>
+        <link href="https://kqennewsradio.com/2024/11/02/winter-weather-advisory-starts-saturday-at-500-p-m-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-starts-saturday-at-500-p-m-for-mountain-areas"/>
+        <updated>2024-11-02T18:35:37.000Z</updated>
+        <summary type="html"><![CDATA[November 2, 2024 11:30 a.m. A Winter Weather Advisory is in effect from 5:00 p.m. Saturday through 4:00 a.m. Sunday for the Cascade passes in southern Oregon. Forecasters at the National Weather Service said total accumulations between 4 and 8 inches are expected across the passes. Winds gusting as high as 35 miles per hour....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHOOPING COUGH (PERTUSSIS) CASES CONFIRMED IN DOUGLAS COUNTY]]></title>
         <id>https://kqennewsradio.com/?p=125574</id>
