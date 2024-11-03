@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-03T16:13:22.551Z</updated>
+    <updated>2024-11-03T19:09:33.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5th Annual DCSO Christmas Card Drawing Contest Is Now Open! (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=5204#news176495</id>
+        <link href="https://www.flashalert.net/news.html?id=5204#news176495"/>
+        <updated>2024-11-03T17:00:26.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY, Ore. - The Douglas County Sheriff's Office is hosting its 5th Annual Christmas Card Drawing Contest for Douglas County children. The specifics for the contest are listed below: 
+ABOUT THE CONTEST: 
+The Douglas County Sheriff’s Office Christmas Card Contest is a drawing competition for children in Douglas County.  One winner from each of the eligibility groups will be selected as the artist for the Douglas County Sheriff’s Office Official 2024 Christmas Card. 
+ENTRY GUIDELINES: 
+Entry Period: November 3, 2024 – December 2, 2024Eligibility:
+Group 1: Grades Pre-K – 2nd    
+Group 2: Grades 3rd – 5th    
+Group 3: Grades 6th – 8th
+Theme: A Sheriff’s Office Community Christmas
+HOW TO ENTER: 
+Participants may create an original hand drawn entry on a contest drawing page or an 8.5 x…]]></summary>
+        <author>
+            <name>Douglas Co. Sheriff's Office</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY STARTS SATURDAY AT 5:00 P.M. FOR MOUNTAIN AREAS]]></title>
         <id>https://kqennewsradio.com/?p=125583</id>
@@ -481,36 +501,6 @@ The Douglas County Sheriff's Office was assisted by Douglas County Search and Re
         <summary type="html"><![CDATA[October 31, 2024 2:50 a.m. The Roseburg High School Marching Band will present their final performance of the season next Tuesday November 5th at 7:00 p.m. This “Platinum Arrow” performance will take place at Finlay Field on the RHS campus. This is the only chance to see the entire Roseburg Marching Ensemble half time show...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cow Creek Tribe secures federal funding]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0849e15a-9749-11ef-930b-7715a257733e</id>
-        <link href="https://www.nrtoday.com/news/cow-creek-tribe-secures-federal-funding/article_0849e15a-9749-11ef-930b-7715a257733e.html"/>
-        <updated>2024-10-31T05:28:00.000Z</updated>
-        <summary type="html"><![CDATA[CANYONVILLE — Cow Creek Band of Umpqua Tribe of Indians secured $268,172 in federal funds as an investment to modernize the electric grid and reduce the impacts of extreme weather while ensuring power sector reliability.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost 40% of ballots turned in]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7b7f4964-9747-11ef-8e3c-7b827eef422c</id>
-        <link href="https://www.nrtoday.com/news/almost-40-of-ballots-turned-in/article_7b7f4964-9747-11ef-8e3c-7b827eef422c.html"/>
-        <updated>2024-10-31T05:17:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — The current 2024 Douglas County November Presidential General Election shows 39.85% of Douglas County ballots have been received, which lags 17.91% behind the participation rate for the same point in the 2020 election.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Community College introduces social work degree opportunities]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e5d09ab0-9653-11ef-9d58-b7dd63e073a6</id>
-        <link href="https://www.nrtoday.com/news/education/umpqua-community-college-introduces-social-work-degree-opportunities/article_e5d09ab0-9653-11ef-9d58-b7dd63e073a6.html"/>
-        <updated>2024-10-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — Receiving a Bachelor of Arts in social work without leaving Douglas County will be possible through a new partnership between Umpqua Community College and Idaho State University.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
