@@ -304,6 +304,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e5aae2c4-9631-11ef-80c5-536f590e4c8f",
+          "author": "Scott Carroll The News-Review",
+          "description": "Child by child, year after year, the people at Douglas C.A.R.E.S. have quietly gone about the work of helping families begin to heal.",
+          "link": "https://www.nrtoday.com/news/c-a-r-e-s-moving-into-new-building/article_e5aae2c4-9631-11ef-80c5-536f590e4c8f.html",
+          "publishedOn": "2024-11-04T16:00:00.000Z",
+          "wordCount": 14988,
+          "title": "C.A.R.E.S moving into new building",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/91/6919156e-9870-11ef-bac6-0f0fd375738b/6725052bd9534.image.jpg?resize=300%2C200",
+            "length": "314355",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/91/6919156e-9870-11ef-bac6-0f0fd375738b/6725052bd9534.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7a45977c-97c6-11ef-923d-577c0fb5b8dc",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Christy Perry’s roots run deep along Douglas County’s coast.",
+          "link": "https://www.nrtoday.com/news/reedsport-native-recognized-with-alumni-award-after-career-in-oregon-schools/article_7a45977c-97c6-11ef-923d-577c0fb5b8dc.html",
+          "publishedOn": "2024-11-04T15:45:00.000Z",
+          "wordCount": 14370,
+          "title": "Reedsport native recognized with alumni award after career in Oregon schools",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9b/19bfcb22-97c9-11ef-ba9d-7b40a0c712e9/6723eeb12a9c7.image.jpg?resize=300%2C300",
+            "length": "186295",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/9b/19bfcb22-97c9-11ef-ba9d-7b40a0c712e9/6723eeb12a9c7.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a8469eee-9a6b-11ef-93c8-ebdd40ae8ba8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Zuri the cheetah gave birth to two male cubs on Sept. 24 at Wildlife Safari.",
+          "link": "https://www.nrtoday.com/news/environment/wildlife-safari-welcomes-cheetah-cubs/article_a8469eee-9a6b-11ef-93c8-ebdd40ae8ba8.html",
+          "publishedOn": "2024-11-04T14:30:00.000Z",
+          "wordCount": 14024,
+          "title": "Wildlife Safari welcomes cheetah cubs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/f7/bf737428-9a77-11ef-8389-67dfd2b919f3/67286c7988ab5.image.jpg?resize=300%2C261",
+            "length": "344131",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/f7/bf737428-9a77-11ef-8389-67dfd2b919f3/67286c7988ab5.image.jpg?resize=300%2C261"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4536c5be-9a6a-11ef-be36-db98585c258e",
+          "author": null,
+          "description": "DOUGLAS COUNTY — The Douglas County Sheriff's Office announced the opening of the fifth annual Christmas Card Drawing Contest for Douglas County children.",
+          "link": "https://www.nrtoday.com/family/christmas-card-contest-opens/article_4536c5be-9a6a-11ef-be36-db98585c258e.html",
+          "publishedOn": "2024-11-04T05:04:00.000Z",
+          "wordCount": 13457,
+          "title": "Christmas card contest opens",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/79325f0a-98d9-11ef-b5bf-eba899e295fa",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "SUTHERLIN — The Sutherlin football team defeated South Umpqua 28-14 to end the regular season Friday night.",
@@ -406,21 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-11/5204/176495/2024_DCSO_Christmas_Card_Contest.png"
-        },
-        {
-          "id": "https://www.flashalert.net/news.html?id=5204#news176463",
-          "author": null,
-          "description": "DOUGLAS COUNTY, Ore. – A 43-year-old Sutherlin woman has been rescued from the wilderness area outside of Reedsport.\nMandy Greer was picking mushrooms in the vicinity of Camp Creek Road east of Loon Lake on Tuesday afternoon. She and her significant other had only planned to be out for a few hours.\nJust before 5 pm Tuesday, October 29th, 9-1-1 dispatchers received a call from her companion advising they had split up while picking mushrooms, and Greer hadn’t returned to their shared vehicle as planned.\nDeputies and Search and Rescue responded and spent several hours searching for Greer in response to this report. Search efforts included ground, fixed wing aircraft and drone work. A drone operator identified potential heat signatures, but searchers did not locate Greer. Efforts were paused in the early morning hours but resumed Wednesday morning.\nOn Wednesday, Douglas County Search and Rescue received resources from the Jackson County Sheriff's Office Search and Rescue unit to assist in search efforts which resumed at 7:00 am.\nAt approximately 9:15 am, a deputy was able to make voice contact with Greer who responded to the deputy's siren sound sweep. Searchers learned Greer was injured and would need assistance in extracting from the forest. When rescuers located Greer, it was determined she had suffered a non-life-threatening injury, was cold and wet.\nRescuers provided first aid, food and hot tea before assisting Greer to the roadway where she was transferred to the care of EMS providers.\nThe Douglas County Sheriff's Office was assisted by Douglas County Search and Rescue, Jackson County Sheriff's Office Search and Rescue, Oregon State Police Aircraft Unit, Sutherlin Police, and Umpqua Valley Ambulance.",
-          "link": "https://www.flashalert.net/news.html?id=5204#news176463",
-          "publishedOn": "2024-11-01T03:42:35.000Z",
-          "wordCount": 1944,
-          "title": "Sutherlin Woman Rescued from Wilderness Near Reedsport (Photo)",
-          "enclosure": {
-            "url": "http://www.flashalertnewswire.net/images/news/2024-10/5204/176463/SAR103024.jpg",
-            "length": "3393175",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-10/5204/176463/SAR103024.jpg"
         }
       ]
     },
