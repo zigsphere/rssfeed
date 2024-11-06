@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125695",
+          "author": "Kyle Bailey",
+          "description": "November 5, 2024 5:30 p.m. Listen to national coverage until 10:00 p.m. on News Radio 93-9 FM and 1240 KQEN.  Check for local information after 8:00 p.m. on our site listed above.  Complete information on The Morning Report Wednesday, starting at 7:00 a.m.",
+          "link": "https://kqennewsradio.com/2024/11/06/general-election-coverage-11-5-24/?utm_source=rss&utm_medium=rss&utm_campaign=general-election-coverage-11-5-24",
+          "publishedOn": "2024-11-06T01:20:05.000Z",
+          "wordCount": 1445,
+          "title": "GENERAL ELECTION COVERAGE 11.5.24",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241106001551/nr.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=125692",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/11/06/true-wealth-11-5-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-5-24",
+          "publishedOn": "2024-11-06T01:04:29.000Z",
+          "wordCount": 1478,
+          "title": "TRUE WEALTH 11.5.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241106000336/TWR-11-5-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125689",
           "author": "Kyle Bailey",
           "description": "November 5, 2024 3:10 p.m.  The Roseburg Community Development Department is accepting applications for fall 2024 tourism grants until December 31st A city release said successful applicants may win grants of up to $7,500 or even more, to help draw visitors to Roseburg and the surrounding areas. Last April, the city council authorized the Economic...",
@@ -374,26 +399,6 @@
           "wordCount": 1546,
           "title": "WINTER WEATHER ADVISORY STARTS SATURDAY AT 5:00 P.M. FOR MOUNTAIN AREAS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241102173058/winter-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125574",
-          "author": "Kyle Bailey",
-          "description": "November 2, 2024 7:10 a.m. Local public health officials have announced that there are three pediatric cases of Pertussis, including two infants, and seven additional presumptive cases of Pertussis, also known as Whooping Cough, as of November 1st. A Douglas Public Health Network release said schools and parents have been alerted and currently include Roseburg...",
-          "link": "https://kqennewsradio.com/2024/11/02/whooping-cough-pertussis-cases-confirmed-in-douglas-county/?utm_source=rss&utm_medium=rss&utm_campaign=whooping-cough-pertussis-cases-confirmed-in-douglas-county",
-          "publishedOn": "2024-11-02T14:13:22.000Z",
-          "wordCount": 1726,
-          "title": "WHOOPING COUGH (PERTUSSIS) CASES CONFIRMED IN DOUGLAS COUNTY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224012/DPHN-logo-1-5.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125572",
-          "author": "Kyle Bailey",
-          "description": "November 2, 2024 6:40 a.m. Nearly 48 percent of ballots have been turned in for the 2024 Douglas County November Presidential General Election, as of Friday evening. County Clerk Daniel Loomis said 47.86 percent, or 42,989 ballots have been received. Loomis said that lags 16.86 percent behind the participation rate for the same point in...",
-          "link": "https://kqennewsradio.com/2024/11/02/nearly-48-percent-of-ballots-turned-in-as-of-friday-evening/?utm_source=rss&utm_medium=rss&utm_campaign=nearly-48-percent-of-ballots-turned-in-as-of-friday-evening",
-          "publishedOn": "2024-11-02T13:47:06.000Z",
-          "wordCount": 1524,
-          "title": "NEARLY 48 PERCENT OF BALLOTS TURNED IN, AS OF FRIDAY EVENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
         }
       ]
     },
