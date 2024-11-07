@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-06T23:11:09.194Z</updated>
+    <updated>2024-11-07T02:42:28.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 11.6.24]]></title>
+        <id>https://kqennewsradio.com/?p=125752</id>
+        <link href="https://kqennewsradio.com/2024/11/07/mike-winters-lawn-and-garden-show-11-6-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-11-6-24"/>
+        <updated>2024-11-07T01:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.6.24]]></title>
         <id>https://kqennewsradio.com/?p=125746</id>
@@ -97,6 +107,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[City, county offices closed Monday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/303600a2-9c5a-11ef-9e5e-0391d8290b6d</id>
+        <link href="https://www.nrtoday.com/news/local/city-county-offices-closed-monday/article_303600a2-9c5a-11ef-9e5e-0391d8290b6d.html"/>
+        <updated>2024-11-06T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — City and county offices will be closed Monday, Nov. 11, in observance of Veterans Day.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tourism grant cycle opens]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b6acdcec-9c59-11ef-ae5b-fbb01ce7f6ed</id>
+        <link href="https://www.nrtoday.com/news/local/tourism-grant-cycle-opens/article_b6acdcec-9c59-11ef-ae5b-fbb01ce7f6ed.html"/>
+        <updated>2024-11-06T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — The Roseburg Community Development Department is accepting applications for fall 2024 tourism grants until Dec. 31.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DOUGLAS COUNTY RACES AND MEASURES: RESULTS]]></title>
         <id>https://kqennewsradio.com/?p=125710</id>
         <link href="https://kqennewsradio.com/2024/11/06/douglas-county-races-and-measures-results/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-county-races-and-measures-results"/>
@@ -184,6 +214,16 @@
         <summary type="html"><![CDATA[SUTHERLIN — Psilocybin will continue to be banned in Sutherlin following a vote in Tuesday’s election.]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canyonville library offers STEAM Hub]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3ad6b8e8-9be8-11ef-b152-7338590cf7eb</id>
+        <link href="https://www.nrtoday.com/family/canyonville-library-offers-steam-hub/article_3ad6b8e8-9be8-11ef-b152-7338590cf7eb.html"/>
+        <updated>2024-11-06T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — The Canyonville Community Library received state-of-the-art robotics and coding equipment from the Umpqua Valley STEAM Hub.]]></summary>
+        <author>
+            <name>The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -614,16 +654,6 @@ HOW TO ENTER: 
 Participants may create an original hand drawn entry on a contest drawing page or an 8.5 x…]]></summary>
         <author>
             <name>Douglas Co. Sheriff's Office</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Valley Christian volleyball sweeps Ione/Arlington, advances to 1A state tournament]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a4739cec-9997-11ef-bf6a-5bd9ddec14b6</id>
-        <link href="https://www.nrtoday.com/sports/preps/prep_volleyball/umpqua-valley-christian-volleyball-sweeps-ione-arlington-advances-to-1a-state-tournament/article_a4739cec-9997-11ef-bf6a-5bd9ddec14b6.html"/>
-        <updated>2024-11-03T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[DIXONVILLE — The No. 2-seeded Umpqua Valley Christian volleyball team is headed back to the Class 1A state tournament.]]></summary>
-        <author>
-            <name>TOM EGGERS News-Review Sports Editor</name>
         </author>
     </entry>
 </feed>
