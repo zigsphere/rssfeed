@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-07T13:18:12.605Z</updated>
+    <updated>2024-11-07T16:14:14.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMART reading needs volunteers across Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/07be7642-9afa-11ef-8592-1349aea9e8c6</id>
+        <link href="https://www.nrtoday.com/news/education/smart-reading-needs-volunteers-across-douglas-county/article_07be7642-9afa-11ef-8592-1349aea9e8c6.html"/>
+        <updated>2024-11-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SMART Reading is a nonprofit organization that aims to help Oregon children reach benchmarks through reading with them.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Courthouse illuminates green for Project Greenlight]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5cf0d34c-9962-11ef-b7a0-8b4b5c4b3b80</id>
+        <link href="https://www.nrtoday.com/news/douglas-county-courthouse-illuminates-green-for-project-greenlight/article_5cf0d34c-9962-11ef-b7a0-8b4b5c4b3b80.html"/>
+        <updated>2024-11-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Courthouse will be illuminated with green light throughout the month of November in solidarity of veterans and their families after Douglas County Commissioners issued a proclamation encouraging county residents to honor those who served.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 8:00 A.M. THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=125771</id>
