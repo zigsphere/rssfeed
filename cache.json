@@ -564,26 +564,6 @@
           "wordCount": 1515,
           "title": "HOYLE, BENTZ RETAIN THEIR CONGRESSIONAL SEATS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125700",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2024 3:05 a.m. A persistent weather pattern of cooler temperatures and consistent rain has prompted a decrease in restrictions for industrial slash-burning on lands protected by the Douglas Forest Protective Association, effective on Monday. As a result, industrial slash burning may increase through the Douglas District. A DFPA release said these restrictions are...",
-          "link": "https://kqennewsradio.com/2024/11/06/industrial-slash-burning-may-increase-in-douglas-district/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-slash-burning-may-increase-in-douglas-district",
-          "publishedOn": "2024-11-06T11:00:42.000Z",
-          "wordCount": 1671,
-          "title": "INDUSTRIAL SLASH BURNING MAY INCREASE IN DOUGLAS DISTRICT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210508/newdfpa.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125698",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2024 2:50 a.m. City of Roseburg Buildings will be closed on Monday, November 11th, in observance of Veterans Day. A city release said that means that Roseburg City Hall, the Public Safety Center, Roseburg Public Library and other city buildings will be closed to the public. The city council meeting that would normally...",
-          "link": "https://kqennewsradio.com/2024/11/06/city-of-roseburg-to-close-offices-monday-for-veterans-day/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-roseburg-to-close-offices-monday-for-veterans-day",
-          "publishedOn": "2024-11-06T10:58:00.000Z",
-          "wordCount": 1557,
-          "title": "CITY OF ROSEBURG TO CLOSE OFFICES MONDAY FOR VETERANS DAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223954/City-Hall-Front-e1587726357513.jpg"
         }
       ]
     },
@@ -873,7 +853,18 @@
       "title": "Roseburg Police Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
       "siteUrl": "https://www.flashalert.net/news.html?id=5489",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news176644",
+          "author": null,
+          "description": "On November 9th at 0315 hours, the Roseburg Police Department responded to multiple reports of gunfire in the 1200 block Hamilton Street, in Roseburg.  The responding officers located and identified the shooter as 25 year old Austin Adrian Wall.  The responding officers also located Ryan Dale Burchell ( 50 years of age), who sustained several gunshot wounds.  The officers on scene began life saving efforts for Burchell until relieved by paramedics.  Burchell was transported to Mercy by ambulance, but ultimately succumbed to his injuries at approximately 0921 hours.   \nThe Douglas County Major Crimes team, which includes the Roseburg Police Department, Douglas County Sheriff’s Office, Oregon State Police, and the Douglas County District Attorney’s Office, has been activated and a comprehensive and ongoing investigation is occurring.  Based on the preliminary investigation,  Wall was taken into custody for Murder II and was lodged at Douglas County Corrections.",
+          "link": "https://www.flashalert.net/news.html?id=5489#news176644",
+          "publishedOn": "2024-11-09T20:38:08.000Z",
+          "wordCount": 278,
+          "title": "Shooting Investigation - Hamilton Street",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Fire Dept.",
