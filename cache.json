@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125878",
+          "author": "Kyle Bailey",
+          "description": "November 10, 2024 6:15 a.m. A Winter Weather Advisory remains in effect from 4:00 a.m. Monday to 10:00 a.m. Tuesday for mountain areas above 5,000 feet in parts of southern Oregon. Forecasters at the National Weather Service in Medford said snow is expected above 5,000 feet. Total snow accumulation between 8 and 16 inches are...",
+          "link": "https://kqennewsradio.com/2024/11/10/winter-weather-advisory-for-mountain-areas-in-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-for-mountain-areas-in-southern-oregon",
+          "publishedOn": "2024-11-10T14:16:21.000Z",
+          "wordCount": 1600,
+          "title": "WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241110131610/Sunsnow.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125869",
           "author": "Kyle Bailey",
           "description": "November 9, 2024 4:10 p.m.   A Roseburg man is deceased following a shooting early Saturday, with the suspect in jail on a murder charge. Sergeant Daniel Allen of the Roseburg Police Department said at 3:15 a.m. officers responded to multiple reports of gunfire in the 1200 block of Southeast Hamilton Street. Allen said officers located...",
@@ -423,6 +433,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/59b6ca4a-95b8-11ef-bc16-abc9eae48db6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Two teenagers on different sides of the country signed up to join the military in the same year.",
+          "link": "https://www.nrtoday.com/family/dan-and-dawnetta-loomis-spent-over-20-years-in-the-service/article_59b6ca4a-95b8-11ef-bc16-abc9eae48db6.html",
+          "publishedOn": "2024-11-10T16:00:00.000Z",
+          "wordCount": 17181,
+          "title": "Dan and Dawnetta Loomis spent over 20 years in the service",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/e1/ae1e5ef2-9637-11ef-ad1d-23310dfd94a0/67214b0009a0d.image.jpg?resize=300%2C439",
+            "length": "253636",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/e1/ae1e5ef2-9637-11ef-ad1d-23310dfd94a0/67214b0009a0d.image.jpg?resize=300%2C439"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b108eb82-97c2-11ef-a9de-6377098e17a2",
           "author": "GLORIA COLEMAN The News-Review",
