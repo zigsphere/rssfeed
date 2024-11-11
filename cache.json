@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125922",
+          "author": "Kyle Bailey",
+          "description": "Monday we replayed Friday’s special veterans program with veterans Roger Boucock and Lonnie Shields",
+          "link": "https://kqennewsradio.com/2024/11/11/inside-douglas-county-11-11-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-11-24",
+          "publishedOn": "2024-11-11T21:36:22.000Z",
+          "wordCount": 1483,
+          "title": "INSIDE DOUGLAS COUNTY 11.11.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241108202015/IDC-11-8-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241108202302/IMG_5614.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=125918",
+          "author": "Kyle Bailey",
+          "description": "November 11, 2024 11:10 a.m.   Registration continues for an herbal tea workshop happening next month. The Oregon State University Extension Service and Master Food Preservers will have the event on Saturday December 7th from 10:00 a.m. to 2:00 p.m. at the Extension office on Southeast Douglas Avenue, next to the courthouse in Roseburg. Master Gardeners...",
+          "link": "https://kqennewsradio.com/2024/11/11/registration-continues-for-herbal-tea-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=registration-continues-for-herbal-tea-workshop",
+          "publishedOn": "2024-11-11T19:17:29.000Z",
+          "wordCount": 1512,
+          "title": "REGISTRATION CONTINUES FOR HERBAL TEA WORKSHOP",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125916",
           "author": "Kyle Bailey",
           "description": "November 11, 2024 11:00 a.m.  A commercial motor vehicle left the freeway and crashed early Thursday morning. An Oregon State Police report said at approximately 3:30 a.m. the operator of the northbound vehicle lost control while negotiating a curve on Canyon Creek pass. The tractor and trailer exited the right-hand shoulder of the freeway and...",
@@ -344,26 +369,6 @@
           "wordCount": 1607,
           "title": "WREATH MAKING WORKSHOP HAPPENING NOVEMBER 21ST",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125812",
-          "author": "Kyle Bailey",
-          "description": "November 8, 2024 3:05 a.m. Roseburg Police are investigating a two-vehicle crash which took place Wednesday morning. An RPD report said at approximately 10:40 a.m. officers responded to the accident near the intersection of Southeast Pine Street and Southeast Mosher Avenue. Upon arrival, officers learned that a 66-year-old Sutherlin man was driving south on Pine...",
-          "link": "https://kqennewsradio.com/2024/11/08/roseburg-police-are-investigating-a-two-vehicle-crash/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-are-investigating-a-two-vehicle-crash",
-          "publishedOn": "2024-11-08T11:09:11.000Z",
-          "wordCount": 1521,
-          "title": "ROSEBURG POLICE ARE INVESTIGATING A TWO-VEHICLE CRASH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125810",
-          "author": "Kyle Bailey",
-          "description": "November 8, 2024 2:50 a.m.  Roseburg Police jailed a man for an alleged trespass incident on Wednesday. An RPD report said at 7:30 a.m. officers contacted the 40-year-old while he was walking on the railroad tracks near the 200 block of Southeast Pine Street. The man reportedly refused to get off the track after being...",
-          "link": "https://kqennewsradio.com/2024/11/08/roseburg-police-jail-man-for-alleged-trespass-incident-31/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-alleged-trespass-incident-31",
-          "publishedOn": "2024-11-08T11:06:35.000Z",
-          "wordCount": 1491,
-          "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED TRESPASS INCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
         }
       ]
     },
