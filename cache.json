@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=125898",
+          "author": "Kyle Bailey",
+          "description": "November 11, 2024 5:50 a.m.  Officials with the Coos County Sheriff’s Office are continuing the search for a missing child. CCSO Public Information Officer Christopher Gill said 5-year-old Joshua James McCoy took a nap with his mother at their residence on Stage Road in the Hauser area at 1:00 p.m. on Saturday. When the mother...",
+          "link": "https://kqennewsradio.com/2024/11/11/coos-county-sheriffs-office-seeking-missing-child/?utm_source=rss&utm_medium=rss&utm_campaign=coos-county-sheriffs-office-seeking-missing-child",
+          "publishedOn": "2024-11-11T13:54:12.000Z",
+          "wordCount": 1558,
+          "title": "COOS COUNTY SHERIFF’S OFFICE SEEKING MISSING CHILD",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241111125407/JOSHUA.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=125893",
           "author": "Kyle Bailey",
           "description": "November 11, 2024 3:40 a.m.  A Winter Weather Advisory is in effect through 10:00 a.m. Tuesday above 5,000 feet for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said snow is expected above 5,000 feet. Total snow accumulations between 8 and 16 inches is forecast. Winds gusting as high as...",
@@ -303,6 +313,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/23445526-9fa5-11ef-a8a1-17bfd632b328",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "A traveling exhibition titled \"American and the Holocaust\" will be held November and December at the Roseburg Public Library, educating the community on one of the darkest periods of modern history.",
+          "link": "https://www.nrtoday.com/news/roseburg-public-library-hosts-americans-and-the-holocaust-exhibition/article_23445526-9fa5-11ef-a8a1-17bfd632b328.html",
+          "publishedOn": "2024-11-10T20:48:00.000Z",
+          "wordCount": 14293,
+          "title": "Roseburg Public Library hosts 'Americans and the Holocaust' exhibition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3e/73e6802c-9fa9-11ef-9abf-6f245313aa3d/6731235970283.image.jpg?resize=300%2C200",
+            "length": "227174",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3e/73e6802c-9fa9-11ef-9abf-6f245313aa3d/6731235970283.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/59b6ca4a-95b8-11ef-bc16-abc9eae48db6",
           "author": "GLORIA COLEMAN The News-Review",
