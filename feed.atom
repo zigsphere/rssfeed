@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-13T13:19:19.215Z</updated>
+    <updated>2024-11-13T16:14:55.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[POWER OUTAGE IMPACTING ELKTON, DRAIN AND SCOTTSBURG AREAS]]></title>
+        <id>https://kqennewsradio.com/?p=125996</id>
+        <link href="https://kqennewsradio.com/2024/11/13/power-outage-impacting-elkton-drain-and-scottsburg-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-outage-impacting-elkton-drain-and-scottsburg-areas"/>
+        <updated>2024-11-13T14:55:07.000Z</updated>
+        <summary type="html"><![CDATA[November 13, 2024 6:50 a.m.  An outage is impacting over 1,100 Douglas Electric Cooperative meters in the Elkton, Drain, and Scottsburg areas. An update from the utility said this is due to a loss of transmission to the Elkton and Scottsburg substations as of 3:15 a.m. Wednesday. At 6:00 a.m. crews coordinated with the Bonneville...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WET WEATHER PATTERN FOR THE UMPQUA VALLEY FOR A FEW DAYS]]></title>
         <id>https://kqennewsradio.com/?p=125991</id>
