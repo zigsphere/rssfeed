@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126023",
+          "author": "Kyle Bailey",
+          "description": "November 13, 2025 2:45 p.m.  Roseburg Police have provided an update on a stabbing investigation, from an incident that took place Tuesday night. Public Information Officer Sergeant Daniel Allen said at approximately 8:30 p.m. RPD along with the Douglas County Sheriff’s Office responded to an area referred to as “The Point”, in the 200 block...",
+          "link": "https://kqennewsradio.com/2024/11/13/roseburg-stabbing-investigation-update/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-stabbing-investigation-update",
+          "publishedOn": "2024-11-13T22:48:22.000Z",
+          "wordCount": 1592,
+          "title": "ROSEBURG STABBING INVESTIGATION UPDATE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=126018",
+          "author": "Kyle Bailey",
+          "description": "Roseburg area resident Donda King has been an American Red Cross volunteer for nearly 40 years. She talks about the work she has done to help others in their time of need, and some of the things she has experienced.",
+          "link": "https://kqennewsradio.com/2024/11/13/inside-douglas-county-11-13-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-13-24",
+          "publishedOn": "2024-11-13T21:15:43.000Z",
+          "wordCount": 1515,
+          "title": "INSIDE DOUGLAS COUNTY 11.13.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241113201322/IDC-11-13-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241113201526/IMG_5665.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126014",
           "author": "Kyle Bailey",
           "description": "November 13, 2024 11:00 a.m.  Sutherlin Police jailed a man for a warrant following a traffic stop early Wednesday. An SPD report said just after 3:00 a.m. an officer observed the 41-year-old near the intersection of East Fourth Avenue and Mardonna Way. The officer knew the man had a suspended driving status in Oregon and...",
@@ -737,7 +762,18 @@
       "title": "Roseburg Police Dept.",
       "feedUrl": "https://www.flashalert.net/rss.html?id=5489",
       "siteUrl": "https://www.flashalert.net/news.html?id=5489",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=5489#news176730",
+          "author": null,
+          "description": "On November 12, 2024 at approximately 8:30 PM, the Roseburg Police Department, along with the Douglas County Sheriff’s Office, responded to the 200 block of SE Pine Street, an area referred to as “The Point,” regarding a reported stabbing. When officers arrived, they found 31-year-old Jesse Otha Thomas lying on the bike path with multiple stab wounds. Thomas was transported to Mercy Medical Center by Umpqua Valley Ambulance, with non-life threatening injuries and later released.\nThe suspect in this case, 45-year-old Joshua Daniel Saunders, fled the scene but was located along the South Umpqua riverbank with the use of a FLIR thermal imaging device.  After a multi-hour standoff, Saunders was tased and taken into custody without further incident.  Saunders was lodged at the Douglas County Jail for Assault 1 and Unlawful Use of a Weapon.\nThe Roseburg Police Department would like to thank the Douglas County Sheriff’s Office and Umpqua Valley Ambulance for their assistance.\nNo further details are being released at this time.",
+          "link": "https://www.flashalert.net/news.html?id=5489#news176730",
+          "publishedOn": "2024-11-13T22:30:18.000Z",
+          "wordCount": 443,
+          "title": "Stabbing Investigation",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Roseburg Fire Dept.",
