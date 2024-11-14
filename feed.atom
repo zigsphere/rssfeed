@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-13T23:11:29.566Z</updated>
+    <updated>2024-11-14T02:43:44.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 11.13.24]]></title>
+        <id>https://kqennewsradio.com/?p=126025</id>
+        <link href="https://kqennewsradio.com/2024/11/14/mike-winters-lawn-and-garden-show-11-13-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-11-13-24"/>
+        <updated>2024-11-14T01:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG STABBING INVESTIGATION UPDATE]]></title>
         <id>https://kqennewsradio.com/?p=126023</id>
@@ -747,16 +757,6 @@ Members of the media are invited to attend the Nov. 16 event, where Rader, Berks
         <summary type="html"><![CDATA[Two teenagers on different sides of the country signed up to join the military in the same year.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=125878</id>
-        <link href="https://kqennewsradio.com/2024/11/10/winter-weather-advisory-for-mountain-areas-in-southern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-for-mountain-areas-in-southern-oregon"/>
-        <updated>2024-11-10T14:16:21.000Z</updated>
-        <summary type="html"><![CDATA[November 10, 2024 6:15 a.m. A Winter Weather Advisory remains in effect from 4:00 a.m. Monday to 10:00 a.m. Tuesday for mountain areas above 5,000 feet in parts of southern Oregon. Forecasters at the National Weather Service in Medford said snow is expected above 5,000 feet. Total snow accumulation between 8 and 16 inches are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
