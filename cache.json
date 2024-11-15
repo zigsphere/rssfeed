@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126111",
+          "author": "Kyle Bailey",
+          "description": "Milo Anderson of Oregon Tool & Supply talks about his love for motorcycles and his adventures over the years. His new book is out – “Milo and the Rat Bike, the Early Years” is on sale at Oregon Tool & Supply.",
+          "link": "https://kqennewsradio.com/2024/11/15/inside-douglas-county-11-15-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-15-24",
+          "publishedOn": "2024-11-15T21:11:28.000Z",
+          "wordCount": 1522,
+          "title": "INSIDE DOUGLAS COUNTY 11.15.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241115200835/IDC-11-15-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241115201113/IMG_5669.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126109",
           "author": "Kyle Bailey",
           "description": "November 15, 2024 10:40 a.m. Sutherlin Police jailed a man for a prior theft and cited him for drug charges on Thursday. An SPD report said on Tuesday the 18-year-old allegedly took a phone from a victim in the 1000 block of West Central Avenue. The phone was eventually located and returned to the victim....",
@@ -704,26 +719,6 @@
           "wordCount": 1577,
           "title": "HOMESTEADER PROGRAM AT DOUGLAS COUNTY MUSEUM SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240513093859/03-28-23-DC-Museum-KTrenkle-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125928",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 3:05 a.m. The Zonta Club of Roseburg is continuing its Dignity Drive through November 22nd. The Dignity Drive collects women’s undergarments and sanitary products for victims of domestic violence. Abuse victims are often forced to flee their home with little more than the clothing they are wearing. Donated items provide dignity as...",
-          "link": "https://kqennewsradio.com/2024/11/12/zontas-dignity-drive-continues-through-november-22nd/?utm_source=rss&utm_medium=rss&utm_campaign=zontas-dignity-drive-continues-through-november-22nd",
-          "publishedOn": "2024-11-12T11:10:16.000Z",
-          "wordCount": 1613,
-          "title": "ZONTA’S DIGNITY DRIVE CONTINUES THROUGH NOVEMBER 22ND",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125926",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 2:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Fine and Performing Arts Department presents the Umpqua Singers and the Big Horn Jazz Band in “Swing into the Season” on December 4th at 7:00 p.m. at Whipple Fine Arts Center on the main UCC campus. The Umpqua Singers, under the...",
-          "link": "https://kqennewsradio.com/2024/11/12/ucc-umpqua-singers-big-horn-jazz-band-swing-into-the-season/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-umpqua-singers-big-horn-jazz-band-swing-into-the-season",
-          "publishedOn": "2024-11-12T11:07:19.000Z",
-          "wordCount": 1538,
-          "title": "UCC UMPQUA SINGERS/BIG HORN JAZZ BAND “SWING INTO THE SEASON”",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
