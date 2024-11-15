@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-15T13:21:01.868Z</updated>
+    <updated>2024-11-15T16:14:49.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Days Creek Charter School first quarter honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f6a12f0a-a20e-11ef-a986-03fdfcce2b53</id>
+        <link href="https://www.nrtoday.com/news/education/days-creek-charter-school-first-quarter-honor-roll/article_f6a12f0a-a20e-11ef-a986-03fdfcce2b53.html"/>
+        <updated>2024-11-15T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[DAYS CREEK — These are the students who qualified for the honor roll at Days Creek Charter School in the first quarter of the 2024-25 school year.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WATCH STARTS SUNDAY FOR MOUNTAIN AREAS]]></title>
         <id>https://kqennewsradio.com/?p=126085</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[November 15, 2024 2:50 a.m. A new light display featuring the Umpqua River Lighthouse is being added to the Umpqua Valley Festival of Lights for its 32nd season. A release said the popular annual holiday drive-through event opens Sunday, November 24th at River Forks Park. Festival of Lights Chair Tabitha Layman said designers and fabricators...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter weather advisory in effect until Tuesday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/db170c9a-a322-11ef-85c4-477252148fa2</id>
+        <link href="https://www.nrtoday.com/news/winter-weather-advisory-in-effect-until-tuesday/article_db170c9a-a322-11ef-85c4-477252148fa2.html"/>
+        <updated>2024-11-15T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A winter weather advisory is in effect until 10 a.m. Tuesday above 5,000 feet for mountain areas in southern Oregon.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
         </author>
     </entry>
     <entry>
