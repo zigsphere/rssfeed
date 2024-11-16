@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-16T13:17:57.131Z</updated>
+    <updated>2024-11-16T16:14:09.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OAKLAND MAN, RIDDLE WOMAN, CHARGED WITH ALLEGED BURGLARY]]></title>
+        <id>https://kqennewsradio.com/?p=126118</id>
+        <link href="https://kqennewsradio.com/2024/11/16/oakland-man-riddle-woman-charged-with-alleged-burglary/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oakland-man-riddle-woman-charged-with-alleged-burglary"/>
+        <updated>2024-11-16T16:02:54.000Z</updated>
+        <summary type="html"><![CDATA[November 16, 2024 8:00 a.m.  An Oakland man was jailed, and a Riddle woman was cited for alleged burglary on Friday afternoon. A Douglas County Sheriff’s Office report said just before 3:30 p.m. a caller reported that there was a vehicle in the driveway of a home that he was watching for the owner, in...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WATCH STARTING SUNDAY AFTERNOON FOR HIGHER ELEVATIONS]]></title>
+        <id>https://kqennewsradio.com/?p=126115</id>
+        <link href="https://kqennewsradio.com/2024/11/16/winter-storm-watch-starting-sunday-afternoon-for-higher-elevations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-watch-starting-sunday-afternoon-for-higher-elevations"/>
+        <updated>2024-11-16T14:08:07.000Z</updated>
+        <summary type="html"><![CDATA[November 16, 2024 6:00 a.m. A Winter Storm Watch is in effect from Sunday afternoon through Monday evening for mountain areas and higher elevations in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible. The Watch area includes the South Central and Southern Oregon Cascades and Siskiyou Mountains. It...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Holiday Travel Ideas]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/580abb76-a151-11ef-b763-f34d5ec344bf</id>
@@ -771,16 +791,6 @@ Card Logging Company, Inc., based in Eugene. The firm earned its award for harve
         <summary type="html"><![CDATA[November 13, 2024 2:50 a.m. A Drain man was jailed following a DUII/hit and run incident Monday night. A Douglas County Sheriff’s Office report said at 7:25 p.m. deputies responded to a crash in the 100 block of B Avenue in Drain, where the driver allegedly got out of his pickup and ran from the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add a Little Spice to Your Reading Life]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f4537a86-a14c-11ef-b442-73dcb80f0465</id>
-        <link href="https://www.nrtoday.com/news/add-a-little-spice-to-your-reading-life/article_f4537a86-a14c-11ef-b442-73dcb80f0465.html"/>
-        <updated>2024-11-12T23:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Love is in the literary air in a big way.]]></summary>
-        <author>
-            <name>Kris Wiley for The News-Review</name>
         </author>
     </entry>
 </feed>
