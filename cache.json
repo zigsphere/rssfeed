@@ -669,56 +669,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241015092430/wreaths.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125940",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 4:00 a.m.  A Winter Weather Advisory is in effect until 10:00 a.m. Tuesday above 5,000 feet for mountain areas in southern Oregon. Forecasters at the National Weather Service said additional snow accumulations between 3 and 6 inches are forecast. Winds will gust as high as 35 miles per hour. The Advisory area...",
-          "link": "https://kqennewsradio.com/2024/11/12/winter-weather-advisory-in-effect-until-1000-a-m-tuesday-above-5000-feet/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-in-effect-until-1000-a-m-tuesday-above-5000-feet",
-          "publishedOn": "2024-11-12T12:02:14.000Z",
-          "wordCount": 1555,
-          "title": "WINTER WEATHER ADVISORY IN EFFECT UNTIL 10:00 A.M. TUESDAY ABOVE 5,000 FEET",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241112110159/snowtues.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125936",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 3:50 a.m.  A Coos County 5-year-old remains missing with additional resources being added to the search effort. Coos County Sheriff’s Office Public Information Officer Christopher Gill said Joshua James McCoy was reported missing at 5:30 p.m. Saturday. Gill said the boy, who has autism, has not been seen since taking a nap...",
-          "link": "https://kqennewsradio.com/2024/11/12/additional-resources-to-help-with-search-for-5-year-old-boy/?utm_source=rss&utm_medium=rss&utm_campaign=additional-resources-to-help-with-search-for-5-year-old-boy",
-          "publishedOn": "2024-11-12T11:52:41.000Z",
-          "wordCount": 1729,
-          "title": "ADDITIONAL RESOURCES TO HELP WITH SEARCH FOR 5-YEAR-OLD BOY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241111125407/JOSHUA.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125934",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 3:40 a.m.  Oregon Attorney General-Elect Dan Rayfield has announced the first two members of his executive team, Lisa Udland a deputy attorney general and Jenn Baker as chief of staff. Rayfield said, “I am excited to announce that we have already begun to assemble a strong team to help lead the Oregon...",
-          "link": "https://kqennewsradio.com/2024/11/12/attorney-general-elect-announces-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=attorney-general-elect-announces-leadership-team",
-          "publishedOn": "2024-11-12T11:23:06.000Z",
-          "wordCount": 1651,
-          "title": "ATTORNEY GENERAL ELECT ANNOUNCES LEADERSHIP TEAM",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241021191142/Rayfield-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125932",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 3:30 a.m.  Douglas County Commissioners Chris Boice, Tim Freeman, and Tom Kress will have their next weekly business meeting on Wednesday morning at 9:00 a.m. It will be held in room 216 of the courthouse on Southeast Douglas Avenue in downtown Roseburg. For additional information about the meeting, call 440-4201. The weekly...",
-          "link": "https://kqennewsradio.com/2024/11/12/county-commissioners-meeting-wednesday-morning/?utm_source=rss&utm_medium=rss&utm_campaign=county-commissioners-meeting-wednesday-morning",
-          "publishedOn": "2024-11-12T11:19:21.000Z",
-          "wordCount": 1481,
-          "title": "COUNTY COMMISSIONERS MEETING WEDNESDAY MORNING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224342/DC-Commissioners-Logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=125930",
-          "author": "Kyle Bailey",
-          "description": "November 12, 2024 3:20 a.m. The Douglas County Historical Society is hosting a program about Letitia Carson on Saturday afternoon at 2:00 p.m. at the Douglas County Museum. Information from The Ford Family Foundation said Carson is a formerly enslaved woman who came to Oregon in 1845 and was one of the first Black settlers...",
-          "link": "https://kqennewsradio.com/2024/11/12/homesteader-program-at-douglas-county-museum-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=homesteader-program-at-douglas-county-museum-saturday",
-          "publishedOn": "2024-11-12T11:16:48.000Z",
-          "wordCount": 1577,
-          "title": "HOMESTEADER PROGRAM AT DOUGLAS COUNTY MUSEUM SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240513093859/03-28-23-DC-Museum-KTrenkle-scaled.jpg"
         }
       ]
     },
@@ -733,6 +683,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/580abb76-a151-11ef-b763-f34d5ec344bf",
+          "author": "Jane Green for The News-Review",
+          "description": "Thanksgiving marks the start of the holiday travel season that continues through Christmas and New Year’s Day. It’s a great opportunity to plan a vacation that will take you out of your everyday routine.",
+          "link": "https://www.nrtoday.com/news/2024-holiday-travel-ideas/article_580abb76-a151-11ef-b763-f34d5ec344bf.html",
+          "publishedOn": "2024-11-15T23:53:00.000Z",
+          "wordCount": 13944,
+          "title": "2024 Holiday Travel Ideas",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/6e/f6ec8a36-a1fa-11ef-8775-03604e51e632/67350718cc758.image.jpg?resize=300%2C287",
+            "length": "26005",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/6e/f6ec8a36-a1fa-11ef-8775-03604e51e632/67350718cc758.image.jpg?resize=300%2C287"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/beb8a036-9d3c-11ef-9560-c390de8dacd1",
+          "author": "CAMILA CASTILLON-GORDIAN For The News-Review",
+          "description": "Every year in Indianapolis, Indiana, over 68,000 members attend the National FFA Convention. These members do numerous things such as attend workshops, compete, socialize and network with members from all over the country and attend career fairs.",
+          "link": "https://www.nrtoday.com/news/education/sutherlin-ffa-shines-at-national-ffa-convention-a-showcase-of-excellence-and-leadership/article_beb8a036-9d3c-11ef-9560-c390de8dacd1.html",
+          "publishedOn": "2024-11-15T18:30:00.000Z",
+          "wordCount": 14075,
+          "title": "Sutherlin FFA Shines at National FFA Convention: A Showcase of Excellence and Leadership",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f7/ff7a2eac-9d3f-11ef-8a2a-47edbf19ef96/672d176e9e512.image.jpg?resize=300%2C169",
+            "length": "257133",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f7/ff7a2eac-9d3f-11ef-8a2a-47edbf19ef96/672d176e9e512.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a9c3bfe2-a12b-11ef-a4d1-d381280024f5",
+          "author": "Janet Bitter for The News-Review",
+          "description": "Question: I try to grow plants to help the pollinators all summer. How do bees survive in the winter? Is there anything I can do to help them through the cold season?",
+          "link": "https://www.nrtoday.com/family/ask-a-master-gardener-helping-oregon-bees-survive-the-winter/article_a9c3bfe2-a12b-11ef-a4d1-d381280024f5.html",
+          "publishedOn": "2024-11-15T16:15:00.000Z",
+          "wordCount": 14287,
+          "title": "Ask a Master Gardener: Helping Oregon bees survive the winter",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/65/36521b4c-a12d-11ef-beed-4b4a547edbbc/6733ade6d5c0f.image.jpg?resize=300%2C200",
+            "length": "202395",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/65/36521b4c-a12d-11ef-beed-4b4a547edbbc/6733ade6d5c0f.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f6a12f0a-a20e-11ef-a986-03fdfcce2b53",
           "author": "GLORIA COLEMAN The News-Review",
@@ -861,26 +856,6 @@
           "publishedOn": "2024-11-12T23:22:00.000Z",
           "wordCount": 13962,
           "title": "Add a Little Spice to Your Reading Life",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a4ad4bc6-a104-11ef-8e9a-7b9cb2ae8eab",
-          "author": null,
-          "description": "Douglas County received a Certificate of Achievement for Excellence in Financial Reporting by the Government Finance Office Association of the United States and Canada for their annual Comprehensive Financial Report for the year ending June 30, 2023.",
-          "link": "https://www.nrtoday.com/briefs/commissioners-announce-prestigious-award-for-financial-accounting/article_a4ad4bc6-a104-11ef-8e9a-7b9cb2ae8eab.html",
-          "publishedOn": "2024-11-12T14:44:00.000Z",
-          "wordCount": 13601,
-          "title": "Commissioners announce prestigious award for financial accounting",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1b0cc9aa-a104-11ef-8114-37faed639504",
-          "author": null,
-          "description": "DOUGLAS COUNTY — The Douglas County Historical Society is sponsoring a presentation by Dr. Bob Zybach on his research into the life of Letitia Carson, a freed slave who accomplished unusual things for an African-American woman in the 1800s.",
-          "link": "https://www.nrtoday.com/briefs/historical-society-sponsors-presentation-on-letitia-carson-first-woman-to-prove-homestead-in-oregon/article_1b0cc9aa-a104-11ef-8114-37faed639504.html",
-          "publishedOn": "2024-11-12T14:40:00.000Z",
-          "wordCount": 13703,
-          "title": "Historical Society sponsors presentation on Letitia Carson, first woman to prove homestead in Oregon",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
