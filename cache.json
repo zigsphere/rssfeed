@@ -304,6 +304,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6f9500b6-a38c-11ef-b77b-77a4ed982be8",
+          "author": "Scott Carroll The News-Review",
+          "description": "With winter on the horizon and temperatures already dipping below 40 degrees, UCAN and St. Joseph’s Church have announced they are teaming up to offer a warming center for people seeking respite from the cold, and are seeking volunteers to…",
+          "link": "https://www.nrtoday.com/news/ucan-st-joseph-s-announce-warming-center/article_6f9500b6-a38c-11ef-b77b-77a4ed982be8.html",
+          "publishedOn": "2024-11-18T16:00:00.000Z",
+          "wordCount": 13899,
+          "title": "UCAN, St. Joseph’s announce warming center",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/415297e0-a5c1-11ef-a356-a7fa1b2b4fd3",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A winter storm warning remains in effect until 10:00 p.m. Monday night for mountain areas in part of southern Oregon.",
+          "link": "https://www.nrtoday.com/briefs/winter-storm-warning-for-mountain-areas-in-parts-of-southern-oregon/article_415297e0-a5c1-11ef-a356-a7fa1b2b4fd3.html",
+          "publishedOn": "2024-11-18T15:24:00.000Z",
+          "wordCount": 13639,
+          "title": "Winter Storm Warning for Mountain Areas in Parts of Southern Oregon",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/46d13eea-a2cb-11ef-be11-23f47b8a7280",
+          "author": "Scott Carroll The News-Review",
+          "description": "For people trying to locate Joseph Russi — a former Douglas County homebuilder who left behind a trail of unfinished homes, unpaid loans, government fines and allegations of criminal activity — the search has become akin to chasing a ghost.",
+          "link": "https://www.nrtoday.com/business/where-is-joseph-russi/article_46d13eea-a2cb-11ef-be11-23f47b8a7280.html",
+          "publishedOn": "2024-11-18T14:45:00.000Z",
+          "wordCount": 14458,
+          "title": "Where is Joseph Russi?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c3/fc36100e-5374-11ef-834a-df935a0c3223/64c99635b20a5.image.jpg?resize=300%2C200",
+            "length": "522738",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c3/fc36100e-5374-11ef-834a-df935a0c3223/64c99635b20a5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c6a6968-a5b9-11ef-a87e-77549ecd15dd",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The city has a long-standing relationship with the Roseburg American Legion Baseball Commission related to the operation of Bill Gray Stadium in Stewart Park. That commission has requested the assignment of their agreements to a new non-profit organization, currently being…",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-considers-change-in-legion-field-management/article_8c6a6968-a5b9-11ef-a87e-77549ecd15dd.html",
+          "publishedOn": "2024-11-18T14:29:00.000Z",
+          "wordCount": 13688,
+          "title": "Roseburg City Council considers change in Legion Field management",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c1a1a2be-a5b8-11ef-9e2b-9785aed163a3",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Winston City Council will consider a salary increase proposal for their public works superintendent and finance director, as part of their meeting Monday night.",
+          "link": "https://www.nrtoday.com/news/winston-city-council-debates-salary-raise/article_c1a1a2be-a5b8-11ef-9e2b-9785aed163a3.html",
+          "publishedOn": "2024-11-18T14:24:00.000Z",
+          "wordCount": 13660,
+          "title": "Winston City Council debates salary raise",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/2b746e0c-a239-11ef-b255-1716fc7c24dc",
           "author": null,
           "description": "ROSEBURG — Oregon State University Extension Service and the Women Owning Woodlands Network of Douglas County invites women woodland owners to a workshop on making wreaths using greenery from local woodlands.",
@@ -402,41 +457,6 @@
           "wordCount": 13476,
           "title": "Winter weather advisory in effect until Tuesday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/267782ac-a2cc-11ef-86a6-b7a934e43de5",
-          "author": null,
-          "description": "ROSEBURG — The Rainbow Kitchen will host its last pop-up farmers market of the season from 3:30-6:30 p.m. Thursday, Nov. 21.",
-          "link": "https://www.nrtoday.com/briefs/rainbow-kitchen-to-hold-last-pop-up-farmers-market-of-the-season/article_267782ac-a2cc-11ef-86a6-b7a934e43de5.html",
-          "publishedOn": "2024-11-14T21:05:00.000Z",
-          "wordCount": 14039,
-          "title": "Rainbow Kitchen to hold last pop-up farmer's market of the season",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/62f9a7f8-9c7a-11ef-9b23-db5b09c86249",
-          "author": "The News Review",
-          "description": "ROSEBURG — The Umpqua Community College fine and performing arts department presents the Umpqua Singers and Kirby Shaw Singers at 7 p.m. Saturday, Nov. 16, at the Whipple Fine Arts Center on the UCC campus.",
-          "link": "https://www.nrtoday.com/a_and_e/ucc-hosts-nov-16-performance/article_62f9a7f8-9c7a-11ef-9b23-db5b09c86249.html",
-          "publishedOn": "2024-11-14T20:04:00.000Z",
-          "wordCount": 13431,
-          "title": "UCC hosts Nov. 16 performance",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6f03ff46-a1c8-11ef-889d-17ac6fc2b6f8",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "In their annual community meeting Tuesday the Kellogg Rural Fire District was joined by the National Volunteer Fire Council and State Farm Insurance, that announced the district was one of 100 volunteer fire departments in the nation to receive a…",
-          "link": "https://www.nrtoday.com/news/kellogg-volunteer-fire-scores-modern-asset-with-grant/article_6f03ff46-a1c8-11ef-889d-17ac6fc2b6f8.html",
-          "publishedOn": "2024-11-14T14:06:00.000Z",
-          "wordCount": 14157,
-          "title": "Kellogg volunteer fire scores modern asset with grant",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d3/8d38185c-a1c9-11ef-9a9f-efcd9fa91720/6734b4efc8502.image.jpg?resize=300%2C225",
-            "length": "197413",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d3/8d38185c-a1c9-11ef-9a9f-efcd9fa91720/6734b4efc8502.image.jpg?resize=300%2C225"
         }
       ]
     },
