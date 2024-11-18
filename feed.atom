@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-18T19:10:13.949Z</updated>
+    <updated>2024-11-18T23:11:45.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PASSENGER TAKEN TO HOSPITAL AFTER FRIDAY AFTERNOON WRECK]]></title>
+        <id>https://kqennewsradio.com/?p=126177</id>
+        <link href="https://kqennewsradio.com/2024/11/18/passenger-taken-to-hospital-after-friday-afternoon-wreck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=passenger-taken-to-hospital-after-friday-afternoon-wreck"/>
+        <updated>2024-11-18T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[November 18, 2024 3:00 p.m.  Covering coastal Douglas County: A passenger was taken to a hospital after a single-vehicle wreck on Friday afternoon. An Oregon State Police report said at 12:15 p.m. an eastbound compact station wagon was negotiating a curve on Highway 38 in the Loon Lake area when the driver failed to keep...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.18.24]]></title>
+        <id>https://kqennewsradio.com/?p=126172</id>
+        <link href="https://kqennewsradio.com/2024/11/18/inside-douglas-county-11-18-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-18-24"/>
+        <updated>2024-11-18T21:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Douglas C.A.R.E.S. Executive Director Sarah Wickersham talked about how the community can help furnish the new facility they are about to love into.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE 5 PEOPLE FOR DUII]]></title>
         <id>https://kqennewsradio.com/?p=126170</id>
@@ -494,36 +514,6 @@
         <summary type="html"><![CDATA[November 15, 2024 3:20 a.m. On Thursday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden announced that just over $5.4 million is coming to Oregon from the Inflation Reduction Act – the largest investment in clean energy and climate action ever – for hazardous fuels transportation projects across the state, including in Douglas County. A...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOUTHEAST STEPHENS STREET WATER MAIN PROJECT UNDERWAY]]></title>
-        <id>https://kqennewsradio.com/?p=126078</id>
-        <link href="https://kqennewsradio.com/2024/11/15/southeast-stephens-street-water-main-project-underway/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=southeast-stephens-street-water-main-project-underway"/>
-        <updated>2024-11-15T11:08:27.000Z</updated>
-        <summary type="html"><![CDATA[November 15, 2024 3:05 a.m. A water main replacement project on Southeast Stephens Street in Roseburg is underway, leading to a daytime closure that could impact traffic heading into downtown. A City of Roseburg release said portions of one northbound lane on Stephens Street will be closed from Southeast Sykes Street to Southeast Oak Avenue...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA RIVER LIGHTHOUSE DISPLAY DEBUTS NOVEMBER 24TH]]></title>
-        <id>https://kqennewsradio.com/?p=126076</id>
-        <link href="https://kqennewsradio.com/2024/11/15/umpqua-river-lighthouse-display-debuts-november-24th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-river-lighthouse-display-debuts-november-24th"/>
-        <updated>2024-11-15T11:04:07.000Z</updated>
-        <summary type="html"><![CDATA[November 15, 2024 2:50 a.m. A new light display featuring the Umpqua River Lighthouse is being added to the Umpqua Valley Festival of Lights for its 32nd season. A release said the popular annual holiday drive-through event opens Sunday, November 24th at River Forks Park. Festival of Lights Chair Tabitha Layman said designers and fabricators...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter weather advisory in effect until Tuesday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/db170c9a-a322-11ef-85c4-477252148fa2</id>
-        <link href="https://www.nrtoday.com/news/winter-weather-advisory-in-effect-until-tuesday/article_db170c9a-a322-11ef-85c4-477252148fa2.html"/>
-        <updated>2024-11-15T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A winter weather advisory is in effect until 10 a.m. Tuesday above 5,000 feet for mountain areas in southern Oregon.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
         </author>
     </entry>
 </feed>
