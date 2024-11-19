@@ -359,36 +359,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126085",
-          "author": "Kyle Bailey",
-          "description": "November 15, 2024 3:40 a.m.  A Winter Storm Watch is in effect from Sunday afternoon through Monday evening for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible with accumulations between 5 and 20 inches possible. Winds could gust as high as 40 miles per hour....",
-          "link": "https://kqennewsradio.com/2024/11/15/winter-storm-watch-starts-sunday-for-mountain-areas/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-watch-starts-sunday-for-mountain-areas",
-          "publishedOn": "2024-11-15T11:32:10.000Z",
-          "wordCount": 1592,
-          "title": "WINTER STORM WATCH STARTS SUNDAY FOR MOUNTAIN AREAS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241115103158/Winterfri.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126083",
-          "author": "Kyle Bailey",
-          "description": "November 15, 2024 3:30 a.m.  Douglas County’s seasonally adjusted payroll employment rose by 230 jobs in September after a gain of 100 in August and a loss of 110 in July. A State of Oregon Employment Department release said in the not seasonally adjusted private-sector industries in September, there were relatively large gains of 40...",
-          "link": "https://kqennewsradio.com/2024/11/15/douglas-county-employers-add-230-jobs-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-employers-add-230-jobs-in-september",
-          "publishedOn": "2024-11-15T11:17:19.000Z",
-          "wordCount": 1719,
-          "title": "DOUGLAS COUNTY EMPLOYERS ADD 230 JOBS IN SEPTEMBER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221940/OED_hrz_clr.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126081",
-          "author": "Kyle Bailey",
-          "description": "November 15, 2024 3:20 a.m. On Thursday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden announced that just over $5.4 million is coming to Oregon from the Inflation Reduction Act – the largest investment in clean energy and climate action ever – for hazardous fuels transportation projects across the state, including in Douglas County. A...",
-          "link": "https://kqennewsradio.com/2024/11/15/senators-announce-5-4-million-for-projects-to-reduce-wildfire-risk/?utm_source=rss&utm_medium=rss&utm_campaign=senators-announce-5-4-million-for-projects-to-reduce-wildfire-risk",
-          "publishedOn": "2024-11-15T11:15:09.000Z",
-          "wordCount": 1703,
-          "title": "SENATORS ANNOUNCE $5.4 MILLION FOR PROJECTS TO REDUCE WILDFIRE RISK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230821191728/Sen.-Jeff-Merkley-Official-Portrait-1.jpg"
         }
       ]
     },
@@ -472,6 +442,21 @@
           "wordCount": 13660,
           "title": "Winston City Council debates salary raise",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8e87cee8-a4b0-11ef-80aa-db6c6d1a75b0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A standing-room-only crowd turned out for the Douglas County Historical Society’s presentation on Letitia Carson on Saturday, surpassing fire code capacity and forcing organizers to quickly rearrange tables before the presentation began.",
+          "link": "https://www.nrtoday.com/news/local/letitia-carson-presentation-packs-the-house/article_8e87cee8-a4b0-11ef-80aa-db6c6d1a75b0.html",
+          "publishedOn": "2024-11-18T14:00:00.000Z",
+          "wordCount": 16398,
+          "title": "Letitia Carson presentation packs the house",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8b/18b012c4-a4b1-11ef-8802-b3b2e36dcdf1/673993a8373ab.image.jpg?resize=300%2C200",
+            "length": "329235",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8b/18b012c4-a4b1-11ef-8802-b3b2e36dcdf1/673993a8373ab.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8e87cee8-a4b0-11ef-80aa-db6c6d1a75b0",
