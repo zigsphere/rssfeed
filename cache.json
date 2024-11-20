@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126237",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dixson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/11/19/true-wealth-radio-11-19-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-11-19-24",
+          "publishedOn": "2024-11-20T00:54:46.000Z",
+          "wordCount": 1489,
+          "title": "TRUE WEALTH RADIO 11.19.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241120002020/TWR-11-19-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126235",
           "author": "Kyle Bailey",
           "description": "November 19, 2024 3:00 p.m.  Roseburg Police cited a man for prohibited camping on Monday. An RPD report said shortly after 2:00 p.m. an officer contacted a 58-year-old in the 1800 block of Northeast Klamath Avenue. His tent consisted of a pop-up tent with tarps for walls. It had been set up in the driveway...",
@@ -434,16 +449,6 @@
           "wordCount": 1594,
           "title": "OAKLAND MAN, RIDDLE WOMAN, CHARGED WITH ALLEGED BURGLARY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126115",
-          "author": "Kyle Bailey",
-          "description": "November 16, 2024 6:00 a.m. A Winter Storm Watch is in effect from Sunday afternoon through Monday evening for mountain areas and higher elevations in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible. The Watch area includes the South Central and Southern Oregon Cascades and Siskiyou Mountains. It...",
-          "link": "https://kqennewsradio.com/2024/11/16/winter-storm-watch-starting-sunday-afternoon-for-higher-elevations/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-watch-starting-sunday-afternoon-for-higher-elevations",
-          "publishedOn": "2024-11-16T14:08:07.000Z",
-          "wordCount": 1662,
-          "title": "WINTER STORM WATCH STARTING SUNDAY AFTERNOON FOR HIGHER ELEVATIONS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241116130754/Satamsnow.png"
         }
       ]
     },
@@ -670,7 +675,23 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news176871",
+          "author": null,
+          "description": "LYONS, Ore.—The four-year effort by the Oregon Department of Forestry (ODF) to reforest the Santiam State Forest after the 2020 wildfires hit an important milestone this month when the last of more than 2.3 million trees were planted. \n“This was a huge, challenging, and long-term project for ODF,” said John Walter, ODF’s State Forests Silviculturist. “We planted about ten times what we normally would in that time, with no additional staff being hired. The replanting was in steep, rocky, and difficult terrain along with high-altitude snowy conditions for much of the prime planting season. These safety concerns limited the time crews could plant the seedlings. Additionally, we did not have the budget to purchase that number of trees for the 5,600 acres that were scorched in the state forest …",
+          "link": "https://www.flashalert.net/news.html?id=1072#news176871",
+          "publishedOn": "2024-11-19T23:14:49.000Z",
+          "wordCount": 8989,
+          "title": "ODF completes Santiam State Forest reforestation effort from devastating 2020 wildfires with 2.3 million seedlings now planted (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-11/1072/176871/SantiamrecoveryReplanting.jpg",
+            "length": "32461974",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-11/1072/176871/SantiamrecoveryReplanting.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
