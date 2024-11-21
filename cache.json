@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126349",
+          "author": "Kyle Bailey",
+          "description": "Mercy Foundation President Lisa Platt talks about all the events that are part of the Festival of Trees, happening December 5th-7th.",
+          "link": "https://kqennewsradio.com/2024/11/21/inside-douglas-county-11-21-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-21-24",
+          "publishedOn": "2024-11-21T21:16:43.000Z",
+          "wordCount": 2383,
+          "title": "INSIDE DOUGLAS COUNTY 11.21.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241121201401/IDC-11-21-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241121201629/trees.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126345",
           "author": "Kyle Bailey",
           "description": "November 21, 2024 11:00 a.m.  A Riddle area transient was jailed for an alleged soft drink theft on Wednesday. A Douglas County Sheriff’s Office report said at 9:00 a.m. a deputy responded to the Riddle Mini Mart in the 100-block of Main Street in Riddle. An employee said the 53-year-old has been going into the...",
@@ -769,26 +784,6 @@
           "wordCount": 1746,
           "title": "CHI MERCY HEALTH EARNS AN “A” HOSPITAL SAFETY GRADE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230807165944/mercy2-2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126132",
-          "author": "Kyle Bailey",
-          "description": "November 18, 2024 3:05 a.m. Saving Grace Pet Adoption Center has a new name. A release said effective November 14th, the organization is now known as Saving Grace Humane Society. While the focus of Saving Grace has always been adopting pets to good homes and providing quality care, over the years its programs and services...",
-          "link": "https://kqennewsradio.com/2024/11/18/saving-grace-pet-adoption-center-has-new-name/?utm_source=rss&utm_medium=rss&utm_campaign=saving-grace-pet-adoption-center-has-new-name",
-          "publishedOn": "2024-11-18T11:09:36.000Z",
-          "wordCount": 1688,
-          "title": "SAVING GRACE PET ADOPTION CENTER HAS NEW NAME",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241118100921/savingnew.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126130",
-          "author": "Kyle Bailey",
-          "description": "November 18, 2024 2:50 a.m. The Oregon State University Extension Forestry and Natural Resources program will hold a succession planning workshop series called, “Ties to the Land” this winter. An extension release said one in-person workshop will be offered on January 10th with four optional lunch-and-learn webinars offered beginning later this month. “Ties to the...",
-          "link": "https://kqennewsradio.com/2024/11/18/osu-extension-has-ties-to-the-land-workshop-series/?utm_source=rss&utm_medium=rss&utm_campaign=osu-extension-has-ties-to-the-land-workshop-series",
-          "publishedOn": "2024-11-18T11:05:10.000Z",
-          "wordCount": 1655,
-          "title": "OSU EXTENSION HAS “TIES TO THE LAND” WORKSHOP SERIES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },
