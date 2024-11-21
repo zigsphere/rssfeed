@@ -719,6 +719,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2d6af006-a783-11ef-977f-cf00ffadf64b",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Wednesday was moving day from \"The Point\" back across the foot-bridge to Deer Creek Park as camp sites posted by the Roseburg Police Department for removal reached the 7 a.m. deadline. Meanwhile, more than 60 tents had already been erected…",
+          "link": "https://www.nrtoday.com/news/local/moving-day-for-unhoused-campers-at-the-point/article_2d6af006-a783-11ef-977f-cf00ffadf64b.html",
+          "publishedOn": "2024-11-21T15:00:00.000Z",
+          "wordCount": 14671,
+          "title": "Moving day for unhoused campers at The Point",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ff/8fff976c-a792-11ef-9ab4-3b8780966ae6/673e694ce165d.image.jpg?resize=300%2C225",
+            "length": "435576",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ff/8fff976c-a792-11ef-9ab4-3b8780966ae6/673e694ce165d.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f8145314-a60d-11ef-a52b-4fc1c76727e2",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Umpqua Actors Community Theatre will be presenting a story of war, peace and music for the Christmas season with the musical production “All Is Calm.”",
+          "link": "https://www.nrtoday.com/news/uact-presents-all-is-calm-play-for-holiday-season/article_f8145314-a60d-11ef-a52b-4fc1c76727e2.html",
+          "publishedOn": "2024-11-21T14:45:00.000Z",
+          "wordCount": 14703,
+          "title": "UACT presents \"All Is Calm\" play for holiday season.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/a0/9a005fac-a6c6-11ef-a9aa-e76989180d84/673d12bae27b5.image.jpg?resize=300%2C200",
+            "length": "369012",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/a0/9a005fac-a6c6-11ef-a9aa-e76989180d84/673d12bae27b5.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c6a5cb62-a551-11ef-b7e3-5bf97df16c44",
           "author": null,
           "description": "OAKLAND — The annual Sip, Shop, Stroll & Stay event is happening this Saturday, Nov. 23, in downtown Oakland from noon-5 p.m.",
