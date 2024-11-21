@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126293",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly lawn and garden program.",
+          "link": "https://kqennewsradio.com/2024/11/21/mike-winters-lawn-and-garden-show-11-20-24/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-11-20-24",
+          "publishedOn": "2024-11-21T01:05:12.000Z",
+          "wordCount": 1492,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 11.20.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241121000418/MWLGS-11-20-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126289",
           "author": "Kyle Bailey",
           "description": "State Representative Virgle Osborne looks at recent election results and talks about what’s ahead for the next session of the Oregon State Legislature.",
