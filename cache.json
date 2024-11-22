@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126408",
+          "author": "Kyle Bailey",
+          "description": "November 22, 2024 1:30 p.m.  Deputies with the Douglas County Sheriff’s Office are seeking information on a missing Glendale man. Lieutenant Brad O’Dell said 72-year-old Donald Burrows was last heard from on November 15th, when he spoke to family from his home on his landline phone. O’Dell said Burrows is not known to possess a...",
+          "link": "https://kqennewsradio.com/2024/11/22/dcso-seeking-information-on-missing-glendale-man/?utm_source=rss&utm_medium=rss&utm_campaign=dcso-seeking-information-on-missing-glendale-man",
+          "publishedOn": "2024-11-22T21:38:33.000Z",
+          "wordCount": 1584,
+          "title": "DCSO SEEKING INFORMATION ON MISSING GLENDALE MAN",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=126403",
+          "author": "Kyle Bailey",
+          "description": "Two segments: Tabbitha Layman of the Roseburg Rotary Club talks about the Umpqua Valley Festival of Lights, and Umpqua Valley Winegrowers Executive Director Ali Rodgers talks about the Thanksgiving Weekend Open House at many area wineries.",
+          "link": "https://kqennewsradio.com/2024/11/22/inside-douglas-county-11-22-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-22-24",
+          "publishedOn": "2024-11-22T21:16:50.000Z",
+          "wordCount": 1550,
+          "title": "INSIDE DOUGLAS COUNTY 11.22.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241122201239/IDC-11-22-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241122201643/IMG_5715.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126395",
           "author": "Kyle Bailey",
           "description": "November 22, 2024 11:00 a.m.  Officials with the Cow Creek Band of Umpqua Tribe of Indians said the Biden Administration has turned its back on Tribes, with what they believe is the wrong decision on a Medford casino. A Cow Creek release said they have learned that the application for the Coquille Tribe to build...",
@@ -799,6 +824,26 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/79d96740-a82f-11ef-b680-67c94bcd8074",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Steven Timothy Gant, of Reno is back in Douglas County Jail after continuing his journey home by allegedly stealing another vehicle Wednesday. Gant was initially arrested Monday night in possession of a truck stolen from Washington according to police.",
+          "link": "https://www.nrtoday.com/news/court/nevada-man-allegedly-steals-another-truck-upon-release-from-jail/article_79d96740-a82f-11ef-b680-67c94bcd8074.html",
+          "publishedOn": "2024-11-22T17:38:00.000Z",
+          "wordCount": 13833,
+          "title": "Nevada man allegedly steals another truck upon release from jail.",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bf3089c0-a697-11ef-8915-2b32e5fd5495",
+          "author": "KRIS WILEY for The News-Review",
+          "description": "I read some amazing novels this year and encourage fans of character-driven fiction to consider picking up or gifting one of these books.",
+          "link": "https://www.nrtoday.com/news/great-fiction-reads-from-the-library/article_bf3089c0-a697-11ef-8915-2b32e5fd5495.html",
+          "publishedOn": "2024-11-22T17:00:00.000Z",
+          "wordCount": 13847,
+          "title": "Great fiction reads from the library",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/93aa9e02-a152-11ef-aa99-c3633af7ae64",
           "author": "Jane Green for The News-Review",
           "description": "The holidays are a busy time for travel. So here are some ways to ease the stress of taking a trip during Thanksgiving or Christmas.",
@@ -912,6 +957,21 @@
           "wordCount": 13735,
           "title": "Thrive Umpqua to hold Bike the Lights",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8e87cee8-a4b0-11ef-80aa-db6c6d1a75b0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A standing-room-only crowd turned out for the Douglas County Historical Society’s presentation on Letitia Carson on Saturday, surpassing fire code capacity and forcing organizers to quickly rearrange tables before the presentation began.",
+          "link": "https://www.nrtoday.com/news/local/letitia-carson-presentation-packs-the-house/article_8e87cee8-a4b0-11ef-80aa-db6c6d1a75b0.html",
+          "publishedOn": "2024-11-19T14:00:00.000Z",
+          "wordCount": 16448,
+          "title": "Letitia Carson presentation packs the house",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8b/18b012c4-a4b1-11ef-8802-b3b2e36dcdf1/673993a8373ab.image.jpg?resize=300%2C200",
+            "length": "329235",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/8b/18b012c4-a4b1-11ef-8802-b3b2e36dcdf1/673993a8373ab.image.jpg?resize=300%2C200"
         }
       ]
     },
