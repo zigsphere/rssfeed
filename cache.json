@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126422",
+          "author": "Kyle Bailey",
+          "description": "November 22, 2024 1:30 p.m.  Deputies with the Douglas County Sheriff’s Office are seeking information on a missing Glendale man. Lieutenant Brad O’Dell said 72-year-old Donald Burrows was last heard from on November 15th, when he spoke to family from his home on his landline phone. O’Dell said Burrows is not known to possess a...",
+          "link": "https://kqennewsradio.com/2024/11/23/dcso-seeking-missing-glendale-man/?utm_source=rss&utm_medium=rss&utm_campaign=dcso-seeking-missing-glendale-man",
+          "publishedOn": "2024-11-23T13:57:12.000Z",
+          "wordCount": 1578,
+          "title": "DCSO SEEKING MISSING GLENDALE MAN",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241123125656/Missing-7.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126408",
           "author": "Kyle Bailey",
           "description": "November 22, 2024 1:30 p.m.  Deputies with the Douglas County Sheriff’s Office are seeking information on a missing Glendale man. Lieutenant Brad O’Dell said 72-year-old Donald Burrows was last heard from on November 15th, when he spoke to family from his home on his landline phone. O’Dell said Burrows is not known to possess a...",
@@ -619,6 +629,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/58853a28-a6eb-11ef-b048-ebb9f829dee5",
+          "author": "KATIE LUTTRELL For The News-Review",
+          "description": "Cooler weather calls for hearty, gratifying foods. The question is how to have fun creating meals that satisfy hunger while also supporting good health. Here is a great suggestion: lentils.",
+          "link": "https://www.nrtoday.com/news/lean-into-lentils-with-red-lentil-flatbreads/article_58853a28-a6eb-11ef-b048-ebb9f829dee5.html",
+          "publishedOn": "2024-11-23T02:58:00.000Z",
+          "wordCount": 14061,
+          "title": "Lean into Lentils with Red Lentil Flatbreads",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/ce/4ce02f8a-a6ef-11ef-b0dd-73f34b28518d/673d5702da4d8.image.jpg?resize=300%2C300",
+            "length": "52597",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/ce/4ce02f8a-a6ef-11ef-b0dd-73f34b28518d/673d5702da4d8.image.jpg?resize=300%2C300"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/79d96740-a82f-11ef-b680-67c94bcd8074",
           "author": "PATRICK MOORE The News-Review",
           "description": "Steven Timothy Gant, of Reno is back in Douglas County Jail after continuing his journey home by allegedly stealing another vehicle Wednesday. Gant was initially arrested Monday night in possession of a truck stolen from Washington according to police.",
@@ -747,26 +772,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/0e/70e53642-a1f8-11ef-b2f0-1b467444966b/67350350b268c.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b204f058-a6ea-11ef-a8ca-9fac1774e00a",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "The National Weather Service issued winter storm and high wind warnings, as well as winter advisory warnings, across Oregon for an incoming bomb cyclone, which made landfall on Tuesday and brought heavy winds and rain to Douglas County.",
-          "link": "https://www.nrtoday.com/news/bomb-cyclone-hits-pacific-northwest-with-heavy-rain-and-wind/article_b204f058-a6ea-11ef-a8ca-9fac1774e00a.html",
-          "publishedOn": "2024-11-20T02:54:00.000Z",
-          "wordCount": 13710,
-          "title": "Bomb cyclone hits Pacific Northwest with heavy rain and wind",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/63bb9354-a693-11ef-a463-8b1714b1dd83",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Thrive Umpqua will hold an inaugural Bike the Lights ride next Monday evening.",
-          "link": "https://www.nrtoday.com/news/local/thrive-umpqua-to-hold-bike-the-lights/article_63bb9354-a693-11ef-a463-8b1714b1dd83.html",
-          "publishedOn": "2024-11-19T16:29:00.000Z",
-          "wordCount": 13735,
-          "title": "Thrive Umpqua to hold Bike the Lights",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
