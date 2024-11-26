@@ -319,56 +319,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241122162031/IMG_5711.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126367",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 4:00 a.m.  Roseburg is way ahead for November rainfall, with the month two-thirds over. Data from the National Weather Service said as of Wednesday, 6.12 inches of rain has been recorded this month at the Roseburg Regional Airport. The normal amount is 3.07 inches. The record for this point in November is...",
-          "link": "https://kqennewsradio.com/2024/11/22/roseburg-way-ahead-for-november-rainfall/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-way-ahead-for-november-rainfall",
-          "publishedOn": "2024-11-22T11:52:46.000Z",
-          "wordCount": 1565,
-          "title": "ROSEBURG WAY AHEAD FOR NOVEMBER RAINFALL",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202854/rain1-1-e1672833992609.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126364",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 3:50 a.m.  Covering coastal Douglas County: A High Wind Warning is in effect until 1:00 p.m. Friday for the South Central and Curry County Coast including coastal areas in Douglas County. Forecasters at the National Weather Service said south winds from 25 to 40 miles per hour with gusts up to 65...",
-          "link": "https://kqennewsradio.com/2024/11/22/high-wind-warning-in-effect-until-100-p-m-friday/?utm_source=rss&utm_medium=rss&utm_campaign=high-wind-warning-in-effect-until-100-p-m-friday",
-          "publishedOn": "2024-11-22T11:38:35.000Z",
-          "wordCount": 1587,
-          "title": "HIGH WIND WARNING IN EFFECT UNTIL 1:00 P.M. FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241122103823/FRI-8.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126362",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 3:40 a.m.  The Salvation Army Roseburg will have their “First Ring” to kick off the Red Kettle campaign for 2024 in Douglas County, Friday morning. Every year from November through Christmas Eve, the world-famous red buckets can be found outside thousands of storefronts across the country. The event will showcase the work...",
-          "link": "https://kqennewsradio.com/2024/11/22/first-ring-kicks-off-red-kettle-campaign-friday-morning/?utm_source=rss&utm_medium=rss&utm_campaign=first-ring-kicks-off-red-kettle-campaign-friday-morning",
-          "publishedOn": "2024-11-22T11:27:51.000Z",
-          "wordCount": 1567,
-          "title": "FIRST RING KICKS OFF RED KETTLE CAMPAIGN FRIDAY MORNING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241111101204/Bellringer-large-002.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126359",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 3:30 a.m. Information released Thursday from the Oregon Department of Education highlights Roseburg Public Schools’ continued progress in attendance and steady performance in key indicators of student success. Superintendent Jared Cordon said the state’s 2023-24 At-A-Glance School and District Profiles provide data on attendance and ninth grade on-track rates, as well as...",
-          "link": "https://kqennewsradio.com/2024/11/22/district-improves-attendance-continues-efforts-to-increase-achievement/?utm_source=rss&utm_medium=rss&utm_campaign=district-improves-attendance-continues-efforts-to-increase-achievement",
-          "publishedOn": "2024-11-22T11:16:27.000Z",
-          "wordCount": 1799,
-          "title": "DISTRICT IMPROVES ATTENDANCE, CONTINUES EFFORTS TO INCREASE ACHIEVEMENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201049/rps-logo-e1682700508278.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126357",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 3:20 a.m. County Commissioners Chris Boice, Tim Freeman, and Tom Kress would like to remind citizens that most county government offices will be closed on Thursday, November 28th, in observance of the Thanksgiving Day Holiday. That includes offices at the courthouse, Justice Building, Courthouse Annex in Reedsport, transfer stations, fairgrounds, museum and...",
-          "link": "https://kqennewsradio.com/2024/11/22/douglas-county-holiday-closure-for-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-holiday-closure-for-thanksgiving",
-          "publishedOn": "2024-11-22T11:13:47.000Z",
-          "wordCount": 1723,
-          "title": "DOUGLAS COUNTY HOLIDAY CLOSURE FOR THANKSGIVING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224342/DC-Commissioners-Logo.jpg"
         }
       ]
     },
@@ -383,6 +333,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5765e422-ab86-11ef-943c-3fd6c11769fb",
+          "author": null,
+          "description": "The Friendly Kitchen/Meals on Wheels Roseburg has partnered with Bridgewood Rivers Assisted Living for a holiday sock drive.",
+          "link": "https://www.nrtoday.com/news/friendly-kitchen-meals-on-wheels-holds-sock-drive-for-seniors/article_5765e422-ab86-11ef-943c-3fd6c11769fb.html",
+          "publishedOn": "2024-11-25T23:38:00.000Z",
+          "wordCount": 13405,
+          "title": "Friendly Kitchen/Meals on Wheels holds sock drive for seniors",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/69591442-ab63-11ef-a7fd-07de3ca49e24",
           "author": null,
