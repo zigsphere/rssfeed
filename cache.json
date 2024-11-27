@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126530",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/11/27/true-wealth-11-26-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-26-24",
+          "publishedOn": "2024-11-27T01:05:05.000Z",
+          "wordCount": 1519,
+          "title": "TRUE WEALTH 11.26.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241127000341/TWR-11-26-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126528",
           "author": "Kyle Bailey",
           "description": "November 27, 2024 3:00 p.m.  On Tuesday, Oregon Governor Tina Kotek announced that she is using her constitutional authority to call a special session of the Oregon Legislature, to begin on Thursday, December 12th. A release said the session is being called for lawmakers to appropriate funds to pay for the historic 2024 wildfire season....",
@@ -364,16 +379,6 @@
           "wordCount": 1652,
           "title": "UMPQUA MAN JAILED FOR ALLEGED MENACING INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126422",
-          "author": "Kyle Bailey",
-          "description": "November 22, 2024 1:30 p.m.  Deputies with the Douglas County Sheriff’s Office are seeking information on a missing Glendale man. Lieutenant Brad O’Dell said 72-year-old Donald Burrows was last heard from on November 15th, when he spoke to family from his home on his landline phone. O’Dell said Burrows is not known to possess a...",
-          "link": "https://kqennewsradio.com/2024/11/23/dcso-seeking-missing-glendale-man/?utm_source=rss&utm_medium=rss&utm_campaign=dcso-seeking-missing-glendale-man",
-          "publishedOn": "2024-11-23T13:57:12.000Z",
-          "wordCount": 1578,
-          "title": "DCSO SEEKING MISSING GLENDALE MAN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241123125656/Missing-7.jpg"
         }
       ]
     },
@@ -560,7 +565,23 @@
       "title": "Oregon Dept. of Forestry",
       "feedUrl": "https://www.flashalert.net/rss.html?id=1072",
       "siteUrl": "https://www.flashalert.net/news.html?id=1072",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=1072#news177038",
+          "author": null,
+          "description": "SALEM, Ore. - The Oregon Department of Forestry is now seeking nominations for the agency's 2025 Climate Smart Forestry Award. The deadline to submit a nomination is Dec. 31, 2024. This award recognizes landowners, land managers, researchers, operators, or other forestry professionals who use climate change-adapted practices, or develop innovative methods for carbon capture, retention, or reduced carbon release. New nominations, including self-nominations are accepted. Instructions and nomination form can be found on ODF’s website.\nAccording to the Awards Selection Committee, the goal of this award is to recognize exemplary climate and carbon practices in Oregon. The Committee wants to encourage more landowners to adopt such practices. In March 2020, Governor Brown signed an executive orde…",
+          "link": "https://www.flashalert.net/news.html?id=1072#news177038",
+          "publishedOn": "2024-11-26T23:34:41.000Z",
+          "wordCount": 9066,
+          "title": "Oregon Department of Forestry seeks nominees for Climate Smart Forestry Award (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-11/1072/177038/Award_graphic.png",
+            "length": "4090662",
+            "type": "image/png"
+          },
+          "imageUrl": "http://www.flashalertnewswire.net/images/news/2024-11/1072/177038/Award_graphic.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

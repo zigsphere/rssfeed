@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-26T23:11:46.981Z</updated>
+    <updated>2024-11-27T02:56:14.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 11.26.24]]></title>
+        <id>https://kqennewsradio.com/?p=126530</id>
+        <link href="https://kqennewsradio.com/2024/11/27/true-wealth-11-26-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-11-26-24"/>
+        <updated>2024-11-27T01:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon Department of Forestry seeks nominees for Climate Smart Forestry Award (Photo)]]></title>
+        <id>https://www.flashalert.net/news.html?id=1072#news177038</id>
+        <link href="https://www.flashalert.net/news.html?id=1072#news177038"/>
+        <updated>2024-11-26T23:34:41.000Z</updated>
+        <summary type="html"><![CDATA[SALEM, Ore. - The Oregon Department of Forestry is now seeking nominations for the agency's 2025 Climate Smart Forestry Award. The deadline to submit a nomination is Dec. 31, 2024. This award recognizes landowners, land managers, researchers, operators, or other forestry professionals who use climate change-adapted practices, or develop innovative methods for carbon capture, retention, or reduced carbon release. New nominations, including self-nominations are accepted. Instructions and nomination form can be found on ODF’s website.
+According to the Awards Selection Committee, the goal of this award is to recognize exemplary climate and carbon practices in Oregon. The Committee wants to encourage more landowners to adopt such practices. In March 2020, Governor Brown signed an executive orde…]]></summary>
+        <author>
+            <name>Oregon Dept. of Forestry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR CALLS SPECIAL SESSION TO COVER WILDFIRE SEASON COSTS]]></title>
         <id>https://kqennewsradio.com/?p=126528</id>
@@ -454,16 +475,6 @@
         <summary type="html"><![CDATA[Roseburg kids brushed up on their chemistry skills by making slime and putty during a S.T.E.A.M. (Science, Technology, Engineering, Arts and Math) activity event Thursday at Roseburg Public Library.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCSO SEEKING MISSING GLENDALE MAN]]></title>
-        <id>https://kqennewsradio.com/?p=126422</id>
-        <link href="https://kqennewsradio.com/2024/11/23/dcso-seeking-missing-glendale-man/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dcso-seeking-missing-glendale-man"/>
-        <updated>2024-11-23T13:57:12.000Z</updated>
-        <summary type="html"><![CDATA[November 22, 2024 1:30 p.m.  Deputies with the Douglas County Sheriff’s Office are seeking information on a missing Glendale man. Lieutenant Brad O’Dell said 72-year-old Donald Burrows was last heard from on November 15th, when he spoke to family from his home on his landline phone. O’Dell said Burrows is not known to possess a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
