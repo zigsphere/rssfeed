@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126569",
+          "author": "Kyle Bailey",
+          "description": "A two segment program with Roseburg Public Library Youth Services Librarian Aurora Ropp, and Umpqua Actors Community Theatre board member Ashley Chitwood, who is directing “All is Calm, the Christmas Truce of 1914”.",
+          "link": "https://kqennewsradio.com/2024/11/27/inside-douglas-county-11-27-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-27-24",
+          "publishedOn": "2024-11-27T21:16:36.000Z",
+          "wordCount": 1545,
+          "title": "INSIDE DOUGLAS COUNTY 11.27.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241127201011/IDC-11-27-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241127201623/IMG_5737.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126567",
           "author": "Kyle Bailey",
           "description": "November 27, 2024 10:50 a.m.   No charges were filed after an SUV hit a Douglas County Sheriff’s Office vehicle Tuesday night. An Oregon State Police report said at 6:40 p.m. the patrol vehicle with emergency lights activated, was blocking the eastbound lane of the 3700 block of Del Rio Road, northwest of Roseburg.  The patrol...",
@@ -548,6 +563,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/750597ce-a84e-11ef-8749-07cb582b2e77",
+          "author": null,
+          "description": "ROSEBURG — Three businesses, located at 549 SE Jackson St in Roseburg, will host 14 local vendor pop-ups 10 a.m.-5 p.m. Friday and Saturday, Nov. 29 and 30.",
+          "link": "https://www.nrtoday.com/news/jackson-street-hold-gift-market-this-weekend/article_750597ce-a84e-11ef-8749-07cb582b2e77.html",
+          "publishedOn": "2024-11-27T21:20:00.000Z",
+          "wordCount": 13347,
+          "title": "Jackson Street hold gift market this weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/577b9818-a86a-11ef-b6eb-8f10e196c5b2",
           "author": "Scott Carroll The News-Review",
