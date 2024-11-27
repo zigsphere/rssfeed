@@ -464,6 +464,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/577b9818-a86a-11ef-b6eb-8f10e196c5b2",
+          "author": "Scott Carroll The News-Review",
+          "description": "OAKLAND — The sale of 2,800 acres near Oakland, which was slated to be developed into an equestrian resort, fell through for the second time, casting doubt on the future of the proposed project.",
+          "link": "https://www.nrtoday.com/news/sale-of-equestrian-resort-property-falls-through/article_577b9818-a86a-11ef-b6eb-8f10e196c5b2.html",
+          "publishedOn": "2024-11-27T14:15:00.000Z",
+          "wordCount": 14381,
+          "title": "Sale of equestrian resort property falls through",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/60/06014e04-a421-11ee-800f-47531d72d2f4/60a7388512a92.image.jpg?resize=300%2C209",
+            "length": "302154",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/60/06014e04-a421-11ee-800f-47531d72d2f4/60a7388512a92.image.jpg?resize=300%2C209"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fad874f6-a845-11ef-9c02-abd73c063e87",
           "author": "DREW WINKELMAIER The News-Review",
           "description": "RIDDLE — On Thursday, Don Thornhill pushed a cart of approximately 500 various parcels and packages out the back door of the United States Postal Service office in Riddle. It would take him about four hours to deliver everything he…",
@@ -552,21 +567,6 @@
           "wordCount": 14216,
           "title": "Umpqua Star Gazer December 2024",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5029655c-a9e3-11ef-ab23-b7e408246bf5",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Every year before Thanksgiving, Hannah McKelvey and Jamie Wise shared a Thanksgiving lunch at South Umpqua High School, a tradition they’ve kept since their freshman year",
-          "link": "https://www.nrtoday.com/news/education/south-umpqua-high-school-celebrates-thanksgiving/article_5029655c-a9e3-11ef-ab23-b7e408246bf5.html",
-          "publishedOn": "2024-11-24T02:30:00.000Z",
-          "wordCount": 14837,
-          "title": "South Umpqua High School celebrates Thanksgiving",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e4/3e4113ce-a9e5-11ef-bdf7-47bfaa25efcb/67424ea0da44f.image.jpg?resize=300%2C200",
-            "length": "318507",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e4/3e4113ce-a9e5-11ef-bdf7-47bfaa25efcb/67424ea0da44f.image.jpg?resize=300%2C200"
         }
       ]
     },

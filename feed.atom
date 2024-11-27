@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-27T13:23:04.806Z</updated>
+    <updated>2024-11-27T16:15:01.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sale of equestrian resort property falls through]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/577b9818-a86a-11ef-b6eb-8f10e196c5b2</id>
+        <link href="https://www.nrtoday.com/news/sale-of-equestrian-resort-property-falls-through/article_577b9818-a86a-11ef-b6eb-8f10e196c5b2.html"/>
+        <updated>2024-11-27T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[OAKLAND — The sale of 2,800 acres near Oakland, which was slated to be developed into an equestrian resort, fell through for the second time, casting doubt on the future of the proposed project.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRY WEATHER FOR THANKSGIVING WEEKEND IN THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=126545</id>
@@ -515,16 +525,6 @@ According to the Awards Selection Committee, the goal of this award is to recogn
         <summary type="html"><![CDATA[November 24, 2024 3:40 p.m.  An Umpqua man was jailed for an alleged menacing incident on Saturday night. A Douglas County Sheriff’s Office report said just after 11:15 p.m. a victim said he was trespassing the 25-year-old for causing a verbal disturbance at Loves Travel Spot in the 200 block of Grant Smith Road in...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Umpqua High School celebrates Thanksgiving]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5029655c-a9e3-11ef-ab23-b7e408246bf5</id>
-        <link href="https://www.nrtoday.com/news/education/south-umpqua-high-school-celebrates-thanksgiving/article_5029655c-a9e3-11ef-ab23-b7e408246bf5.html"/>
-        <updated>2024-11-24T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Every year before Thanksgiving, Hannah McKelvey and Jamie Wise shared a Thanksgiving lunch at South Umpqua High School, a tradition they’ve kept since their freshman year]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
