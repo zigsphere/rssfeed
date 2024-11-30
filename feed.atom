@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-11-30T16:13:14.820Z</updated>
+    <updated>2024-11-30T19:09:06.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Public Library’s Winter Reading Program]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/54f86b14-ac27-11ef-9996-73886a63d123</id>
+        <link href="https://www.nrtoday.com/news/roseburg-public-library-s-winter-reading-program/article_54f86b14-ac27-11ef-9996-73886a63d123.html"/>
+        <updated>2024-11-30T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library’s Winter Reading Program is a great time to read for joy.]]></summary>
+        <author>
+            <name>KRIS WILEY For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potatoes Come Full Circle]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c8cf91ea-ab58-11ef-b227-cbb4e6d98ca3</id>
+        <link href="https://www.nrtoday.com/family/potatoes-come-full-circle/article_c8cf91ea-ab58-11ef-b227-cbb4e6d98ca3.html"/>
+        <updated>2024-11-30T18:12:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, Umpqua Health Alliance awarded Tri City Elementary School a $10,000 grant that allowed them to create a school garden in 2024. Behavior Specialist Mary Pettibone took on the role of garden coordinator and started working with students and…]]></summary>
+        <author>
+            <name>KATHY BATES For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEMI-TRUCK AND TRAILER, AND SUV COLLIDE ON FREEWAY NEAR EDENBOWER BOULEVARD INTERCHANGE]]></title>
         <id>https://kqennewsradio.com/?p=126639</id>

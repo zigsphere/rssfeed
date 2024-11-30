@@ -439,6 +439,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/54f86b14-ac27-11ef-9996-73886a63d123",
+          "author": "KRIS WILEY For The News-Review",
+          "description": "Roseburg Public Library’s Winter Reading Program is a great time to read for joy.",
+          "link": "https://www.nrtoday.com/news/roseburg-public-library-s-winter-reading-program/article_54f86b14-ac27-11ef-9996-73886a63d123.html",
+          "publishedOn": "2024-11-30T18:50:00.000Z",
+          "wordCount": 13836,
+          "title": "Roseburg Public Library’s Winter Reading Program",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c8cf91ea-ab58-11ef-b227-cbb4e6d98ca3",
+          "author": "KATHY BATES For The News-Review",
+          "description": "In 2023, Umpqua Health Alliance awarded Tri City Elementary School a $10,000 grant that allowed them to create a school garden in 2024. Behavior Specialist Mary Pettibone took on the role of garden coordinator and started working with students and…",
+          "link": "https://www.nrtoday.com/family/potatoes-come-full-circle/article_c8cf91ea-ab58-11ef-b227-cbb4e6d98ca3.html",
+          "publishedOn": "2024-11-30T18:12:00.000Z",
+          "wordCount": 14304,
+          "title": "Potatoes Come Full Circle",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a9/8a9d016e-ab71-11ef-9425-e7fd0ed14033/6744e781ac7c3.image.jpg?resize=300%2C197",
+            "length": "464375",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/a9/8a9d016e-ab71-11ef-9425-e7fd0ed14033/6744e781ac7c3.image.jpg?resize=300%2C197"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/99ff641c-a847-11ef-ac5f-47a1e63812eb",
           "author": "CHELSEA DUNCAN Roseburg Public Schools",
           "description": "Information released from the Oregon Department of Education highlights Roseburg Public Schools’ continued progress in attendance and steady performance in key indicators of student success.",
