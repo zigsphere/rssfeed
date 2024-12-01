@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-01T13:19:45.736Z</updated>
+    <updated>2024-12-01T16:13:29.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Small shops do holidays big]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8cbc4428-af5e-11ef-950b-cfa6c1baa281</id>
+        <link href="https://www.nrtoday.com/business/small-shops-do-holidays-big/article_8cbc4428-af5e-11ef-950b-cfa6c1baa281.html"/>
+        <updated>2024-11-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jennifer Lynn scrambled to get her store, Bohemian Rhapsody Boutique, ready in time for downtown Roseburg’s Shop Small Saturday event Nov. 30, because a water pipe burst above her store the previous Sunday. “I wasn’t going to let them down,”…]]></summary>
+        <author>
+            <name>PATRICK MOORE The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Public Library’s Winter Reading Program]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/54f86b14-ac27-11ef-9996-73886a63d123</id>
@@ -334,26 +344,6 @@
         <summary type="html"><![CDATA[November 28, 2024 5:50 a.m. A Frost Advisory remains in place until 9:00 a.m. Thursday for the South-Central Oregon Coast including parts of Douglas County. Forecasters at the National Weather Service said temperatures will be as low as 33 degrees resulting in frost formation. The Advisory area includes Reedsport, Powers, Myrtle Point, North Bend and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jackson Street hold gift market this weekend]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/750597ce-a84e-11ef-8749-07cb582b2e77</id>
-        <link href="https://www.nrtoday.com/news/jackson-street-hold-gift-market-this-weekend/article_750597ce-a84e-11ef-8749-07cb582b2e77.html"/>
-        <updated>2024-11-27T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Three businesses, located at 549 SE Jackson St in Roseburg, will host 14 local vendor pop-ups 10 a.m.-5 p.m. Friday and Saturday, Nov. 29 and 30.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sale of equestrian resort property falls through]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/577b9818-a86a-11ef-b6eb-8f10e196c5b2</id>
-        <link href="https://www.nrtoday.com/news/sale-of-equestrian-resort-property-falls-through/article_577b9818-a86a-11ef-b6eb-8f10e196c5b2.html"/>
-        <updated>2024-11-27T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — The sale of 2,800 acres near Oakland, which was slated to be developed into an equestrian resort, fell through for the second time, casting doubt on the future of the proposed project.]]></summary>
-        <author>
-            <name>Scott Carroll The News-Review</name>
         </author>
     </entry>
 </feed>
