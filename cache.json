@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126773",
+          "author": "Kyle Bailey",
+          "description": "Cow Creek Band of Umpqua Tribe of Indians CEO Michael Rondeau and Marketing and Communications Director Lindsay Campman share their concerns about a recent Interior Department decision regarding the potential for the Coquille Tribe to build an off-reservation casino in Medford.",
+          "link": "https://kqennewsradio.com/2024/12/04/inside-douglas-county-12-4-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-4-24",
+          "publishedOn": "2024-12-04T21:11:54.000Z",
+          "wordCount": 1549,
+          "title": "INSIDE DOUGLAS COUNTY 12.4.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241204200856/IDC-12-4-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241122204436/Michael-3-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126770",
           "author": "Kyle Bailey",
           "description": "December 4, 2024 11:10 a.m.  The Mercy Foundation’s Festival of Trees takes place Thursday through Saturday. The yearly series of events began in 1993 and has been the foundation’s flagship fundraising effort. It is held at Seven Feathers Casino Resort in Canyonville. *Silver Bell Luncheon is Thursday from 10:30 a.m. to 1:30 p.m. Admission is...",
@@ -508,6 +523,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1efb5062-b0ff-11ef-a508-a71acad7b273",
+          "author": null,
+          "description": "Oregon Department of Transportation released the Southwest Oregon Construction Report for Nov. 24-Dec. 7.",
+          "link": "https://www.nrtoday.com/news/douglas-county-construction-report/article_1efb5062-b0ff-11ef-a508-a71acad7b273.html",
+          "publishedOn": "2024-12-04T22:45:00.000Z",
+          "wordCount": 13438,
+          "title": "Douglas County construction report",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/58ca09a0-b0fa-11ef-88bb-33d3ef8c5974",
+          "author": null,
+          "description": "Myrtle Creek Grange is gearing up for a Merry Little Christmas event happening Friday, Dec. 13.",
+          "link": "https://www.nrtoday.com/family/merry-little-christmas-is-in-myrtle-creek/article_58ca09a0-b0fa-11ef-88bb-33d3ef8c5974.html",
+          "publishedOn": "2024-12-04T22:11:00.000Z",
+          "wordCount": 13395,
+          "title": "Merry Little Christmas is in Myrtle Creek",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c0ab2c60-a854-11ef-b474-ef2577eae2b3",
+          "author": null,
+          "description": "ROSEBURG — Roseburg Senior Center will host a Christmas tea party and pot luck gathering from 1-3 p.m. Saturday, Dec. 7.",
+          "link": "https://www.nrtoday.com/news/senior-center-to-host-holiday-pot-luck/article_c0ab2c60-a854-11ef-b474-ef2577eae2b3.html",
+          "publishedOn": "2024-12-04T22:05:00.000Z",
+          "wordCount": 13317,
+          "title": "Senior center to host holiday pot luck",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/adb3d110-b138-11ef-9791-476ab10c777a",
           "author": "DREW WINKELMAIER The News-Review",
