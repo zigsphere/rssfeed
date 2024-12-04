@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126739",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2024/12/04/true-wealth-12-3-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-12-3-24",
+          "publishedOn": "2024-12-04T01:04:16.000Z",
+          "wordCount": 1519,
+          "title": "TRUE WEALTH 12.3.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241204000309/TWR-12-3-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126735",
           "author": "Kyle Bailey",
           "description": "State Senator David Brock Smith talks about the upcoming special session of the Oregon State Legislature, legislative days,  and the governor’s budget proposal for 2025-2027.",
@@ -344,36 +359,6 @@
           "wordCount": 1675,
           "title": "SOUTHBOUND INTERSTATE 5 CLOSED FOLLOWING SEMI-TRUCK ACCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241201210244/wreck-4.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126639",
-          "author": "Kyle Bailey",
-          "description": "November 29, 2024 6:45 a.m.  No one was hurt in a semi-truck and trailer, and SUV accident on Thursday night. An Oregon State Police report said at 7:45 p.m. both vehicles were headed northbound on Interstate 5 near the Edenbower Boulevard interchange in Roseburg, traveling in separate lanes. Near the freeway exit the vehicles were...",
-          "link": "https://kqennewsradio.com/2024/11/30/semi-truck-and-trailer-and-suv-collide-on-freeway-near-edenbower-boulevard-interchange/?utm_source=rss&utm_medium=rss&utm_campaign=semi-truck-and-trailer-and-suv-collide-on-freeway-near-edenbower-boulevard-interchange",
-          "publishedOn": "2024-11-30T14:43:54.000Z",
-          "wordCount": 1620,
-          "title": "SEMI-TRUCK AND TRAILER, AND SUV COLLIDE ON FREEWAY NEAR EDENBOWER BOULEVARD INTERCHANGE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126637",
-          "author": "Kyle Bailey",
-          "description": "November 30, 2024 6:30 a.m. Two people were taken to the hospital following a two-vehicle crash on Highway 42, west of Tenmile on Friday morning. An Oregon State Police report said troopers were dispatched to the crash shortly after 11:50 a.m. Preliminary investigation showed that a pickup was traveling eastbound when a westbound minivan drifted...",
-          "link": "https://kqennewsradio.com/2024/11/30/two-taken-to-hospital-following-highway-42-crash/?utm_source=rss&utm_medium=rss&utm_campaign=two-taken-to-hospital-following-highway-42-crash",
-          "publishedOn": "2024-11-30T14:30:27.000Z",
-          "wordCount": 1606,
-          "title": "TWO TAKEN TO HOSPITAL FOLLOWING HIGHWAY 42 CRASH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126634",
-          "author": "Kyle Bailey",
-          "description": "November 30, 2024 6:00 a.m.  An Air Stagnation Advisory is in effect through 4:00 p.m. Wednesday for parts of southern Oregon. Forecasters at the National Weather Service said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants. The Advisory area...",
-          "link": "https://kqennewsradio.com/2024/11/30/air-stagnation-advisory-through-400-p-m-wednesday-2/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-400-p-m-wednesday-2",
-          "publishedOn": "2024-11-30T14:04:42.000Z",
-          "wordCount": 1593,
-          "title": "AIR STAGNATION ADVISORY THROUGH 4:00 P.M. WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241130130432/satfog.png"
         }
       ]
     },
@@ -388,6 +373,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e29e4eaa-b1b0-11ef-871e-c3987f86dbc5",
+          "author": "scarroll@nrtoday.com (Scott Carroll)",
+          "description": "In an article written on Friday, Nov. 22 regarding a proposed golf course resort in Reedsport, The News-Review mistakenly reported Forest Service officials conveyed to developers the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians would be open…",
+          "link": "https://www.nrtoday.com/news/correction/article_e29e4eaa-b1b0-11ef-871e-c3987f86dbc5.html",
+          "publishedOn": "2024-12-03T19:57:00.000Z",
+          "wordCount": 13450,
+          "title": "Correction",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7a724d10-b131-11ef-8d9a-9328d84e4099",
           "author": "DREW WINKELMAIER The News-Review",
