@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126892",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at the Douglas County Christmas Craft Fair at the fairgrounds, talking with staffer Ciera Keith and several vendors that are at the event through Sunday.",
+          "link": "https://kqennewsradio.com/2024/12/06/inside-douglas-county-12-6-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-6-24",
+          "publishedOn": "2024-12-06T22:05:28.000Z",
+          "wordCount": 1538,
+          "title": "INSIDE DOUGLAS COUNTY 12.6.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241206203518/IDC-12-6-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241205161602/CFair-Top-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126888",
           "author": "Kyle Bailey",
           "description": "December 6, 2024 11:00 a.m.  On Thursday, State Representative Christine Goodwin praised the U.S. Senate passage of the Federal Disaster Tax Relief Act. A release from the Oregon House Republican Caucus said Goodwin called the act, landmark legislation that builds upon her pioneering efforts in the Oregon State Legislature to protect disaster survivors from burdensome...",
@@ -689,26 +704,6 @@
           "wordCount": 1752,
           "title": "DOUGLAS COUNTY MUSEUM HAS “QUILTS & CHRISTMAS” EXHIBIT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203101446/Quilt-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126697",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 3:05 a.m. The Roseburg VA Health Care System will have a Veteran Town Hall on December 12th. It will be held at the Brookings VA Clinic on Railroad Street from 5:00 p.m. to 6:00 p.m. The event will provide veterans with the opportunity to interact with VA leadership, pose questions, discover available...",
-          "link": "https://kqennewsradio.com/2024/12/03/veteran-town-hall-december-12th-in-brookings/?utm_source=rss&utm_medium=rss&utm_campaign=veteran-town-hall-december-12th-in-brookings",
-          "publishedOn": "2024-12-03T11:10:20.000Z",
-          "wordCount": 1544,
-          "title": "VETERAN TOWN HALL DECEMBER 12TH IN BROOKINGS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203101007/VA-Brookings.JPG.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126694",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 2:50 a.m. Oregon’s U.S. Senators Jeff Merkley and Ron Wyden have opened the opportunity for Oregonians to request tickets to the 60th Inaugural Ceremonies on January 20, 2025. The ceremony will be at the U.S. Capitol in Washington, D.C. Each Oregonian wanting tickets may request up to four. Requestors must include their...",
-          "link": "https://kqennewsradio.com/2024/12/03/senators-offer-oregonians-opportunity-to-request-inauguration-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=senators-offer-oregonians-opportunity-to-request-inauguration-tickets",
-          "publishedOn": "2024-12-03T11:05:43.000Z",
-          "wordCount": 1619,
-          "title": "SENATORS OFFER OREGONIANS OPPORTUNITY TO REQUEST INAUGURATION TICKETS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230821191728/Sen.-Jeff-Merkley-Official-Portrait-1.jpg"
         }
       ]
     },
@@ -737,6 +732,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/20/82093c92-b1ad-11ef-8bbe-b7309dc1a862/674f5d1815ba6.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d187b9aa-b104-11ef-ba27-d7390494e71c",
+          "author": "KYLE BAILEY The News-Review",
+          "description": "Harvard Shoe Repair, a Roseburg staple for more than 30 years, is under investigation after a fire early Monday morning.",
+          "link": "https://www.nrtoday.com/news/harvard-shoe-repair-fires-under-investigation/article_d187b9aa-b104-11ef-ba27-d7390494e71c.html",
+          "publishedOn": "2024-12-06T17:45:00.000Z",
+          "wordCount": 14105,
+          "title": "Harvard Shoe Repair fires under investigation",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/ad/eadb3610-b105-11ef-b156-776741305ba7/674e43ec79b58.image.jpg?resize=300%2C225",
+            "length": "429085",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/ad/eadb3610-b105-11ef-b156-776741305ba7/674e43ec79b58.image.jpg?resize=300%2C225"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d187b9aa-b104-11ef-ba27-d7390494e71c",
