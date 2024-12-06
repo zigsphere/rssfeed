@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=126863",
+          "author": "Kyle Bailey",
+          "description": "December 6, 2024 5:50 a.m.  Roseburg Police made a warrant arrest Wednesday night. An RPD report said at 11:40 p.m. officers contacted a 69-year-old man for a trespass issue at a business in the 3200 block of Northwest Aviation Drive and found he had a warrant out of Salem Municipal Court for his arrest. The...",
+          "link": "https://kqennewsradio.com/2024/12/06/roseburg-police-make-warrant-arrest/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-make-warrant-arrest",
+          "publishedOn": "2024-12-06T13:48:27.000Z",
+          "wordCount": 1529,
+          "title": "ROSEBURG POLICE MAKE WARRANT ARREST",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=126861",
+          "author": "Kyle Bailey",
+          "description": "December 6, 2024 5:40 a.m.  Roseburg Police jailed a man for a warrant, drug and weapon charges on Wednesday night. An RPD report said just after 11:30 p.m. officers contacted the 46-year-old in the 500 block of Northeast Lincoln Street and determined he had a warrant for his arrest. It was confirmed through records. During...",
+          "link": "https://kqennewsradio.com/2024/12/06/roseburg-police-jail-man-for-warrant-drug-and-weapon-charges/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-warrant-drug-and-weapon-charges",
+          "publishedOn": "2024-12-06T13:39:43.000Z",
+          "wordCount": 1546,
+          "title": "ROSEBURG POLICE JAIL MAN FOR WARRANT, DRUG AND WEAPON CHARGES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=126854",
           "author": "Kyle Bailey",
           "description": "December 6, 2024 3:50 a.m.  An Air Stagnation Advisory remains in effect through 4:00 a.m. Saturday for much of southern Oregon. Forecasters at the National Weather Service said a ridge of high pressure will lead to a strong inversion and stagnant air conditions near the surface that will continue to trap pollutants. This could worsen...",
@@ -900,7 +920,23 @@
       "title": "Central Douglas Fire & Rescue",
       "feedUrl": "https://www.flashalert.net/rss.html?id=6158",
       "siteUrl": "https://www.flashalert.net/news.html?id=6158",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.flashalert.net/news.html?id=6158#news177248",
+          "author": null,
+          "description": "See the news release in the attached document below.",
+          "link": "https://www.flashalert.net/news.html?id=6158#news177248",
+          "publishedOn": "2024-12-06T15:05:47.000Z",
+          "wordCount": 634,
+          "title": "Travel Trailer Fire (Photo)",
+          "enclosure": {
+            "url": "http://www.flashalertnewswire.net/images/news/2024-12/6158/177248/Travel_Trailer_Fire_%28810_Meadowwood%29.docx",
+            "length": "185383",
+            "type": "application/vnd.openxmlformats-o"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Douglas Co. Sheriff's Office",
