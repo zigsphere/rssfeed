@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-06T23:12:00.557Z</updated>
+    <updated>2024-12-07T02:55:45.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Laundry Love event helps low-income people wash clothes for free]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1ba110e0-b29a-11ef-9dc0-93462f98861e</id>
+        <link href="https://www.nrtoday.com/family/laundry-love-event-helps-low-income-people-wash-clothes-for-free/article_1ba110e0-b29a-11ef-9dc0-93462f98861e.html"/>
+        <updated>2024-12-06T23:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Laundry Love is a neighboring movement that partners with groups, schools and local laundromats to wash the clothes and bedding of low-income and/or no-income families and person(s).]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.6.24]]></title>
         <id>https://kqennewsradio.com/?p=126892</id>
@@ -884,46 +894,6 @@
         <summary type="html"><![CDATA[The U.S. Department of Agriculture's Forest Service opened applications for the Community Wildfire Defense Grant program to assist at-risk communities with planning for and mitigating wildfire risks.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY IN EFFECT UNTIL 4:00 P.M. WEDNESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=126708</id>
-        <link href="https://kqennewsradio.com/2024/12/03/air-stagnation-advisory-in-effect-until-400-p-m-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-in-effect-until-400-p-m-wednesday"/>
-        <updated>2024-12-03T11:51:39.000Z</updated>
-        <summary type="html"><![CDATA[December 3, 2024 3:50 a.m.  An Air Stagnation Advisory remains in effect until 4:00 p.m. Wednesday for parts of southern Oregon. Forecasters at the National Weather Service said a ridge of high pressure will lead to a strong inversion and stagnant air conditions near the surface that will continue to trap pollutants. This could worsen...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR KOTEK RELEASES 2025-2027 BUDGET]]></title>
-        <id>https://kqennewsradio.com/?p=126706</id>
-        <link href="https://kqennewsradio.com/2024/12/03/governor-kotek-releases-2025-2027-budget/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-kotek-releases-2025-2027-budget"/>
-        <updated>2024-12-03T11:42:37.000Z</updated>
-        <summary type="html"><![CDATA[December 3, 2024 3:40 a.m.  On Monday, Governor Tina Kotek unveiled her 2025-2027 recommended budget entitled, Building on Progress. Kotek said, “My approach to being your Governor will always be grounded in truth, pragmatism, and a relentless pursuit of equitable outcomes for all Oregonians”. Kotek said, “The December revenue forecast projects stability for Oregon, and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DANIELLE HASKETT PROMOTED TO CHIEF ACADEMIC OFFICER AT UCC]]></title>
-        <id>https://kqennewsradio.com/?p=126703</id>
-        <link href="https://kqennewsradio.com/2024/12/03/danielle-haskett-promoted-to-chief-academic-officer-at-ucc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=danielle-haskett-promoted-to-chief-academic-officer-at-ucc"/>
-        <updated>2024-12-03T11:19:12.000Z</updated>
-        <summary type="html"><![CDATA[December 3, 2024 3:30 a.m.  Danielle Haskett, Dean of Academic Services for Allied Health, has been promoted to the role of Chief Academic Officer at Umpqua Community College, effective Monday, December 2nd. A college release said in the new role, Haskett will oversee a broad spectrum of initiatives across the college: Allied Health, General Education...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOUGLAS COUNTY MUSEUM HAS “QUILTS & CHRISTMAS” EXHIBIT]]></title>
-        <id>https://kqennewsradio.com/?p=126700</id>
-        <link href="https://kqennewsradio.com/2024/12/03/douglas-county-museum-has-quilts-christmas-exhibit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-county-museum-has-quilts-christmas-exhibit"/>
-        <updated>2024-12-03T11:14:51.000Z</updated>
-        <summary type="html"><![CDATA[December 3, 2024 3:20 a.m.  The Douglas County Museum has a new limited time exhibit titled, “Quilts & Christmas”. A county release said the exhibit will feature quilts, Christmas ornaments and toys from the museum’s extensive collection. The temporary exhibit is slated to run through February 2025. The quilt portion of the exhibit will...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

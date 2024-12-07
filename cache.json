@@ -664,46 +664,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203161026/IMG_5788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126708",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 3:50 a.m.  An Air Stagnation Advisory remains in effect until 4:00 p.m. Wednesday for parts of southern Oregon. Forecasters at the National Weather Service said a ridge of high pressure will lead to a strong inversion and stagnant air conditions near the surface that will continue to trap pollutants. This could worsen...",
-          "link": "https://kqennewsradio.com/2024/12/03/air-stagnation-advisory-in-effect-until-400-p-m-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-in-effect-until-400-p-m-wednesday",
-          "publishedOn": "2024-12-03T11:51:39.000Z",
-          "wordCount": 1590,
-          "title": "AIR STAGNATION ADVISORY IN EFFECT UNTIL 4:00 P.M. WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203105129/Tues-11.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126706",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 3:40 a.m.  On Monday, Governor Tina Kotek unveiled her 2025-2027 recommended budget entitled, Building on Progress. Kotek said, “My approach to being your Governor will always be grounded in truth, pragmatism, and a relentless pursuit of equitable outcomes for all Oregonians”. Kotek said, “The December revenue forecast projects stability for Oregon, and...",
-          "link": "https://kqennewsradio.com/2024/12/03/governor-kotek-releases-2025-2027-budget/?utm_source=rss&utm_medium=rss&utm_campaign=governor-kotek-releases-2025-2027-budget",
-          "publishedOn": "2024-12-03T11:42:37.000Z",
-          "wordCount": 1703,
-          "title": "GOVERNOR KOTEK RELEASES 2025-2027 BUDGET",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126703",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 3:30 a.m.  Danielle Haskett, Dean of Academic Services for Allied Health, has been promoted to the role of Chief Academic Officer at Umpqua Community College, effective Monday, December 2nd. A college release said in the new role, Haskett will oversee a broad spectrum of initiatives across the college: Allied Health, General Education...",
-          "link": "https://kqennewsradio.com/2024/12/03/danielle-haskett-promoted-to-chief-academic-officer-at-ucc/?utm_source=rss&utm_medium=rss&utm_campaign=danielle-haskett-promoted-to-chief-academic-officer-at-ucc",
-          "publishedOn": "2024-12-03T11:19:12.000Z",
-          "wordCount": 1794,
-          "title": "DANIELLE HASKETT PROMOTED TO CHIEF ACADEMIC OFFICER AT UCC",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203101903/danielle-haskett-photo-16x9-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126700",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2024 3:20 a.m.  The Douglas County Museum has a new limited time exhibit titled, “Quilts & Christmas”. A county release said the exhibit will feature quilts, Christmas ornaments and toys from the museum’s extensive collection. The temporary exhibit is slated to run through February 2025. The quilt portion of the exhibit will...",
-          "link": "https://kqennewsradio.com/2024/12/03/douglas-county-museum-has-quilts-christmas-exhibit/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-museum-has-quilts-christmas-exhibit",
-          "publishedOn": "2024-12-03T11:14:51.000Z",
-          "wordCount": 1752,
-          "title": "DOUGLAS COUNTY MUSEUM HAS “QUILTS & CHRISTMAS” EXHIBIT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241203101446/Quilt-1.jpg"
         }
       ]
     },
@@ -718,6 +678,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ba110e0-b29a-11ef-9dc0-93462f98861e",
+          "author": null,
+          "description": "Laundry Love is a neighboring movement that partners with groups, schools and local laundromats to wash the clothes and bedding of low-income and/or no-income families and person(s).",
+          "link": "https://www.nrtoday.com/family/laundry-love-event-helps-low-income-people-wash-clothes-for-free/article_1ba110e0-b29a-11ef-9dc0-93462f98861e.html",
+          "publishedOn": "2024-12-06T23:47:00.000Z",
+          "wordCount": 13354,
+          "title": "Laundry Love event helps low-income people wash clothes for free",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/dc553114-b1a9-11ef-b27b-47e56eb7d92e",
           "author": "JENNIFER COALWELL For The News-Review",
