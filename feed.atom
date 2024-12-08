@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-07T23:11:20.561Z</updated>
+    <updated>2024-12-08T03:03:38.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek Elementary decorates town Christmas tree]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ca4f350c-b431-11ef-a84c-33d64171dca2</id>
+        <link href="https://www.nrtoday.com/news/education/myrtle-creek-elementary-decorates-town-christmas-tree/article_ca4f350c-b431-11ef-a84c-33d64171dca2.html"/>
+        <updated>2024-12-08T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Students from Myrtle Creek Elementary School spent the first week of December decorating the town’s Christmas tree.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMMERCIAL DUNGENESS CRAB SEASON BEGINS DECEMBER 16TH]]></title>
         <id>https://kqennewsradio.com/?p=126895</id>
@@ -17,6 +27,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ADAPT awarded five star primary care home designation]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f24ce974-b336-11ef-81c5-a762fb5c8871</id>
+        <link href="https://www.nrtoday.com/news/adapt-awarded-five-star-primary-care-home-designation/article_f24ce974-b336-11ef-81c5-a762fb5c8871.html"/>
+        <updated>2024-12-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Adapt Integrated Health Care achieved the five star Patient-Centered Primary Care Home designation, the highest recognition awarded by the Oregon Health Authority.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg fugitive reportedly arrested in Tennessee]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/9116d010-b3ff-11ef-9c07-af67005cb08d</id>
+        <link href="https://www.nrtoday.com/news/court/roseburg-fugitive-reportedly-arrested-in-tennessee/article_9116d010-b3ff-11ef-9c07-af67005cb08d.html"/>
+        <updated>2024-12-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jerry Lee Thacker, 57, of Roseburg is reportedly in the Knox County Jail in Tennessee awaiting extradition to Douglas County, according to the Roseburg Police Department.]]></summary>
+        <author>
+            <name>PATRICK MOORE The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Laundry Love event helps low-income people wash clothes for free]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/1ba110e0-b29a-11ef-9dc0-93462f98861e</id>
         <link href="https://www.nrtoday.com/family/laundry-love-event-helps-low-income-people-wash-clothes-for-free/article_1ba110e0-b29a-11ef-9dc0-93462f98861e.html"/>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[Laundry Love is a neighboring movement that partners with groups, schools and local laundromats to wash the clothes and bedding of low-income and/or no-income families and person(s).]]></summary>
         <author>
             <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Craft Fair returns to Douglas County over Dec. 6 weekend]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c7e31778-b429-11ef-bd95-afef16222266</id>
+        <link href="https://www.nrtoday.com/news/christmas-craft-fair-returns-to-douglas-county-over-dec-6-weekend/article_c7e31778-b429-11ef-bd95-afef16222266.html"/>
+        <updated>2024-12-06T23:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The parking lots at the Douglas County Fairgrounds overflowed with hundreds of cars as visitors flocked to the 51st annual Christmas Craft Fair, held Friday through Sunday.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -664,76 +704,6 @@
         <summary type="html"><![CDATA[Since its inception in 1993, the Mercy Foundation returns annually with its Festival of Trees fundraiser which spans several days and multiple events.]]></summary>
         <author>
             <name>DREW WINKELMAIER The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teamsters call another foul on Bigfoot]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/27e748b8-b107-11ef-862c-f74dae04f09b</id>
-        <link href="https://www.nrtoday.com/news/local/teamsters-call-another-foul-on-bigfoot/article_27e748b8-b107-11ef-862c-f74dae04f09b.html"/>
-        <updated>2024-12-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Strikers maintained vigil over Thanksgiving weekend, pushing the strike against Bigfoot Beverages into its third month.]]></summary>
-        <author>
-            <name>PATRICK MOORE The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honoring Every Hero]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e0537cde-9eef-11ef-9404-fb0a0b3e8086</id>
-        <link href="https://www.nrtoday.com/specialsections/honoring-every-hero/article_e0537cde-9eef-11ef-9404-fb0a0b3e8086.html"/>
-        <updated>2024-12-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While green balsam fir tied with a velvet red bow might look like a pretty Christmas gesture, brightening the white marble veteran headstones they lay against — these wreaths are far more than decoration.]]></summary>
-        <author>
-            <name>BRITTANY ARNOLD The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY EXTENDED THROUGH FRIDAY AFTERNOON]]></title>
-        <id>https://kqennewsradio.com/?p=126752</id>
-        <link href="https://kqennewsradio.com/2024/12/04/air-stagnation-advisory-extended-through-friday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-extended-through-friday-afternoon"/>
-        <updated>2024-12-04T13:17:07.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2024 5:15 a.m.  An Air Stagnation Advisory has been extended through Friday afternoon at 4:00 p.m. for parts of southern Oregon. Forecasters at the National Weather Service said a ridge of high pressure will lead to a strong inversion and stagnant air conditions near the surface that will continue to trap pollutants. This...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SEES ABOVE NORMAL RAINFALL IN NOVEMBER]]></title>
-        <id>https://kqennewsradio.com/?p=126750</id>
-        <link href="https://kqennewsradio.com/2024/12/04/roseburg-sees-above-normal-rainfall-in-november/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sees-above-normal-rainfall-in-november"/>
-        <updated>2024-12-04T11:21:38.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2024 3:40 a.m.  Roseburg saw an above normal amount of rainfall in November. Data from the National Weather Service in Medford said 7.77 inches of rain was recorded last month at the Roseburg Regional Airport. That was 3.05 inches above normal rainfall which is 4.72 inches. The record amount of rainfall measured in...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINSTON CITY COUNCIL MAKES APPOINTMENT FOR VACANT SEAT]]></title>
-        <id>https://kqennewsradio.com/?p=126748</id>
-        <link href="https://kqennewsradio.com/2024/12/04/winston-city-council-makes-appointment-for-vacant-seat/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-city-council-makes-appointment-for-vacant-seat"/>
-        <updated>2024-12-04T11:17:15.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2024 3:30 a.m.  Monday night the Winston City Council voted to appoint Nicholas Wiggins to fill a seat recently vacated by Alesha Anderson. A city release said Wiggins was among 4 applicants interviewed. He was sworn in after being appointed. Other applicants interviewed for the Ward II seat were Edward Frankenstein, Sharon Cooper...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIFE SAFARI HAS WILD FOR THE HOLIDAYS EVENTS]]></title>
-        <id>https://kqennewsradio.com/?p=126746</id>
-        <link href="https://kqennewsradio.com/2024/12/04/wildlife-safari-has-wild-for-the-holidays-events/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlife-safari-has-wild-for-the-holidays-events"/>
-        <updated>2024-12-04T11:12:57.000Z</updated>
-        <summary type="html"><![CDATA[December 4, 2024 3:20 a.m.  Wildlife Safari has a series of Wild for the Holidays events, coming up soon. Wildlights takes place Friday through Sunday nights, December 13th through December 15th from 5:00 p.m. to 8:00 p.m. It includes light displays in the village, a train ride, keeper talks, cocoa and an opportunity for the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine Park urban growth boundary expansion progresses]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/75f60cd2-b1c1-11ef-bb51-eb20a8df59aa</id>
-        <link href="https://www.nrtoday.com/news/sunshine-park-urban-growth-boundary-expansion-progresses/article_75f60cd2-b1c1-11ef-bb51-eb20a8df59aa.html"/>
-        <updated>2024-12-04T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The Sunshine Park Urban Growth Boundary Expansion application moved forward following a joint meeting of the City of Roseburg Planning Commission and the Douglas County Planning Commission on Monday night.]]></summary>
-        <author>
-            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
         </author>
     </entry>
 </feed>

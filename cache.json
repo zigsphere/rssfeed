@@ -489,46 +489,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126752",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2024 5:15 a.m.  An Air Stagnation Advisory has been extended through Friday afternoon at 4:00 p.m. for parts of southern Oregon. Forecasters at the National Weather Service said a ridge of high pressure will lead to a strong inversion and stagnant air conditions near the surface that will continue to trap pollutants. This...",
-          "link": "https://kqennewsradio.com/2024/12/04/air-stagnation-advisory-extended-through-friday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-extended-through-friday-afternoon",
-          "publishedOn": "2024-12-04T13:17:07.000Z",
-          "wordCount": 1608,
-          "title": "AIR STAGNATION ADVISORY EXTENDED THROUGH FRIDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241204121653/wedfog-2.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126750",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2024 3:40 a.m.  Roseburg saw an above normal amount of rainfall in November. Data from the National Weather Service in Medford said 7.77 inches of rain was recorded last month at the Roseburg Regional Airport. That was 3.05 inches above normal rainfall which is 4.72 inches. The record amount of rainfall measured in...",
-          "link": "https://kqennewsradio.com/2024/12/04/roseburg-sees-above-normal-rainfall-in-november/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-sees-above-normal-rainfall-in-november",
-          "publishedOn": "2024-12-04T11:21:38.000Z",
-          "wordCount": 1571,
-          "title": "ROSEBURG SEES ABOVE NORMAL RAINFALL IN NOVEMBER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202854/rain1-1-e1672833992609.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126748",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2024 3:30 a.m.  Monday night the Winston City Council voted to appoint Nicholas Wiggins to fill a seat recently vacated by Alesha Anderson. A city release said Wiggins was among 4 applicants interviewed. He was sworn in after being appointed. Other applicants interviewed for the Ward II seat were Edward Frankenstein, Sharon Cooper...",
-          "link": "https://kqennewsradio.com/2024/12/04/winston-city-council-makes-appointment-for-vacant-seat/?utm_source=rss&utm_medium=rss&utm_campaign=winston-city-council-makes-appointment-for-vacant-seat",
-          "publishedOn": "2024-12-04T11:17:15.000Z",
-          "wordCount": 1542,
-          "title": "WINSTON CITY COUNCIL MAKES APPOINTMENT FOR VACANT SEAT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223900/city-logo-white-e1593623854274.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=126746",
-          "author": "Kyle Bailey",
-          "description": "December 4, 2024 3:20 a.m.  Wildlife Safari has a series of Wild for the Holidays events, coming up soon. Wildlights takes place Friday through Sunday nights, December 13th through December 15th from 5:00 p.m. to 8:00 p.m. It includes light displays in the village, a train ride, keeper talks, cocoa and an opportunity for the...",
-          "link": "https://kqennewsradio.com/2024/12/04/wildlife-safari-has-wild-for-the-holidays-events/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-has-wild-for-the-holidays-events",
-          "publishedOn": "2024-12-04T11:12:57.000Z",
-          "wordCount": 1667,
-          "title": "WILDLIFE SAFARI HAS WILD FOR THE HOLIDAYS EVENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
         }
       ]
     },
@@ -544,6 +504,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ca4f350c-b431-11ef-a84c-33d64171dca2",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Students from Myrtle Creek Elementary School spent the first week of December decorating the town’s Christmas tree.",
+          "link": "https://www.nrtoday.com/news/education/myrtle-creek-elementary-decorates-town-christmas-tree/article_ca4f350c-b431-11ef-a84c-33d64171dca2.html",
+          "publishedOn": "2024-12-08T00:25:00.000Z",
+          "wordCount": 14875,
+          "title": "Myrtle Creek Elementary decorates town Christmas tree",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/82/38299a5e-b432-11ef-8415-3b1674c42655/675396bd87200.image.jpg?resize=300%2C200",
+            "length": "612841",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/82/38299a5e-b432-11ef-8415-3b1674c42655/675396bd87200.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f24ce974-b336-11ef-81c5-a762fb5c8871",
+          "author": null,
+          "description": "Adapt Integrated Health Care achieved the five star Patient-Centered Primary Care Home designation, the highest recognition awarded by the Oregon Health Authority.",
+          "link": "https://www.nrtoday.com/news/adapt-awarded-five-star-primary-care-home-designation/article_f24ce974-b336-11ef-81c5-a762fb5c8871.html",
+          "publishedOn": "2024-12-07T18:30:00.000Z",
+          "wordCount": 13302,
+          "title": "ADAPT awarded five star primary care home designation",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9116d010-b3ff-11ef-9c07-af67005cb08d",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Jerry Lee Thacker, 57, of Roseburg is reportedly in the Knox County Jail in Tennessee awaiting extradition to Douglas County, according to the Roseburg Police Department.",
+          "link": "https://www.nrtoday.com/news/court/roseburg-fugitive-reportedly-arrested-in-tennessee/article_9116d010-b3ff-11ef-9c07-af67005cb08d.html",
+          "publishedOn": "2024-12-07T15:00:00.000Z",
+          "wordCount": 13565,
+          "title": "Roseburg fugitive reportedly arrested in Tennessee",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1ba110e0-b29a-11ef-9dc0-93462f98861e",
           "author": null,
           "description": "Laundry Love is a neighboring movement that partners with groups, schools and local laundromats to wash the clothes and bedding of low-income and/or no-income families and person(s).",
@@ -552,6 +547,21 @@
           "wordCount": 13354,
           "title": "Laundry Love event helps low-income people wash clothes for free",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c7e31778-b429-11ef-bd95-afef16222266",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "The parking lots at the Douglas County Fairgrounds overflowed with hundreds of cars as visitors flocked to the 51st annual Christmas Craft Fair, held Friday through Sunday.",
+          "link": "https://www.nrtoday.com/news/christmas-craft-fair-returns-to-douglas-county-over-dec-6-weekend/article_c7e31778-b429-11ef-bd95-afef16222266.html",
+          "publishedOn": "2024-12-06T23:28:00.000Z",
+          "wordCount": 14560,
+          "title": "Christmas Craft Fair returns to Douglas County over Dec. 6 weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/83/683a077c-b42a-11ef-b264-bf255f12436a/675389a233161.image.jpg?resize=300%2C200",
+            "length": "549542",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/83/683a077c-b42a-11ef-b264-bf255f12436a/675389a233161.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/dc553114-b1a9-11ef-b27b-47e56eb7d92e",
@@ -797,36 +807,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/fa/9fa7bd16-a12f-11ef-b6f0-2f09c4801e8c/656916aad7412.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/27e748b8-b107-11ef-862c-f74dae04f09b",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "Strikers maintained vigil over Thanksgiving weekend, pushing the strike against Bigfoot Beverages into its third month.",
-          "link": "https://www.nrtoday.com/news/local/teamsters-call-another-foul-on-bigfoot/article_27e748b8-b107-11ef-862c-f74dae04f09b.html",
-          "publishedOn": "2024-12-04T15:00:00.000Z",
-          "wordCount": 14431,
-          "title": "Teamsters call another foul on Bigfoot",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e0537cde-9eef-11ef-9404-fb0a0b3e8086",
-          "author": "BRITTANY ARNOLD The News-Review",
-          "description": "While green balsam fir tied with a velvet red bow might look like a pretty Christmas gesture, brightening the white marble veteran headstones they lay against — these wreaths are far more than decoration.",
-          "link": "https://www.nrtoday.com/specialsections/honoring-every-hero/article_e0537cde-9eef-11ef-9404-fb0a0b3e8086.html",
-          "publishedOn": "2024-12-04T14:30:00.000Z",
-          "wordCount": null,
-          "title": "Honoring Every Hero",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/75f60cd2-b1c1-11ef-bb51-eb20a8df59aa",
-          "author": null,
-          "description": "The Sunshine Park Urban Growth Boundary Expansion application moved forward following a joint meeting of the City of Roseburg Planning Commission and the Douglas County Planning Commission on Monday night.",
-          "link": "https://www.nrtoday.com/news/sunshine-park-urban-growth-boundary-expansion-progresses/article_75f60cd2-b1c1-11ef-bb51-eb20a8df59aa.html",
-          "publishedOn": "2024-12-04T10:45:00.000Z",
-          "wordCount": 13373,
-          "title": "Sunshine Park urban growth boundary expansion progresses",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
