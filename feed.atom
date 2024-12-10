@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-10T19:10:18.480Z</updated>
+    <updated>2024-12-10T23:11:46.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.10.24]]></title>
+        <id>https://kqennewsradio.com/?p=127014</id>
+        <link href="https://kqennewsradio.com/2024/12/10/inside-douglas-county-12-10-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-10-24"/>
+        <updated>2024-12-10T21:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State University Extension Agent Logan Bennett covers a number of winter agricultural topics and discusses classes and events that are coming up.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=127012</id>
