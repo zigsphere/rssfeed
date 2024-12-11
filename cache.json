@@ -494,6 +494,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9cbeaa26-b5be-11ef-8c5b-1b32e3288a58",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Daniel Lynn Hetrick, 22, of Winston, was arrested Saturday and remains lodged in Douglas County Jail with no bail on charges of second-degree murder and unlawful use of a weapon as of Monday morning. Jail records show Douglas County Sheriff’s…",
+          "link": "https://www.nrtoday.com/news/crime/major-crimes-team-probes-another-shooting-death/article_9cbeaa26-b5be-11ef-8c5b-1b32e3288a58.html",
+          "publishedOn": "2024-12-11T15:00:00.000Z",
+          "wordCount": 13768,
+          "title": "Major Crimes team probes another shooting death",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b99ecb68-b50e-11ef-ac5e-5f99eeaed8aa",
           "author": null,
           "description": "Oregon’s commercial Dungeness crab fishery opens December 16 from Cape Falcon at Oswald State Park to the California border.",
@@ -617,26 +627,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/1c/61ceb35a-b403-11ef-9275-ff676d502d23/6753482911589.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3bddac60-b510-11ef-a46b-53fea8c30636",
-          "author": null,
-          "description": "The annual Holiday Lights Community Bike Ride will take place at 6 p.m. Tuesday, Dec. 17. Riders of all ages and abilities are invited to join this family-friendly 3.3-mile ride through the festive Hucrest neighborhood in Roseburg.",
-          "link": "https://www.nrtoday.com/briefs/holiday-lights-community-bike-ride-set-for-dec-17/article_3bddac60-b510-11ef-a46b-53fea8c30636.html",
-          "publishedOn": "2024-12-08T02:57:00.000Z",
-          "wordCount": 13985,
-          "title": "Holiday Lights community bike ride set for Dec. 17",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2ffef4e4-b510-11ef-b0d9-07f93f2ea690",
-          "author": null,
-          "description": "Happier Hour: Holiday Ornaments - Registration Required",
-          "link": "https://www.nrtoday.com/family/ornament-making-class-at-thrive-umpqua-dec-11/article_2ffef4e4-b510-11ef-b0d9-07f93f2ea690.html",
-          "publishedOn": "2024-12-08T02:57:00.000Z",
-          "wordCount": 13324,
-          "title": "Ornament making class at Thrive Umpqua Dec. 11",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
