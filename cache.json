@@ -639,6 +639,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5061df38-b689-11ef-b0dd-0f7b0a72fcd2",
+          "author": "SCOTT CARROLL The News-Review",
+          "description": "BURNT MOUNTAIN — Known for breathtaking views and perilous conditions, the Doerner Fir Trail has long drawn both adventurers and warnings. On Nov. 24, it claimed the life of Emily Marie Hopfer, a popular teacher cherished by her students at…",
+          "link": "https://www.nrtoday.com/news/beloved-teacher-dies-in-tragic-fall-on-treacherous-doerner-fir-trail/article_5061df38-b689-11ef-b0dd-0f7b0a72fcd2.html",
+          "publishedOn": "2024-12-12T15:00:00.000Z",
+          "wordCount": 14369,
+          "title": "Beloved teacher dies in tragic fall on treacherous Doerner Fir Trail",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/74/3743e854-b402-11ef-9f7e-bf9772f22771/675346548f614.image.jpg?resize=300%2C398",
+            "length": "213346",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/74/3743e854-b402-11ef-9f7e-bf9772f22771/675346548f614.image.jpg?resize=300%2C398"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fb661552-b328-11ef-a50e-83abdd313ae9",
           "author": null,
           "description": "Come share your joyful voice at the Roseburg Folklore Society’s Solstice Sing Sunday, Dec. 15, at Oran Mor Artisan Meads. The Roseburg Folklore Society presents an evening of song with a social hour from 5-6 p.m., followed by a singalong…",
