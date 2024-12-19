@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-19T13:21:24.609Z</updated>
+    <updated>2024-12-19T16:13:14.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Cancer Services to deliver dinners on Christmas Eve]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/8c4cf620-bbf9-11ef-933a-4326af5993f2</id>
+        <link href="https://www.nrtoday.com/news/douglas-county-cancer-services-to-deliver-dinners-on-christmas-eve/article_8c4cf620-bbf9-11ef-933a-4326af5993f2.html"/>
+        <updated>2024-12-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Cancer Services will help spread holiday cheer by delivering free dinners to cancer patients and their families across the county Christmans Eve morning for their annual meal delivery event.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Yoncalla water plant operator facing charges]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/608a317a-bd6f-11ef-bc39-cb9a8e809e32</id>
+        <link href="https://www.nrtoday.com/news/former-yoncalla-water-plant-operator-facing-charges/article_608a317a-bd6f-11ef-bc39-cb9a8e809e32.html"/>
+        <updated>2024-12-19T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[YONCALLA — The former operator of the Yoncalla wastewater treatment facility is facing criminal charges after authorities said he fabricated data on required testing of wastewater at the site, and in some cases never did the testing at all, including…]]></summary>
+        <author>
+            <name>SCOTT CARROLL The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=127364</id>

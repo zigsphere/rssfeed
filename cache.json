@@ -619,6 +619,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c4cf620-bbf9-11ef-933a-4326af5993f2",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Douglas County Cancer Services will help spread holiday cheer by delivering free dinners to cancer patients and their families across the county Christmans Eve morning for their annual meal delivery event.",
+          "link": "https://www.nrtoday.com/news/douglas-county-cancer-services-to-deliver-dinners-on-christmas-eve/article_8c4cf620-bbf9-11ef-933a-4326af5993f2.html",
+          "publishedOn": "2024-12-19T16:00:00.000Z",
+          "wordCount": 14253,
+          "title": "Douglas County Cancer Services to deliver dinners on Christmas Eve",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/0c/20cff4a4-bca5-11ef-a4fe-e73acff5a9d3/63a5fef8a86dc.image.jpg?resize=300%2C208",
+            "length": "296494",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/0c/20cff4a4-bca5-11ef-a4fe-e73acff5a9d3/63a5fef8a86dc.image.jpg?resize=300%2C208"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/608a317a-bd6f-11ef-bc39-cb9a8e809e32",
+          "author": "SCOTT CARROLL The News-Review",
+          "description": "YONCALLA — The former operator of the Yoncalla wastewater treatment facility is facing criminal charges after authorities said he fabricated data on required testing of wastewater at the site, and in some cases never did the testing at all, including…",
+          "link": "https://www.nrtoday.com/news/former-yoncalla-water-plant-operator-facing-charges/article_608a317a-bd6f-11ef-bc39-cb9a8e809e32.html",
+          "publishedOn": "2024-12-19T15:45:00.000Z",
+          "wordCount": 14906,
+          "title": "Former Yoncalla water plant operator facing charges",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/74/374baa28-bda1-11ef-b5b0-fb5e6b0335c1/67636ad1a629a.image.png?resize=300%2C650",
+            "length": "1746597",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/74/374baa28-bda1-11ef-b5b0-fb5e6b0335c1/67636ad1a629a.image.png?resize=300%2C650"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/47359c2a-bdbd-11ef-a61b-af0a9c6eabc5",
           "author": "STEPHANIE HALE The News-Review",
           "description": "With less than a week remaining in their annual red kettle fundraising campaign, the Salvation Army of Roseburg reports a concerning 20% decline in donations compared to last year. The drop, attributed to this year’s later Thanksgiving holiday, poses a…",
