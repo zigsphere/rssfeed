@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-18T23:11:31.691Z</updated>
+    <updated>2024-12-19T02:53:02.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 12.18.24]]></title>
+        <id>https://kqennewsradio.com/?p=127350</id>
+        <link href="https://kqennewsradio.com/2024/12/18/mike-winters-lawn-and-garden-show-12-18-24/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-12-18-24"/>
+        <updated>2024-12-19T00:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.  Today an encore show.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charting the Unknown: Get started with digital mapping apps]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dffb8a58-bcca-11ef-993e-c318b59a33b7</id>
+        <link href="https://www.nrtoday.com/news/charting-the-unknown-get-started-with-digital-mapping-apps/article_dffb8a58-bcca-11ef-993e-c318b59a33b7.html"/>
+        <updated>2024-12-18T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State University Extension Service will host a hands-on workshop, Chart the Unknown: Getting Started with Digital Mapping Apps, on Wednesday, January 22, 2025, from 1–4 p.m. at the OSU Extension Annex, 1134 SE Douglas Ave., Roseburg.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SALVATION ARMY URGES HOLIDAY GIVING, DONATIONS DOWN 20 PERCENT]]></title>
         <id>https://kqennewsradio.com/?p=127347</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[From The Ford Family Foundation  – Vice President of Programs, Keavy Cook and Vice President of Learning and Impact, Dr. Kasi Allen, talk about their new roles and the evolution of the foundation in recent years.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exchange students appreciate opportunities in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/388b79ba-ba5c-11ef-9eca-47d7fd84a738</id>
+        <link href="https://www.nrtoday.com/news/education/exchange-students-appreciate-opportunities-in-roseburg/article_388b79ba-ba5c-11ef-9eca-47d7fd84a738.html"/>
+        <updated>2024-12-18T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Mohammad Ghafoor admitted he dreamed of being placed in a large “typical” American city like New York for his year as an exchange student.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -270,6 +300,16 @@ The post Prioritizing Safety: Preventing Injuries and Fatalities in the Logging 
         <summary type="html"><![CDATA[Roseburg Dream Center Co-Executive Director Jeremy Grammon provides an update on the non-profit organization and talks about how people can volunteer to help in a variety of ways.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Community College 2024 fall term honor roll]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/41692194-bcab-11ef-a259-a35eb0f34cc4</id>
+        <link href="https://www.nrtoday.com/news/education/umpqua-community-college-2024-fall-term-honor-roll/article_41692194-bcab-11ef-a259-a35eb0f34cc4.html"/>
+        <updated>2024-12-17T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER — Umpqua Community College director of registration and records announced the 2024 Fall Term honor roll. The president’s list is made up of 315 full-time students with 3.75 or higher GPA, and 127 full-time students made it onto the…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -690,16 +730,6 @@ The post Prioritizing Safety: Preventing Injuries and Fatalities in the Logging 
         <summary type="html"><![CDATA[December 15, 2024 7:00 a.m.  A Winter Weather Advisory is in effect for mountain areas in parts of southern Oregon from 10:00 p.m. Sunday through 4:00 a.m. Tuesday. Forecasters at the National Weather Service said snow is expected. Total snow accumulations of between 5 and 15 inches are expected with winds gusting as high as...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rudolph Run collects Christmas presents for children]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/37387064-ba5b-11ef-80bf-33eb70954456</id>
-        <link href="https://www.nrtoday.com/news/local/rudolph-run-collects-christmas-presents-for-children/article_37387064-ba5b-11ef-80bf-33eb70954456.html"/>
-        <updated>2024-12-15T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Sourdough Co., a recent addition to the community, saw its donation barrel overflow with toys Saturday during the 18th Annual Cascade Community Credit Union Rudolph Run.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
