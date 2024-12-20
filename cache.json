@@ -674,46 +674,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241209165446/WISH2024.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127209",
-          "author": "Kyle Bailey",
-          "description": "December 16, 2024 3:50 a.m.  A Winter Weather Advisory is in effect through early Tuesday morning for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said snow is expected. Total snow accumulations of 8 to 16 inches are forecast, except up to 20 inches near Crater Lake. Winds will gust...",
-          "link": "https://kqennewsradio.com/2024/12/16/winter-weather-advisory-through-early-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-through-early-tuesday",
-          "publishedOn": "2024-12-16T11:45:24.000Z",
-          "wordCount": 1606,
-          "title": "WINTER WEATHER ADVISORY THROUGH EARLY TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241216104512/MonAM-6.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127207",
-          "author": "Kyle Bailey",
-          "description": "December 16, 2024 3:30 a.m. Roseburg School District received the highest assurance in its independent audit for the fiscal year 2023-24. A district release said this demonstrates a commitment to financial transparency and accountability. This is the ninth year in a row that the district has received this recognition. The audit, conducted by KDP Certified...",
-          "link": "https://kqennewsradio.com/2024/12/16/roseburg-school-district-continues-to-earn-high-marks/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-school-district-continues-to-earn-high-marks",
-          "publishedOn": "2024-12-16T11:29:37.000Z",
-          "wordCount": 1643,
-          "title": "ROSEBURG SCHOOL DISTRICT CONTINUES TO EARN HIGH MARKS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201049/rps-logo-e1682700508278.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127203",
-          "author": "Kyle Bailey",
-          "description": "December 16, 2024 3:20 a.m.  The Myrtle Creek City Council will meet Tuesday at 5:30 p.m. Councilors will hear reports from the several departments including the police, fire, and public works departments. There will be a public hearing on a zoning ordinance to meet requirements set forward by Oregon State House Bill 3395. City Administrator...",
-          "link": "https://kqennewsradio.com/2024/12/16/myrtle-creek-city-council-meeting-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-city-council-meeting-tuesday",
-          "publishedOn": "2024-12-16T11:23:31.000Z",
-          "wordCount": 1554,
-          "title": "MYRTLE CREEK CITY COUNCIL MEETING TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127201",
-          "author": "Kyle Bailey",
-          "description": "December 16, 2024 3:05 a.m. Last week, Congresswoman Val Hoyle joined the Delivering Outstanding Government Efficiency Caucus. A release said that joining the caucus will ensure that working people, seniors and veterans have a champion in the room when Republicans propose cuts to the federal government. Hoyle said, “The DOGE Caucus is a forum to...",
-          "link": "https://kqennewsradio.com/2024/12/16/hoyle-joins-delivering-outstanding-government-efficiency/?utm_source=rss&utm_medium=rss&utm_campaign=hoyle-joins-delivering-outstanding-government-efficiency",
-          "publishedOn": "2024-12-16T11:21:08.000Z",
-          "wordCount": 1706,
-          "title": "HOYLE JOINS DELIVERING OUTSTANDING GOVERNMENT EFFICIENCY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
         }
       ]
     },
@@ -728,6 +688,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c4f2eb0-be68-11ef-98d3-ffa35669d14f",
+          "author": null,
+          "description": "ROSEBURG — Share your stunning shots of public lands in the Roseburg District BLM or Umpqua National Forest. The Roseburg District BLM and Umpqua National Forest invite novice and amateur photographers to participate in their 2025 Photo Contest, part of…",
+          "link": "https://www.nrtoday.com/news/photo-contest-showcasing-roseburg-s-public-lands/article_8c4f2eb0-be68-11ef-98d3-ffa35669d14f.html",
+          "publishedOn": "2024-12-20T00:22:00.000Z",
+          "wordCount": 13491,
+          "title": "Photo contest showcasing Roseburg’s public lands",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8c4cf620-bbf9-11ef-933a-4326af5993f2",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -926,26 +896,6 @@
           "publishedOn": "2024-12-16T23:31:00.000Z",
           "wordCount": 13589,
           "title": "Roseburg offices, library closed on Christmas, New Year's Day",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a0948666-bbae-11ef-b6b9-938d6dc8acb8",
-          "author": null,
-          "description": "Oregon ABLE and the national ABLE for ALL Savings Plans are marking eight years of empowering individuals with disabilities to achieve financial independence. These milestones coincide with the 10th anniversary of the federal Achieving a Better Life Experience (ABLE) Act,…",
-          "link": "https://www.nrtoday.com/life/oregon-able-celebrates-100-million-milestone-and-decade-of-progress/article_a0948666-bbae-11ef-b6b9-938d6dc8acb8.html",
-          "publishedOn": "2024-12-16T13:06:00.000Z",
-          "wordCount": 13494,
-          "title": "Oregon ABLE celebrates $100 million milestone and decade of progress",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/626a1100-bbac-11ef-b53f-87ee96ce3836",
-          "author": null,
-          "description": "Toastmasters International, the world’s largest public speaking club, includes a chapter in Roseburg and recently shifted its meeting time to Tuesdays at noon to better accommodate members and guests.",
-          "link": "https://www.nrtoday.com/life/roseburg-toastmasters-invites-new-members-to-lunchtime-meetings/article_626a1100-bbac-11ef-b53f-87ee96ce3836.html",
-          "publishedOn": "2024-12-16T12:50:00.000Z",
-          "wordCount": 13466,
-          "title": "Roseburg Toastmasters invites new members to lunchtime meetings",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
