@@ -699,46 +699,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241212161521/Newwish-scaled.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127261",
-          "author": "Kyle Bailey",
-          "description": "December 17, 2024 3:50 a.m. Warmer than normal high temperatures are expected in the Umpqua Valley through Christmas. Forecasters at the National Weather Service said the region will see a mix of dry and wet conditions with several days of moisture in the forecast leading up to Christmas day. Highs will mainly be in the...",
-          "link": "https://kqennewsradio.com/2024/12/17/warmer-than-normal-temperatures-expected-through-christmas/?utm_source=rss&utm_medium=rss&utm_campaign=warmer-than-normal-temperatures-expected-through-christmas",
-          "publishedOn": "2024-12-17T11:58:00.000Z",
-          "wordCount": 1558,
-          "title": "WARMER THAN NORMAL TEMPERATURES EXPECTED THROUGH CHRISTMAS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127258",
-          "author": "Kyle Bailey",
-          "description": "December 17, 2024 3:40 a.m. A Winter Weather Advisory remains in effect through 7:00 a.m. Tuesday for mountain areas in much of southern Oregon. Forecasters at the National Weather Service said wet snow is expected with accumulations of up to 2 inches. The Advisory area includes the south central and southern Oregon Cascades and Siskiyou...",
-          "link": "https://kqennewsradio.com/2024/12/17/winter-weather-advisory-for-mountain-areas-through-early-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-for-mountain-areas-through-early-tuesday",
-          "publishedOn": "2024-12-17T11:38:08.000Z",
-          "wordCount": 1569,
-          "title": "WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS THROUGH EARLY TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241217103756/TuesAM-11.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127256",
-          "author": "Kyle Bailey",
-          "description": "December 17, 2024 3:30 a.m. Douglas County government has announced two holiday closures. A county release said Commissioners Chris Boice, Tim Freeman and Tom Kress would like to remind citizens that government offices located at the courthouse, on Southeast Douglas Avenue in Roseburg, as well as the Justice Building, courthouse annex in Reedsport, transfer stations,...",
-          "link": "https://kqennewsradio.com/2024/12/17/douglas-county-government-offices-to-closed-for-christmas-new-years/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-government-offices-to-closed-for-christmas-new-years",
-          "publishedOn": "2024-12-17T11:20:06.000Z",
-          "wordCount": 1692,
-          "title": "DOUGLAS COUNTY GOVERNMENT OFFICES TO CLOSED FOR CHRISTMAS/NEW YEARS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224342/DC-Commissioners-Logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127254",
-          "author": "Kyle Bailey",
-          "description": "December 17, 2024 3:20 a.m. The Umpqua Economic Development Partnership has announced the schedule for the 2025 Umpqua Growth Talk Pitch Night series, along with the introduction of a new format for next year. A Partnership release said UEDP’s Pitch Night program aims to provide financial and advisory support to emerging businesses in Douglas County,...",
-          "link": "https://kqennewsradio.com/2024/12/17/25-pitch-night-schedule-4-events-and-new-format/?utm_source=rss&utm_medium=rss&utm_campaign=25-pitch-night-schedule-4-events-and-new-format",
-          "publishedOn": "2024-12-17T11:15:26.000Z",
-          "wordCount": 1777,
-          "title": "’25 PITCH NIGHT SCHEDULE: 4 EVENTS AND NEW FORMAT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210756/PitchNight_Logo-1.jpg"
         }
       ]
     },
@@ -753,6 +713,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/93d8c85a-bf38-11ef-9d02-b7675e4b2f48",
+          "author": null,
+          "description": "A High Surf Advisory is in effect from Saturday at 7 a.m. to Sunday at 10 p.m. for coastal areas on the south central and southern Oregon coast.",
+          "link": "https://www.nrtoday.com/news/high-surf-advisory-for-coastal-areas-this-weekend/article_93d8c85a-bf38-11ef-9d02-b7675e4b2f48.html",
+          "publishedOn": "2024-12-21T01:11:00.000Z",
+          "wordCount": 13529,
+          "title": "High surf advisory for coastal areas this weekend",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9bd116ae-bc07-11ef-bc87-73805890c849",
+          "author": "BONNIE COURTER For The News-Review",
+          "description": "Question: I was recently gifted a beautiful houseplant called a cyclamen. I also noticed a smaller plant that looked just like it growing and blooming in my yard this fall. Are these the same variety and should I care for…",
+          "link": "https://www.nrtoday.com/family/indoor-vs-outdoor-cyclamen-how-to-care-for-your-plants-year-round/article_9bd116ae-bc07-11ef-bc87-73805890c849.html",
+          "publishedOn": "2024-12-20T23:43:00.000Z",
+          "wordCount": 14179,
+          "title": "Indoor vs. outdoor cyclamen: How to care for your plants year-round",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9923582c-b996-11ef-9268-3363428cdbfc",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -952,36 +932,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0e/00e86fa6-e89b-11ee-bdea-1bb1f4704e63/65fe0534c05f3.image.jpg?resize=300%2C232"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/09d278f6-bc25-11ef-b16f-97e4d1fc5412",
-          "author": "STEPHANIE HALE The News-Review",
-          "description": "A $16 million gift from Cheryl Ramberg-Ford and Allyn Ford of Roseburg to OHSU Doernbecher Children’s Hospital will establish a clinic for pediatric neuromuscular disorders (NMDs) while honoring a deep legacy in Douglas County.",
-          "link": "https://www.nrtoday.com/family/roseburg-family-donates-16-million-to-advance-pediatric-care-honoring-douglas-county-roots/article_09d278f6-bc25-11ef-b16f-97e4d1fc5412.html",
-          "publishedOn": "2024-12-17T11:15:00.000Z",
-          "wordCount": 13832,
-          "title": "Roseburg family donates $16 million to advance pediatric care, honoring Douglas County roots",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/55/355f84fe-bc2b-11ef-8289-3f299a58580e/6760f6f3a761b.image.jpg?resize=300%2C200",
-            "length": "168281",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/55/355f84fe-bc2b-11ef-8289-3f299a58580e/6760f6f3a761b.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3b05426e-b8d3-11ef-9e30-e70c277b6a75",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Idleyld Park artist Joe Howell brings nature’s untamed beauty to life in his paintings, depicting scenes like elk bugling at dawn, fishing boats navigating foaming rapids, and jaguars peering through dense jungle foliage. Despite creating over 100 works, much of…",
-          "link": "https://www.nrtoday.com/news/the-beauty-of-the-north-umpqua-and-beyond-in-the-paintings-of-joe-howell/article_3b05426e-b8d3-11ef-9e30-e70c277b6a75.html",
-          "publishedOn": "2024-12-17T11:15:00.000Z",
-          "wordCount": 14986,
-          "title": "The beauty of the North Umpqua and beyond in the paintings of Joe Howell",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/83/58327456-b8d3-11ef-b3eb-57c60bb6bd6a/675b5b0cdf627.image.jpg?resize=300%2C200",
-            "length": "562094",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/83/58327456-b8d3-11ef-b3eb-57c60bb6bd6a/675b5b0cdf627.image.jpg?resize=300%2C200"
         }
       ]
     },
