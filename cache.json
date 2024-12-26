@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=127620",
+          "author": "Kyle Bailey",
+          "description": "Peace at Home Advocacy Center Executive Director Melanie Prummer and Youth and Housing Project Manager Thomas McGregor talk their upcoming campus with other agencies to help provide youth housing solutions.",
+          "link": "https://kqennewsradio.com/2024/12/26/inside-douglas-county-12-26-24/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-26-24",
+          "publishedOn": "2024-12-26T21:16:34.000Z",
+          "wordCount": 1538,
+          "title": "INSIDE DOUGLAS COUNTY 12.26.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241226201130/IDC-12-26-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241226201617/IMG_5954.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=127617",
+          "author": "Kyle Bailey",
+          "description": "December 26, 2024 11:20 a.m.   The National Weather Service has issued a Wind Advisory for parts of southern Oregon from Thursday night at 10:00 p.m. to Friday morning at 10:00 a.m. Forecasters said southwest winds of 30 to 40 miles per hour with gusts from 50 to 70 miles are possible in parts of the...",
+          "link": "https://kqennewsradio.com/2024/12/26/wind-advisory-for-parts-of-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=wind-advisory-for-parts-of-southern-oregon",
+          "publishedOn": "2024-12-26T19:18:49.000Z",
+          "wordCount": 1543,
+          "title": "WIND ADVISORY FOR PARTS OF SOUTHERN OREGON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241226181839/wind-9.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=127615",
           "author": "Kyle Bailey",
           "description": "December 26, 2024 11:10 a.m.  Crews with the Sutherlin Fire Department responded to a structure fire on Wednesday afternoon. Division Chief Brandan McGarr said at approximately 12:55 p.m. firefighters were dispatched to the fire in the 900 block of Buttercup Lane. McGarr said a fire engine arrived a few minutes later and crews found the...",
@@ -539,16 +564,6 @@
           "wordCount": 1820,
           "title": "LAND OF UMPQUA AMATEUR PHOTO CONTEST",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223854/blmlogo.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127474",
-          "author": "Kyle Bailey",
-          "description": "December 23, 2024 2:50 a.m. Late last week, the Oregon Public Utility Commission issued its decision in the generale rate case filing by PacifiCorp, approving an overall increase for all customer types combined, including residential, commercial, and industrial customers, of approximately 8.5 percent to take effect on January 1st. In its initial rate case filing,...",
-          "link": "https://kqennewsradio.com/2024/12/23/puc-cuts-pacificcorps-requested-january-1-general-rate-increase/?utm_source=rss&utm_medium=rss&utm_campaign=puc-cuts-pacificcorps-requested-january-1-general-rate-increase",
-          "publishedOn": "2024-12-23T11:10:54.000Z",
-          "wordCount": 1640,
-          "title": "PUC CUTS PACIFICCORP’S REQUESTED JANUARY 1 GENERAL RATE INCREASE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727211244/puc-scaled-e1652350510977.jpg"
         }
       ]
     },
@@ -563,6 +578,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9eb3b3e4-c167-11ef-a1ba-e39941ced262",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Steve Cole decided he didn’t want a subscription for The Register-Guard, even though he lives in Eugene.",
+          "link": "https://www.nrtoday.com/news/local/eugene-subscriber-wins-50-gift-certificate-in-the-news-review-s-new-subscriber-drawing/article_9eb3b3e4-c167-11ef-a1ba-e39941ced262.html",
+          "publishedOn": "2024-12-26T19:53:00.000Z",
+          "wordCount": 13916,
+          "title": "Eugene subscriber wins $50 gift certificate in The News-Review’s New Subscriber Drawing",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/e7/ce7325b0-c167-11ef-bf3f-774d55c848b0/6769c01a211e4.image.jpg?resize=300%2C200",
+            "length": "457538",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/e7/ce7325b0-c167-11ef-bf3f-774d55c848b0/6769c01a211e4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/839cabc2-c3bc-11ef-93e3-1b2a0cdcf798",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Those in Roseburg hoping for a \"silent night\" on Christmas were instead met with heavy winds, power outages and property damage after a winter storm brought rough weather to Roseburg, with more expected to come throughout the weekend.",
+          "link": "https://www.nrtoday.com/news/high-winds-cause-power-outages-property-damage-in-roseburg-more-heavy-rain-incoming/article_839cabc2-c3bc-11ef-93e3-1b2a0cdcf798.html",
+          "publishedOn": "2024-12-26T19:06:00.000Z",
+          "wordCount": 14316,
+          "title": "High winds cause power outages, property damage in Roseburg; more heavy rain incoming",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/27/127a9014-c3bf-11ef-8d39-0fcc00b69148/676dad80c31e7.image.jpg?resize=300%2C225",
+            "length": "701371",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/27/127a9014-c3bf-11ef-8d39-0fcc00b69148/676dad80c31e7.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/31e48d98-c19d-11ef-918d-1b1a91fabae9",
           "author": "PATRICK MOORE The News-Review",
@@ -632,21 +677,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/b9/db945ece-be49-11ef-ac4f-2f667442a033/676485c292dc0.image.jpg?resize=300%2C364"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7ef309ee-be63-11ef-9243-6b5de9165f54",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "While the Christmas season brings holiday cheer for many, for those lacking stability, the winter weather and added financial strain can be a struggle to manage. To help lighten this load, the Douglas County Oregon Affiliate of the National Alliance…",
-          "link": "https://www.nrtoday.com/news/nami-of-douglas-county-brings-holiday-bag-project-to-people-in-need/article_7ef309ee-be63-11ef-9243-6b5de9165f54.html",
-          "publishedOn": "2024-12-23T11:00:00.000Z",
-          "wordCount": 14327,
-          "title": "NAMI of Douglas County brings Holiday Bag project to people in need",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e8/3e883500-bf2b-11ef-bed3-f374be573782/6765ff8083ee9.image.jpg?resize=300%2C225",
-            "length": "390605",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e8/3e883500-bf2b-11ef-bed3-f374be573782/6765ff8083ee9.image.jpg?resize=300%2C225"
         }
       ]
     },
