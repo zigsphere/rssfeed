@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2024-12-31T19:08:57.001Z</updated>
+    <updated>2024-12-31T23:10:34.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY]]></title>
+        <id>https://kqennewsradio.com/?p=127811</id>
+        <link href="https://kqennewsradio.com/2024/12/31/inside-douglas-county-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-4"/>
+        <updated>2024-12-31T21:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Joey Keeran is in-studio and Knight Jarecki, joins us live from Pasadena, California for the Rose Bowl Preview Show on Inside Douglas County]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN FOR ALLEGED TRESPASS/THEFT INCIDENTS]]></title>
         <id>https://kqennewsradio.com/?p=127808</id>
