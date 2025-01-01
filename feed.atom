@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-01T13:17:07.563Z</updated>
+    <updated>2025-01-01T14:26:49.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH 4:00 P.M. WEDNESDAY FOR MOUNTAIN AREAS]]></title>
+        <id>https://kqennewsradio.com/?p=127824</id>
+        <link href="https://kqennewsradio.com/2025/01/01/winter-weather-advisory-through-400-p-m-wednesday-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-through-400-p-m-wednesday-for-mountain-areas"/>
+        <updated>2025-01-01T14:21:41.000Z</updated>
+        <summary type="html"><![CDATA[January 1, 2024 6:20 a.m.  A Winter Weather Advisory is in effect through 4:00 p.m. Wednesday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said snow is expected. Total snow accumulations between 5 and 10 inches, with higher amounts up to 15 inches above 5,500 feet are forecast. Winds...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRUE WEALTH 12.31.24]]></title>
         <id>https://kqennewsradio.com/?p=127820</id>
