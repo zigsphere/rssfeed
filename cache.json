@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=127820",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, Matt Dickson and Justin Bruggeman have our year end local financial program.",
+          "link": "https://kqennewsradio.com/2025/01/01/true-wealth-12-31-24/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-12-31-24",
+          "publishedOn": "2025-01-01T01:37:50.000Z",
+          "wordCount": 1516,
+          "title": "TRUE WEALTH 12.31.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250101003437/TWR-12-31-24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=127816",
+          "author": "Kyle Bailey",
+          "description": "December 31, 2024 4:00 p.m.  Douglas County Sheriff John Hanlin has named a new Undersheriff to serve in his administration due to the retirement of current Undersheriff Jeff Frieze. Lieutenant Brad O’Dell was promoted to Undersheriff during a pinning ceremony on Monday. O’Dell previously served in the role of overseeing the Special Service Division. O’Dell...",
+          "link": "https://kqennewsradio.com/2024/12/31/sheriff-appoints-odell-as-new-undersheriff/?utm_source=rss&utm_medium=rss&utm_campaign=sheriff-appoints-odell-as-new-undersheriff",
+          "publishedOn": "2025-01-01T00:23:55.000Z",
+          "wordCount": 1840,
+          "title": "SHERIFF APPOINTS O’DELL AS NEW UNDERSHERIFF",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241231231412/ODELL2-scaled-e1735690465983.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=127811",
           "author": "Kyle Bailey",
           "description": "Joey Keeran is in-studio and Knight Jarecki, joins us live from Pasadena, California for the Rose Bowl Preview Show on Inside Douglas County",
@@ -414,26 +439,6 @@
           "wordCount": 1525,
           "title": "FLOOD WATCH CONTINUES FOR DEER CREEK AT ROSEBURG",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241228231327/SatPM.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127692",
-          "author": "Kyle Bailey",
-          "description": "December 28, 2024 6:20 a.m.  A Flood Watch remains in effect from 10:00 a.m. Saturday through 4:00 p.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service said flooding caused by excessive rainfall continues to be possible. The Watch applies to all valleys west of the Cascades and includes the cities of...",
-          "link": "https://kqennewsradio.com/2024/12/28/flood-watch-in-effect-saturday-morning-through-sunday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=flood-watch-in-effect-saturday-morning-through-sunday-afternoon",
-          "publishedOn": "2024-12-28T14:20:08.000Z",
-          "wordCount": 1630,
-          "title": "FLOOD WATCH IN EFFECT SATURDAY MORNING THROUGH SUNDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241228125837/Satam-13.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127689",
-          "author": "Kyle Bailey",
-          "description": "December 28, 2024 5: 50 a.m.  A Flood Watch remains in effect until early Tuesday afternoon for Deer Creek at Roseburg. Forecasters at the National Weather Service said minor flooding is possible due to excessive rainfall. As of early Saturday morning, the stage was at 6.5 feet. Flood stage is 10.0 feet and may be...",
-          "link": "https://kqennewsradio.com/2024/12/28/flood-watch-for-deer-creek-at-roseburg-through-tuesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=flood-watch-for-deer-creek-at-roseburg-through-tuesday-afternoon",
-          "publishedOn": "2024-12-28T13:58:50.000Z",
-          "wordCount": 1537,
-          "title": "FLOOD WATCH FOR DEER CREEK AT ROSEBURG THROUGH TUESDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241228125837/Satam-13.png"
         }
       ]
     },
