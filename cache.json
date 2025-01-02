@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=127880",
+          "author": "Kyle Bailey",
+          "description": "Thrive Umpqua Executive Director Jess Hand talks about ideas for moving to a healthier lifestyle in 2025.",
+          "link": "https://kqennewsradio.com/2025/01/02/inside-douglas-county-1-2-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-2-25",
+          "publishedOn": "2025-01-02T21:42:54.000Z",
+          "wordCount": 1526,
+          "title": "INSIDE DOUGLAS COUNTY 1.2.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250102204030/IDC-1-2-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250102204221/IMG_5984.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=127876",
+          "author": "Kyle Bailey",
+          "description": "January 2, 205 11:20 a.m.  Covering coastal Douglas County: A Washington State man is believed to be missing. A Douglas County Sheriff’s Office report said at approximately 5:40 p.m. Tuesday night, a deputy responded to the 900 block of Bridge Road in the Elkton area after a caller said someone was missing. A reporting party...",
+          "link": "https://kqennewsradio.com/2025/01/02/washington-man-reported-missing-in-coastal-douglas-county/?utm_source=rss&utm_medium=rss&utm_campaign=washington-man-reported-missing-in-coastal-douglas-county",
+          "publishedOn": "2025-01-02T19:11:03.000Z",
+          "wordCount": 1668,
+          "title": "WASHINGTON MAN REPORTED MISSING IN COASTAL DOUGLAS COUNTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=127874",
           "author": "Kyle Bailey",
           "description": "January 2, 2025 11:10 a.m.  Roseburg Police cited a woman for second-degree criminal trespass and prohibited camping on Tuesday afternoon. An RPD report said at approximately 2:40 p.m. the 46-year-old was contacted at her camp on the west side of the duck pond, in the 1000 block of Northwest Garden Valley Boulevard. The woman allegedly...",
@@ -524,16 +549,6 @@
           "wordCount": 1553,
           "title": "FESTIVAL OF LIGHTS CONTINUES THROUGH WEDNESDAY EVENING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203653/Festival-of-Lights-Gold-Logo-1-e1668535798344.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127708",
-          "author": "Kyle Bailey",
-          "description": "December 30, 2024 2:50 a.m. The Bureau of Land Management has issued a call for applications for its Artist-in- Residence program at the Cascade-Siskiyou National Monument. The selected artist receives a one-to two-week residency at CSNM in the month of June. Selected artists will create work while immersed in a beautiful environment and share their...",
-          "link": "https://kqennewsradio.com/2024/12/30/blm-call-for-applications-artist-in-residence-program/?utm_source=rss&utm_medium=rss&utm_campaign=blm-call-for-applications-artist-in-residence-program",
-          "publishedOn": "2024-12-30T11:06:00.000Z",
-          "wordCount": 1663,
-          "title": "BLM CALL FOR APPLICATIONS: ARTIST IN RESIDENCE PROGRAM",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241230100527/Monument.jpg"
         }
       ]
     },
