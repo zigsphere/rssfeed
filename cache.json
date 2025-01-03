@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=127941",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County  CEO Stephen Stanfield talks about the programs and activities they are offering the community for 2025.",
+          "link": "https://kqennewsradio.com/2025/01/03/inside-douglas-county-1-3-24-2/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-3-24-2",
+          "publishedOn": "2025-01-03T21:37:57.000Z",
+          "wordCount": 1516,
+          "title": "INSIDE DOUGLAS COUNTY 1.3.24",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250103203039/IDC-1-3-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250103203746/IMG_5989.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=127931",
+          "author": "Kyle Bailey",
+          "description": "January 3, 2024 11;10 a.m.  A Glendale woman was jailed for an alleged assault and weapon incident on Thursday. A Douglas County Sheriff’s Office report said at 10:50 a.m. 36-year-old Melissa Herrmann called dispatch to advise that she and a victim had gotten into a physical altercation in the 100 block of Hobbs Lane in...",
+          "link": "https://kqennewsradio.com/2025/01/03/glendale-woman-jailed-for-alleged-assault-weapon-incident/?utm_source=rss&utm_medium=rss&utm_campaign=glendale-woman-jailed-for-alleged-assault-weapon-incident",
+          "publishedOn": "2025-01-03T19:09:35.000Z",
+          "wordCount": 1623,
+          "title": "GLENDALE WOMAN JAILED FOR ALLEGED ASSAULT, WEAPON INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=127929",
           "author": "Kyle Bailey",
           "description": "January 3, 2024 10:50 a.m.  Douglas County government will have a Swearing-in Ceremony for the most recently elected officials Monday morning at 9:00 a.m. Those officials include Sheriff John Hanlin, Clerk Daniel Loomis, Treasurer Sam Lee, Justice of the Peace Machell Briggs-Mayfield, Justice of the Peace Kathleen Miller, and District Attorney Rick Weseberg. The ceremony...",
@@ -519,16 +544,6 @@
           "wordCount": 1871,
           "title": "WALDRONS OUTDOOR SPORTS GETTING NEW OWNERS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241231101616/IMG_5972.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127768",
-          "author": "Kyle Bailey",
-          "description": "December 31, 2024 2:50 a.m. A Yoncalla man was jailed Saturday in an alleged identity theft case. A Douglas County Sheriff’s Office report said at 9:55 a.m. a victim called dispatchers and said her credit card had been used without her permission. Later that day a deputy made contact with the suspect at his residence...",
-          "link": "https://kqennewsradio.com/2024/12/31/yoncalla-man-jailed-in-alleged-identity-theft-case/?utm_source=rss&utm_medium=rss&utm_campaign=yoncalla-man-jailed-in-alleged-identity-theft-case",
-          "publishedOn": "2024-12-31T11:01:23.000Z",
-          "wordCount": 1567,
-          "title": "YONCALLA MAN JAILED IN ALLEGED IDENTITY THEFT CASE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
@@ -543,6 +558,26 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7ed09192-ca26-11ef-9ef1-df355113e93f",
+          "author": "Newsroom",
+          "description": "Roseburg-raised musician Tommy Whiteside is set to debut his jazz album, Nana’s Piano, at a special release party on Saturday, January 4, 2025, at the Rosebud Theatre in downtown Roseburg. This marks the completion of a deeply personal project for…",
+          "link": "https://www.nrtoday.com/news/tommy-whitesides-nanas-piano-album-release-party-celebrates-oregon-jazz/article_7ed09192-ca26-11ef-9ef1-df355113e93f.html",
+          "publishedOn": "2025-01-03T23:00:00.000Z",
+          "wordCount": 13729,
+          "title": "Tommy Whiteside's \"Nana's Piano\" album release party celebrates Oregon jazz",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ce34d76-ca26-11ef-bb38-d7d70bc1f4aa",
+          "author": null,
+          "description": "The Douglas County Board of Commissioners will host a Swearing-in Ceremony for newly elected officials on Monday, Jan. 6, at 9 a.m. in Room 216 of the Douglas County Courthouse, located at 1036 SE Douglas Avenue, Roseburg, Oregon.",
+          "link": "https://www.nrtoday.com/news/douglas-county-to-hold-swearing-in-ceremony-for-elected-officials/article_1ce34d76-ca26-11ef-bb38-d7d70bc1f4aa.html",
+          "publishedOn": "2025-01-03T22:57:00.000Z",
+          "wordCount": 13501,
+          "title": "Douglas County to hold swearing-in ceremony for elected officials",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a4452934-c56b-11ef-927e-4b11825f288e",
           "author": "PATRICK MOORE The News-Review",
