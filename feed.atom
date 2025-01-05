@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-05T02:49:55.477Z</updated>
+    <updated>2025-01-05T04:00:41.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Train trestle collapses in Corvallis, sending urea-laden railcars into the Mary's River]]></title>
+        <id>6779fec38084700001133d73</id>
+        <link href="https://www.roseburgscanner.com/train-trestle-collapses-in-corvallis-sending-urea-laden-railcars-into-the-marys-river/"/>
+        <updated>2025-01-05T03:45:08.000Z</updated>
+        <summary type="html"><![CDATA[Corvallis Police and Fire crews responded to a train trestle collapse near Avery Park on Saturday afternoon.
+“Preliminary investigations indicate the trestle gave way while a freight train was passing over it. Currently, no injuries have been reported, but the scene remains active and under investigation,” Corvallis Police]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LANDSLIDE AND FLOODING LEADS TO CLOSURES AT COASTAL STATE PARKS]]></title>
         <id>https://kqennewsradio.com/?p=127949</id>
@@ -167,6 +178,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[January 3, 2025]]></title>
+        <id>6777f5448084700001133c9e</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-3-2025/"/>
+        <updated>2025-01-03T14:50:18.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS STARTS FRIDAY AFTERNOON]]></title>
         <id>https://kqennewsradio.com/?p=127902</id>
         <link href="https://kqennewsradio.com/2025/01/03/winter-weather-advisory-for-mountain-areas-starts-friday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-for-mountain-areas-starts-friday-afternoon"/>
@@ -324,6 +345,16 @@
         <summary type="html"><![CDATA[Roseburg Public Library Youth Services Librarian Aurora Ropp talks about winter programming for children, youth and families.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2, 2025]]></title>
+        <id>67754fad8084700001133be6</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-2-2025/"/>
+        <updated>2025-01-02T14:38:14.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>

@@ -420,6 +420,43 @@
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": []
+    },
+    {
+      "title": "The Roseburg Receiver",
+      "feedUrl": "https://www.roseburgscanner.com/rss/",
+      "siteUrl": "https://www.roseburgscanner.com/",
+      "articles": [
+        {
+          "id": "6779fec38084700001133d73",
+          "author": "Joseph Ziegler",
+          "description": "Corvallis Police and Fire crews responded to a train trestle collapse near Avery Park on Saturday afternoon.\n“Preliminary investigations indicate the trestle gave way while a freight train was passing over it. Currently, no injuries have been reported, but the scene remains active and under investigation,” Corvallis Police",
+          "link": "https://www.roseburgscanner.com/train-trestle-collapses-in-corvallis-sending-urea-laden-railcars-into-the-marys-river/",
+          "publishedOn": "2025-01-05T03:45:08.000Z",
+          "wordCount": 1081,
+          "title": "Train trestle collapses in Corvallis, sending urea-laden railcars into the Mary's River",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/train_bridge_collapse.jpg"
+        },
+        {
+          "id": "6777f5448084700001133c9e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-3-2025/",
+          "publishedOn": "2025-01-03T14:50:18.000Z",
+          "wordCount": 2947,
+          "title": "January 3, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-1.png"
+        },
+        {
+          "id": "67754fad8084700001133be6",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-2-2025/",
+          "publishedOn": "2025-01-02T14:38:14.000Z",
+          "wordCount": 2499,
+          "title": "January 2, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
