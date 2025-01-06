@@ -314,6 +314,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b3aa2a50-cc00-11ef-aee3-0b7ca58d8071",
+          "author": null,
+          "description": "A Roseburg man was jailed following a reported hit and run incident on Friday night.",
+          "link": "https://www.nrtoday.com/family/roseburg-man-jailed-following-reported-hit-and-run/article_b3aa2a50-cc00-11ef-aee3-0b7ca58d8071.html",
+          "publishedOn": "2025-01-06T07:34:00.000Z",
+          "wordCount": 13556,
+          "title": "Roseburg man jailed following reported hit and run",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9b9e13fa-ca33-11ef-b34f-ebbcc6a5be25",
           "author": null,
           "description": "The third annual Community Well-Being Challenge, hosted by Thrive Umpqua, launches Jan. 18 and runs through Dec. 31, 2025. The challenge encourages residents to participate in activities promoting longevity and wellness, including free classes, events, and exploration opportunities organized by…",
@@ -356,6 +366,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "677b6cad8084700001133d88",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-6-2025/",
+          "publishedOn": "2025-01-06T14:42:55.000Z",
+          "wordCount": 2649,
+          "title": "January 6, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-2.png"
+        },
         {
           "id": "6779fec38084700001133d73",
           "author": "Joseph Ziegler",

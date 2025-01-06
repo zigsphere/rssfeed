@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-06T13:19:44.283Z</updated>
+    <updated>2025-01-06T16:14:25.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 6, 2025]]></title>
+        <id>677b6cad8084700001133d88</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-6-2025/"/>
+        <updated>2025-01-06T14:42:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY BEGINS TUESDAY FOR MUCH OF REGION]]></title>
         <id>https://kqennewsradio.com/?p=127983</id>
@@ -64,6 +74,16 @@
         <summary type="html"><![CDATA[January 6, 2025 2:50 a.m. Roseburg Disposal is wrapping up its Christmas tree recycling program Monday. Trees can be dropped off at several locations around the community. That includes: *Legion Field on Northwest Stewart Parkway *Northwest Kline Street in front of Hucrest Elementary School *Corner of Northwest Calkins Road and Northwest Cherry Street *Former Safeway...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man jailed following reported hit and run]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b3aa2a50-cc00-11ef-aee3-0b7ca58d8071</id>
+        <link href="https://www.nrtoday.com/family/roseburg-man-jailed-following-reported-hit-and-run/article_b3aa2a50-cc00-11ef-aee3-0b7ca58d8071.html"/>
+        <updated>2025-01-06T07:34:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man was jailed following a reported hit and run incident on Friday night.]]></summary>
+        <author>
+            <name>www.nrtoday.com - RSS Results in news/local of type article</name>
         </author>
     </entry>
     <entry>
