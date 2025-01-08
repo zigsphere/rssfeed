@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-08T13:19:09.303Z</updated>
+    <updated>2025-01-08T16:14:19.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 8, 2025]]></title>
+        <id>677e8b9a8084700001133f3c</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-8-2025/"/>
+        <updated>2025-01-08T14:45:39.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY CONTINUES THROUGH NOON FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=128088</id>
@@ -564,17 +574,6 @@
         <summary type="html"><![CDATA[January 5, 2025 2:00 p.m.  A single vehicle crash claimed the life of a Roseburg man on Friday night. Undersheriff Brad O’Dell said around 8:00 p.m. dispatchers received a report of the crash on Lookingglass Road near Happy Valley Road. O’Dell said when deputies arrived, they found a coupe that had been traveling north on...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Train trestle collapses in Corvallis, sending urea-laden railcars into the Mary's River]]></title>
-        <id>6779fec38084700001133d73</id>
-        <link href="https://www.roseburgscanner.com/train-trestle-collapses-in-corvallis-sending-urea-laden-railcars-into-the-marys-river/"/>
-        <updated>2025-01-05T03:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Corvallis Police and Fire crews responded to a train trestle collapse near Avery Park on Saturday afternoon.
-“Preliminary investigations indicate the trestle gave way while a freight train was passing over it. Currently, no injuries have been reported, but the scene remains active and under investigation,” Corvallis Police]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
