@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128069",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/01/08/true-wealth-1-7-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-1-7-25",
+          "publishedOn": "2025-01-08T01:04:31.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH 1.7.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250108000337/TWR-1-7-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=128067",
+          "author": "Kyle Bailey",
+          "description": "January 8, 2025 3:20 p.m.  On Monday, detectives with the Douglas Interagency Narcotics Team arrested a man who has allegedly been selling methamphetamine to individuals at a homeless camp. DINT Commander Lieutenant Rick McArthur said in recent weeks detectives have been receiving information from multiple sources about an individual named Eric “Gimmick” Ray. McArthur said...",
+          "link": "https://kqennewsradio.com/2025/01/07/dint-arrests-man-allegedly-selling-meth-at-homeless-camp/?utm_source=rss&utm_medium=rss&utm_campaign=dint-arrests-man-allegedly-selling-meth-at-homeless-camp",
+          "publishedOn": "2025-01-07T23:24:16.000Z",
+          "wordCount": 1649,
+          "title": "DINT ARRESTS MAN ALLEGEDLY SELLING METH AT HOMELESS CAMP",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128062",
           "author": "Kyle Bailey",
           "description": "Superintendent Jared Cordon of Roseburg Public Schools with a mid-school year update on a number of things going on in the district.",
@@ -404,26 +429,6 @@
           "wordCount": 1613,
           "title": "SINGLE VEHICLE CRASH CLAIMS LIFE OF ROSEBURG MAN",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127949",
-          "author": "Kyle Bailey",
-          "description": "January 4, 2024 6:30 a.m.  On Friday the Oregon Parks and Recreation Department closed Cape Arago and Shore Acres state parks to vehicle traffic after a landslide undercut a portion of Cape Arago Highway just south of the Sunset Park State Park on the central coast. The storm also led to flooding at Sunset Bay...",
-          "link": "https://kqennewsradio.com/2025/01/04/landslide-and-flooding-leads-to-closures-at-coastal-state-parks/?utm_source=rss&utm_medium=rss&utm_campaign=landslide-and-flooding-leads-to-closures-at-coastal-state-parks",
-          "publishedOn": "2025-01-04T14:33:04.000Z",
-          "wordCount": 1616,
-          "title": "LANDSLIDE AND FLOODING LEADS TO CLOSURES AT COASTAL STATE PARKS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250104133202/Flood5-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=127945",
-          "author": "Kyle Bailey",
-          "description": "January 4, 2024 6:00 a.m.  A Winter Weather Advisory continues through 10:00 a.m. Saturday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said an additional 3 to 8 inches of snow is expected. Winds will gust as high as 35 miles per hour. The Advisory area includes the south...",
-          "link": "https://kqennewsradio.com/2025/01/04/winter-weather-advisory-through-1000-a-m-saturday-for-mountain-areas/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-through-1000-a-m-saturday-for-mountain-areas",
-          "publishedOn": "2025-01-04T14:08:35.000Z",
-          "wordCount": 1557,
-          "title": "WINTER WEATHER ADVISORY THROUGH 10:00 A.M. SATURDAY FOR MOUNTAIN AREAS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250104130824/SATAM-15.png"
         }
       ]
     },
