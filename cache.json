@@ -664,6 +664,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/124383bc-cea0-11ef-acd9-ff353d35a988",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "On Wednesday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden announced the U.S. Department of Transportation is awarding just over $6 million to Douglas County for the planning and design of critical transportation, safety and accessibility improvements to Old Pacific…",
+          "link": "https://www.nrtoday.com/news/senators-announce-over-6-mil-for-efforts-to-modernize-highway-99/article_124383bc-cea0-11ef-acd9-ff353d35a988.html",
+          "publishedOn": "2025-01-09T15:40:00.000Z",
+          "wordCount": 13836,
+          "title": "Senators announce over $6 Mil for efforts to modernize Highway 99",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/36651714-ce38-11ef-b0c5-f77cebf27e0f",
+          "author": "Newsroom",
+          "description": "Sherm’s Thunderbird Market will donate a semi-truck load of food to Feeding Umpqua on Friday, continuing its annual tradition of fighting hunger in Douglas County.",
+          "link": "https://www.nrtoday.com/news/sherm-s-thunderbird-donates-food-to-feeding-umpqua/article_36651714-ce38-11ef-b0c5-f77cebf27e0f.html",
+          "publishedOn": "2025-01-09T03:17:00.000Z",
+          "wordCount": 13636,
+          "title": "Sherm’s Thunderbird donates food to Feeding Umpqua",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/22/422f659c-8741-11ef-9a22-7bc244b09629/6708309e767d7.image.jpg?resize=300%2C200",
+            "length": "481490",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/22/422f659c-8741-11ef-9a22-7bc244b09629/6708309e767d7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f41279e-ce37-11ef-9208-f3a5bde9e800",
+          "author": null,
+          "description": "The Umpqua Valley Youth Orchestra will perform a winter Concert on Tuesday, Jan. 21, 7:00 pm at Jacoby Auditorium, UCC.",
+          "link": "https://www.nrtoday.com/news/free-umpqua-valley-youth-orchestra-winter-concert-at-ucc/article_2f41279e-ce37-11ef-9208-f3a5bde9e800.html",
+          "publishedOn": "2025-01-09T03:09:00.000Z",
+          "wordCount": 13475,
+          "title": "Free Umpqua Valley Youth Orchestra winter concert at UCC",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f11e3480-ce2b-11ef-b795-876b15bbab05",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "On Wednesday afternoon the Oregon State Fire Marshal mobilized three more structural strike teams, including one from Douglas County, to join the 12 teams already sent from Oregon to assist with the wildfires in the Los Angeles area.",
+          "link": "https://www.nrtoday.com/news/public_safety/strike-team-from-douglas-county-joins-los-angeles-fire-deployments/article_f11e3480-ce2b-11ef-b795-876b15bbab05.html",
+          "publishedOn": "2025-01-09T01:49:00.000Z",
+          "wordCount": 13905,
+          "title": "Strike Team from Douglas County joins Los Angeles fire deployments",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/ee/1eef1320-ce2c-11ef-9d4d-ffbe8a0687f9/677f2c3991617.image.png?resize=300%2C304",
+            "length": "304758",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/ee/1eef1320-ce2c-11ef-9d4d-ffbe8a0687f9/677f2c3991617.image.png?resize=300%2C304"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e4c5be5c-cd4e-11ef-b682-a752900c0545",
           "author": "TAMI JO BRAZ Douglas Small Woodlands",
           "description": "Dedicated, industrious, ambitious and humble. Jacob Huber has devoted his time in life in Oregon to 70 acres of timber and woodlands along the Umpqua River on Tyee Road in Umpqua. Jacob, Mary and the Huber family have worked together,…",
@@ -781,6 +831,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "677fdcfa808470000113402f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-9-2025/",
+          "publishedOn": "2025-01-09T14:42:00.000Z",
+          "wordCount": 3068,
+          "title": "January 9, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-5.png"
+        },
         {
           "id": "677f2b808084700001133fef",
           "author": "Joseph Ziegler",
