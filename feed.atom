@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-12T19:08:24.886Z</updated>
+    <updated>2025-01-12T23:10:50.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon State Fire Marshal Releases Statement about Social Media Rumors]]></title>
+        <id>67842e7d8084700001134197</id>
+        <link href="https://www.roseburgscanner.com/oregon-state-fire-marshal-release-statement-about-social-media-rumors/"/>
+        <updated>2025-01-12T21:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few days, there are many posts on various social media platforms that stated Oregon fire crews heading to Los Angeles were stopped in Sacramento because of the fire engine emissions. This is indeed false information. The Oregon State Fire Marshal released a statement about these claims:
+
+"]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[300 Oregon firefighters, 75 engines arrive in Los Angeles to aid in tackling Palisades Fire]]></title>
         <id>6783426b8084700001134185</id>
@@ -542,26 +554,6 @@
         <link href="https://kqennewsradio.com/2025/01/09/city-officials-take-oath-of-office/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-officials-take-oath-of-office"/>
         <updated>2025-01-09T11:16:44.000Z</updated>
         <summary type="html"><![CDATA[January 9, 2025 3:20 a.m. The Roseburg City Council will feature two new faces when the council reconvenes on Monday night to hear Mayor Larry Rich present the State of the City address at the first council meeting of the year. A city release said on Thursday, City Recorder Amy Nytes administered the Oath of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG PUBLIC LIBRARY TO HOST VIRTUAL AUTHOR EVENT]]></title>
-        <id>https://kqennewsradio.com/?p=128125</id>
-        <link href="https://kqennewsradio.com/2025/01/09/roseburg-public-library-to-host-virtual-author-event/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-public-library-to-host-virtual-author-event"/>
-        <updated>2025-01-09T11:08:52.000Z</updated>
-        <summary type="html"><![CDATA[January 9, 2025 3:05 a.m. Roseburg Public Library will host a virtual author event next week. Bestselling author Eileen Garvin will be featured at 6:30 p.m. on Wednesday, January 16th. Garvin will discuss her second novel, “Crow Talk”, which is set primarily in Hood River, Oregon and in the foothills of Washington State’s Mount Adams....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOCAL UNITED WAY TO RECEIVE EMERGENCY FOOD & SHELTER FUNDING]]></title>
-        <id>https://kqennewsradio.com/?p=128123</id>
-        <link href="https://kqennewsradio.com/2025/01/09/local-united-way-to-receive-emergency-food-shelter-funding/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-united-way-to-receive-emergency-food-shelter-funding"/>
-        <updated>2025-01-09T11:05:14.000Z</updated>
-        <summary type="html"><![CDATA[January 9, 2025 2:50 a.m. Greater Douglas United Way has been chosen to receive $43,859 to supplement emergency food and shelter programs in Douglas County. A GDUW release said the selection was made by a national board that is chaired by the U.S. Department of Homeland Security’s Federal Management Agency and consists of representatives from...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
