@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128304",
+          "author": "Kyle Bailey",
+          "description": "Thundering Waters Executive Director Sarah Holborrow and board president Dr. Garrett Stroup talk about the non-profit organization and their plans to unveil a WOWtruck in February.",
+          "link": "https://kqennewsradio.com/2025/01/13/inside-douglas-county-1-13-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-13-25",
+          "publishedOn": "2025-01-13T21:15:27.000Z",
+          "wordCount": 1525,
+          "title": "INSIDE DOUGLAS COUNTY 1.13.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250113201251/IDC-1-13-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250113201507/IMG_6048.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=128299",
+          "author": "Kyle Bailey",
+          "description": "January 13, 2025  11:50 a.m.  An Air Stagnation Advisory is in effect through Thursday morning at 10:00 a.m. for much of southern Oregon. Forecasters at the National Weather Service said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants. The...",
+          "link": "https://kqennewsradio.com/2025/01/13/air-stagnation-advisory-through-thursday-morning/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-thursday-morning",
+          "publishedOn": "2025-01-13T19:45:26.000Z",
+          "wordCount": 1587,
+          "title": "AIR STAGNATION ADVISORY THROUGH THURSDAY MORNING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250113184515/Stagmon-1.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128297",
           "author": "Kyle Bailey",
           "description": "January 13, 2025 11:00 a.m.  Roseburg Police cited two people for prohibited camping in separate incidents over the weekend. An RPD report said Saturday morning just after 6;00 a.m. officers contacted a 58-year-old outside a business in the 500 block of Northeast Winchester Street. The man reportedly had a camp set up on the front...",
@@ -404,16 +429,6 @@
           "wordCount": 1517,
           "title": "DOUGLAS TIMBER OPERATORS HOLDING COOS COUNTY MEETING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128188",
-          "author": "Kyle Bailey",
-          "description": "January 10, 2025 2:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Fine and Performing Arts Department will present a UCC Music Faculty Concert on January 31st at 7:00 p.m. at the Whipple Fine Arts Center on the UCC main campus. The concert will feature pianists Tammy Finch Johnson and Adrei Andreev performing...",
-          "link": "https://kqennewsradio.com/2025/01/10/umpqua-community-college-music-faculty-concert-january-31st/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-community-college-music-faculty-concert-january-31st",
-          "publishedOn": "2025-01-10T11:08:17.000Z",
-          "wordCount": 1566,
-          "title": "UMPQUA COMMUNITY COLLEGE MUSIC FACULTY CONCERT JANUARY 31ST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
