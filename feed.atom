@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-14T13:16:53.347Z</updated>
+    <updated>2025-01-14T16:13:58.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR ALLEGED HIT AND RUN INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=128330</id>
+        <link href="https://kqennewsradio.com/2025/01/14/roseburg-police-cite-man-for-alleged-hit-and-run-incident-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-man-for-alleged-hit-and-run-incident-2"/>
+        <updated>2025-01-14T15:49:31.000Z</updated>
+        <summary type="html"><![CDATA[January 14, 2025 7:50 a.m. Roseburg Police cited a man for an alleged hit and run incident on Sunday. An RPD report said at approximately 5:45 p.m. officers responded to the area of Northwest Garden Valley Boulevard and Northwest Mulholland Drive after a victim reported that another vehicle had crashed into his and then drove...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 14, 2025]]></title>
+        <id>6786773a808470000113431f</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-14-2025/"/>
+        <updated>2025-01-14T14:53:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH 10:00 A.M. THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=128327</id>
