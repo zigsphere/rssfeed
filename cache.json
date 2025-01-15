@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128358",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/01/15/true-wealth-radio-1-14-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-1-14-25",
+          "publishedOn": "2025-01-15T01:37:29.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH RADIO 1.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250115002350/TWR-1-14-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128355",
           "author": "Kyle Bailey",
           "description": "Umpqua Valley Wine Growers Executive Director Ali Rodgers and Michelle Nicholl from Haines Creek Vineyard and Tasting Room in Elkton, talk about this year’s Greatest of the Grape event.",
@@ -434,16 +449,6 @@
           "wordCount": 1640,
           "title": "DFPA SENDS RESOURCES TO ASSIST IN CALIFORNIA FIREFIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210508/newdfpa.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128244",
-          "author": "Kyle Bailey",
-          "description": "January 11, 2025 6:00 a.m.  A Myrtle Creek woman was jailed following an alleged weapon violation on Thursday. A Douglas County Sheriff’s Office report said at about 1:30 p.m. a victim called dispatch and said she and another victim confronted the suspect at a residence in the 6100 block of Dole Road for possibly stealing...",
-          "link": "https://kqennewsradio.com/2025/01/11/myrtle-creek-woman-jailed-for-alleged-weapon-violation/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-woman-jailed-for-alleged-weapon-violation",
-          "publishedOn": "2025-01-11T13:58:33.000Z",
-          "wordCount": 1588,
-          "title": "MYRTLE CREEK WOMAN JAILED FOR ALLEGED WEAPON VIOLATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
