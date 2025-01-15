@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128406",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Mayor Larry Rich and City Manager Nikki Messenger provide a look at the State of the City, as 2025 begins.",
+          "link": "https://kqennewsradio.com/2025/01/15/inside-douglas-county-1-25-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-25-25",
+          "publishedOn": "2025-01-15T21:16:54.000Z",
+          "wordCount": 1516,
+          "title": "INSIDE DOUGLAS COUNTY 1.25.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250115201138/IDC-1-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250115201641/City.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128404",
           "author": "Kyle Bailey",
           "description": "January 15, 2025 10:50 a.m.   In the KQEN Cultural Spotlight: The Douglas County Youth Orchestra’s winter concert will be held on Tuesday, January 21st at 7:00 p.m. It will take place at Phoenix Charter School on Northeast Diamond Lake Boulevard. For more information about the Douglas County Youth Orchestra, go to: https://www.dcyop.org/",
@@ -599,6 +614,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f38c068-d2d0-11ef-bbae-bfd1bcfbee10",
+          "author": "Newsroom",
+          "description": "Emily Lazur, a teacher from Roseburg, has been named a recipient of the Presidential Awards for Excellence in Mathematics and Science Teaching (PAEMST), the nation’s highest honor for educators in science, technology, engineering, and mathematics (STEM).",
+          "link": "https://www.nrtoday.com/family/roseburg-teacher-wins-prestigious-national-award-for-excellence-in-stem-education/article_0f38c068-d2d0-11ef-bbae-bfd1bcfbee10.html",
+          "publishedOn": "2025-01-14T23:34:00.000Z",
+          "wordCount": 13630,
+          "title": "Roseburg teacher wins prestigious national award for excellence in STEM education",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fed913e4-d2ca-11ef-83f1-bf070c893b1f",
+          "author": null,
+          "description": "ROSEBURG – Youth ages 9-19 are invited to a free workshop to develop public speaking and presentation skills. Hosted by OSU Extension 4-H, the event will take place Monday, Feb. 3, 2025, from 6 to 8 p.m. at the OSU…",
+          "link": "https://www.nrtoday.com/news/4-h-workshop-to-teach-public-speaking-skills-to-youth/article_fed913e4-d2ca-11ef-83f1-bf070c893b1f.html",
+          "publishedOn": "2025-01-14T22:57:00.000Z",
+          "wordCount": 13452,
+          "title": "4-H workshop to teach public speaking skills to youth",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/74526b38-d2c7-11ef-9f23-b3b4baffa427",
+          "author": null,
+          "description": "ROSEBURG — Douglas County government offices, including the courthouse, court house and Justice Building, landfill, transfer stations, and fairgrounds, will be closed Monday, Jan. 20, in observance of Martin Luther King Jr. Day.",
+          "link": "https://www.nrtoday.com/news/douglas-county-offices-closed-for-martin-luther-king-jr-day/article_74526b38-d2c7-11ef-9f23-b3b4baffa427.html",
+          "publishedOn": "2025-01-14T22:32:00.000Z",
+          "wordCount": 13492,
+          "title": "Douglas County offices closed for Martin Luther King jr. day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/76e6346a-d2a9-11ef-b3c3-67cad749d2f1",
+          "author": "KRIS WILEY For The News-Review",
+          "description": "It’s winter cleaning time at Roseburg Public Library, and the library team is spending a lot of energy in the stacks tidying up.",
+          "link": "https://www.nrtoday.com/family/housekeeping-at-roseburg-public-library/article_76e6346a-d2a9-11ef-b3c3-67cad749d2f1.html",
+          "publishedOn": "2025-01-14T18:57:00.000Z",
+          "wordCount": 13973,
+          "title": "Housekeeping at Roseburg Public Library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f3a969de-d1fc-11ef-a7d1-f325173090aa",
           "author": null,
           "description": "Winston, OR — Thrive Umpqua announced the Education Wellness Summit, a transformative event dedicated to empowering educators, early learning professionals and youth-serving organizations to foster a culture of health and well-being in Douglas County.",
@@ -607,21 +667,6 @@
           "wordCount": 13550,
           "title": "Educators Invited to the 2025 Education Wellness Summit",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4cc670fe-d07a-11ef-858e-d33c9ce016d0",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Modern Traditions Wedding Expo leaped into its second year Saturday, bringing fiancees to the Douglas County Fairgrounds to see what lies in store for them in 2025.",
-          "link": "https://www.nrtoday.com/news/local/modern-traditions-reminds-2025-brides-to-plan/article_4cc670fe-d07a-11ef-858e-d33c9ce016d0.html",
-          "publishedOn": "2025-01-12T00:15:00.000Z",
-          "wordCount": 14653,
-          "title": "Modern Traditions reminds 2025 brides to plan",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ed/deddf8de-d07c-11ef-90f3-6fb537576ede/67830de486709.image.jpg?resize=300%2C200",
-            "length": "311538",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ed/deddf8de-d07c-11ef-90f3-6fb537576ede/67830de486709.image.jpg?resize=300%2C200"
         }
       ]
     },
