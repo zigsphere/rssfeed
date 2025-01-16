@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-16T13:17:38.213Z</updated>
+    <updated>2025-01-16T16:13:51.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arctic Blast Set to Bring Record-Breaking Cold Across United States]]></title>
+        <id>67891dbf8084700001134552</id>
+        <link href="https://www.roseburgscanner.com/arctic-blast-set-to-bring-record-breaking-cold-across-united-states/"/>
+        <updated>2025-01-16T14:59:10.000Z</updated>
+        <summary type="html"><![CDATA[An intense Arctic air mass is poised to deliver some of the coldest temperatures the United States has experienced in the past year. This upcoming cold snap, expected to begin this weekend, is anticipated to be more severe and widespread than the January 2023 freeze that impacted NFL games and]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 16, 2024]]></title>
+        <id>6789184b8084700001134497</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-16-2024/"/>
+        <updated>2025-01-16T14:48:39.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY EXTENDED THORUGH 12:00 P.M. FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=128433</id>
@@ -74,6 +94,16 @@
         <summary type="html"><![CDATA[January 16, 2025 2:50 a.m. On Wednesday, 4th District U.S. Representative Val Hoyle applauded the passage of legislation she said will make it easier to rebuild the power grid after major disasters and will make the grid more efficient as well. The Promoting Opportunities to Widen Electrical Resilience Act was authored by Hoyle and Republican...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lincoln Middle School changes name to match district]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c50cf434-d3d6-11ef-9433-bf4ccab9b4bc</id>
+        <link href="https://www.nrtoday.com/news/education/lincoln-middle-school-changes-name-to-match-district/article_c50cf434-d3d6-11ef-9433-bf4ccab9b4bc.html"/>
+        <updated>2025-01-16T06:54:00.000Z</updated>
+        <summary type="html"><![CDATA[OAKLAND — Oakland school board members officially voted to change the name of Lincoln Middle School to Oakland Middle School.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -745,17 +775,6 @@ During the]]></summary>
         <summary type="html"><![CDATA[January 13, 2025 2:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Valley Youth Orchestra will be performing a winter concert on Tuesday, January 21st at 7:00 p.m. in Jacoby Auditorium at Umpqua Community College. The concert is free and will have a family friendly atmosphere. The evening will include musical selections from Holst’s The...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sherm's continues 19-year tradition of donating food to the community]]></title>
-        <id>6784835680847000011341c7</id>
-        <link href="https://www.roseburgscanner.com/sherms-continues-19-year-tradition-of-donating-food-to-the-community/"/>
-        <updated>2025-01-13T03:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Continuing a nearly two-decade tradition, Sherm's Thunderbird Market has delivered another massive food donation to Feeding Umpqua. The semi-truck, carrying approximately 30,000 pounds of food, arrived with owner Steve Olsrud present for the delivery.
-Olsrud, who has operated in Roseburg since 2000, sees these donations as a]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

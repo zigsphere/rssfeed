@@ -704,6 +704,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c50cf434-d3d6-11ef-9433-bf4ccab9b4bc",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "OAKLAND — Oakland school board members officially voted to change the name of Lincoln Middle School to Oakland Middle School.",
+          "link": "https://www.nrtoday.com/news/education/lincoln-middle-school-changes-name-to-match-district/article_c50cf434-d3d6-11ef-9433-bf4ccab9b4bc.html",
+          "publishedOn": "2025-01-16T06:54:00.000Z",
+          "wordCount": 14390,
+          "title": "Lincoln Middle School changes name to match district",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0f38c068-d2d0-11ef-bbae-bfd1bcfbee10",
           "author": "Newsroom",
           "description": "Emily Lazur, a teacher from Roseburg, has been named a recipient of the Presidential Awards for Excellence in Mathematics and Science Teaching (PAEMST), the nation’s highest honor for educators in science, technology, engineering, and mathematics (STEM).",
@@ -772,6 +782,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67891dbf8084700001134552",
+          "author": "Joseph Ziegler",
+          "description": "An intense Arctic air mass is poised to deliver some of the coldest temperatures the United States has experienced in the past year. This upcoming cold snap, expected to begin this weekend, is anticipated to be more severe and widespread than the January 2023 freeze that impacted NFL games and",
+          "link": "https://www.roseburgscanner.com/arctic-blast-set-to-bring-record-breaking-cold-across-united-states/",
+          "publishedOn": "2025-01-16T14:59:10.000Z",
+          "wordCount": 1328,
+          "title": "Arctic Blast Set to Bring Record-Breaking Cold Across United States",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/5f0b0686-c69b-44b3-8584-4acbd0d99bef.jpeg"
+        },
+        {
+          "id": "6789184b8084700001134497",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-16-2024/",
+          "publishedOn": "2025-01-16T14:48:39.000Z",
+          "wordCount": 2765,
+          "title": "January 16, 2024",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-10.png"
+        },
+        {
           "id": "6787c77c80847000011343e7",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -820,16 +850,6 @@
           "wordCount": 3000,
           "title": "January 13, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-7.png"
-        },
-        {
-          "id": "6784835680847000011341c7",
-          "author": "Joseph Ziegler",
-          "description": "Continuing a nearly two-decade tradition, Sherm's Thunderbird Market has delivered another massive food donation to Feeding Umpqua. The semi-truck, carrying approximately 30,000 pounds of food, arrived with owner Steve Olsrud present for the delivery.\nOlsrud, who has operated in Roseburg since 2000, sees these donations as a",
-          "link": "https://www.roseburgscanner.com/sherms-continues-19-year-tradition-of-donating-food-to-the-community/",
-          "publishedOn": "2025-01-13T03:09:15.000Z",
-          "wordCount": 1110,
-          "title": "Sherm's continues 19-year tradition of donating food to the community",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/sherms-thunderbird.jpg"
         }
       ]
     }
