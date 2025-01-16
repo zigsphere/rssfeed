@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128413",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt Mike Winters has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2025/01/16/mike-winters-lawn-and-garden-show-1-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-1-15-25",
+          "publishedOn": "2025-01-16T01:06:05.000Z",
+          "wordCount": 1516,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 1.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250116000449/MWLGS-1-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=128406",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Mayor Larry Rich and City Manager Nikki Messenger provide a look at the State of the City, as 2025 begins.",
+          "link": "https://kqennewsradio.com/2025/01/15/inside-douglas-county-1-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-15-25",
+          "publishedOn": "2025-01-15T21:16:54.000Z",
+          "wordCount": 1516,
+          "title": "INSIDE DOUGLAS COUNTY 1.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250115201138/IDC-1-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250115201641/City.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128406",
           "author": "Kyle Bailey",
           "description": "Roseburg Mayor Larry Rich and City Manager Nikki Messenger provide a look at the State of the City, as 2025 begins.",
