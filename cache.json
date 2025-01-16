@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128459",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Tim Freeman talks about his work as President of  the Association of O&C Counties.",
+          "link": "https://kqennewsradio.com/2025/01/16/inside-douglas-county-1-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-16-25",
+          "publishedOn": "2025-01-16T21:10:44.000Z",
+          "wordCount": 1517,
+          "title": "INSIDE DOUGLAS COUNTY 1.16.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250116200919/IDC-1-16-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230818093216/2023_FreemanTim_DouglasCountyCommissioner-CC.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128457",
           "author": "Kyle Bailey",
           "description": "January 16, 2025 10:55 a.m.  Roseburg Police cited two people for prohibited camping on Wednesday afternoon. An RPD report said at 3:00 p.m. the 35-year-old and 32-year-old were contacted in their separate camps below the disc golf course in the 1400 block of Northwest Stewart Park Drive. Both were camped in an area which is...",
@@ -774,16 +789,6 @@
           "wordCount": 1686,
           "title": "UMPQUA VALLEY YOUTH ORCHESTRA REVEALS CHARITY PARTNER",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250113101231/greatest.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128261",
-          "author": "Kyle Bailey",
-          "description": "January 13, 2025 2:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Valley Youth Orchestra will be performing a winter concert on Tuesday, January 21st at 7:00 p.m. in Jacoby Auditorium at Umpqua Community College. The concert is free and will have a family friendly atmosphere. The evening will include musical selections from Holst’s The...",
-          "link": "https://kqennewsradio.com/2025/01/13/umpqua-valley-youth-orchestra-winter-concert/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-valley-youth-orchestra-winter-concert",
-          "publishedOn": "2025-01-13T11:05:04.000Z",
-          "wordCount": 1545,
-          "title": "UMPQUA VALLEY YOUTH ORCHESTRA WINTER CONCERT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230906092323/UVYO-logo.png"
         }
       ]
     },
@@ -869,13 +874,84 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8634",
+          "author": "Jim Teece",
+          "description": "Short-Term Rentals (STRs) are a vital part of the Oregon Coast tourism landscape. Like the Transient Lodging Tax, they are subject to a lot of misinformation. As the Regional Destination Management Organization for the Oregon Coast, we’re invested in making sure that our communities are healthy and sustainable long term– both for visitors and for…\nThe post Debunking Myths about Short-Term Rentals on the Oregon Coast appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/debunking-myths-about-short-term-rentals-on-the-oregon-coast/",
+          "publishedOn": "2025-01-16T22:22:02.000Z",
+          "wordCount": 3054,
+          "title": "Debunking Myths about Short-Term Rentals on the Oregon Coast",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/01/Mythbusting-STRs.png"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8630",
+          "author": "Jim Teece",
+          "description": "As the conversation around Oregon’s Transient Lodging Tax (TLT) grows, so do the myths surrounding it. As the Regional Destination Management Organization for the Oregon Coast, we’re invested in making sure that our communities are healthy and sustainable long term– both for visitors and for locals. TLT plays an important role in the economic landscape…\nThe post Debunking Myths about Oregon’s Transient Lodging Tax appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/debunking-myths-about-oregons-transient-lodging-tax/",
+          "publishedOn": "2025-01-16T22:20:31.000Z",
+          "wordCount": 2926,
+          "title": "Debunking Myths about Oregon’s Transient Lodging Tax",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/01/Mythbusting-TLT.png"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8616",
+          "author": "Jim Teece",
+          "description": "OHA’s Healthy Homes Grant Program seeks improved housing conditions, health outcomes for low-income residents to prevent displacement PORTLAND, Ore.— Oregon Health Authority (OHA) has awarded $23 million to repair and rehabilitate homes of low-income residents to eliminate risks to residents’ health to the Nine Federally Recognized Tribes of Oregon and 34 local organizations. The funds…\nThe post Tribes, 34 organizations, receive $23 million to support home repairs appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/tribes-34-organizations-receive-23-million-to-support-home-repairs/",
+          "publishedOn": "2025-01-16T22:03:02.000Z",
+          "wordCount": 2910,
+          "title": "Tribes, 34 organizations, receive $23 million to support home repairs",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8600",
+          "author": "Jim Teece",
+          "description": "(Ashland, Ore.) — Southern Oregon University’s Cascade Complex, an obsolete cluster of nine residence halls and a cafeteria that have been largely unused since 2013, is being demolished over the next three months to make room for the anticipated development of a senior living center on the five-acre site at the southwest corner of campus.…\nThe post Demolition underway at SOU’s Cascade Complex appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/demolition-underway-at-sous-cascade-complex/",
+          "publishedOn": "2025-01-16T21:24:11.000Z",
+          "wordCount": 2911,
+          "title": "Demolition underway at SOU’s Cascade Complex",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/01/Cascade-Baker-storm-drain.jpg"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8604",
+          "author": "Jim Teece",
+          "description": "(Ashland, Ore.) — Southern Oregon University is making headway in its march toward becoming the first public university in the U.S. to produce all of the daytime electricity used on its campus, with more than $5 million in recent state, federal and student funding and multiple projects underway. SOU completed a rooftop solar  installation on Lithia…\nThe post Construction underway on SOU’s latest solar projects appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/construction-underway-on-sous-latest-solar-projects/",
+          "publishedOn": "2025-01-15T21:28:25.000Z",
+          "wordCount": 2963,
+          "title": "Construction underway on SOU’s latest solar projects",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/01/becs-among-solar-panels.jpg"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8618",
+          "author": "Jim Teece",
+          "description": "Further support needed to train, recruit and retain diverse health professionals statewide SALEM, Ore. — While Oregon continues to make progress in bolstering and diversifying its health care workforce, challenges remain and more work is needed, concludes an Oregon Health Authority (OHA) report. The report also offers a wide range of recommendations to better support the…\nThe post Oregon health care workforce growing, but challenges remain appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/oregon-health-care-workforce-growing-but-challenges-remain/",
+          "publishedOn": "2025-01-14T22:04:02.000Z",
+          "wordCount": 3643,
+          "title": "Oregon health care workforce growing, but challenges remain",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67898142808470000113456f",
+          "author": "Joseph Ziegler",
+          "description": "Signs on a local building next to Marshalls on Garden Valley suggest that both Oshkosh and Carter's may be planning to open a joint retail location in Roseburg, though this has not been officially confirmed.\nOshkosh is a popular brand known for high-quality, durable children's clothing.",
+          "link": "https://www.roseburgscanner.com/new-childrens-clothing-store-coming-to-roseburg/",
+          "publishedOn": "2025-01-16T22:08:56.000Z",
+          "wordCount": 1157,
+          "title": "New Children's Clothing Store Coming to Roseburg",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/carters.jpg"
+        },
         {
           "id": "67891dbf8084700001134552",
           "author": "Joseph Ziegler",
