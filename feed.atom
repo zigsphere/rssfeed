@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-17T19:10:13.961Z</updated>
+    <updated>2025-01-17T23:10:43.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Southern California Fires: Horse people helping horse people]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b8ed378c-d524-11ef-bfa6-ab82c8c080e8</id>
+        <link href="https://www.nrtoday.com/news/southern-california-fires-horse-people-helping-horse-people/article_b8ed378c-d524-11ef-bfa6-ab82c8c080e8.html"/>
+        <updated>2025-01-17T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of horse owners, ranchers and lovers of animals are gathering supplies and raising money for the fires in Los Angeles, to assist an often-overlooked group of survivors: horses.]]></summary>
+        <author>
+            <name>RICHARD BIGNON The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston man dies in logging accident]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bb690b9a-d51e-11ef-9175-0bd6f61d2fe2</id>
+        <link href="https://www.nrtoday.com/news/winston-man-dies-in-logging-accident/article_bb690b9a-d51e-11ef-9175-0bd6f61d2fe2.html"/>
+        <updated>2025-01-17T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A Winston man died in a logging accident on Thursday.]]></summary>
+        <author>
+            <name>Newsroom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tragic Logging Accident Claims Life Near Azalea]]></title>
+        <id>678aceeb8084700001134644</id>
+        <link href="https://www.roseburgscanner.com/logging-accident-claims-life-near-azalea/"/>
+        <updated>2025-01-17T21:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Justin Godel, a 49-year-old Winston resident, lost his life Thursday afternoon in a logging accident. The incident occurred while Godel was working for Dancer Logging at a site on Upper Cow Creek Road near Azalea, Oregon.
+Emergency services were alerted to the serious injury at approximately 3:20 p.m.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINSTON MAN DIES IN LOGGING ACCIDENT THURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=128515</id>
+        <link href="https://kqennewsradio.com/2025/01/17/winston-man-dies-in-logging-accident-thurday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-man-dies-in-logging-accident-thurday"/>
+        <updated>2025-01-17T21:35:16.000Z</updated>
+        <summary type="html"><![CDATA[January 17th, 2025 1:20 p.m. A Winston man died in a logging accident on Thursday. A Douglas County Sheriff’s Office report said at about 3:20 p.m. dispatchers were notified of a serious injury accident at a logging site in the 15000 block of Upper Cow Creek Road near Azalea. The patient was working for Dancer...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.17.25]]></title>
+        <id>https://kqennewsradio.com/?p=128511</id>
+        <link href="https://kqennewsradio.com/2025/01/17/inside-douglas-county-1-17-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-17-25"/>
+        <updated>2025-01-17T21:26:51.000Z</updated>
+        <summary type="html"><![CDATA[A two segment program with Wildlife Safari Ungulate Keeper Liv Nicks-Turner and Ashley Cluver from Umpqua Valley Arts.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FOREST SERVICE TO HOST MEETING ON PROPOSED FOREST PLAN AMENDMENT]]></title>
         <id>https://kqennewsradio.com/?p=128508</id>
