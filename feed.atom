@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-18T19:08:07.063Z</updated>
+    <updated>2025-01-18T23:10:38.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Warming Center Opens Saturday as Cold Weather Approaches]]></title>
+        <id>678c20eb8084700001134686</id>
+        <link href="https://www.roseburgscanner.com/roseburg-warming-center-opens-saturday-as-cold-weather-approaches/"/>
+        <updated>2025-01-18T21:46:44.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Warming Center will open its doors Saturday evening, January 18, 2025, as Douglas County braces for temperatures expected to drop into the lower 30s this weekend.
+Located at the HADCO James D Myers Activity Center at 990 W. Stanton St., the facility provides a crucial overnight shelter for]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azalea Resident Arrested for Hidden Cameras and Illegal Firearm Suppressor]]></title>
         <id>678bf9ef8084700001134660</id>
@@ -770,26 +781,6 @@ The post Construction underway on SOU’s latest solar projects appeared first o
         <link href="https://kqennewsradio.com/2025/01/15/thrive-umpqua-presenting-2025-education-wellness-summit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thrive-umpqua-presenting-2025-education-wellness-summit"/>
         <updated>2025-01-15T11:11:18.000Z</updated>
         <summary type="html"><![CDATA[January 15, 2025 3:20 a.m. Thrive Umpqua will hold an Education Wellness Summit on Saturday, January 25th. A release said the transformative event is dedicated to empowering educators, early learning professionals and youth-serving organizations to foster a culture of health and well-being in Douglas County. The summit will be held from 10:00 a.m. to 3:00...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLK SERVICE DAY RIVER CLEANUP IS MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=128364</id>
-        <link href="https://kqennewsradio.com/2025/01/15/mlk-service-day-river-cleanup-is-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mlk-service-day-river-cleanup-is-monday"/>
-        <updated>2025-01-15T11:06:37.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2025 3:05 a.m.   Umpqua Watersheds, the City of Roseburg Park and Recreation Department and Thrive Umpqua will hold their annual River Restoration/Cleanup and Invasive Species Removal event on Monday as part of the MLK Service Day. A Watersheds release said the event is held to bring the community together to clean up and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZONTA’S DOUBLE DONATION DRIVE IS UNDERWAY]]></title>
-        <id>https://kqennewsradio.com/?p=128362</id>
-        <link href="https://kqennewsradio.com/2025/01/15/zontas-double-donation-drive-is-underway/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zontas-double-donation-drive-is-underway"/>
-        <updated>2025-01-15T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2025 2:50 a.m.  The Zonta Club of Roseburg has its Double Donation Drive underway. Residents are asked to clean out their closet and donate their clean, lightly used clothes. This year clothing can be dropped off at Cardinal Services on Northwest Stewart Parkway, and at the Roseburg Public Library on Northeast Diamond Lake...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
