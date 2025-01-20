@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128586",
+          "author": "Kyle Bailey",
+          "description": "A look at the City of Oakland with Mayor Bette Keehley.",
+          "link": "https://kqennewsradio.com/2025/01/20/inside-douglas-county-1-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-20-25",
+          "publishedOn": "2025-01-20T21:26:19.000Z",
+          "wordCount": 1509,
+          "title": "INSIDE DOUGLAS COUNTY 1.20.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250120202157/IDC-01-20-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250120202608/Bette.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128580",
           "author": "Kyle Bailey",
           "description": "January, 2025 10:50 a.m.    The First Powerball jackpot of 2025, worth $328.5 million, was sold in Beaverton. An Oregon Lottery release said the ticket for Saturday’s drawing was purchased on Friday in the 97006-zip code. The winner has a year to come forward and claim their prize. Once a claimant comes forward, it will...",
@@ -359,36 +374,6 @@
           "wordCount": 1805,
           "title": "DISCOVERING ROSEBURG GEOCACHING EVENT FEBRUARY 1ST",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250117101559/GEO1-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128466",
-          "author": "Kyle Bailey",
-          "description": "January 17, 2025 3:20 a.m. Adapt Integrated Health Care will hold its next Empowering Your Health – Community Health seminar next week. An Adapt release said these seminars are designed to provide the community with valuable insights, practical guidance and resources from clinical experts on topics that matter most. The goal is to address prevalent...",
-          "link": "https://kqennewsradio.com/2025/01/17/adapt-with-empowering-your-health-community-health-seminar/?utm_source=rss&utm_medium=rss&utm_campaign=adapt-with-empowering-your-health-community-health-seminar",
-          "publishedOn": "2025-01-17T11:08:32.000Z",
-          "wordCount": 1567,
-          "title": "ADAPT WITH EMPOWERING YOUR HEALTH COMMUNITY HEALTH SEMINAR",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240725091224/Adapt-Integrated-Health-Care-Horizontal-No-R-Adapt-Blue-100.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128464",
-          "author": "Kyle Bailey",
-          "description": "January 17, 2025 3:05 a.m. The Junior Master Gardeners are a brand new 4-H club this year and are looking to recruit members who are interested in agriculture, horticulture and gardening. OSU Extension Service Agent Logan Bennett said the club is open for students ages 9 to 19. Bennett will be hosting an open house...",
-          "link": "https://kqennewsradio.com/2025/01/17/junior-master-gardeners-a-brand-new-4-h-club/?utm_source=rss&utm_medium=rss&utm_campaign=junior-master-gardeners-a-brand-new-4-h-club",
-          "publishedOn": "2025-01-17T11:05:21.000Z",
-          "wordCount": 1586,
-          "title": "JUNIOR MASTER GARDENERS A BRAND NEW 4-H CLUB",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212414/OSU_ES-Master_Gardener_horizontal_2C_O_over_B-e1644406524852.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128462",
-          "author": "Kyle Bailey",
-          "description": "January 17, 2025 2:50 a.m. On Thursday, U.S. Senator Ron Wyden announced that he has secured a commitment from Treasury Secretary Scott Bessent to continue IRS Direct File this tax filing season in Oregon and 24 other states participating in the agency’s free alternative to paid tax preparation software. Wyden said, “This is the program...",
-          "link": "https://kqennewsradio.com/2025/01/17/wyden-secures-committment-for-irs-direct-file-to-continue/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-secures-committment-for-irs-direct-file-to-continue",
-          "publishedOn": "2025-01-17T11:02:26.000Z",
-          "wordCount": 1661,
-          "title": "WYDEN SECURES COMMITTMENT FOR IRS DIRECT FILE TO CONTINUE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
