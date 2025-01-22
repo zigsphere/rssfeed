@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128630",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/01/22/true-wealth-1-21-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-1-21-25",
+          "publishedOn": "2025-01-22T01:40:10.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH 1.21.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250122003843/TWR-1-21-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128627",
           "author": "Kyle Bailey",
           "description": "Live from Washington D.C. Second-District Congressman Cliff Bentz talks about whats happening this week, his hopes for this session of Congress, and legislation he is working on.",
@@ -354,16 +369,6 @@
           "wordCount": 1624,
           "title": "DOUGLAS COUNTY FIREFIGHTERS PERFORM LIFE-SAVING WORK IN CALIFORNIA",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250118150450/Task1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128520",
-          "author": "Kyle Bailey",
-          "description": "January 18, 2024 5:50 a.m.  An Air Stagnation Advisory is in effect through 10:00 a.m. Tuesday for much of southern Oregon. Forecasters at the National Weather Service said poor air quality is possible due to an inversion and stagnant conditions near the surface that will continues to trap pollutants. The Advisory area includes central Douglas...",
-          "link": "https://kqennewsradio.com/2025/01/18/air-stagnation-advisory-through-1000-a-m-tuesday-2/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-1000-a-m-tuesday-2",
-          "publishedOn": "2025-01-18T13:58:10.000Z",
-          "wordCount": 1567,
-          "title": "AIR STAGNATION ADVISORY THROUGH 10:00 A.M. TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250118125758/Sat-12.png"
         }
       ]
     },
