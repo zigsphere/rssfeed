@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128679",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2025/01/23/mike-winters-lawn-and-garden-show-1-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-1-22-25",
+          "publishedOn": "2025-01-23T01:06:36.000Z",
+          "wordCount": 1522,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 1.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250123000508/MWLGS-1-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128673",
           "author": "Kyle Bailey",
           "description": "Winston City Manager Thomas McIntosh with a look at the State of the City of Winston:",
@@ -528,16 +543,6 @@
           "publishedOn": "2025-01-19T14:49:10.000Z",
           "wordCount": 1559,
           "title": "FREEZING FOG ADVISORY THROUGH 10:00 A.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250119133806/SunAM-6.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128532",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2025 6:30 a.m.  An Air Stagnation Advisory remains in place through 10:00 a.m. Tuesday for much of southern Oregon. Forecasters at the National Weather Service said poor air quality will continue. This is due to an inversion and stagnant air conditions that will continue to trap pollutants. The Advisory area includes central Douglas...",
-          "link": "https://kqennewsradio.com/2025/01/19/air-stagnation-advisory-through-tuesday-morning-at-1000-a-m/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-tuesday-morning-at-1000-a-m",
-          "publishedOn": "2025-01-19T14:38:26.000Z",
-          "wordCount": 1580,
-          "title": "AIR STAGNATION ADVISORY THROUGH TUESDAY MORNING AT 10:00 A.M.",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250119133806/SunAM-6.png"
         }
       ]

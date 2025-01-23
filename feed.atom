@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-22T23:11:10.847Z</updated>
+    <updated>2025-01-23T02:40:28.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 1.22.25]]></title>
+        <id>https://kqennewsradio.com/?p=128679</id>
+        <link href="https://kqennewsradio.com/2025/01/23/mike-winters-lawn-and-garden-show-1-22-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-1-22-25"/>
+        <updated>2025-01-23T01:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.22.25]]></title>
         <id>https://kqennewsradio.com/?p=128673</id>
@@ -542,16 +552,6 @@
         <link href="https://kqennewsradio.com/2025/01/19/freezing-fog-advisory-through-1000-a-m-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=freezing-fog-advisory-through-1000-a-m-sunday"/>
         <updated>2025-01-19T14:49:10.000Z</updated>
         <summary type="html"><![CDATA[January 19, 2024 6:50 a.m. A Freezing Fog Advisory is in effect through 10:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service said visibility of one quarter mile or less in freezing fog is expected. The Advisory area includes central Douglas County, Josephine and Jackson counties and eastern Curry County....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH TUESDAY MORNING AT 10:00 A.M.]]></title>
-        <id>https://kqennewsradio.com/?p=128532</id>
-        <link href="https://kqennewsradio.com/2025/01/19/air-stagnation-advisory-through-tuesday-morning-at-1000-a-m/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-through-tuesday-morning-at-1000-a-m"/>
-        <updated>2025-01-19T14:38:26.000Z</updated>
-        <summary type="html"><![CDATA[January 19, 2025 6:30 a.m.  An Air Stagnation Advisory remains in place through 10:00 a.m. Tuesday for much of southern Oregon. Forecasters at the National Weather Service said poor air quality will continue. This is due to an inversion and stagnant air conditions that will continue to trap pollutants. The Advisory area includes central Douglas...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
