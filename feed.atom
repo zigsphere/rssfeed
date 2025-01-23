@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-23T13:18:28.705Z</updated>
+    <updated>2025-01-23T16:14:24.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Umpqua Valley Arts Association: Call to artists]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/acbd8300-d825-11ef-b7b0-9b9c6d1cb847</id>
+        <link href="https://www.nrtoday.com/briefs/the-umpqua-valley-arts-association-call-to-artists/article_acbd8300-d825-11ef-b7b0-9b9c6d1cb847.html"/>
+        <updated>2025-01-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Umpqua Valley Arts Association is starting the year with opportunities for artists locally and beyond.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Winston Man Found Deceased Near South Umpqua River]]></title>
+        <id>67925590808470000113493b</id>
+        <link href="https://www.roseburgscanner.com/missing-winston-man-found-deceased-near-south-umpqua-river/"/>
+        <updated>2025-01-23T14:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Gary Sweetin, a 61-year-old resident of Wildlife Safari RV Park, was found deceased on Saturday after being missing since November, according to Cow Creek Tribal Police Department Chief Marty Case.
+Sweetin was last contacted by a family member on November 10th, when he reportedly sounded intoxicated. Concerned after he did]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 23, 2025]]></title>
+        <id>6792517f808470000113487f</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-23-2025/"/>
+        <updated>2025-01-23T14:38:47.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY CONTINUES THROUGH 12:00 P.M. FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=128700</id>

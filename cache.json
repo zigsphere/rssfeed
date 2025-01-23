@@ -619,6 +619,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/acbd8300-d825-11ef-b7b0-9b9c6d1cb847",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "The Umpqua Valley Arts Association is starting the year with opportunities for artists locally and beyond.",
+          "link": "https://www.nrtoday.com/briefs/the-umpqua-valley-arts-association-call-to-artists/article_acbd8300-d825-11ef-b7b0-9b9c6d1cb847.html",
+          "publishedOn": "2025-01-23T16:00:00.000Z",
+          "wordCount": 13613,
+          "title": "The Umpqua Valley Arts Association: Call to artists",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d2f6d68c-d741-11ef-bebb-6b9b9bcb0700",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "The Purina Market Lamb Selection and Nurtition Clinic will be held at 6 p.m. Jan. 29 at the auditorium at the OSU Extension Office, 1134 SE Douglas Ave in Roseburg.",
@@ -641,6 +651,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67925590808470000113493b",
+          "author": "Joseph Ziegler",
+          "description": "Gary Sweetin, a 61-year-old resident of Wildlife Safari RV Park, was found deceased on Saturday after being missing since November, according to Cow Creek Tribal Police Department Chief Marty Case.\nSweetin was last contacted by a family member on November 10th, when he reportedly sounded intoxicated. Concerned after he did",
+          "link": "https://www.roseburgscanner.com/missing-winston-man-found-deceased-near-south-umpqua-river/",
+          "publishedOn": "2025-01-23T14:47:46.000Z",
+          "wordCount": 1190,
+          "title": "Missing Winston Man Found Deceased Near South Umpqua River",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/CC-Logo-2-1.jpg"
+        },
+        {
+          "id": "6792517f808470000113487f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-23-2025/",
+          "publishedOn": "2025-01-23T14:38:47.000Z",
+          "wordCount": 3021,
+          "title": "January 23, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/The-Morning-Scoop-13.png"
+        },
         {
           "id": "678f0ae180847000011346ff",
           "author": "Joseph Ziegler",
