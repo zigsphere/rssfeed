@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128726",
+          "author": "Kyle Bailey",
+          "description": "A look at the City of Sutherlin with Mayor Michelle Sumner, City Manager Jerry Gillham, and Community Development Director Kristi Gilbert.",
+          "link": "https://kqennewsradio.com/2025/01/23/inside-douglas-county-1-23-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-23-25",
+          "publishedOn": "2025-01-23T21:11:22.000Z",
+          "wordCount": 1517,
+          "title": "INSIDE DOUGLAS COUNTY 1.23.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250123200751/IDC-01-23-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250123201105/Suthteam.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128724",
           "author": "Kyle Bailey",
           "description": "January 23, 2025 10:50 a.m.  Roseburg Police issued a woman her third citation for prohibited camping early Thursday. An RPD report said at 12:10 a.m. the 42-year-old was found sleeping under the Gaddis Park pavilion in the 800 block of Northwest Highland Street. She was in violation of the place portion of the camping ordinance....",
@@ -689,16 +704,6 @@
           "wordCount": 1702,
           "title": "JOEY KOENIG PROMOTED TO PRESIDENT OF 7ROBOTICS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250120101810/Joey.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128540",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2025 2:50 a.m. The Oregon State University Extension Service and Umpqua Valley Beekeepers are having an event for community members interested in becoming beekeepers. Extension and Umpqua Valley Beekeepers Association will hold the Buzz Academy workshop on Saturday February 22nd. It will take place from 10:00 a.m. to 1:00 p.m. at the extension...",
-          "link": "https://kqennewsradio.com/2025/01/20/workshop-for-people-interested-in-beekeeping/?utm_source=rss&utm_medium=rss&utm_campaign=workshop-for-people-interested-in-beekeeping",
-          "publishedOn": "2025-01-20T11:09:47.000Z",
-          "wordCount": 1629,
-          "title": "WORKSHOP FOR PEOPLE INTERESTED IN BEEKEEPING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },
@@ -713,6 +718,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/130f9ba0-d526-11ef-8996-374128cf0c41",
+          "author": "PATRICIA GAUSNELL For The News-Review",
+          "description": "No matter how convenient it is these days to research family history online, you may still dream of visiting your family’s homeland. You’d like to see where your ancestors lived, stand in the church where Great-grandpa was baptized, enjoy traditional…",
+          "link": "https://www.nrtoday.com/family/family-heritage-trips/article_130f9ba0-d526-11ef-8996-374128cf0c41.html",
+          "publishedOn": "2025-01-23T22:54:00.000Z",
+          "wordCount": 14106,
+          "title": "Family Heritage Trips",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71ce1abe-b824-11ef-a14c-5f0c5360209e/675a359de6b66.image.jpg?resize=300%2C344",
+            "length": "42069",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71ce1abe-b824-11ef-a14c-5f0c5360209e/675a359de6b66.image.jpg?resize=300%2C344"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a7ff6d66-d7c5-11ef-bfe5-a31f59a6592a",
           "author": "GLORIA COLEMAN The News-Review",
