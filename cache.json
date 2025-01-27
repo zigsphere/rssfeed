@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128850",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith with an update on what is happening with the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2025/01/27/inside-douglas-county-1-27-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-27-25",
+          "publishedOn": "2025-01-27T21:06:27.000Z",
+          "wordCount": 1518,
+          "title": "INSIDE DOUGLAS COUNTY 1.27.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250127200437/IDC-01-27-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128846",
           "author": "Kyle Bailey",
           "description": "January 27, 2025 11:00 a.m.   Roseburg Police cited two people for prohibited burning on Sunday afternoon. An RPD report said at 4:00 p.m. a 41-year-old man and a 30-year-old man were contacted after the owner of a nearby business complained of a fire and an abundance of smoke under the bridge in the 200 block...",
@@ -404,16 +419,6 @@
           "wordCount": 1639,
           "title": "CCD BUSINESS DEVELOPMENT AWARDED $8,500 GRANT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128734",
-          "author": "Kyle Bailey",
-          "description": "January 24, 2025 2:50 a.m. In the KQEN Cultural Spotlight: The Douglas County Youth Orchestra’s concert on Tuesday was postponed due to the closure of Phoenix School, which was related to the power outage. The concert has been rescheduled for next Tuesday, January 28th at Phoenix School beginning at 7:00 p.m. Admission is free with...",
-          "link": "https://kqennewsradio.com/2025/01/24/dcyo-concert-rescheduled-for-next-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=dcyo-concert-rescheduled-for-next-tuesday",
-          "publishedOn": "2025-01-24T11:10:30.000Z",
-          "wordCount": 1511,
-          "title": "DCYO CONCERT RESCHEDULED FOR NEXT TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215725/dcyo-vector-logo-e1622055007902.png"
         }
       ]
     },
@@ -428,6 +433,66 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/06772c64-da8a-11ef-83cc-174d94cb1fb8",
+          "author": "DREW WINKELMAIER The News-Review",
+          "description": "Since President Trump took office Jan 20, he has signed at least 32 executive orders.",
+          "link": "https://www.nrtoday.com/news/roseburg-va-medical-center-unlikely-to-be-affected-by-trump-s-hiring-freeze/article_06772c64-da8a-11ef-83cc-174d94cb1fb8.html",
+          "publishedOn": "2025-01-27T16:00:00.000Z",
+          "wordCount": 14071,
+          "title": "Roseburg VA Medical Center unlikely to be affected by Trump’s hiring freeze",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d4/7d4ba3c4-da8a-11ef-9d7f-5bf3ca1c2fbe/60b913b76367c.image.jpg?resize=300%2C200",
+            "length": "391073",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d4/7d4ba3c4-da8a-11ef-9d7f-5bf3ca1c2fbe/60b913b76367c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/00c5eaec-d9f1-11ef-964c-6bed1e369106",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Students in kindergarten and first grade throughout Myrtle Creek received fleece blankets Thursday from the Future Business Leaders of America (FBLA) and leadership students at Coffenberry Middle School.",
+          "link": "https://www.nrtoday.com/news/education/coffenberry-students-give-blankets-to-local-elementary-students/article_00c5eaec-d9f1-11ef-964c-6bed1e369106.html",
+          "publishedOn": "2025-01-26T16:30:00.000Z",
+          "wordCount": 14632,
+          "title": "Coffenberry students give blankets to local elementary students",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/55/e5532c7a-d9f5-11ef-bbc0-b392ee993562/6792f268e94a3.image.jpg?resize=300%2C200",
+            "length": "389837",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/55/e5532c7a-d9f5-11ef-bbc0-b392ee993562/6792f268e94a3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ef51ee96-daa4-11ef-8863-5b202fc41658",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "At the State of Your School on Thursday evening, Days Creek Charter School students, staff and board members encouraged parents and community members to talk with the school.",
+          "link": "https://www.nrtoday.com/news/education/state-of-your-school-address-at-days-creek-charter-school/article_ef51ee96-daa4-11ef-8863-5b202fc41658.html",
+          "publishedOn": "2025-01-26T12:30:00.000Z",
+          "wordCount": 15136,
+          "title": "State of Your School address at Days Creek Charter School",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/3d/23db864e-daab-11ef-9279-afec0bda06c7/6794227cbce64.image.jpg?resize=300%2C200",
+            "length": "286738",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/3d/23db864e-daab-11ef-9279-afec0bda06c7/6794227cbce64.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/440076f8-db5c-11ef-a4a4-3f1a157d24a7",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "The Douglas County Master Gardeners kicked off a new program Saturday, recruiting junior master gardeners with an open house event at the Oregon State University (OSU) extension service in the courthouse complex. The new club will be a 4-H program…",
+          "link": "https://www.nrtoday.com/news/local/planting-a-seed-for-young-gardeners/article_440076f8-db5c-11ef-a4a4-3f1a157d24a7.html",
+          "publishedOn": "2025-01-25T20:37:00.000Z",
+          "wordCount": 14260,
+          "title": "Planting a seed for young gardeners",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/e2/ce2b7d14-db5c-11ef-bf5f-6f3a3c338f0e/67954d1f66ef4.image.jpg?resize=300%2C225",
+            "length": "303266",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/e2/ce2b7d14-db5c-11ef-bf5f-6f3a3c338f0e/67954d1f66ef4.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ea713e3e-da8d-11ef-8c4a-73fb0f6ff1d2",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -472,41 +537,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d4/2d4cb810-d90c-11ef-9dd7-cf7e510f5512/67916a4b73552.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/130f9ba0-d526-11ef-8996-374128cf0c41",
-          "author": "PATRICIA GAUSNELL For The News-Review",
-          "description": "No matter how convenient it is these days to research family history online, you may still dream of visiting your family’s homeland. You’d like to see where your ancestors lived, stand in the church where Great-grandpa was baptized, enjoy traditional…",
-          "link": "https://www.nrtoday.com/family/family-heritage-trips/article_130f9ba0-d526-11ef-8996-374128cf0c41.html",
-          "publishedOn": "2025-01-23T22:54:00.000Z",
-          "wordCount": 14106,
-          "title": "Family Heritage Trips",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71ce1abe-b824-11ef-a14c-5f0c5360209e/675a359de6b66.image.jpg?resize=300%2C344",
-            "length": "42069",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71ce1abe-b824-11ef-a14c-5f0c5360209e/675a359de6b66.image.jpg?resize=300%2C344"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a7ff6d66-d7c5-11ef-bfe5-a31f59a6592a",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "TRI CITY — South Umpqua School District was named one of five Oregon state finalists in the Samsung National STEM Competition.",
-          "link": "https://www.nrtoday.com/news/education/south-umpqua-is-state-finalist-in-samsungs-stem-competition/article_a7ff6d66-d7c5-11ef-bfe5-a31f59a6592a.html",
-          "publishedOn": "2025-01-23T16:00:00.000Z",
-          "wordCount": 15573,
-          "title": "South Umpqua is state finalist in Samsung's STEM competition",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/acbd8300-d825-11ef-b7b0-9b9c6d1cb847",
-          "author": "DREW WINKELMAIER The News-Review",
-          "description": "The Umpqua Valley Arts Association is starting the year with opportunities for artists locally and beyond.",
-          "link": "https://www.nrtoday.com/briefs/the-umpqua-valley-arts-association-call-to-artists/article_acbd8300-d825-11ef-b7b0-9b9c6d1cb847.html",
-          "publishedOn": "2025-01-23T16:00:00.000Z",
-          "wordCount": 13613,
-          "title": "The Umpqua Valley Arts Association: Call to artists",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
