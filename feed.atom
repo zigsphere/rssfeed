@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-28T13:17:53.122Z</updated>
+    <updated>2025-01-28T16:13:56.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 28, 2025]]></title>
+        <id>6798ea9a8084700001134bca</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-28-2025/"/>
+        <updated>2025-01-28T14:47:40.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BELOW NORMAL OVERNIGHT LOW TEMPERATURES CONTINUE]]></title>
         <id>https://kqennewsradio.com/?p=128867</id>
