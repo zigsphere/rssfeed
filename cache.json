@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=128903",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/01/29/true-wealth-radio-1-28-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-1-28-25",
+          "publishedOn": "2025-01-29T01:41:16.000Z",
+          "wordCount": 1507,
+          "title": "TRUE WEALTH RADIO 1.28.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250129003920/TWR-1-28-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=128899",
+          "author": "Kyle Bailey",
+          "description": "January 28, 2025 4:10 p.m.  Roseburg Mayor Larry Rich is calling for an investigation into council conduct, after a city councilor resigned. A city release said Ward 1 Councilor Kylee Rummel submitted a letter of resignation on Friday, January 24th. Rich announced his call for an investigation at Monday night’s council meeting after sharing a...",
+          "link": "https://kqennewsradio.com/2025/01/28/mayor-launching-investigation-into-council-conduct/?utm_source=rss&utm_medium=rss&utm_campaign=mayor-launching-investigation-into-council-conduct",
+          "publishedOn": "2025-01-29T00:14:44.000Z",
+          "wordCount": 1737,
+          "title": "MAYOR LAUNCHING INVESTIGATION INTO COUNCIL CONDUCT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250128231430/City-Hall-Glow-w-Tree-1-24-24-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128892",
           "author": "Kyle Bailey",
           "description": "Umpqua Movement Arts Collaboration is featured with Creative Director Summer Fry, and board member Thomas McGregor talking about the non-profit organization and classes that are beginning soon.",
@@ -512,6 +537,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "679973698084700001134cb1",
+          "author": "Joseph Ziegler",
+          "description": "Beginning Monday, February 10, the Stewart Park Drive Bridge, often called the “Green Bridge,” will be closed to vehicle traffic for rehabilitation work. The closure, which spans the South Umpqua River, is expected to last until Monday, November 3. During this time, the bridge will remain open to",
+          "link": "https://www.roseburgscanner.com/stewart-park-drive-bridge-to-close-for-rehabilitation-starting-february-10th/",
+          "publishedOn": "2025-01-29T00:17:56.000Z",
+          "wordCount": 1164,
+          "title": "Stewart Park Drive Bridge to Close for Rehabilitation Starting February 10th",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/01/green_bridge.jpg"
+        },
         {
           "id": "679955808084700001134c9e",
           "author": "Joseph Ziegler",
