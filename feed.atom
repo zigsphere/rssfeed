@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-29T13:18:24.740Z</updated>
+    <updated>2025-01-29T16:14:29.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Egg prices are soaring, and Oregon’s among the states hardest hit. Here's Why]]></title>
+        <id>679a486a8084700001134dc5</id>
+        <link href="https://www.roseburgscanner.com/egg-prices-are-soaring-and-oregons-among-the-states-hardest-hit-heres-why/"/>
+        <updated>2025-01-29T15:28:42.000Z</updated>
+        <summary type="html"><![CDATA[The ongoing bird flu outbreak continues to wreak havoc on the U.S. poultry industry, forcing farmers to cull millions of chickens each month. As a result, egg prices have soared, more than doubling in many areas since the summer of 2023. With Easter on the horizon, demand for eggs]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 29, 2025]]></title>
+        <id>679a3c598084700001134cdb</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-29-2025/"/>
+        <updated>2025-01-29T14:50:14.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH 12:00 P.M. THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=128918</id>
