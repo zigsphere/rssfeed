@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-30T19:09:34.345Z</updated>
+    <updated>2025-01-30T23:12:24.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.30.25]]></title>
+        <id>https://kqennewsradio.com/?p=129000</id>
+        <link href="https://kqennewsradio.com/2025/01/30/inside-douglas-county-1-30-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-30-25"/>
+        <updated>2025-01-30T21:12:29.000Z</updated>
+        <summary type="html"><![CDATA[7robotics President Joey Koenig talks about the company and its work in robotics and what he sees ahead for the company’s future.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN FOR TRESPASS/WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=128997</id>
@@ -844,16 +854,6 @@ The post Keep your small business focused with a strategic plan appeared first o
         <link href="https://kqennewsradio.com/2025/01/27/zonta-double-donation-drive-continues-through-february/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=zonta-double-donation-drive-continues-through-february"/>
         <updated>2025-01-27T11:13:00.000Z</updated>
         <summary type="html"><![CDATA[January 27, 2025 3:05 a.m. The Zonta Club of Roseburg is continuing its double donation drive through the end of February. Clean lightly used clothes can be dropped off at Cardinal Services on Northwest Stewart Parkway and at the Roseburg Public Library on Northeast Diamond Lake Boulevard. Sunrise Enterprises will make a nominal donation to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REPRESENTATIVE HOYLE RECEIVES SUBCOMMITTEE ASSIGNMENTS]]></title>
-        <id>https://kqennewsradio.com/?p=128804</id>
-        <link href="https://kqennewsradio.com/2025/01/27/representative-hoyle-receives-subcommittee-assignments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=representative-hoyle-receives-subcommittee-assignments"/>
-        <updated>2025-01-27T11:08:02.000Z</updated>
-        <summary type="html"><![CDATA[January 27, 2025 2:50 a.m. Last week, 4th District U.S. Representative Val Hoyle received her Subcommittee assignments for the 119th Congress. In the House Committee on Natural Resources, Hoyle was elected to serve as Ranking Member of the Subcommittee on Water, Wildlife and Fisheries, in addition to an appointment to serve on the Subcommittee on...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

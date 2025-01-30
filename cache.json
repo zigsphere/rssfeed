@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129000",
+          "author": "Kyle Bailey",
+          "description": "7robotics President Joey Koenig talks about the company and its work in robotics and what he sees ahead for the company’s future.",
+          "link": "https://kqennewsradio.com/2025/01/30/inside-douglas-county-1-30-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-30-25",
+          "publishedOn": "2025-01-30T21:12:29.000Z",
+          "wordCount": 1514,
+          "title": "INSIDE DOUGLAS COUNTY 1.30.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250130200837/IDC-01-30-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250130201211/Joey-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=128997",
           "author": "Kyle Bailey",
           "description": "January 30, 2025 10:50 a.m.  Sutherlin Police jailed a man on the charge of second-degree criminal trespass and for warrants on Wednesday. An SPD report said at 7:00 p.m. the 30-year-old was at a business in the 1000 block of West Central Avenue after previously being trespassed from that location. The man also had a...",
@@ -739,16 +754,6 @@
           "wordCount": 1617,
           "title": "ZONTA DOUBLE DONATION DRIVE CONTINUES THROUGH FEBRUARY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128804",
-          "author": "Kyle Bailey",
-          "description": "January 27, 2025 2:50 a.m. Last week, 4th District U.S. Representative Val Hoyle received her Subcommittee assignments for the 119th Congress. In the House Committee on Natural Resources, Hoyle was elected to serve as Ranking Member of the Subcommittee on Water, Wildlife and Fisheries, in addition to an appointment to serve on the Subcommittee on...",
-          "link": "https://kqennewsradio.com/2025/01/27/representative-hoyle-receives-subcommittee-assignments/?utm_source=rss&utm_medium=rss&utm_campaign=representative-hoyle-receives-subcommittee-assignments",
-          "publishedOn": "2025-01-27T11:08:02.000Z",
-          "wordCount": 1524,
-          "title": "REPRESENTATIVE HOYLE RECEIVES SUBCOMMITTEE ASSIGNMENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
         }
       ]
     },
