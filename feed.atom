@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-01-31T19:09:55.020Z</updated>
+    <updated>2025-01-31T23:11:00.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.31.25]]></title>
+        <id>https://kqennewsradio.com/?p=129053</id>
+        <link href="https://kqennewsradio.com/2025/01/31/inside-douglas-county-1-31-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-31-25"/>
+        <updated>2025-01-31T21:21:45.000Z</updated>
+        <summary type="html"><![CDATA[A two guest program with Wildlife Safari Education Supervisor Sarah Vickery, and Ashley Cluver from Umpqua Valley Arts.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHORT SECTION OF HIGHWAY 138E STILL LIMITED TO A SINGLE LANE]]></title>
         <id>https://kqennewsradio.com/?p=129050</id>
@@ -814,16 +824,6 @@ The post Keep your small business focused with a strategic plan appeared first o
         <link href="https://kqennewsradio.com/2025/01/28/odf-southwest-oregon-district-hiring-for-fire-season/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=odf-southwest-oregon-district-hiring-for-fire-season"/>
         <updated>2025-01-28T11:12:52.000Z</updated>
         <summary type="html"><![CDATA[January 28, 2025 3:05 a.m. The Oregon Department of Forestry Southwest Oregon District is recruiting for multiple positions for the upcoming fire season. Public Information Office Natalie Weber said that includes entry-level and experienced firefighters, dispatchers and detection specialists. Weber said about 130 jobs will be available in Jackson and Josephine counties. These seasonal positions...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COAST COMMUNITY HEALTH CENTER RESCINDS CLOSURE NOTICE]]></title>
-        <id>https://kqennewsradio.com/?p=128853</id>
-        <link href="https://kqennewsradio.com/2025/01/28/coast-community-health-center-rescinds-closure-notice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coast-community-health-center-rescinds-closure-notice"/>
-        <updated>2025-01-28T11:06:00.000Z</updated>
-        <summary type="html"><![CDATA[January 28, 2025 2:50 a.m. On January 15th, Coast Community Health Center issued a notice regarding the closure of its operations. A release from Adapt Integrated Health Care said since issuing that notice, Coast has experienced a groundswell of public and private support to keep its resources open and available to the community. Among other...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

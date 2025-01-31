@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129053",
+          "author": "Kyle Bailey",
+          "description": "A two guest program with Wildlife Safari Education Supervisor Sarah Vickery, and Ashley Cluver from Umpqua Valley Arts.",
+          "link": "https://kqennewsradio.com/2025/01/31/inside-douglas-county-1-31-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-31-25",
+          "publishedOn": "2025-01-31T21:21:45.000Z",
+          "wordCount": 1518,
+          "title": "INSIDE DOUGLAS COUNTY 1.31.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250131201345/IDC-1-31-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250131202127/SarahV.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129050",
           "author": "Kyle Bailey",
           "description": "January 31, 2025 11:00 a.m.  A short section of Highway 138E east of Roseburg is still limited to a single lane of travel due to a landslide which occurred on January 4th. Information from the Oregon Department of Transportation said this is at milepost 49, which is approximately 10 miles east of Steamboat. Flaggers will...",
@@ -734,16 +749,6 @@
           "wordCount": 1582,
           "title": "ODF SOUTHWEST OREGON DISTRICT HIRING FOR FIRE SEASON",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223351/ODF-logo-color-e1597684458698.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=128853",
-          "author": "Kyle Bailey",
-          "description": "January 28, 2025 2:50 a.m. On January 15th, Coast Community Health Center issued a notice regarding the closure of its operations. A release from Adapt Integrated Health Care said since issuing that notice, Coast has experienced a groundswell of public and private support to keep its resources open and available to the community. Among other...",
-          "link": "https://kqennewsradio.com/2025/01/28/coast-community-health-center-rescinds-closure-notice/?utm_source=rss&utm_medium=rss&utm_campaign=coast-community-health-center-rescinds-closure-notice",
-          "publishedOn": "2025-01-28T11:06:00.000Z",
-          "wordCount": 1734,
-          "title": "COAST COMMUNITY HEALTH CENTER RESCINDS CLOSURE NOTICE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240725091224/Adapt-Integrated-Health-Care-Horizontal-No-R-Adapt-Blue-100.jpg"
         }
       ]
     },
