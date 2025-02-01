@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-01T19:08:24.165Z</updated>
+    <updated>2025-02-01T23:10:58.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crater Lake Blanketed by 17 Inches of Fresh Snow, Total Snowpack Reaches 117 Inches]]></title>
+        <id>679e9ddb8084700001134fd7</id>
+        <link href="https://www.roseburgscanner.com/crater-lake-blanketed-by-17-inches-of-fresh-snow-total-snowpack-reaches-117-inches/"/>
+        <updated>2025-02-01T22:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Crater Lake National Park, renowned for its stunning deep-blue waters and dramatic winter landscapes, has been transformed into a snowy wonderland after receiving 17 inches of fresh snow in the past 24 hours. This latest snowfall has pushed the total snow depth at the park to an impressive 117 inches,]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG SEES BELOW NORMAL RAINFALL FOR JANUARY]]></title>
+        <id>https://kqennewsradio.com/?p=129073</id>
+        <link href="https://kqennewsradio.com/2025/02/01/roseburg-sees-below-normal-rainfall-for-january/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sees-below-normal-rainfall-for-january"/>
+        <updated>2025-02-01T21:05:02.000Z</updated>
+        <summary type="html"><![CDATA[February 1, 2025 1:00 p.m.  Roseburg had a below normal amount of rainfall for the month of January. Data from the National Weather Service said the Roseburg Regional Airport measured 2.52 inches of precipitation. That compares with the normal monthly amount which is 4.82 inches. Just over a quarter of January’s rain in Roseburg fell...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCSO ATTEMPTING TO LOCATE MISSING 81-YEAR-OLD MAN]]></title>
         <id>https://kqennewsradio.com/?p=129066</id>
