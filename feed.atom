@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-01T16:12:23.595Z</updated>
+    <updated>2025-02-01T19:08:24.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -624,16 +624,6 @@
         <summary type="html"><![CDATA[Stewart Park Drive Bridge will be closed to vehicles Feb. 10-Nov. 3 for rehabilitation work.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible Chance of Snow This Upcoming Weekend and Early Next Week in the Umpqua Valley]]></title>
-        <id>6799a7fd8084700001134cc0</id>
-        <link href="https://www.roseburgscanner.com/possible-chance-of-snow-this-upcoming-weekend-and-early-next-week-in-the-umpqua-valley/"/>
-        <updated>2025-01-29T04:18:14.000Z</updated>
-        <summary type="html"><![CDATA[As winter tightens its grip on the Pacific Northwest, residents of the Umpqua Valley should prepare for the possibility of snow this weekend and into early next week. While Roseburg, with its lower elevation of approximately 463 feet, rarely experiences significant snowfall, forecast models suggest colder temperatures and lowering snow]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
