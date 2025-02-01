@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-01T13:12:59.532Z</updated>
+    <updated>2025-02-01T16:12:23.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DCSO ATTEMPTING TO LOCATE MISSING 81-YEAR-OLD MAN]]></title>
+        <id>https://kqennewsradio.com/?p=129066</id>
+        <link href="https://kqennewsradio.com/2025/02/01/dcso-attempting-to-locate-missing-81-year-old-man/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dcso-attempting-to-locate-missing-81-year-old-man"/>
+        <updated>2025-02-01T14:51:22.000Z</updated>
+        <summary type="html"><![CDATA[February 1, 2025 6:50 a.m.  The Douglas County Sheriff’s Office is attempting to locate Robert Troyer, a missing 81-year-old man with dementia. Undersheriff Brad O’Dell said Troyer was last seen on Friday at approximately 11:20 a.m., when he drove away from his Roseburg home in a green 2001 Dodge Dakota pickup with a canopy. O’Dell...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WARNING THROUGH 10:00 A.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=129063</id>
+        <link href="https://kqennewsradio.com/2025/02/01/winter-storm-warning-through-1000-a-m-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-through-1000-a-m-saturday"/>
+        <updated>2025-02-01T14:06:33.000Z</updated>
+        <summary type="html"><![CDATA[February 1, 2025 6:00 a.m. A Winter Storm Warning remains in effect through 10:00 a.m. Saturday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected with between 12 and 24 inches above 5,000 feet, with up to 30 inches possible over the highest peaks and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINSTON WOMAN DIES IN SINGLE-VEHICLE WRECK ON THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=129061</id>
@@ -614,16 +634,6 @@
         <summary type="html"><![CDATA[As winter tightens its grip on the Pacific Northwest, residents of the Umpqua Valley should prepare for the possibility of snow this weekend and into early next week. While Roseburg, with its lower elevation of approximately 463 feet, rarely experiences significant snowfall, forecast models suggest colder temperatures and lowering snow]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH RADIO 1.28.25]]></title>
-        <id>https://kqennewsradio.com/?p=128903</id>
-        <link href="https://kqennewsradio.com/2025/01/29/true-wealth-radio-1-28-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-radio-1-28-25"/>
-        <updated>2025-01-29T01:41:16.000Z</updated>
-        <summary type="html"><![CDATA[From Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
