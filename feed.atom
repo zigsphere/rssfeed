@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-03T19:10:15.189Z</updated>
+    <updated>2025-02-03T23:11:31.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.3.25]]></title>
+        <id>https://kqennewsradio.com/?p=129130</id>
+        <link href="https://kqennewsradio.com/2025/02/03/inside-douglas-county-2-3-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-3-25"/>
+        <updated>2025-02-03T21:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Senator David Brock Smith has an update on things happening in the Oregon State Legislature that are of interest to Douglas County residents.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL THREE PEOPLE AND CITE TWO FOR DUII INCIDENTS]]></title>
         <id>https://kqennewsradio.com/?p=129125</id>
@@ -454,16 +464,6 @@ At approximately]]></summary>
         <link href="https://kqennewsradio.com/2025/01/31/teens-against-trafficking-event-happening-february-6th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=teens-against-trafficking-event-happening-february-6th"/>
         <updated>2025-01-31T11:12:23.000Z</updated>
         <summary type="html"><![CDATA[January 31, 2025 3;05 a.m. The Douglas County Human Trafficking Task Force will hold a Teens Against Trafficking event on Thursday, February 6th. It will be held at the Roseburg Public Library from 6:30 p.m. to 8:00 p.m. The evening is aimed at parents, caregivers of teens, and teens, although anyone is welcome to attend....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOVEMENT ARTS NON-PROFIT KICKS OFF NEW SEASON]]></title>
-        <id>https://kqennewsradio.com/?p=129005</id>
-        <link href="https://kqennewsradio.com/2025/01/31/movement-arts-non-profit-kicks-off-new-season/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=movement-arts-non-profit-kicks-off-new-season"/>
-        <updated>2025-01-31T11:08:48.000Z</updated>
-        <summary type="html"><![CDATA[January 31, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Starting in February the Umpqua Movement Arts Collaboration will be starting their new performance class series and is seeking community members who want a new source of wellness and connection to join the fun. Beginning on Monday, a preview week will start at the downtown...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129130",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith has an update on things happening in the Oregon State Legislature that are of interest to Douglas County residents.",
+          "link": "https://kqennewsradio.com/2025/02/03/inside-douglas-county-2-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-3-25",
+          "publishedOn": "2025-02-03T21:14:32.000Z",
+          "wordCount": 1529,
+          "title": "INSIDE DOUGLAS COUNTY 2.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250203201304/IDC-2-3-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129125",
           "author": "Kyle Bailey",
           "description": "February 3, 2025 11:00 a.m.  Roseburg Police jailed three people and cited two people for driving under the influence of intoxicants incidents between Saturday morning and early Monday morning. An RPD report said incidents took place in the 700 block of West Harvard Avenue, in the 2400 block of Northwest Stewart Parkway, in the 200...",
@@ -394,16 +409,6 @@
           "wordCount": 1566,
           "title": "TEENS AGAINST TRAFFICKING EVENT HAPPENING FEBRUARY 6TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250131101212/Teens-Against-Trafficking-Banner.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129005",
-          "author": "Kyle Bailey",
-          "description": "January 31, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Starting in February the Umpqua Movement Arts Collaboration will be starting their new performance class series and is seeking community members who want a new source of wellness and connection to join the fun. Beginning on Monday, a preview week will start at the downtown...",
-          "link": "https://kqennewsradio.com/2025/01/31/movement-arts-non-profit-kicks-off-new-season/?utm_source=rss&utm_medium=rss&utm_campaign=movement-arts-non-profit-kicks-off-new-season",
-          "publishedOn": "2025-01-31T11:08:48.000Z",
-          "wordCount": 1600,
-          "title": "MOVEMENT ARTS NON-PROFIT KICKS OFF NEW SEASON",
-          "imageUrl": "https://kqennewsradio.com/wp-content/uploads/Move.avif"
         }
       ]
     },
