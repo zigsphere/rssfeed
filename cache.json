@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129185",
+          "author": "Kyle Bailey",
+          "description": "February 4, 2025 1:40 p.m.  A Winter Storm Warning is in effect from 4:00 a.m. Wednesday to 4:00 a.m. Thursday for central Douglas County. Forecasters at the National Weather Service said heavy snow is expected. Snow accumulations between 3 and 7 inches are expected with up to 10 inches of snow in higher terrain. The...",
+          "link": "https://kqennewsradio.com/2025/02/04/winter-storm-warning-for-central-douglas-county-3/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-for-central-douglas-county-3",
+          "publishedOn": "2025-02-04T21:40:23.000Z",
+          "wordCount": 1555,
+          "title": "WINTER STORM WARNING FOR CENTRAL DOUGLAS COUNTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250204204010/TuesPM-9.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129181",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Director Kris Wiley talks about library happenings and Jenn Reida of The FISH of Roseburg shares information about the need for food in the area.",
+          "link": "https://kqennewsradio.com/2025/02/04/inside-douglas-county-2-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-4-25",
+          "publishedOn": "2025-02-04T21:23:37.000Z",
+          "wordCount": 1525,
+          "title": "INSIDE DOUGLAS COUNTY 2.4.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250204201923/IDC-02-4-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250204202333/Kris-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129179",
           "author": "Kyle Bailey",
           "description": "February 4, 2025 10:50 a.m.  Roseburg Police jailed two people for a littering incident early Tuesday. An RPD report said at 2:20 a.m. the 32-year-old man and 34-year-old woman were contacted at Deer Creek Park in the 200 block of Southeast Pine Street. Their camp was surrounded by trash and was within 100 feet of...",
@@ -403,6 +428,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/df595654-dcfd-11ef-91cd-dfe2ce5fad2e",
+          "author": "TOM EGGERS News-Review Sports Editor",
+          "description": "OAKLAND — It was a day Jeff Clark will always appreciate during his time with the Oakland School District.",
+          "link": "https://www.nrtoday.com/sports/preps/prep_boys_basketball/special-teams-looking-back-at-three-oakland-high-school-boys-basketball-state-titles/article_df595654-dcfd-11ef-91cd-dfe2ce5fad2e.html",
+          "publishedOn": "2025-02-04T02:15:00.000Z",
+          "wordCount": 16750,
+          "title": "Special teams: Looking back at three Oakland High School boys basketball state titles",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/0e/70e02c16-e0ef-11ef-9c2f-0b72e590ef17/679ea6cd528ea.image.jpg?resize=300%2C499",
+            "length": "376040",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/0e/70e02c16-e0ef-11ef-9c2f-0b72e590ef17/679ea6cd528ea.image.jpg?resize=300%2C499"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2906cd76-e240-11ef-851f-a3eb9f08077e",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — Cooper Ridge’s Sparkling Pomegranate Cuvee was named the 2025 Greatest of the Grape, according to votes from attendees at the Saturday night event.",
+          "link": "https://www.nrtoday.com/news/environment/cooper-ridge-hillcrest-make-waves-at-53rd-greatest-of-the-grape/article_2906cd76-e240-11ef-851f-a3eb9f08077e.html",
+          "publishedOn": "2025-02-03T15:04:00.000Z",
+          "wordCount": 14931,
+          "title": "Cooper Ridge, HillCrest make waves at 53rd Greatest of the Grape",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/80/28016ecc-e245-11ef-bed4-ebef05e801d3/67a0e35c584ad.image.jpg?resize=300%2C225",
+            "length": "303257",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/80/28016ecc-e245-11ef-bed4-ebef05e801d3/67a0e35c584ad.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/18b47a4a-e0e7-11ef-af85-cba7f99fee0e",
           "author": "ANDREW GRIFFIN The News-Review",
