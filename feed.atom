@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-04T13:18:47.320Z</updated>
+    <updated>2025-02-04T16:14:48.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today’s Weather Conditions: Road Delays, Closures, and School Impacts]]></title>
+        <id>67a22a48808470000113527b</id>
+        <link href="https://www.roseburgscanner.com/todays-weather-conditions-road-delays-closures-and-school-impacts/"/>
+        <updated>2025-02-04T15:07:21.000Z</updated>
+        <summary type="html"><![CDATA[February 4, 2025]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 4, 2025]]></title>
+        <id>67a2250f80847000011351a0</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-4-2025/"/>
+        <updated>2025-02-04T14:51:58.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON]]></title>
         <id>https://kqennewsradio.com/?p=129157</id>
