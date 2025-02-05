@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129188",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn with special guest attorney Derick Simmons have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/02/05/true-wealth-2-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-2-4-25",
+          "publishedOn": "2025-02-05T01:38:52.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH 2.4.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205003741/TWR-2-5-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129185",
           "author": "Kyle Bailey",
           "description": "February 4, 2025 1:40 p.m.  A Winter Storm Warning is in effect from 4:00 a.m. Wednesday to 4:00 a.m. Thursday for central Douglas County. Forecasters at the National Weather Service said heavy snow is expected. Snow accumulations between 3 and 7 inches are expected with up to 10 inches of snow in higher terrain. The...",
@@ -404,16 +419,6 @@
           "wordCount": 1582,
           "title": "DCSO ATTEMPTING TO LOCATE MISSING 81-YEAR-OLD MAN",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250201135019/MISSING_Person_ROBERT_TROYER.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129063",
-          "author": "Kyle Bailey",
-          "description": "February 1, 2025 6:00 a.m. A Winter Storm Warning remains in effect through 10:00 a.m. Saturday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected with between 12 and 24 inches above 5,000 feet, with up to 30 inches possible over the highest peaks and...",
-          "link": "https://kqennewsradio.com/2025/02/01/winter-storm-warning-through-1000-a-m-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-through-1000-a-m-saturday",
-          "publishedOn": "2025-02-01T14:06:33.000Z",
-          "wordCount": 1667,
-          "title": "WINTER STORM WARNING THROUGH 10:00 A.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250201130618/SatAM-17.png"
         }
       ]
     },
