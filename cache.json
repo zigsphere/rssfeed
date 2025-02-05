@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129251",
+          "author": "Kyle Bailey",
+          "description": "Douglas C.A.R.E.S. Executive Director Sarah Wickersham talks the agency’s recent move and plans for expansion in the future.",
+          "link": "https://kqennewsradio.com/2025/02/05/inside-douglas-county-2-5-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-5-25",
+          "publishedOn": "2025-02-05T21:24:48.000Z",
+          "wordCount": 1520,
+          "title": "INSIDE DOUGLAS COUNTY 2.5.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205202207/IDC-2-5-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205202425/IMG_6126.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129244",
+          "author": "Kyle Bailey",
+          "description": "February 5, 2025 11:10 a.m.  Myrtle Creek Police jailed a man Wednesday for an alleged prior theft, trespass, and motor vehicle incident. An MCPD report said on January 27th surveillance allegedly showed a man wearing a light-colored baseball camp, dark coat and light jeans with a light-colored dog walk up to a chipper at a...",
+          "link": "https://kqennewsradio.com/2025/02/05/myrtle-creek-police-jail-man-for-alleged-theft-trespass-uemv-incident/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-police-jail-man-for-alleged-theft-trespass-uemv-incident",
+          "publishedOn": "2025-02-05T19:10:31.000Z",
+          "wordCount": 1603,
+          "title": "MYRTLE CREEK POLICE JAIL MAN FOR ALLEGED THEFT, TRESPASS UEMV INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221434/mcpd2-e1609413984764.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129242",
           "author": "Kyle Bailey",
           "description": "February 5, 2025 11:00 a.m. Roseburg Police cited a man for prohibited camping Wednesday morning. An RPD report said just after 9:20 am. the 37-year-old had his tent set up in the middle of the nature area at the Stewart Park duck pound. The man stated he did not define it as camping, even though...",
@@ -725,16 +750,6 @@
           "wordCount": 1344,
           "title": "Get Ready for an Unforgettable Night: Lightnin' Luke & IV & The Strange Band at The Hive!",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/Screenshot-2025-02-02-at-4.59.53-PM.png"
-        },
-        {
-          "id": "679f1b408084700001134fe5",
-          "author": "Joseph Ziegler",
-          "description": "YONCALLA, Ore. — Authorities are investigating an apparent homicide-suicide that occurred in Yoncalla on Friday evening, January 31, 2025. The incident unfolded after a business contacted the Douglas County Sheriff’s Office to request a welfare check on an employee who had failed to report to work.\nAt approximately",
-          "link": "https://www.roseburgscanner.com/detectives-investigate-apparent-homicide-suicide-in-yoncalla/",
-          "publishedOn": "2025-02-02T07:15:30.000Z",
-          "wordCount": 1245,
-          "title": "Detectives Investigate Apparent Homicide-Suicide in Yoncalla",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/DCSO-release.jpg"
         }
       ]
     }

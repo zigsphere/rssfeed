@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-05T19:09:52.816Z</updated>
+    <updated>2025-02-05T23:11:38.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.5.25]]></title>
+        <id>https://kqennewsradio.com/?p=129251</id>
+        <link href="https://kqennewsradio.com/2025/02/05/inside-douglas-county-2-5-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-5-25"/>
+        <updated>2025-02-05T21:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Douglas C.A.R.E.S. Executive Director Sarah Wickersham talks the agency’s recent move and plans for expansion in the future.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MYRTLE CREEK POLICE JAIL MAN FOR ALLEGED THEFT, TRESPASS UEMV INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=129244</id>
+        <link href="https://kqennewsradio.com/2025/02/05/myrtle-creek-police-jail-man-for-alleged-theft-trespass-uemv-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-police-jail-man-for-alleged-theft-trespass-uemv-incident"/>
+        <updated>2025-02-05T19:10:31.000Z</updated>
+        <summary type="html"><![CDATA[February 5, 2025 11:10 a.m.  Myrtle Creek Police jailed a man Wednesday for an alleged prior theft, trespass, and motor vehicle incident. An MCPD report said on January 27th surveillance allegedly showed a man wearing a light-colored baseball camp, dark coat and light jeans with a light-colored dog walk up to a chipper at a...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=129242</id>
@@ -666,17 +686,6 @@ This]]></summary>
         <summary type="html"><![CDATA[February 2, 2025 1:30 p.m.  A missing Roseburg man was found deceased on Saturday night. Friday afternoon the Douglas County Sheriff’s Office reported that 81-year-old Robert Troyer was missing and had last been seen that day at approximately 11:20 a.m. when he drove away from his home in a 2001 Dodge Dakota pickup with a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detectives Investigate Apparent Homicide-Suicide in Yoncalla]]></title>
-        <id>679f1b408084700001134fe5</id>
-        <link href="https://www.roseburgscanner.com/detectives-investigate-apparent-homicide-suicide-in-yoncalla/"/>
-        <updated>2025-02-02T07:15:30.000Z</updated>
-        <summary type="html"><![CDATA[YONCALLA, Ore. — Authorities are investigating an apparent homicide-suicide that occurred in Yoncalla on Friday evening, January 31, 2025. The incident unfolded after a business contacted the Douglas County Sheriff’s Office to request a welfare check on an employee who had failed to report to work.
-At approximately]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
