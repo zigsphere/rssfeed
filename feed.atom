@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-05T23:11:38.630Z</updated>
+    <updated>2025-02-06T02:42:12.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 2.5.25]]></title>
+        <id>https://kqennewsradio.com/?p=129259</id>
+        <link href="https://kqennewsradio.com/2025/02/06/mike-winters-lawn-and-garden-show-2-5-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-2-5-25"/>
+        <updated>2025-02-06T01:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, have our weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WARNING THROUGH 10:00 A.M. THURSDAY]]></title>
+        <id>https://kqennewsradio.com/?p=129255</id>
+        <link href="https://kqennewsradio.com/2025/02/05/winter-storm-warning-through-1000-a-m-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-through-1000-a-m-thursday"/>
+        <updated>2025-02-06T00:18:16.000Z</updated>
+        <summary type="html"><![CDATA[February 5, 2025 4:20 p.m. A Winter Storm Warning is in effect through 10:00 a.m. Thursday for central Douglas County. Forecasters at the National Weather Service said additional snow accumulations between 3 and 5 inches are expected. The Warning area includes higher elevations in southern Douglas County including the Sexton Summit. Forecasters said travel could...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.5.25]]></title>
         <id>https://kqennewsradio.com/?p=129251</id>
