@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129307",
+          "author": "Kyle Bailey",
+          "description": "Peace at Home Advocacy Center Executive Director Melanie Prummer talks about their 14th annual EMPOWER Dance & Vocals Performance event.",
+          "link": "https://kqennewsradio.com/2025/02/06/inside-douglas-county-2-6-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-6-25",
+          "publishedOn": "2025-02-06T21:16:36.000Z",
+          "wordCount": 1518,
+          "title": "INSIDE DOUGLAS COUNTY 2.6.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250206200606/IDC-2-6-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250206201621/Melanie-4.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129304",
           "author": "Kyle Bailey",
           "description": "February 6, 2025 10:50 a.m.  A vehicle knocked over a stop sign at the intersection of Little River Road and Lee Avenue in the Glide area on Wednesday. A Douglas County Sheriff’s Office report said the damage was discovered at 7:00 a.m. There are no suspects or leads in the incident at this time, according...",
@@ -744,16 +759,6 @@
           "wordCount": 1649,
           "title": "H.O.P.E. DRUG COURT GRADUATION MONDAY NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250203101526/108th_Drug_Court_Graduation.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129085",
-          "author": "Kyle Bailey",
-          "description": "February 3, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Umpqua Actor’s Community Theatre has its production of “Rounding Third”, opening on Thursday night. In this comedy, two Little League coaches, who have conflicting views on how to coach their kids, form an uneasy alliance for the benefit of the team. A season on victories...",
-          "link": "https://kqennewsradio.com/2025/02/03/rounding-third-opens-thursday-night-at-uact/?utm_source=rss&utm_medium=rss&utm_campaign=rounding-third-opens-thursday-night-at-uact",
-          "publishedOn": "2025-02-03T11:10:51.000Z",
-          "wordCount": 1625,
-          "title": "ROUNDING THIRD OPENS THURSDAY NIGHT AT UACT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250203101043/Brian-Trading-Card.jpg"
         }
       ]
     },
