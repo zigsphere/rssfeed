@@ -727,6 +727,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67a4c8cf808470000113539a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/february-6-2025/",
+          "publishedOn": "2025-02-06T14:48:52.000Z",
+          "wordCount": 3181,
+          "title": "February 6, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/The-Morning-Scoop-3.png"
+        },
+        {
           "id": "67a37cba8084700001135385",
           "author": "Joseph Ziegler",
           "description": "February 5, 2025",
@@ -795,16 +805,6 @@
           "wordCount": 2963,
           "title": "February 3, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/The-Morning-Scoop.png"
-        },
-        {
-          "id": "67a023c78084700001135015",
-          "author": "Joseph Ziegler",
-          "description": "(TNND) — The wait is over, and the verdict is in: Punxsutawney Phil, the world’s most famous groundhog, has predicted six more weeks of winter. On Sunday, February 2, 2025, Phil saw his shadow during the annual Groundhog Day celebration at Gobbler’s Knob in Punxsutawney,",
-          "link": "https://www.roseburgscanner.com/punxsutawney-phil-predicts-six-more-weeks-of-winter/",
-          "publishedOn": "2025-02-03T02:07:53.000Z",
-          "wordCount": 1405,
-          "title": "Punxsutawney Phil Predicts Six More Weeks of Winter",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/groundhog1.jpg"
         }
       ]
     }

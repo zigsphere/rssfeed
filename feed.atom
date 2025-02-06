@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-06T13:19:00.878Z</updated>
+    <updated>2025-02-06T16:13:06.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[February 6, 2025]]></title>
+        <id>67a4c8cf808470000113539a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-6-2025/"/>
+        <updated>2025-02-06T14:48:52.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DELAY AND CLOSURE INFORMATION FOR THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=129279</id>
@@ -725,16 +735,6 @@ In a statement]]></summary>
         <summary type="html"><![CDATA[February 3, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Umpqua Actor’s Community Theatre has its production of “Rounding Third”, opening on Thursday night. In this comedy, two Little League coaches, who have conflicting views on how to coach their kids, form an uneasy alliance for the benefit of the team. A season on victories...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punxsutawney Phil Predicts Six More Weeks of Winter]]></title>
-        <id>67a023c78084700001135015</id>
-        <link href="https://www.roseburgscanner.com/punxsutawney-phil-predicts-six-more-weeks-of-winter/"/>
-        <updated>2025-02-03T02:07:53.000Z</updated>
-        <summary type="html"><![CDATA[(TNND) — The wait is over, and the verdict is in: Punxsutawney Phil, the world’s most famous groundhog, has predicted six more weeks of winter. On Sunday, February 2, 2025, Phil saw his shadow during the annual Groundhog Day celebration at Gobbler’s Knob in Punxsutawney,]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
