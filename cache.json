@@ -694,6 +694,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cebd8078-e39b-11ef-8f54-d3ba4071d860",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Coffenberry Middle School announced students who qualified for the second quarter honor roll for the 2024-25 school year.",
+          "link": "https://www.nrtoday.com/briefs/coffenberry-middle-school-second-quarter-honor-roll/article_cebd8078-e39b-11ef-8f54-d3ba4071d860.html",
+          "publishedOn": "2025-02-07T15:30:00.000Z",
+          "wordCount": 13780,
+          "title": "Coffenberry Middle School second quarter honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/01f84b72-e346-11ef-a6ab-476499b3bd4a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "NEWBERG — Skylar Rentz of Camas Valley and Ashley Gunderson of Tenmile received diplomas from George Fox University at the midyear commencement ceremony in December.",
+          "link": "https://www.nrtoday.com/briefs/local-students-graduate-from-george-fox-university/article_01f84b72-e346-11ef-a6ab-476499b3bd4a.html",
+          "publishedOn": "2025-02-07T15:15:00.000Z",
+          "wordCount": 13565,
+          "title": "Local students graduate from George Fox University",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/69d63d54-e3f9-11ef-9c60-a32d316b2cd8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "FISHING REPORT",
+          "link": "https://www.nrtoday.com/news/environment/douglas-county-february-2025-recreation-report/article_69d63d54-e3f9-11ef-9c60-a32d316b2cd8.html",
+          "publishedOn": "2025-02-07T15:00:00.000Z",
+          "wordCount": 18300,
+          "title": "Douglas County February 2025 recreation report",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6973f814-e3a5-11ef-965f-b77620fcf35b",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "The 29th annual Seven Feathers Sportsmen’s & Outdoor Recreation Show is approaching, with a scheduled opening for noon Friday at the Douglas County Fairgrounds.",
@@ -702,21 +732,6 @@
           "wordCount": 14033,
           "title": "Sportsman's show helps people get outdoors",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/df595654-dcfd-11ef-91cd-dfe2ce5fad2e",
-          "author": "TOM EGGERS News-Review Sports Editor",
-          "description": "OAKLAND — It was a day Jeff Clark will always appreciate during his time with the Oakland School District.",
-          "link": "https://www.nrtoday.com/sports/preps/prep_boys_basketball/special-teams-looking-back-at-three-oakland-high-school-boys-basketball-state-titles/article_df595654-dcfd-11ef-91cd-dfe2ce5fad2e.html",
-          "publishedOn": "2025-02-04T02:15:00.000Z",
-          "wordCount": 16750,
-          "title": "Special teams: Looking back at three Oakland High School boys basketball state titles",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/0e/70e02c16-e0ef-11ef-9c2f-0b72e590ef17/679ea6cd528ea.image.jpg?resize=300%2C499",
-            "length": "376040",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/0e/70e02c16-e0ef-11ef-9c2f-0b72e590ef17/679ea6cd528ea.image.jpg?resize=300%2C499"
         }
       ]
     },
@@ -731,6 +746,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67a61b4080847000011354b9",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/february-7-2025/",
+          "publishedOn": "2025-02-07T14:54:35.000Z",
+          "wordCount": 3540,
+          "title": "February 7, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/The-Morning-Scoop-4.png"
+        },
         {
           "id": "67a593d680847000011354a1",
           "author": "Joseph Ziegler",
@@ -800,26 +825,6 @@
           "wordCount": 2884,
           "title": "February 4, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/The-Morning-Scoop-1.png"
-        },
-        {
-          "id": "67a17c8e8084700001135183",
-          "author": "Joseph Ziegler",
-          "description": "A severe winter storm has left 9,670 Oregon residents without power, according to Pacific Power. The utility company is actively working to restore electricity to areas in Southern Oregon and Northern California that have been significantly impacted by heavy snow and harsh weather conditions.\nIn a statement",
-          "link": "https://www.roseburgscanner.com/9-670-oregon-residents-without-power-as-winter-storm-causes-widespread-outages/",
-          "publishedOn": "2025-02-04T02:35:20.000Z",
-          "wordCount": 1258,
-          "title": "9,670 Oregon Residents Without Power as Winter Storm Causes Widespread Outages",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/power_outages.png"
-        },
-        {
-          "id": "67a179358084700001135174",
-          "author": "Joseph Ziegler",
-          "description": "Douglas County, OR – A Winter Storm Warning is in effect until 10 PM PST Monday, bringing additional snow accumulations of up to 3 inches to parts of Central and Eastern Douglas County Foothills. This includes the communities of Tiller, Azalea, and Toketee Falls, as well as sections of Interstate",
-          "link": "https://www.roseburgscanner.com/winter-storm-warning-issued-for-douglas-county-and-surrounding-areas/",
-          "publishedOn": "2025-02-04T02:20:11.000Z",
-          "wordCount": 1135,
-          "title": "Winter Storm Warning Issued for Douglas County and Surrounding Areas",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/Weather-Update.png"
         }
       ]
     }
