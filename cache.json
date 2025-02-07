@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129367",
+          "author": "Kyle Bailey",
+          "description": "February 7, 2025 2:00 p.m.  A semi-truck rolled on Interstate 5 northbound near milepost 108 in the Myrtle Creek area early Friday, causing traffic issues that lasted for hours. An Oregon State Police report said at approximately 1:20 a.m. the commercial motor vehicle was negotiating a curve at a higher speed than allowed, causing it...",
+          "link": "https://kqennewsradio.com/2025/02/07/semi-truck-rolls-on-interstate-5-near-myrtle-creek/?utm_source=rss&utm_medium=rss&utm_campaign=semi-truck-rolls-on-interstate-5-near-myrtle-creek",
+          "publishedOn": "2025-02-07T22:07:44.000Z",
+          "wordCount": 1584,
+          "title": "SEMI-TRUCK ROLLS ON INTERSTATE 5 NEAR MYRTLE CREEK",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129360",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at the Sportsmen’s & Outdoor Recreation Show at the Douglas County Fairgrounds. The event continues through Sunday afternoon.",
+          "link": "https://kqennewsradio.com/2025/02/07/inside-douglas-county-2-7-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-7-25",
+          "publishedOn": "2025-02-07T22:04:03.000Z",
+          "wordCount": 1520,
+          "title": "INSIDE DOUGLAS COUNTY 2.7.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250207202920/IDC-02-07-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250207210310/sports3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129357",
           "author": "Kyle Bailey",
           "description": "February 7, 2025 10:45 a.m.  Celebration of Literacy’s Valentines for Vets event has been rescheduled for Wednesday, February 12th. It will take place at the Boys and Girls Club, on Northeast Cedar Street in Roseburg from 2:30 p.m. to 5:30 p.m. The event was earlier postponed due to weather issues. For more information about Celebration...",
@@ -769,16 +794,6 @@
           "wordCount": 1694,
           "title": "FISH FOOD PANTRY EXPANDS HOURS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727195824/Logo-fish-lg.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129140",
-          "author": "Kyle Bailey",
-          "description": "February 4, 2025 2:50 a.m. Celebration of Literacy continues this week around the Umpqua Valley. Presented by Altrusa International and the Umpqua Reading Council, events are held to promote the importance of literacy and to encourage area young people to read. Events at libraries in Roseburg, Glendale, Winston and Myrtle Creek will take place this...",
-          "link": "https://kqennewsradio.com/2025/02/04/celebration-of-literacy-continues-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=celebration-of-literacy-continues-this-week",
-          "publishedOn": "2025-02-04T11:07:21.000Z",
-          "wordCount": 1580,
-          "title": "CELEBRATION OF LITERACY CONTINUES THIS WEEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250204100712/col-2.jpg"
         }
       ]
     },
