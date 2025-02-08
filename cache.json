@@ -639,26 +639,6 @@
           "wordCount": 1620,
           "title": "14th ANNUAL EMPOWER DANCE & VOCALS PERFORMANCE COMING IN MARCH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205101419/PAH.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129193",
-          "author": "Kyle Bailey",
-          "description": "February 5, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents the Umpqua Singers and Big Horn Jazz Band in concert on March 12th at 7:00 p.m. in Centerstage at the Whipple Fine Arts Center on the UCC campus. The Umpqua Singers, directed by Dr. Jason Heald, and...",
-          "link": "https://kqennewsradio.com/2025/02/05/umpqua-singers-and-big-horn-jazz-band-in-concert-at-ucc/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-singers-and-big-horn-jazz-band-in-concert-at-ucc",
-          "publishedOn": "2025-02-05T11:10:41.000Z",
-          "wordCount": 1561,
-          "title": "UMPQUA SINGERS AND BIG HORN JAZZ BAND IN CONCERT AT UCC",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129193",
-          "author": "Kyle Bailey",
-          "description": "February 5, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents the Umpqua Singers and Big Horn Band in concert on March 12th at 7:00 p.m. in Centerstage at the Whipple Fine Arts Center on the UCC campus. The Umpqua Singers, directed by Dr. Jason Heald, and the...",
-          "link": "https://kqennewsradio.com/2025/02/05/umpqua-singers-and-big-horn-band-in-concert-at-ucc/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-singers-and-big-horn-band-in-concert-at-ucc",
-          "publishedOn": "2025-02-05T11:10:41.000Z",
-          "wordCount": 1558,
-          "title": "UMPQUA SINGERS AND BIG HORN BAND IN CONCERT AT UCC",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
@@ -673,6 +653,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d8715e2a-e664-11ef-99e1-7fcf42adeb61",
+          "author": null,
+          "description": "Deadline to Apply for Roseburg Planning Commission Extended AM Feb 7 KB",
+          "link": "https://www.nrtoday.com/news/deadline-to-apply-for-roseburg-planning-commission-extended/article_d8715e2a-e664-11ef-99e1-7fcf42adeb61.html",
+          "publishedOn": "2025-02-08T21:37:00.000Z",
+          "wordCount": 13465,
+          "title": "Deadline to apply for Roseburg Planning Commission extended",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a37e21dc-e662-11ef-946e-43a3b245b557",
+          "author": "Kyle Bailey",
+          "description": "A Roseburg family was displaced following a stove fire that killed their pets on Thursday afternoon.",
+          "link": "https://www.nrtoday.com/news/stove-fire-displaces-roseburg-family/article_a37e21dc-e662-11ef-946e-43a3b245b557.html",
+          "publishedOn": "2025-02-08T21:21:00.000Z",
+          "wordCount": 13498,
+          "title": "Stove fire displaces Roseburg family",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b076e5f0-e661-11ef-940b-dba50beb1799",
+          "author": "Kyle Bailey",
+          "description": "A semi-truck rolled over on northbound Interstate 5 near milepost 108 in the Myrtle Creek area early Friday, causing traffic delays that lasted more than five hours.",
+          "link": "https://www.nrtoday.com/news/local/semi-truck-rolls-on-interstate-5-near-myrtle-creek/article_b076e5f0-e661-11ef-940b-dba50beb1799.html",
+          "publishedOn": "2025-02-08T21:14:00.000Z",
+          "wordCount": 13423,
+          "title": "Semi-truck rolls on Interstate 5 near Myrtle Creek",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2f490568-e65b-11ef-ad33-7b6f5028bf80",
+          "author": "Newsroom",
+          "description": "Oregon's revised wildfire risk map continues to generate concerns among homeowners, despite efforts to address the potential impacts on insurance policies and property values. The map, which is a product of legislation passed in 2021 (SB 762), is part of…",
+          "link": "https://www.nrtoday.com/news/local/oregon-lawmakers-address-concerns-over-wildfire-mapping-program/article_2f490568-e65b-11ef-ad33-7b6f5028bf80.html",
+          "publishedOn": "2025-02-08T20:27:00.000Z",
+          "wordCount": 13676,
+          "title": "Oregon lawmakers address concerns over wildfire mapping program",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/cebd8078-e39b-11ef-8f54-d3ba4071d860",
           "author": "GLORIA COLEMAN The News-Review",
@@ -701,16 +721,6 @@
           "publishedOn": "2025-02-07T15:00:00.000Z",
           "wordCount": 18300,
           "title": "Douglas County February 2025 recreation report",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6973f814-e3a5-11ef-965f-b77620fcf35b",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The 29th annual Seven Feathers Sportsmen’s & Outdoor Recreation Show is approaching, with a scheduled opening for noon Friday at the Douglas County Fairgrounds.",
-          "link": "https://www.nrtoday.com/news/local/sportsmans-show-helps-people-get-outdoors/article_6973f814-e3a5-11ef-965f-b77620fcf35b.html",
-          "publishedOn": "2025-02-05T09:41:00.000Z",
-          "wordCount": 14033,
-          "title": "Sportsman's show helps people get outdoors",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
