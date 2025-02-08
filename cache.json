@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129369",
+          "author": "Kyle Bailey",
+          "description": "February 8, 2025 6:00 a.m.  A Cold Weather Advisory remains in effect from 7:00 p.m. Sunday through 9:00 a.m. Wednesday for mountain areas in much of southern Oregon. Forecasters at the National Weather Service said very cold temperatures as low as 5 degrees below zero are expected. The Advisory area includes the south central and...",
+          "link": "https://kqennewsradio.com/2025/02/08/cold-weather-advisory-for-mountain-areas-in-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=cold-weather-advisory-for-mountain-areas-in-southern-oregon",
+          "publishedOn": "2025-02-08T14:12:39.000Z",
+          "wordCount": 1580,
+          "title": "COLD WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250208131229/Cold-9.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129367",
           "author": "Kyle Bailey",
           "description": "February 7, 2025 2:00 p.m.  A semi-truck rolled on Interstate 5 northbound near milepost 108 in the Myrtle Creek area early Friday, causing traffic issues that lasted for hours. An Oregon State Police report said at approximately 1:20 a.m. the commercial motor vehicle was negotiating a curve at a higher speed than allowed, causing it...",
@@ -619,21 +629,6 @@
           "wordCount": 1558,
           "title": "UMPQUA SINGERS AND BIG HORN BAND IN CONCERT AT UCC",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129188",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial, David Littlejohn with special guest attorney Derick Simmons have our weekly local financial program.",
-          "link": "https://kqennewsradio.com/2025/02/05/true-wealth-2-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-2-4-25",
-          "publishedOn": "2025-02-05T01:38:52.000Z",
-          "wordCount": 1506,
-          "title": "TRUE WEALTH 2.4.25",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205003741/TWR-2-5-25.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },

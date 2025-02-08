@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-08T13:13:46.950Z</updated>
+    <updated>2025-02-08T16:12:50.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COLD WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON]]></title>
+        <id>https://kqennewsradio.com/?p=129369</id>
+        <link href="https://kqennewsradio.com/2025/02/08/cold-weather-advisory-for-mountain-areas-in-southern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cold-weather-advisory-for-mountain-areas-in-southern-oregon"/>
+        <updated>2025-02-08T14:12:39.000Z</updated>
+        <summary type="html"><![CDATA[February 8, 2025 6:00 a.m.  A Cold Weather Advisory remains in effect from 7:00 p.m. Sunday through 9:00 a.m. Wednesday for mountain areas in much of southern Oregon. Forecasters at the National Weather Service said very cold temperatures as low as 5 degrees below zero are expected. The Advisory area includes the south central and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEMI-TRUCK ROLLS ON INTERSTATE 5 NEAR MYRTLE CREEK]]></title>
         <id>https://kqennewsradio.com/?p=129367</id>
@@ -684,16 +694,6 @@
         <summary type="html"><![CDATA[The 29th annual Seven Feathers Sportsmen’s & Outdoor Recreation Show is approaching, with a scheduled opening for noon Friday at the Douglas County Fairgrounds.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 2.4.25]]></title>
-        <id>https://kqennewsradio.com/?p=129188</id>
-        <link href="https://kqennewsradio.com/2025/02/05/true-wealth-2-4-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-2-4-25"/>
-        <updated>2025-02-05T01:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn with special guest attorney Derick Simmons have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
