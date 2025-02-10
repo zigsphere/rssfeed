@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129429",
+          "author": "Kyle Bailey",
+          "description": "Live from Washington D.C., Second District Congressman Cliff Bentz talks about the changes the new Trump administration is putting into place and it might impact southern and eastern Oregon.",
+          "link": "https://kqennewsradio.com/2025/02/10/inside-douglas-county-2-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-10-25",
+          "publishedOn": "2025-02-10T21:12:59.000Z",
+          "wordCount": 1531,
+          "title": "INSIDE DOUGLAS COUNTY 2.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250210201031/IDC-2-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201148/Official-Portrait-Congressman-Cliff-Bentz-OR-02-WEBSITE-e1682366937454.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129427",
           "author": "Kyle Bailey",
           "description": "February 10, 2025 11:00 a.m. Roseburg Police jailed woman for alleged criminal mischief on Saturday. An RPD report said shortly after 9:30 a.m. a resident of a motel in the 1000 block of Northeast Stephens Street said they witnessed a woman using a rock to smash a window belonging to one of the rooms. Officers...",
@@ -394,36 +409,6 @@
           "wordCount": 1765,
           "title": "AVIVA HEALTH CFO GIVEN NATIONAL EMERGING LEADER AWARD",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250207101344/Hamilton-Leah-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129319",
-          "author": "Kyle Bailey",
-          "description": "February 7, 2025 3:20 a.m. The City of Roseburg has extended the deadline to apply for a vacant position on the Planning Commission. A city release said the new deadline is Friday, February 14th at 5:00 p.m. The commission meets at 7:00 p.m. on the first Monday of each month to consider long and short-range...",
-          "link": "https://kqennewsradio.com/2025/02/07/deadline-to-apply-for-roseburg-planning-commission-extended/?utm_source=rss&utm_medium=rss&utm_campaign=deadline-to-apply-for-roseburg-planning-commission-extended",
-          "publishedOn": "2025-02-07T11:09:47.000Z",
-          "wordCount": 1628,
-          "title": "DEADLINE TO APPLY FOR ROSEBURG PLANNING COMMISSION EXTENDED",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213442/City-Hall-Gold-Light-on-Trees-11-5-21-scaled-e1637321373883.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129317",
-          "author": "Kyle Bailey",
-          "description": "February 7, 2025 3:05 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents the Roseburg Concert Chorale performing “Musica Italiana e Americana” Friday, March 14th at 7:00 p.m. and Sunday March 16th at 3:00 p.m. at the Whipple Fine Arts Center on the UCC campus. The concert will feature Italian...",
-          "link": "https://kqennewsradio.com/2025/02/07/ucc-roseburg-concert-chorale-musica-italiana-e-america/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-roseburg-concert-chorale-musica-italiana-e-america",
-          "publishedOn": "2025-02-07T11:07:35.000Z",
-          "wordCount": 1564,
-          "title": "UCC ROSEBURG CONCERT CHORALE – MUSICA ITALIANA E AMERICA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129315",
-          "author": "Kyle Bailey",
-          "description": "February 7, 2025 2:50 a.m. Governor Tina Kotek has proclaimed February Earthquake and Tsunami Awareness Month in Oregon. A release from the Oregon Department of Emergency Management said in the past, Oregon has suffered considerable damage from moderate earthquake events. That includes the 1993 Scotts Mills and Klamath Falls earthquakes and from a deadly tsunami...",
-          "link": "https://kqennewsradio.com/2025/02/07/governor-proclaims-february-earthquake-and-tsunami-awareness-month/?utm_source=rss&utm_medium=rss&utm_campaign=governor-proclaims-february-earthquake-and-tsunami-awareness-month",
-          "publishedOn": "2025-02-07T11:05:22.000Z",
-          "wordCount": 1693,
-          "title": "GOVERNOR PROCLAIMS FEBRUARY EARTHQUAKE AND TSUNAMI AWARENESS MONTH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
         }
       ]
     },
@@ -438,6 +423,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bb3656fc-e7be-11ef-8d0c-df106acef9e5",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Jody Morrow stood behind a table Saturday in the conference hall at the Douglas County Fairgrounds, underneath a large banner with Discover Winchester Bay sprawled across it in large letters.",
+          "link": "https://www.nrtoday.com/news/environment/sportsmens-show-displays-the-glory-of-the-outdoors/article_bb3656fc-e7be-11ef-8d0c-df106acef9e5.html",
+          "publishedOn": "2025-02-10T14:53:00.000Z",
+          "wordCount": 15405,
+          "title": "Sportsmen's show displays the glory of the outdoors",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/3f/43fb5904-e7cb-11ef-a01f-13d210da91c8/67aa27d7a5ecb.image.jpg?resize=300%2C200",
+            "length": "255187",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/3f/43fb5904-e7cb-11ef-a01f-13d210da91c8/67aa27d7a5ecb.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d8715e2a-e664-11ef-99e1-7fcf42adeb61",
           "author": null,
