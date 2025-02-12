@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-12T19:10:18.911Z</updated>
+    <updated>2025-02-12T23:10:47.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.12.25]]></title>
+        <id>https://kqennewsradio.com/?p=129531</id>
+        <link href="https://kqennewsradio.com/2025/02/12/inside-douglas-county-2-12-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-12-25"/>
+        <updated>2025-02-12T21:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Myrtle Creek City Administrator Lonnie Rainville and Mayor Matthew Hald talk about the Imagine Myrtle Creek effort, and public input opportunities that are coming soon.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR PROHIBITED OUTDOOR BURNING]]></title>
         <id>https://kqennewsradio.com/?p=129528</id>
