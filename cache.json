@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129484",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/02/12/true-wealth-2-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-2-11-25",
+          "publishedOn": "2025-02-12T01:37:28.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH 2.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250212002437/TWR-2-11-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129481",
           "author": "Kyle Bailey",
           "description": "Live from Salem, State Senator David Brock Smith has an update on current legislation, the status of a veterans home on the Roseburg VA campus and more.",
@@ -404,16 +419,6 @@
           "wordCount": 1723,
           "title": "DEPUTIES JAIL MAN AFTER ATTEMPED ESCAPE INCIDENT FRIDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129369",
-          "author": "Kyle Bailey",
-          "description": "February 8, 2025 6:00 a.m.  A Cold Weather Advisory remains in effect from 7:00 p.m. Sunday through 9:00 a.m. Wednesday for mountain areas in much of southern Oregon. Forecasters at the National Weather Service said very cold temperatures as low as 5 degrees below zero are expected. The Advisory area includes the south central and...",
-          "link": "https://kqennewsradio.com/2025/02/08/cold-weather-advisory-for-mountain-areas-in-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=cold-weather-advisory-for-mountain-areas-in-southern-oregon",
-          "publishedOn": "2025-02-08T14:12:39.000Z",
-          "wordCount": 1580,
-          "title": "COLD WEATHER ADVISORY FOR MOUNTAIN AREAS IN SOUTHERN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250208131229/Cold-9.png"
         }
       ]
     },
@@ -517,6 +522,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67ac08958084700001135835",
+          "author": "Joseph Ziegler",
+          "description": "February 11, 2025",
+          "link": "https://www.roseburgscanner.com/north-medford-high-school-gym-roof-collapses-under-heavy-snow-no-injuries-reported/",
+          "publishedOn": "2025-02-12T02:37:23.000Z",
+          "wordCount": 1432,
+          "title": "North Medford High School Gym Roof Collapses Under Heavy Snow; No Injuries Reported",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/collapse1.webp"
+        },
         {
           "id": "67ab5f758084700001135731",
           "author": "Joseph Ziegler",
