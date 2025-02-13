@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129539",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2025/02/13/mike-winters-lawn-and-garden-show-2-12-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-2-12-25",
+          "publishedOn": "2025-02-13T01:06:08.000Z",
+          "wordCount": 1518,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 2.12.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250213000456/MWLGS-2-12-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129531",
           "author": "Kyle Bailey",
           "description": "Myrtle Creek City Administrator Lonnie Rainville and Mayor Matthew Hald talk about the Imagine Myrtle Creek effort, and public input opportunities that are coming soon.",
@@ -569,16 +584,6 @@
           "wordCount": 1760,
           "title": "PITCH NIGHT LINEUP FOR MARCH 6TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210756/PitchNight_Logo-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129387",
-          "author": "Kyle Bailey",
-          "description": "February 9, 2025 6:10 a.m. The United Community Action Network’s Roseburg Warming Center has been activated for Sunday night. Warm meals, shelter and resources will be available in the gymnasium of St. Joseph Catholic Church at 630 West Stanton Street in Roseburg. Check-in Sunday evening is from 6:00 p.m. to 9:00 p.m. Check-out is Monday...",
-          "link": "https://kqennewsradio.com/2025/02/09/roseburg-warming-center-activated-for-sunday-night-2/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-warming-center-activated-for-sunday-night-2",
-          "publishedOn": "2025-02-09T14:11:12.000Z",
-          "wordCount": 1520,
-          "title": "ROSEBURG WARMING CENTER ACTIVATED FOR SUNDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250209131101/SunACT.jpg.jpeg"
         }
       ]
     },
