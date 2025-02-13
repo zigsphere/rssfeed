@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-13T19:09:43.161Z</updated>
+    <updated>2025-02-13T23:11:36.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.13.25]]></title>
+        <id>https://kqennewsradio.com/?p=129597</id>
+        <link href="https://kqennewsradio.com/2025/02/13/inside-douglas-county-2-13-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-13-25"/>
+        <updated>2025-02-13T21:11:34.000Z</updated>
+        <summary type="html"><![CDATA[A two-segment program with United Community Action Network Home Visiting Nurse Program Manager Elise Hansen and Umpqua Valley Arts Exhibitions & Programs Coordinator Ashley Cluver.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police bit by Sutherlin suspect's dog during man's arrest]]></title>
+        <id>67ae5b7a8084700001135ace</id>
+        <link href="https://www.roseburgscanner.com/police-bit-by-sutherlin-suspects-dog-during-mans-arrest/"/>
+        <updated>2025-02-13T20:55:14.000Z</updated>
+        <summary type="html"><![CDATA[February 13, 2025]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN AFTER PHYSICAL STRUGGLE WITH OFFICERS]]></title>
         <id>https://kqennewsradio.com/?p=129595</id>

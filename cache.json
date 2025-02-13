@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129597",
+          "author": "Kyle Bailey",
+          "description": "A two-segment program with United Community Action Network Home Visiting Nurse Program Manager Elise Hansen and Umpqua Valley Arts Exhibitions & Programs Coordinator Ashley Cluver.",
+          "link": "https://kqennewsradio.com/2025/02/13/inside-douglas-county-2-13-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-13-25",
+          "publishedOn": "2025-02-13T21:11:34.000Z",
+          "wordCount": 1525,
+          "title": "INSIDE DOUGLAS COUNTY 2.13.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250213200901/IDC-2-13-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250213201106/IMG_6146.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129595",
           "author": "Kyle Bailey",
           "description": "February 13, 2025 10:40 a.m.  Sutherlin Police jailed a man after a resisting arrest incident on Wednesday night. Police Chief Troy Mills said at approximately 6:10 p.m. two SPD officers responded after a caller said there was illegal camping in the area of Southside Road and Forest Heights Street. Mills said upon arrival, officers contacted...",
@@ -857,6 +872,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67ae5b7a8084700001135ace",
+          "author": "Joseph Ziegler",
+          "description": "February 13, 2025",
+          "link": "https://www.roseburgscanner.com/police-bit-by-sutherlin-suspects-dog-during-mans-arrest/",
+          "publishedOn": "2025-02-13T20:55:14.000Z",
+          "wordCount": 1129,
+          "title": "Police bit by Sutherlin suspect's dog during man's arrest",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/police_lights.webp"
+        },
         {
           "id": "67ae052880847000011359a8",
           "author": "Joseph Ziegler",
