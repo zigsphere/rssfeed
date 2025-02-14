@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-13T23:11:36.040Z</updated>
+    <updated>2025-02-14T02:42:25.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Charter School Announces Closure Due to Illness and Staff Shortages]]></title>
+        <id>67ae95588084700001135b00</id>
+        <link href="https://www.roseburgscanner.com/phoenix-charter-school-announces-closure-due-to-illness/"/>
+        <updated>2025-02-14T01:03:06.000Z</updated>
+        <summary type="html"><![CDATA[February 13, 2025]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crater Lake Snow Depth Reaches 132 Inches, More Snow Expected Soon]]></title>
+        <id>67ae843d8084700001135ae4</id>
+        <link href="https://www.roseburgscanner.com/crater-lake-snow-depth-reaches-132-inches-more-snow-expected-soon/"/>
+        <updated>2025-02-14T00:13:21.000Z</updated>
+        <summary type="html"><![CDATA[February 13, 2025]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.13.25]]></title>
         <id>https://kqennewsradio.com/?p=129597</id>
@@ -806,76 +826,6 @@ The post Oregon DFR encourages people to protect themselves against relationship
         <summary type="html"><![CDATA[Jody Morrow stood behind a table Saturday in the conference hall at the Douglas County Fairgrounds, underneath a large banner with Discover Winchester Bay sprawled across it in large letters.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COLD WEATHER ADVISORY FOR MUCH OF SOUTHERN OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=129405</id>
-        <link href="https://kqennewsradio.com/2025/02/10/cold-weather-advisory-for-much-of-southern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cold-weather-advisory-for-much-of-southern-oregon"/>
-        <updated>2025-02-10T11:56:38.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 4:00 a.m. A Cold Weather Advisory is in effect from 10:00 p.m. Monday through 9:00 a.m. Wednesday for much of southern Oregon. Forecasters at the National Weather Service said very cold temperatures ranging from 15 to 25 degrees are expected. The Advisory area includes central Douglas County and its eastern foothills, Josephine...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG WARMING CENTER ACTIVATED FOR MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=129402</id>
-        <link href="https://kqennewsradio.com/2025/02/10/roseburg-warming-center-activated-for-monday-night-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-warming-center-activated-for-monday-night-2"/>
-        <updated>2025-02-10T11:42:38.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 3:50 a.m. The United Community Action Network’s Roseburg Warming Center has been activated for Monday night. Warm meals, shelter and resources will be available. The center has moved to a temporary location at the James D. Myers Activity Center at 990 West Stanton Street. Check in is Monday evening from 6:00 p.m....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL TO CONSIDER SUNSHINE PARK EXPANSION]]></title>
-        <id>https://kqennewsradio.com/?p=129400</id>
-        <link href="https://kqennewsradio.com/2025/02/10/roseburg-city-council-to-consider-sunshine-park-expansion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-to-consider-sunshine-park-expansion"/>
-        <updated>2025-02-10T11:34:22.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 3:40 a.m. The Roseburg City Council will consider the Sunshine Park Urban Growth Boundary expansion as part of its meeting Monday night. City staff are proposing to expand the UGB by adjusting the boundary to include just under 50 acres of Sunshine Park property on the eastern side of the park. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEWART PARK DRIVE BRIDGE HAS CLOSED FOR REHABILITATION]]></title>
-        <id>https://kqennewsradio.com/?p=129398</id>
-        <link href="https://kqennewsradio.com/2025/02/10/stewart-park-drive-bridge-has-closed-for-rehabilitation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stewart-park-drive-bridge-has-closed-for-rehabilitation"/>
-        <updated>2025-02-10T11:26:54.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 3:30 a.m. The Stewart Park Drive Bridge in Roseburg has closed for rehabilitation work. A city release said the Great Depression-era steel truss bridge is closed to vehicular traffic over the South Umpqua River until early November. The structure is one of the smallest steel truss cantilever bridges in the country. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINDY COVE CRAB & FISHING DOCK HAS RE-OPENED]]></title>
-        <id>https://kqennewsradio.com/?p=129394</id>
-        <link href="https://kqennewsradio.com/2025/02/10/windy-cove-crab-fishing-dock-has-re-opened/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=windy-cove-crab-fishing-dock-has-re-opened"/>
-        <updated>2025-02-10T11:20:16.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 3:20 a.m.  Covering coastal Douglas County: The Douglas County Parks Department has announced that the Windy Cove Crab and Fishing Dock on Salmon Harbor Drive in Winchester Bay has re-opened. A county release said the crab dock, considered to be a beloved coastal recreation destination, has undergone extensive repairs after suffering structural...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REPRESENTATIVE OSBORNE: INFORMATION ON WILDFIRE MAPPING]]></title>
-        <id>https://kqennewsradio.com/?p=129392</id>
-        <link href="https://kqennewsradio.com/2025/02/10/representative-osborne-information-on-wildfire-mapping/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=representative-osborne-information-on-wildfire-mapping"/>
-        <updated>2025-02-10T11:15:44.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 3:05 a.m. State Representative Virgle Osborne has released information on wildfire mapping and has announced an upcoming town hall event. A release from Osborne said in 2021, the Oregon State Legislature passed SB 762, a bill centered around improving and modernizing Oregon’s wildfire readiness. One product of the legislation is the wildfire...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITCH NIGHT LINEUP FOR MARCH 6TH]]></title>
-        <id>https://kqennewsradio.com/?p=129390</id>
-        <link href="https://kqennewsradio.com/2025/02/10/pitch-night-lineup-for-march-6th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pitch-night-lineup-for-march-6th"/>
-        <updated>2025-02-10T11:13:01.000Z</updated>
-        <summary type="html"><![CDATA[February 10, 2025 2:50 a.m. The Umpqua Economic Development Partnership Pitch Night committee has selected the six small business owners who will take the stage at the first Pitch Night event of 2025. A Partnership release said the contestants will take turns at the mic on Thursday, March 6th at Backside Brewing in Roseburg. Each...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
