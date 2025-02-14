@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129657",
+          "author": "Kyle Bailey",
+          "description": "February 14, 2025 2:00 p.m. Detectives with the Douglas Interagency Narcotics Team arrested two people on methamphetamine charges on Thursday. DINT Commander Lieutenant Rick McArthur said detectives received information that 30-year-old Tyler Michael Jordan of Roseburg and 46-year-old Dawn Marie Boyce of Coos Bay would be in the location of Northeast Cedar Street in Roseburg...",
+          "link": "https://kqennewsradio.com/2025/02/14/dint-arrests-two-on-methamphetamine-charges/?utm_source=rss&utm_medium=rss&utm_campaign=dint-arrests-two-on-methamphetamine-charges",
+          "publishedOn": "2025-02-14T22:02:41.000Z",
+          "wordCount": 1618,
+          "title": "DINT ARRESTS TWO ON METHAMPHETAMINE CHARGES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129652",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osborne talks about concerns he has regarding a new wildfire map, and a meeting he is hosting from 4:00 p.m. to 6:00 p.m. Saturday at the Douglas County Fairgrounds",
+          "link": "https://kqennewsradio.com/2025/02/14/inside-douglas-county-2-14-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-14-25",
+          "publishedOn": "2025-02-14T21:13:50.000Z",
+          "wordCount": 1527,
+          "title": "INSIDE DOUGLAS COUNTY 2.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250214200954/IDC-2-14-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250214201335/Virg.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129650",
           "author": "Kyle Bailey",
           "description": "February 14, 2025 10:50 a.m. A Roseburg area woman was jailed for an alleged assault incident on Thursday night. A Douglas County Sherriff’s Office report said at 10:00 p.m. the 40-year-old came home allegedly extremely intoxicated and started tearing up the house in the 4000 block of Hanna Street in Green. She reportedly began throwing...",
@@ -798,6 +823,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/707b5a9c-e811-11ef-843a-9740577a8e07",
+          "author": "Staff Writer The News-Review",
+          "description": "Myrtle Creek, Oregon is embarking on a community-driven revitalization effort to shape a long-term vision for the city’s future. City officials are seeking input from residents, businesses, and landowners to develop a strategic success plan that will guide the town’s…",
+          "link": "https://www.nrtoday.com/news/myrtle-creek-launches-community-revitalization-project/article_707b5a9c-e811-11ef-843a-9740577a8e07.html",
+          "publishedOn": "2025-02-14T00:45:00.000Z",
+          "wordCount": 13629,
+          "title": "Myrtle Creek launches community revitalization project",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/5a/75af7dac-e813-11ef-82fa-635b4e70a39a/67aaa135da53b.image.jpg?resize=300%2C200",
+            "length": "254699",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/5a/75af7dac-e813-11ef-82fa-635b4e70a39a/67aaa135da53b.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/61e3ee56-e977-11ef-96c2-1be76a08104d",
           "author": "GLORIA COLEMAN The News-Review",
