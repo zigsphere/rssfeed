@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129659",
+          "author": "Kyle Bailey",
+          "description": "February 15, 2025 6:00 a.m. A Winter Storm Warning is in effect from 10:00 p.m. Saturday through 10:00 a.m. Monday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected. Total snow accumulations of between 6 and 12 inches, with local amounts up to 17 inches...",
+          "link": "https://kqennewsradio.com/2025/02/15/winter-storm-warning-1000-pm-saturday-through-1000-a-m-monday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-warning-1000-pm-saturday-through-1000-a-m-monday",
+          "publishedOn": "2025-02-15T13:56:15.000Z",
+          "wordCount": 1634,
+          "title": "WINTER STORM WARNING 10:00 PM. SATURDAY THROUGH 10:00 A.M. MONDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250215125605/satstorm.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129657",
           "author": "Kyle Bailey",
           "description": "February 14, 2025 2:00 p.m. Detectives with the Douglas Interagency Narcotics Team arrested two people on methamphetamine charges on Thursday. DINT Commander Lieutenant Rick McArthur said detectives received information that 30-year-old Tyler Michael Jordan of Roseburg and 46-year-old Dawn Marie Boyce of Coos Bay would be in the location of Northeast Cedar Street in Roseburg...",
@@ -614,21 +624,6 @@
           "wordCount": 1692,
           "title": "WYDEN INTRODUCES BIPARTISAN BILL TO PROTECT BEACHES IN OREGON",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129484",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
-          "link": "https://kqennewsradio.com/2025/02/12/true-wealth-2-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-2-11-25",
-          "publishedOn": "2025-02-12T01:37:28.000Z",
-          "wordCount": 1506,
-          "title": "TRUE WEALTH 2.11.25",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250212002437/TWR-2-11-25.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },
@@ -677,21 +672,6 @@
           "wordCount": 15011,
           "title": "Douglas County closes offices Monday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/226fb59a-e8bc-11ef-9a5c-a7b0241df9dc",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINSTON — Watson the reticulated giraffe will make his debut at Wildlife Safari soon as he continues to acclimate to his new surroundings.",
-          "link": "https://www.nrtoday.com/news/environment/watson-the-giraffe-joins-wildlife-safari/article_226fb59a-e8bc-11ef-9a5c-a7b0241df9dc.html",
-          "publishedOn": "2025-02-11T21:06:00.000Z",
-          "wordCount": 14885,
-          "title": "Watson the giraffe joins Wildlife Safari",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/a5/5a55b24c-e8f4-11ef-a9c0-1bca32f3037d/67ac1a45ae52f.image.jpg?resize=300%2C200",
-            "length": "454653",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/a5/5a55b24c-e8f4-11ef-a9c0-1bca32f3037d/67ac1a45ae52f.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -795,16 +775,6 @@
           "wordCount": 1447,
           "title": "South Umpqua High School Closes Temporarily Due to Fast-Moving Illness",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/south_umpqua_school.jpg"
-        },
-        {
-          "id": "67ac08958084700001135835",
-          "author": "Joseph Ziegler",
-          "description": "February 11, 2025",
-          "link": "https://www.roseburgscanner.com/north-medford-high-school-gym-roof-collapses-under-heavy-snow-no-injuries-reported/",
-          "publishedOn": "2025-02-12T02:37:23.000Z",
-          "wordCount": 1432,
-          "title": "North Medford High School Gym Roof Collapses Under Heavy Snow; No Injuries Reported",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/collapse1.webp"
         }
       ]
     }

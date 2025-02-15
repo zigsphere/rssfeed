@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-15T13:13:28.291Z</updated>
+    <updated>2025-02-15T16:12:53.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINTER STORM WARNING 10:00 PM. SATURDAY THROUGH 10:00 A.M. MONDAY]]></title>
+        <id>https://kqennewsradio.com/?p=129659</id>
+        <link href="https://kqennewsradio.com/2025/02/15/winter-storm-warning-1000-pm-saturday-through-1000-a-m-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-storm-warning-1000-pm-saturday-through-1000-a-m-monday"/>
+        <updated>2025-02-15T13:56:15.000Z</updated>
+        <summary type="html"><![CDATA[February 15, 2025 6:00 a.m. A Winter Storm Warning is in effect from 10:00 p.m. Saturday through 10:00 a.m. Monday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is expected. Total snow accumulations of between 6 and 12 inches, with local amounts up to 17 inches...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DINT ARRESTS TWO ON METHAMPHETAMINE CHARGES]]></title>
         <id>https://kqennewsradio.com/?p=129657</id>
@@ -695,36 +705,6 @@ By]]></summary>
         <summary type="html"><![CDATA[Tri City, Ore. — South Umpqua High School has announced a temporary closure for the remainder of the week after a fast-moving illness swept through the school, leaving more than 50% of students absent with flu-like symptoms. The decision, made in consultation with Douglas County Public Health, aims to]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Medford High School Gym Roof Collapses Under Heavy Snow; No Injuries Reported]]></title>
-        <id>67ac08958084700001135835</id>
-        <link href="https://www.roseburgscanner.com/north-medford-high-school-gym-roof-collapses-under-heavy-snow-no-injuries-reported/"/>
-        <updated>2025-02-12T02:37:23.000Z</updated>
-        <summary type="html"><![CDATA[February 11, 2025]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 2.11.25]]></title>
-        <id>https://kqennewsradio.com/?p=129484</id>
-        <link href="https://kqennewsradio.com/2025/02/12/true-wealth-2-11-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-2-11-25"/>
-        <updated>2025-02-12T01:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watson the giraffe joins Wildlife Safari]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/226fb59a-e8bc-11ef-9a5c-a7b0241df9dc</id>
-        <link href="https://www.nrtoday.com/news/environment/watson-the-giraffe-joins-wildlife-safari/article_226fb59a-e8bc-11ef-9a5c-a7b0241df9dc.html"/>
-        <updated>2025-02-11T21:06:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — Watson the reticulated giraffe will make his debut at Wildlife Safari soon as he continues to acclimate to his new surroundings.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
