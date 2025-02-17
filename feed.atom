@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-17T19:10:12.774Z</updated>
+    <updated>2025-02-17T23:11:16.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.17.25]]></title>
+        <id>https://kqennewsradio.com/?p=129712</id>
+        <link href="https://kqennewsradio.com/2025/02/17/inside-douglas-county-2-17-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-17-25"/>
+        <updated>2025-02-17T21:11:54.000Z</updated>
+        <summary type="html"><![CDATA[State Senator David Brock Smith joins us live from Salem for an update on the Wildfire Hazard Map issue.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR KOTEK PAUSES WILDFIRE HAZARD MAP APPEALS REFERRALS]]></title>
         <id>https://kqennewsradio.com/?p=129706</id>
@@ -382,26 +392,6 @@
         <link href="https://kqennewsradio.com/2025/02/14/celebration-of-literacy-dive-into-books-event-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=celebration-of-literacy-dive-into-books-event-saturday"/>
         <updated>2025-02-14T11:12:12.000Z</updated>
         <summary type="html"><![CDATA[February 14, 2025 3:20 a.m. Celebration of Literacy has its signature event on Saturday at Wildlife Safari. Dive into Books will take place from 10:00 a.m. to 3:00 p.m. in the Safari Village. The game park opens at 9:00 a.m. All vehicles with Douglas County children will be given free entry to the drive through....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE FISHING DAYS SATURDAY AND SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=129604</id>
-        <link href="https://kqennewsradio.com/2025/02/14/free-fishing-days-saturday-and-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-fishing-days-saturday-and-sunday"/>
-        <updated>2025-02-14T11:09:34.000Z</updated>
-        <summary type="html"><![CDATA[February 14, 2025 3:05 a.m. The Oregon Department of Fish and Wildlife is offering free fishing days in Oregon this weekend, in honor of President’s Day on Monday. No license will be required to fish, clam or crab this weekend. Area closures, bag limits and all other regulations will still apply. ODFW encourages those participating...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCAN BEGINS NEW NURSE HOME VISITING SERVICE]]></title>
-        <id>https://kqennewsradio.com/?p=129602</id>
-        <link href="https://kqennewsradio.com/2025/02/14/ucan-begins-new-nurse-home-visiting-service/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucan-begins-new-nurse-home-visiting-service"/>
-        <updated>2025-02-14T11:06:19.000Z</updated>
-        <summary type="html"><![CDATA[February 14, 2025 2:50 a.m. The United Community Action Network has begun a new nurse home visiting service, available to all Douglas County newborns. A UCAN release said the non-profit is increasing its capacity to improve health outcomes for families with newborns by launching Family Connects Oregon. It is a free voluntary, evidence-based program which...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

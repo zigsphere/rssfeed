@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129712",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith joins us live from Salem for an update on the Wildfire Hazard Map issue.",
+          "link": "https://kqennewsradio.com/2025/02/17/inside-douglas-county-2-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-17-25",
+          "publishedOn": "2025-02-17T21:11:54.000Z",
+          "wordCount": 1521,
+          "title": "INSIDE DOUGLAS COUNTY 2.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250217200838/IDC-2-17-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129706",
           "author": "Kyle Bailey",
           "description": "February 17, 2025 11:00 a.m.   On Monday, Governor Tina Kotek directed the Oregon Department of Forestry to continue to accept all appeals of the Oregon State Wildfire Hazard Map to the March 10th deadline, but to pause on referring these appeals to Office of Administrative Hearings until after the legislative session concludes. The session must...",
@@ -374,26 +389,6 @@
           "wordCount": 1622,
           "title": "CELEBRATION OF LITERACY DIVE INTO BOOKS EVENT SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250208131133/col-3.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129604",
-          "author": "Kyle Bailey",
-          "description": "February 14, 2025 3:05 a.m. The Oregon Department of Fish and Wildlife is offering free fishing days in Oregon this weekend, in honor of President’s Day on Monday. No license will be required to fish, clam or crab this weekend. Area closures, bag limits and all other regulations will still apply. ODFW encourages those participating...",
-          "link": "https://kqennewsradio.com/2025/02/14/free-fishing-days-saturday-and-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=free-fishing-days-saturday-and-sunday",
-          "publishedOn": "2025-02-14T11:09:34.000Z",
-          "wordCount": 1544,
-          "title": "FREE FISHING DAYS SATURDAY AND SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129602",
-          "author": "Kyle Bailey",
-          "description": "February 14, 2025 2:50 a.m. The United Community Action Network has begun a new nurse home visiting service, available to all Douglas County newborns. A UCAN release said the non-profit is increasing its capacity to improve health outcomes for families with newborns by launching Family Connects Oregon. It is a free voluntary, evidence-based program which...",
-          "link": "https://kqennewsradio.com/2025/02/14/ucan-begins-new-nurse-home-visiting-service/?utm_source=rss&utm_medium=rss&utm_campaign=ucan-begins-new-nurse-home-visiting-service",
-          "publishedOn": "2025-02-14T11:06:19.000Z",
-          "wordCount": 1716,
-          "title": "UCAN BEGINS NEW NURSE HOME VISITING SERVICE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250213201046/IMG_6143.jpg"
         }
       ]
     },
