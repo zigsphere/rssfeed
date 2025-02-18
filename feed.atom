@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-18T19:10:06.477Z</updated>
+    <updated>2025-02-18T23:11:43.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.18.25]]></title>
+        <id>https://kqennewsradio.com/?p=129755</id>
+        <link href="https://kqennewsradio.com/2025/02/18/inside-douglas-county-2-18-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-18-25"/>
+        <updated>2025-02-18T21:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Commissioner Chris Boice provides an update on the county’s park system, and the changes that have been made in the last decade.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED HARASSMENT INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=129753</id>
@@ -42,6 +52,16 @@
         <link href="https://kqennewsradio.com/2025/02/18/roseburg-police-jail-man-following-reported-disturbance-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-reported-disturbance-5"/>
         <updated>2025-02-18T18:21:40.000Z</updated>
         <summary type="html"><![CDATA[February 18, 2205 10:20 a.m.  Roseburg Police jailed a man following a reported disturbance on Saturday. An RPD report said just before 1:00 p.m. officers contacted a woman regarding an alleged incident in the 1400 block of Northwest Veterans Way, on the Roseburg VA Campus. The disturbance involved a person she was in a relationship...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL ONE, CITE TWO FOLLOWING ALLEGED ASSAULT INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=129745</id>
+        <link href="https://kqennewsradio.com/2025/02/18/roseburg-police-jail-one-cite-two-following-alleged-assault-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-one-cite-two-following-alleged-assault-incident"/>
+        <updated>2025-02-18T18:12:32.000Z</updated>
+        <summary type="html"><![CDATA[February 18, 2205 10:00 a.m.  Roseburg Police jailed one person and cited two people following an alleged assault incident on Saturday night. An RPD report said at 11:00 p.m. officers responded to a fight involving multiple people in the 2000 block of Northeast Stephens Street. Officers learned that two 22-year-old men agreed to fight outside...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
