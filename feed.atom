@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-19T13:19:13.140Z</updated>
+    <updated>2025-02-19T16:15:14.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[February 19, 2025]]></title>
+        <id>67b5ead38084700001135ec1</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-19-2025/"/>
+        <updated>2025-02-19T14:46:37.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOUSE IN WINSTON SUFFERS SIGNIFICANT DAMAGE]]></title>
+        <id>https://kqennewsradio.com/?p=129787</id>
+        <link href="https://kqennewsradio.com/2025/02/19/house-in-winston-suffers-significant-damage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=house-in-winston-suffers-significant-damage"/>
+        <updated>2025-02-19T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[February 19, 2025 5:20 a.m. A house in Winston suffered significant damage in an early morning fire on Wednesday. Battalion Chief Mitch Doss of Central Douglas Fire & Rescue said just before 1:25 a.m. crews were dispatched to the structure fire on Twin Oaks Loop. Doss said initial reports indicated that the structure was on...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WARNING FOR MOUNTAIN AREAS IN SOUTHERN OREGON]]></title>
         <id>https://kqennewsradio.com/?p=129783</id>
