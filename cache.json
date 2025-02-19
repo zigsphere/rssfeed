@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129808",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Schools Superintendent Jared Cordon talks about a unique partnership they are beginning with Umpqua Community College.’",
+          "link": "https://kqennewsradio.com/2025/02/19/inside-douglas-county-2-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-19-25",
+          "publishedOn": "2025-02-19T21:25:33.000Z",
+          "wordCount": 1517,
+          "title": "INSIDE DOUGLAS COUNTY 2.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250219201912/IDC-02-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250219202500/jared-5-e1740000316438.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129805",
           "author": "Kyle Bailey",
           "description": "February 19, 2025 10:40 a.m.  Roseburg Police cited a woman for offensive littering and prohibited camping on Wednesday morning. An RPD report said at 5:20 a.m. the 34-year-old was contacted at her camp in Gaddis Park in the 800 block of Northwest Highland Street because she was camping in a restricted area and had trash...",
@@ -639,7 +654,18 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8654",
+          "author": "Jim Teece",
+          "description": "It’s not like 2024 anymore…. In December 2024, one assessment of what to expect for 2025 stated that 2025 would likely resemble 2024, should the U.S. economy not crater and nukes don’t fly. With January not quite complete it is safe to say that the initial assessments of 2025 were wrong and that this is…\nThe post Welcome to the New Year! appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/welcome-to-the-new-year/",
+          "publishedOn": "2025-02-19T19:23:14.000Z",
+          "wordCount": 3209,
+          "title": "Welcome to the New Year!",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/02/DALL·E-2025-02-19-11.28.09-An-ink-wash-painting-of-a-small-business-owner-in-a-cozy-coffee-shop-using-tools-to-track-key-performance-indicators-KPIs-and-manage-risk.-The-owne.webp"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
