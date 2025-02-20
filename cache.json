@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129816",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2025/02/20/mike-winters-lawn-and-garden-show-2-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-2-19-25",
+          "publishedOn": "2025-02-20T01:06:22.000Z",
+          "wordCount": 1518,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 2.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250220000503/MWLGS-2-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240612233938/Mike3.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129812",
+          "author": "Kyle Bailey",
+          "description": "February 19, 2025 3:20 p.m.  n the KQEN Business Spotlight: Elmer’s Restaurant has announced it is returning to the Roseburg community in a new location and will be known as Elmer’s Kitchen Breakfast – Brunch – Mimosas, later this year. A company release said the new site will be at 3030 Northwest Aviation Drive and...",
+          "link": "https://kqennewsradio.com/2025/02/19/elmers-restaurant-returning-to-roseburg-with-new-location/?utm_source=rss&utm_medium=rss&utm_campaign=elmers-restaurant-returning-to-roseburg-with-new-location",
+          "publishedOn": "2025-02-19T23:20:59.000Z",
+          "wordCount": 1758,
+          "title": "ELMER’S RESTAURANT RETURNING TO ROSEBURG WITH NEW LOCATION",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250219222034/elmers2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129808",
           "author": "Kyle Bailey",
           "description": "Roseburg Public Schools Superintendent Jared Cordon talks about a unique partnership they are beginning with Umpqua Community College.’",
@@ -672,6 +697,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67b6691c8084700001135fba",
+          "author": "Joseph Ziegler",
+          "description": "Elmer’s is returning to Roseburg with a new location at 3030 Northwest Aviation Drive, offering breakfast, brunch, and mimosas. The 4,950 sq. ft. restaurant will feature fan favorites and create 30-40 new jobs. The grand opening is set for late spring or early summer.",
+          "link": "https://www.roseburgscanner.com/elmers-restaurant-returning-to-roseburg-with-new-location/",
+          "publishedOn": "2025-02-19T23:30:23.000Z",
+          "wordCount": 1279,
+          "title": "Elmer’s Returns to Roseburg with New Breakfast & Brunch Location",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/Elmers1.jpg"
+        },
         {
           "id": "67b5ead38084700001135ec1",
           "author": "Joseph Ziegler",
