@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129864",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Virgle Osborne covers an idea regarding the Winchester Dam, talks about wildfire mapping, the impacts from wildfire smoke, changes in federal funding to the state, and several other topics",
+          "link": "https://kqennewsradio.com/2025/02/20/inside-douglas-county-2-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-20-25",
+          "publishedOn": "2025-02-20T21:11:37.000Z",
+          "wordCount": 1535,
+          "title": "INSIDE DOUGLAS COUNTY 2.20.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250220200812/IDC-5-20-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129862",
+          "author": "Kyle Bailey",
+          "description": "February 20, 2025 11:10 a.m. On Thursday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden, along with Massachusetts’ Senator Edward Markey pushed U.S. Transportation Secretary Sean Duffy to stop the mass layoffs and firing of essential transportation safety employees. A joint release said the lawmakers are demanding that the Department of Transportation release information regarding...",
+          "link": "https://kqennewsradio.com/2025/02/20/merkley-wyden-colleagues-call-for-halt-to-mass-layoffs/?utm_source=rss&utm_medium=rss&utm_campaign=merkley-wyden-colleagues-call-for-halt-to-mass-layoffs",
+          "publishedOn": "2025-02-20T19:11:47.000Z",
+          "wordCount": 1661,
+          "title": "MERKLEY, WYDEN, COLLEAGUES CALL FOR HALT TO MASS LAYOFFS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129860",
           "author": "Kyle Bailey",
           "description": "February 20, 2025 10:40 a.m.  Sutherlin Police jailed a man for a warrant after locating him on Wednesday. An SPD report said at approximately 5:45 p.m. the 20-year-old was located at a business in the 1000 block of West Central Avenue. Suspected methamphetamine and fentanyl were reportedly found on his person. He was jailed for...",
@@ -739,16 +764,6 @@
           "wordCount": 1557,
           "title": "HUMAN TRAFFICKING TASK FORCE WITH DOCUMENTRY ON THURSDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250217101310/Be-the-One-Logo-Banner.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129668",
-          "author": "Kyle Bailey",
-          "description": "February 17, 2025 2:50 a.m. The Oregon State University Extension Service will host a one-day workshop about the soils in Douglas County in March. The event is for youth ages 9-19 and will be held from 11:00 a.m. to 12:30 p.m. at the OSU Discovery Garden on River Forks Park Road, northwest of Roseburg. The...",
-          "link": "https://kqennewsradio.com/2025/02/17/extension-service-with-soils-workshop-in-march/?utm_source=rss&utm_medium=rss&utm_campaign=extension-service-with-soils-workshop-in-march",
-          "publishedOn": "2025-02-17T11:02:49.000Z",
-          "wordCount": 1565,
-          "title": "EXTENSION SERVICE WITH SOILS WORKSHOP IN MARCH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },
