@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129925",
+          "author": "Kyle Bailey",
+          "description": "February 21, 2025 2:45 p.m.  A semi-driver was hospitalized after his vehicle crashed on Thursday evening. An Oregon State Police report said shortly after 5:00 p.m. troopers responded to the commercial motor vehicle accident on Highway 38 in the Scottsburg area, 14 miles east of Reedsport.  An eastbound tractor trailer failed to maintain the lane...",
+          "link": "https://kqennewsradio.com/2025/02/21/semi-driver-hospitalized-after-vehicle-goes-over-embankment/?utm_source=rss&utm_medium=rss&utm_campaign=semi-driver-hospitalized-after-vehicle-goes-over-embankment",
+          "publishedOn": "2025-02-21T22:45:21.000Z",
+          "wordCount": 1595,
+          "title": "SEMI DRIVER HOSPITALIZED AFTER VEHICLE GOES OVER EMBANKMENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129917",
+          "author": "Kyle Bailey",
+          "description": "In this two segment program, Umpqua Actor’s Community Theatre Executive Director Melanie Schwegel talks about their current production and their summer musical.  Then Umpqua Valley Homebuilder’s Association Executive Officer Dana Lepre talks about next weekend’s Home and Garden Show at the fairgrounds.",
+          "link": "https://kqennewsradio.com/2025/02/21/inside-douglas-county-2-21-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-21-25",
+          "publishedOn": "2025-02-21T21:19:35.000Z",
+          "wordCount": 1541,
+          "title": "INSIDE DOUGLAS COUNTY 2.21.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250221200831/IDC-2-21-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250221201419/Melanie-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129915",
           "author": "Kyle Bailey",
           "description": "February 21, 2025 11:00 a.m.  Roseburg Police cited a man for littering near a waterway and for prohibited camping on Thursday. An RPD report said shortly after 11:00 a.m. the 41-year-old was contacted in the 200 block of Southeast Jackson Street. He was found amongst a large pile of garbage that was under the Jackson...",
@@ -754,26 +779,6 @@
           "wordCount": 1610,
           "title": "UACT ANNOUNCES ITS SUMMER MUSICAL",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250218101251/UACT-2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129719",
-          "author": "Kyle Bailey",
-          "description": "February 18, 2025 3:05 a.m. The Roseburg High School band program is hosting its annual Band Bingo Night and Dessert Dash on Thursday, February 20th. The event will be held in the RHS Student Center. Doors open at 6:00 p.m. for card sales, with the first numbers called at 6:30 p.m. The evening will wrap...",
-          "link": "https://kqennewsradio.com/2025/02/18/rhs-band-bingo-night-dessert-dash/?utm_source=rss&utm_medium=rss&utm_campaign=rhs-band-bingo-night-dessert-dash",
-          "publishedOn": "2025-02-18T11:08:43.000Z",
-          "wordCount": 1585,
-          "title": "RHS BAND BINGO NIGHT & DESSERT DASH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250218100832/Dash.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129717",
-          "author": "Kyle Bailey",
-          "description": "February 18, 2025 2:50 a.m. The Zonta Club of Roseburg and Umpqua Community College are teaming up as part of Zonta’s Double Donation Drive. Those attending the UCC women’s basketball game this Saturday, February 22nd are urged to clean their closets, bag their unused clothing and drop it off when they come to the game...",
-          "link": "https://kqennewsradio.com/2025/02/18/zonta-and-ucc-team-up-during-double-donation-drive/?utm_source=rss&utm_medium=rss&utm_campaign=zonta-and-ucc-team-up-during-double-donation-drive",
-          "publishedOn": "2025-02-18T11:05:49.000Z",
-          "wordCount": 1653,
-          "title": "ZONTA AND UCC TEAM UP DURING DOUBLE DONATION DRIVE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
