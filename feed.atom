@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-22T13:14:16.630Z</updated>
+    <updated>2025-02-22T16:12:34.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MYRTLE CREEK MAN TAKEN TO HOSPITAL FOLLOWING MOTORCYCLE WRECK]]></title>
+        <id>https://kqennewsradio.com/?p=129927</id>
+        <link href="https://kqennewsradio.com/2025/02/22/myrtle-creek-man-taken-to-hospital-following-motorcycle-wreck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-man-taken-to-hospital-following-motorcycle-wreck"/>
+        <updated>2025-02-22T14:50:53.000Z</updated>
+        <summary type="html"><![CDATA[February 22, 2025 6:50 a.m. A Myrtle Creek man was taken to the hospital following a motorcycle wreck on Thursday. A Douglas County Sheriff’s Office report said at 5:35 p.m. a motorcycle was westbound in the 2000 block of Gazley Road in the Myrtle Creek area, traveling at approximately 40 miles per hour. The rider...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEMI DRIVER HOSPITALIZED AFTER VEHICLE GOES OVER EMBANKMENT]]></title>
         <id>https://kqennewsradio.com/?p=129925</id>
@@ -625,16 +635,6 @@ The post Welcome to the New Year! appeared first on Southern Oregon Business Jou
         <summary type="html"><![CDATA[Two individuals were recovered after an avalanche on Trail 8 in Deschutes County. Officials warn of continued avalanche danger in the Central Cascades. Sheriff Kent van der Kamp extends condolences to the families as investigations continue. Public urged to check safety advisories.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 2.18.25]]></title>
-        <id>https://kqennewsradio.com/?p=129766</id>
-        <link href="https://kqennewsradio.com/2025/02/19/true-wealth-2-18-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-2-18-25"/>
-        <updated>2025-02-19T01:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
