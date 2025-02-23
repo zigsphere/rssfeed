@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-23T16:12:42.803Z</updated>
+    <updated>2025-02-23T19:08:54.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UFA hosts presentation on hatchery production]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c0ae2ed6-efa5-11ef-906d-ef15ab4b5604</id>
+        <link href="https://www.nrtoday.com/briefs/ufa-hosts-presentation-on-hatchery-production/article_c0ae2ed6-efa5-11ef-906d-ef15ab4b5604.html"/>
+        <updated>2025-02-23T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon Department of Fish and Wildlife staff will speak at a regular meeting for the Umpqua Fishermen's Association at 6 p.m. Tuesday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MYRTLE CREEK MAN TAKEN TO HOSPITAL FOLLOWING MOTORCYCLE WRECK]]></title>
         <id>https://kqennewsradio.com/?p=129927</id>
