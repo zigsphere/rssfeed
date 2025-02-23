@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129936",
+          "author": "Kyle Bailey",
+          "description": "February 24, 2025 2:30 p.m.  Covering Coastal Douglas County: A Reedsport woman was jailed on assault and menacing charges early Sunday. A Douglas County Sheriff’s Office report said at about 12:50 a.m. a neighbor said there was a disturbance in the 7500 block of US Highway 101. When the deputy arrived, he looked through a...",
+          "link": "https://kqennewsradio.com/2025/02/23/reedsport-woman-jailed-on-felony-assult-menacing-charges/?utm_source=rss&utm_medium=rss&utm_campaign=reedsport-woman-jailed-on-felony-assult-menacing-charges",
+          "publishedOn": "2025-02-23T22:32:16.000Z",
+          "wordCount": 1618,
+          "title": "REEDSPORT WOMAN JAILED ON FELONY ASSULT/MENACING CHARGES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=129933",
+          "author": "Kyle Bailey",
+          "description": "February 23, 2025 2:00 p.m.  A Wind Advisory is in effect from 10:00 a.m. Monday through 1:00 a.m. Tuesday for much of southern Oregon. Forecasters at the National Weather Service said southwest winds of 20 to 30 miles per hour with gusts up to 50 miles per hour expected. The Advisory includes central Douglas County...",
+          "link": "https://kqennewsradio.com/2025/02/23/wind-advisory-monday-morning-through-early-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=wind-advisory-monday-morning-through-early-tuesday",
+          "publishedOn": "2025-02-23T21:56:04.000Z",
+          "wordCount": 1580,
+          "title": "WIND ADVISORY MONDAY MORNING THROUGH EARLY TUESDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250223205554/Monam-8.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129927",
           "author": "Kyle Bailey",
           "description": "February 22, 2025 6:50 a.m. A Myrtle Creek man was taken to the hospital following a motorcycle wreck on Thursday. A Douglas County Sheriff’s Office report said at 5:35 p.m. a motorcycle was westbound in the 2000 block of Gazley Road in the Myrtle Creek area, traveling at approximately 40 miles per hour. The rider...",
@@ -369,26 +389,6 @@
           "wordCount": 1668,
           "title": "RHS FOUNDATION NAMES FUTURE FIRST CITIZEN FINALISTS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220218/RHSF-Logo-final-e1618310568272.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129821",
-          "author": "Kyle Bailey",
-          "description": "February 20, 2025 3:20 a.m. Roseburg Christian Academy has an event on Monday as they seek funds to pay for new track next to the school. “Play, Dessert Auction New Track Fundraiser” will be held in the school’s gym at 7:00 p.m. The musical production, “Cheaper by the Dozen” will be presented by drama students...",
-          "link": "https://kqennewsradio.com/2025/02/20/rca-has-cheaper-by-the-dozen-fundraiser-on-monday/?utm_source=rss&utm_medium=rss&utm_campaign=rca-has-cheaper-by-the-dozen-fundraiser-on-monday",
-          "publishedOn": "2025-02-20T11:09:21.000Z",
-          "wordCount": 1594,
-          "title": "RCA HAS CHEAPER BY THE DOZEN FUNDRAISER ON MONDAY",
-          "imageUrl": "https://kqennewsradio.com/wp-content/uploads/track2.avif"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129819",
-          "author": "Kyle Bailey",
-          "description": "February 20, 2025 3:05 a.m. In the KQEN Cultural Spotlight: The Umpqua Symphony Association will have The Poulenc Trio in concert on Saturday, March 1st at 3:00 p.m. The event will be held at The Chapel at 2837 West Harvard Avenue, A pioneering oboe, bassoon and piano ensemble, the group has garnered international recognition over...",
-          "link": "https://kqennewsradio.com/2025/02/20/the-poulenc-trio-in-concert-on-march-1st/?utm_source=rss&utm_medium=rss&utm_campaign=the-poulenc-trio-in-concert-on-march-1st",
-          "publishedOn": "2025-02-20T11:04:43.000Z",
-          "wordCount": 1543,
-          "title": "THE POULENC TRIO IN CONCERT ON MARCH 1ST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250130100753/Poulenc-e1740049449331.png"
         }
       ]
     },
@@ -451,6 +451,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67bba5d38084700001136201",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg hit 65°F on February 22, making it the warmest day of 2025 so far. While warm, it didn’t break the 2002 record of 70°F. The record low for the date remains 28°F, set in 2019. Locals enjoyed the mild weather as spring approaches.",
+          "link": "https://www.roseburgscanner.com/roseburg-enjoys-warmest-day-of-2025-so-far/",
+          "publishedOn": "2025-02-23T22:51:20.000Z",
+          "wordCount": 990,
+          "title": "Roseburg Enjoys Warmest Day of 2025 So Far",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/PXL_20250102_003409739.jpg"
+        },
         {
           "id": "67b88f6c808470000113610b",
           "author": "Joseph Ziegler",
