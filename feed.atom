@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-24T19:10:09.383Z</updated>
+    <updated>2025-02-24T23:11:44.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.24.25]]></title>
+        <id>https://kqennewsradio.com/?p=129978</id>
+        <link href="https://kqennewsradio.com/2025/02/24/inside-douglas-county-2-24-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-24-25"/>
+        <updated>2025-02-24T21:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Senator David Brock Smith has an update on wildfire mapping, the budget process, the transportation package and other items]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA SINGERS AND BIG HORN JAZZ BAND WITH MARCH CONCERT]]></title>
         <id>https://kqennewsradio.com/?p=129976</id>
@@ -382,16 +392,6 @@
         <link href="https://kqennewsradio.com/2025/02/21/empower-pre-show-event-is-saturday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=empower-pre-show-event-is-saturday-night"/>
         <updated>2025-02-21T11:16:30.000Z</updated>
         <summary type="html"><![CDATA[February 21, 2025 3:05 a.m. Peace at Home Advocacy Center’s Empower Dance & Vocals Performance 2025 is happening on Saturday, March 1st at Seven Feathers Casino Resort, but a pre-show event will take place this Saturday. It will be held at the Winston Community Center on Southeast Grape Avenue at 5:00 p.m. This is an...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CHRISTIAN ACADEMY PRESENTS “CHEAPER BY THE DOZEN”]]></title>
-        <id>https://kqennewsradio.com/?p=129867</id>
-        <link href="https://kqennewsradio.com/2025/02/21/roseburg-christian-academy-presents-cheaper-by-the-dozen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-christian-academy-presents-cheaper-by-the-dozen"/>
-        <updated>2025-02-21T11:10:22.000Z</updated>
-        <summary type="html"><![CDATA[February 21, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Roseburg Christian Academy is presenting “Cheaper by the Dozen” through Monday. It is a musical adaptation by Janie Nelson and is directed by Mary Korcek. The family-friendly music is a heartwarming and humorous story about the Gilbreath family, based on a true story. The performance...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

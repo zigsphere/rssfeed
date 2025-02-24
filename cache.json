@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=129978",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith has an update on wildfire mapping, the budget process, the transportation package and other items",
+          "link": "https://kqennewsradio.com/2025/02/24/inside-douglas-county-2-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-24-25",
+          "publishedOn": "2025-02-24T21:13:52.000Z",
+          "wordCount": 1529,
+          "title": "INSIDE DOUGLAS COUNTY 2.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250224201152/IDC-02-24-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=129976",
           "author": "Kyle Bailey",
           "description": "February 24, 2025 11:05 a.m. In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents the Umpqua Singers and Big Horn Jazz Band in concert on March 12th at 7:00 p.m. at the Whipple Fine Arts Center on the UCC campus. The Umpqua Singers, directed by Dr. Jason Heald and the Big...",
@@ -364,16 +379,6 @@
           "wordCount": 1534,
           "title": "EMPOWER PRE-SHOW EVENT IS SATURDAY NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250205101419/PAH.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129867",
-          "author": "Kyle Bailey",
-          "description": "February 21, 2025 2:50 a.m. In the KQEN Cultural Spotlight: Roseburg Christian Academy is presenting “Cheaper by the Dozen” through Monday. It is a musical adaptation by Janie Nelson and is directed by Mary Korcek. The family-friendly music is a heartwarming and humorous story about the Gilbreath family, based on a true story. The performance...",
-          "link": "https://kqennewsradio.com/2025/02/21/roseburg-christian-academy-presents-cheaper-by-the-dozen/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-christian-academy-presents-cheaper-by-the-dozen",
-          "publishedOn": "2025-02-21T11:10:22.000Z",
-          "wordCount": 1581,
-          "title": "ROSEBURG CHRISTIAN ACADEMY PRESENTS “CHEAPER BY THE DOZEN”",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250220100851/Cheaper.jpg"
         }
       ]
     },
