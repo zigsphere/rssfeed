@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-25T19:10:24.573Z</updated>
+    <updated>2025-02-25T23:11:28.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.25.25.]]></title>
+        <id>https://kqennewsradio.com/?p=130030</id>
+        <link href="https://kqennewsradio.com/2025/02/25/inside-douglas-county-2-25-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-25-25"/>
+        <updated>2025-02-25T21:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Timber Operators Executive Director Matt Hill provides an update on the organization, challenges facing the timber industry, the upcoming fire season, post Archie Creek Fire recovery, the status of the Rock Creek Fish Hatchery and other related topics.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OVER 6,600 CUSTOMERS OUT OF POWER AT PEAK OF MONDAY STORM]]></title>
         <id>https://kqennewsradio.com/?p=130027</id>
