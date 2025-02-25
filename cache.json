@@ -289,6 +289,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8f4363ca-f095-11ef-b949-038d7dbfe1a2",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "This is Julissa Landeros’ first time involved with the Miss Douglas County Scholarship Program, and she is excited for the opportunity to broaden her horizons, especially in the upcoming competition.",
+          "link": "https://www.nrtoday.com/news/education/miss-douglas-county-hopefuls-prepare-for-stage-debut/article_8f4363ca-f095-11ef-b949-038d7dbfe1a2.html",
+          "publishedOn": "2025-02-25T00:00:00.000Z",
+          "wordCount": 15011,
+          "title": "Miss Douglas County hopefuls prepare for stage debut",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d9/cd9bf95c-f095-11ef-b241-bf8bfc09cad6/67b8e79e345c1.image.jpg?resize=300%2C388",
+            "length": "458297",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d9/cd9bf95c-f095-11ef-b241-bf8bfc09cad6/67b8e79e345c1.image.jpg?resize=300%2C388"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c0ae2ed6-efa5-11ef-906d-ef15ab4b5604",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Oregon Department of Fish and Wildlife staff will speak at a regular meeting for the Umpqua Fishermen's Association at 6 p.m. Tuesday.",
@@ -311,6 +326,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67bdd349808470000113637f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/february-25-2025/",
+          "publishedOn": "2025-02-25T14:44:26.000Z",
+          "wordCount": 3070,
+          "title": "February 25, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/02/The-Morning-Scoop-17.png"
+        },
         {
           "id": "67bd264b808470000113636e",
           "author": "Joseph Ziegler",
