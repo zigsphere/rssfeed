@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130035",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial Services, Dave Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/02/26/true-wealth-radio-2-25-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-2-25-25",
+          "publishedOn": "2025-02-26T01:39:42.000Z",
+          "wordCount": 1513,
+          "title": "TRUE WEALTH RADIO 2.25.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250226003740/TWR-2-25-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130030",
           "author": "Kyle Bailey",
           "description": "Douglas Timber Operators Executive Director Matt Hill provides an update on the organization, challenges facing the timber industry, the upcoming fire season, post Archie Creek Fire recovery, the status of the Rock Creek Fish Hatchery and other related topics.",
