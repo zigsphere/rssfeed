@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130136",
+          "author": "Kyle Bailey",
+          "description": "Adapt Integrated Health Care staff member Josh Vernon tells his story of strength and recovery from long-term drug use and homelessness, and talks about the path he is on now, as he celebrates two years of sobriety today.",
+          "link": "https://kqennewsradio.com/2025/02/27/inside-douglas-county-2-27-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-2-27-25",
+          "publishedOn": "2025-02-27T21:26:40.000Z",
+          "wordCount": 1541,
+          "title": "INSIDE DOUGLAS COUNTY 2.27.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250227202154/IDC-2-27-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250227202627/Josh-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130134",
           "author": "Kyle Bailey",
           "description": "February 27, 2025 11:00 a.m.   Roseburg Police jailed a man on littering and camping charges on Wednesday morning. An RPD report said at 10:20 a.m. officers contacted a 40-year-old man regarding the status of his camp at Deer Creek Park in the 200 block of Southeast Pine Street. His camp reportedly violated the time and...",
@@ -699,16 +714,6 @@
           "wordCount": 1663,
           "title": "LAW ENFORCEMENT K9 TEAMS HOLDING HOPS FOR COPS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250211102120/2025Hops-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=129938",
-          "author": "Kyle Bailey",
-          "description": "February 24, 2025 2:50 a.m. The OSU Extension Forestry and Natural Resources program and local partners will be holding a walking tour called “Goods from the Woods” on March 21st. An extension release said the event is a celebration of International Day of Forests and will provide attendees with an informative and relaxing walking tour...",
-          "link": "https://kqennewsradio.com/2025/02/24/goods-from-the-woods-tour-international-day-of-forests/?utm_source=rss&utm_medium=rss&utm_campaign=goods-from-the-woods-tour-international-day-of-forests",
-          "publishedOn": "2025-02-24T11:10:19.000Z",
-          "wordCount": 1634,
-          "title": "GOODS FROM THE WOODS TOUR/INTERNATIONAL DAY OF FORESTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250224100845/Plant-walk-with-Tracy-teaching-2-Credit-Alicia-Christiansen-scaled-e1740395341147.jpg"
         }
       ]
     },

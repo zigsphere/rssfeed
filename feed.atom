@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-27T19:10:06.364Z</updated>
+    <updated>2025-02-27T23:12:17.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 2.27.25]]></title>
+        <id>https://kqennewsradio.com/?p=130136</id>
+        <link href="https://kqennewsradio.com/2025/02/27/inside-douglas-county-2-27-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-2-27-25"/>
+        <updated>2025-02-27T21:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Adapt Integrated Health Care staff member Josh Vernon tells his story of strength and recovery from long-term drug use and homelessness, and talks about the path he is on now, as he celebrates two years of sobriety today.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN ON LITTERING AND CAMPING CHARGES]]></title>
         <id>https://kqennewsradio.com/?p=130134</id>
@@ -742,16 +752,6 @@
         <link href="https://kqennewsradio.com/2025/02/24/law-enforcement-k9-teams-holding-hops-for-cops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=law-enforcement-k9-teams-holding-hops-for-cops"/>
         <updated>2025-02-24T11:13:39.000Z</updated>
         <summary type="html"><![CDATA[February 24, 2025 3:05 a.m. Local law enforcement K9 teams are getting set to hold their first event of the year. The nonprofit Friends of Umpqua Valley Police K9 Programs will host the “Hops for K9 Cops” event on Sunday March 9th at 2:00 p.m. at Backside Brewing on Northeast O’Dell Avenue in Roseburg. It...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOODS FROM THE WOODS TOUR/INTERNATIONAL DAY OF FORESTS]]></title>
-        <id>https://kqennewsradio.com/?p=129938</id>
-        <link href="https://kqennewsradio.com/2025/02/24/goods-from-the-woods-tour-international-day-of-forests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=goods-from-the-woods-tour-international-day-of-forests"/>
-        <updated>2025-02-24T11:10:19.000Z</updated>
-        <summary type="html"><![CDATA[February 24, 2025 2:50 a.m. The OSU Extension Forestry and Natural Resources program and local partners will be holding a walking tour called “Goods from the Woods” on March 21st. An extension release said the event is a celebration of International Day of Forests and will provide attendees with an informative and relaxing walking tour...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
