@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-02-27T13:20:53.856Z</updated>
+    <updated>2025-02-27T16:15:57.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[February 27, 2025]]></title>
+        <id>67c07a55808470000113655f</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-27-2025/"/>
+        <updated>2025-02-27T14:58:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGH PRESSURE LEADING TO MORE SUNSHINE, NEAR RECORD HIGH TEMPERATURES]]></title>
         <id>https://kqennewsradio.com/?p=130107</id>
@@ -664,16 +674,6 @@
         <summary type="html"><![CDATA[February 24, 2025 2:50 a.m. The OSU Extension Forestry and Natural Resources program and local partners will be holding a walking tour called “Goods from the Woods” on March 21st. An extension release said the event is a celebration of International Day of Forests and will provide attendees with an informative and relaxing walking tour...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFA hosts presentation on hatchery production]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c0ae2ed6-efa5-11ef-906d-ef15ab4b5604</id>
-        <link href="https://www.nrtoday.com/briefs/ufa-hosts-presentation-on-hatchery-production/article_c0ae2ed6-efa5-11ef-906d-ef15ab4b5604.html"/>
-        <updated>2025-02-23T16:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Department of Fish and Wildlife staff will speak at a regular meeting for the Umpqua Fishermen's Association at 6 p.m. Tuesday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
