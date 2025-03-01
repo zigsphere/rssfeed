@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130197",
+          "author": "Kyle Bailey",
+          "description": "March 1, 2025 6:15 a.m. Roseburg had a record-breaking high temperature for the date on Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 74 degrees at the Roseburg Regional Airport. The previous record high for February 28th was 71 degrees, set in...",
+          "link": "https://kqennewsradio.com/2025/03/01/roseburg-has-second-record-breaking-high-in-a-row/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-has-second-record-breaking-high-in-a-row",
+          "publishedOn": "2025-03-01T14:17:41.000Z",
+          "wordCount": 1589,
+          "title": "ROSEBURG HAS SECOND RECORD BREAKING HIGH IN A ROW",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130195",
           "author": "Kyle Bailey",
           "description": "February 28, 2025 3:30 p.m.  A Sutherlin man was jailed on multiple drug charges by the Oregon State Police on Thursday. An OSP report said at approximately 12:30 p.m. a trooper stopped a sedan for traffic violations on Interstate Five southbound near the Rice Valley exit. During contact with the driver, a trooper developed probable...",
@@ -564,21 +574,6 @@
           "wordCount": 1572,
           "title": "4-H BLOOMING WITH CREATIVITY WORKSHOP",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130035",
-          "author": "Kyle Bailey",
-          "description": "From Littlejohn Financial Services, Dave Littlejohn and Matt Dickson have our weekly local financial program.",
-          "link": "https://kqennewsradio.com/2025/02/26/true-wealth-radio-2-25-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-2-25-25",
-          "publishedOn": "2025-02-26T01:39:42.000Z",
-          "wordCount": 1513,
-          "title": "TRUE WEALTH RADIO 2.25.25",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250226003740/TWR-2-25-25.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },
