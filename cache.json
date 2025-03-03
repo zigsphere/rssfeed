@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130249",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, our weekly update on proposals being considered by the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2025/03/03/inside-douglas-county-3-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-3-25",
+          "publishedOn": "2025-03-03T21:11:14.000Z",
+          "wordCount": 1515,
+          "title": "INSIDE DOUGLAS COUNTY 3.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250303200907/IDC-03-05-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130245",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2025 11:15 a.m.  Roseburg Police jailed a man Sunday night for two alleged theft incidents. An RPD report said at 8:00 p.m. officers contacted 49-year-old Mark Bennett near a store in the 500 block of Northeast Winchester Street after he allegedly stole beers from the business. Bennett admitted to stealing the beers and...",
+          "link": "https://kqennewsradio.com/2025/03/03/roseburg-police-jail-man-for-two-alleged-theft-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-two-alleged-theft-incidents",
+          "publishedOn": "2025-03-03T19:15:21.000Z",
+          "wordCount": 1575,
+          "title": "ROSEBURG POLICE JAIL MAN FOR TWO ALLEGED THEFT INCIDENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130243",
           "author": "Kyle Bailey",
           "description": "March 3, 2025 11:00 a.m.  Roseburg Police jailed a man for a reported robbery incident on Saturday afternoon. An RPD report said at approximately 1:15 p.m. officers responded to a business in the 1100 block of Garden Valley Boulevard regarding an in-progress vehicle theft. Upon arrival, officers contacted a victim and learned that a male...",
@@ -364,16 +389,6 @@
           "wordCount": 1648,
           "title": "AVIVA TO HOST SECOND ANNUAL NONPROFIT SUMMIT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203738/aviva3-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130141",
-          "author": "Kyle Bailey",
-          "description": "February 28, 2025 2:50 a.m. The Friends of the Roseburg Public Library continue their Spring Book Sale through Saturday. Hours are 9:00 a.m. to 4:00 p.m. on Friday and 9:00 a.m. to 2:00 p.m. on Saturday. Library Director Kris Wiley said this will be a bargain sale with gently used books, including library withdrawals. Wiley...",
-          "link": "https://kqennewsradio.com/2025/02/28/friends-of-library-continues-spring-book-sale/?utm_source=rss&utm_medium=rss&utm_campaign=friends-of-library-continues-spring-book-sale",
-          "publishedOn": "2025-02-28T11:09:26.000Z",
-          "wordCount": 1596,
-          "title": "FRIENDS OF LIBRARY CONTINUES SPRING BOOK SALE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212142/Library-Expands-Hours-3-Kris-Wiley-7-6-21-1-e1645813305345.jpg"
         }
       ]
     },
@@ -427,21 +442,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/86/e8605fdc-f52f-11ef-84a5-c7bb9cc24dad/67c0a04c4747d.image.png?resize=300%2C117"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/99b98ea4-f41b-11ef-810c-83c3ae5617d3",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Hundreds of local and regional home-improvement vendors will converge at the Douglas County Fairgrounds this weekend as the Umpqua Valley Home Builders Association kicks off its annual Home Show, offering demonstrations, workshops and expert tips for everyone from first-time remodelers…",
-          "link": "https://www.nrtoday.com/news/local/from-landscapers-to-remodelers-find-what-you-need-this-weekend/article_99b98ea4-f41b-11ef-810c-83c3ae5617d3.html",
-          "publishedOn": "2025-02-28T08:28:00.000Z",
-          "wordCount": 14361,
-          "title": "From landscapers to remodelers, find what you need this weekend",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b0/3b053cd6-f5fc-11ef-b9a8-7fdd41f786b9/65e3e7a4d1102.image.jpg?resize=300%2C200",
-            "length": "545982",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b0/3b053cd6-f5fc-11ef-b9a8-7fdd41f786b9/65e3e7a4d1102.image.jpg?resize=300%2C200"
         }
       ]
     },

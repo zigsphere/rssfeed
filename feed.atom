@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-03T19:10:15.461Z</updated>
+    <updated>2025-03-03T23:11:46.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.3.25]]></title>
+        <id>https://kqennewsradio.com/?p=130249</id>
+        <link href="https://kqennewsradio.com/2025/03/03/inside-douglas-county-3-3-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-3-3-25"/>
+        <updated>2025-03-03T21:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, our weekly update on proposals being considered by the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR TWO ALLEGED THEFT INCIDENTS]]></title>
+        <id>https://kqennewsradio.com/?p=130245</id>
+        <link href="https://kqennewsradio.com/2025/03/03/roseburg-police-jail-man-for-two-alleged-theft-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-two-alleged-theft-incidents"/>
+        <updated>2025-03-03T19:15:21.000Z</updated>
+        <summary type="html"><![CDATA[March 3, 2025 11:15 a.m.  Roseburg Police jailed a man Sunday night for two alleged theft incidents. An RPD report said at 8:00 p.m. officers contacted 49-year-old Mark Bennett near a store in the 500 block of Northeast Winchester Street after he allegedly stole beers from the business. Bennett admitted to stealing the beers and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED ROBBERY]]></title>
         <id>https://kqennewsradio.com/?p=130243</id>
@@ -404,26 +424,6 @@
         <summary type="html"><![CDATA[February 28, 2025 3:05 a.m. Aviva Health will host the second annual Southern Oregon Nonprofit Summit next month. It will take place on Aviva’s main Roseburg campus located at 150 Northeast Kenneth Ford Drive, beginning on Wednesday, March 12th. An Aviva release said the three-day event offers a dynamic deep dive into key topics to...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRIENDS OF LIBRARY CONTINUES SPRING BOOK SALE]]></title>
-        <id>https://kqennewsradio.com/?p=130141</id>
-        <link href="https://kqennewsradio.com/2025/02/28/friends-of-library-continues-spring-book-sale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=friends-of-library-continues-spring-book-sale"/>
-        <updated>2025-02-28T11:09:26.000Z</updated>
-        <summary type="html"><![CDATA[February 28, 2025 2:50 a.m. The Friends of the Roseburg Public Library continue their Spring Book Sale through Saturday. Hours are 9:00 a.m. to 4:00 p.m. on Friday and 9:00 a.m. to 2:00 p.m. on Saturday. Library Director Kris Wiley said this will be a bargain sale with gently used books, including library withdrawals. Wiley...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From landscapers to remodelers, find what you need this weekend]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/99b98ea4-f41b-11ef-810c-83c3ae5617d3</id>
-        <link href="https://www.nrtoday.com/news/local/from-landscapers-to-remodelers-find-what-you-need-this-weekend/article_99b98ea4-f41b-11ef-810c-83c3ae5617d3.html"/>
-        <updated>2025-02-28T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of local and regional home-improvement vendors will converge at the Douglas County Fairgrounds this weekend as the Umpqua Valley Home Builders Association kicks off its annual Home Show, offering demonstrations, workshops and expert tips for everyone from first-time remodelers…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
