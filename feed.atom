@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-03T13:21:04.043Z</updated>
+    <updated>2025-03-03T16:15:28.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 3, 2025]]></title>
+        <id>67c53bbb808470000113674c</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/march-3-2025/"/>
+        <updated>2025-03-03T14:44:04.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOT MANY FILINGS IN SPECIAL DISTRICTS ELECTIONS, DEADLINE MARCH 20TH]]></title>
+        <id>https://kqennewsradio.com/?p=130223</id>
+        <link href="https://kqennewsradio.com/2025/03/03/not-many-filings-in-special-districts-elections-deadline-march-20th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=not-many-filings-in-special-districts-elections-deadline-march-20th"/>
+        <updated>2025-03-03T13:48:06.000Z</updated>
+        <summary type="html"><![CDATA[March 3, 2025 5:50 a.m. Not many people have filed for open seats in the Douglas County Special Districts Election as of March 3rd. Information from County Clerk Daniel Loomis said 223 positions are open. 165 of those seats currently have no candidates. That means approximately 75 percent of the seats have not generated interest....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FEW FILINGS IN SPECIAL DISTRICTS ELECTION, DEADLINE MARCH 20TH]]></title>
         <id>https://kqennewsradio.com/?p=130219</id>
