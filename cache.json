@@ -6,6 +6,61 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130243",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2025 11:00 a.m.  Roseburg Police jailed a man for a reported robbery incident on Saturday afternoon. An RPD report said at approximately 1:15 p.m. officers responded to a business in the 1100 block of Garden Valley Boulevard regarding an in-progress vehicle theft. Upon arrival, officers contacted a victim and learned that a male...",
+          "link": "https://kqennewsradio.com/2025/03/03/roseburg-police-jail-man-for-reported-robbery/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-reported-robbery",
+          "publishedOn": "2025-03-03T19:04:50.000Z",
+          "wordCount": 1650,
+          "title": "ROSEBURG POLICE JAIL MAN FOR REPORTED ROBBERY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222536/police-1024x538-1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130241",
+          "author": "Kyle Bailey",
+          "description": "September 3, 2025 10:20 a.m. Sutherlin Police jailed a woman for an alleged theft incident on Friday afternoon. An SPD report said at 12:50 p.m. a 51-year-old woman allegedly stole two cans of malt lager from a store in the 1300 block of West Central Avenue. She was trespassed from all of the company’s locations....",
+          "link": "https://kqennewsradio.com/2025/03/03/sutherlin-police-jail-woman-for-alleged-theft-incident/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-police-jail-woman-for-alleged-theft-incident",
+          "publishedOn": "2025-03-03T18:26:11.000Z",
+          "wordCount": 1508,
+          "title": "SUTHERLIN POLICE JAIL WOMAN FOR ALLEGED THEFT INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223709/police-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130239",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2025 10:00 a.m.   Sutherlin Police jailed a man following a series of alleged incidents on Friday night. An SPD report said at 7:45 p.m. 34-year-old William Emery allegedly caused a disturbance at a business in the 1400 block of West Central Avenue. Emery reportedly stole a can of alcohol and refused to leave...",
+          "link": "https://kqennewsradio.com/2025/03/03/sutherlin-police-jail-man-following-friday-night-alleged-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-police-jail-man-following-friday-night-alleged-incidents",
+          "publishedOn": "2025-03-03T18:14:46.000Z",
+          "wordCount": 1632,
+          "title": "SUTHERLIN POLICE JAIL MAN FOLLOWING FRIDAY NIGHT ALLEGED INCIDENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223709/police-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130235",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2025 9:20 a.m.   Three vehicles encountered a landslide northwest of Roseburg on Sunday night, resulting in two of the vehicles being damaged. A Douglas County Sheriff’s Office report said at 8:50 p.m. a landslide occurred in the 11600 block of Garden Valley Road. The vehicles drove through the large pile of rocks and...",
+          "link": "https://kqennewsradio.com/2025/03/03/three-vehicles-encounter-landslide-sunday-night/?utm_source=rss&utm_medium=rss&utm_campaign=three-vehicles-encounter-landslide-sunday-night",
+          "publishedOn": "2025-03-03T17:38:04.000Z",
+          "wordCount": 1584,
+          "title": "THREE VEHICLES ENCOUNTER LANDSLIDE SUNDAY NIGHT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130231",
+          "author": "Kyle Bailey",
+          "description": "Wildlife Safari Carnivore Supervisor Sarah Huse has an update on things happening at the game park in Winston.",
+          "link": "https://kqennewsradio.com/2025/03/03/morning-conversation-3-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-3-3-25",
+          "publishedOn": "2025-03-03T17:17:48.000Z",
+          "wordCount": 1512,
+          "title": "MORNING CONVERSATION 3.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250303161414/AM-CONV-3-3-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250303161551/Huse.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130223",
           "author": "Kyle Bailey",
           "description": "March 3, 2025 5:50 a.m. Not many people have filed for open seats in the Douglas County Special Districts Election as of March 3rd. Information from County Clerk Daniel Loomis said 223 positions are open. 165 of those seats currently have no candidates. That means approximately 75 percent of the seats have not generated interest....",
@@ -334,6 +389,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bf3ff2ae-f843-11ef-92b0-93f9e27f0da1",
+          "author": "JOSH BOAK The Associated Press",
+          "description": "President Donald Trump on Saturday signed a pair of actions to increase domestic lumber production, including a directive for the Commerce Department to investigate the possible harms that lumber imports pose to national security.",
+          "link": "https://www.nrtoday.com/business/trump-moves-to-boost-us-timber-supply-and-reduce-construction-costs/article_bf3ff2ae-f843-11ef-92b0-93f9e27f0da1.html",
+          "publishedOn": "2025-03-03T16:15:00.000Z",
+          "wordCount": 13669,
+          "title": "Trump moves to boost US timber supply and reduce construction costs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/f0/9f00b630-f844-11ef-82c9-c76c84fc5777/67c5cb85acf3e.image.jpg?resize=300%2C169",
+            "length": "194441",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/f0/9f00b630-f844-11ef-82c9-c76c84fc5777/67c5cb85acf3e.image.jpg?resize=300%2C169"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e4d73d96-f3a3-11ef-a29a-c319bfede375",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "GLIDE — These are the students who were named to the honor roll at Glide Middle and High schools for the second quarter of the 2024-25 school year.",
@@ -372,21 +442,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b0/3b053cd6-f5fc-11ef-b9a8-7fdd41f786b9/65e3e7a4d1102.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0d897f62-f091-11ef-a19c-6f0dc7226dc5",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Roseburg High School Foundation will host the 2025 Scholarship Night and Future First Citizen Award event at the Rose Theatre on March 12.",
-          "link": "https://www.nrtoday.com/news/education/rhs-foundation-announces-future-first-citizen-finalists/article_0d897f62-f091-11ef-a19c-6f0dc7226dc5.html",
-          "publishedOn": "2025-02-27T17:15:00.000Z",
-          "wordCount": 15802,
-          "title": "RHS Foundation announces future First Citizen finalists",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/65/765afe34-f092-11ef-b876-573b37e54c15/67b8e20352c88.image.jpg?resize=300%2C450",
-            "length": "273605",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/65/765afe34-f092-11ef-b876-573b37e54c15/67b8e20352c88.image.jpg?resize=300%2C450"
         }
       ]
     },
