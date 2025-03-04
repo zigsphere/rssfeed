@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-04T13:20:43.297Z</updated>
+    <updated>2025-03-04T16:15:39.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 4, 2025]]></title>
+        <id>67c70f2c6b1453000187fc06</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/march-4-2025/"/>
+        <updated>2025-03-04T14:51:41.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG MAN CHARGED WITH ASSAULTING A PUBLIC SAFETY OFFICER]]></title>
+        <id>https://kqennewsradio.com/?p=130271</id>
+        <link href="https://kqennewsradio.com/2025/03/04/roseburg-man-charged-with-assaulting-a-public-safety-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-charged-with-assaulting-a-public-safety-officer"/>
+        <updated>2025-03-04T13:52:24.000Z</updated>
+        <summary type="html"><![CDATA[March 4, 2025 5:50 a.m. A Roseburg man was charged with assaulting a public safety officer on Saturday night. An Oregon State Police report said at 6:55 p.m. 36-year-old Tyler Moug was stopped for speeding and failure to drive within a lane on Interstate 5 northbound near Metz Hill. Moug allegedly showed signs of impairment...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUBLIC WORKS PLANS TO REMOVE MATERIAL FROM SLIDE]]></title>
         <id>https://kqennewsradio.com/?p=130268</id>
