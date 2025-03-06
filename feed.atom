@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-06T19:10:00.239Z</updated>
+    <updated>2025-03-06T23:12:26.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.6.25]]></title>
+        <id>https://kqennewsradio.com/?p=130397</id>
+        <link href="https://kqennewsradio.com/2025/03/06/inside-douglas-county-3-6-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-3-6-25"/>
+        <updated>2025-03-06T21:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Peace at Home Advocacy Center Executive Director Melanie Prummer talks about the success of their recent Empower dance and vocals event.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JACKSON COUNTY MAN JAILED FOR PAROLE VIOLATION]]></title>
         <id>https://kqennewsradio.com/?p=130395</id>
@@ -732,16 +742,6 @@
         <link href="https://kqennewsradio.com/2025/03/03/land-of-umpqua-amateur-photo-contest-winners-announced-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=land-of-umpqua-amateur-photo-contest-winners-announced-2"/>
         <updated>2025-03-03T11:28:23.000Z</updated>
         <summary type="html"><![CDATA[March 3, 2025 3:20 a.m.  The Roseburg District, Bureau of Land Management has announced the winners of the 2025 Land of Umpqua Amateur Photo Contest: A BLM release said amateur photographers submitted a fantastic variety of photos featuring some of the most beautiful landscapes and wildlife on BLM and Forest Service managed lands from around...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN ANNOUNCES OPEN-TO-ALL TOWN HALL ON TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=130207</id>
-        <link href="https://kqennewsradio.com/2025/03/03/wyden-announces-open-to-all-town-hall-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-announces-open-to-all-town-hall-on-tuesday"/>
-        <updated>2025-03-03T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[March 3, 2025 2:50 a.m. On Saturday, U.S. Senator Ron Wyden announced he will co-host a live on-line town hall Tuesday night with People’s Town Hall, to offer all Oregonians the opportunity to ask questions, share their ideas and offer their views during the State of the Union speech. Wyden said, “In this unprecedented time...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

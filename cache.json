@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130397",
+          "author": "Kyle Bailey",
+          "description": "Peace at Home Advocacy Center Executive Director Melanie Prummer talks about the success of their recent Empower dance and vocals event.",
+          "link": "https://kqennewsradio.com/2025/03/06/inside-douglas-county-3-6-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-6-25",
+          "publishedOn": "2025-03-06T21:24:23.000Z",
+          "wordCount": 1518,
+          "title": "INSIDE DOUGLAS COUNTY 3.6.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250306202109/IDC-03-06-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250306202406/Melanie-6.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130395",
           "author": "Kyle Bailey",
           "description": "March 6, 2025 11:10 a.m.  A Jackson County man was jailed for a parole violation on Wednesday night. A Douglas County Sheriff’s Office report said at 11:15 p.m. a deputy stopped a sedan for a traffic violation on Interstate Five northbound near the Curtin/Lorane exit. The 20-year-old driver was detained for failure to carry and...",
@@ -699,16 +714,6 @@
           "wordCount": 1613,
           "title": "LAND OF UMPQUA AMATEUR PHOTO CONTEST WINNERS ANNOUNCED",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250303102806/BLM2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130207",
-          "author": "Kyle Bailey",
-          "description": "March 3, 2025 2:50 a.m. On Saturday, U.S. Senator Ron Wyden announced he will co-host a live on-line town hall Tuesday night with People’s Town Hall, to offer all Oregonians the opportunity to ask questions, share their ideas and offer their views during the State of the Union speech. Wyden said, “In this unprecedented time...",
-          "link": "https://kqennewsradio.com/2025/03/03/wyden-announces-open-to-all-town-hall-on-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-announces-open-to-all-town-hall-on-tuesday",
-          "publishedOn": "2025-03-03T11:12:00.000Z",
-          "wordCount": 1638,
-          "title": "WYDEN ANNOUNCES OPEN-TO-ALL TOWN HALL ON TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
