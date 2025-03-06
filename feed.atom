@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-06T13:20:54.265Z</updated>
+    <updated>2025-03-06T16:15:33.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man Dies in Camas Valley House Fire]]></title>
+        <id>67c9b7016b1453000187fee8</id>
+        <link href="https://www.roseburgscanner.com/man-dies-in-camas-valley-house-fire/"/>
+        <updated>2025-03-06T14:56:31.000Z</updated>
+        <summary type="html"><![CDATA[A house fire on Holmes Creek Road Wednesday night claimed the life of 76-year-old Richard Wayne Bemiller, who was unable to escape. Despite rescue attempts, firefighters found him deceased. The Oregon State Fire Marshal’s Office is investigating the cause.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 6, 2025]]></title>
+        <id>67c9b2226b1453000187fe0c</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/march-6-2025/"/>
+        <updated>2025-03-06T14:51:31.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGH TEMPERATURES OF 5 TO 10 DEGREES ABOVE NORMAL FOR THIS WEEKEND]]></title>
         <id>https://kqennewsradio.com/?p=130378</id>
