@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-07T19:09:51.005Z</updated>
+    <updated>2025-03-07T23:10:12.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.7.25]]></title>
+        <id>https://kqennewsradio.com/?p=130450</id>
+        <link href="https://kqennewsradio.com/2025/03/07/inside-douglas-county-3-7-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-3-7-25"/>
+        <updated>2025-03-07T21:12:39.000Z</updated>
+        <summary type="html"><![CDATA[State Representative Virgle Osborne is live in studio to provide an update on what’s happening at the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEARCH AND RESCUE LOCATES MISSING NORTH UMPQUA TRAIL HIKER]]></title>
+        <id>https://kqennewsradio.com/?p=130448</id>
+        <link href="https://kqennewsradio.com/2025/03/07/search-and-rescue-locates-missing-north-umpqua-trail-hiker/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=search-and-rescue-locates-missing-north-umpqua-trail-hiker"/>
+        <updated>2025-03-07T19:39:16.000Z</updated>
+        <summary type="html"><![CDATA[March 7, 2025 11:30 a.m. A Glide woman who was the subject of a search and rescue operation has been located alive and uninjured. Undersheriff Brad O’Dell of the Douglas County Sheriff’s Office said Thursday evening at 8:20 p.m. dispatchers received a missing person report from the family of 18-year-old Danielle Clinesmith. O’Dell said Clinesmith...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WASHINGTON MAN JAILED FOLLOWING PURSUIT INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=130446</id>
