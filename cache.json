@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130503",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith covers topics including a meeting regarding the Rock Creek Hatchery, the upcoming fire season, impacts being felt on changes to Oregon’s drug laws, his top priorities for the rest of the session and more.",
+          "link": "https://kqennewsradio.com/2025/03/10/inside-douglas-county-3-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-10-25",
+          "publishedOn": "2025-03-10T20:14:06.000Z",
+          "wordCount": 1545,
+          "title": "INSIDE DOUGLAS COUNTY 3.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250310190904/IDC-03-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130501",
           "author": "Kyle Bailey",
           "description": "March 10, 2025 11:10 a.m.  Roseburg Police cited two people for fourth-degree assault following an incident on Friday night. An RPD report said at 11:30 p.m. officers responded to the 2000 block of Northeast Stephens Street after a caller said there was a disturbance. Once on scene, a 33-year-old woman and an 18-year-old woman were...",
@@ -364,16 +379,6 @@
           "wordCount": 1551,
           "title": "ROSEBURG HIGH SCHOOL THEATRE FINAL WEEKEND OF MAMMI MIA",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250217102027/MAMMA-MIA-Poster-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130402",
-          "author": "Kyle Bailey",
-          "description": "March 7, 2025 2:50 a.m.  In the KQEN Cultural Spotlight: Roseburg High School bands will have their spring concert next Thursday, March 13th at 7:00 p.m. It will be held in the Rose Theater on the RHS campus. The evening will include performances by the wind ensemble, symphonic band, concert band, AM jazz band and...",
-          "link": "https://kqennewsradio.com/2025/03/07/roseburg-high-bands-have-spring-concert/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-high-bands-have-spring-concert",
-          "publishedOn": "2025-03-07T11:09:02.000Z",
-          "wordCount": 1522,
-          "title": "ROSEBURG HIGH BANDS HAVE SPRING CONCERT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250307100857/Spring-Concert-25.jpg"
         }
       ]
     },
@@ -388,6 +393,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e3bdf16-fc62-11ef-929d-7f4f1870de8b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — The Master Gardeners and Oregon State University Extension Office held Spring into Gardening, a gardening conference to teach people in Douglas County everything they need to know about spring planting.",
+          "link": "https://www.nrtoday.com/news/education/master-gardeners-teach-how-to-spring-into-gardening/article_7e3bdf16-fc62-11ef-929d-7f4f1870de8b.html",
+          "publishedOn": "2025-03-10T14:00:00.000Z",
+          "wordCount": 18653,
+          "title": "Master Gardeners teach how to Spring into Gardening",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/3d/63d1a0b0-fc63-11ef-aeac-dba2640400d6/67ccb4ffd05e2.image.jpg?resize=300%2C200",
+            "length": "340933",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/3d/63d1a0b0-fc63-11ef-aeac-dba2640400d6/67ccb4ffd05e2.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/09d60a78-fc5a-11ef-8be3-1fae26add7eb",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — The Umpqua Community College gym floor was covered in tables, banners and people—all with important information to convey.",
+          "link": "https://www.nrtoday.com/news/education/explore-ucc-displays-careers-and-opportunities-to-students/article_09d60a78-fc5a-11ef-8be3-1fae26add7eb.html",
+          "publishedOn": "2025-03-10T14:00:00.000Z",
+          "wordCount": 18449,
+          "title": "Explore UCC displays careers and opportunities to students",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/66/566d92c0-fc5a-11ef-963d-4f35181154b3/67cca5cfdf71d.image.jpg?resize=300%2C200",
+            "length": "316353",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/66/566d92c0-fc5a-11ef-963d-4f35181154b3/67cca5cfdf71d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/706c8722-fa47-11ef-a9da-b7dd4800596f",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Lacie Spradley said she went to Safe Haven Maternity Home with her son when he was six months old.",
+          "link": "https://www.nrtoday.com/news/local/taste-of-italy-celebrates-safe-havens-work/article_706c8722-fa47-11ef-a9da-b7dd4800596f.html",
+          "publishedOn": "2025-03-10T14:00:00.000Z",
+          "wordCount": 18775,
+          "title": "Taste of Italy celebrates Safe Haven's work",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/d2/1d293caa-fca3-11ef-aa33-7f9a51145252/67cd1fe918eb5.image.jpg?resize=300%2C200",
+            "length": "405633",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/d2/1d293caa-fca3-11ef-aa33-7f9a51145252/67cd1fe918eb5.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/90bafbc8-f937-11ef-ad3f-8374f9d60783",
           "author": "GLORIA COLEMAN The News-Review",
@@ -451,16 +501,6 @@
           "publishedOn": "2025-03-07T15:00:00.000Z",
           "wordCount": 17265,
           "title": "One County One Book awards presented for book critiques",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1f94f922-f990-11ef-a350-8b52dd23a798",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — The Healthy Forest Advisory Committee and Umpqua Community College’s Forestry Club partnered to bring James Johnston to Winchester to present his extensive research on how density management can improve stand health.",
-          "link": "https://www.nrtoday.com/news/education/forestry-expert-discusses-density-management-in-winchester/article_1f94f922-f990-11ef-a350-8b52dd23a798.html",
-          "publishedOn": "2025-03-06T17:30:00.000Z",
-          "wordCount": 19637,
-          "title": "Forestry expert discusses density management in Winchester",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
