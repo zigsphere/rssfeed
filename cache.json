@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130530",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Alek Skarlatos talks about budget issues regarding the Oregon Department of Transportation, Bureau of Labor and Industries, and other agencies.",
+          "link": "https://kqennewsradio.com/2025/03/11/morning-conversation-3-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-3-11-25",
+          "publishedOn": "2025-03-11T16:07:54.000Z",
+          "wordCount": 1521,
+          "title": "MORNING CONVERSATION 3.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250311150556/AM-CONV-3-11-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241028191337/Alek_Skarlatos.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130523",
           "author": "Kyle Bailey",
           "description": "March 11, 2025 4:00 a.m. A Winter Weather Advisory remains in effect from 5:00 a.m. Wednesday through 5:00 a.m. Thursday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service in Medford said snow is expected, with accumulations between 5 and 10 inches. Winds are forecast to gust as high as...",
@@ -401,6 +416,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67d03a566b1453000188014b",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/march-11-2025/",
+          "publishedOn": "2025-03-11T13:45:18.000Z",
+          "wordCount": 3185,
+          "title": "March 11, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/motor_vehicle_accident.png"
+        },
         {
           "id": "67ce65b36b14530001880007",
           "author": "Joseph Ziegler",
