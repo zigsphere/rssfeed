@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130565",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/03/11/true-wealth-3-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-3-11-25",
+          "publishedOn": "2025-03-12T00:04:45.000Z",
+          "wordCount": 1506,
+          "title": "TRUE WEALTH 3.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250311230354/TWR-3-11-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130563",
           "author": "Kyle Bailey",
           "description": "March 11, 2025 3:20 p.m.  One individual died in a structure fire in Winston on Tuesday morning. A release from Central Douglas Fire & Rescue said crews were dispatched to the fire on Northeast Darrell Avenue just after 7:15 a.m. Neighbors had reported that the home was full of smoke, and flames could be seen...",
@@ -466,6 +481,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67d0d16c6b14530001880251",
+          "author": "Joseph Ziegler",
+          "description": "A Wolf Creek man was arrested for second-degree manslaughter after a Glendale crash killed his 11-year-old daughter. The vehicle rolled down an embankment, ejecting three juveniles. Authorities say driver impairment was a factor. The driver fled but later returned and was arrested.",
+          "link": "https://www.roseburgscanner.com/wolf-creek-man-arrested-for-manslaughter-after-fatal-crash-in-glendale/",
+          "publishedOn": "2025-03-12T00:31:52.000Z",
+          "wordCount": 1207,
+          "title": "Wolf Creek Man Arrested for Manslaughter After Fatal Crash in Glendale",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/news_release_dcso.jpg"
+        },
         {
           "id": "67d03a566b1453000188014b",
           "author": "Joseph Ziegler",

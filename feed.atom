@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-11T23:11:52.366Z</updated>
+    <updated>2025-03-12T02:51:00.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wolf Creek Man Arrested for Manslaughter After Fatal Crash in Glendale]]></title>
+        <id>67d0d16c6b14530001880251</id>
+        <link href="https://www.roseburgscanner.com/wolf-creek-man-arrested-for-manslaughter-after-fatal-crash-in-glendale/"/>
+        <updated>2025-03-12T00:31:52.000Z</updated>
+        <summary type="html"><![CDATA[A Wolf Creek man was arrested for second-degree manslaughter after a Glendale crash killed his 11-year-old daughter. The vehicle rolled down an embankment, ejecting three juveniles. Authorities say driver impairment was a factor. The driver fled but later returned and was arrested.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 3.11.25]]></title>
+        <id>https://kqennewsradio.com/?p=130565</id>
+        <link href="https://kqennewsradio.com/2025/03/11/true-wealth-3-11-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-3-11-25"/>
+        <updated>2025-03-12T00:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FATAL STRUCTURE FIRE IN WINSTON TUESDAY MORNING]]></title>
         <id>https://kqennewsradio.com/?p=130563</id>
