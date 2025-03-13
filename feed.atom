@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-12T23:11:55.617Z</updated>
+    <updated>2025-03-13T02:52:34.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 3.12.25]]></title>
+        <id>https://kqennewsradio.com/?p=130613</id>
+        <link href="https://kqennewsradio.com/2025/03/12/mike-winters-lawn-and-garden-show-3-12-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-3-12-25"/>
+        <updated>2025-03-13T00:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.12.25]]></title>
         <id>https://kqennewsradio.com/?p=130608</id>
@@ -592,16 +602,6 @@
         <link href="https://kqennewsradio.com/2025/03/10/oregon-state-parks-to-hire-more-than-200-seasonal-rangers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oregon-state-parks-to-hire-more-than-200-seasonal-rangers"/>
         <updated>2025-03-10T10:11:01.000Z</updated>
         <summary type="html"><![CDATA[March 10, 2025 2:50 a.m. Oregon State Parks will hire more than 200 seasonal rangers and ranger assistants for positions across the state in the 2025 season. A release from the Oregon Parks and Recreation Department said hiring starts as soon as this month and runs through June with new positions listed on a rolling...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLENDALE WOMAN DIES IN VEHICLE VERSUS PEDESTRIAN CRASH NORTHWEST OF MEDFORD]]></title>
-        <id>https://kqennewsradio.com/?p=130466</id>
-        <link href="https://kqennewsradio.com/2025/03/09/glendale-woman-dies-in-vehicle-versus-pedestrian-crash-northwest-of-medford/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=glendale-woman-dies-in-vehicle-versus-pedestrian-crash-northwest-of-medford"/>
-        <updated>2025-03-09T13:56:38.000Z</updated>
-        <summary type="html"><![CDATA[March 9, 2025 6:50 a.m. A Glendale woman died in a vehicle versus pedestrian crash northwest of Medford on Friday morning. A report from Oregon State Police said a preliminary investigation indicated just after 6:00 a.m. a pickup, operated by a Medford man, was traveling eastbound on Highway 140 near Blackwell Road when it struck...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
