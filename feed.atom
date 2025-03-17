@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-16T23:11:11.985Z</updated>
+    <updated>2025-03-17T02:55:04.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County School Closures]]></title>
+        <id>67d7794e6b145300018805d0</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-school-closures/"/>
+        <updated>2025-03-17T01:42:27.000Z</updated>
+        <summary type="html"><![CDATA[March 17, 2025]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUTHERLIN OFFICIALS DECLARE STATE OF EMERGENCY]]></title>
+        <id>https://kqennewsradio.com/?p=130775</id>
+        <link href="https://kqennewsradio.com/2025/03/17/sutherlin-officials-declare-state-of-emergency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-officials-declare-state-of-emergency"/>
+        <updated>2025-03-17T01:04:27.000Z</updated>
+        <summary type="html"><![CDATA[March 17, 2025 6:00 p.m.  Effective Sunday afternoon, City of Sutherlin City Manager Jerry Gillham, with the concurrence of Mayor Michelle Sumner, declared a State of Emergency. A city release said this was in response to significant rainfall that resulted in neighborhoods being evacuated and barriers and sandbags being strategically placed to preserve downtown businesses...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLOSURES AND DELAYS FOR MONDAY]]></title>
+        <id>https://kqennewsradio.com/?p=130773</id>
+        <link href="https://kqennewsradio.com/2025/03/16/closures-and-delays-for-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=closures-and-delays-for-monday"/>
+        <updated>2025-03-17T00:53:41.000Z</updated>
+        <summary type="html"><![CDATA[March 16, 2025 6:00 p.m.   Due to multiple weather issues, there are closures and delays for Monday: School closures: *Sutherlin School District *Winston-Dillard School District *South Umpqua School District *North Douglas School District *Riddle School District *Days Creek Charter School *Yoncalla School District *Glendale School District Listen to News Radio 93-9 FM and 1240 KQEN...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLOOD WARNINGS IN DOUGLAS COUNTY]]></title>
+        <id>https://kqennewsradio.com/?p=130771</id>
+        <link href="https://kqennewsradio.com/2025/03/16/flood-warnings-in-douglas-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flood-warnings-in-douglas-county"/>
+        <updated>2025-03-17T00:38:07.000Z</updated>
+        <summary type="html"><![CDATA[March 16, 2025 5:40 p.m.  A number of Flood Warnings are in place in Douglas County as of 4:30 p.m. Sunday. The National Weather Service has extended the Flood Warning for the South Umpqua River at Roseburg and the South Umpqua River near Winston. Minor flooding is forecast. At Roseburg, the flood stage is 22.0...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY ABOVE 1,500 FEET THROUGH EARLY MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=130768</id>
@@ -515,26 +555,6 @@ Authorities advise against attempting to cross high water, as even shallow flood
         <summary type="html"><![CDATA[The gymnasium at Sutherlin High School was full of red, white and blue tablecloths, balloons and everything typically used to decorate for a celebration of the U.S.A.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 13, 2025]]></title>
-        <id>67d2de0a6b1453000188037e</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-13-2025/"/>
-        <updated>2025-03-13T13:48:58.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLOOD POTENTIAL OUTLOOK FOR PARTS OF SOUTHERN OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=130630</id>
-        <link href="https://kqennewsradio.com/2025/03/13/flood-potential-outlook-for-parts-of-southern-oregon-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=flood-potential-outlook-for-parts-of-southern-oregon-2"/>
-        <updated>2025-03-13T11:14:23.000Z</updated>
-        <summary type="html"><![CDATA[March 13, 2025 4:10 a.m.  The National Weather Service has issued a Flood Potential Outlook for rapid rises from rain and snow melting on rivers and streams in Douglas, Josephine, Jackson, Coos and Curry counties. Forecasters said an active storm track will remain over the region through at least early next week. An upper trough...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
