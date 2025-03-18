@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130897",
+          "author": "Kyle Bailey",
+          "description": "March 18, 2025 3:30 p.m.   Roseburg’s dog park is closed after suffering severe damage from flooding by the South Umpqua River on Sunday. A city release said the Happy Trail’s Dog Park at Templin Beach Park on Southeast Templin Street will be closed at least temporarily. The fencing around the park was completely destroyed and...",
+          "link": "https://kqennewsradio.com/2025/03/18/roseburg-dog-park-closed-by-flooding/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-dog-park-closed-by-flooding",
+          "publishedOn": "2025-03-18T22:26:26.000Z",
+          "wordCount": 1568,
+          "title": "ROSEBURG DOG PARK CLOSED BY FLOODING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318212524/Dog1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=130893",
+          "author": "Kyle Bailey",
+          "description": "Douglas Timber Operators Executive Director Matt Hill talks about his call for a complete revision of the Northwest Forest Plan.",
+          "link": "https://kqennewsradio.com/2025/03/18/inside-douglas-county-3-18-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-18-25",
+          "publishedOn": "2025-03-18T20:26:08.000Z",
+          "wordCount": 1513,
+          "title": "INSIDE DOUGLAS COUNTY 3.18.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318192114/IDC-3-18-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318192440/Matt-4.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130886",
           "author": "Kyle Bailey",
           "description": "March 18, 2025 11:00 a.m.  Crews from Central Douglas Fire & Rescue rendered aid during Sunday’s flooding event. CDF&R Public Information Officer and Battalion Chief Ryan Felker said as water levels rose across the county, an increased number of calls for service were the result. Felker said this was no different for CDF&R. Strategic placement...",
@@ -570,6 +595,26 @@
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8675",
+          "author": "Jim Teece",
+          "description": "Oregon’s aging bridge inventory is a growing concern for ODOT’s Bridge Program, in particular the Interstate Era bridges. ODOT’s 2024 Bridge Conditions Report spotlights Interstate Era bridges built between 1958 and 1973. During this 16-year span, ODOT built on average 63 bridges a year, thanks to funding provided by the National Interstate and Defense Highway…\nThe post Bridging the Maintenance Gap: Oregon’s Path to Safe, Reliable Travel appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/bridging-the-maintenance-gap-oregons-path-to-safe-reliable-travel/",
+          "publishedOn": "2025-03-18T21:13:58.000Z",
+          "wordCount": 3187,
+          "title": "Bridging the Maintenance Gap: Oregon’s Path to Safe, Reliable Travel",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/03/sean-benesh-ByAsuWPispM-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8666",
+          "author": "Jim Teece",
+          "description": "What does the phrase ‘Setting the Table’ mean to you? I have used this phrase for years as a metaphor for how I approach the development of organizations. This view defines the phrase as a proactive, positive development tool or concept to use to fit the elements that make a successful organization together. If you…\nThe post “Setting the Table” appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/setting-the-table/",
+          "publishedOn": "2025-03-18T20:06:31.000Z",
+          "wordCount": 3109,
+          "title": "“Setting the Table”",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/03/settingthetable.jpg"
+        },
         {
           "id": "https://southernoregonbusiness.com/?p=8660",
           "author": "Jim Teece",
