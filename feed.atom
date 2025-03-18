@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-17T23:12:14.840Z</updated>
+    <updated>2025-03-18T02:54:20.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why the Analytics/Informatics Solution Can Halt Health Plan Cost Drains]]></title>
+        <id>https://southernoregonbusiness.com/?p=8660</id>
+        <link href="https://southernoregonbusiness.com/why-the-analytics-informatics-solution-can-halt-health-plan-cost-drains/"/>
+        <updated>2025-03-17T23:28:54.000Z</updated>
+        <summary type="html"><![CDATA[By Samantha Bradley Health plan costs continue their upward march, a source of continuing financial pain for employers (and individuals) who find managing rising medical and drug costs a constant – and seemingly futile – effort. And the pressure will continue in 2025. Oregon’s Division of Financial Regulation approved median premium increases for plans on the individual…
+The post Why the Analytics/Informatics Solution Can Halt Health Plan Cost Drains appeared first on Southern Oregon Business Journal.]]></summary>
+        <author>
+            <name>Jim Teece</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STATE POLICE JAIL MAN FOR REPORTED DISORDERLY CONDUCT]]></title>
         <id>https://kqennewsradio.com/?p=130838</id>
@@ -586,16 +597,6 @@ Authorities advise against attempting to cross high water, as even shallow flood
         <summary type="html"><![CDATA[FOREST GROVE — Pacific University announced that Peyton Fisher of Winston was named to the fall 2024 dean's list. The dean's list recognizes undergraduate students with a GPA of at least 3.70 with 12 or more graded hours completed.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 14, 2025]]></title>
-        <id>67d42e476b1453000188046a</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-14-2025/"/>
-        <updated>2025-03-14T13:41:30.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
