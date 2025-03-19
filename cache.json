@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130934",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Director Kris Wiley with an update on several things happening at the library for adults and families.",
+          "link": "https://kqennewsradio.com/2025/03/19/morning-conversation-3-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-3-19-25",
+          "publishedOn": "2025-03-19T16:10:05.000Z",
+          "wordCount": 1517,
+          "title": "MORNING CONVERSATION 3.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250319150738/AM-CONV-3-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250319150952/Kris.jpg.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130927",
           "author": "Kyle Bailey",
           "description": "March 19, 2025 4:10 a.m.  A Winter Weather Advisory is in effect from 5:00 p.m. Wednesday through 5:00 p.m. Thursday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said snow is expected. Total snow accumulations between 5 and 16 inches with the highest totals in the central Cascades and...",
@@ -667,6 +682,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67dacebe6b14530001880aa6",
+          "author": "Joseph Ziegler",
+          "description": "Galesville Dam helped prevent catastrophic flooding in Douglas County. By managing water levels strategically, officials avoided an uncontrolled spillover, protecting communities from severe damage and highlighting the dam’s critical role in flood control.",
+          "link": "https://www.roseburgscanner.com/galesville-dam-plays-critical-role-in-preventing-catastrophic-flooding/",
+          "publishedOn": "2025-03-19T14:07:56.000Z",
+          "wordCount": 1234,
+          "title": "Galesville Dam Played Critical Role in Preventing Catastrophic Flooding",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/Gale-1.jpg"
+        },
+        {
+          "id": "67dac2756b14530001880986",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/march-19-2025/",
+          "publishedOn": "2025-03-19T13:25:27.000Z",
+          "wordCount": 3001,
+          "title": "March 19, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-11.png"
+        },
         {
           "id": "67d976da6b1453000188093f",
           "author": "Joseph Ziegler",
