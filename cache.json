@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130956",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Emergency Manager Emily Ring and Public Works Director Scott Adams talk about the county’s continuing response to Sunday’s storm and all the recovery work that lies ahead.",
+          "link": "https://kqennewsradio.com/2025/03/19/inside-douglas-county-3-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-19-25",
+          "publishedOn": "2025-03-19T20:15:57.000Z",
+          "wordCount": 1526,
+          "title": "INSIDE DOUGLAS COUNTY 3.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250319190939/IDC-03-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250319191545/County-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130954",
           "author": "Kyle Bailey",
           "description": "March 19, 2025 11:20 a.m. Roseburg Police cited three people for prohibited camping early Wednesday morning. An RPD report said at 3:00 a.m. a 40-year-old man was contacted because he was in a sleeping bag under the Rowe Street Bridge in the 900 block of Northeast Rowe Street. The man was allegedly surrounded by personal...",
@@ -689,6 +704,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7d3c2930-0474-11f0-bacd-0f94c48af72b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Roseburg's Happy Trails dog park is closed due to damage from the South Umpqua River flooding on Sunday.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-dog-park-is-closed/article_7d3c2930-0474-11f0-bacd-0f94c48af72b.html",
+          "publishedOn": "2025-03-19T03:44:00.000Z",
+          "wordCount": 18042,
+          "title": "Roseburg dog park is closed",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e8dbbe3e-01ff-11f0-b89a-fbe0388c669f",
           "author": "PATRICK MOORE The News-Review",
           "description": "History was dripping from the fenders at the 46th annual Roseburg benefit car show on Saturday, as golden oldies such as Lynn Anderson’s award-winning version of “I (Never Promised You a) Rose Garden” and the ubiquitous “Tequila” by The Champs…",
@@ -725,6 +750,26 @@
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8687",
+          "author": "Jim Teece",
+          "description": "By Jim Teece I have been thinking about doing a story on Brothers for a while.  Story ideas percolate in the back of my head and without thinking about them, I think about them, if that makes sense and somehow my brain puts the details into the tiny random slots in my gray matter, so…\nThe post Brothers appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/brothers/",
+          "publishedOn": "2025-03-19T21:51:22.000Z",
+          "wordCount": 3965,
+          "title": "Brothers",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/03/Screenshot-2025-03-19-at-2.28.49 PM.png"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8683",
+          "author": "Jim Teece",
+          "description": "William “Bill” Thorndike Jr., a prominent Southern Oregon business leader and dedicated community servant, passed away unexpectedly on February 15, 2025, at the age of 71. He suffered a heart attack while vacationing with his wife, Angela, at their family cabin on Whidbey Island in Washington’s Puget Sound. Born in Medford, Oregon, Bill graduated from…\nThe post Bill Thorndike’s Legacy appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/bill-thorndikes-legacy/",
+          "publishedOn": "2025-03-19T20:37:50.000Z",
+          "wordCount": 3200,
+          "title": "Bill Thorndike’s Legacy",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/03/Bill-Thorndike-SOU-Trustees-845x475-1.jpg"
+        },
         {
           "id": "https://southernoregonbusiness.com/?p=8675",
           "author": "Jim Teece",
