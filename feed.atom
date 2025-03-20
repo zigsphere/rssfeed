@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-20T13:20:54.637Z</updated>
+    <updated>2025-03-20T16:16:20.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 20, 2025]]></title>
+        <id>67dc124a6b14530001880b1c</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/march-20-2025/"/>
+        <updated>2025-03-20T13:25:28.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH THURSDAY AT 5:00 P.M.]]></title>
         <id>https://kqennewsradio.com/?p=130995</id>
@@ -906,16 +916,6 @@ For updated information, please visit www.]]></summary>
         <summary type="html"><![CDATA[March 17, 2025 2:50 a.m. The 48th annual Spring Fair is returning to the Douglas County Fairgrounds on Friday through Sunday March 28th through 30th. Considered to be southern Oregon’s premiere craft event held in celebration of the Vernal Equinox, the Spring Fair brings together local and regional artisans, crafters and entertainers for the annual...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County School Closures]]></title>
-        <id>67d7794e6b145300018805d0</id>
-        <link href="https://www.roseburgscanner.com/douglas-county-school-closures/"/>
-        <updated>2025-03-17T01:42:27.000Z</updated>
-        <summary type="html"><![CDATA[March 17, 2025]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

@@ -878,6 +878,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67dc124a6b14530001880b1c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/march-20-2025/",
+          "publishedOn": "2025-03-20T13:25:28.000Z",
+          "wordCount": 3819,
+          "title": "March 20, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-12.png"
+        },
+        {
           "id": "67db68de6b14530001880ad3",
           "author": "Joseph Ziegler",
           "description": "Local Company Manufactures, Installs New Bridge on Area Reservoir Trail",
@@ -966,16 +976,6 @@
           "wordCount": 3162,
           "title": "March 17, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-9.png"
-        },
-        {
-          "id": "67d7794e6b145300018805d0",
-          "author": "Joseph Ziegler",
-          "description": "March 17, 2025",
-          "link": "https://www.roseburgscanner.com/douglas-county-school-closures/",
-          "publishedOn": "2025-03-17T01:42:27.000Z",
-          "wordCount": 795,
-          "title": "Douglas County School Closures",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/school_closures.jpg"
         }
       ]
     }
