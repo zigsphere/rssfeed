@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=130963",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Mike is out, so today an encore program.",
+          "link": "https://kqennewsradio.com/2025/03/19/mike-winters-lawn-and-garden-show-3-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-3-19-25",
+          "publishedOn": "2025-03-19T23:43:39.000Z",
+          "wordCount": 1525,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 3.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250220000503/MWLGS-2-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=130956",
           "author": "Kyle Bailey",
           "description": "Douglas County’s Emergency Manager Emily Ring and Public Works Director Scott Adams talk about the county’s continuing response to Sunday’s storm and all the recovery work that lies ahead.",
@@ -669,26 +684,6 @@
           "wordCount": 1602,
           "title": "FLOOD ADVISORY FOR NORTHWEST DOUGLAS COUNTY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250316142437/FloodR.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130756",
-          "author": "Kyle Bailey",
-          "description": "March 16, 2025 7:00 a.m. The National Weather Service has issued some Flood Warnings in Douglas County as of early Sunday morning. *Deer Creek at Roseburg: Moderate flooding is expected. The creek will rise above the flood stage on Sunday morning to 13.2 feet, well above bankfull stage which is 10;0 feet. It will then...",
-          "link": "https://kqennewsradio.com/2025/03/16/flood-warnings-issued-in-douglas-county/?utm_source=rss&utm_medium=rss&utm_campaign=flood-warnings-issued-in-douglas-county",
-          "publishedOn": "2025-03-16T14:05:00.000Z",
-          "wordCount": 1569,
-          "title": "FLOOD WARNINGS ISSUED IN DOUGLAS COUNTY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250316125035/Sunamjpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130752",
-          "author": "Kyle Bailey",
-          "description": "March 16, 2025 6:50 a.m. The National Weather Service has issued a Flood Watch through Sunday evening for much of southern Oregon. Forecasters said a moist atmospheric river will continue to bring periods of very heavy rainfall through Sunday afternoon before pushing east of the Cascades late Sunday evening. Rainfall amounts of 3 to 6...",
-          "link": "https://kqennewsradio.com/2025/03/16/flood-watch-remains-in-effect-through-sunday-evening-2/?utm_source=rss&utm_medium=rss&utm_campaign=flood-watch-remains-in-effect-through-sunday-evening-2",
-          "publishedOn": "2025-03-16T13:50:47.000Z",
-          "wordCount": 1587,
-          "title": "FLOOD WATCH REMAINS IN EFFECT THROUGH SUNDAY EVENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250316125035/Sunamjpg.png"
         }
       ]
     },
@@ -807,6 +802,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67db68de6b14530001880ad3",
+          "author": "Joseph Ziegler",
+          "description": "Local Company Manufactures, Installs New Bridge on Area Reservoir Trail",
+          "link": "https://www.roseburgscanner.com/bridging-cooper-creek/",
+          "publishedOn": "2025-03-20T01:07:50.000Z",
+          "wordCount": 1463,
+          "title": "Bridging Cooper Creek",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/bridge1-1.jpeg"
+        },
         {
           "id": "67dacebe6b14530001880aa6",
           "author": "Joseph Ziegler",
