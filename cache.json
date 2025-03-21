@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131079",
+          "author": "Kyle Bailey",
+          "description": "A two-part program with Drain Interim City Administrator Ken Strobeck talks about the flood damage in his community, then State Representative Virgle Osborn talks about legislation currently being considered in Salem.",
+          "link": "https://kqennewsradio.com/2025/03/21/inside-douglas-county-3-21-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-3-21-25",
+          "publishedOn": "2025-03-21T20:14:40.000Z",
+          "wordCount": 1534,
+          "title": "INSIDE DOUGLAS COUNTY 3.21.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250321191056/IDC-3-21-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131077",
           "author": "Kyle Bailey",
           "description": "March 21, 2025 11:30 a.m.   A Curtin man was jailed for a felony count of driving while suspended on Thursday afternoon. A Douglas County Sheriff’s Office report said at 3:45 p.m. a deputy conducted a traffic stop near the intersection of Highway 38 and Brier Road in Drain. After learning the 48-year-old was suspended, the...",
@@ -689,76 +704,6 @@
           "wordCount": 1519,
           "title": "YONCALLA MAN JAILED FOR VIOLATION OF NO CONTAACT ORDER",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130859",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 4:10 a.m. A Winter Storm Watch remains in effect from Wednesday afternoon through Friday evening for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said heavy snow is possible. Total snow accumulations between 7 and 20 inches are forecast. This will come in as two systems with...",
-          "link": "https://kqennewsradio.com/2025/03/18/winter-storm-watch-for-mountain-areas-starts-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=winter-storm-watch-for-mountain-areas-starts-wednesday-afternoon",
-          "publishedOn": "2025-03-18T11:06:58.000Z",
-          "wordCount": 1564,
-          "title": "WINTER STORM WATCH FOR MOUNTAIN AREAS STARTS WEDNESDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318100628/Wedstorm.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130856",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 3:50 a.m. The Douglas County Commissioners declared a State of Emergency on Sunday for the entire county, due to the “extreme conditions related to the severe winter storm that impacted our county causing extreme peril to the safety or person and/or the protection of property”. A county release said the declaration empowers...",
-          "link": "https://kqennewsradio.com/2025/03/18/douglas-county-government-declares-state-of-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-government-declares-state-of-emergency",
-          "publishedOn": "2025-03-18T10:58:09.000Z",
-          "wordCount": 1669,
-          "title": "DOUGLAS COUNTY GOVERNMENT DECLARES STATE OF EMERGENCY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318095803/Event-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130853",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 3:40 a.m.  Sunday, Roseburg faced a challenging weather event as rising water and widespread flooding caused many road closures throughout the area and left numerous citizens trapped in their own homes. A Roseburg Fire Department post on social media said in response, firefighters mobilized to rescue 23 citizens who were trapped by...",
-          "link": "https://kqennewsradio.com/2025/03/18/fire-department-rescues-23-citizens-10-dogs-and-2-cats/?utm_source=rss&utm_medium=rss&utm_campaign=fire-department-rescues-23-citizens-10-dogs-and-2-cats",
-          "publishedOn": "2025-03-18T10:35:42.000Z",
-          "wordCount": 1610,
-          "title": "FIRE DEPARTMENT RESCUES 23 CITIZENS, 10 DOGS AND 2 CATS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318093519/Rescue.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130849",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 3:30 a.m.  Two H.O.P.E. Drug Court graduate phase participants are collecting needed bedding and pillows for local Oxford Houses in Douglas County. The Douglas County H.O.P.E. Drug Court program is preparing for its 109th graduation on May 13th in the Cascade Conference Hall at the fairgrounds. Graduate hopefuls Catherine Silva and Kristy...",
-          "link": "https://kqennewsradio.com/2025/03/18/bedding-being-collected-for-oxford-house/?utm_source=rss&utm_medium=rss&utm_campaign=bedding-being-collected-for-oxford-house",
-          "publishedOn": "2025-03-18T10:30:47.000Z",
-          "wordCount": 1740,
-          "title": "BEDDING BEING COLLECTED FOR OXFORD HOUSE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318093005/Bedding_for_Oxford_House-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130845",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 3:20 a.m. In the KQEN Cultural Spotlight, Umpqua Actors Community Theatre will present Little Women the Musical opening on April 3rd. Based on Louisa May Alcott’s life, Little Women follows the adventures of sisters, Jo, Meg, Beth and Amy March. Jo is trying to sell her stories for publication, but the publishers...",
-          "link": "https://kqennewsradio.com/2025/03/18/uact-with-little-women-the-musical-opening-soon/?utm_source=rss&utm_medium=rss&utm_campaign=uact-with-little-women-the-musical-opening-soon",
-          "publishedOn": "2025-03-18T10:21:21.000Z",
-          "wordCount": 1593,
-          "title": "UACT WITH LITTLE WOMEN THE MUSICAL OPENING SOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318092115/LittleUACT-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130842",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 3:05 a.m.  Glide Revitalization has pre-registration underway for its Heron’s Flight 5k Run/Walk. The event will take place on the Glide Athletic Fields on Saturday April 26th. The event has two respective flights: at 10:30 a.m. and at 12:30 p.m. The event is a fundraiser for the organization’s memorial Carmen Bernal Compassionate...",
-          "link": "https://kqennewsradio.com/2025/03/18/glide-revitalization-with-a-5k-run-walk-in-april/?utm_source=rss&utm_medium=rss&utm_campaign=glide-revitalization-with-a-5k-run-walk-in-april",
-          "publishedOn": "2025-03-18T10:14:17.000Z",
-          "wordCount": 1532,
-          "title": "GLIDE REVITALIZATION WITH A 5K RUN/WALK IN APRIL",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250318091355/Glide.jpv_.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=130840",
-          "author": "Kyle Bailey",
-          "description": "March 18, 2025 2:50 a.m.  On Monday, Senators Ron Wyden and Jeff Merkley said they have joined Senate colleagues in introducing comprehensive legislation they believe would protect veterans, military spouses and VA employees in Oregon and nationwide from cuts at the Veteran’s Administration and across the federal government. A joint release claimed those cuts were...",
-          "link": "https://kqennewsradio.com/2025/03/18/senators-and-colleagues-introduce-legislation-to-reverse-va-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=senators-and-colleagues-introduce-legislation-to-reverse-va-cuts",
-          "publishedOn": "2025-03-18T10:09:29.000Z",
-          "wordCount": 1657,
-          "title": "SENATORS AND COLLEAGUES INTRODUCE LEGISLATION TO REVERSE VA CUTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
