@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-22T23:12:00.113Z</updated>
+    <updated>2025-03-23T02:58:48.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ONE TAKEN TO HOSPITAL FOLLOWING SIDE-BY-SIDE ACCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=131095</id>
+        <link href="https://kqennewsradio.com/2025/03/22/one-taken-to-hospital-following-side-by-side-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-taken-to-hospital-following-side-by-side-accident"/>
+        <updated>2025-03-23T00:56:42.000Z</updated>
+        <summary type="html"><![CDATA[March 22, 2025 6:00 p.m.  One person was taken to the hospital, following a side-by-side accident early Saturday. A Douglas County Sheriff’s Office report said it took place at approximately 1:10 a.m. in the 8000 block of Upper Cow Creek Road in the Azalea area. The driver and passenger were riding in the hills when...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINSTON WOMAN JAILED ON ASSAULT CHARGE]]></title>
+        <id>https://kqennewsradio.com/?p=131093</id>
+        <link href="https://kqennewsradio.com/2025/03/22/winston-woman-jailed-on-assault-charge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-woman-jailed-on-assault-charge"/>
+        <updated>2025-03-23T00:41:44.000Z</updated>
+        <summary type="html"><![CDATA[March 22, 2025 5:40 p.m.  A Winston woman was jailed following an alleged assault incident early Saturday. A Douglas County Sheriff’s Office report said at 12:10 a.m. the 33-year-old suspect and a victim got into an argument at a residence in the 1000 block of Byron Creek Road. During the argument, the woman reportedly threw...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOUGLAS COUNTY FLOODING EVENT RESPONSE CONTINUES]]></title>
         <id>https://kqennewsradio.com/?p=131091</id>
@@ -622,26 +642,6 @@ The post Bill Thorndike’s Legacy appeared first on Southern Oregon Business Jo
         <summary type="html"><![CDATA[Roseburg Public Library Director Kris Wiley with an update on several things happening at the library for adults and families.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galesville Dam Played Critical Role in Preventing Catastrophic Flooding]]></title>
-        <id>67dacebe6b14530001880aa6</id>
-        <link href="https://www.roseburgscanner.com/galesville-dam-plays-critical-role-in-preventing-catastrophic-flooding/"/>
-        <updated>2025-03-19T14:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Galesville Dam helped prevent catastrophic flooding in Douglas County. By managing water levels strategically, officials avoided an uncontrolled spillover, protecting communities from severe damage and highlighting the dam’s critical role in flood control.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 19, 2025]]></title>
-        <id>67dac2756b14530001880986</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-19-2025/"/>
-        <updated>2025-03-19T13:25:27.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
