@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131119",
+          "author": "Kyle Bailey",
+          "description": "Roseburg VA Community Engagement and Partnership Coordinator William Wagner and Elena Lininger of Source One Serenity talk about the first  Roseburg Vet Cafe, happening on Saturday at the Roseburg Public Library.",
+          "link": "https://kqennewsradio.com/2025/03/24/morning-conversation-3-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-3-24-25",
+          "publishedOn": "2025-03-24T16:16:29.000Z",
+          "wordCount": 1528,
+          "title": "MORNING CONVERSATION 3.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250324150938/AM-CONV-3-24-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250324151615/Cafe.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131113",
           "author": "Kyle Bailey",
           "description": "March 24, 2025 4;00 a.m. Roseburg enjoyed a sunny Sunday afternoon but didn’t set a record high for the date. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 69 degrees at the Roseburg Regional Airport. The record high for March 23rd was 76...",
@@ -304,6 +319,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/02e8c180-2760-4825-a8ad-d4f7f444a4b5",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLENDALE — Madeline Morningstar, a senior at Glendale High School, said she has plans to be a nurse and figured it would be best to start now. She brought it up with her advisor Susie Snelling and didn't stop there.",
+          "link": "https://www.nrtoday.com/news/education/glendale-hs-enters-year-two-of-certified-nursing-assistant-program/article_02e8c180-2760-4825-a8ad-d4f7f444a4b5.html",
+          "publishedOn": "2025-03-24T13:57:00.000Z",
+          "wordCount": 18920,
+          "title": "Glendale HS enters year two of certified nursing assistant program",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/2798b02a-af6b-42e3-83d9-3cb23867e370",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "GLIDE — Andrew Chione said about 50% of his household items are made of items found in the forest. This came in handy when he was asked to bring items to display for a community event called Goods from the…",
@@ -331,6 +356,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67e0d8096b14530001880dce",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/march-24-2025/",
+          "publishedOn": "2025-03-24T13:32:24.000Z",
+          "wordCount": 2844,
+          "title": "March 24, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-14.png"
+        },
         {
           "id": "67dd641f6b14530001880c67",
           "author": "Joseph Ziegler",
