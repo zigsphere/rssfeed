@@ -329,16 +329,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250321151855/Jenna.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131050",
-          "author": "Kyle Bailey",
-          "description": "March 21, 2025 6:00 a.m. The Glendale School District is in session on Friday. Superintendent Bridget McMillen said classes will be on their regular schedule. The district does not normally operate on Fridays but is doing so this week as a make-up day after being closed on Monday, due to rain and flooding around Douglas...",
-          "link": "https://kqennewsradio.com/2025/03/21/glendale-schools-in-session-friday/?utm_source=rss&utm_medium=rss&utm_campaign=glendale-schools-in-session-friday",
-          "publishedOn": "2025-03-21T13:02:32.000Z",
-          "wordCount": 1504,
-          "title": "GLENDALE SCHOOLS IN SESSION FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
         }
       ]
     },
@@ -392,6 +382,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67e1fd6a6b14530001880f16",
+          "author": "Joseph Ziegler",
+          "description": "ODF has sent 26 firefighters and 2 reps to North Carolina to help battle wildfires. The deployment is part of a mutual aid agreement, returning support received in 2024. Crews are assigned to the Black Cove incident, with Oregon ensuring its own fire readiness remains a top priority.",
+          "link": "https://www.roseburgscanner.com/odf-sends-26-firefighters-to-north-carolina-to-support-wildfire-response/",
+          "publishedOn": "2025-03-25T00:52:04.000Z",
+          "wordCount": 1256,
+          "title": "ODF Sends 26 Firefighters to North Carolina to Support Wildfire Response",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/ODF_logo.png"
+        },
+        {
           "id": "67e0d8096b14530001880dce",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -400,16 +400,6 @@
           "wordCount": 2844,
           "title": "March 24, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-14.png"
-        },
-        {
-          "id": "67dd641f6b14530001880c67",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/march-21-2025/",
-          "publishedOn": "2025-03-21T13:23:46.000Z",
-          "wordCount": 3042,
-          "title": "March 21, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-13.png"
         }
       ]
     }

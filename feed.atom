@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-24T23:12:11.680Z</updated>
+    <updated>2025-03-25T02:55:25.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ODF Sends 26 Firefighters to North Carolina to Support Wildfire Response]]></title>
+        <id>67e1fd6a6b14530001880f16</id>
+        <link href="https://www.roseburgscanner.com/odf-sends-26-firefighters-to-north-carolina-to-support-wildfire-response/"/>
+        <updated>2025-03-25T00:52:04.000Z</updated>
+        <summary type="html"><![CDATA[ODF has sent 26 firefighters and 2 reps to North Carolina to help battle wildfires. The deployment is part of a mutual aid agreement, returning support received in 2024. Crews are assigned to the Black Cove incident, with Oregon ensuring its own fire readiness remains a top priority.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.24.25]]></title>
         <id>https://kqennewsradio.com/?p=131140</id>
@@ -332,26 +342,6 @@
         <link href="https://kqennewsradio.com/2025/03/21/morning-conversation-3-21-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-3-21-25"/>
         <updated>2025-03-21T16:19:09.000Z</updated>
         <summary type="html"><![CDATA[Glide Revitalization Executive Director Jenna Beam talks about this upcoming Heron’s Flight 5K Run/Walk event in Glide.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 21, 2025]]></title>
-        <id>67dd641f6b14530001880c67</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-21-2025/"/>
-        <updated>2025-03-21T13:23:46.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLENDALE SCHOOLS IN SESSION FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=131050</id>
-        <link href="https://kqennewsradio.com/2025/03/21/glendale-schools-in-session-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=glendale-schools-in-session-friday"/>
-        <updated>2025-03-21T13:02:32.000Z</updated>
-        <summary type="html"><![CDATA[March 21, 2025 6:00 a.m. The Glendale School District is in session on Friday. Superintendent Bridget McMillen said classes will be on their regular schedule. The district does not normally operate on Fridays but is doing so this week as a make-up day after being closed on Monday, due to rain and flooding around Douglas...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
