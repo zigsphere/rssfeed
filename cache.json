@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131194",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/03/25/true-wealth-3-25-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-3-25-25",
+          "publishedOn": "2025-03-26T00:06:51.000Z",
+          "wordCount": 1505,
+          "title": "TRUE WEALTH 3.25.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250325230432/TWR-3-25-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131191",
           "author": "Kyle Bailey",
           "description": "Wildlife Safari General Curator Dan Brands talks about the damage the game park sustained during the recent storm/flood event, and how the community can help the non-profit financially with the costs they have incurred due to the damage.",
@@ -384,16 +399,6 @@
           "wordCount": 1752,
           "title": "DOUGLAS COUNTY FLOODING EVENT RESPONSE CONTINUES",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250320101241/Graphic_-_Douglas_County_Flood_Event_Info.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131086",
-          "author": "Kyle Bailey",
-          "description": "March 22, 2025 6:40 a.m. An inmate at the Douglas County Jail escaped following a courtroom hearing Friday afternoon but was captured a short time later after a large-scale police search. Undersheriff Brad O’Dell of the Douglas County Sheriff’s Office said at approximately 2:00 p.m. 24-year-old Alexander Matthew Pearson of Reedsport, who was in custody...",
-          "link": "https://kqennewsradio.com/2025/03/22/inmate-escapes-court-hearing-captured-in-homeless-camping-area/?utm_source=rss&utm_medium=rss&utm_campaign=inmate-escapes-court-hearing-captured-in-homeless-camping-area",
-          "publishedOn": "2025-03-22T13:45:50.000Z",
-          "wordCount": 1677,
-          "title": "INMATE ESCAPES COURT HEARING, CAPTURED IN HOMELESS CAMPING AREA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250322124226/capture1.jpg"
         }
       ]
     },
