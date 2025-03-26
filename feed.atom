@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-26T19:10:22.520Z</updated>
+    <updated>2025-03-26T23:12:09.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 3.26.25]]></title>
+        <id>https://kqennewsradio.com/?p=131240</id>
+        <link href="https://kqennewsradio.com/2025/03/26/inside-douglas-county-3-26-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-3-26-25"/>
+        <updated>2025-03-26T20:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Emergency Manager Emily Ring has an updated on the county’s work to help residents recover from the recent flood event:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE THREE PEOPLE FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=131238</id>
