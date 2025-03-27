@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131244",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program.",
+          "link": "https://kqennewsradio.com/2025/03/26/miike-winters-lawn-and-garden-show-3-26-25/?utm_source=rss&utm_medium=rss&utm_campaign=miike-winters-lawn-and-garden-show-3-26-25",
+          "publishedOn": "2025-03-27T00:09:06.000Z",
+          "wordCount": 1520,
+          "title": "MIIKE WINTERS LAWN AND GARDEN SHOW 3.26.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250326230649/MWLGS-3-26-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224218/winters.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131240",
           "author": "Kyle Bailey",
           "description": "Douglas County Emergency Manager Emily Ring has an updated on the county’s work to help residents recover from the recent flood event:",
