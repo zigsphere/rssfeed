@@ -797,6 +797,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67e60be86b1453000188131e",
+          "author": "Joseph Ziegler",
+          "description": "Two 17-year-old girls were critically injured in a crash near Sutherlin on March 26 after their vehicle collided with a truck towing an excavator. The teens were transferred to Portland hospitals. The truck driver sustained minor injuries and cooperated with the investigation.",
+          "link": "https://www.roseburgscanner.com/two-teens-critically-injured-in-crash-near-sutherlin/",
+          "publishedOn": "2025-03-28T02:43:07.000Z",
+          "wordCount": 1131,
+          "title": "Two Teens Critically Injured in Crash Near Sutherlin",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/police_lights_trr.png"
+        },
+        {
           "id": "67e553416b145300018811fc",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -865,16 +875,6 @@
           "wordCount": 1256,
           "title": "ODF Sends 26 Firefighters to North Carolina to Support Wildfire Response",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/ODF_logo.png"
-        },
-        {
-          "id": "67e0d8096b14530001880dce",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/march-24-2025/",
-          "publishedOn": "2025-03-24T13:32:24.000Z",
-          "wordCount": 2844,
-          "title": "March 24, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-14.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-27T23:12:56.069Z</updated>
+    <updated>2025-03-28T02:56:33.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Teens Critically Injured in Crash Near Sutherlin]]></title>
+        <id>67e60be86b1453000188131e</id>
+        <link href="https://www.roseburgscanner.com/two-teens-critically-injured-in-crash-near-sutherlin/"/>
+        <updated>2025-03-28T02:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Two 17-year-old girls were critically injured in a crash near Sutherlin on March 26 after their vehicle collided with a truck towing an excavator. The teens were transferred to Portland hospitals. The truck driver sustained minor injuries and cooperated with the investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SERIOUS CRASH SENDS TWO TEENS TO HOSPITAL]]></title>
         <id>https://kqennewsradio.com/?p=131290</id>
@@ -774,16 +784,6 @@
         <summary type="html"><![CDATA[GLENDALE — Madeline Morningstar, a senior at Glendale High School, said she has plans to be a nurse and figured it would be best to start now. She brought it up with her advisor Susie Snelling and didn't stop there.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 24, 2025]]></title>
-        <id>67e0d8096b14530001880dce</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-24-2025/"/>
-        <updated>2025-03-24T13:32:24.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
