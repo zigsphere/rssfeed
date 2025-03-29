@@ -619,6 +619,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c48d2102-dce3-42dd-ae43-8df369d5e1f9",
+          "author": "Kris Wiley Roseburg Public Library",
+          "description": "We’re two months away from the start of Roseburg Public Library’s Summer Reading Program, and we are busy planning a fun and meaningful 12-week schedule.",
+          "link": "https://www.nrtoday.com/news/education/summer-reading-prep-at-roseburg-library/article_c48d2102-dce3-42dd-ae43-8df369d5e1f9.html",
+          "publishedOn": "2025-03-28T15:00:00.000Z",
+          "wordCount": 17727,
+          "title": "Summer Reading Prep at Roseburg Library",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/97d3f7bc-a282-4311-8385-cc0faf9d903b",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Hopes for a youth sports complex took a hit last week when an appropriations bill in the Oregon State Legislature failed to get out of committee. Senate Bill 923 was sponsored by Sen. David Brock Smith (R-Port Orford) and sought…",
+          "link": "https://www.nrtoday.com/news/local/youth-sports-park-still-a-dream/article_97d3f7bc-a282-4311-8385-cc0faf9d903b.html",
+          "publishedOn": "2025-03-28T14:30:00.000Z",
+          "wordCount": 18464,
+          "title": "Youth sports park still a dream",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/29/a293fefb-1fe2-497a-aa51-41f5257a607a/67e5766a94d7f.image.png?resize=300%2C158",
+            "length": "657599",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/29/a293fefb-1fe2-497a-aa51-41f5257a607a/67e5766a94d7f.image.png?resize=300%2C158"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9c3cad8e-bc9f-4e77-bcc6-f3559f83c19f",
           "author": "DREW WINKELMAIER The News-Review",
           "description": "Dan Bain has been named the Male First Citizen of 2024 on March 21 during the Roseburg Area Chamber of Commerce 70th annual awards dinner, placing him in prestigious company along community leaders that have made a positive impact on…",
@@ -745,16 +770,6 @@
           "wordCount": 3463,
           "title": "March 26, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-16.png"
-        },
-        {
-          "id": "67e36c6d6b14530001881049",
-          "author": "Joseph Ziegler",
-          "description": "Winston’s 50-year 4th of July fireworks tradition may not happen this year. With $25,000 still needed and little support so far, the event is at risk of being canceled. Community donations and volunteers are urgently needed to keep this celebration alive. Let’s not lose the 50th before it begins.",
-          "link": "https://www.roseburgscanner.com/a-community-tradition-at-risk-help-save-winstons-4th-of-july-fireworks/",
-          "publishedOn": "2025-03-26T03:25:06.000Z",
-          "wordCount": 1390,
-          "title": "A Community Tradition at Risk: Help Save Winston's 4th of July Fireworks",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/firewords_waid.jpg"
         }
       ]
     }
