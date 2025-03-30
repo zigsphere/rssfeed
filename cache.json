@@ -454,6 +454,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ef58d4bb-9a3c-4a66-9614-d52c3f3d6cc4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Mevana Appletree said she has come to sell tie-dye at the 48th Annual Spring Fair in Roseburg consistently since 1992.",
+          "link": "https://www.nrtoday.com/news/local/newcomers-and-experts-alike-vend-at-48th-annual-spring-fair/article_ef58d4bb-9a3c-4a66-9614-d52c3f3d6cc4.html",
+          "publishedOn": "2025-03-30T14:30:00.000Z",
+          "wordCount": 19370,
+          "title": "Newcomers and experts alike vend at 48th Annual Spring Fair",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/19/d1989ecd-9cab-408a-9d56-310b1081160f/67e8bbebd1442.image.jpg?resize=300%2C200",
+            "length": "350671",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/19/d1989ecd-9cab-408a-9d56-310b1081160f/67e8bbebd1442.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c48d2102-dce3-42dd-ae43-8df369d5e1f9",
           "author": "Kris Wiley Roseburg Public Library",
           "description": "We’re two months away from the start of Roseburg Public Library’s Summer Reading Program, and we are busy planning a fun and meaningful 12-week schedule.",
