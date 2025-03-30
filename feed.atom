@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-03-29T23:11:59.568Z</updated>
+    <updated>2025-03-30T03:01:46.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WIND ADVISORY FOR REGION FROM 11:00 A.M. TO 11:00 P.M. SUNDAY]]></title>
+        <id>https://kqennewsradio.com/?p=131353</id>
+        <link href="https://kqennewsradio.com/2025/03/30/wind-advisory-for-region-from-1100-a-m-to-1100-p-m-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wind-advisory-for-region-from-1100-a-m-to-1100-p-m-sunday"/>
+        <updated>2025-03-30T01:07:14.000Z</updated>
+        <summary type="html"><![CDATA[March 29, 2025 6:00 p.m.  A Wind Advisory is in effect from 11:00 a.m. to 11:00 p.m. Sunday for parts of southern Oregon. Forecasters at the National Weather Service said south winds of of 25-30 miles per hour with gusts up to 45 miles per hour are expected. The Advisory Area includes the higher terrain...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOVERNOR DECLARES EMERGENCY DUE TO SEVERE FLOODING IN SOUTHEASTERN OREGON]]></title>
+        <id>https://kqennewsradio.com/?p=131351</id>
+        <link href="https://kqennewsradio.com/2025/03/29/governor-declares-emergency-due-to-severe-flooding-in-southeastern-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-declares-emergency-due-to-severe-flooding-in-southeastern-oregon"/>
+        <updated>2025-03-30T00:51:22.000Z</updated>
+        <summary type="html"><![CDATA[March 29, 2025 5:50 p.m.  On Saturday, Governor Tina Kotek declared an emergency due to severe flooding in southeastern Oregon. Kotek said, “Floodwaters in Harney County and on the Burns Paiute Reservation have created serious public health and environmental hazards and they need all hands on deck. This declaration allows the state to act swiftly...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUGENE MAN JAILED FOR ALLEGED DUII/RESISTING ARREST INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=131349</id>
@@ -594,56 +614,6 @@
         <summary type="html"><![CDATA[The Oregon Department of Fish and Wildlife will host a Turkey Hunting Clinic and Patterning Day all day April 6 at the Roseburg Rod and Gun Club. The event is open to ages 8 and up.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN, COLLEAGUES SLAM IMMIGRATION REGISTRATION ORDER]]></title>
-        <id>https://kqennewsradio.com/?p=131217</id>
-        <link href="https://kqennewsradio.com/2025/03/26/wyden-colleagues-slam-immigration-registration-order/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-colleagues-slam-immigration-registration-order"/>
-        <updated>2025-03-26T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[March 26, 2025 6:50 a.m.  On Tuesday, Senate Ron Wyden joined a group of Senate colleagues in a letter to the U.S. Citizenship and Immigration Services opposing the Trump administration’s resurrection of an immigration policy that forces immigrants to register with the federal government and carry proof of their registration at all times. The letter...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookingglass Brewery in Winston For Sale]]></title>
-        <id>67e405f26b145300018811b7</id>
-        <link href="https://www.roseburgscanner.com/lookingglass-brewery-in-winston-for-sale/"/>
-        <updated>2025-03-26T13:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Lookingglass Brewery in Winston is up for sale. Founded in 2015 by Mark and Lydia Nunnelee, the $1.9M listing includes the business and building. It’s the only brewery between Roseburg and Grants Pass. Learn more at lgbrewpub.com.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookingglass Brewery in Winston For Sale Due to Health Concerns]]></title>
-        <id>67e405f26b145300018811b7</id>
-        <link href="https://www.roseburgscanner.com/lookingglass-brewery-in-winston-for-sale-due-to-health-concerns/"/>
-        <updated>2025-03-26T13:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Lookingglass Brewery in Winston is up for sale due to a health issue. Founded in 2015 by Mark and Lydia Nunnelee, the $1.9M listing includes the business and building. It’s the only brewery between Roseburg and Grants Pass. Learn more at lgbrewpub.com.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 26, 2025]]></title>
-        <id>67e402726b14530001881081</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/march-26-2025/"/>
-        <updated>2025-03-26T13:46:31.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG LIKELY SET NEW RECORD HIGH TEMPERATURE ON TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=131212</id>
-        <link href="https://kqennewsradio.com/2025/03/26/roseburg-likely-set-new-record-high-temperature-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-likely-set-new-record-high-temperature-on-tuesday"/>
-        <updated>2025-03-26T11:12:10.000Z</updated>
-        <summary type="html"><![CDATA[March 26, 2025 4:10 a.m.   It is most likely that Roseburg set a new record high temperature for the date on Tuesday, but there is no official record due to broken equipment at the monitoring site at the Roseburg Regional Airport. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
