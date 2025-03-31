@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131380",
+          "author": "Kyle Bailey",
+          "description": "From Roseburg Parks and Recreation, Tracy David talks about the Arbor Day Photo Contest, and also about the Easter Egg Drop, which is happening Saturday, April 19th at the softball field just north of Champion Car Wash Field.",
+          "link": "https://kqennewsradio.com/2025/03/31/morning-conversation-3-31-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-3-31-25",
+          "publishedOn": "2025-03-31T16:13:17.000Z",
+          "wordCount": 1536,
+          "title": "MORNING CONVERSATION 3.31.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250331145519/AM-CONV-03-31-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250331151301/Tracey-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131375",
           "author": "Kyle Bailey",
           "description": "March 31, 2025 5:20 a.m. A Winter Weather Advisory remains in effect until 5:00 p.m. Tuesday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service said snow is forecast with accumulations of 3 to 6 inches with up to 12 inches over higher terrain. Winds will be gusting as high...",
@@ -382,6 +397,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "67ea1a306b14530001881469",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/march-31-2025/",
+          "publishedOn": "2025-03-31T13:42:10.000Z",
+          "wordCount": 2405,
+          "title": "March 31, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-19.png"
+        },
+        {
           "id": "67e6a6946b1453000188132e",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -390,16 +415,6 @@
           "wordCount": 3488,
           "title": "March 28, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/The-Morning-Scoop-18.png"
-        },
-        {
-          "id": "67e60be86b1453000188131e",
-          "author": "Joseph Ziegler",
-          "description": "Two 17-year-old girls were critically injured in a crash near Sutherlin on March 26 after their vehicle collided with a truck towing an excavator. The teens were transferred to Portland hospitals. The truck driver sustained minor injuries and cooperated with the investigation.",
-          "link": "https://www.roseburgscanner.com/two-teens-critically-injured-in-crash-near-sutherlin/",
-          "publishedOn": "2025-03-28T02:43:07.000Z",
-          "wordCount": 1131,
-          "title": "Two Teens Critically Injured in Crash Near Sutherlin",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/03/police_lights_trr.png"
         }
       ]
     }
