@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-01T19:10:31.896Z</updated>
+    <updated>2025-04-01T23:12:31.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.1.25]]></title>
+        <id>https://kqennewsradio.com/?p=131452</id>
+        <link href="https://kqennewsradio.com/2025/04/01/inside-douglas-county-4-1-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-4-1-25"/>
+        <updated>2025-04-01T20:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Douglas C.A.R.E.S. Executive Director Sarah Wickersham and staffer Amanda Kremer talk about the work of the non-profit as Child Abuse Prevention and Awareness Month is underway. They also talked about a couple of upcoming community events.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TAX DAY JUST TWO WEEKS AWAY]]></title>
         <id>https://kqennewsradio.com/?p=131448</id>
@@ -97,6 +107,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Phoenix Charter School invests in improvements, eyes upcoming sponsorship renewal meeting with Roseburg Public Schools]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2a2627ba-ef1d-457e-bac0-77dac1f3693f</id>
+        <link href="https://www.nrtoday.com/news/education/phoenix-charter-school-invests-in-improvements-eyes-upcoming-sponsorship-renewal-meeting-with-roseburg-public-schools/article_2a2627ba-ef1d-457e-bac0-77dac1f3693f.html"/>
+        <updated>2025-04-01T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Phoenix Charter School has gone through some changes, and now it’s looking to renew its sponsorship under Roseburg Public Schools for the foreseeable future.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ROSEBURG WITH HEAVY RAINFALL IN MARCH BUT DATA INCOMPLETE]]></title>
         <id>https://kqennewsradio.com/?p=131425</id>
         <link href="https://kqennewsradio.com/2025/04/01/roseburg-with-heavy-rainfall-in-march-but-data-incomplete/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-with-heavy-rainfall-in-march-but-data-incomplete"/>
@@ -164,6 +184,16 @@
         <summary type="html"><![CDATA[April 1, 2025 2:50 a.m. On Monday, Senator Ron Wyden and Massachusetts Senator Edward Markey released legislation they claim will protect Americans against Elon Musk, DOGE and other officials accessing stores of personal data held by the government. A release from Wyden’s office said that it includes social security numbers, medical history, financial data and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackwood recognized by Cisco again for instructor excellence]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d73f2f33-eeb4-48d3-9218-3dffce582423</id>
+        <link href="https://www.nrtoday.com/news/education/blackwood-recognized-by-cisco-again-for-instructor-excellence/article_d73f2f33-eeb4-48d3-9218-3dffce582423.html"/>
+        <updated>2025-04-01T02:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Community College associate professor of Computer Information Systems John Blackwood was recognized as Instructor Excellence Expert by Cisco Systems.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -384,26 +414,6 @@
         <summary type="html"><![CDATA[March 29, 2025 10:00 a.m. A Roseburg man was jailed after allegedly hitting a court security deputy at the courthouse on Friday. A Douglas County Sheriff’s Office report said at 7:50 a.m. court security radioed for backup on the 3rd floor of the courthouse.  When deputies arrived, the 57-year-old man had already been detained. The...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Reading Prep at Roseburg Library]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c48d2102-dce3-42dd-ae43-8df369d5e1f9</id>
-        <link href="https://www.nrtoday.com/news/education/summer-reading-prep-at-roseburg-library/article_c48d2102-dce3-42dd-ae43-8df369d5e1f9.html"/>
-        <updated>2025-03-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re two months away from the start of Roseburg Public Library’s Summer Reading Program, and we are busy planning a fun and meaningful 12-week schedule.]]></summary>
-        <author>
-            <name>Kris Wiley Roseburg Public Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youth sports park still a dream]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/97d3f7bc-a282-4311-8385-cc0faf9d903b</id>
-        <link href="https://www.nrtoday.com/news/local/youth-sports-park-still-a-dream/article_97d3f7bc-a282-4311-8385-cc0faf9d903b.html"/>
-        <updated>2025-03-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hopes for a youth sports complex took a hit last week when an appropriations bill in the Oregon State Legislature failed to get out of committee. Senate Bill 923 was sponsored by Sen. David Brock Smith (R-Port Orford) and sought…]]></summary>
-        <author>
-            <name>PATRICK MOORE The News-Review</name>
         </author>
     </entry>
 </feed>

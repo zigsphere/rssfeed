@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131452",
+          "author": "Kyle Bailey",
+          "description": "Douglas C.A.R.E.S. Executive Director Sarah Wickersham and staffer Amanda Kremer talk about the work of the non-profit as Child Abuse Prevention and Awareness Month is underway. They also talked about a couple of upcoming community events.",
+          "link": "https://kqennewsradio.com/2025/04/01/inside-douglas-county-4-1-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-4-1-25",
+          "publishedOn": "2025-04-01T20:22:12.000Z",
+          "wordCount": 1535,
+          "title": "INSIDE DOUGLAS COUNTY 4.1.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250401191621/IDC-04-01-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250401192122/CARES-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131448",
           "author": "Kyle Bailey",
           "description": "April 1, 2025 11:00 a.m. Nearly 1.2 million Oregonians have already filed their state personal income tax returns this year. A release from the Oregon Department of Revenue said that with just two more weeks before taxes are due on April 15th, more than 1 million Oregonians have yet to submit their tax year 2024...",
@@ -374,6 +389,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2a2627ba-ef1d-457e-bac0-77dac1f3693f",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Phoenix Charter School has gone through some changes, and now it’s looking to renew its sponsorship under Roseburg Public Schools for the foreseeable future.",
+          "link": "https://www.nrtoday.com/news/education/phoenix-charter-school-invests-in-improvements-eyes-upcoming-sponsorship-renewal-meeting-with-roseburg-public-schools/article_2a2627ba-ef1d-457e-bac0-77dac1f3693f.html",
+          "publishedOn": "2025-04-01T13:30:00.000Z",
+          "wordCount": 13607,
+          "title": "Phoenix Charter School invests in improvements, eyes upcoming sponsorship renewal meeting with Roseburg Public Schools",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/a5/0a57ac0b-6d4c-41b7-b3eb-3fd77c2381a3/67e42da9c1852.image.jpg?resize=300%2C200",
+            "length": "300702",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/a5/0a57ac0b-6d4c-41b7-b3eb-3fd77c2381a3/67e42da9c1852.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d73f2f33-eeb4-48d3-9218-3dffce582423",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Umpqua Community College associate professor of Computer Information Systems John Blackwood was recognized as Instructor Excellence Expert by Cisco Systems.",
+          "link": "https://www.nrtoday.com/news/education/blackwood-recognized-by-cisco-again-for-instructor-excellence/article_d73f2f33-eeb4-48d3-9218-3dffce582423.html",
+          "publishedOn": "2025-04-01T02:16:00.000Z",
+          "wordCount": 13911,
+          "title": "Blackwood recognized by Cisco again for instructor excellence",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ef58d4bb-9a3c-4a66-9614-d52c3f3d6cc4",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Mevana Appletree said she has come to sell tie-dye at the 48th Annual Spring Fair in Roseburg consistently since 1992.",
@@ -402,31 +442,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/5f/c5ff8653-9a98-43d3-8243-df6cca7e9143/67e8bf9ad152e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c48d2102-dce3-42dd-ae43-8df369d5e1f9",
-          "author": "Kris Wiley Roseburg Public Library",
-          "description": "We’re two months away from the start of Roseburg Public Library’s Summer Reading Program, and we are busy planning a fun and meaningful 12-week schedule.",
-          "link": "https://www.nrtoday.com/news/education/summer-reading-prep-at-roseburg-library/article_c48d2102-dce3-42dd-ae43-8df369d5e1f9.html",
-          "publishedOn": "2025-03-28T15:00:00.000Z",
-          "wordCount": 17727,
-          "title": "Summer Reading Prep at Roseburg Library",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/97d3f7bc-a282-4311-8385-cc0faf9d903b",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "Hopes for a youth sports complex took a hit last week when an appropriations bill in the Oregon State Legislature failed to get out of committee. Senate Bill 923 was sponsored by Sen. David Brock Smith (R-Port Orford) and sought…",
-          "link": "https://www.nrtoday.com/news/local/youth-sports-park-still-a-dream/article_97d3f7bc-a282-4311-8385-cc0faf9d903b.html",
-          "publishedOn": "2025-03-28T14:30:00.000Z",
-          "wordCount": 18464,
-          "title": "Youth sports park still a dream",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/29/a293fefb-1fe2-497a-aa51-41f5257a607a/67e5766a94d7f.image.png?resize=300%2C158",
-            "length": "657599",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/29/a293fefb-1fe2-497a-aa51-41f5257a607a/67e5766a94d7f.image.png?resize=300%2C158"
         }
       ]
     },
