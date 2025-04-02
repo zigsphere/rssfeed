@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-02T13:23:17.447Z</updated>
+    <updated>2025-04-02T16:16:21.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Land Swap for Roseburg's Charter Oaks Heads to State Legislature]]></title>
+        <id>67ed59116b145300018817c2</id>
+        <link href="https://www.roseburgscanner.com/land-swap-for-roseburgs-charter-oaks-heads-to-state-legislature/"/>
+        <updated>2025-04-02T15:38:02.000Z</updated>
+        <summary type="html"><![CDATA[A proposed state bill would fast-track Roseburg’s Charter Oaks expansion by bypassing regulatory delays through a land swap with Douglas County. If passed, it could reshape how Oregon handles contested urban growth.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 2, 2025]]></title>
+        <id>67ed3b2c6b145300018816b5</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-2-2025/"/>
+        <updated>2025-04-02T13:42:26.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOUSE GOP LEADER SUPPORTS REPEAL OF WILDFIRE HAZARD MAPS]]></title>
         <id>https://kqennewsradio.com/?p=131480</id>
