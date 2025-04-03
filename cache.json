@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131557",
+          "author": "Kyle Bailey",
+          "description": "Marion Pearson from the Douglas County Human Trafficking Coalition, the UP2US Now Child Abuse Prevention Coalition and the Mercy Foundation talks about Child Abuse Prevention and Awareness Month",
+          "link": "https://kqennewsradio.com/2025/04/03/inside-douglas-county-4-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-4-3-25",
+          "publishedOn": "2025-04-03T20:39:30.000Z",
+          "wordCount": 1530,
+          "title": "INSIDE DOUGLAS COUNTY 4.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250403193512/IDC-4-3-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250403193916/Marion-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131555",
           "author": "Kyle Bailey",
           "description": "April 3, 2025 11:25 a.m.  Roseburg Police cited a man for offensive littering early Thursday morning. An RPD report said just after 12:30 a.m. officers contacted a 58-year-old who was at Eagles Park in the 700 block of Southeast Jackson Street downtown. The man reportedly had trash scattered around him. After his citation, he was...",
@@ -649,46 +664,6 @@
           "wordCount": 1605,
           "title": "WINTER WEATHER ADVISORY IN EFFECT UNTIL 5PM TUESDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250331112321/MonAM2.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131369",
-          "author": "Kyle Bailey",
-          "description": "March 31, 2025 3:30 a.m.  As recovery continues from the March 2025 Storm Event, Douglas County government continues to urge residents to take part in its damage assessment survey. A county release said to even begin the process of trying to apply for possible state and federal support or funding, the county must meet a...",
-          "link": "https://kqennewsradio.com/2025/03/31/county-urging-residents-to-report-flood-damage/?utm_source=rss&utm_medium=rss&utm_campaign=county-urging-residents-to-report-flood-damage",
-          "publishedOn": "2025-03-31T10:23:30.000Z",
-          "wordCount": 1588,
-          "title": "COUNTY URGING RESIDENTS TO REPORT FLOOD DAMAGE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250327095336/report.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131364",
-          "author": "Kyle Bailey",
-          "description": "March 31, 2025 3;20 a.m. In the KQEN Business Spotlight: Rogue Credit Union and Members 1st Credit Union have announced their intent to merge. A release said the move will combine the strength of two respected credit unions to maximize member value and deepen community impact. Pending approval from the National Credit Union Administration, state...",
-          "link": "https://kqennewsradio.com/2025/03/31/rogue-credit-union-and-members-first-credit-union-set-to-merge/?utm_source=rss&utm_medium=rss&utm_campaign=rogue-credit-union-and-members-first-credit-union-set-to-merge",
-          "publishedOn": "2025-03-31T10:16:22.000Z",
-          "wordCount": 1665,
-          "title": "ROGUE CREDIT UNION AND MEMBERS FIRST CREDIT UNION SET TO MERGE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250331091602/stronger.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131362",
-          "author": "Kyle Bailey",
-          "description": "March 31, 2025 3:05 a.m. The annual state convention of the Oregon Old Time Fiddler’s Association begins this Thursday in Winston. The event will continue through Saturday and is held at the Winston Assembly of God Church on Southeast Darrell Avenue. With around 200 musicians and fans coming, it will be an ideal place to...",
-          "link": "https://kqennewsradio.com/2025/03/31/state-convention-of-old-time-fiddlers-begins-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=state-convention-of-old-time-fiddlers-begins-thursday",
-          "publishedOn": "2025-03-31T10:09:46.000Z",
-          "wordCount": 1582,
-          "title": "STATE CONVENTION OF OLD TIME FIDDLERS BEGINS THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250320092228/Oldtime2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131357",
-          "author": "Kyle Bailey",
-          "description": "March 31, 2025 2:50 a.m.  In the KQEN Cultural Spotlight: The Art Gallery at Umpqua Community College presents “Fire and Ice” by Bob Keefer on display through May 6th. The selection of hand-painted photographs explores the strange beauty of climate-driven devastation in the forests of western Oregon and are on display at the Whipple Fine...",
-          "link": "https://kqennewsradio.com/2025/03/31/ucc-art-gallery-presents-fire-and-ice-on-display-through-may-31st/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-art-gallery-presents-fire-and-ice-on-display-through-may-31st",
-          "publishedOn": "2025-03-31T10:01:03.000Z",
-          "wordCount": 1624,
-          "title": "UCC ART GALLERY PRESENTS “FIRE AND ICE” ON DISPLAY THROUGH  MAY 31ST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250331090027/Art2.jpg"
         }
       ]
     },
