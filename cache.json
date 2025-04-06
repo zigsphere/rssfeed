@@ -504,16 +504,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250402151606/Stock.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131480",
-          "author": "Kyle Bailey",
-          "description": "April 2, 2025 5:40 a.m.  On Tuesday, Oregon House Republican Leader Christine Drazan released a statement in response to Senate Bill 83, which makes changes to building code standards for a wildfire mitigation that House Republicans proposed in House Bill 3944. A release from Drazan said a public hearing on the Senate bill was held...",
-          "link": "https://kqennewsradio.com/2025/04/02/house-gop-leader-supports-repeal-of-wildfire-hazard-maps/?utm_source=rss&utm_medium=rss&utm_campaign=house-gop-leader-supports-repeal-of-wildfire-hazard-maps",
-          "publishedOn": "2025-04-02T12:37:40.000Z",
-          "wordCount": 1592,
-          "title": "HOUSE GOP LEADER SUPPORTS REPEAL OF WILDFIRE HAZARD MAPS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221532/drazan-e1608723169567.jpg"
         }
       ]
     },
@@ -527,23 +517,7 @@
       "title": "www.nrtoday.com - RSS Results in news/local of type article",
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1c8d1cb6-89df-4dab-bd41-dd23371a3733",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "Roseburg’s long-planned expansion into the Charter Oaks neighborhood undertook a new strategy this week with a legislative proposal brought to the state capital by Rep. Virgle Osborne, R-Roseburg, and Sen. David Brock Smith, R-Port Orford.",
-          "link": "https://www.nrtoday.com/news/local/land-swap-moves-to-legislature/article_1c8d1cb6-89df-4dab-bd41-dd23371a3733.html",
-          "publishedOn": "2025-04-02T14:30:00.000Z",
-          "wordCount": 13335,
-          "title": "Land swap moves to legislature",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/80/680b7d29-9984-47e7-b513-ba41e25965ee/67ebbe58b4be7.image.png?resize=300%2C464",
-            "length": "1630649",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/80/680b7d29-9984-47e7-b513-ba41e25965ee/67ebbe58b4be7.image.png?resize=300%2C464"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Southern Oregon Business Journal",
@@ -585,16 +559,6 @@
           "wordCount": 1533,
           "title": "Land Swap for Roseburg's Charter Oaks Heads to State Legislature",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/City-of-Roseburg-Logo.jpg"
-        },
-        {
-          "id": "67ed3b2c6b145300018816b5",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/april-2-2025/",
-          "publishedOn": "2025-04-02T13:42:26.000Z",
-          "wordCount": 3338,
-          "title": "April 2, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-1.png"
         }
       ]
     }
