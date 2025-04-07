@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-07T13:23:47.127Z</updated>
+    <updated>2025-04-07T16:14:29.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 4.7.25]]></title>
+        <id>https://kqennewsradio.com/?p=131648</id>
+        <link href="https://kqennewsradio.com/2025/04/07/morning-conversation-4-7-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-4-7-25"/>
+        <updated>2025-04-07T16:13:12.000Z</updated>
+        <summary type="html"><![CDATA[YMCA of Douglas County Marketing and Development Director Brittany Arnold talks about Healthy Kids Day April 26th and lots of other classes and activities happening during the month of April.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fairgrounds Announces 2025 Entertainment!]]></title>
+        <id>67f3f85b6b14530001881ba0</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-fairgrounds-announces-2025-entertainment/"/>
+        <updated>2025-04-07T16:11:46.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Fairgrounds has announced its entertainment for the 2025 Douglas County Fair!
+
+Wednesday August 6th: Bull riding
+Thursday August 7th: Two bands - LIT and Fuel
+Friday August 8th: Coltford
+Saturday August 9th: Sir Mix-a-Lot]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 7, 2025]]></title>
+        <id>67f35fef6b14530001881a15</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-7-2025/"/>
+        <updated>2025-04-07T13:43:50.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WITH NEAR RECORD RAINFALL FOR THE DATE ON SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=131639</id>

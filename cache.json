@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131648",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County Marketing and Development Director Brittany Arnold talks about Healthy Kids Day April 26th and lots of other classes and activities happening during the month of April.",
+          "link": "https://kqennewsradio.com/2025/04/07/morning-conversation-4-7-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-7-25",
+          "publishedOn": "2025-04-07T16:13:12.000Z",
+          "wordCount": 1521,
+          "title": "MORNING CONVERSATION 4.7.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250407150946/AM-CONV-04-07-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250407151253/Brittany.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131639",
           "author": "Kyle Bailey",
           "description": "April 7, 2025 3:50 a.m.  Roseburg had near record rainfall for the date on Sunday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that 0.65 inches of rain was recorded at the Roseburg Regional Airport. That is just below the record amount of rainfall for the date...",
@@ -315,6 +330,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67f3f85b6b14530001881ba0",
+          "author": "Joseph Ziegler",
+          "description": "The Douglas County Fairgrounds has announced its entertainment for the 2025 Douglas County Fair!\n\nWednesday August 6th: Bull riding\nThursday August 7th: Two bands - LIT and Fuel\nFriday August 8th: Coltford\nSaturday August 9th: Sir Mix-a-Lot",
+          "link": "https://www.roseburgscanner.com/douglas-county-fairgrounds-announces-2025-entertainment/",
+          "publishedOn": "2025-04-07T16:11:46.000Z",
+          "wordCount": 951,
+          "title": "Douglas County Fairgrounds Announces 2025 Entertainment!",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/fairgrounds.jpg"
+        },
+        {
+          "id": "67f35fef6b14530001881a15",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-7-2025/",
+          "publishedOn": "2025-04-07T13:43:50.000Z",
+          "wordCount": 2844,
+          "title": "April 7, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-4.png"
+        },
         {
           "id": "67efdfaf6b14530001881909",
           "author": "Joseph Ziegler",
