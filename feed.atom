@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-08T23:12:34.955Z</updated>
+    <updated>2025-04-09T02:57:44.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 4.8.25]]></title>
+        <id>https://kqennewsradio.com/?p=131730</id>
+        <link href="https://kqennewsradio.com/2025/04/08/true-wealth-4-8-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-4-8-25"/>
+        <updated>2025-04-09T00:39:56.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.5.24]]></title>
         <id>https://kqennewsradio.com/?p=131726</id>
@@ -357,16 +367,6 @@ Saturday August 9th: Sir Mix-a-Lot]]></summary>
         <link href="https://kqennewsradio.com/2025/04/06/three-taken-to-hospital-after-single-vehicle-accident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=three-taken-to-hospital-after-single-vehicle-accident"/>
         <updated>2025-04-06T13:36:40.000Z</updated>
         <summary type="html"><![CDATA[April 6, 2025 6:30 a.m. Three people were taken to the hospital after a single vehicle accident on Friday night. A Douglas County Sheriff’s Office report said at 6:10 p.m. units responded to the wreck in the 16000 block of Dixonville Road in the Dixonville area. A 29-year-old driver said she was heading northbound with...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEACH HAZARDS STATEMENT STARTING SATURDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=131617</id>
-        <link href="https://kqennewsradio.com/2025/04/05/beach-hazards-statement-starting-saturday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=beach-hazards-statement-starting-saturday-night"/>
-        <updated>2025-04-05T13:47:23.000Z</updated>
-        <summary type="html"><![CDATA[April 4, 2025 6:40 a.m.  The National Weather Service has issued a Beach Hazards Statement which is in effect from late Saturday night through Sunday afternoon at 5:00 p.m. Forecasters said there is a moderate risk of sneaker waves for all beaches in Douglas and Coos counties. Sneaker waves can run up significantly farther on...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

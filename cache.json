@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131730",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program",
+          "link": "https://kqennewsradio.com/2025/04/08/true-wealth-4-8-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-4-8-25",
+          "publishedOn": "2025-04-09T00:39:56.000Z",
+          "wordCount": 1505,
+          "title": "TRUE WEALTH 4.8.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250408233902/TWR-04-08-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131726",
           "author": "Kyle Bailey",
           "description": "Adapt Integrated Health Care Crisis Team Manager Doug Walton talks about the uptick in suicides recently and how to help those struggling.",
@@ -329,16 +344,6 @@
           "wordCount": 1562,
           "title": "THREE TAKEN TO HOSPITAL AFTER SINGLE VEHICLE ACCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131617",
-          "author": "Kyle Bailey",
-          "description": "April 4, 2025 6:40 a.m.  The National Weather Service has issued a Beach Hazards Statement which is in effect from late Saturday night through Sunday afternoon at 5:00 p.m. Forecasters said there is a moderate risk of sneaker waves for all beaches in Douglas and Coos counties. Sneaker waves can run up significantly farther on...",
-          "link": "https://kqennewsradio.com/2025/04/05/beach-hazards-statement-starting-saturday-night/?utm_source=rss&utm_medium=rss&utm_campaign=beach-hazards-statement-starting-saturday-night",
-          "publishedOn": "2025-04-05T13:47:23.000Z",
-          "wordCount": 1565,
-          "title": "BEACH HAZARDS STATEMENT STARTING SATURDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250405124712/Sneaker-3.png"
         }
       ]
     },
