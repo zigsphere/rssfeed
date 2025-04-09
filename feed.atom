@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-09T13:24:35.643Z</updated>
+    <updated>2025-04-09T16:16:50.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 9, 2025]]></title>
+        <id>67f677786b14530001881d3a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-9-2025/"/>
+        <updated>2025-04-09T13:50:01.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA VALLEY TO SEE HIGH TEMPERATURES ABOUT 10 DEGREES ABOVE NORMAL]]></title>
         <id>https://kqennewsradio.com/?p=131751</id>
