@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131781",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program",
+          "link": "https://kqennewsradio.com/2025/04/09/mike-winters-lawn-and-garden-show-4-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-4-9-25",
+          "publishedOn": "2025-04-10T00:40:01.000Z",
+          "wordCount": 1517,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 4.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250409232542/MWLGS-04-09-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250409233954/newmike-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131777",
           "author": "Kyle Bailey",
           "description": "Glide Revitalization Program Director Kendall Melvin talks about their work to help with recovery from the March 2025 Flood Event in the county.",
@@ -499,26 +514,6 @@
           "wordCount": 1656,
           "title": "BLM REOPENS ROGUE RIVER TRAIL AFTER LANDSLIDE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250407091224/BLM2.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131624",
-          "author": "Kyle Bailey",
-          "description": "April 7, 2025 7:10 a.m. A transient was jailed for a reported escape incident early Friday. A Douglas County Sheriff’s Office report said shortly before 12:30 a.m. a 46-year-old was called in after a disturbance ensued with a family member in the 800 block of Southeast Jackson Street in Roseburg. Officers arrived on the scene...",
-          "link": "https://kqennewsradio.com/2025/04/06/transient-jailed-for-reported-escape-incident/?utm_source=rss&utm_medium=rss&utm_campaign=transient-jailed-for-reported-escape-incident",
-          "publishedOn": "2025-04-06T14:08:49.000Z",
-          "wordCount": 1628,
-          "title": "TRANSIENT JAILED FOR REPORTED ESCAPE INCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131622",
-          "author": "Kyle Bailey",
-          "description": "April 6, 2025 6:30 a.m. Three people were taken to the hospital after a single vehicle accident on Friday night. A Douglas County Sheriff’s Office report said at 6:10 p.m. units responded to the wreck in the 16000 block of Dixonville Road in the Dixonville area. A 29-year-old driver said she was heading northbound with...",
-          "link": "https://kqennewsradio.com/2025/04/06/three-taken-to-hospital-after-single-vehicle-accident/?utm_source=rss&utm_medium=rss&utm_campaign=three-taken-to-hospital-after-single-vehicle-accident",
-          "publishedOn": "2025-04-06T13:36:40.000Z",
-          "wordCount": 1562,
-          "title": "THREE TAKEN TO HOSPITAL AFTER SINGLE VEHICLE ACCIDENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
