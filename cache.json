@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131805",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Court Boice talks about legislation under consideration by the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2025/04/10/morning-conversation-4-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-10-25",
+          "publishedOn": "2025-04-10T16:15:28.000Z",
+          "wordCount": 1515,
+          "title": "MORNING CONVERSATION 4.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250410151357/AM-CONV-4-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131800",
           "author": "Kyle Bailey",
           "description": "April 10, 2025 3:50 a.m.   The high temperature in Roseburg was nearly 10 degrees above normal on Wednesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 71 degrees at the Roseburg Regional Airport. The normal high temperature for April 9th is 62 degrees....",
@@ -616,6 +631,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67f7c8476b14530001881e83",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-10-2025/",
+          "publishedOn": "2025-04-10T13:50:22.000Z",
+          "wordCount": 3225,
+          "title": "April 10, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-7.png"
+        },
         {
           "id": "67f677786b14530001881d3a",
           "author": "Joseph Ziegler",
