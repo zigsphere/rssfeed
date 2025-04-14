@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131920",
+          "author": "Kyle Bailey",
+          "description": "Live from near Lakeview, U.S. Senator Jeff Merkley talks about tariffs, a drop in tourism to the U.S., his priorities for this spring, and other topics.",
+          "link": "https://kqennewsradio.com/2025/04/14/morning-conversation-4-14-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-14-25",
+          "publishedOn": "2025-04-14T16:14:32.000Z",
+          "wordCount": 1521,
+          "title": "MORNING CONVERSATION 4.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250414151205/AM-CONV-04-14-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131916",
           "author": "Kyle Bailey",
           "description": "April 14, 2025 3:50 a.m.   Monday is forecast to be the hottest day of 2025 so far in Roseburg. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the high is expected to be 83 degrees at the Roseburg Regional Airport.  The normal high temperatures for this...",
@@ -305,6 +320,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67fd10e36b1453000188227b",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg is expected to hit 83°F on Monday, making it the hottest day of 2025 so far. That’s nearly 20 degrees above normal for April. The previous high this year was 78°F. While not a record, it’s close - the hottest April 14th on record was 88°F, set back in 1947",
+          "link": "https://www.roseburgscanner.com/roseburg-set-for-hottest-day-of-2025-so-far/",
+          "publishedOn": "2025-04-14T13:45:32.000Z",
+          "wordCount": 1149,
+          "title": "Roseburg Set for Hottest Day of 2025 So Far",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/monday_warm.png"
+        },
+        {
+          "id": "67fc90216b1453000188210c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-14-2025/",
+          "publishedOn": "2025-04-14T13:36:55.000Z",
+          "wordCount": 2665,
+          "title": "April 14, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-9.png"
+        },
         {
           "id": "67f918a66b14530001881fce",
           "author": "Joseph Ziegler",
