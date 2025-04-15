@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131961",
+          "author": "Kyle Bailey",
+          "description": "Congresswomen Val Hoyle talks about a push to provide federal funding for an Oregon Veterans Home in Roseburg, the current climate in Washington D.C. and other topics.",
+          "link": "https://kqennewsradio.com/2025/04/15/morning-conversation-4-14-25-2/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-14-25-2",
+          "publishedOn": "2025-04-15T16:02:19.000Z",
+          "wordCount": 1523,
+          "title": "MORNING CONVERSATION 4.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250415145242/AM-CONV-04-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250415143412/Val.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131958",
           "author": "Kyle Bailey",
           "description": "April 15, 2025 4:00 a.m. It was the hottest day of the year so far in the Umpqua Valley on Monday with above normal temperatures expected through Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 84 degrees at the Roseburg Regional Airport....",
@@ -306,6 +321,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "67fe60406b14530001882298",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-15-2025/",
+          "publishedOn": "2025-04-15T13:46:39.000Z",
+          "wordCount": 2687,
+          "title": "April 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-10.png"
+        },
         {
           "id": "67fd10e36b1453000188227b",
           "author": "Joseph Ziegler",
