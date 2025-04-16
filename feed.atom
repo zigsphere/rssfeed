@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-16T13:23:59.729Z</updated>
+    <updated>2025-04-16T16:16:56.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Subway Reopens on Stewart Parkway in Roseburg]]></title>
+        <id>67ffb84d6b145300018824de</id>
+        <link href="https://www.roseburgscanner.com/subway-reopens-on-stewart-parkway-in-roseburg/"/>
+        <updated>2025-04-16T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[The Subway on Stewart Parkway in Roseburg has reopened under new ownership. Now operated by Utahsubs, the location features a drive-thru and is open daily from 8 a.m. to 10 p.m. It joins their other stores in Myrtle Creek and Canyonville, with 10 to 12 employees staffing the shop.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 16, 2025]]></title>
+        <id>67ffb2ba6b145300018823b6</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-16-2025/"/>
+        <updated>2025-04-16T13:55:32.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAD THE SECOND WARMEST DAY OF 2025 ON TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=132007</id>
