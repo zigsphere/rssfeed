@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-16T19:09:56.469Z</updated>
+    <updated>2025-04-16T23:12:10.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.16.25]]></title>
+        <id>https://kqennewsradio.com/?p=132030</id>
+        <link href="https://kqennewsradio.com/2025/04/16/inside-douglas-county-4-16-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-4-16-25"/>
+        <updated>2025-04-16T20:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Representative Court Boice weighs in on the impacts of federal changes on funding for state projects, wildfire funding, cell phones in schools,  water use exemptions for small farmers and other topics.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CANYONVILLE WOMAN JAILED FOR WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=132028</id>
