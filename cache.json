@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=131986",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/04/15/true-wealth-4-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-4-15-25",
+          "publishedOn": "2025-04-16T00:37:24.000Z",
+          "wordCount": 1507,
+          "title": "TRUE WEALTH 4.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250415232557/TWR-4-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=131982",
           "author": "Kyle Bailey",
           "description": "Casa of Douglas County Executive Director Angela Gross talks about the non-profit organization and its work helping children that are in the foster care system",
@@ -364,16 +379,6 @@
           "wordCount": 1638,
           "title": "TRANSIENT JAILED FOLLOWING LATE NIGHT ROCK THROWING SPREE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=131895",
-          "author": "Kyle Bailey",
-          "description": "April 12, 2025 7:00 a.m. (Man has been located safe as of Saturday morning) A Grants Pass area man is missing, and the Josephine County Sheriff’s Office is seeking help from the public. 33-year-old Roy Osbourne Damrill left his home outside Grants Pass on Sunday, April 6th. Damrill is known to frequent the mountains for...",
-          "link": "https://kqennewsradio.com/2025/04/12/grants-pass-area-man-missing-since-april-6th/?utm_source=rss&utm_medium=rss&utm_campaign=grants-pass-area-man-missing-since-april-6th",
-          "publishedOn": "2025-04-12T14:06:36.000Z",
-          "wordCount": 1588,
-          "title": "GRANTS PASS AREA MAN MISSING SINCE APRIL 6TH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250412130620/Missing2-1.jpg"
         }
       ]
     },

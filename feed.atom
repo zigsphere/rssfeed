@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-15T23:12:32.180Z</updated>
+    <updated>2025-04-16T03:01:13.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 4.15.25]]></title>
+        <id>https://kqennewsradio.com/?p=131986</id>
+        <link href="https://kqennewsradio.com/2025/04/15/true-wealth-4-15-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-4-15-25"/>
+        <updated>2025-04-16T00:37:24.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 4.15.25]]></title>
         <id>https://kqennewsradio.com/?p=131982</id>
@@ -382,16 +392,6 @@
         <link href="https://kqennewsradio.com/2025/04/12/transient-jailed-following-late-night-rock-throwing-spree/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transient-jailed-following-late-night-rock-throwing-spree"/>
         <updated>2025-04-12T16:31:09.000Z</updated>
         <summary type="html"><![CDATA[April 21, 2025 9;30 a.m.  A transient was jailed following a late-night rock throwing spree on Friday. A Douglas County Sheriff’s Office report said at 11:00 p.m. several callers reported that windows on their homes were being damaged by an unknown man throwing rocks. This took place on Northwest Broad Street and Northwest Mercy Hills...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRANTS PASS AREA MAN MISSING SINCE APRIL 6TH]]></title>
-        <id>https://kqennewsradio.com/?p=131895</id>
-        <link href="https://kqennewsradio.com/2025/04/12/grants-pass-area-man-missing-since-april-6th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=grants-pass-area-man-missing-since-april-6th"/>
-        <updated>2025-04-12T14:06:36.000Z</updated>
-        <summary type="html"><![CDATA[April 12, 2025 7:00 a.m. (Man has been located safe as of Saturday morning) A Grants Pass area man is missing, and the Josephine County Sheriff’s Office is seeking help from the public. 33-year-old Roy Osbourne Damrill left his home outside Grants Pass on Sunday, April 6th. Damrill is known to frequent the mountains for...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
