@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132068",
+          "author": "Kyle Bailey",
+          "description": "The Glide Wildflower Show is celebrating its 60th anniversary next weekend.  One of the organizers, Janice Wimberly talks about the event and its long history.",
+          "link": "https://kqennewsradio.com/2025/04/17/morning-conversation-4-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-17-25",
+          "publishedOn": "2025-04-17T16:09:50.000Z",
+          "wordCount": 1519,
+          "title": "MORNING CONVERSATION 4.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250417150705/AM-C-ONV-4-17-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250411091533/Glide-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132064",
           "author": "Kyle Bailey",
           "description": "April 17, 2025 5:50 a.m.  In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre wraps up its production of Little Women the Musical this weekend. The performances are on Thursday, Friday and Saturday at 7:00 p.m. with a matinee Sunday at 2:00 p.m. Tickets are $17 for adults and $12 for children aged 12 and...",
@@ -666,6 +681,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "680101c26b8dda00013a5a80",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-17-2025/",
+          "publishedOn": "2025-04-17T13:43:55.000Z",
+          "wordCount": 3216,
+          "title": "April 17, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-12.png"
+        },
         {
           "id": "67ffb84d6b145300018824de",
           "author": "Joseph Ziegler",
