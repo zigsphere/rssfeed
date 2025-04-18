@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-17T23:12:07.448Z</updated>
+    <updated>2025-04-18T02:56:20.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -674,26 +674,6 @@
         <summary type="html"><![CDATA[Throughout the years, fifth grade students from various Douglas County schools have the opportunity to help plant trees and learn about the forest while doing so.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Set for Hottest Day of 2025 So Far]]></title>
-        <id>67fd10e36b1453000188227b</id>
-        <link href="https://www.roseburgscanner.com/roseburg-set-for-hottest-day-of-2025-so-far/"/>
-        <updated>2025-04-14T13:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg is expected to hit 83°F on Monday, making it the hottest day of 2025 so far. That’s nearly 20 degrees above normal for April. The previous high this year was 78°F. While not a record, it’s close - the hottest April 14th on record was 88°F, set back in 1947]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 14, 2025]]></title>
-        <id>67fc90216b1453000188210c</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/april-14-2025/"/>
-        <updated>2025-04-14T13:36:55.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
