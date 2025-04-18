@@ -647,23 +647,7 @@
       "title": "www.nrtoday.com - RSS Results in news/local of type article",
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea416f34-342d-4ae2-b9e5-758a26525cc4",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Throughout the years, fifth grade students from various Douglas County schools have the opportunity to help plant trees and learn about the forest while doing so.",
-          "link": "https://www.nrtoday.com/news/local/fir-grove-winchester-students-leave-their-mark-in-winston-area/article_ea416f34-342d-4ae2-b9e5-758a26525cc4.html",
-          "publishedOn": "2025-04-14T13:57:00.000Z",
-          "wordCount": 14222,
-          "title": "Fir Grove, Winchester students leave their mark in Winston area",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/0a/e0a7b922-0099-4c60-8cbb-69c0046c475c/67fd237ead3c0.image.jpg?resize=300%2C200",
-            "length": "392745",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/0a/e0a7b922-0099-4c60-8cbb-69c0046c475c/67fd237ead3c0.image.jpg?resize=300%2C200"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Southern Oregon Business Journal",
@@ -676,6 +660,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "680267a36b8dda00013a5ce2",
+          "author": "Joseph Ziegler",
+          "description": "An Oregon man was arrested after a six-week-old baby was hospitalized with serious injuries. Doctors found signs of ongoing abuse. Gage Dubuc, 24, of Myrtle Creek, faces felony child abuse charges and is being extradited to Shasta County.",
+          "link": "https://www.roseburgscanner.com/oregon-man-arrested-after-baby-hospitalized-with-broken-bones-brain-bleeds/",
+          "publishedOn": "2025-04-18T14:57:33.000Z",
+          "wordCount": 1155,
+          "title": "Oregon man arrested after baby hospitalized with broken bones, brain bleeds",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/krcr.webp"
+        },
+        {
+          "id": "680252bd6b8dda00013a5bbf",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-18-2025/",
+          "publishedOn": "2025-04-18T13:41:22.000Z",
+          "wordCount": 3048,
+          "title": "April 18, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-13.png"
+        },
         {
           "id": "680101c26b8dda00013a5a80",
           "author": "Joseph Ziegler",
