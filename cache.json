@@ -708,7 +708,18 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8736",
+          "author": "Jim Teece",
+          "description": "By Jim Teece I recently saw a video clip of Donald Trump from 1988 where he was on the Oprah Winfrey show, and he shared his thoughts on tariffs. His ideas then are what we are seeing him play out now, in his second term as President of the United States, some 37 years later.…\nThe post My thoughts on Tariffs appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/my-thoughts-on-tariffs/",
+          "publishedOn": "2025-04-19T00:49:43.000Z",
+          "wordCount": 3363,
+          "title": "My thoughts on Tariffs",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
@@ -764,16 +775,6 @@
           "wordCount": 3356,
           "title": "April 16, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-11.png"
-        },
-        {
-          "id": "67fe60406b14530001882298",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/april-15-2025/",
-          "publishedOn": "2025-04-15T13:46:39.000Z",
-          "wordCount": 2687,
-          "title": "April 15, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-10.png"
         }
       ]
     }
