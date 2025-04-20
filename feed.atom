@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-19T23:13:26.963Z</updated>
+    <updated>2025-04-20T03:03:48.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg’s 2025 Fourth of July Fireworks Show Officially Canceled]]></title>
+        <id>6804615e6b8dda00013a5d2c</id>
+        <link href="https://www.roseburgscanner.com/roseburgs-2025-fourth-of-july-fireworks-show-officially-canceled/"/>
+        <updated>2025-04-20T02:55:06.000Z</updated>
+        <summary type="html"><![CDATA[Due to lack of volunteer support, the Roseburg Hometown 4th of July Fireworks Committee has officially canceled the 2025 show. The organization is seeking dedicated individuals to take over leadership for future events.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tragedy on OR 42: UCC Softball Team Involved in Fatal Crash]]></title>
+        <id>6804494b6b8dda00013a5d19</id>
+        <link href="https://www.roseburgscanner.com/tragedy-on-or-42-ucc-softball-team-involved-in-fatal-crash/"/>
+        <updated>2025-04-20T01:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Two people were killed and several members of the UCC softball team injured in a head-on crash on OR 42 in Coos County. A van carrying 10 players was struck by a pickup that crossed the centerline. Impaired driving is suspected. The crash is under investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COLLEGE HEAD SOFTBALL COACH, PLAYER FROM IDAHO, DECEASED AFTER TWO-VEHICLE CRASH]]></title>
+        <id>https://kqennewsradio.com/?p=132165</id>
+        <link href="https://kqennewsradio.com/2025/04/19/college-head-softball-coach-player-from-idaho-deceased-after-two-vehicle-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=college-head-softball-coach-player-from-idaho-deceased-after-two-vehicle-crash"/>
+        <updated>2025-04-19T23:44:09.000Z</updated>
+        <summary type="html"><![CDATA[April 19, 2025 4:40 p.m.  The head coach of the Umpqua Community College softball team and a student athlete from Idaho died as the result of a two-vehicle crash on Highway 42, two miles east of Myrtle Point, on Friday night. Impaired driving by the pickup operator who caused the wreck is considered a primary...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA COMMUNITY COLLEGE ATHLETE, COACH DIE IN VEHICLE ACCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=132161</id>
@@ -505,26 +535,6 @@ The post My thoughts on Tariffs appeared first on Southern Oregon Business Journ
         <summary type="html"><![CDATA[Logan Bennett of the Oregon State University Extension Service talks about a workshop on vermicomposting that is happening on Thursday.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subway Reopens on Stewart Parkway in Roseburg]]></title>
-        <id>67ffb84d6b145300018824de</id>
-        <link href="https://www.roseburgscanner.com/subway-reopens-on-stewart-parkway-in-roseburg/"/>
-        <updated>2025-04-16T14:03:08.000Z</updated>
-        <summary type="html"><![CDATA[The Subway on Stewart Parkway in Roseburg has reopened under new ownership. Now operated by Utahsubs, the location features a drive-thru and is open daily from 8 a.m. to 10 p.m. It joins their other stores in Myrtle Creek and Canyonville, with 10 to 12 employees staffing the shop.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 16, 2025]]></title>
-        <id>67ffb2ba6b145300018823b6</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/april-16-2025/"/>
-        <updated>2025-04-16T13:55:32.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
