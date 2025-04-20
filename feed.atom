@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-20T13:20:36.909Z</updated>
+    <updated>2025-04-20T16:13:48.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Riddle Sawdust Jubilee at Risk: Community Support Urgently Needed to Keep Tradition Alive]]></title>
+        <id>680504e46b8dda00013a5d3c</id>
+        <link href="https://www.roseburgscanner.com/riddle-sawdust-jubilee-at-risk-community-support-urgently-needed-to-keep-tradition-alive/"/>
+        <updated>2025-04-20T14:36:14.000Z</updated>
+        <summary type="html"><![CDATA[The Riddle Sawdust Jubilee is at risk of cancellation due to low volunteer turnout and funding. Organizers urge the community to step up, donate, or volunteer to help save this cherished tradition. Let’s work together to keep the Jubilee alive for future generations.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg’s 2025 Fourth of July Fireworks Show Officially Canceled]]></title>
         <id>6804615e6b8dda00013a5d2c</id>
