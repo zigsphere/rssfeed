@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132295",
+          "author": "Kyle Bailey",
+          "description": "U.S. Senator Ron Wyden joins us from Portland as he is on a Town Hall swing through Oregon.  Wyden talked about the Umpqua Community College tragedy last Friday, his views of tariff’s being imposed by President Trump and a number of other topics including the potential for an Oregon Veterans Home on the Roseburg VA ...",
+          "link": "https://kqennewsradio.com/2025/04/23/morning-conversation-4-23-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-23-25",
+          "publishedOn": "2025-04-23T16:13:13.000Z",
+          "wordCount": 1554,
+          "title": "MORNING CONVERSATION 4.23.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250423151038/AM-CONV-04-23-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132292",
           "author": "Kyle Bailey",
           "description": "April 23, 2025 3:50 a.m.  State Representative Court Boice is praising the passage of legislation he says will offer airspace protections for emergency response operations. Tuesday, the Oregon House passed HB 3426 A, which modifies penalties for using an unmanned aircraft, or drone, to interfere with law enforcement, firefighting or search and rescue. Boice said,...",
@@ -618,6 +633,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6808eba66b8dda00013a602f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-23-2024/",
+          "publishedOn": "2025-04-23T13:47:33.000Z",
+          "wordCount": 3308,
+          "title": "April 23, 2024",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-16.png"
+        },
+        {
           "id": "68079a776b8dda00013a5efa",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -646,16 +671,6 @@
           "wordCount": 1248,
           "title": "Riddle Sawdust Jubilee at Risk: Community Support Urgently Needed to Keep Tradition Alive",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/1000003438.jpg"
-        },
-        {
-          "id": "6804615e6b8dda00013a5d2c",
-          "author": "Joseph Ziegler",
-          "description": "Due to lack of volunteer support, the Roseburg Hometown 4th of July Fireworks Committee has officially canceled the 2025 show. The organization is seeking dedicated individuals to take over leadership for future events.",
-          "link": "https://www.roseburgscanner.com/roseburgs-2025-fourth-of-july-fireworks-show-officially-canceled/",
-          "publishedOn": "2025-04-20T02:55:06.000Z",
-          "wordCount": 1290,
-          "title": "Roseburg’s 2025 Fourth of July Fireworks Show Officially Canceled",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/fw_cancelled.png"
         }
       ]
     }
