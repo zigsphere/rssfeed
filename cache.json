@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132347",
+          "author": "Kyle Bailey",
+          "description": "Sadie Hammond from the Outpatient Pharmacy Department at the Roseburg VA talks about Saturday’s national prescription drug take back event – which is also happening at the VA in Roseburg and Eugene",
+          "link": "https://kqennewsradio.com/2025/04/24/morning-conversation-4-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-24-25",
+          "publishedOn": "2025-04-24T16:09:49.000Z",
+          "wordCount": 1531,
+          "title": "MORNING CONVERSATION 4.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250424150706/AM-CONV-4-24-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250424150941/Hammond.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132344",
           "author": "Kyle Bailey",
           "description": "April 24, 2025 4;00 a.m. The Umpqua Valley will see a short-term shift to wet conditions late Thursday, continuing through Saturday night or perhaps early on Sunday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a chance of showers and thunderstorms are expected for Thursday night....",
@@ -624,6 +639,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/52a9083c-ae1b-4409-8f98-8c70956a760a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — The air in the welding shop at Glide High School crackled with anticipation as over 20 students from Glide and Oakland high schools began showing their skills in stick welding.",
+          "link": "https://www.nrtoday.com/news/education/glide-oakland-students-gain-welding-certification-from-airgas/article_52a9083c-ae1b-4409-8f98-8c70956a760a.html",
+          "publishedOn": "2025-04-24T14:28:00.000Z",
+          "wordCount": 13588,
+          "title": "Glide, Oakland students gain welding certification from Airgas",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/81/281ed3a7-ce95-496f-858c-e1b908e04706/680a4da53f344.image.jpg?resize=300%2C200",
+            "length": "380724",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/81/281ed3a7-ce95-496f-858c-e1b908e04706/680a4da53f344.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ace55d97-da2e-41cf-a4e6-4e81590d9907",
           "author": "JOEY KEERAN The News-Review",
           "description": "We’re getting a call to the bullpen for summer youth baseball in Douglas County.",
@@ -662,6 +692,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "680a3e3e6b8dda00013a6155",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-24-2025/",
+          "publishedOn": "2025-04-24T13:46:15.000Z",
+          "wordCount": 2825,
+          "title": "April 24, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-17.png"
+        },
         {
           "id": "6808eba66b8dda00013a602f",
           "author": "Joseph Ziegler",

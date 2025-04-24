@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-24T13:24:52.384Z</updated>
+    <updated>2025-04-24T16:16:43.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 4.24.25]]></title>
+        <id>https://kqennewsradio.com/?p=132347</id>
+        <link href="https://kqennewsradio.com/2025/04/24/morning-conversation-4-24-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-4-24-25"/>
+        <updated>2025-04-24T16:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Sadie Hammond from the Outpatient Pharmacy Department at the Roseburg VA talks about Saturday’s national prescription drug take back event – which is also happening at the VA in Roseburg and Eugene]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glide, Oakland students gain welding certification from Airgas]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/52a9083c-ae1b-4409-8f98-8c70956a760a</id>
+        <link href="https://www.nrtoday.com/news/education/glide-oakland-students-gain-welding-certification-from-airgas/article_52a9083c-ae1b-4409-8f98-8c70956a760a.html"/>
+        <updated>2025-04-24T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — The air in the welding shop at Glide High School crackled with anticipation as over 20 students from Glide and Oakland high schools began showing their skills in stick welding.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 24, 2025]]></title>
+        <id>680a3e3e6b8dda00013a6155</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-24-2025/"/>
+        <updated>2025-04-24T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHORT-TERM SHIFT TO SHOWERS FOR THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=132344</id>
