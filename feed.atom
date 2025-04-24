@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-23T23:12:43.404Z</updated>
+    <updated>2025-04-24T03:01:44.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WOMAN HOSPITALIZED FOLLOWING TWO-VEHICLE WRECK ON TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=132331</id>
+        <link href="https://kqennewsradio.com/2025/04/23/woman-hospitalized-following-two-vehicle-wreck-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=woman-hospitalized-following-two-vehicle-wreck-on-tuesday"/>
+        <updated>2025-04-24T00:10:37.000Z</updated>
+        <summary type="html"><![CDATA[April 23, 2025 5:15 p.m.  A woman was hospitalized following a two-vehicle wreck on Tuesday. A report from the Douglas County Sheriff’s Office said at 11:25 a.m. the 69-year-old driver of a sedan was stopped at a stop sign at the intersection of Elgarose Road and Orchard Lane in Melrose. A 54-year-old pickup driver attempted...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 4.23.25]]></title>
+        <id>https://kqennewsradio.com/?p=132328</id>
+        <link href="https://kqennewsradio.com/2025/04/23/mike-winters-lawn-and-garden-show-4-23-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-4-23-25"/>
+        <updated>2025-04-24T00:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, has the weekly local lawn and garden program. Now age 78, Mike has hosted the program for over 20 years.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JEEP GOES OFF ROAD INTO RIVER NEAR GLIDE]]></title>
         <id>https://kqennewsradio.com/?p=132326</id>
@@ -699,16 +719,6 @@ The post Difficult to Fill Job Openings in 2024 appeared first on Southern Orego
 The post Oregon’s Wood Product Manufacturing Industry Is Still Important, Especially in Rural Areas appeared first on Southern Oregon Business Journal.]]></summary>
         <author>
             <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riddle Sawdust Jubilee at Risk: Community Support Urgently Needed to Keep Tradition Alive]]></title>
-        <id>680504e46b8dda00013a5d3c</id>
-        <link href="https://www.roseburgscanner.com/riddle-sawdust-jubilee-at-risk-community-support-urgently-needed-to-keep-tradition-alive/"/>
-        <updated>2025-04-20T14:36:14.000Z</updated>
-        <summary type="html"><![CDATA[The Riddle Sawdust Jubilee is at risk of cancellation due to low volunteer turnout and funding. Organizers urge the community to step up, donate, or volunteer to help save this cherished tradition. Let’s work together to keep the Jubilee alive for future generations.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
