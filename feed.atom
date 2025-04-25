@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-25T13:23:02.751Z</updated>
+    <updated>2025-04-25T16:16:24.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 25, 2025]]></title>
+        <id>680b8a456b8dda00013a6290</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-25-2025/"/>
+        <updated>2025-04-25T13:25:44.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UCC SOFTBALL TEAM HONORED BY LARGE CROWD AT CHAMPION CAR WASH FIELD]]></title>
         <id>https://kqennewsradio.com/?p=132394</id>
