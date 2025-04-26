@@ -549,6 +549,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ce0e533-f86e-4912-bea9-f322d0d27362",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Jade Snelling has been many things: a native of Roseburg, a professional archivist, a teaching assistant in Europe and a game show contestant, to name a few.",
+          "link": "https://www.nrtoday.com/news/from-roseburg-to-primetime-all-about-jeopardy-contestant-jade-snelling/article_1ce0e533-f86e-4912-bea9-f322d0d27362.html",
+          "publishedOn": "2025-04-25T18:41:00.000Z",
+          "wordCount": 13175,
+          "title": "From Roseburg to primetime: All about \"Jeopardy!\" contestant Jade Snelling",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/2f/a2f0fec1-1152-41ca-b29a-4d08160f9df3/68094aa18fa29.image.jpg?resize=300%2C300",
+            "length": "106934",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/2f/a2f0fec1-1152-41ca-b29a-4d08160f9df3/68094aa18fa29.image.jpg?resize=300%2C300"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c43d5f3-a2ea-4d19-953c-f2ea41d75f65",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Love was shared, runs were scored and tears were shed on Thursday evening at Champion Car Wash Field in Roseburg. There, a crowded stadium beared witness to not only a doubleheader of baseball games but also a moment of silence…",
+          "link": "https://www.nrtoday.com/news/for-ucc-softball-douglas-county-comes-together-in-moment-of-silence/article_8c43d5f3-a2ea-4d19-953c-f2ea41d75f65.html",
+          "publishedOn": "2025-04-25T17:00:00.000Z",
+          "wordCount": 14274,
+          "title": "For UCC softball: Douglas County comes together in moment of silence",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/57/95759204-2c13-4ab9-837c-743869fe6b70/680b1de20f727.image.jpg?resize=300%2C205",
+            "length": "346328",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/57/95759204-2c13-4ab9-837c-743869fe6b70/680b1de20f727.image.jpg?resize=300%2C205"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/52a9083c-ae1b-4409-8f98-8c70956a760a",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "GLIDE — The air in the welding shop at Glide High School crackled with anticipation as over 20 students from Glide and Oakland high schools began showing their skills in stick welding.",
@@ -562,21 +592,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/81/281ed3a7-ce95-496f-858c-e1b908e04706/680a4da53f344.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ace55d97-da2e-41cf-a4e6-4e81590d9907",
-          "author": "JOEY KEERAN The News-Review",
-          "description": "We’re getting a call to the bullpen for summer youth baseball in Douglas County.",
-          "link": "https://www.nrtoday.com/sports/legion_baseball/dcba-takes-over-operations-of-legion-baseball-sustaire-named-next-docs-coach/article_ace55d97-da2e-41cf-a4e6-4e81590d9907.html",
-          "publishedOn": "2025-04-22T17:00:00.000Z",
-          "wordCount": 14620,
-          "title": "DCBA takes over operations of Legion baseball, Sustaire named next Docs' coach",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/df/6df4d970-e9dc-11ef-8f5e-937eb3a20ab8/67ada01094d0c.image.jpg?resize=300%2C400",
-            "length": "208270",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/df/6df4d970-e9dc-11ef-8f5e-937eb3a20ab8/67ada01094d0c.image.jpg?resize=300%2C400"
         }
       ]
     },
