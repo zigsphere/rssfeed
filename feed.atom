@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-25T23:12:56.141Z</updated>
+    <updated>2025-04-26T02:56:11.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -664,16 +664,6 @@
         <summary type="html"><![CDATA[Douglas Education Service District Early Learning Program Facilitator Robin VanWinkle talks about the Family Friendly Employer Summit, coming on May 1st.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 22, 2025]]></title>
-        <id>68079a776b8dda00013a5efa</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/april-22-2025/"/>
-        <updated>2025-04-22T13:51:19.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
