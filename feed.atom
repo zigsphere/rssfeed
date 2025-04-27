@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-27T16:14:34.239Z</updated>
+    <updated>2025-04-27T19:11:30.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YMCA of Douglas County hosts Healthy Kids Day, along with other YMCAs nationally]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3f5831d3-e066-4330-ae98-a4fff4c1caab</id>
+        <link href="https://www.nrtoday.com/news/education/ymca-of-douglas-county-hosts-healthy-kids-day-along-with-other-ymcas-nationally/article_3f5831d3-e066-4330-ae98-a4fff4c1caab.html"/>
+        <updated>2025-04-27T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Families from across Douglas County gathered at the YMCA on Saturday for Healthy Kids Day, enjoying activities that filled the gymnasium and spilled into the parking lot.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County School Forestry Tour shows fifth grade students first hand about the forest]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ebd20e9d-09a9-40e5-b16a-3e52f37d8442</id>
+        <link href="https://www.nrtoday.com/news/education/douglas-county-school-forestry-tour-shows-fifth-grade-students-first-hand-about-the-forest/article_ebd20e9d-09a9-40e5-b16a-3e52f37d8442.html"/>
+        <updated>2025-04-27T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week, fifth-grade students from across Douglas County stepped into the forest for the annual School Forestry Tour, where they learned firsthand about wildlife, forestry management, and the natural environment.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG AREA MAN CHARGED WITH INITIATING A FALSE REPORT]]></title>
         <id>https://kqennewsradio.com/?p=132445</id>
