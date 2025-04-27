@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-26T23:12:08.674Z</updated>
+    <updated>2025-04-27T03:04:43.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -524,16 +524,6 @@
         <summary type="html"><![CDATA[U.S. Senator Ron Wyden joins us from Portland as he is on a Town Hall swing through Oregon.  Wyden talked about the Umpqua Community College tragedy last Friday, his views of tariff’s being imposed by President Trump and a number of other topics including the potential for an Oregon Veterans Home on the Roseburg VA ...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 23, 2024]]></title>
-        <id>6808eba66b8dda00013a602f</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/april-23-2024/"/>
-        <updated>2025-04-23T13:47:33.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
