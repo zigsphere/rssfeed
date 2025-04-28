@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-28T13:35:48.948Z</updated>
+    <updated>2025-04-28T16:15:46.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 4.28.25]]></title>
+        <id>https://kqennewsradio.com/?p=132463</id>
+        <link href="https://kqennewsradio.com/2025/04/28/morning-conversation-4-28-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-4-28-25"/>
+        <updated>2025-04-28T16:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Rob Thomas from the Roseburg Hometown Fourth of July Fireworks Committee talks about whether or not there will be a fireworks show in the community this year.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELKTON SCHOOL DISTRICT ON 2-HOUR DELAY FOR MONDAY]]></title>
+        <id>https://kqennewsradio.com/?p=132461</id>
+        <link href="https://kqennewsradio.com/2025/04/28/elkton-school-district-on-2-hour-delay-for-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=elkton-school-district-on-2-hour-delay-for-monday"/>
+        <updated>2025-04-28T13:49:48.000Z</updated>
+        <summary type="html"><![CDATA[April 28, 2025 6:50 a.m. The Elkton School District is on a 2-hour day for Monday. A district release said the delay is due to power issues.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 28, 2025]]></title>
+        <id>680effb66b8dda00013a63b8</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-28-2025/"/>
+        <updated>2025-04-28T13:45:46.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA VALLEY TO SEE A MIX OF DRY CONDITIONS, SHOWERS THIS WEEK]]></title>
         <id>https://kqennewsradio.com/?p=132459</id>

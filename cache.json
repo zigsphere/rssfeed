@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132463",
+          "author": "Kyle Bailey",
+          "description": "Rob Thomas from the Roseburg Hometown Fourth of July Fireworks Committee talks about whether or not there will be a fireworks show in the community this year.",
+          "link": "https://kqennewsradio.com/2025/04/28/morning-conversation-4-28-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-28-25",
+          "publishedOn": "2025-04-28T16:14:52.000Z",
+          "wordCount": 1527,
+          "title": "MORNING CONVERSATION 4.28.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250428151232/AM-CONV-04-28-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223902/RSBG-Fireworks-logo-color-e1593619656508.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=132461",
+          "author": "Kyle Bailey",
+          "description": "April 28, 2025 6:50 a.m. The Elkton School District is on a 2-hour day for Monday. A district release said the delay is due to power issues.",
+          "link": "https://kqennewsradio.com/2025/04/28/elkton-school-district-on-2-hour-delay-for-monday/?utm_source=rss&utm_medium=rss&utm_campaign=elkton-school-district-on-2-hour-delay-for-monday",
+          "publishedOn": "2025-04-28T13:49:48.000Z",
+          "wordCount": 1474,
+          "title": "ELKTON SCHOOL DISTRICT ON 2-HOUR DELAY FOR MONDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241003153936/Elkton.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132459",
           "author": "Kyle Bailey",
           "description": "April 28, 2025 4:00 a.m. The Umpqua Valley will see a mix of dry conditions and showers this week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the area should have high temperatures near seasonal norms on Monday and Tuesday.  A weak front will bring a...",
@@ -371,6 +396,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "680effb66b8dda00013a63b8",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-28-2025/",
+          "publishedOn": "2025-04-28T13:45:46.000Z",
+          "wordCount": 2759,
+          "title": "April 28, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-19.png"
+        },
         {
           "id": "680b8a456b8dda00013a6290",
           "author": "Joseph Ziegler",
