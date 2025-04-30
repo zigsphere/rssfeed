@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132546",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/04/29/true-wealth-radio-4-29-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-4-29-25",
+          "publishedOn": "2025-04-30T00:39:10.000Z",
+          "wordCount": 1507,
+          "title": "TRUE WEALTH RADIO 4.29.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250429233543/TWR-4-29-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132541",
           "author": "Kyle Bailey",
           "description": "Umpqua Valley STEAM Hub Director Teresa Middleton talks about the local STEAM effort and their STEAM Extravaganza happening on Saturday at Umpqua Community College.",
@@ -399,6 +414,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3c0a0b97-1402-4982-9f77-c404ab330ff9",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SANDY, Utah — A group of 18 students from Reedsport’s Highland Elementary School’s archery team had the opportunity to compete at 2025 U.S. Western Nationals over the weekend in Sandy, Utah.",
+          "link": "https://www.nrtoday.com/news/local/highland-elementary-archery-team-competes-at-nationals/article_3c0a0b97-1402-4982-9f77-c404ab330ff9.html",
+          "publishedOn": "2025-04-29T14:46:00.000Z",
+          "wordCount": 12833,
+          "title": "Highland Elementary archery team competes at nationals",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4a/94ad87e9-84e3-4688-b614-253fb0bd890e/6810f29a47559.image.jpg?resize=300%2C124",
+            "length": "179894",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4a/94ad87e9-84e3-4688-b614-253fb0bd890e/6810f29a47559.image.jpg?resize=300%2C124"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f8f45f68-93ee-42e3-8ea7-b4d0841d19b1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — Jacoby Auditorium was about half-full Saturday afternoon, with most of the vocal people seemingly sharing a disdain for the current U.S. administration, although a few were certainly not happy with U.S. Senator Ron Wyden.",
+          "link": "https://www.nrtoday.com/news/elections/congress-courts-and-community-sen-wyden-and-rep-hoyle-host-town-hall-in-douglas-county/article_f8f45f68-93ee-42e3-8ea7-b4d0841d19b1.html",
+          "publishedOn": "2025-04-29T14:00:00.000Z",
+          "wordCount": 17014,
+          "title": "'Congress, courts and community': Sen. Wyden and Rep. Hoyle host town hall in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/82/a829a0a1-eeb7-4eef-99e5-0b53565ade82/680d8cc157f2c.image.jpg?resize=300%2C200",
+            "length": "308850",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/82/a829a0a1-eeb7-4eef-99e5-0b53565ade82/680d8cc157f2c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7dc5ee08-1813-45cb-abf6-dbc51051c9d3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — Flowers, branches, plants and other outdoor specimens in vases, bowls or other display pottery lined pretty much every space on the tables set up around the Glide Community Center.",
+          "link": "https://www.nrtoday.com/news/education/glide-wildflower-show-presents-plants-walks-other-outdoorsy-things-for-60th-weekend/article_7dc5ee08-1813-45cb-abf6-dbc51051c9d3.html",
+          "publishedOn": "2025-04-29T13:00:00.000Z",
+          "wordCount": 13563,
+          "title": "Glide Wildflower Show presents plants, walks, other outdoorsy things for 60th weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/c1/ac14e5cc-d75a-401d-9ba8-9115636354a1/680d4fed3c14f.image.jpg?resize=300%2C200",
+            "length": "302718",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/c1/ac14e5cc-d75a-401d-9ba8-9115636354a1/680d4fed3c14f.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3f5831d3-e066-4330-ae98-a4fff4c1caab",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Families from across Douglas County gathered at the YMCA on Saturday for Healthy Kids Day, enjoying activities that filled the gymnasium and spilled into the parking lot.",
@@ -427,36 +487,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/f8/2f8ddc5e-a9b3-4cdb-9869-75967232df0c/680d47dcc716d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1ce0e533-f86e-4912-bea9-f322d0d27362",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Jade Snelling has been many things: a native of Roseburg, a professional archivist, a teaching assistant in Europe and a game show contestant, to name a few.",
-          "link": "https://www.nrtoday.com/news/from-roseburg-to-primetime-all-about-jeopardy-contestant-jade-snelling/article_1ce0e533-f86e-4912-bea9-f322d0d27362.html",
-          "publishedOn": "2025-04-25T18:41:00.000Z",
-          "wordCount": 13175,
-          "title": "From Roseburg to primetime: All about \"Jeopardy!\" contestant Jade Snelling",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/2f/a2f0fec1-1152-41ca-b29a-4d08160f9df3/68094aa18fa29.image.jpg?resize=300%2C300",
-            "length": "106934",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/2f/a2f0fec1-1152-41ca-b29a-4d08160f9df3/68094aa18fa29.image.jpg?resize=300%2C300"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c43d5f3-a2ea-4d19-953c-f2ea41d75f65",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Love was shared, runs were scored and tears were shed on Thursday evening at Champion Car Wash Field in Roseburg. There, a crowded stadium beared witness to not only a doubleheader of baseball games but also a moment of silence…",
-          "link": "https://www.nrtoday.com/news/for-ucc-softball-douglas-county-comes-together-in-moment-of-silence/article_8c43d5f3-a2ea-4d19-953c-f2ea41d75f65.html",
-          "publishedOn": "2025-04-25T17:00:00.000Z",
-          "wordCount": 14274,
-          "title": "For UCC softball: Douglas County comes together in moment of silence",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/57/95759204-2c13-4ab9-837c-743869fe6b70/680b1de20f727.image.jpg?resize=300%2C205",
-            "length": "346328",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/57/95759204-2c13-4ab9-837c-743869fe6b70/680b1de20f727.image.jpg?resize=300%2C205"
         }
       ]
     },
