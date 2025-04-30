@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132571",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Movement Arts Collaboration board member Thomas McGregor talks about their production, “Constellations; Dances of the Zodiac”, which will be on stage at Umpqua Community College this weekend:",
+          "link": "https://kqennewsradio.com/2025/04/30/morning-conversation-4-30-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-4-30-25",
+          "publishedOn": "2025-04-30T16:12:44.000Z",
+          "wordCount": 1525,
+          "title": "MORNING CONVERSATION 4.30.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250430150908/AM-CONV-4-30-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250430151232/Thomas-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132568",
           "author": "Kyle Bailey",
           "description": "April 30, 2025 5:40 a.m.  On Tuesday, Fourth District Representative Val Hoyle released a statement regarding the first 100 days of President Trump’s Administration. Hoyle said, “As we look back on the first 100 days of President Trump’s administration, it’s clear that working people are still being left behind. Despite promises to bring back jobs,...",
@@ -531,6 +546,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "681229266b8dda00013a6728",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County K9 Ozzy has passed away following health complications. The 8-year-old German Shepherd served faithfully since 2020, assisting in 88 apprehensions. He is remembered for his bravery, loyalty, and lifesaving actions alongside Deputy Barden.",
+          "link": "https://www.roseburgscanner.com/douglas-county-sheriffs-office-mourns-the-loss-of-k9-ozzy/",
+          "publishedOn": "2025-04-30T13:46:02.000Z",
+          "wordCount": 1292,
+          "title": "Douglas County Sheriff’s Office Mourns the Loss of K9 Ozzy",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/Sheriff-Badge-medium.jpg"
+        },
+        {
+          "id": "681226586b8dda00013a6616",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/april-30-2025/",
+          "publishedOn": "2025-04-30T13:41:30.000Z",
+          "wordCount": 3265,
+          "title": "April 30, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-21.png"
+        },
         {
           "id": "6810d3c26b8dda00013a6508",
           "author": "Joseph Ziegler",

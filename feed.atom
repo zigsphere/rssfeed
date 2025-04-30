@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-04-30T13:23:40.453Z</updated>
+    <updated>2025-04-30T16:16:16.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 4.30.25]]></title>
+        <id>https://kqennewsradio.com/?p=132571</id>
+        <link href="https://kqennewsradio.com/2025/04/30/morning-conversation-4-30-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-4-30-25"/>
+        <updated>2025-04-30T16:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Movement Arts Collaboration board member Thomas McGregor talks about their production, “Constellations; Dances of the Zodiac”, which will be on stage at Umpqua Community College this weekend:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Sheriff’s Office Mourns the Loss of K9 Ozzy]]></title>
+        <id>681229266b8dda00013a6728</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-sheriffs-office-mourns-the-loss-of-k9-ozzy/"/>
+        <updated>2025-04-30T13:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County K9 Ozzy has passed away following health complications. The 8-year-old German Shepherd served faithfully since 2020, assisting in 88 apprehensions. He is remembered for his bravery, loyalty, and lifesaving actions alongside Deputy Barden.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 30, 2025]]></title>
+        <id>681226586b8dda00013a6616</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/april-30-2025/"/>
+        <updated>2025-04-30T13:41:30.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REP. HOYLE ISSUES STATEMENT ON FIRST 100 DAYS OF TRUMP ADMINISTRATION]]></title>
         <id>https://kqennewsradio.com/?p=132568</id>
