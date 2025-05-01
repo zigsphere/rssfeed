@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132594",
+          "author": "Kyle Bailey",
+          "description": "Douglas County’s Commissioner of Dirt, Mike Winters, has our weekly local lawn and garden program",
+          "link": "https://kqennewsradio.com/2025/04/30/mike-winters-lawn-and-garden-show-4-30-25/?utm_source=rss&utm_medium=rss&utm_campaign=mike-winters-lawn-and-garden-show-4-30-25",
+          "publishedOn": "2025-05-01T00:12:22.000Z",
+          "wordCount": 1521,
+          "title": "MIKE WINTERS LAWN AND GARDEN SHOW 4.30.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250430231038/MWLGS-04-30-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240626230734/newmike-4.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132589",
           "author": "Kyle Bailey",
           "description": "Oregon Wine Board President Greg Jones talks about Oregon Wine Month,  which begins May 1st.  Jones is  CEO of Abacela Vineyards, which is celebrating its 30th anniversary this year.",
@@ -621,6 +636,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6812b94c6b8dda00013a6747",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg will hit 85°F on Thursday, marking the warmest day of the year so far. After a cool spring, this sunny stretch brings a taste of summer. Stay hydrated and enjoy the sunshine!",
+          "link": "https://www.roseburgscanner.com/roseburg-set-to-see-warmest-day-of-the-year-so-far/",
+          "publishedOn": "2025-05-01T00:05:32.000Z",
+          "wordCount": 1122,
+          "title": "Roseburg Set to See Warmest Day of the Year So Far",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/sunny.png"
+        },
         {
           "id": "681229266b8dda00013a6728",
           "author": "Joseph Ziegler",
