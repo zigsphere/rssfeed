@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-01T13:22:25.493Z</updated>
+    <updated>2025-05-01T16:16:21.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 5.1.25]]></title>
+        <id>https://kqennewsradio.com/?p=132624</id>
+        <link href="https://kqennewsradio.com/2025/05/01/morning-conversation-5-1-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-5-1-25"/>
+        <updated>2025-05-01T16:10:24.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State University Extension Service Agent Logan Bennett talks about the Master Gardeners Plant and Garden Sale, happening on Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of The Roseburg Receiver: From Local Scanner Feed to Regional Powerhouse]]></title>
+        <id>681389776b8dda00013a68ab</id>
+        <link href="https://www.roseburgscanner.com/the-rise-of-the-roseburg-receiver-from-local-scanner-feed-to-regional-powerhouse/"/>
+        <updated>2025-05-01T14:58:52.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver has become the fastest-growing scanner community in Douglas County, delivering real-time fire, medical, police, and weather updates. With nearly 15,000 members and growing, it's now a vital source for local emergency info and wildfire reporting.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 1, 2025]]></title>
+        <id>681376c36b8dda00013a6757</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-1-2025/"/>
+        <updated>2025-05-01T13:46:19.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG COULD SEE HOTTEST DAY OF 2025 SO FAR ON THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=132619</id>

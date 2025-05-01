@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132624",
+          "author": "Kyle Bailey",
+          "description": "Oregon State University Extension Service Agent Logan Bennett talks about the Master Gardeners Plant and Garden Sale, happening on Saturday.",
+          "link": "https://kqennewsradio.com/2025/05/01/morning-conversation-5-1-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-5-1-25",
+          "publishedOn": "2025-05-01T16:10:24.000Z",
+          "wordCount": 1518,
+          "title": "MORNING CONVERSATION 5.1.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250501150801/AM-CONV-5-1-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250501151005/Logan-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132619",
           "author": "Kyle Bailey",
           "description": "May 1, 2025 4:10 a.m.  Roseburg could see the hottest day of the year so far on Thursday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury is expected to reach 85 degrees at the Roseburg Regional Airport. That would slightly eclipse the previous afternoon...",
@@ -706,6 +721,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "681389776b8dda00013a68ab",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver has become the fastest-growing scanner community in Douglas County, delivering real-time fire, medical, police, and weather updates. With nearly 15,000 members and growing, it's now a vital source for local emergency info and wildfire reporting.",
+          "link": "https://www.roseburgscanner.com/the-rise-of-the-roseburg-receiver-from-local-scanner-feed-to-regional-powerhouse/",
+          "publishedOn": "2025-05-01T14:58:52.000Z",
+          "wordCount": 1353,
+          "title": "The Rise of The Roseburg Receiver: From Local Scanner Feed to Regional Powerhouse",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/Banner.png"
+        },
+        {
+          "id": "681376c36b8dda00013a6757",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-1-2025/",
+          "publishedOn": "2025-05-01T13:46:19.000Z",
+          "wordCount": 3209,
+          "title": "May 1, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop.png"
+        },
         {
           "id": "6812b94c6b8dda00013a6747",
           "author": "Joseph Ziegler",
