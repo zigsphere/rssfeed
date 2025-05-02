@@ -654,16 +654,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223902/RSBG-Fireworks-logo-color-e1593619656508.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=132461",
-          "author": "Kyle Bailey",
-          "description": "April 28, 2025 6:50 a.m. The Elkton School District is on a 2-hour day for Monday. A district release said the delay is due to power issues.",
-          "link": "https://kqennewsradio.com/2025/04/28/elkton-school-district-on-2-hour-delay-for-monday/?utm_source=rss&utm_medium=rss&utm_campaign=elkton-school-district-on-2-hour-delay-for-monday",
-          "publishedOn": "2025-04-28T13:49:48.000Z",
-          "wordCount": 1474,
-          "title": "ELKTON SCHOOL DISTRICT ON 2-HOUR DELAY FOR MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241003153936/Elkton.jpg"
         }
       ]
     },
@@ -678,6 +668,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dc4c741c-9098-4df4-b940-e6f3d5d65be6",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For Brandon Ekman, becoming the owner of a bakery isn’t just a way to turn his passion into a job, but a way for him to carry on his family’s legacy, support new members in it going forward and offer…",
+          "link": "https://www.nrtoday.com/business/new-bakery-offering-gourmet-sweets-to-celebrate-grand-opening-in-roseburg/article_dc4c741c-9098-4df4-b940-e6f3d5d65be6.html",
+          "publishedOn": "2025-05-01T22:08:00.000Z",
+          "wordCount": 13138,
+          "title": "New bakery offering gourmet sweets to celebrate grand opening in Roseburg.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/33/9335fb36-7248-41b9-9aed-89c28ce55c9d/68114e7108bf6.image.jpg?resize=300%2C200",
+            "length": "379880",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/33/9335fb36-7248-41b9-9aed-89c28ce55c9d/68114e7108bf6.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/89c899cd-f84f-4348-a02d-325e03be2696",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "REEDSPORT — When Bubs Reynolds was born 7 weeks premature in 2011, medical professionals estimated he had a less than 1% chance of surviving birth.",
+          "link": "https://www.nrtoday.com/family/reedsport-unites-to-hold-make-a-wish-festival-for-local-teen/article_89c899cd-f84f-4348-a02d-325e03be2696.html",
+          "publishedOn": "2025-05-01T15:00:00.000Z",
+          "wordCount": 13086,
+          "title": "Reedsport unites to hold Make-A-Wish festival for local teen",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fa/7fa0d9eb-43d3-45ed-8002-126a6697f4f5/6811a06e7d545.image.png?resize=300%2C171",
+            "length": "1802947",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/fa/7fa0d9eb-43d3-45ed-8002-126a6697f4f5/6811a06e7d545.image.png?resize=300%2C171"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3c0a0b97-1402-4982-9f77-c404ab330ff9",
           "author": "GLORIA COLEMAN The News-Review",
@@ -722,36 +742,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/c1/ac14e5cc-d75a-401d-9ba8-9115636354a1/680d4fed3c14f.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3f5831d3-e066-4330-ae98-a4fff4c1caab",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Families from across Douglas County gathered at the YMCA on Saturday for Healthy Kids Day, enjoying activities that filled the gymnasium and spilled into the parking lot.",
-          "link": "https://www.nrtoday.com/news/education/ymca-of-douglas-county-hosts-healthy-kids-day-along-with-other-ymcas-nationally/article_3f5831d3-e066-4330-ae98-a4fff4c1caab.html",
-          "publishedOn": "2025-04-27T14:15:00.000Z",
-          "wordCount": 12768,
-          "title": "YMCA of Douglas County hosts Healthy Kids Day, along with other YMCAs nationally",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/14/614be53c-059f-46e3-a48a-3156031e74b2/680d4b6b086c1.image.jpg?resize=300%2C200",
-            "length": "428987",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/14/614be53c-059f-46e3-a48a-3156031e74b2/680d4b6b086c1.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ebd20e9d-09a9-40e5-b16a-3e52f37d8442",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Last week, fifth-grade students from across Douglas County stepped into the forest for the annual School Forestry Tour, where they learned firsthand about wildlife, forestry management, and the natural environment.",
-          "link": "https://www.nrtoday.com/news/education/douglas-county-school-forestry-tour-shows-fifth-grade-students-first-hand-about-the-forest/article_ebd20e9d-09a9-40e5-b16a-3e52f37d8442.html",
-          "publishedOn": "2025-04-27T13:45:00.000Z",
-          "wordCount": 14432,
-          "title": "Douglas County School Forestry Tour shows fifth grade students first hand about the forest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/f8/2f8ddc5e-a9b3-4cdb-9869-75967232df0c/680d47dcc716d.image.jpg?resize=300%2C200",
-            "length": "363036",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/f8/2f8ddc5e-a9b3-4cdb-9869-75967232df0c/680d47dcc716d.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -835,16 +825,6 @@
           "wordCount": 2724,
           "title": "April 29, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-20.png"
-        },
-        {
-          "id": "680effb66b8dda00013a63b8",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/april-28-2025/",
-          "publishedOn": "2025-04-28T13:45:46.000Z",
-          "wordCount": 2759,
-          "title": "April 28, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/04/The-Morning-Scoop-19.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-01T23:12:35.972Z</updated>
+    <updated>2025-05-02T03:03:43.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New bakery offering gourmet sweets to celebrate grand opening in Roseburg.]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dc4c741c-9098-4df4-b940-e6f3d5d65be6</id>
+        <link href="https://www.nrtoday.com/business/new-bakery-offering-gourmet-sweets-to-celebrate-grand-opening-in-roseburg/article_dc4c741c-9098-4df4-b940-e6f3d5d65be6.html"/>
+        <updated>2025-05-01T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[For Brandon Ekman, becoming the owner of a bakery isn’t just a way to turn his passion into a job, but a way for him to carry on his family’s legacy, support new members in it going forward and offer…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.1.25]]></title>
         <id>https://kqennewsradio.com/?p=132648</id>
@@ -114,6 +124,16 @@
         <summary type="html"><![CDATA[Oregon State University Extension Service Agent Logan Bennett talks about the Master Gardeners Plant and Garden Sale, happening on Saturday.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reedsport unites to hold Make-A-Wish festival for local teen]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/89c899cd-f84f-4348-a02d-325e03be2696</id>
+        <link href="https://www.nrtoday.com/family/reedsport-unites-to-hold-make-a-wish-festival-for-local-teen/article_89c899cd-f84f-4348-a02d-325e03be2696.html"/>
+        <updated>2025-05-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[REEDSPORT — When Bubs Reynolds was born 7 weeks premature in 2011, medical professionals estimated he had a less than 1% chance of surviving birth.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -704,46 +724,6 @@
         <summary type="html"><![CDATA[Rob Thomas from the Roseburg Hometown Fourth of July Fireworks Committee talks about whether or not there will be a fireworks show in the community this year.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELKTON SCHOOL DISTRICT ON 2-HOUR DELAY FOR MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=132461</id>
-        <link href="https://kqennewsradio.com/2025/04/28/elkton-school-district-on-2-hour-delay-for-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=elkton-school-district-on-2-hour-delay-for-monday"/>
-        <updated>2025-04-28T13:49:48.000Z</updated>
-        <summary type="html"><![CDATA[April 28, 2025 6:50 a.m. The Elkton School District is on a 2-hour day for Monday. A district release said the delay is due to power issues.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 28, 2025]]></title>
-        <id>680effb66b8dda00013a63b8</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/april-28-2025/"/>
-        <updated>2025-04-28T13:45:46.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMCA of Douglas County hosts Healthy Kids Day, along with other YMCAs nationally]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3f5831d3-e066-4330-ae98-a4fff4c1caab</id>
-        <link href="https://www.nrtoday.com/news/education/ymca-of-douglas-county-hosts-healthy-kids-day-along-with-other-ymcas-nationally/article_3f5831d3-e066-4330-ae98-a4fff4c1caab.html"/>
-        <updated>2025-04-27T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Families from across Douglas County gathered at the YMCA on Saturday for Healthy Kids Day, enjoying activities that filled the gymnasium and spilled into the parking lot.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County School Forestry Tour shows fifth grade students first hand about the forest]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ebd20e9d-09a9-40e5-b16a-3e52f37d8442</id>
-        <link href="https://www.nrtoday.com/news/education/douglas-county-school-forestry-tour-shows-fifth-grade-students-first-hand-about-the-forest/article_ebd20e9d-09a9-40e5-b16a-3e52f37d8442.html"/>
-        <updated>2025-04-27T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week, fifth-grade students from across Douglas County stepped into the forest for the annual School Forestry Tour, where they learned firsthand about wildlife, forestry management, and the natural environment.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
