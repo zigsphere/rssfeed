@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-02T13:23:32.277Z</updated>
+    <updated>2025-05-02T16:16:07.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dowdy indicted for fatal crash with UCC softball bus]]></title>
+        <id>6814e7756b8dda00013a6a20</id>
+        <link href="https://www.roseburgscanner.com/dowdy-indicted-for-fatal-crash-with-ucc-softball-bus/"/>
+        <updated>2025-05-02T15:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Johnathan Dowdy, 32, was arraigned on 25 charges in a crash that killed two UCC softball players and injured eight others. He remains in jail on $2 million bail. Prosecutors allege reckless driving with extreme indifference. His next court date is set for May 21.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2, 2025]]></title>
+        <id>6814c8d26b8dda00013a6901</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-2-2025/"/>
+        <updated>2025-05-02T13:40:29.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Public Schools celebrates teachers, staff milestones]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5ba825d8-0f40-474b-a93c-1f3a0e5d96c0</id>
