@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-07T12:23:59.578Z</updated>
+    <updated>2025-05-07T13:28:14.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SALEM MAN LED DRUG TRAFFICKING ORGANIZATION, LARGEST FENTANYL BUST IN U.S. HISTORY]]></title>
+        <id>https://kqennewsradio.com/?p=132854</id>
+        <link href="https://kqennewsradio.com/2025/05/07/salem-man-led-drug-trafficking-organization-largest-fentanyl-bust-in-u-s-history/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=salem-man-led-drug-trafficking-organization-largest-fentanyl-bust-in-u-s-history"/>
+        <updated>2025-05-07T13:04:02.000Z</updated>
+        <summary type="html"><![CDATA[May 7, 2025 6:00 a.m. Federal authorities say a man living in Salem was the leader of one of the largest and most dangerous drug trafficking organizations in U.S. history. It has been dismantled following the biggest fentanyl bust ever for the Drug Enforcement Administration. A DEA announcement on Tuesday said 16 individuals have been...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 7, 2025]]></title>
+        <id>681b513e6b8dda00013a6d2e</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-7-2025/"/>
+        <updated>2025-05-07T12:36:32.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WITH SECOND WARMEST DAY OF 2025 ON TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=132849</id>
