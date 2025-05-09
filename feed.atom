@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-09T13:24:27.381Z</updated>
+    <updated>2025-05-09T16:16:42.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 5.9.25]]></title>
+        <id>https://kqennewsradio.com/?p=132973</id>
+        <link href="https://kqennewsradio.com/2025/05/09/local-real-estate-today-5-9-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-5-9-25"/>
+        <updated>2025-05-09T16:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 5.9.25]]></title>
+        <id>https://kqennewsradio.com/?p=132970</id>
+        <link href="https://kqennewsradio.com/2025/05/09/morning-conversation-5-9-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-5-9-25"/>
+        <updated>2025-05-09T16:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Ashley Cluver of Umpqua Valley Arts with an update on classes, exhibits and events that are coming up, including the Summer Arts Festival which is coming in late June.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 9, 2025]]></title>
+        <id>681e04ca6b8dda00013a6fc9</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-9-2025/"/>
+        <updated>2025-05-09T13:47:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BALLOTS SLOWLY COMING INFOR MAY SPECIAL DISTRICTS ELECTION]]></title>
         <id>https://kqennewsradio.com/?p=132967</id>

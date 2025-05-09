@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=132973",
+          "author": "Kyle Bailey",
+          "description": "Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.",
+          "link": "https://kqennewsradio.com/2025/05/09/local-real-estate-today-5-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=local-real-estate-today-5-9-25",
+          "publishedOn": "2025-05-09T16:15:20.000Z",
+          "wordCount": 1520,
+          "title": "LOCAL REAL ESTATE TODAY 5.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250509151327/LRET-5-9-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250509151447/Mary-10.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=132970",
+          "author": "Kyle Bailey",
+          "description": "Ashley Cluver of Umpqua Valley Arts with an update on classes, exhibits and events that are coming up, including the Summer Arts Festival which is coming in late June.",
+          "link": "https://kqennewsradio.com/2025/05/09/morning-conversation-5-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-5-9-25",
+          "publishedOn": "2025-05-09T16:10:50.000Z",
+          "wordCount": 1525,
+          "title": "MORNING CONVERSATION 5.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250509150911/AM-C-ONV-5-9-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250423191524/Ashley-9.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=132967",
           "author": "Kyle Bailey",
           "description": "May 9, 2025 4:00 a.m. Ballots are slowly coming in for the 2025 Douglas County May Special Districts Election. County Clerk Daniel Loomis said 2.21 percent, or 1.955 ballots, have been received as of late Thursday afternoon. Loomis said that lags 3.01 percent behind the participation rate for the same point in the last special...",
@@ -776,6 +806,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "681e04ca6b8dda00013a6fc9",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-9-2025/",
+          "publishedOn": "2025-05-09T13:47:55.000Z",
+          "wordCount": 3205,
+          "title": "May 9, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-6.png"
+        },
         {
           "id": "681cee456b8dda00013a6f9e",
           "author": "Joseph Ziegler",
