@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-13T23:13:11.646Z</updated>
+    <updated>2025-05-14T03:06:26.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Music on the Half Shell Unveils 2025 Summer Concert Lineup in Roseburg]]></title>
+        <id>682404656b8dda00013a73e6</id>
+        <link href="https://www.roseburgscanner.com/music-on-the-half-shell-unveils-2025-summer-concert-lineup-in-roseburg/"/>
+        <updated>2025-05-14T02:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Music on the Half Shell returns to Stewart Park in Roseburg with free concerts every Tuesday at 7 p.m., June 17–August 12. This year’s lineup features jazz, blues, bluegrass, soul, funk, and global acts. Bring a chair and enjoy live music under the summer sky. More info at halfshell.org.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 5.13.25]]></title>
+        <id>https://kqennewsradio.com/?p=133114</id>
+        <link href="https://kqennewsradio.com/2025/05/13/true-wealth-5-13-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-5-13-25"/>
+        <updated>2025-05-14T00:39:06.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Justin Bruggeman have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.13.25]]></title>
         <id>https://kqennewsradio.com/?p=133110</id>
@@ -372,16 +392,6 @@
         <link href="https://kqennewsradio.com/2025/05/10/dfpa-responds-to-wilson-creek-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-responds-to-wilson-creek-fire"/>
         <updated>2025-05-10T16:03:43.000Z</updated>
         <summary type="html"><![CDATA[May 10, 2025 9:00 a.m. Crews with the Douglas Forest Protective Association in conjunction with the Tenmile and Camas Valley Rural Fire departments responded to the Wilson Creek Fire early Saturday morning. The fire was located along Coos Bay Wagon Road in the area of Iverson Memorial Park. DFPA Business Manager Jill Miller said two...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEARLY 4 PERENT OF DOUGLAS COUNTY BALLOTS RECEIVED]]></title>
-        <id>https://kqennewsradio.com/?p=133003</id>
-        <link href="https://kqennewsradio.com/2025/05/10/nearly-4-perent-of-douglas-county-ballots-received/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nearly-4-perent-of-douglas-county-ballots-received"/>
-        <updated>2025-05-10T14:02:24.000Z</updated>
-        <summary type="html"><![CDATA[May 10, 2025 7:00 a.m.  Nearly 4 percent of ballots have been received for 2025 Douglas County May Special Districts Election as of Friday afternoon. Douglas County Clerk Daniel Loomis said 3.91 percent, or 3,470 ballots, have been returned. Loomis said that lags 2.99 percent behind the participation rate for the same point in the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
