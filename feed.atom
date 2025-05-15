@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-14T23:11:52.908Z</updated>
+    <updated>2025-05-15T03:05:58.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIKE WINTERS LAWN AND GARDEN SHOW 5.14.25]]></title>
+        <id>https://kqennewsradio.com/?p=133171</id>
+        <link href="https://kqennewsradio.com/2025/05/14/mike-winters-lawn-and-garden-show-5-14-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-winters-lawn-and-garden-show-5-14-25"/>
+        <updated>2025-05-15T00:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s Commissioner of Dirt, Mike Winters, with the weekly local lawn and garden show.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.14.25]]></title>
         <id>https://kqennewsradio.com/?p=133166</id>
