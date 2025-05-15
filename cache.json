@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133220",
+          "author": "Kyle Bailey",
+          "description": "An Oregon Wine Month interview with Kevin Kohlman of Spire Mountain Cellars. He talks about his background, the evolution of Spire Mountain and his thoughts about wine in the Umpqua.",
+          "link": "https://kqennewsradio.com/2025/05/15/inside-douglas-county-5-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-5-15-25",
+          "publishedOn": "2025-05-15T20:21:28.000Z",
+          "wordCount": 1530,
+          "title": "INSIDE DOUGLAS COUNTY 5.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250515191924/IDC-05-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250515192114/Kevin-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133216",
           "author": "Kyle Bailey",
           "description": "May 15, 2025 11:10 a.m.  Firefighters with the Roseburg Fire Department responded to a house fire on Wednesday night. Information from RFD said just before 10:00 p.m. dispatchers reported a fire in the 4400 block of Northeast Stephens Street. Homeowners said they could smell smoke inside the house and were hearing a crackling sound under...",
@@ -649,56 +664,6 @@
           "wordCount": 1591,
           "title": "ROSEBURG POLICE JAIL WOMAN FOR ALLEGED DISODERLY CONDUCT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224129/police-e1592994193788.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133024",
-          "author": "Kyle Bailey",
-          "description": "May 12, 2025 3:40 a.m. In 1962, President John F. Kennedy signed a proclamation designating every May 15th as Peace Officer Memorial Day, and the week in which it falls as National Police Week. The Douglas County Sheriff’s Office will host a local Peace Officer Memorial Ceremony on the front lawn of the courthouse...",
-          "link": "https://kqennewsradio.com/2025/05/12/peace-officer-memorial-ceremony-to-be-held-this-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=peace-officer-memorial-ceremony-to-be-held-this-thursday",
-          "publishedOn": "2025-05-12T10:39:26.000Z",
-          "wordCount": 1678,
-          "title": "PEACE OFFICER MEMORIAL CEREMONY TO BE HELD THIS THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250512093054/Honor-Guard-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133022",
-          "author": "Kyle Bailey",
-          "description": "May 12, 2025 3:30 a.m. The Roseburg City Council will consider an ordinance prohibiting the distribution of hypodermic needles on city property, including parks and public ways, at its meeting on Monday night. The council and staff had a discussion about hypodermic needles at its April 21st meeting. Park employees regularly inspect spaces for needles...",
-          "link": "https://kqennewsradio.com/2025/05/12/city-council-to-consider-ordinance-prohibiting-needle-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=city-council-to-consider-ordinance-prohibiting-needle-distribution",
-          "publishedOn": "2025-05-12T10:26:05.000Z",
-          "wordCount": 1648,
-          "title": "CITY COUNCIL TO CONSIDER ORDINANCE PROHIBITING NEEDLE DISTRIBUTION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224038/City-Hall-Front-1-e1584801171776.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133018",
-          "author": "Kyle Bailey",
-          "description": "May 12, 2025 3:20 a.m. A $2.5 million project to extend a key taxiway at the Roseburg Regional Airport is underway. A city release said the work is making a dream of airport expansion and safety improvement a reality. The useable part of the runway is temporarily shortened with a “reduced declared distance” and will...",
-          "link": "https://kqennewsradio.com/2025/05/12/airport-taxiway-expansion-is-underway/?utm_source=rss&utm_medium=rss&utm_campaign=airport-taxiway-expansion-is-underway",
-          "publishedOn": "2025-05-12T10:22:13.000Z",
-          "wordCount": 1741,
-          "title": "AIRPORT TAXIWAY EXPANSION IS UNDERWAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250512092207/Taxiway2-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133016",
-          "author": "Kyle Bailey",
-          "description": "May 12, 2025 3:05 a.m. The Douglas Timber Operators will receive information about the upcoming fire season at their next meeting. It will be held on Thursday May 22nd in the loft of the Del Rey Café on Northeast Stephens Street in Winchester. Douglas Forest Protective Association District Manager Pat Skrip will have a presentation...",
-          "link": "https://kqennewsradio.com/2025/05/12/timber-group-to-hear-presentation-on-fire-season-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=timber-group-to-hear-presentation-on-fire-season-outlook",
-          "publishedOn": "2025-05-12T10:17:50.000Z",
-          "wordCount": 1532,
-          "title": "TIMBER GROUP TO HEAR PRESENTATION ON FIRE SEASON OUTLOOK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133014",
-          "author": "Kyle Bailey",
-          "description": "May 12, 2025 2:50 a.m. In the KQEN Cultural Spotlight; The Umpqua Community College Performing and Visual Arts presents UCC’s Concert Band performing in “State of Mind” on June 4th at 7:00 p.m. at the Jacoby Auditorium on the UCC campus. This concert will feature music that explores the depths of human emotion and thought....",
-          "link": "https://kqennewsradio.com/2025/05/12/uccs-concert-band-performs-state-of-mind/?utm_source=rss&utm_medium=rss&utm_campaign=uccs-concert-band-performs-state-of-mind",
-          "publishedOn": "2025-05-12T10:13:44.000Z",
-          "wordCount": 1568,
-          "title": "UCC’S CONCERT BAND PERFORMS “STATE OF MIND”",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201845/UCC_Logo-e1678361301741.png"
         }
       ]
     },
@@ -713,6 +678,61 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/13e66c62-75e3-463d-a9d3-5673e6d47e78",
+          "author": "The News-Review Staff",
+          "description": "The Special Districts Elections currently running in Douglas County allow residents to vote for board members who will serve districts encompassing a wide variety of services. There are currently 83 special districts that file within Douglas County, and an additional…",
+          "link": "https://www.nrtoday.com/news/douglas-county-special-election-profiles-education/article_13e66c62-75e3-463d-a9d3-5673e6d47e78.html",
+          "publishedOn": "2025-05-15T15:00:00.000Z",
+          "wordCount": 13505,
+          "title": "Douglas County Special Election profiles: education",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/0d/a0dd6829-5b2d-4142-9956-059514253446/62fe98a2d23af.image.jpg?resize=300%2C200",
+            "length": "301948",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/0d/a0dd6829-5b2d-4142-9956-059514253446/62fe98a2d23af.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0abf1120-526b-460a-9c90-9b0a48c1d272",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For Paul Eckel and his son Ashten Eckel, father and son bonding goes beyond taking a fishing trip or catching a baseball game. They prefer something a bit more extreme: whitewater rafting.",
+          "link": "https://www.nrtoday.com/news/raging-waters-a-father-and-sons-journey-of-healing-through-white-water-rafting/article_0abf1120-526b-460a-9c90-9b0a48c1d272.html",
+          "publishedOn": "2025-05-15T15:00:00.000Z",
+          "wordCount": 13334,
+          "title": "Raging waters: A father and son's journey of healing through white water rafting",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/7a/b7af0bac-9398-49fc-82eb-cfe83ea7d352/68240cb47860f.image.jpg?resize=300%2C168",
+            "length": "149451",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/7a/b7af0bac-9398-49fc-82eb-cfe83ea7d352/68240cb47860f.image.jpg?resize=300%2C168"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d5b36f1f-d601-44b5-8809-528973ca1bcb",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Every year, Music on the Half Shell brings international talent to the stage in Roseburg’s Stewart Park with free concerts throughout the summer. This year, the 33rd season of the program is coming back bigger than before with a wide…",
+          "link": "https://www.nrtoday.com/a_and_e/music-on-the-half-shell-announces-genre-bending-2025-lineup/article_d5b36f1f-d601-44b5-8809-528973ca1bcb.html",
+          "publishedOn": "2025-05-15T14:00:00.000Z",
+          "wordCount": 13362,
+          "title": "Music on the Half Shell announces genre-bending 2025 lineup",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d8/8d81b5bd-b616-4c14-a7aa-97e8d7abfd36/682390db82c19.image.jpg?resize=300%2C200",
+            "length": "512763",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d8/8d81b5bd-b616-4c14-a7aa-97e8d7abfd36/682390db82c19.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2fc5ea23-a555-410b-a135-16bdcfb0e92d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — The Fly-In Pig Barbecue Competition returns to the Myrtle Creek airport and surrounding area this weekend with this year's theme of \"Sampling the Northwest.\"",
+          "link": "https://www.nrtoday.com/news/local/2nd-annual-fly-in-pig-bbq-competition-returns-to-myrtle-creek/article_2fc5ea23-a555-410b-a135-16bdcfb0e92d.html",
+          "publishedOn": "2025-05-15T04:55:00.000Z",
+          "wordCount": 12275,
+          "title": "2nd annual Fly-In Pig BBQ Competition returns to Myrtle Creek",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4fa1edc2-0b30-4d02-a437-110916d133fb",
           "author": "ANDREW GRIFFIN The News-Review",
