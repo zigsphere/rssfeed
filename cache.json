@@ -692,6 +692,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6825de246b8dda00013a758a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-15-2025/",
+          "publishedOn": "2025-05-15T12:41:46.000Z",
+          "wordCount": 3246,
+          "title": "May 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-10.png"
+        },
+        {
           "id": "6824a4276b8dda00013a754e",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver will launch a continuous YouTube livestream starting June 1, replacing the current 12-hour feed format. This change aims to reduce confusion and provide a single, reliable link for listeners. All audio will still be archived on other platforms.",
