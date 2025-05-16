@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-15T23:13:18.590Z</updated>
+    <updated>2025-05-16T03:08:37.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DINT INVESTIGATION LEADS TO ARREST OF MAN SUSPECTED OF TRAFFICKING METHAMPHETAMINE]]></title>
+        <id>https://kqennewsradio.com/?p=133224</id>
+        <link href="https://kqennewsradio.com/2025/05/15/dint-investigation-leads-to-arrest-of-man-suspected-of-trafficking-methamphetamine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-investigation-leads-to-arrest-of-man-suspected-of-trafficking-methamphetamine"/>
+        <updated>2025-05-15T23:15:19.000Z</updated>
+        <summary type="html"><![CDATA[May 15,  2025 4:00 p.m.  Wednesday evening, detectives with the Douglas Interagency Narcotics Team arrested a Salem man in connection to a methamphetamine investigation. DINT Commander Lieutenant Rick McArthur said detectives have been investigating a man they know as Enrique Gonzalez-Hernandez for weeks, regarding suspicion of him trafficking large amounts of meth into the community...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.15.25]]></title>
         <id>https://kqennewsradio.com/?p=133220</id>
@@ -754,16 +764,6 @@
         <summary type="html"><![CDATA[Douglas County is currently undergoing the annual process of settling on a budget for the upcoming fiscal year, as the 2024-25 fiscal year is set to end on July 1.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 12, 2025]]></title>
-        <id>6821761b6b8dda00013a7115</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/may-12-2025/"/>
-        <updated>2025-05-12T13:42:35.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
