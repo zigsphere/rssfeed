@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133281",
+          "author": "Kyle Bailey",
+          "description": "May 16, 2025 4:30 p.m.  On Friday, the Douglas Interagency Narcotics Team arrested a Winston man on suspicion of several narcotics related charges. DINT Commander Lieutenant Rick McArthur said at approximately 11:00 a.m. detectives contacted 29-year-old Ryian Martin at a residence in the 100 block of Newton Drive in Winston. McArthur said a search of...",
+          "link": "https://kqennewsradio.com/2025/05/16/dint-arrests-man-on-suspicion-of-narcotics-related-charges/?utm_source=rss&utm_medium=rss&utm_campaign=dint-arrests-man-on-suspicion-of-narcotics-related-charges",
+          "publishedOn": "2025-05-16T23:30:59.000Z",
+          "wordCount": 1570,
+          "title": "DINT ARRESTS MAN ON SUSPICION OF NARCOTICS RELATED CHARGES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133277",
           "author": "Kyle Bailey",
           "description": "State Representative Virgle Osborne reacts to the State Revenue Forecast, talks about the transportation package, tax proposals, fire fighter funding and other topics",
@@ -684,6 +694,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4b9a8fb6-41d5-4389-b891-f7fd8d4c9ad2",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For teens, the stigma attached to topics like suicide and depression can make them a challenge to address, even more so with strangers. On Wednesday evening, Adapt Integrated Health Care gave area youth an outlet to explore their thoughts on…",
+          "link": "https://www.nrtoday.com/a_and_e/adapt-integrated-health-care-hosts-addiction-and-suicide-prevention-art-show-for-young-artists/article_4b9a8fb6-41d5-4389-b891-f7fd8d4c9ad2.html",
+          "publishedOn": "2025-05-17T02:51:00.000Z",
+          "wordCount": 13865,
+          "title": "Adapt Integrated Health Care hosts addiction and suicide prevention art show for young artists",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6e/06e6f7d8-d3d3-413d-8a9d-fd635cec97e0/682556dd7f8c9.image.jpg?resize=300%2C200",
+            "length": "384535",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6e/06e6f7d8-d3d3-413d-8a9d-fd635cec97e0/682556dd7f8c9.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/54a0dc43-4f26-4e6c-8571-879cbddb6183",
           "author": "The News-Review Staff",
           "description": "In the Douglas County May Special Elections, residences vote for candidates seeking to fill positions associated with services such as ambulance, cemetery maintenance, community colleges, education service, fire protection, hospitals, libraries, parks and recreation, ports, roads, sanitation, schools, transportation, water,…",
@@ -895,16 +920,6 @@
           "wordCount": 1306,
           "title": "Music on the Half Shell Unveils 2025 Summer Concert Lineup in Roseburg",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/half_shell.jpg"
-        },
-        {
-          "id": "682349c46b8dda00013a729d",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/may-13-2025/",
-          "publishedOn": "2025-05-13T13:50:36.000Z",
-          "wordCount": 3631,
-          "title": "May 13, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-8.png"
         }
       ]
     }
