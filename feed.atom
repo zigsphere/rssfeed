@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-17T13:21:11.769Z</updated>
+    <updated>2025-05-17T16:14:54.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UNDER TEN PERCENT OF BALLOTS IN, ELECTION DEADLINE IS TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=133287</id>
+        <link href="https://kqennewsradio.com/2025/05/17/under-ten-percent-of-ballots-in-election-deadline-is-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=under-ten-percent-of-ballots-in-election-deadline-is-tuesday"/>
+        <updated>2025-05-17T16:11:59.000Z</updated>
+        <summary type="html"><![CDATA[May 17, 2025 9:00 a.m. Under 10 percent of ballots have come in for the 2025 Douglas County May Special Districts Election with the election deadline coming on Tuesday. County Clerk Daniel Loomis said 9.58 percent, or 8,391 ballots, have been received as of late Friday afternoon. Loomis said that lags 4.75 percent behind the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adapt Integrated Health Care hosts addiction and suicide prevention art show for young artists]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/4b9a8fb6-41d5-4389-b891-f7fd8d4c9ad2</id>
@@ -694,16 +704,6 @@
         <summary type="html"><![CDATA[May 14, 2025 2:50 a.m. In recognition of the 77th anniversary of the Women’s Armed Services Integration Act, Source One Serenity is hosting two events in Douglas County next month, to honor the service, strength and resilience of women veterans. The Women’s Armed Services Integration Act, signed into law on June 12th, 1948, marked a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music on the Half Shell Unveils 2025 Summer Concert Lineup in Roseburg]]></title>
-        <id>682404656b8dda00013a73e6</id>
-        <link href="https://www.roseburgscanner.com/music-on-the-half-shell-unveils-2025-summer-concert-lineup-in-roseburg/"/>
-        <updated>2025-05-14T02:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Music on the Half Shell returns to Stewart Park in Roseburg with free concerts every Tuesday at 7 p.m., June 17–August 12. This year’s lineup features jazz, blues, bluegrass, soul, funk, and global acts. Bring a chair and enjoy live music under the summer sky. More info at halfshell.org.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
