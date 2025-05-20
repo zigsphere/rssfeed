@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-20T19:10:38.889Z</updated>
+    <updated>2025-05-20T23:12:31.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 5.20.25]]></title>
+        <id>https://kqennewsradio.com/?p=133384</id>
+        <link href="https://kqennewsradio.com/2025/05/20/inside-douglas-county-5-20-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-5-20-25"/>
+        <updated>2025-05-20T20:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Economic Development Partnership Executive Director Brian Prawitz talks about last week’s Economic Summit event.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR DEPOSITING TRASH WITHIN 100 YARDS OF A WATERWAY]]></title>
         <id>https://kqennewsradio.com/?p=133382</id>
