@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133389",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson are joined by Sara Ingersoll and Robert Speidel of Inland Securities Corporation.",
+          "link": "https://kqennewsradio.com/2025/05/20/true-wealth-radio-5-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-5-20-25",
+          "publishedOn": "2025-05-21T00:10:47.000Z",
+          "wordCount": 1515,
+          "title": "TRUE WEALTH RADIO 5.20.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250520230840/TWR-5-20-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133384",
           "author": "Kyle Bailey",
           "description": "Umpqua Economic Development Partnership Executive Director Brian Prawitz talks about last week’s Economic Summit event.",
