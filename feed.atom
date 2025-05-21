@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-21T13:26:30.387Z</updated>
+    <updated>2025-05-21T16:17:11.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[May 21, 2025]]></title>
+        <id>682dd6596b8dda00013a7aea</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-21-2025/"/>
+        <updated>2025-05-21T13:53:57.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phippen, other Roseburg teachers receive golden apples for extraordinary work]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/6336ce71-e563-478c-bc23-ba1a21d033fa</id>
