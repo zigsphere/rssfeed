@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-22T13:26:45.521Z</updated>
+    <updated>2025-05-22T16:17:03.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 5.22.25]]></title>
+        <id>https://kqennewsradio.com/?p=133462</id>
+        <link href="https://kqennewsradio.com/2025/05/22/morning-conversation-5-22-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-5-22-25"/>
+        <updated>2025-05-22T16:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Mercy Medical Center Outpatient Imaging Manager Tim Smith is joined by Tyler Holland of Heritage Imaging to talk about Mercy’s new PET/CT scanner. An open house to see the scanner is happening Thursday from 1:00 p.m. to 2:00 p.m. at Mercy Outpatient Imaging on West Harvard Avenue.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 22, 2025]]></title>
+        <id>682f290b6b8dda00013a7c36</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-22-2025/"/>
+        <updated>2025-05-22T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMMISSIONERS CELEBRATE SEARCH & RESCUE WEEK]]></title>
         <id>https://kqennewsradio.com/?p=133458</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[May 22, 2025 6:20 a.m.    Douglas County Commissioners celebrated National Search & Rescue Week by issuing a proclamation at their weekly business meeting on Wednesday. A county release said the proclamation recognizes the incredible dedication of volunteer rescuers and rescue personnel in Douglas County and across the nation. Commissioner Tim Freeman provided a background...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfires in Douglas County: are you ready?]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/81f3397a-2455-44e3-b95b-ffc0a202fd74</id>
+        <link href="https://www.nrtoday.com/news/government/wildfires-in-douglas-county-are-you-ready/article_81f3397a-2455-44e3-b95b-ffc0a202fd74.html"/>
+        <updated>2025-05-22T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Wildfires are a growing threat across the Pacific Northwest, and Douglas County is no exception. Living in the beautiful rural areas of Douglas County means being close to nature, but it also means being on the front lines when wildfire…]]></summary>
+        <author>
+            <name>Tamara Howell For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -74,6 +104,16 @@
         <summary type="html"><![CDATA[Douglas Forest Protective Association District Manager Pat Skrip has a preview of the upcoming fire  season and talks about how DFPA operates.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government buildings to close for Memorial Day]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3200a091-ec02-4798-9db6-8df82eca7810</id>
+        <link href="https://www.nrtoday.com/briefs/government-buildings-to-close-for-memorial-day/article_3200a091-ec02-4798-9db6-8df82eca7810.html"/>
+        <updated>2025-05-21T20:09:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — City of Roseburg buildings will be closed Monday for Memorial Day.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>

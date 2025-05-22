@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133462",
+          "author": "Kyle Bailey",
+          "description": "Mercy Medical Center Outpatient Imaging Manager Tim Smith is joined by Tyler Holland of Heritage Imaging to talk about Mercy’s new PET/CT scanner. An open house to see the scanner is happening Thursday from 1:00 p.m. to 2:00 p.m. at Mercy Outpatient Imaging on West Harvard Avenue.",
+          "link": "https://kqennewsradio.com/2025/05/22/morning-conversation-5-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-5-22-25",
+          "publishedOn": "2025-05-22T16:16:32.000Z",
+          "wordCount": 1540,
+          "title": "MORNING CONVERSATION 5.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250522150335/AM-CONV-5-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215255/mercy2-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133458",
           "author": "Kyle Bailey",
           "description": "May 22, 2025 6:20 a.m.    Douglas County Commissioners celebrated National Search & Rescue Week by issuing a proclamation at their weekly business meeting on Wednesday. A county release said the proclamation recognizes the incredible dedication of volunteer rescuers and rescue personnel in Douglas County and across the nation. Commissioner Tim Freeman provided a background...",
@@ -589,6 +604,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/81f3397a-2455-44e3-b95b-ffc0a202fd74",
+          "author": "Tamara Howell For The News-Review",
+          "description": "Wildfires are a growing threat across the Pacific Northwest, and Douglas County is no exception. Living in the beautiful rural areas of Douglas County means being close to nature, but it also means being on the front lines when wildfire…",
+          "link": "https://www.nrtoday.com/news/government/wildfires-in-douglas-county-are-you-ready/article_81f3397a-2455-44e3-b95b-ffc0a202fd74.html",
+          "publishedOn": "2025-05-22T13:15:00.000Z",
+          "wordCount": 14142,
+          "title": "Wildfires in Douglas County: are you ready?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e3/3e3f4d6b-de1d-4818-98f2-6e242e6e9db4/6581c721b689c.image.jpg?resize=300%2C200",
+            "length": "391133",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/e3/3e3f4d6b-de1d-4818-98f2-6e242e6e9db4/6581c721b689c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3200a091-ec02-4798-9db6-8df82eca7810",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — City of Roseburg buildings will be closed Monday for Memorial Day.",
+          "link": "https://www.nrtoday.com/briefs/government-buildings-to-close-for-memorial-day/article_3200a091-ec02-4798-9db6-8df82eca7810.html",
+          "publishedOn": "2025-05-21T20:09:00.000Z",
+          "wordCount": 12446,
+          "title": "Government buildings to close for Memorial Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a39a93eb-22a0-4475-978f-80b1ef5cecc0",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Few things symbolize the wild beauty of the American West more than a herd of mustangs, but their presence can present challenges for maintaining a healthy ecological balance. According to the Bureau of Land Management, their populations can spiral out…",
@@ -746,6 +786,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "682f290b6b8dda00013a7c36",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-22-2025/",
+          "publishedOn": "2025-05-22T13:55:17.000Z",
+          "wordCount": 3452,
+          "title": "May 22, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-15.png"
+        },
         {
           "id": "682dd6596b8dda00013a7aea",
           "author": "Joseph Ziegler",
