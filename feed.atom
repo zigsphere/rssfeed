@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-23T13:24:52.366Z</updated>
+    <updated>2025-05-23T16:15:46.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[May 23, 2025]]></title>
+        <id>683077946b8dda00013a7d80</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-23-2025/"/>
+        <updated>2025-05-23T13:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring untapped potential for maple syrup production in Douglas County]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/7e3b9a5e-d256-4849-b02b-cd4ece0e8153</id>
