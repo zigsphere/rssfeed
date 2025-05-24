@@ -539,6 +539,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/05d9fd02-69ba-407b-afdf-8f2a3a53ab86",
+          "author": "Maggie Dapp The News-Review",
+          "description": "For Douglas County residents, the key to an accurate diagnosis might just be in a mobile trailer.",
+          "link": "https://www.nrtoday.com/news/health/providers-community-members-explore-cutting-edge-scanner-at-mercy-outpatient-imaging/article_05d9fd02-69ba-407b-afdf-8f2a3a53ab86.html",
+          "publishedOn": "2025-05-24T15:00:00.000Z",
+          "wordCount": 13255,
+          "title": "Providers, community members explore cutting edge scanner at Mercy Outpatient Imaging",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/5e/05eeed24-c1a5-45d9-85dd-9e680d847db0/682fa081817f9.image.jpg?resize=300%2C225",
+            "length": "245621",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/5e/05eeed24-c1a5-45d9-85dd-9e680d847db0/682fa081817f9.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a57d5c40-9ce2-46d7-9e62-9f814ac8e75d",
           "author": "Kyle Bailey For The News-Review",
           "description": "DOUGLAS COUNTY — The Douglas County Solid Waste fepartment is teaming up with state partners to provide two free-to-the-public events in June.",
@@ -682,21 +697,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/58/8583d36e-0932-44fc-92bc-6bc327c63127/682c9a249a816.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/84ede77d-9b8f-41df-915a-e906538da003",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "WINCHESTER — At Umpqua Community College, fine art students can spend terms learning to express themselves through their works, but aren’t always given an outlet to present that art to the public. This spring, the college is giving them a…",
-          "link": "https://www.nrtoday.com/a_and_e/uccs-2025-student-art-show-brings-budding-local-artists-exposure-and-recognition/article_84ede77d-9b8f-41df-915a-e906538da003.html",
-          "publishedOn": "2025-05-21T02:26:00.000Z",
-          "wordCount": 13955,
-          "title": "UCC's 2025 Student Art Show brings budding local artists exposure and recognition",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b1/fb10400e-c794-4e2e-bf75-65fd1d1f7712/6826a2a178fec.image.jpg?resize=300%2C200",
-            "length": "216299",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b1/fb10400e-c794-4e2e-bf75-65fd1d1f7712/6826a2a178fec.image.jpg?resize=300%2C200"
         }
       ]
     },

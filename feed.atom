@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-24T16:14:11.940Z</updated>
+    <updated>2025-05-24T19:10:13.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Providers, community members explore cutting edge scanner at Mercy Outpatient Imaging]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/05d9fd02-69ba-407b-afdf-8f2a3a53ab86</id>
+        <link href="https://www.nrtoday.com/news/health/providers-community-members-explore-cutting-edge-scanner-at-mercy-outpatient-imaging/article_05d9fd02-69ba-407b-afdf-8f2a3a53ab86.html"/>
+        <updated>2025-05-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For Douglas County residents, the key to an accurate diagnosis might just be in a mobile trailer.]]></summary>
+        <author>
+            <name>Maggie Dapp The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA Responds to 45-Acre Doe Hollow Fire Near Days Creek]]></title>
         <id>683150a66b8dda00013a7eb5</id>
@@ -644,16 +654,6 @@
         <summary type="html"><![CDATA[May 21, 2025 2:50 a.m. The United Community Action Network has announced the retirement of CEO Shaun Pritchard, as of May 19th. A UCAN release said the organization is grateful for everything that Pritchard accomplished during his 5 plus years at one of Douglas and Josephine county’s largest social service non-profits. Pritchard began at a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC's 2025 Student Art Show brings budding local artists exposure and recognition]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/84ede77d-9b8f-41df-915a-e906538da003</id>
-        <link href="https://www.nrtoday.com/a_and_e/uccs-2025-student-art-show-brings-budding-local-artists-exposure-and-recognition/article_84ede77d-9b8f-41df-915a-e906538da003.html"/>
-        <updated>2025-05-21T02:26:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — At Umpqua Community College, fine art students can spend terms learning to express themselves through their works, but aren’t always given an outlet to present that art to the public. This spring, the college is giving them a…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
 </feed>
