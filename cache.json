@@ -529,7 +529,28 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=8804",
+          "author": "Jim Teece",
+          "description": "In a significant move to strengthen domestic manufacturing and reduce reliance on foreign supply chains, the U.S. Small Business Administration (SBA) has launched the “Make Onshoring Great Again” portal. This free, searchable database connects small businesses with over one million verified U.S. manufacturers, producers, and suppliers, aiming to revitalize American industry and support economic recovery.…\nThe post SBA Unveils ‘Make Onshoring Great Again’ Portal to Bolster U.S. Manufacturing and Economic Resilience appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/sba-unveils-make-onshoring-great-again-portal-to-bolster-u-s-manufacturing-and-economic-resilience/",
+          "publishedOn": "2025-05-25T16:49:37.000Z",
+          "wordCount": 2796,
+          "title": "SBA Unveils ‘Make Onshoring Great Again’ Portal to Bolster U.S. Manufacturing and Economic Resilience",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/05/Screenshot-2025-05-25-at-9.47.23 AM.png"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=8801",
+          "author": "Jim Teece",
+          "description": "Imagine what it would be like if your business had no constraints placed upon it. That is, no lack of addressable market, no lack of capital, no lack of talent and imagination to drive wonderful results on a continuing basis. Wouldn’t that be something to experience? In some respects, isn’t this what you are working…\nThe post Dealing With Constraints appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/dealing-with-constraints/",
+          "publishedOn": "2025-05-25T16:29:44.000Z",
+          "wordCount": 3309,
+          "title": "Dealing With Constraints",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/05/Screenshot-2025-05-25-at-9.27.30 AM.png"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
