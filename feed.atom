@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-26T16:15:43.980Z</updated>
+    <updated>2025-05-26T19:10:43.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -249,6 +249,16 @@ The post Dealing With Constraints appeared first on Southern Oregon Business Jou
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stop your engines: DuneFest in 2025 is officially cancelled]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/89ea6684-d92d-443a-9853-9a7e2d6035c4</id>
+        <link href="https://www.nrtoday.com/business/stop-your-engines-dunefest-in-2025-is-officially-cancelled/article_89ea6684-d92d-443a-9853-9a7e2d6035c4.html"/>
+        <updated>2025-05-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WINCHESTER BAY — For 23 years, off-road enthusiasts have flocked to the coast for DuneFest, a summer festival for all things all-terrain in the Oregon Dunes National Recreation Area (ODNRA). This year, fans of the event will have to look…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Measles vaccination rates are decreasing for Oregons schoolchildren. How does Douglas County stack up?]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/6b8f6de7-65bb-463b-83f2-c7e8f7750123</id>
         <link href="https://www.nrtoday.com/news/measles-vaccination-rates-are-decreasing-for-oregons-schoolchildren-how-does-douglas-county-stack-up/article_6b8f6de7-65bb-463b-83f2-c7e8f7750123.html"/>
@@ -359,9 +369,9 @@ The post Dealing With Constraints appeared first on Southern Oregon Business Jou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roseburg's Music in the Park returns June 6]]></title>
+        <title type="html"><![CDATA[Roseburg's Movies in the Park returns June 6]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/7621f223-07da-4f7d-bb92-097ee108f33f</id>
-        <link href="https://www.nrtoday.com/briefs/roseburgs-music-in-the-park-returns-june-6/article_7621f223-07da-4f7d-bb92-097ee108f33f.html"/>
+        <link href="https://www.nrtoday.com/briefs/roseburgs-movies-in-the-park-returns-june-6/article_7621f223-07da-4f7d-bb92-097ee108f33f.html"/>
         <updated>2025-05-23T07:45:00.000Z</updated>
         <summary type="html"><![CDATA[Roseburg Parks and Recreation has announced the 2025 Movies in the Park lineup.]]></summary>
         <author>
@@ -369,13 +379,13 @@ The post Dealing With Constraints appeared first on Southern Oregon Business Jou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wildfires in Douglas County: are you ready?]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/81f3397a-2455-44e3-b95b-ffc0a202fd74</id>
-        <link href="https://www.nrtoday.com/news/government/wildfires-in-douglas-county-are-you-ready/article_81f3397a-2455-44e3-b95b-ffc0a202fd74.html"/>
-        <updated>2025-05-22T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Wildfires are a growing threat across the Pacific Northwest, and Douglas County is no exception. Living in the beautiful rural areas of Douglas County means being close to nature, but it also means being on the front lines when wildfire…]]></summary>
+        <title type="html"><![CDATA[Roseburg's Music in the Park returns June 6]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7621f223-07da-4f7d-bb92-097ee108f33f</id>
+        <link href="https://www.nrtoday.com/briefs/roseburgs-music-in-the-park-returns-june-6/article_7621f223-07da-4f7d-bb92-097ee108f33f.html"/>
+        <updated>2025-05-23T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Parks and Recreation has announced the 2025 Movies in the Park lineup.]]></summary>
         <author>
-            <name>Tamara Howell For The News-Review</name>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
