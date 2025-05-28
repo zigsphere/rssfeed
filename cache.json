@@ -393,6 +393,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68372640cbfd6b0001f9bc99",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County fire officials say fire season could arrive by early June due to dry conditions. Despite concerns over federal staffing, local crews are well-prepared, with strong recruitment and interagency coordination already in place.",
+          "link": "https://www.roseburgscanner.com/douglas-county-officials-prepare-for-early-start-to-fire-season/",
+          "publishedOn": "2025-05-28T15:13:31.000Z",
+          "wordCount": 1299,
+          "title": "Douglas County Officials Prepare for Early Start to Fire Season",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/fire_season_wm.png"
+        },
+        {
+          "id": "68370f816b8dda00013a80aa",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-28-2025/",
+          "publishedOn": "2025-05-28T13:39:59.000Z",
+          "wordCount": 3076,
+          "title": "May 28, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-18.png"
+        },
+        {
           "id": "68368c526b8dda00013a809c",
           "author": "Joseph Ziegler",
           "description": "West Coast Game Park owner Brian Tenney was arrested on drug charges after authorities found meth, cocaine, firearms - including a modified machine gun - and $1.6 million during a multi-agency investigation. Over 300 animals were previously seized from the facility.",
@@ -411,16 +431,6 @@
           "wordCount": 3052,
           "title": "May 27, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-17.png"
-        },
-        {
-          "id": "68328db66b8dda00013a7ec8",
-          "author": "Joseph Ziegler",
-          "description": "F-15 jets from the 173rd Fighter Wing will perform Memorial Day flyovers across southern Oregon on Monday, May 26, to honor fallen service members. Locations include Klamath Falls, Roseburg, Reedsport, Gold Beach, Brookings, Grants Pass, and Eagle Point.",
-          "link": "https://www.roseburgscanner.com/173rd-fighter-wing-holding-memorial-day-flyovers-for-southern-oregon/",
-          "publishedOn": "2025-05-25T03:37:07.000Z",
-          "wordCount": 1098,
-          "title": "173rd Fighter Wing holding Memorial Day flyovers for Southern Oregon",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/f-15.webp"
         }
       ]
     }

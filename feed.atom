@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-28T13:28:00.040Z</updated>
+    <updated>2025-05-28T16:15:37.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Officials Prepare for Early Start to Fire Season]]></title>
+        <id>68372640cbfd6b0001f9bc99</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-officials-prepare-for-early-start-to-fire-season/"/>
+        <updated>2025-05-28T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County fire officials say fire season could arrive by early June due to dry conditions. Despite concerns over federal staffing, local crews are well-prepared, with strong recruitment and interagency coordination already in place.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 28, 2025]]></title>
+        <id>68370f816b8dda00013a80aa</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-28-2025/"/>
+        <updated>2025-05-28T13:39:59.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TUESDAY TIES FOR HOTTEST DAY OF 2025 SO FAR IN ROSEBURG]]></title>
         <id>https://kqennewsradio.com/?p=133629</id>
@@ -356,16 +376,6 @@ The post Dealing With Constraints appeared first on Southern Oregon Business Jou
         <summary type="html"><![CDATA[May 25, 2025 6:45 a.m. Crews with the Douglas Forest Protective Association have the Doe Hollow Fire 25 percent mopped up, as of late Saturday afternoon. DFPA Acting Public Information Officer Nic Freeman said the goal is to have the fire 100 mopped up by the end of the weekend. Freeman said three type 6...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[173rd Fighter Wing holding Memorial Day flyovers for Southern Oregon]]></title>
-        <id>68328db66b8dda00013a7ec8</id>
-        <link href="https://www.roseburgscanner.com/173rd-fighter-wing-holding-memorial-day-flyovers-for-southern-oregon/"/>
-        <updated>2025-05-25T03:37:07.000Z</updated>
-        <summary type="html"><![CDATA[F-15 jets from the 173rd Fighter Wing will perform Memorial Day flyovers across southern Oregon on Monday, May 26, to honor fallen service members. Locations include Klamath Falls, Roseburg, Reedsport, Gold Beach, Brookings, Grants Pass, and Eagle Point.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
