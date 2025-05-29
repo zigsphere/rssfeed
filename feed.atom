@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-05-29T13:26:04.424Z</updated>
+    <updated>2025-05-29T16:16:33.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 5.29.25]]></title>
+        <id>https://kqennewsradio.com/?p=133683</id>
+        <link href="https://kqennewsradio.com/2025/05/29/morning-conversation-5-29-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-5-29-25"/>
+        <updated>2025-05-29T16:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Scott Cooper from the City of Roseburg Fire Department talks about the Fill the Boot event to benefit the Muscular Dystrophy Association happening on Friday from 9:00 a.m. to 5:00 p.m. at the intersection of Southeast Washington Avenue and Southeast Stephens Street in downtown Roseburg.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 29, 2025]]></title>
+        <id>6838625bcbfd6b0001f9bdb1</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/may-29-2025/"/>
+        <updated>2025-05-29T13:47:17.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIREFIGHTERS WITH FILL THE BOOT EVENT ON FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=133678</id>

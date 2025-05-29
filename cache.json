@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133683",
+          "author": "Kyle Bailey",
+          "description": "Scott Cooper from the City of Roseburg Fire Department talks about the Fill the Boot event to benefit the Muscular Dystrophy Association happening on Friday from 9:00 a.m. to 5:00 p.m. at the intersection of Southeast Washington Avenue and Southeast Stephens Street in downtown Roseburg.",
+          "link": "https://kqennewsradio.com/2025/05/29/morning-conversation-5-29-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-5-29-25",
+          "publishedOn": "2025-05-29T16:13:26.000Z",
+          "wordCount": 1572,
+          "title": "MORNING CONVERSATION 5.29.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250529150748/AM-CONV-5-29-25-.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250529151243/Scott-8.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133678",
           "author": "Kyle Bailey",
           "description": ". Local firefighters will be collecting funds for the Fill the Boot program of the Muscular Dystrophy Association on Friday. The campaign is part of an effort from the International Association of Fire Fighters that began in 1954. Money collected will help fund research, care and advocacy to empower people living with neuromuscular disease to...",
@@ -601,6 +616,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6838625bcbfd6b0001f9bdb1",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/may-29-2025/",
+          "publishedOn": "2025-05-29T13:47:17.000Z",
+          "wordCount": 3431,
+          "title": "May 29, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/05/The-Morning-Scoop-19.png"
+        },
         {
           "id": "6837e0d2cbfd6b0001f9bd4f",
           "author": "Joseph Ziegler",
