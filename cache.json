@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133790",
+          "author": "Kyle Bailey",
+          "description": "Erin Maidlow talks about the Umpqua Grown Guide, which will be coming out soon.",
+          "link": "https://kqennewsradio.com/2025/06/02/morning-conversation-6-2-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-2-25",
+          "publishedOn": "2025-06-02T16:06:50.000Z",
+          "wordCount": 1538,
+          "title": "MORNING CONVERSATION 6.2.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250602150303/AM-CONV-6-2-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250602150628/erin.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133785",
           "author": "Kyle Bailey",
           "description": "June 2, 2025 3:40 a.m. The Rogue River-Siskiyou National Forest has issued Low Fire Danger precautions on all 5 Ranger Districts, due to the increasing fire danger for the area. A release said fuels are rapidly drying and fire suppression personnel are responding to more fires as temperatures rise, and moisture levels decline. A number...",
@@ -622,6 +637,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "683d150acbfd6b0001f9c144",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-2-2025/",
+          "publishedOn": "2025-06-02T13:55:38.000Z",
+          "wordCount": 2801,
+          "title": "June 2, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop.png"
+        },
         {
           "id": "6839c296cbfd6b0001f9c11a",
           "author": "Joseph Ziegler",
