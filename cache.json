@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133838",
+          "author": "Kyle Bailey",
+          "description": "Julie Denney of the Oregon Department of Transportation talks about Tuesday’s In-Person Community Open House at the Roseburg Public Library to take input on the Exit 124/125 Interchange Management Plan and Garden Valley Corridor Plan.",
+          "link": "https://kqennewsradio.com/2025/06/03/morning-conversation-6-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-3-25",
+          "publishedOn": "2025-06-03T16:14:04.000Z",
+          "wordCount": 1579,
+          "title": "MORNING CONVERSATION 6.3.25",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250514092219/ODOT2.jpg.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=133836",
+          "author": "Kyle Bailey",
+          "description": "June 3, 2025 7:00 a.m. On Monday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden, along the state’s five Democratic House members announced that the Oregon Department of Transportation is receiving over $83 million for work it completed to repair roads and other critical infrastructure that were deeply damaged during natural disasters. A joint release...",
+          "link": "https://kqennewsradio.com/2025/06/03/delegation-over-80-million-to-support-odots-disaster-recovery-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=delegation-over-80-million-to-support-odots-disaster-recovery-efforts",
+          "publishedOn": "2025-06-03T13:56:06.000Z",
+          "wordCount": 2083,
+          "title": "DELEGATION: OVER $80 MILLION TO SUPPORT ODOT’S DISASTER RECOVERY EFFORTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230821191728/Sen.-Jeff-Merkley-Official-Portrait-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133834",
           "author": "Kyle Bailey",
           "description": "June 3, 2025 4;00 a.m.   Crews with Central Douglas Fire & Rescue responded to a fire at a home in Green on Monday. Division Chief – Fire Marshal Josh Waechter said just after 2:30 p.m. firefighters were dispatched to a reported porch fire at a residence in the 100 block of Pear Tree Lane. Waechter...",
@@ -259,229 +279,104 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3c27de5f-6e46-466d-afed-14659a054f4e",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "North Douglas High School graduation begins at noon on Saturday, June 7, at the North Douglas High School auditorium, 305 S. Main St, Drain.",
-          "link": "https://www.nrtoday.com/news/education/north-douglas-high-school/article_3c27de5f-6e46-466d-afed-14659a054f4e.html",
-          "publishedOn": "2025-05-31T02:00:00.000Z",
-          "wordCount": 13251,
-          "title": "North Douglas High School",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/04/1041288c-97c7-460e-b7d3-d7aa24e5e18a/682cbb745a7ee.image.jpg?resize=300%2C451",
-            "length": "326383",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/04/1041288c-97c7-460e-b7d3-d7aa24e5e18a/682cbb745a7ee.image.jpg?resize=300%2C451"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a09616a7-55ad-4df1-976c-c62bdc254dff",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — Roseburg Public Library invites the community to an evening with local author Betty Tamm at 6:30 p.m. Thursday, June 5.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-public-library-to-host-oakland-author/article_a09616a7-55ad-4df1-976c-c62bdc254dff.html",
-          "publishedOn": "2025-05-30T19:02:00.000Z",
-          "wordCount": 12320,
-          "title": "Roseburg Public Library to host Oakland author",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/00fdf902-adcf-448a-8684-29e8e5522395",
-          "author": "Maggie Dapp The News-Review",
-          "description": "ROSEBURG — Oregon State University Extension Service and the Douglas County Chapter of the Master Gardener Association will offer an agriculture workshop for veterans titled Boots on the Ground, Hands in the Soil.",
-          "link": "https://www.nrtoday.com/briefs/osu-extension-service-and-douglas-county-gardening-group-to-offer-agriculture-workshop-for-veterans/article_00fdf902-adcf-448a-8684-29e8e5522395.html",
-          "publishedOn": "2025-05-30T18:10:00.000Z",
-          "wordCount": 12324,
-          "title": "OSU Extension Service and Douglas County gardening group to offer agriculture workshop for veterans",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ae2746ce-4e80-46b7-bed6-3f12768f9b83",
-          "author": "Kris Wiley For The News-Review",
-          "description": "Adult community members with intellectual and physical disabilities are invited to share their ideas for how Roseburg Public Library can better serve them in two upcoming sessions.",
-          "link": "https://www.nrtoday.com/life/library-to-host-conversations-for-adults-with-disabilities/article_ae2746ce-4e80-46b7-bed6-3f12768f9b83.html",
-          "publishedOn": "2025-05-30T17:15:00.000Z",
-          "wordCount": 12719,
-          "title": "Library to host conversations for adults with disabilities",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
-            "length": "188004",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e51b2b99-8f59-4b01-80ea-3babe84fb1ee",
-          "author": "PAUL MORGAN For The News-Review",
-          "description": "Bright Jupiter rapidly slips into the sun’s glare as Mercury slowly climbs into view. If you have a nearly perfect west-northwest horizon or an ocean view, you may be able to spot Jupiter over the next week.",
-          "link": "https://www.nrtoday.com/life/celebrate-summer-solstace-at-a-stargazing-party/article_e51b2b99-8f59-4b01-80ea-3babe84fb1ee.html",
-          "publishedOn": "2025-05-30T16:49:00.000Z",
-          "wordCount": 12912,
-          "title": "Celebrate summer solstace at a stargazing party",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3a/93a7f0f8-963d-5760-866d-994e7b0534dd/62e7fdf3488e8.image.jpg?resize=300%2C200",
-            "length": "314601",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/3a/93a7f0f8-963d-5760-866d-994e7b0534dd/62e7fdf3488e8.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1cfa46a2-6114-4fcf-a204-bab282d1b433",
-          "author": "Janet Bitter Master Gardner",
-          "description": "Question: I want to start growing some flowers for bouquets around my home. Can you give me some tips for growing a cut flower garden?",
-          "link": "https://www.nrtoday.com/life/ask-a-master-gardener-growing-flowers-for-bouquets/article_1cfa46a2-6114-4fcf-a204-bab282d1b433.html",
-          "publishedOn": "2025-05-30T16:30:00.000Z",
-          "wordCount": 13212,
-          "title": "Ask a Master Gardener: Growing flowers for bouquets",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/e6/fe66fa5b-4473-43cb-bf58-ea69e4f15a39/68374be733364.image.jpg?resize=300%2C225",
-            "length": "654799",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/e6/fe66fa5b-4473-43cb-bf58-ea69e4f15a39/68374be733364.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/387423fd-5b49-4fcc-9cc9-abd1f7b4ac1d",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/499a2551-3ba2-45c4-90b6-d07dd66a7b8c",
           "author": "ANDREW GRIFFIN The News-Review",
-          "description": "In June 2024, the Cow Creek Band of Umpqua Tribe of Indians purchased 464 SE Jackson St. for $1,043,817. The purchase brought a chance to turn the run-down and vacant property into a fresh opportunity for economic growth, but the…",
-          "link": "https://www.nrtoday.com/business/tribe-to-seek-community-input-for-downtown-property-development/article_387423fd-5b49-4fcc-9cc9-abd1f7b4ac1d.html",
-          "publishedOn": "2025-05-30T15:30:00.000Z",
-          "wordCount": 13096,
-          "title": "Tribe to seek community input for downtown property development",
+          "description": "Usually, the cast and crew of a stage play try as much as possible to hide the behind-the-scenes work that happens during a performance. In the Umpqua Actors Community Theatre’s new production, everyone is going for the exact opposite effect.",
+          "link": "https://www.nrtoday.com/a_and_e/uact-brings-laughs-and-chaos-to-the-stage/article_499a2551-3ba2-45c4-90b6-d07dd66a7b8c.html",
+          "publishedOn": "2025-06-03T15:00:00.000Z",
+          "wordCount": 13601,
+          "title": "UACT brings laughs and chaos to the stage",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/c0/4c057ab6-237a-439f-9bc8-2a9acfc56e49/667b4535db003.image.jpg?resize=300%2C225",
-            "length": "439417",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/7d/e7d2d802-1ddf-416a-b82b-c4acd8d9d437/6839231b80992.image.jpg?resize=300%2C200",
+            "length": "393286",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/c0/4c057ab6-237a-439f-9bc8-2a9acfc56e49/667b4535db003.image.jpg?resize=300%2C225"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/7d/e7d2d802-1ddf-416a-b82b-c4acd8d9d437/6839231b80992.image.jpg?resize=300%2C200"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/34d31014-3531-49cc-92ae-c34ff08f9d8a",
-          "author": "HEATHER VILLA For The News-Review",
-          "description": "Ten sixth-grade students were called into the principal’s office. They weren’t in trouble. Instead, they were invited to share their thoughts, take turns speaking and listen to each other as school administrators leaned in to hear what they had to…",
-          "link": "https://www.nrtoday.com/news/education/glide-elementary-students-take-the-lead/article_34d31014-3531-49cc-92ae-c34ff08f9d8a.html",
-          "publishedOn": "2025-05-30T15:30:00.000Z",
-          "wordCount": 13148,
-          "title": "Glide Elementary students take the lead",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e85fc194-f400-4477-bdd2-605f3b115ddd",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "The return of warm weather to Douglas County brings lots of opportunities; a chance to get outdoors, visit annual festivals and to move forward with major construction projects.",
+          "link": "https://www.nrtoday.com/news/summer-of-construction-a-look-at-ongoing-major-projects-in-douglas-county/article_e85fc194-f400-4477-bdd2-605f3b115ddd.html",
+          "publishedOn": "2025-06-03T15:00:00.000Z",
+          "wordCount": 14382,
+          "title": "Summer of construction: A look at ongoing major projects in Douglas County",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/e7/0e722d96-2a8e-4177-84ce-876c926e05d5/6837505f4b67d.image.jpg?resize=300%2C200",
-            "length": "436873",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/31/c31b5e3f-916b-470d-b523-3d1045bdd90f/683897f285f0a.image.jpg?resize=300%2C225",
+            "length": "420685",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/e7/0e722d96-2a8e-4177-84ce-876c926e05d5/6837505f4b67d.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/31/c31b5e3f-916b-470d-b523-3d1045bdd90f/683897f285f0a.image.jpg?resize=300%2C225"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e8be874e-ffe8-473d-9a60-3cba6ce266ff",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/04c52030-7333-4a50-8748-f67731f7b864",
           "author": "Maggie Dapp The News-Review",
-          "description": "WINSTON — Zoos give ticket holders a front row seat to the wild. What isn’t covered with the fair however is the complex web of factors maintaining the organization — from financials to conservation, there’s more beyond the enclosures.",
-          "link": "https://www.nrtoday.com/news/accreditation-matters-wildlife-safari-steps-up-amid-game-park-crisis/article_e8be874e-ffe8-473d-9a60-3cba6ce266ff.html",
-          "publishedOn": "2025-05-30T15:00:00.000Z",
-          "wordCount": 13300,
-          "title": "Accreditation matters: Wildlife Safari steps up amid game park crisis",
+          "description": "RIDDLE — Johnny Mcelroy envisions the Riddle Activity Center as a “mental health hub” for the city. For the founder of Neighborhood Behavioral Health, one organization moving into the center following its launch, the space can’t get here fast enough.",
+          "link": "https://www.nrtoday.com/news/riddle-activity-center-secures-building-permit/article_04c52030-7333-4a50-8748-f67731f7b864.html",
+          "publishedOn": "2025-06-03T15:00:00.000Z",
+          "wordCount": 12947,
+          "title": "Riddle Activity Center secures building permit",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/e4/5e4dc1a3-2479-4aba-8a99-0ab045f447c4/6837d721b514b.image.jpg?resize=300%2C169",
-            "length": "359373",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d5/6d55592a-257a-4079-bf69-541d87bdb752/683a02ab9285a.image.jpg?resize=300%2C365",
+            "length": "376543",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/e4/5e4dc1a3-2479-4aba-8a99-0ab045f447c4/6837d721b514b.image.jpg?resize=300%2C169"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d5/6d55592a-257a-4079-bf69-541d87bdb752/683a02ab9285a.image.jpg?resize=300%2C365"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6cdb1b9d-5989-4592-b33a-5d568ccd9c2a",
-          "author": "Dr. Rachel Pokrandt President and CEO at Umpqua Community College",
-          "description": "If you’ve driven north of exit 129 lately, you’ve seen it: Umpqua Community College’s bold new billboard, featuring a proud Riverhawk graduate and a single word -“Unstoppable.” That’s not just a slogan. It’s a mindset. It’s a promise we make…",
-          "link": "https://www.nrtoday.com/news/local/unstoppable-the-class-of-2025/article_6cdb1b9d-5989-4592-b33a-5d568ccd9c2a.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": 13258,
-          "title": "Unstoppable: The Class of 2025",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f87ae4a-b8df-477f-99f4-9985170c85c4/682ca81da1707.image.jpg?resize=300%2C223",
-            "length": "236698",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f87ae4a-b8df-477f-99f4-9985170c85c4/682ca81da1707.image.jpg?resize=300%2C223"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ff4d2b3a-bdba-42c1-acbd-face289c41ad",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ec03305b-b469-4d15-9558-e17b4a405dd6",
           "author": "GLORIA COLEMAN The News-Review",
-          "description": "During her freshman year at Roseburg High School, Emily Gibbons said she only passed three of her 14 classes.",
-          "link": "https://www.nrtoday.com/news/education/from-truancy-to-tattooing-emily-gibbons-finds-a-path/article_ff4d2b3a-bdba-42c1-acbd-face289c41ad.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": 13506,
-          "title": "From truancy to tattooing: Emily Gibbons finds a path",
+          "description": "The 2025 Mike McWilliams Memorial Shearing Contest will feature one additional caveat: the winner will walk away with a berth on the next U.S. National Team.",
+          "link": "https://www.nrtoday.com/news/education/a-wool-derful-weekend-awaits-sheep-handlers-of-douglas-county/article_ec03305b-b469-4d15-9558-e17b4a405dd6.html",
+          "publishedOn": "2025-06-03T14:00:00.000Z",
+          "wordCount": 13569,
+          "title": "A wool-derful weekend awaits sheep handlers of Douglas County",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d3/7d38eb08-ca45-4948-9ea6-ade3bdbe1bce/682c1fe0f18f4.image.jpg?resize=300%2C200",
-            "length": "407777",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd95a11b-173c-4054-a3ed-dc58b5623363/665be07d77c3a.image.jpg?resize=300%2C200",
+            "length": "406993",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d3/7d38eb08-ca45-4948-9ea6-ade3bdbe1bce/682c1fe0f18f4.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/d9/dd95a11b-173c-4054-a3ed-dc58b5623363/665be07d77c3a.image.jpg?resize=300%2C200"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6d3af8c9-241e-44ab-ae80-71fb82444ab5",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "It wasn’t until junior year that Scotlynn Winter realized she actually wouldn’t be graduating Roseburg High School alongside her peers in the class of 2025 if she continued her habits.",
-          "link": "https://www.nrtoday.com/news/education/just-stick-it-out-scotlynn-winter-changes-her-tune-in-time-to-graduate/article_6d3af8c9-241e-44ab-ae80-71fb82444ab5.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Just stick it out: Scotlynn Winter changes her tune in time to graduate",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0b79d409-bfe2-40d1-bd13-1cbeac9503c6",
+          "author": "Maggie Dapp The News-Review",
+          "description": "GLIDE — Blooms and booming small businesses were on display under the sunshine at this year’s Bloomapalooza Iris Festival.",
+          "link": "https://www.nrtoday.com/news/bloomapalooza-just-keeps-growing/article_0b79d409-bfe2-40d1-bd13-1cbeac9503c6.html",
+          "publishedOn": "2025-06-03T03:00:00.000Z",
+          "wordCount": 13140,
+          "title": "Bloomapalooza just keeps growing",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/fd/1fdb6f13-2d2f-4ab6-a52a-8ff00d146ff0/682c1e9db9c6e.image.jpg?resize=300%2C200",
-            "length": "288385",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/77/077c4132-f76b-4c6e-b864-015f671d12cf/683b7ed7e892a.image.jpg?resize=300%2C200",
+            "length": "423344",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/fd/1fdb6f13-2d2f-4ab6-a52a-8ff00d146ff0/682c1e9db9c6e.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/77/077c4132-f76b-4c6e-b864-015f671d12cf/683b7ed7e892a.image.jpg?resize=300%2C200"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/47a21e3c-044b-4834-94d9-626f04f40ef8",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/aa7d32f0-20eb-454d-b10b-5c63040f1a09",
+          "author": "Maggie Dapp The News-Review",
+          "description": "2025 Yoncalla High School graduates were draped in blue and white for their graduation ceremony May 30 in the school’s gymnasium.",
+          "link": "https://www.nrtoday.com/news/take-this-moment-to-embrace-the-chances-youre-being-given-yoncalla-high-school-class-of/article_aa7d32f0-20eb-454d-b10b-5c63040f1a09.html",
+          "publishedOn": "2025-06-02T15:00:00.000Z",
+          "wordCount": 13047,
+          "title": "‘Take this moment to embrace the chances you're being given’ — Yoncalla High School class of 2025 graduates",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/cc/0cc5af4b-d84b-424e-ac53-f1858ae73e9d/683b78cd2b881.image.jpg?resize=300%2C225",
+            "length": "82001",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/cc/0cc5af4b-d84b-424e-ac53-f1858ae73e9d/683b78cd2b881.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/46a83b81-a4d4-4c69-a5a7-285863b9a827",
           "author": "GLORIA COLEMAN The News-Review",
-          "description": "Phoenix School of Roseburg will host graduation at 6 p.m. Tuesday, June 10, at Jacoby Auditorium at Umpqua Community College, 1140 Umpqua College Road, Winchester.",
-          "link": "https://www.nrtoday.com/news/education/phoenix-school-of-roseburg/article_47a21e3c-044b-4834-94d9-626f04f40ef8.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": 12240,
-          "title": "Phoenix School of Roseburg",
+          "description": "WINCHESTER — Umpqua Community College's Paul Morgan Observatory cancelled summer public program events due to construction at the college's track. The Moon Watch event on June 7 and the public night on June 20 are both cancelled.",
+          "link": "https://www.nrtoday.com/briefs/observatory-cancels-summer-public-programs/article_46a83b81-a4d4-4c69-a5a7-285863b9a827.html",
+          "publishedOn": "2025-06-02T14:42:00.000Z",
+          "wordCount": 12181,
+          "title": "Observatory cancels summer public programs",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/88663af3-9698-42ac-be30-48fb8ca18e9e",
-          "author": "Analicia Nicholson Douglas Education Service District Superintendent",
-          "description": "Dear Graduates of 2025,",
-          "link": "https://www.nrtoday.com/news/education/class-of-2025-the-world-needs-you/article_88663af3-9698-42ac-be30-48fb8ca18e9e.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Class of 2025: The world needs you",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/10/310157a3-d99d-495e-b5a6-4b54c2364273/682ca9234ac37.image.jpg?resize=300%2C225",
-            "length": "446114",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/10/310157a3-d99d-495e-b5a6-4b54c2364273/682ca9234ac37.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fa8b5d50-9562-4c2a-8172-9f3ee02b204b",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Roseburg High School will host its graduation ceremony at 11 a.m. Saturday, June 7, at Finlay Field at Roseburg High School, 400 W. Harvard Avenue in Roseburg.",
-          "link": "https://www.nrtoday.com/news/education/roseburg-high-school/article_fa8b5d50-9562-4c2a-8172-9f3ee02b204b.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": 16762,
-          "title": "Roseburg High School",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/47/5473e55c-2734-42c2-b32d-79a3806954c0/68280607c9851.image.jpg?resize=300%2C450",
-            "length": "230129",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/47/5473e55c-2734-42c2-b32d-79a3806954c0/68280607c9851.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/feb832d4-8ce3-4893-a64d-09e325ae2164",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Yoncalla High School will host their graduation ceremony at 6:30 p.m. Friday, May 30, at the Yoncalla High School gymnasium, 292 Fifth St., Yoncalla.",
-          "link": "https://www.nrtoday.com/news/education/yoncalla-high-school/article_feb832d4-8ce3-4893-a64d-09e325ae2164.html",
-          "publishedOn": "2025-05-30T14:00:00.000Z",
-          "wordCount": 13311,
-          "title": "Yoncalla High School",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/77/1778e790-366f-4427-a835-6e79700baf78/682c1eeab95fb.image.jpg?resize=300%2C398",
-            "length": "99569",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/77/1778e790-366f-4427-a835-6e79700baf78/682c1eeab95fb.image.jpg?resize=300%2C398"
         }
       ]
     },
@@ -597,6 +492,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "683efdf7cbfd6b0001f9c41e",
+          "author": "Joseph Ziegler",
+          "description": "A crash on NW Stewart Parkway Saturday night claimed the life of 19-year-old motorcyclist Zevin Alvarez. Roseburg Police say the driver of a car admitted to running a red light. The investigation remains ongoing.",
+          "link": "https://www.roseburgscanner.com/crash-claims-life-of-19-year-old-motorcyclist-in-roseburg/",
+          "publishedOn": "2025-06-03T13:54:21.000Z",
+          "wordCount": 1076,
+          "title": "Crash Claims Life of 19-Year-Old Motorcyclist in Roseburg",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/police_car.webp"
+        },
+        {
+          "id": "683efd79cbfd6b0001f9c404",
+          "author": "Joseph Ziegler",
+          "description": "A fire in the attic of a Green home Monday displaced several adults, children, and pets. Crews from CDF&R and partner agencies contained the fire in 20 minutes. The likely cause was a discarded cigarette. The American Red Cross is assisting the displaced family.",
+          "link": "https://www.roseburgscanner.com/attic-fire-displaces-family-in-green-on-monday-afternoon/",
+          "publishedOn": "2025-06-03T13:50:28.000Z",
+          "wordCount": 1180,
+          "title": "Attic Fire Displaces Family in Green on Monday Afternoon",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/Central-Douglas-Fire-Rescue-1.jpg"
+        },
+        {
+          "id": "683ef865cbfd6b0001f9c2e9",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-3-2025/",
+          "publishedOn": "2025-06-03T13:47:03.000Z",
+          "wordCount": 3212,
+          "title": "June 3, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-1.png"
+        },
         {
           "id": "683d150acbfd6b0001f9c144",
           "author": "Joseph Ziegler",
