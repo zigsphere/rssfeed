@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-02T23:12:51.263Z</updated>
+    <updated>2025-06-03T03:11:53.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -507,16 +507,6 @@ The post Regionally Significant Industrial Sites Program Now Accepting Applicati
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roseburg Set to See Hottest Day of 2025 So Far Today]]></title>
-        <id>6839c296cbfd6b0001f9c11a</id>
-        <link href="https://www.roseburgscanner.com/roseburg-set-to-see-hottest-day-of-2025-so-far-today/"/>
-        <updated>2025-05-30T14:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg is expected to hit near 90 degrees Friday - making it the hottest day of 2025 so far. The National Weather Service says highs will be 15 - 20 degrees above normal. A gradual cooldown is expected over the weekend.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unstoppable: The Class of 2025]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/6cdb1b9d-5989-4592-b33a-5d568ccd9c2a</id>
         <link href="https://www.nrtoday.com/news/local/unstoppable-the-class-of-2025/article_6cdb1b9d-5989-4592-b33a-5d568ccd9c2a.html"/>
@@ -584,26 +574,6 @@ The post Regionally Significant Industrial Sites Program Now Accepting Applicati
         <summary type="html"><![CDATA[Yoncalla High School will host their graduation ceremony at 6:30 p.m. Friday, May 30, at the Yoncalla High School gymnasium, 292 Fifth St., Yoncalla.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May 30, 2025]]></title>
-        <id>6839b50acbfd6b0001f9bf68</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/may-30-2025/"/>
-        <updated>2025-05-30T13:56:37.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG FORECAST TO SEE HOTTEST DAY OF 2025 ON FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=133728</id>
-        <link href="https://kqennewsradio.com/2025/05/30/roseburg-forecast-to-see-hottest-day-of-2025-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-forecast-to-see-hottest-day-of-2025-on-friday"/>
-        <updated>2025-05-30T11:13:29.000Z</updated>
-        <summary type="html"><![CDATA[May 30, 2025 4:15 a.m. Roseburg should see the hottest day of 2025 so far on Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury is expected to reach near 90 degrees at the Roseburg Regional Airport. Forecasters said dry, stable, very warm conditions...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
