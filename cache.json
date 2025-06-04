@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=133867",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/06/03/true-wealth-6-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-3-25",
+          "publishedOn": "2025-06-04T00:41:17.000Z",
+          "wordCount": 1542,
+          "title": "TRUE WEALTH 6.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250603233948/TWR-06-0325-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=133862",
           "author": "Kyle Bailey",
           "description": "A two-part program with Ashley Cluver of Umpqua Valley Arts and Oregon House Republican Leader Christine Drazan live from Salem.",
@@ -349,16 +364,6 @@
           "wordCount": 1651,
           "title": "EXTENSION AND MASTER GARDENERS TO HOST WORKSHOPS FOR VETERANS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=133768",
-          "author": "Kyle Bailey",
-          "description": "May 31, 2025 6:00 a.m. Friday was the hottest day of the year so far in Roseburg. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 91 degrees at the Roseburg Regional Airport. The previous hottest days for 2025 were May 26th and May...",
-          "link": "https://kqennewsradio.com/2025/05/31/roseburg-has-hottest-day-of-the-year-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-has-hottest-day-of-the-year-on-friday",
-          "publishedOn": "2025-05-31T13:11:28.000Z",
-          "wordCount": 1613,
-          "title": "ROSEBURG HAS HOTTEST DAY OF THE YEAR ON FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -373,6 +378,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/79a86a67-0c96-487c-8d89-3c854156c895",
+          "author": "Knight Jarecki For The News-Review",
+          "description": "A new brand of baseball will touch the turf for one night only as summer collegiate baseball is coming to Roseburg for the first time.",
+          "link": "https://www.nrtoday.com/sports/colleges/ucc/ucc_baseball/roseburg-will-host-summer-collegiate-baseball-showcase/article_79a86a67-0c96-487c-8d89-3c854156c895.html",
+          "publishedOn": "2025-06-03T20:00:00.000Z",
+          "wordCount": 14374,
+          "title": "Roseburg will host Summer Collegiate Baseball Showcase",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/22/a223a747-676d-4c55-9547-6085fbc7e388/683de2185b90b.image.jpg?resize=300%2C450",
+            "length": "298856",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/22/a223a747-676d-4c55-9547-6085fbc7e388/683de2185b90b.image.jpg?resize=300%2C450"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/499a2551-3ba2-45c4-90b6-d07dd66a7b8c",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -481,6 +501,16 @@
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": [
         {
+          "id": "https://southernoregonbusiness.com/?p=8887",
+          "author": "Jim Teece",
+          "description": "This year has brought a number of significant changes with it, probably to no surprise of most people in the United States. The largest change was undoubtedly in the political arena. The effects of the change of politics in America is ripe for discussion as for how it has changed the business environment all around…\nThe post Adopt a ‘Three Bear Strategy’ appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/adopt-a-three-bear-strategy/",
+          "publishedOn": "2025-06-03T23:54:41.000Z",
+          "wordCount": 3103,
+          "title": "Adopt a ‘Three Bear Strategy’",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/06/3-bear-strategy.png"
+        },
+        {
           "id": "https://southernoregonbusiness.com/?p=8883",
           "author": "Jim Teece",
           "description": "In Fans First, Jesse Cole—founder of the Savannah Bananas baseball team and its signature yellow tuxedo—delivers more than a book; he delivers a manifesto on reimagining customer experience. With unfiltered enthusiasm and a flair for the unconventional, Cole offers a powerful reminder that fan obsession—not industry norms—should drive business strategy. At first glance, the story…\nThe post Book Review: Fans First: Change the Game, Break the Rules & Create an Unforgettable Experience by Jesse Cole appeared first on Southern Oregon Business Journal.",
@@ -587,6 +617,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "683f952acbfd6b0001f9c449",
+          "author": "Joseph Ziegler",
+          "description": "Fire season for the Douglas District begins Friday, June 6, 2025 at 12:01 AM. DFPA has set public use restrictions to Moderate and IFPL to Level I. The declaration applies to all private, state, federal, and BIA lands in the district. Fire safety rules are now in effect to help prevent wildfires.",
+          "link": "https://www.roseburgscanner.com/dfpa-declares-start-of-2025-fire-season-for-douglas-district/",
+          "publishedOn": "2025-06-04T00:38:04.000Z",
+          "wordCount": 1174,
+          "title": "DFPA Declares Start of 2025 Fire Season for Douglas District",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/dfpa_fire_season.jpg"
+        },
         {
           "id": "683f4398cbfd6b0001f9c434",
           "author": "Joseph Ziegler",
