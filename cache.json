@@ -449,6 +449,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/29ef10a9-c550-4508-8c95-98102627b3b4",
+          "author": "Maggie Dapp The News-Review",
+          "description": "Tucked away down a few gravel roads just south of downtown Roseburg lies an eclectic mix of sculpture, painting, vegetation and more, nearly every bit of the green-space DIY-ed by artist and gardener Jerry McCarroll.",
+          "link": "https://www.nrtoday.com/family/artist-jerry-mccarroll-s-garden-is-a-diy-master-class/article_29ef10a9-c550-4508-8c95-98102627b3b4.html",
+          "publishedOn": "2025-06-04T15:00:00.000Z",
+          "wordCount": 13366,
+          "title": "Artist Jerry McCarroll’s garden is a DIY master class",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/20/0204e9a5-65c0-4acf-bf0f-fc67db1dfe79/6830bd2ed49c1.image.jpg?resize=300%2C225",
+            "length": "113762",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/20/0204e9a5-65c0-4acf-bf0f-fc67db1dfe79/6830bd2ed49c1.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/498a7a64-7919-4d39-9de8-7dbe6b0ca59a",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Art functions as a way for people to express themselves creatively regardless of the medium. For artist Michelle Torina, her medium doesn’t use ink, clay or rolls of film; it uses food.",
+          "link": "https://www.nrtoday.com/business/art-cuterie-charcuterie-business-olive-and-madrone-to-launch-in-roseburg-this-summer/article_498a7a64-7919-4d39-9de8-7dbe6b0ca59a.html",
+          "publishedOn": "2025-06-04T15:00:00.000Z",
+          "wordCount": 12878,
+          "title": "Art-cuterie: charcuterie business Olive and Madrone to launch in Roseburg this summer.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1b/71b84bcf-d65a-4ea9-8808-27c7a68a8189/683e1f23810aa.image.jpg?resize=300%2C250",
+            "length": "641852",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1b/71b84bcf-d65a-4ea9-8808-27c7a68a8189/683e1f23810aa.image.jpg?resize=300%2C250"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/92d80f6c-3f71-43c0-81dd-d62387213bce",
+          "author": "Maggie Dapp The News-Review",
+          "description": "As of early May, HIV Alliance, a nonprofit that provides care to those affected by or at risk for HIV in Oregon, has halted syringe exchange programs out of Roseburg city property.",
+          "link": "https://www.nrtoday.com/news/amidst-move-to-ban-syringe-exchange-on-city-property-hiv-alliance-halts-exchange-at-parks/article_92d80f6c-3f71-43c0-81dd-d62387213bce.html",
+          "publishedOn": "2025-06-04T15:00:00.000Z",
+          "wordCount": 13113,
+          "title": "Amidst move to ban syringe exchange on city property, HIV Alliance halts exchange at parks",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/7d/e7dacd26-7b91-11ef-b032-cf96da698396/66f495f638b4f.image.jpg?resize=300%2C200",
+            "length": "510740",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/7d/e7dacd26-7b91-11ef-b032-cf96da698396/66f495f638b4f.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e345f67-d9a8-4f00-bd9f-34e7a43f6007",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — A Roseburg man died in a motorcycle versus vehicle crash Saturday night.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-man-dies-in-motorcycle-crash-saturday/article_6e345f67-d9a8-4f00-bd9f-34e7a43f6007.html",
+          "publishedOn": "2025-06-04T14:14:00.000Z",
+          "wordCount": 12269,
+          "title": "Roseburg man dies in motorcycle crash Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/99807d63-e7a9-49b8-afcd-55983f2fe4f5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "OREGON — On Tuesday, the Oregon State Senate unanimously passed legislation that advocates say will help stop illegal cannabis grows.",
+          "link": "https://www.nrtoday.com/briefs/bill-passes-to-stop-illegal-cannabis-grows/article_99807d63-e7a9-49b8-afcd-55983f2fe4f5.html",
+          "publishedOn": "2025-06-04T14:09:00.000Z",
+          "wordCount": 12354,
+          "title": "Bill passes to stop illegal cannabis grows",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/79a86a67-0c96-487c-8d89-3c854156c895",
           "author": "Knight Jarecki For The News-Review",
           "description": "A new brand of baseball will touch the turf for one night only as summer collegiate baseball is coming to Roseburg for the first time.",
@@ -687,6 +752,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "684050aacbfd6b0001f9c588",
+          "author": "Joseph Ziegler",
+          "description": "Winston’s 4th of July fireworks are officially back on for their 5th year! Thanks to community support and the WAID team, the celebration will light up the sky once again. A community meeting is set for June 5 at 6 PM at Riverbend Park. All are welcome to join and get involved.",
+          "link": "https://www.roseburgscanner.com/winstons-fourth-of-july-fireworks-are-officially-back-on/",
+          "publishedOn": "2025-06-04T14:17:12.000Z",
+          "wordCount": 1198,
+          "title": "Winston’s Fourth of July Fireworks Are Officially Back On",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/waid.jpg"
+        },
+        {
+          "id": "68404ccecbfd6b0001f9c462",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-4-2025/",
+          "publishedOn": "2025-06-04T13:54:53.000Z",
+          "wordCount": 3535,
+          "title": "June 4, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-2.png"
+        },
         {
           "id": "683f952acbfd6b0001f9c449",
           "author": "Joseph Ziegler",
