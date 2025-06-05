@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-04T23:12:55.761Z</updated>
+    <updated>2025-06-05T03:11:48.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Sheriff's Office Tactical Response, Crisis Negotiation Teams Called to Disturbance]]></title>
+        <id>6840f547cbfd6b0001f9c5af</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-sheriffs-office-tactical-response-crisis-negotiation-teams-called-to-disturbance/"/>
+        <updated>2025-06-05T01:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Two men were found injured and uncooperative in a truck after a reported fight and gunshot on Melqua Rd. Deputies, negotiators, and the DCSO Tactical Team responded. A K-9 was used to apprehend one man. Two guns were found; charges are pending. Both were hospitalized for injuries.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCSO TACTICAL RESPONSE CRISIS NEGOTIATION TEAMS CALLED TO DISTURBANCE]]></title>
+        <id>https://kqennewsradio.com/?p=133935</id>
+        <link href="https://kqennewsradio.com/2025/06/04/dcso-tactical-response-crisis-negotiation-teams-called-to-disturbance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dcso-tactical-response-crisis-negotiation-teams-called-to-disturbance"/>
+        <updated>2025-06-04T23:40:41.000Z</updated>
+        <summary type="html"><![CDATA[June 4, 2025 4:40 p.m.  Several members of the Douglas County Sheriff’s Office responded to the 1800 block of Melrose Road northwest of Roseburg at 6:30 p.m. Tuesday night to investigate a report of males fighting and a gunshot heard. A DCSO release said upon arrival, deputies located two men, ages 45 and 51, both...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.04.25]]></title>
         <id>https://kqennewsradio.com/?p=133931</id>
