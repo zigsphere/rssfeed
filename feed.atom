@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-05T03:11:48.522Z</updated>
+    <updated>2025-06-05T13:27:40.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Animals, books, life skills and more: Summer reading programs warm up]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6215b273-7467-4786-bd29-e84693e8e326</id>
+        <link href="https://www.nrtoday.com/news/education/animals-books-life-skills-and-more-summer-reading-programs-warm-up/article_6215b273-7467-4786-bd29-e84693e8e326.html"/>
+        <updated>2025-06-05T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Summer means school’s out for many people and libraries prepare for summer reading programs.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGENCIES ANNOUNCE START OF FIRE SEASON ON FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=133953</id>
+        <link href="https://kqennewsradio.com/2025/06/05/agencies-announce-start-of-fire-season-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=agencies-announce-start-of-fire-season-on-friday"/>
+        <updated>2025-06-05T11:12:01.000Z</updated>
+        <summary type="html"><![CDATA[June 5, 2025 4:00 a.m.  The Douglas Forest Protective Association, the Umpqua National Forest and the Bureau of Land Management Roseburg District have announced that the 2025 fire season will officially begin at 12:01 a.m. on Friday. All private, county, state, and Bureau of Indian Affairs land within the Douglas District as well as all...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW DEL TACO STORE OPENS THURSDAY]]></title>
+        <id>https://kqennewsradio.com/?p=133950</id>
+        <link href="https://kqennewsradio.com/2025/06/05/new-del-taco-store-opens-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-del-taco-store-opens-thursday"/>
+        <updated>2025-06-05T10:52:20.000Z</updated>
+        <summary type="html"><![CDATA[June 5, 2025 3:40 a.m. In the KQEN Business Spotlight: Nearly three years after a late-night fire destroyed their former building, Thursday is day one of operations for the new Del Taco store on Northwest Stewart Parkway in Roseburg. Wednesday the store was open around lunchtime and again in the early evening for VIP events,...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOWNTOWN PARK GETS CONCRETE GAMES DONATION]]></title>
+        <id>https://kqennewsradio.com/?p=133942</id>
+        <link href="https://kqennewsradio.com/2025/06/05/downtown-park-gets-concrete-games-donation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=downtown-park-gets-concrete-games-donation"/>
+        <updated>2025-06-05T10:22:08.000Z</updated>
+        <summary type="html"><![CDATA[June 5, 2025 3:20 a.m.  A tiny park in downtown Roseburg is being transformed into a recreational gem with the donation of cornhole boards and a ping pong table. A City of Roseburg release said in late May, Stone Age Concrete Games of Roseburg built and installed a 2,400-pound concrete ping pong table and two...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[88TH ANNUAL LAMB SHOW AND BARBECUE HAPPENING SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=133939</id>
+        <link href="https://kqennewsradio.com/2025/06/05/88th-annual-lamb-show-and-barbecue-happening-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=88th-annual-lamb-show-and-barbecue-happening-saturday"/>
+        <updated>2025-06-05T10:10:37.000Z</updated>
+        <summary type="html"><![CDATA[June 5, 2025 3:05 a.m. The 86th annual Douglas County Lamb Show and Barbecue is happening on Saturday at the Douglas County Fairgrounds. Events begin at 8:00 a.m.in the Pavilion Arena. The U.S. Sheep Shearing Championships get started at 9:00 a.m. in the River Arena. Activities take place throughout the day including the Wool Showcase...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEADLINE NEARS FOR FISHERY ENHANCEMENT GRANT APPLICATIONS]]></title>
+        <id>https://kqennewsradio.com/?p=133937</id>
+        <link href="https://kqennewsradio.com/2025/06/05/deadline-nears-for-fishery-enhancement-grant-applications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deadline-nears-for-fishery-enhancement-grant-applications"/>
+        <updated>2025-06-05T10:07:17.000Z</updated>
+        <summary type="html"><![CDATA[June 5, 2025  2:50 a.m. The deadline is near to submit grant applications for funding from the Umpqua Fishery Enhancement Derby. A release said thanks to the generous support of sponsors, all proceeds from this year’s Derby will remain in Douglas County, directly benefiting river restoration and fish enhancement projects throughout the Umpqua River Basin....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Douglas County Sheriff's Office Tactical Response, Crisis Negotiation Teams Called to Disturbance]]></title>
         <id>6840f547cbfd6b0001f9c5af</id>
@@ -775,94 +835,6 @@ The post Book Review: Fans First: Change the Game, Break the Rules & Create an U
         <updated>2025-06-02T04:44:24.000Z</updated>
         <summary type="html"><![CDATA[By John M. Love, Joanie Keller-Hand, Lynn Ransford, Lisa Verner, and Paula Hyatt1 When Melinda Carver (not her real name) finally found a job with a Jackson County business after months of looking, she faced a serious dilemma: who would care for her 2-year-old daughter and 4-year-old son. As a single parent, Melinda had little…
 The post Business and Childcare: A Crucial Symbiosis appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOU faculty members take lead role in open textbook project]]></title>
-        <id>https://southernoregonbusiness.com/?p=8824</id>
-        <link href="https://southernoregonbusiness.com/sou-faculty-members-take-lead-role-in-open-textbook-project/"/>
-        <updated>2025-06-01T18:01:11.000Z</updated>
-        <summary type="html"><![CDATA[(Ashland, Ore.) — Open Oregon Educational Resources, a statewide initiative that promotes textbook affordability for students at Oregon colleges and universities, is releasing four new open textbooks whose authors include four Southern Oregon University faculty members and a student in the Criminology and Criminal Justice program. “Our goal with these projects is to provide rigorous…
-The post SOU faculty members take lead role in open textbook project appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agriculture Industry in Southern Oregon: A Risk Management Perspective]]></title>
-        <id>https://southernoregonbusiness.com/?p=8822</id>
-        <link href="https://southernoregonbusiness.com/the-agriculture-industry-in-southern-oregon-a-risk-management-perspective/"/>
-        <updated>2025-06-01T17:57:25.000Z</updated>
-        <summary type="html"><![CDATA[By Paul Quandt Southern Oregon’s agriculture sector, renowned for its diverse crops such as wine grapes, pears and specialty produce, is facing a complex landscape during 2025. Farmers and agribusinesses must navigate a confluence of challenges, including climate variability, shifting trade policies, labor constraints and escalating insurance costs. Adopting a proactive risk management approach is…
-The post The Agriculture Industry in Southern Oregon: A Risk Management Perspective appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rogue Valley Technology Consulting Launches to Empower Southern Oregon Entrepreneurs with Smart Tech Solutions]]></title>
-        <id>https://southernoregonbusiness.com/?p=8820</id>
-        <link href="https://southernoregonbusiness.com/rogue-valley-technology-consulting-launches-to-empower-southern-oregon-entrepreneurs-with-smart-tech-solutions/"/>
-        <updated>2025-06-01T17:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Veteran-Owned Firm Highlights Mustard Seed Girl, a Local Brand that is Building Smart Digital Foundations Grants Pass, OR – May 28, 2025– Rogue Valley Technology Consulting (RVTC) is proud to announce its launch, offering customized technology consulting and digital systems support for businesses in Southern Oregon. Focused on clarity, capability, and community, RVTC exists to…
-The post Rogue Valley Technology Consulting Launches to Empower Southern Oregon Entrepreneurs with Smart Tech Solutions appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bend MSA Adds Two Counties]]></title>
-        <id>https://southernoregonbusiness.com/?p=8817</id>
-        <link href="https://southernoregonbusiness.com/bend-msa-adds-two-counties/"/>
-        <updated>2025-06-01T17:45:47.000Z</updated>
-        <summary type="html"><![CDATA[by David Cooke and Nicole Ramos, State of Oregon Employment Department March 11, 2025 The Bend Metropolitan Statistical Area (MSA) is now three counties: Crook County, Deschutes County, and Jefferson County. Previously the Bend-Redmond MSA included only one county: Deschutes County. Also, the old name for the MSA was “Bend-Redmond, OR MSA”. The title was shortened based on…
-The post Bend MSA Adds Two Counties appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon’s Green Jobs]]></title>
-        <id>https://southernoregonbusiness.com/?p=8813</id>
-        <link href="https://southernoregonbusiness.com/oregons-green-jobs/"/>
-        <updated>2025-06-01T17:38:40.000Z</updated>
-        <summary type="html"><![CDATA[by Luke Coury, Employment Economist, State of Oregon Employment Department May 15, 2025 Oregon has been making a concerted effort to address climate change and promote a healthy environment by developing its green economy. As a result, green jobs have been increasingly in demand in Oregon and many green occupations are projected to grow strongly over…
-The post Oregon’s Green Jobs appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regionality in Oregon’s Green Labor Market]]></title>
-        <id>https://southernoregonbusiness.com/?p=8811</id>
-        <link href="https://southernoregonbusiness.com/regionality-in-oregons-green-labor-market/"/>
-        <updated>2025-06-01T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[by Luke Coury, Employment Economist, Oregon Employment Department May 15, 2025 Oregon has been making a strong push to develop its green economy, contributing to demand for green jobs throughout the state. To explore demand for green jobs in Oregon, this article will use Lightcast and WorkingNation’s definition of core green jobs, or jobs directly tied to the green…
-The post Regionality in Oregon’s Green Labor Market appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon’s Part-Time Workers: More than One-Fifth of Employment in 2024]]></title>
-        <id>https://southernoregonbusiness.com/?p=8809</id>
-        <link href="https://southernoregonbusiness.com/oregons-part-time-workers-more-than-one-fifth-of-employment-in-2024/"/>
-        <updated>2025-06-01T17:35:27.000Z</updated>
-        <summary type="html"><![CDATA[by Henry Fields, Workforce Analyst, Oregon Employment Department May 20, 2025 Although most people work in full-time jobs, around 23% of employed Oregonians regularly worked part-time schedules in 2024. People work part time for a variety of reasons. Part-time jobs offer flexibility for some who seek a job that fits their circumstances, such as students, those…
-The post Oregon’s Part-Time Workers: More than One-Fifth of Employment in 2024 appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regionally Significant Industrial Sites Program Now Accepting Applications]]></title>
-        <id>https://southernoregonbusiness.com/?p=8807</id>
-        <link href="https://southernoregonbusiness.com/regionally-significant-industrial-sites-program-now-accepting-applications/"/>
-        <updated>2025-06-01T17:33:22.000Z</updated>
-        <summary type="html"><![CDATA[The RSIS program offers reimbursement of project costs to help public sector sponsors fund site readiness investments on regionally significant industrial sites.   Business Oregon is pleased to announce that the Regionally Significant Industrial Site (RSIS) program is now open for applications. The RSIS program is a performance-based economic development program that reimburses RSIS project sponsors…
-The post Regionally Significant Industrial Sites Program Now Accepting Applications appeared first on Southern Oregon Business Journal.]]></summary>
         <author>
             <name>Jim Teece</name>
         </author>
