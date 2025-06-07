@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-06T23:12:55.223Z</updated>
+    <updated>2025-06-07T03:09:28.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[Live from Washington D.C., Congressman Cliff Bentz talks about the Big Beautiful Bill, cuts to federal spending, fire season and a number of other topics.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore the versatility and adaptability of peas]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b3a6d8eb-8e32-4eb6-940b-eb450ce1756f</id>
+        <link href="https://www.nrtoday.com/family/explore-the-versatility-and-adaptability-of-peas/article_b3a6d8eb-8e32-4eb6-940b-eb450ce1756f.html"/>
+        <updated>2025-06-06T19:06:00.000Z</updated>
+        <summary type="html"><![CDATA[What once began as a wild plant, the humble pea has developed into an important agricultural crop with a long history of cultivation and consumption.]]></summary>
+        <author>
+            <name>Kathy Bates​ For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +107,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask a Master Gardener: Poison oak problem]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/277f9134-0c0b-46d2-98ae-1b0292c90733</id>
+        <link href="https://www.nrtoday.com/life/ask-a-master-gardener-poison-oak-problem/article_277f9134-0c0b-46d2-98ae-1b0292c90733.html"/>
+        <updated>2025-06-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Question: I have a poison oak problem in my yard. It’s popping up among my ornamentals and actually climbing up my fir tree! I’ve had run ins with this plant before and suffered terribly with itchy blisters, so I’m fearful…]]></summary>
+        <author>
+            <name>Bonnie Courter Master Gardner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 6.06.25]]></title>
         <id>https://kqennewsradio.com/?p=134023</id>
         <link href="https://kqennewsradio.com/2025/06/06/local-real-estate-today-6-06-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-6-06-25"/>
@@ -114,6 +134,46 @@
         <summary type="html"><![CDATA[Umpqua Actors Community Theatre Director Nolan Mitchell talks about their new production, “Noises Off”, which opened last night.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fishing frenzy: Locals of all ages connect over fishing lessons]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f0f1143a-f402-4663-b1cf-3ae289558fae</id>
+        <link href="https://www.nrtoday.com/news/a-fishing-frenzy-locals-of-all-ages-connect-over-fishing-lessons/article_f0f1143a-f402-4663-b1cf-3ae289558fae.html"/>
+        <updated>2025-06-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[According to the Umpqua Fishery Enhancement Derby (UFED), nearly 75% of youth living in the Umpqua Basin have never gone fishing or even been in a boat. To change that, local veterans and volunteers came together to give kids these…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combating Douglas County's 'child care desert']]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/867550cd-4900-4767-ab3f-1e5bca27dbc0</id>
+        <link href="https://www.nrtoday.com/news/combating-douglas-countys-child-care-desert/article_867550cd-4900-4767-ab3f-1e5bca27dbc0.html"/>
+        <updated>2025-06-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On May 28, Roseburg Professional Childcare closed its doors, leaving families in need of a place to take their children. The closure only furthered a truth that is becoming more apparent as time goes on: Douglas County is a child…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local automation company 7robotics wins national award for pallet-building robot]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ab2b6edd-42fa-42c1-9dfb-b6ec615fd607</id>
+        <link href="https://www.nrtoday.com/news/local-automation-company-7robotics-wins-national-award-for-pallet-building-robot/article_ab2b6edd-42fa-42c1-9dfb-b6ec615fd607.html"/>
+        <updated>2025-06-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7robotics, a company that builds robotic automation solutions, was awarded the Most Innovative Solution Award on May 15 at the 2024 ABB Robotics Value Provider Awards in Auburn Hills, Michigan.]]></summary>
+        <author>
+            <name>Maggie Dapp The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County youth triumph at 2025 Oregon 4-H Spring Classic]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fa606ace-7a5f-48dc-adab-3b0cc822f429</id>
+        <link href="https://www.nrtoday.com/news/education/douglas-county-youth-triumph-at-2025-oregon-4-h-spring-classic/article_fa606ace-7a5f-48dc-adab-3b0cc822f429.html"/>
+        <updated>2025-06-06T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[REDMOND — Excitement, competition and celebration filled the air at the 2025 Oregon 4-H Spring Classic, held April 25-27 at the Deschutes County Fair & Expo in Redmond, Oregon.]]></summary>
+        <author>
+            <name>Michaela Malone For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -698,6 +758,16 @@ The post Adopt a ‘Three Bear Strategy’ appeared first on Southern Oregon Bus
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Douglas County recreation report June 2025]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/83677a57-375a-458e-88d6-79a9f3b395f8</id>
+        <link href="https://www.nrtoday.com/news/local/douglas-county-recreation-report-june-2025/article_83677a57-375a-458e-88d6-79a9f3b395f8.html"/>
+        <updated>2025-06-03T21:58:00.000Z</updated>
+        <summary type="html"><![CDATA[FISHING REPORT]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.3.25]]></title>
         <id>https://kqennewsradio.com/?p=133862</id>
         <link href="https://kqennewsradio.com/2025/06/03/inside-douglas-county-6-3-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-3-25"/>
@@ -815,116 +885,6 @@ The post Adopt a ‘Three Bear Strategy’ appeared first on Southern Oregon Bus
         <summary type="html"><![CDATA[Julie Denney of the Oregon Department of Transportation talks about Tuesday’s In-Person Community Open House at the Roseburg Public Library to take input on the Exit 124/125 Interchange Management Plan and Garden Valley Corridor Plan.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UACT brings laughs and chaos to the stage]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/499a2551-3ba2-45c4-90b6-d07dd66a7b8c</id>
-        <link href="https://www.nrtoday.com/a_and_e/uact-brings-laughs-and-chaos-to-the-stage/article_499a2551-3ba2-45c4-90b6-d07dd66a7b8c.html"/>
-        <updated>2025-06-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Usually, the cast and crew of a stage play try as much as possible to hide the behind-the-scenes work that happens during a performance. In the Umpqua Actors Community Theatre’s new production, everyone is going for the exact opposite effect.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of construction: A look at ongoing major projects in Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e85fc194-f400-4477-bdd2-605f3b115ddd</id>
-        <link href="https://www.nrtoday.com/news/summer-of-construction-a-look-at-ongoing-major-projects-in-douglas-county/article_e85fc194-f400-4477-bdd2-605f3b115ddd.html"/>
-        <updated>2025-06-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The return of warm weather to Douglas County brings lots of opportunities; a chance to get outdoors, visit annual festivals and to move forward with major construction projects.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riddle Activity Center secures building permit]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/04c52030-7333-4a50-8748-f67731f7b864</id>
-        <link href="https://www.nrtoday.com/news/riddle-activity-center-secures-building-permit/article_04c52030-7333-4a50-8748-f67731f7b864.html"/>
-        <updated>2025-06-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RIDDLE — Johnny Mcelroy envisions the Riddle Activity Center as a “mental health hub” for the city. For the founder of Neighborhood Behavioral Health, one organization moving into the center following its launch, the space can’t get here fast enough.]]></summary>
-        <author>
-            <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A wool-derful weekend awaits sheep handlers of Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ec03305b-b469-4d15-9558-e17b4a405dd6</id>
-        <link href="https://www.nrtoday.com/news/education/a-wool-derful-weekend-awaits-sheep-handlers-of-douglas-county/article_ec03305b-b469-4d15-9558-e17b4a405dd6.html"/>
-        <updated>2025-06-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The 2025 Mike McWilliams Memorial Shearing Contest will feature one additional caveat: the winner will walk away with a berth on the next U.S. National Team.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DELEGATION: OVER $80 MILLION TO SUPPORT ODOT’S DISASTER RECOVERY EFFORTS]]></title>
-        <id>https://kqennewsradio.com/?p=133836</id>
-        <link href="https://kqennewsradio.com/2025/06/03/delegation-over-80-million-to-support-odots-disaster-recovery-efforts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=delegation-over-80-million-to-support-odots-disaster-recovery-efforts"/>
-        <updated>2025-06-03T13:56:06.000Z</updated>
-        <summary type="html"><![CDATA[June 3, 2025 7:00 a.m. On Monday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden, along the state’s five Democratic House members announced that the Oregon Department of Transportation is receiving over $83 million for work it completed to repair roads and other critical infrastructure that were deeply damaged during natural disasters. A joint release...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash Claims Life of 19-Year-Old Motorcyclist in Roseburg]]></title>
-        <id>683efdf7cbfd6b0001f9c41e</id>
-        <link href="https://www.roseburgscanner.com/crash-claims-life-of-19-year-old-motorcyclist-in-roseburg/"/>
-        <updated>2025-06-03T13:54:21.000Z</updated>
-        <summary type="html"><![CDATA[A crash on NW Stewart Parkway Saturday night claimed the life of 19-year-old motorcyclist Zevin Alvarez. Roseburg Police say the driver of a car admitted to running a red light. The investigation remains ongoing.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attic Fire Displaces Family in Green on Monday Afternoon]]></title>
-        <id>683efd79cbfd6b0001f9c404</id>
-        <link href="https://www.roseburgscanner.com/attic-fire-displaces-family-in-green-on-monday-afternoon/"/>
-        <updated>2025-06-03T13:50:28.000Z</updated>
-        <summary type="html"><![CDATA[A fire in the attic of a Green home Monday displaced several adults, children, and pets. Crews from CDF&R and partner agencies contained the fire in 20 minutes. The likely cause was a discarded cigarette. The American Red Cross is assisting the displaced family.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 3, 2025]]></title>
-        <id>683ef865cbfd6b0001f9c2e9</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/june-3-2025/"/>
-        <updated>2025-06-03T13:47:03.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloomapalooza just keeps growing]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0b79d409-bfe2-40d1-bd13-1cbeac9503c6</id>
-        <link href="https://www.nrtoday.com/news/bloomapalooza-just-keeps-growing/article_0b79d409-bfe2-40d1-bd13-1cbeac9503c6.html"/>
-        <updated>2025-06-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — Blooms and booming small businesses were on display under the sunshine at this year’s Bloomapalooza Iris Festival.]]></summary>
-        <author>
-            <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Take this moment to embrace the chances you're being given’ — Yoncalla High School class of 2025 graduates]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/aa7d32f0-20eb-454d-b10b-5c63040f1a09</id>
-        <link href="https://www.nrtoday.com/news/take-this-moment-to-embrace-the-chances-youre-being-given-yoncalla-high-school-class-of/article_aa7d32f0-20eb-454d-b10b-5c63040f1a09.html"/>
-        <updated>2025-06-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 Yoncalla High School graduates were draped in blue and white for their graduation ceremony May 30 in the school’s gymnasium.]]></summary>
-        <author>
-            <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Observatory cancels summer public programs]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/46a83b81-a4d4-4c69-a5a7-285863b9a827</id>
-        <link href="https://www.nrtoday.com/briefs/observatory-cancels-summer-public-programs/article_46a83b81-a4d4-4c69-a5a7-285863b9a827.html"/>
-        <updated>2025-06-02T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — Umpqua Community College's Paul Morgan Observatory cancelled summer public program events due to construction at the college's track. The Moon Watch event on June 7 and the public night on June 20 are both cancelled.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
