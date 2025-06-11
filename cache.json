@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134207",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Republican Party Chair Trent Drake talks about their upcoming Luau fundraising event. Tickets are still available.",
+          "link": "https://kqennewsradio.com/2025/06/11/morning-conversation-6-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-11-26",
+          "publishedOn": "2025-06-11T16:12:49.000Z",
+          "wordCount": 1565,
+          "title": "MORNING CONVERSATION 6.11.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250611150757/AM-CONV-06-11-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250611151114/TRENT.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134200",
           "author": "Kyle Bailey",
           "description": "June 11, 2025 4:10 a.m. Roseburg’s high temperature dropped by ten degrees on Tuesday and missed setting a record high temperature for the date. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 91 degrees at the Roseburg Regional Airport. That was down from...",
@@ -581,6 +596,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6849851acbfd6b0001f9cbef",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-11-2025/",
+          "publishedOn": "2025-06-11T13:45:14.000Z",
+          "wordCount": 3201,
+          "title": "June 11, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-7.png"
+        },
         {
           "id": "68483679cbfd6b0001f9ca5a",
           "author": "Joseph Ziegler",

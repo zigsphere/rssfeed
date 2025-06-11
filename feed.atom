@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-11T13:28:35.024Z</updated>
+    <updated>2025-06-11T16:17:52.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 6.11.26]]></title>
+        <id>https://kqennewsradio.com/?p=134207</id>
+        <link href="https://kqennewsradio.com/2025/06/11/morning-conversation-6-11-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-6-11-26"/>
+        <updated>2025-06-11T16:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Republican Party Chair Trent Drake talks about their upcoming Luau fundraising event. Tickets are still available.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 11, 2025]]></title>
+        <id>6849851acbfd6b0001f9cbef</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/june-11-2025/"/>
+        <updated>2025-06-11T13:45:14.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG’S HIGH DROPS TEN DEGREES, MISSES SETTING RECORD]]></title>
         <id>https://kqennewsradio.com/?p=134200</id>
