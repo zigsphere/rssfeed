@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-13T13:26:53.498Z</updated>
+    <updated>2025-06-13T16:16:53.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[June 13, 2025]]></title>
+        <id>684c2a1ecbfd6b0001f9cf8a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/june-13-2025/"/>
+        <updated>2025-06-13T14:03:10.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMMISSIONERS ISSUE PROCLAMATION HONORING WOMEN VETERANS DAY]]></title>
         <id>https://kqennewsradio.com/?p=134299</id>
