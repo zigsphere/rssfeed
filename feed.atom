@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-12T23:13:11.875Z</updated>
+    <updated>2025-06-13T03:13:31.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -774,26 +774,6 @@
         <summary type="html"><![CDATA[MELROSE — Standout Sutherlin citizens, organizations and businesses were honored with First Citizen Awards at the First Citizens Banquet on June 7 from 5 to 9 p.m. at Melrose Vineyards, hosted by the Sutherlin Area Chamber of Commerce. The awards…]]></summary>
         <author>
             <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Becomes Hottest Day of 2025 So Far in Roseburg, Record Broken]]></title>
-        <id>6846eb4bcbfd6b0001f9ca3d</id>
-        <link href="https://www.roseburgscanner.com/sunday-becomes-hottest-day-of-2025-so-far-in-roseburg-record-broken-2/"/>
-        <updated>2025-06-09T14:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Sunday hit 100°F in Roseburg, making it the hottest day of 2025 so far and breaking the June 8th record of 99°F set in 2015. Monday could bring another record, with a forecasted high of 98°F, surpassing the previous June 9th record of 94°F.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 9, 2025]]></title>
-        <id>68466c9ecbfd6b0001f9c8b7</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/june-9-2025/"/>
-        <updated>2025-06-09T13:49:39.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
