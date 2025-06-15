@@ -489,16 +489,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250611151114/TRENT.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=134200",
-          "author": "Kyle Bailey",
-          "description": "June 11, 2025 4:10 a.m. Roseburg’s high temperature dropped by ten degrees on Tuesday and missed setting a record high temperature for the date. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 91 degrees at the Roseburg Regional Airport. That was down from...",
-          "link": "https://kqennewsradio.com/2025/06/11/roseburgs-high-drops-ten-degrees-misses-setting-record/?utm_source=rss&utm_medium=rss&utm_campaign=roseburgs-high-drops-ten-degrees-misses-setting-record",
-          "publishedOn": "2025-06-11T11:15:47.000Z",
-          "wordCount": 1641,
-          "title": "ROSEBURG’S HIGH DROPS TEN DEGREES, MISSES SETTING RECORD",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -513,6 +503,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6a70627-18dc-4f92-adfe-fb3503eed9f5",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The ninth annual Veteran Suicide Awareness Ride will be held in Roseburg on Saturday.",
+          "link": "https://www.nrtoday.com/briefs/veteran-suicide-awareness-ride-scheduled-for-july-19/article_f6a70627-18dc-4f92-adfe-fb3503eed9f5.html",
+          "publishedOn": "2025-06-14T08:30:00.000Z",
+          "wordCount": 11989,
+          "title": "Veteran Suicide Awareness Ride scheduled for July 19",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/59a9c427-8c10-4c11-abec-a3543dbcc1e3",
           "author": "Kyle Bailey For The News-Review",
@@ -647,46 +647,6 @@
           "wordCount": 12188,
           "title": "Josiah Long receives Yasmin Treki Memorial Scholarship",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3eb551be-5c11-4de5-83a6-7c4dd11de029",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "REEDSPORT — Reedsport received a grant for just under $1.5 million from the Oregon Watershed Enhancement Board to protect their local drinking water supply.",
-          "link": "https://www.nrtoday.com/news/environment/city-of-reedsport-receives-grant-to-help-purchase-water-supply-outright/article_3eb551be-5c11-4de5-83a6-7c4dd11de029.html",
-          "publishedOn": "2025-06-11T15:00:00.000Z",
-          "wordCount": 14358,
-          "title": "City of Reedsport receives grant to help purchase water supply outright",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2b78b992-799e-4ea1-899e-d4ad40e4a9b1",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "When Jeremy Goebel first took a job in sales at Con-Vey, he didn’t have any expectations for how far he’d go. Now, 12 years later, Goebel is taking over as the fourth president to help lead the company in its…",
-          "link": "https://www.nrtoday.com/business/jeremy-goebel-takes-over-as-new-president-of-con-vey/article_2b78b992-799e-4ea1-899e-d4ad40e4a9b1.html",
-          "publishedOn": "2025-06-11T15:00:00.000Z",
-          "wordCount": 12995,
-          "title": "Jeremy Goebel takes over as new president of Con-Vey",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/44/644edaa3-77d3-433e-acd6-196fa7871d14/68473f9b680c1.image.jpg?resize=300%2C375",
-            "length": "262445",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/44/644edaa3-77d3-433e-acd6-196fa7871d14/68473f9b680c1.image.jpg?resize=300%2C375"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4d6331d8-9842-4ca2-a3b8-2cdfe39dcffb",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "ELKTON — When the Elkton Food Market closed down is 2023 and its property was subsequently demolished, the community of Elkton found themselves lacking a place to easily access fresh food, having to drive over 40 minutes to access larger…",
-          "link": "https://www.nrtoday.com/business/elkton-lodge-hall-and-general-store-brings-fresh-groceries-and-goods-to-north-douglas-county/article_4d6331d8-9842-4ca2-a3b8-2cdfe39dcffb.html",
-          "publishedOn": "2025-06-11T15:00:00.000Z",
-          "wordCount": 13176,
-          "title": "Elkton Lodge Hall and General Store brings fresh groceries and goods to North Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/97/e976bc6f-44c6-4dcf-b638-7c977e145d9c/684773ea35595.image.jpg?resize=300%2C200",
-            "length": "313985",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/97/e976bc6f-44c6-4dcf-b638-7c977e145d9c/684773ea35595.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -740,16 +700,6 @@
           "wordCount": 3878,
           "title": "June 12, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-8.png"
-        },
-        {
-          "id": "6849851acbfd6b0001f9cbef",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/june-11-2025/",
-          "publishedOn": "2025-06-11T13:45:14.000Z",
-          "wordCount": 3201,
-          "title": "June 11, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-7.png"
         }
       ]
     }
