@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-16T23:12:55.133Z</updated>
+    <updated>2025-06-17T03:14:04.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[June 16, 2025 3:30 p.m.  On Monday, Oregon’s U.S. Senator Jeff Merkley released a statement following reports that the GOP’s “One Big, Beautiful Bill” includes provisions that would allow the federal government to sell off millions of acres of federal lands, including thousands of acres in Oregon. Merkley said, “Our public lands – which contribute...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLM cancels prescribed burn schedule for this week]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d9d344bc-af2c-42fb-a557-d1cec43f9f62</id>
+        <link href="https://www.nrtoday.com/briefs/blm-cancels-prescribed-burn-schedule-for-this-week/article_d9d344bc-af2c-42fb-a557-d1cec43f9f62.html"/>
+        <updated>2025-06-16T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[GLIDE — The Bureau of Land Management, Roseburg District, has canceled its prescribed burn schedule for this week.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -464,46 +474,6 @@
         <summary type="html"><![CDATA[Saving Grace Humane Society Executive Director Jennifer Barta talks about a recent $50,000 grant the non-profit organization has received.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blues, rock and country come to Myrtle Creek with 2025 Music in the Park]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d2cb5005-de36-4299-959e-38bc45ddb2a6</id>
-        <link href="https://www.nrtoday.com/a_and_e/music/blues-rock-and-country-come-to-myrtle-creek-with-2025-music-in-the-park/article_d2cb5005-de36-4299-959e-38bc45ddb2a6.html"/>
-        <updated>2025-06-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MYRTLE CREEK — This summer, Douglas County’s longest running free concert series is making a return to Myrtle Creek with 2025’s Music in the Park. This year, the program plans to celebrate 38 years of performances with a lineup of…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 13, 2025]]></title>
-        <id>684c2a1ecbfd6b0001f9cf8a</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/june-13-2025/"/>
-        <updated>2025-06-13T14:03:10.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School is out for the summer]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/dd08c2e2-2308-4bb0-a336-ebe57957264e</id>
-        <link href="https://www.nrtoday.com/news/education/school-is-out-for-the-summer/article_dd08c2e2-2308-4bb0-a336-ebe57957264e.html"/>
-        <updated>2025-06-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summer weather means summer break and Roseburg schools officially ended school Wednesday for students.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pour out your generosity: UCAN hosts eighth Pouring Generosity fundraiser]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f13c0f27-8790-4e96-a101-9fd7c7d9a98f</id>
-        <link href="https://www.nrtoday.com/news/environment/pour-out-your-generosity-ucan-hosts-eighth-pouring-generosity-fundraiser/article_f13c0f27-8790-4e96-a101-9fd7c7d9a98f.html"/>
-        <updated>2025-06-13T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[United Community Action Network (UCAN) in Douglas County will begin Pouring Generosity in July and August to fundraise for the food bank services it offers.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
