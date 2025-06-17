@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-17T19:11:00.139Z</updated>
+    <updated>2025-06-17T23:13:08.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DTO no host breakfast scheduled for June 26]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/67b2d468-0431-4d17-aa7d-4f8151fd0ac5</id>
+        <link href="https://www.nrtoday.com/briefs/dto-no-host-breakfast-scheduled-for-june-26/article_67b2d468-0431-4d17-aa7d-4f8151fd0ac5.html"/>
+        <updated>2025-06-17T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Winchester — Douglas Timber Operators will hold its no host breakfast meeting at 8 a.m. June 26. Held at The Loft at Del Rey Cafe, 5669 NE Stephens St., Winchester, Con-Vey CEO Dave Larecy will present on wood production automation…]]></summary>
+        <author>
+            <name>ERICA REYNOLDS The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 6.17.25]]></title>
+        <id>https://kqennewsradio.com/?p=134460</id>
+        <link href="https://kqennewsradio.com/2025/06/17/inside-douglas-county-6-17-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-6-17-25"/>
+        <updated>2025-06-17T20:15:49.000Z</updated>
+        <summary type="html"><![CDATA[An encore program today with Oregon Community Foundation President and CEO Lisa Mensah.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ANNUAL HYDRANT TESTING ENDS SOON IN ROSEBURG]]></title>
         <id>https://kqennewsradio.com/?p=134457</id>
@@ -84,6 +104,46 @@
         <summary type="html"><![CDATA[June 17, 2025 9:00 a.m. In the KQEN Cultural Spotlight: Music on the Half Shell begins its 33rd season on Tuesday night at 7:00 p.m. The weekly summer concerts are presented at Nichol’s Band Shell in Roseburg’s Stewart Park. Half Shell begins with The Revelers performing Swamp, Pop, Cajun, Zydeco, Country and Blues, all while...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nationwide "No Kings" protest draws hundreds to the streets in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bc94e81b-fdb7-47ca-aeb8-c1e88c7a0597</id>
+        <link href="https://www.nrtoday.com/news/local/nationwide-no-kings-protest-draws-hundreds-to-the-streets-in-roseburg/article_bc94e81b-fdb7-47ca-aeb8-c1e88c7a0597.html"/>
+        <updated>2025-06-17T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A sea of signs and flags. Flashes of red, white and blue waving in the air. Cars honking. Joyful cheers followed by roaring expletives. Country music playing on portable speakers in the distance. Faces young and old peering out from…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Douglas County cities receive grants to improve downtowns]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/bd5b3cdf-f764-4961-8f27-448f48b35b34</id>
+        <link href="https://www.nrtoday.com/news/three-douglas-county-cities-receive-grants-to-improve-downtowns/article_bd5b3cdf-f764-4961-8f27-448f48b35b34.html"/>
+        <updated>2025-06-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When the Sutherlin Bi-Mart’s pharmacy closed in 2021, Sutherlin Drug became the only place to fill a prescription for miles.]]></summary>
+        <author>
+            <name>Maggie Dapp The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Umpqua Ranger Station adjusts operating schedule]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e652d6c2-7c22-455c-93d0-29d6cd6105f1</id>
+        <link href="https://www.nrtoday.com/briefs/north-umpqua-ranger-station-adjusts-operating-schedule/article_e652d6c2-7c22-455c-93d0-29d6cd6105f1.html"/>
+        <updated>2025-06-17T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — The Umpqua National Forest has announced some temporary adjustments this week to the schedule of the North Umpqua Ranger Station.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City announces wildland fire training on Reservoir Hill]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/85def8c9-dc60-478f-b103-ef46c9d0badb</id>
+        <link href="https://www.nrtoday.com/briefs/city-announces-wildland-fire-training-on-reservoir-hill/article_85def8c9-dc60-478f-b103-ef46c9d0badb.html"/>
+        <updated>2025-06-17T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Roseburg Fire Department, Central Douglas Fire & Rescue and Cow Creek Tribal Fire Management will be actively engaging in wildland fire training and exercises on Reservoir Hill in Roseburg on June 23, 25 and 27.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -489,6 +549,16 @@
     <entry>
         <title type="html"><![CDATA[For 2025's Flag Day, veteran's weigh in about the value of the stars and stripes.]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/fe29341e-7173-4a73-9830-0e2135ced688</id>
+        <link href="https://www.nrtoday.com/news/local/for-2025s-flag-day-veterans-weigh-in-about-the-value-of-the-stars-and-stripes/article_fe29341e-7173-4a73-9830-0e2135ced688.html"/>
+        <updated>2025-06-15T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Six white stripes, seven red stripes and 50 stars on a blue backdrop; To some, these symbols may just be shapes and colors, but to others they stand for so much more.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For 2025's Flag Day, veteran's weigh in about the value of the stars and stripes.]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/fe29341e-7173-4a73-9830-0e2135ced688</id>
         <link href="https://www.nrtoday.com/news/for-2025s-flag-day-veterans-weigh-in-about-the-value-of-the-stars-and-stripes/article_fe29341e-7173-4a73-9830-0e2135ced688.html"/>
         <updated>2025-06-15T00:05:00.000Z</updated>
         <summary type="html"><![CDATA[Six white stripes, seven red stripes and 50 stars on a blue backdrop; To some, these symbols may just be shapes and colors, but to others they stand for so much more.]]></summary>
@@ -524,16 +594,6 @@
         <summary type="html"><![CDATA[June 14, 2025 7:00 a.m. On Friday, the Fish and Wildlife Commission of the Oregon Department of Fish and Wildlife adopted a limited fall Chinook fishing and retention season on the mainstem Umpqua, Smith and North Fork Smith rivers. An ODFW release said this came after receiving many public comments and hearing from a Douglas...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veteran Suicide Awareness Ride scheduled for July 19]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f6a70627-18dc-4f92-adfe-fb3503eed9f5</id>
-        <link href="https://www.nrtoday.com/briefs/veteran-suicide-awareness-ride-scheduled-for-july-19/article_f6a70627-18dc-4f92-adfe-fb3503eed9f5.html"/>
-        <updated>2025-06-14T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The ninth annual Veteran Suicide Awareness Ride will be held in Roseburg on Saturday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>

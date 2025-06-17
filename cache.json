@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134460",
+          "author": "Kyle Bailey",
+          "description": "An encore program today with Oregon Community Foundation President and CEO Lisa Mensah.",
+          "link": "https://kqennewsradio.com/2025/06/17/inside-douglas-county-6-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-6-17-25",
+          "publishedOn": "2025-06-17T20:15:49.000Z",
+          "wordCount": 1559,
+          "title": "INSIDE DOUGLAS COUNTY 6.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250610194929/IDC-06-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250610195230/Lisa-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134457",
           "author": "Kyle Bailey",
           "description": "June 17, 2025 11:00 a.m.  The Roseburg Fire Department’s annual hydrant flushing will end soon. Through June 30th hydrant flushing is being conducted from 8:00 a.m. to 5:00 p.m. seven days a week. RFD realizes that hydrant flushing may cause some inconvenience, however it is necessary to ensure proper functioning and delivery of adequate water...",
@@ -414,6 +429,66 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/67b2d468-0431-4d17-aa7d-4f8151fd0ac5",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Winchester — Douglas Timber Operators will hold its no host breakfast meeting at 8 a.m. June 26. Held at The Loft at Del Rey Cafe, 5669 NE Stephens St., Winchester, Con-Vey CEO Dave Larecy will present on wood production automation…",
+          "link": "https://www.nrtoday.com/briefs/dto-no-host-breakfast-scheduled-for-june-26/article_67b2d468-0431-4d17-aa7d-4f8151fd0ac5.html",
+          "publishedOn": "2025-06-17T21:53:00.000Z",
+          "wordCount": 12004,
+          "title": "DTO no host breakfast scheduled for June 26",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bc94e81b-fdb7-47ca-aeb8-c1e88c7a0597",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "A sea of signs and flags. Flashes of red, white and blue waving in the air. Cars honking. Joyful cheers followed by roaring expletives. Country music playing on portable speakers in the distance. Faces young and old peering out from…",
+          "link": "https://www.nrtoday.com/news/local/nationwide-no-kings-protest-draws-hundreds-to-the-streets-in-roseburg/article_bc94e81b-fdb7-47ca-aeb8-c1e88c7a0597.html",
+          "publishedOn": "2025-06-17T15:45:00.000Z",
+          "wordCount": 14201,
+          "title": "Nationwide \"No Kings\" protest draws hundreds to the streets in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e0/1e061bc5-0c27-4b53-8fd3-c4cbc89d20c4/684e0e2387837.image.jpg?resize=300%2C200",
+            "length": "530046",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e0/1e061bc5-0c27-4b53-8fd3-c4cbc89d20c4/684e0e2387837.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bd5b3cdf-f764-4961-8f27-448f48b35b34",
+          "author": "Maggie Dapp The News-Review",
+          "description": "When the Sutherlin Bi-Mart’s pharmacy closed in 2021, Sutherlin Drug became the only place to fill a prescription for miles.",
+          "link": "https://www.nrtoday.com/news/three-douglas-county-cities-receive-grants-to-improve-downtowns/article_bd5b3cdf-f764-4961-8f27-448f48b35b34.html",
+          "publishedOn": "2025-06-17T15:00:00.000Z",
+          "wordCount": 12869,
+          "title": "Three Douglas County cities receive grants to improve downtowns",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/a6/ca6dd87a-dc16-11ee-b22c-33f43adfa1c8/65ea15c39f3c6.image.jpg?resize=300%2C200",
+            "length": "466545",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/a6/ca6dd87a-dc16-11ee-b22c-33f43adfa1c8/65ea15c39f3c6.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e652d6c2-7c22-455c-93d0-29d6cd6105f1",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — The Umpqua National Forest has announced some temporary adjustments this week to the schedule of the North Umpqua Ranger Station.",
+          "link": "https://www.nrtoday.com/briefs/north-umpqua-ranger-station-adjusts-operating-schedule/article_e652d6c2-7c22-455c-93d0-29d6cd6105f1.html",
+          "publishedOn": "2025-06-17T14:52:00.000Z",
+          "wordCount": 12021,
+          "title": "North Umpqua Ranger Station adjusts operating schedule",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/85def8c9-dc60-478f-b103-ef46c9d0badb",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg Fire Department, Central Douglas Fire & Rescue and Cow Creek Tribal Fire Management will be actively engaging in wildland fire training and exercises on Reservoir Hill in Roseburg on June 23, 25 and 27.",
+          "link": "https://www.nrtoday.com/briefs/city-announces-wildland-fire-training-on-reservoir-hill/article_85def8c9-dc60-478f-b103-ef46c9d0badb.html",
+          "publishedOn": "2025-06-17T14:49:00.000Z",
+          "wordCount": 12167,
+          "title": "City announces wildland fire training on Reservoir Hill",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/05aa27cb-f9b4-47ae-acbd-84ffdc14880e",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "ELKTON — Elkton Community Education Center will use the first full day after this year’s summer solstice to host Blooms and Butterflies.",
@@ -522,6 +597,21 @@
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fe29341e-7173-4a73-9830-0e2135ced688",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Six white stripes, seven red stripes and 50 stars on a blue backdrop; To some, these symbols may just be shapes and colors, but to others they stand for so much more.",
+          "link": "https://www.nrtoday.com/news/local/for-2025s-flag-day-veterans-weigh-in-about-the-value-of-the-stars-and-stripes/article_fe29341e-7173-4a73-9830-0e2135ced688.html",
+          "publishedOn": "2025-06-15T00:05:00.000Z",
+          "wordCount": 13839,
+          "title": "For 2025's Flag Day, veteran's weigh in about the value of the stars and stripes.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c4/7c4baedf-3a53-4168-b213-e4c435460614/684e0e93e4b9a.image.jpg?resize=300%2C200",
+            "length": "286409",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c4/7c4baedf-3a53-4168-b213-e4c435460614/684e0e93e4b9a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fe29341e-7173-4a73-9830-0e2135ced688",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Six white stripes, seven red stripes and 50 stars on a blue backdrop; To some, these symbols may just be shapes and colors, but to others they stand for so much more.",
           "link": "https://www.nrtoday.com/news/for-2025s-flag-day-veterans-weigh-in-about-the-value-of-the-stars-and-stripes/article_fe29341e-7173-4a73-9830-0e2135ced688.html",
           "publishedOn": "2025-06-15T00:05:00.000Z",
           "wordCount": 13838,
@@ -562,16 +652,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/dd/9dd05dcd-a222-4cd6-a308-dea8543ed91c/684e752235190.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6a70627-18dc-4f92-adfe-fb3503eed9f5",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — The ninth annual Veteran Suicide Awareness Ride will be held in Roseburg on Saturday.",
-          "link": "https://www.nrtoday.com/briefs/veteran-suicide-awareness-ride-scheduled-for-july-19/article_f6a70627-18dc-4f92-adfe-fb3503eed9f5.html",
-          "publishedOn": "2025-06-14T08:30:00.000Z",
-          "wordCount": 11989,
-          "title": "Veteran Suicide Awareness Ride scheduled for July 19",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
