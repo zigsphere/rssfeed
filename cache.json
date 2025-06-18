@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134462",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/06/17/true-wealth-6-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-17-25",
+          "publishedOn": "2025-06-18T00:08:47.000Z",
+          "wordCount": 1550,
+          "title": "TRUE WEALTH 6.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250617230403/TWR-06-17-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134460",
           "author": "Kyle Bailey",
           "description": "An encore program today with Oregon Community Foundation President and CEO Lisa Mensah.",
@@ -404,16 +419,6 @@
           "wordCount": 1585,
           "title": "OAKLAND WOMAN JAILED FOLLOWING DUII CRASH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=134345",
-          "author": "Kyle Bailey",
-          "description": "June 14, 2025 7:00 a.m. On Friday, the Fish and Wildlife Commission of the Oregon Department of Fish and Wildlife adopted a limited fall Chinook fishing and retention season on the mainstem Umpqua, Smith and North Fork Smith rivers. An ODFW release said this came after receiving many public comments and hearing from a Douglas...",
-          "link": "https://kqennewsradio.com/2025/06/14/fish-and-wildlife-commission-adopts-limited-umpqua-river-fall-chinook-season/?utm_source=rss&utm_medium=rss&utm_campaign=fish-and-wildlife-commission-adopts-limited-umpqua-river-fall-chinook-season",
-          "publishedOn": "2025-06-14T13:59:32.000Z",
-          "wordCount": 1862,
-          "title": "FISH AND WILDLIFE COMMISSION ADOPTS LIMITED UMPQUA RIVER FALL CHINOOK SEASON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
         }
       ]
     },
