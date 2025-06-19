@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134544",
+          "author": "Kyle Bailey",
+          "description": "Live from Portland, Oregon’s U.S. Senator Ron Wyden covers a number of current topics.",
+          "link": "https://kqennewsradio.com/2025/06/19/morning-conversation-6-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-20-25",
+          "publishedOn": "2025-06-19T16:11:39.000Z",
+          "wordCount": 1558,
+          "title": "MORNING CONVERSATION 6.20.25",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134537",
           "author": "Kyle Bailey",
           "description": "June 19, 2025 4:00 a.m. Firefighters working on the Upper Applegate Fire in Jackson County are holding it at an estimated 350 acres as of Wednesday evening, following an aggressive initial attack that spanned numerous hours. An update from the Oregon Department of Forestry Southwest Oregon District said the fire, located on private and Bureau...",
@@ -653,6 +663,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed1179cc-30b5-402e-820e-cee8772b3a92",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — CHI Mercy Health will hold an incident response exercise on Mercy’s main campus June 24.",
+          "link": "https://www.nrtoday.com/briefs/chi-mercy-health-to-host-emergency-response-exercise/article_ed1179cc-30b5-402e-820e-cee8772b3a92.html",
+          "publishedOn": "2025-06-19T16:05:00.000Z",
+          "wordCount": 11978,
+          "title": "CHI Mercy Health to host emergency response exercise",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b6ff35b6-836c-462e-ac9b-414352f9b415",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Every year, Music on the Half Shell (MOTHS) brings in a selection of artists from far and wide to provide Roseburg with nights of live music. However, MOTHS Vice President Lani Kimoto said the heart of the program doesn't come…",
+          "link": "https://www.nrtoday.com/a_and_e/music-on-the-half-shell-kicks-off-by-bringing-the-bayou-to-the-umpqua-with/article_b6ff35b6-836c-462e-ac9b-414352f9b415.html",
+          "publishedOn": "2025-06-19T15:00:00.000Z",
+          "wordCount": 14479,
+          "title": "Music on the Half Shell kicks off by bringing the bayou to the Umpqua with The Revelers",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e8/1e870d7c-8bf1-46c3-b646-e600c4f57fc4/685255f9cc22d.image.jpg?resize=300%2C200",
+            "length": "271524",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e8/1e870d7c-8bf1-46c3-b646-e600c4f57fc4/685255f9cc22d.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3eab260d-653f-4a9f-b64f-46f0202d7d47",
           "author": "ERICA REYNOLDS The News-Review",
