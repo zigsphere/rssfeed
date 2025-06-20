@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-19T23:13:14.758Z</updated>
+    <updated>2025-06-20T03:12:42.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -904,16 +904,6 @@
         <summary type="html"><![CDATA[DOUGLAS COUNTY — Oregon Department of Emergency Management (OEM) has announced the delivery of advanced water rescue equipment to two Oregon communities as part of the State Preparedness and Incident Response Equipment grant program.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 16, 2025]]></title>
-        <id>684f9e96cbfd6b0001f9d149</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/june-16-2025/"/>
-        <updated>2025-06-16T13:47:13.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
