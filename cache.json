@@ -314,6 +314,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d2f7571f-2aba-4474-a857-aa5769f53318",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Oregon’s unemployment rate was 4.8% in May and 4.7%in April, after rising gradually from 4.1% in May 2024.",
+          "link": "https://www.nrtoday.com/business/oregon-s-unemployment-rate-was-4-8-in-may/article_d2f7571f-2aba-4474-a857-aa5769f53318.html",
+          "publishedOn": "2025-06-23T15:56:00.000Z",
+          "wordCount": 12237,
+          "title": "Oregon’s unemployment rate was 4.8% in May",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f2f4b0bc-e1da-40da-85fb-37493f1fbb20",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On June 14, hundreds of protesters took to Northwest Garden Valley Boulevard in Roseburg to take part in the nationwide “No Kings” protest against the Trump administration. While the protest was almost entirely peaceful, with a few quickly resolved disputes…",
+          "link": "https://www.nrtoday.com/news/roseburg-police-department-take-down-no-kings-flyers-sparking-criticism-from-public/article_f2f4b0bc-e1da-40da-85fb-37493f1fbb20.html",
+          "publishedOn": "2025-06-23T15:00:00.000Z",
+          "wordCount": 13147,
+          "title": "Roseburg Police Department take down \"No Kings\" flyers, sparking criticism from public",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/70/7704b32c-e164-465d-a949-236c2b2d3c87/6854ae12a2a13.image.jpg?resize=300%2C225",
+            "length": "510117",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/70/7704b32c-e164-465d-a949-236c2b2d3c87/6854ae12a2a13.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/77e99156-d82c-407f-afa4-6df5dfa6967c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROUND PRAIRIE — Crews from the Douglas Forest Protective Association and other local and state agencies responded to a natural cover fire just off Interstate 5 at the northbound 113 exit around 4:30 p.m. Friday.",
+          "link": "https://www.nrtoday.com/news/environment/multiple-agencies-respond-to-i-5-fire-near-milepost-113/article_77e99156-d82c-407f-afa4-6df5dfa6967c.html",
+          "publishedOn": "2025-06-23T14:08:00.000Z",
+          "wordCount": 13164,
+          "title": "Multiple agencies respond to I-5 fire near milepost 113",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8c/b8c01b4a-05aa-4549-be89-021472774c71/6859623a2b116.image.jpg?resize=300%2C400",
+            "length": "413892",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8c/b8c01b4a-05aa-4549-be89-021472774c71/6859623a2b116.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/82678f73-5f81-4268-9a9e-c2f30908f362",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "RIDDLE — Ready to start off the summer? The Riddle Sawdust Jubilee plans to officially kick off the summer in south Douglas County this weekend.",
+          "link": "https://www.nrtoday.com/family/passing-on-the-torch-riddle-sawdust-jubilee-is-on-saturday/article_82678f73-5f81-4268-9a9e-c2f30908f362.html",
+          "publishedOn": "2025-06-23T13:00:00.000Z",
+          "wordCount": 12929,
+          "title": "Passing on the torch: Riddle Sawdust Jubilee is on Saturday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d4/6d4dfbf3-982b-4d00-8dc2-f3f0fbbb78b9/6680959a22c6d.image.jpg?resize=300%2C200",
+            "length": "482615",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d4/6d4dfbf3-982b-4d00-8dc2-f3f0fbbb78b9/6680959a22c6d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/946d8937-186c-450a-8b96-1d23dd48a691",
           "author": "Maggie Dapp The News-Review",
           "description": "As a kid, Nick Cianci, call sign K7CNC, often watched a family friend operate his amateur or “ham” radio.",
@@ -357,31 +412,6 @@
           "wordCount": 12087,
           "title": "Dowdy's bail remains the same in UCC bus crash",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e4911d42-4c65-4b06-a54f-fa05added58f",
-          "author": "ERICA REYNOLDS The News-Review",
-          "description": "CHI Mercy Health has announced that Howard S. Wright Construction of Portland will be the general contractor for expansions planned at the hospital.",
-          "link": "https://www.nrtoday.com/news/health/mercy-moves-forward-with-expansion-plan/article_e4911d42-4c65-4b06-a54f-fa05added58f.html",
-          "publishedOn": "2025-06-19T17:43:00.000Z",
-          "wordCount": 12353,
-          "title": "Mercy moves forward with expansion plan",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/05/5051b3e0-02d7-411c-90bc-4c18a42e789e/6854529c4097a.image.png?resize=300%2C232",
-            "length": "202114",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/05/5051b3e0-02d7-411c-90bc-4c18a42e789e/6854529c4097a.image.png?resize=300%2C232"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed1179cc-30b5-402e-820e-cee8772b3a92",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — CHI Mercy Health will hold an incident response exercise on Mercy’s main campus June 24.",
-          "link": "https://www.nrtoday.com/briefs/chi-mercy-health-to-host-emergency-response-exercise/article_ed1179cc-30b5-402e-820e-cee8772b3a92.html",
-          "publishedOn": "2025-06-19T16:05:00.000Z",
-          "wordCount": 11978,
-          "title": "CHI Mercy Health to host emergency response exercise",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -396,6 +426,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6858def1cbfd6b0001f9d7a9",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-23-2025/",
+          "publishedOn": "2025-06-23T13:47:14.000Z",
+          "wordCount": 3960,
+          "title": "June 23, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-14.png"
+        },
         {
           "id": "68556643cbfd6b0001f9d5f8",
           "author": "Joseph Ziegler",
