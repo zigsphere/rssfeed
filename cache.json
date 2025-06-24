@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134711",
+          "author": "Kyle Bailey",
+          "description": "Live from Stewart Park, Kelly Leonard and Clint Newell talk about the Special EFX All-Stars playing at Music on the Half Shell Tuesday night.",
+          "link": "https://kqennewsradio.com/2025/06/24/morning-conversation-6-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-24-25",
+          "publishedOn": "2025-06-24T16:14:19.000Z",
+          "wordCount": 1563,
+          "title": "MORNING CONVERSATION 6.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250624151059/AM-CONV-06-24-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250623190617/SpecialEFX.jpg.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134709",
           "author": "Kyle Bailey",
           "description": "June 24, 2025 5:50 a.m. In the KQEN Cultural Spotlight: It’s an evening of contemporary jazz at Music on the Half Shell, Tuesday night at 7:00 p.m. at the Nichols Band Shell in Roseburg’s Stewart Park. Special EFX is a Grammy nominated supergroup with 34 combined albums, 7 Billboard #1 hits and decades of domestic...",
@@ -431,6 +446,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "685aa920cbfd6b0001f9d95d",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-24-2025/",
+          "publishedOn": "2025-06-24T13:56:40.000Z",
+          "wordCount": 3873,
+          "title": "June 24, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-15.png"
+        },
         {
           "id": "6858def1cbfd6b0001f9d7a9",
           "author": "Joseph Ziegler",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-06-24T13:29:42.304Z</updated>
+    <updated>2025-06-24T16:17:32.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 6.24.25]]></title>
+        <id>https://kqennewsradio.com/?p=134711</id>
+        <link href="https://kqennewsradio.com/2025/06/24/morning-conversation-6-24-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-6-24-25"/>
+        <updated>2025-06-24T16:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Live from Stewart Park, Kelly Leonard and Clint Newell talk about the Special EFX All-Stars playing at Music on the Half Shell Tuesday night.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 24, 2025]]></title>
+        <id>685aa920cbfd6b0001f9d95d</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/june-24-2025/"/>
+        <updated>2025-06-24T13:56:40.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HALF SHELL FEATURES CONTEMPORARY JAZZ TUESDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=134709</id>
