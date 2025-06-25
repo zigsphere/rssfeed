@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134736",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/06/24/true-wealth-6-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-6-24-25",
+          "publishedOn": "2025-06-25T00:04:59.000Z",
+          "wordCount": 1550,
+          "title": "TRUE WEALTH 6.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250624230407/TWR-06-24-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134732",
           "author": "Kyle Bailey",
           "description": "Umpqua Valley Arts Executive Director Monica Stanfield and Exhibitions Coordinator Ashley Cluver provide a preview of the Summer Arts Festival, which is happening Friday through Sunday.",
@@ -374,36 +389,6 @@
           "wordCount": 1628,
           "title": "WYDEN RELEASES STATEMENT ON U.S. STRIKES ON IRAN",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=134634",
-          "author": "Kyle Bailey",
-          "description": "June 21, 2025 8:00 a.m. A Canyonville man was hospitalized following a single-vehicle wreck on Friday night. A Douglas County Sheriff’s Office report said at 8:50 p.m. a 25-year-old was driving his SUV north in the 9000 block of North Myrtle Road in the Myrtle Creek area. The driver lost control while failing to negotiate...",
-          "link": "https://kqennewsradio.com/2025/06/21/canyonville-man-hospitalized-following-single-vehicle-wreck/?utm_source=rss&utm_medium=rss&utm_campaign=canyonville-man-hospitalized-following-single-vehicle-wreck",
-          "publishedOn": "2025-06-21T15:08:22.000Z",
-          "wordCount": 1586,
-          "title": "CANYONVILLE MAN HOSPITALIZED FOLLOWING SINGLE-VEHICLE WRECK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=134632",
-          "author": "Kyle Bailey",
-          "description": "June 21, 2025 7:50 a.m.  Roseburg received its first measurable rain in a month on Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that .08 inches of precipitation was recorded at the Roseburg Regional Airport. The last rain came on May 20th when .02 of precipitation...",
-          "link": "https://kqennewsradio.com/2025/06/21/roseburg-receives-first-measurable-rain-in-a-month/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-receives-first-measurable-rain-in-a-month",
-          "publishedOn": "2025-06-21T14:54:25.000Z",
-          "wordCount": 1589,
-          "title": "ROSEBURG RECEIVES FIRST MEASURABLE RAIN IN A MONTH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=134628",
-          "author": "Kyle Bailey",
-          "description": "June 21, 2025 7:30 a.m. Friday at around 4:30 p.m., crews from the Douglas Forest Protective Association and other agencies responded to a natural cover fire just off the Interstate Five Clarks Branch Road exit at milepost 113 northbound. DFPA Acting Public Information Officer Nic Freeman said the fire was estimated to be one quarter...",
-          "link": "https://kqennewsradio.com/2025/06/21/dfpa-deals-with-milepost-113-fire-on-friday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=dfpa-deals-with-milepost-113-fire-on-friday-afternoon",
-          "publishedOn": "2025-06-21T14:43:22.000Z",
-          "wordCount": 1751,
-          "title": "DFPA DEALS WITH MILEPOST 113 FIRE ON FRIDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250621134107/Mp-113-fire2.jpg-scaled.jpeg"
         }
       ]
     },
@@ -418,6 +403,101 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/78b11e3a-e994-4de4-9ca3-8cdb18243152",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Shaylene Graham and Kylee Alstadt, both second year education majors at Umpqua Community College, have been awarded $1,600 each through the Joy Malone Memorial Scholarship.",
+          "link": "https://www.nrtoday.com/briefs/two-win-joy-malone-memorial-scholarship/article_78b11e3a-e994-4de4-9ca3-8cdb18243152.html",
+          "publishedOn": "2025-06-24T16:44:00.000Z",
+          "wordCount": 12070,
+          "title": "Two win Joy Malone Memorial Scholarship",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/58641d8c-0693-4e0f-9601-950e6ec2da29",
+          "author": "ERICA REYNOLDS The News-Review",
+          "description": "Altrusa of Roseburg awarded five $1,500 colleg scholarships to three Roseburg High School and two Sutherlin High School students in April.",
+          "link": "https://www.nrtoday.com/briefs/college-scholarship-awarded-to-local-high-school-seniors/article_58641d8c-0693-4e0f-9601-950e6ec2da29.html",
+          "publishedOn": "2025-06-24T16:31:00.000Z",
+          "wordCount": 12310,
+          "title": "College scholarship awarded to local high school seniors",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1e/d1e0c690-ab44-4a83-bfc1-5064d25aa762/685ad8182702b.image.jpg",
+            "length": "17464",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1e/d1e0c690-ab44-4a83-bfc1-5064d25aa762/685ad8182702b.image.jpg"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0058077d-c197-4cda-ab24-9cba8e96cee1",
+          "author": "Maggie Dapp The News-Review",
+          "description": "GLIDE — What’s more Pacific Northwest than a Bigfoot festival? A Bigfoot festival on a rainy day.",
+          "link": "https://www.nrtoday.com/news/believers-brave-the-rain-for-2025-glide-sasquatch-festival/article_0058077d-c197-4cda-ab24-9cba8e96cee1.html",
+          "publishedOn": "2025-06-24T15:00:00.000Z",
+          "wordCount": 12935,
+          "title": "Believers brave the rain for 2025 Glide Sasquatch Festival",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2e/d2ef58d3-0f37-4b17-8d88-8bcd8891000c/6859b42edcf01.image.jpg?resize=300%2C200",
+            "length": "497536",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2e/d2ef58d3-0f37-4b17-8d88-8bcd8891000c/6859b42edcf01.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7dd88c68-28f1-4df2-90a7-47b256b84c8e",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "SUTHERLIN — Each year, the Sutherlin Blackberry Festival brings in droves of attendees from near and far to view classic cars, buy goods from vendors and gather for summer fun. Now, the festival has found itself at the center of…",
+          "link": "https://www.nrtoday.com/news/sutherlin-city-manager-issues-public-apology-concerning-sutherlin-blackberry-festival-oregon-hb-3962/article_7dd88c68-28f1-4df2-90a7-47b256b84c8e.html",
+          "publishedOn": "2025-06-24T15:00:00.000Z",
+          "wordCount": 13308,
+          "title": "Sutherlin City Manager issues public apology concerning Sutherlin Blackberry Festival, Oregon HB 3962",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/54/b54f1f51-2cde-453e-87c8-ed8df2ac47f1/66c10e8e3b9c6.image.jpg?resize=300%2C200",
+            "length": "423760",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/54/b54f1f51-2cde-453e-87c8-ed8df2ac47f1/66c10e8e3b9c6.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/033d566f-e070-4d93-bda9-c195a098fb9c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "It’s Eastin Bustamante’s first year competing in any sort of pageantry and as Miss Umpqua Valley’s Teen, she’s preparing for the Miss Oregon’s Teen competition.",
+          "link": "https://www.nrtoday.com/news/education/local-contestants-prepare-for-miss-oregon-competition/article_033d566f-e070-4d93-bda9-c195a098fb9c.html",
+          "publishedOn": "2025-06-24T13:00:00.000Z",
+          "wordCount": 13892,
+          "title": "Local contestants prepare for Miss Oregon competition",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f1/1f1fe26d-378b-418d-9e3d-e8e14c5fde13/67c5dff49d490.image.jpg?resize=300%2C200",
+            "length": "515431",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f1/1f1fe26d-378b-418d-9e3d-e8e14c5fde13/67c5dff49d490.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c9d7d1e0-10fa-486a-8e14-42448b50bc05",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Monica Stanfield said they’ve been planning for the 56th Annual Summer Arts Festival since her first day as executive director at the Umpqua Valley Arts in December 2024.",
+          "link": "https://www.nrtoday.com/a_and_e/56th-summer-arts-festival-returns/article_c9d7d1e0-10fa-486a-8e14-42448b50bc05.html",
+          "publishedOn": "2025-06-24T11:45:00.000Z",
+          "wordCount": 13541,
+          "title": "56th Summer Arts Festival returns",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/a4/4a467022-30f5-4681-8c62-edad14e79ec3/6680940b0e83e.image.jpg?resize=300%2C200",
+            "length": "545011",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/a4/4a467022-30f5-4681-8c62-edad14e79ec3/6680940b0e83e.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a36fea7f-7146-4e38-b89e-604dae1bc699",
+          "author": "Maggie Dapp The News-Review",
+          "description": "REEDSPORT — The city of Reedsport was fined $2,700 for water quality violations by the Oregon Department of Environmental Quality (DEQ) in May, according to a June 23 DEQ press release.",
+          "link": "https://www.nrtoday.com/news/reedsport-issued-state-fine-for-discharging-raw-sewage-into-water/article_a36fea7f-7146-4e38-b89e-604dae1bc699.html",
+          "publishedOn": "2025-06-23T17:13:00.000Z",
+          "wordCount": 12132,
+          "title": "Reedsport issued state fine for discharging raw sewage into water",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d2f7571f-2aba-4474-a857-aa5769f53318",
           "author": "Kyle Bailey For The News-Review",
@@ -472,51 +552,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d4/6d4dfbf3-982b-4d00-8dc2-f3f0fbbb78b9/6680959a22c6d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/946d8937-186c-450a-8b96-1d23dd48a691",
-          "author": "Maggie Dapp The News-Review",
-          "description": "As a kid, Nick Cianci, call sign K7CNC, often watched a family friend operate his amateur or “ham” radio.",
-          "link": "https://www.nrtoday.com/news/umpqua-valley-amateur-radio-club-to-celebrate-annual-field-day/article_946d8937-186c-450a-8b96-1d23dd48a691.html",
-          "publishedOn": "2025-06-20T15:00:00.000Z",
-          "wordCount": 12773,
-          "title": "Umpqua Valley Amateur Radio Club to celebrate annual field day",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8eac5af7-1e5a-4cd4-9149-53bcae29a8f1",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "In 2019, Douglas County celebrated its first Pride Parade, giving LBGTQ+ people a chance to be seen, be heard and celebrate their identity together. At the time, it was a symbol of the future of the LGBTQ+ community’s place in…",
-          "link": "https://www.nrtoday.com/family/douglas-county-pride-parade-returns-to-roseburg-this-weekend/article_8eac5af7-1e5a-4cd4-9149-53bcae29a8f1.html",
-          "publishedOn": "2025-06-20T15:00:00.000Z",
-          "wordCount": 13074,
-          "title": "Douglas County Pride Parade returns to Roseburg this weekend",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/a8/7a852878-b7ed-4475-8e24-b980730f9f8c/6677309c42e61.image.jpg?resize=300%2C200",
-            "length": "595578",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/a8/7a852878-b7ed-4475-8e24-b980730f9f8c/6677309c42e61.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2b39469d-0067-4e47-a644-4aea418ba646",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Roseburg High School second semester honor roll",
-          "link": "https://www.nrtoday.com/news/education/roseburg-high-school-second-semester-honor-roll/article_2b39469d-0067-4e47-a644-4aea418ba646.html",
-          "publishedOn": "2025-06-20T14:00:00.000Z",
-          "wordCount": 13082,
-          "title": "Roseburg High School second semester honor roll",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/77d906e8-ac4f-4df1-9328-4a48e48a1577",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "COQUILLE — As expected, Wednesday's hearing on the cases against Johnathan James Dowdy turned into a release hearing. Dowdy, 32, of Coos Bay, is in custody and under indictment on multiple counts of manslaughter and assault for allegedly crashing head-on…",
-          "link": "https://www.nrtoday.com/briefs/dowdys-bail-remains-the-same-in-ucc-bus-crash/article_77d906e8-ac4f-4df1-9328-4a48e48a1577.html",
-          "publishedOn": "2025-06-20T10:30:00.000Z",
-          "wordCount": 12087,
-          "title": "Dowdy's bail remains the same in UCC bus crash",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
