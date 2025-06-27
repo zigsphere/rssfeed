@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=134890",
+          "author": "Kyle Bailey",
+          "description": "Live from Washington D.C., U.S. Senator Jeff Merkley weighs in on the Big Beautiful Bill, plans to sell large chunks of federal land,  the Iran situation and the overall mood in Congress currently.",
+          "link": "https://kqennewsradio.com/2025/06/27/morning-conversation-6-27-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-27-25",
+          "publishedOn": "2025-06-27T16:14:34.000Z",
+          "wordCount": 1571,
+          "title": "MORNING CONVERSATION 6.27.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250627151151/AM-CONV-6-27-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134883",
           "author": "Kyle Bailey",
           "description": "June 27, 2025 4:10 a.m.  The Umpqua Valley will see one more day with highs in the low 80’s Friday before a warm-up for the weekend. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that afternoon temperatures will increase several degrees on Saturday as a high-pressure system...",
@@ -1041,6 +1056,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "685e9db2cbfd6b0001f9dd9f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/june-27-2025/",
+          "publishedOn": "2025-06-27T13:55:42.000Z",
+          "wordCount": 4063,
+          "title": "June 27, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/06/The-Morning-Scoop-18.png"
+        },
         {
           "id": "685d4b92cbfd6b0001f9dc4e",
           "author": "Joseph Ziegler",
