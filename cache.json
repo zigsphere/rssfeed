@@ -404,6 +404,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/66a1d3b5-86a0-4a14-95c8-9df80fe3fade",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Umpqua Valley Arts hosted the 56th Summer Arts Festival Friday-Sunday at Fir Grove Park and around the art center on West Harvard Avenue.",
+          "link": "https://www.nrtoday.com/a_and_e/snapshot-of-the-56th-annual-summer-arts-festival/article_66a1d3b5-86a0-4a14-95c8-9df80fe3fade.html",
+          "publishedOn": "2025-06-29T13:00:00.000Z",
+          "wordCount": 13477,
+          "title": "Snapshot of the 56th Annual Summer Arts Festival",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8e/b8e98914-b30c-42d7-a7c6-8cdeb1ef78eb/6860c6007df11.image.jpg?resize=300%2C183",
+            "length": "342135",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8e/b8e98914-b30c-42d7-a7c6-8cdeb1ef78eb/6860c6007df11.image.jpg?resize=300%2C183"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9ff2ba95-82c0-4853-bb78-5455506e14f6",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "DOUGLAS COUNTY — The Roseburg District of the Bureau of Land Management will implement restrictions and prohibitions to mitigate the risk of human-caused fires.",
@@ -587,101 +602,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/f0/7f01626b-84ce-44a8-bd1f-86caf7a9418d/685b87693315c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d9303fca-a8f3-4b58-8bb3-6d7835eb0f95",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "REEDSPORT — Fire officials with the Bureau of Land Management plan to conduct a prescribed burn June 30 and July 1 at the Dean Creek Elk Viewing Area in Reedsport.",
-          "link": "https://www.nrtoday.com/news/environment/prescribed-burn-scheduled-for-dean-creek-elk-viewing-area/article_d9303fca-a8f3-4b58-8bb3-6d7835eb0f95.html",
-          "publishedOn": "2025-06-25T20:36:00.000Z",
-          "wordCount": 13136,
-          "title": "Prescribed burn scheduled for Dean Creek Elk Viewing Area",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/de7fa7f4-0fde-4c35-98f9-875ed6ebe6bb",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — Multiple H.O.P.E. Drug Court graduate phase participants have scheduled car washes to raise money for their community projects.",
-          "link": "https://www.nrtoday.com/briefs/h-o-p-e-drug-court-participants-hosting-car-washes/article_de7fa7f4-0fde-4c35-98f9-875ed6ebe6bb.html",
-          "publishedOn": "2025-06-25T16:31:00.000Z",
-          "wordCount": 12141,
-          "title": "H.O.P.E. Drug Court participants hosting car washes",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6b91084f-874b-418e-8e38-382326afc328",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Douglas County’s seasonally adjusted payroll employment increased by 50 jobs in April after a loss of 160 in April and a gain of 100 in March.",
-          "link": "https://www.nrtoday.com/business/douglas-county-employers-add-50-jobs-in-may/article_6b91084f-874b-418e-8e38-382326afc328.html",
-          "publishedOn": "2025-06-25T15:34:00.000Z",
-          "wordCount": 12193,
-          "title": "Douglas County employers add 50 jobs in May",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d345c7b7-1935-4676-abe8-5e84f316032d",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "WINSTON — The Winston/Dillard School District has its summer meal distribution underway.",
-          "link": "https://www.nrtoday.com/briefs/summer-meal-distribution-underway-in-winston-dillard/article_d345c7b7-1935-4676-abe8-5e84f316032d.html",
-          "publishedOn": "2025-06-25T15:23:00.000Z",
-          "wordCount": 12059,
-          "title": "Summer meal distribution underway in Winston-Dillard",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/aadac091-8b3c-421a-ab5d-e39788b1b9b1",
-          "author": "Maggie Dapp The News-Review",
-          "description": "ROSEBURG — The Roseburg Optimists will again host the annual Art Chalk event, allowing children through grade 12 to become sidewalk artists, during the Summer Arts Festival.",
-          "link": "https://www.nrtoday.com/family/chalk-art-event-invites-kids-to-become-sidewalk-artists/article_aadac091-8b3c-421a-ab5d-e39788b1b9b1.html",
-          "publishedOn": "2025-06-25T15:00:00.000Z",
-          "wordCount": 12097,
-          "title": "Chalk Art event invites kids to become sidewalk artists",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d9be62d2-9153-4bef-a4bd-ae7dd515957a",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For Four Chaplains Memorial Foundation Legion of Honor members, joining the group is about more than just service in the armed forces. It’s about selflessness, sacrifice and serving the community.",
-          "link": "https://www.nrtoday.com/news/vets-gather-in-roseburg-to-celebrate-installation-of-final-four-chaplains-legion-of-honor-sign/article_d9be62d2-9153-4bef-a4bd-ae7dd515957a.html",
-          "publishedOn": "2025-06-25T15:00:00.000Z",
-          "wordCount": 13129,
-          "title": "Vets gather in Roseburg to celebrate installation of Final Four Chaplain's Legion of Honor sign",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/a7/fa795e7f-f5dc-4894-8623-6a9c19fff925/6858319c76b23.image.jpg?resize=300%2C200",
-            "length": "487942",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/a7/fa795e7f-f5dc-4894-8623-6a9c19fff925/6858319c76b23.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/809f6a83-27a5-4508-8fa8-334c4759988a",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For Jessica McKee, the heart and soul of her work is a combination of two things: the artistic expression of being a barista and finding inspiration in world travel.",
-          "link": "https://www.nrtoday.com/business/wander-cafe-brings-international-flavors-coffee-classics-to-roseburg/article_809f6a83-27a5-4508-8fa8-334c4759988a.html",
-          "publishedOn": "2025-06-25T15:00:00.000Z",
-          "wordCount": 12817,
-          "title": "Wander Cafe brings international flavors, coffee classics to Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/dd/add40b7f-6783-407f-a99a-e2d46afe3c33/6859edcd479fa.image.jpg?resize=300%2C200",
-            "length": "313122",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/dd/add40b7f-6783-407f-a99a-e2d46afe3c33/6859edcd479fa.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/20c99b89-2521-45e5-85ca-6f5f1c545125",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "It is the policy of the Department of Veterans Affairs to provide care to all eligible veterans who come to them, and to provide employment to qualified staff, regardless of their political beliefs or marital status. Or is it?",
-          "link": "https://www.nrtoday.com/news/va-disputes-claim-of-discrimination-guideline-changes-for-marital-status-political-beliefs-and-union-activity/article_20c99b89-2521-45e5-85ca-6f5f1c545125.html",
-          "publishedOn": "2025-06-25T15:00:00.000Z",
-          "wordCount": 13054,
-          "title": "VA disputes claim of discrimination guideline changes for marital status, political beliefs and union activity",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/20/c20c3de9-eab4-42a6-977a-25fe446a9d16/6859edb4f2480.image.jpg?resize=300%2C200",
-            "length": "399821",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/20/c20c3de9-eab4-42a6-977a-25fe446a9d16/6859edb4f2480.image.jpg?resize=300%2C200"
         }
       ]
     },
