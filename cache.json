@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135000",
+          "author": "Kyle Bailey",
+          "description": "Josh Hill talks about the Big Hill Jam motocross event happening Friday through Sunday at the Albany Motorsports Park.",
+          "link": "https://kqennewsradio.com/2025/07/01/morning-conversation-7-1-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-1-26",
+          "publishedOn": "2025-07-01T16:12:18.000Z",
+          "wordCount": 1564,
+          "title": "MORNING CONVERSATION 7.1.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250701150837/AM-CONV-7-01-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=134991",
           "author": "Kyle Bailey",
           "description": "July 1, 2025 4:00 a.m.  Roseburg’s high temperature on Monday tied for the third hottest day of 2025 so far. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 97 degrees at the Roseburg Regional Airport. That equaled the 97-degree high set on June...",
@@ -411,6 +426,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6863f018cbfd6b0001f9e232",
+          "author": "Joseph Ziegler",
+          "description": "Effective July 1, DFPA raises Industrial Fire Precaution Levels to Level 2 and Public Use Restrictions to HIGH, limiting machinery use times for industry and residents. Fireworks remain prohibited in wildland areas.",
+          "link": "https://www.roseburgscanner.com/dfpa-increases-restrictions-to-high-ifpl-to-level-2/",
+          "publishedOn": "2025-07-01T14:31:27.000Z",
+          "wordCount": 1550,
+          "title": "DFPA INCREASES RESTRICTIONS TO HIGH, IFPL TO LEVEL 2",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/dfpahigh-1.png"
+        },
+        {
+          "id": "6863e3b2cbfd6b0001f9e0ca",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-1-2025/",
+          "publishedOn": "2025-07-01T13:59:02.000Z",
+          "wordCount": 3911,
+          "title": "July 1, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop.png"
+        },
         {
           "id": "686297c9cbfd6b0001f9e0ba",
           "author": "Joseph Ziegler",
