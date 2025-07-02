@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135055",
+          "author": "Kyle Bailey",
+          "description": "Sutherlin’s Music off Central concert series begins on Thursday. Dan Bartram and Debbie Hamilton talk about the shows.",
+          "link": "https://kqennewsradio.com/2025/07/02/morning-conversation-7-2-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-2-25",
+          "publishedOn": "2025-07-02T16:12:09.000Z",
+          "wordCount": 1558,
+          "title": "MORNING CONVERSATION 7.2.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250702150317/AM-CONV-07-02-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250702151155/Music-1-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135052",
           "author": "Kyle Bailey",
           "description": "July 2, 2025 4:00 a.m. Crews with the Roseburg Fire Department dealt with a brush fire along Interstate 5 early Tuesday morning. RFD Staff Assistant Amy Rice said just after 3:50 a.m. the fire was reported near the Northwest Edenbower Boulevard overpass. Rice said firefighters arrived on the scene and located a fire moving up...",
@@ -484,6 +499,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d7db545f-0f47-463c-8523-3cfcc2bfdcdd",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For cheer teams, practice and hard work are the key to succeeding in traveling competitions, but one thing is needed to even make it to those competitions in the first place: money. Without funds to cover fees, rooms and more,…",
+          "link": "https://www.nrtoday.com/family/dazzling-dragons-cheer-team-raises-funds-through-firework-sales-in-roseburg/article_d7db545f-0f47-463c-8523-3cfcc2bfdcdd.html",
+          "publishedOn": "2025-07-02T15:00:00.000Z",
+          "wordCount": 12523,
+          "title": "Dazzling Dragons Cheer team raises funds through firework sales in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/70/870e7521-f7c5-4356-99d7-4315c89b001b/68630608d9bb1.image.jpg?resize=300%2C200",
+            "length": "463912",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/70/870e7521-f7c5-4356-99d7-4315c89b001b/68630608d9bb1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f903cec-3546-43fa-acfe-fcc85ebfdb3e",
+          "author": "Scott Carroll The News-Review",
+          "description": "The organization that manages Bill Gray Stadium in Stewart Park is seeking permission to sell beer during baseball games.",
+          "link": "https://www.nrtoday.com/business/you-might-be-able-to-get-beer-with-your-ballgame/article_0f903cec-3546-43fa-acfe-fcc85ebfdb3e.html",
+          "publishedOn": "2025-07-02T15:00:00.000Z",
+          "wordCount": 13354,
+          "title": "You might be able to get beer with your ballgame",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/42/b429d840-26cf-4756-b41b-725c00280256/6864159fbe5a7.image.jpg?resize=300%2C200",
+            "length": "456920",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/42/b429d840-26cf-4756-b41b-725c00280256/6864159fbe5a7.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/634dcfe3-02f1-48d5-ae5f-055e0c6330b4",
           "author": "Maggie Dapp The News-Review",
           "description": "Roseburg Parks and Recreation staff will give out free popsicles to kids near the Fir Grove Park Splash Pad from 2 - 3 p.m. every Wednesday in the month of July, according to a July 1 press release.",
@@ -636,6 +681,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68653669cbfd6b0001f9e245",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-2-2025/",
+          "publishedOn": "2025-07-02T13:53:40.000Z",
+          "wordCount": 4142,
+          "title": "July 2, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-1.png"
+        },
         {
           "id": "6863f018cbfd6b0001f9e232",
           "author": "Joseph Ziegler",
