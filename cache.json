@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135189",
+          "author": "Kyle Bailey",
+          "description": "Nikole Hansen from the Roseburg VA Public Affairs talks about an upcoming car show that is part of Graffiti Week, and special activities at county fair in Douglas and Lane counties.",
+          "link": "https://kqennewsradio.com/2025/07/07/morning-conversation-7-7-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-7-25",
+          "publishedOn": "2025-07-07T16:16:56.000Z",
+          "wordCount": 1574,
+          "title": "MORNING CONVERSATION 7.7.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250707151159/AM-CONV-05-07-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250707151620/Nikol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135179",
           "author": "Kyle Bailey",
           "description": "July 7, 2025 4:10 a.m. Crews with the Douglas Forest Protective Association are dealing with the Round Top Fire east of Roseburg. A DFPA post said the agency along with rural firefighters and landowner resources are engaged on an estimated 7 to 8-acre fire located near the 10000 block of North Umpqua Highway. The fire...",
@@ -129,6 +144,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bd919a22-2e95-4a7d-8f55-987c5040cdf7",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg Parks and Recreation has announced a new show time for one of this summer’s “Movies in the Park” that got rained out in June.",
+          "link": "https://www.nrtoday.com/a_and_e/movies-in-the-park-rescheduled/article_bd919a22-2e95-4a7d-8f55-987c5040cdf7.html",
+          "publishedOn": "2025-07-07T14:26:00.000Z",
+          "wordCount": 11966,
+          "title": "Movies in the Park rescheduled",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/64fa2a2a-ab1f-4c7b-a8eb-464976b98962",
           "author": "Maggie Dapp The News-Review",
           "description": "WINSTON — The Winston Area Independence Day (WAID) celebrations were non-stop Friday.",
@@ -195,7 +220,28 @@
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "686bd3f2cbfd6b0001f9e743",
+          "author": "Joseph Ziegler",
+          "description": "Fire crews have successfully stopped the forward spread of the Round Top Fire near Roseburg, Oregon. The blaze, now fully contained by dozer lines, burned roughly 8 acres. Mop-up operations continue. No structures were threatened; cause under investigation.",
+          "link": "https://www.roseburgscanner.com/crews-halt-spread-of-round-top-fire/",
+          "publishedOn": "2025-07-07T14:13:17.000Z",
+          "wordCount": 1441,
+          "title": "Crews Halt Spread of Round Top Fire Near Roseburg",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/fire_round_top.jpg"
+        },
+        {
+          "id": "686b4fb6cbfd6b0001f9e52a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-7-2025/",
+          "publishedOn": "2025-07-07T13:56:47.000Z",
+          "wordCount": 4283,
+          "title": "July 7, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-3.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
