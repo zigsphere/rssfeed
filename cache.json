@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135158",
+          "author": "Kyle Bailey",
+          "description": "July 6, 2025 6:00 p.m.  Winston Police charged a woman with first-degree arson following a fire Friday evening. Sergeant Mike Miller said at about 7:40 p.m. officers were dispatched to a fire at the Blue Ridge Apartments on Southwest Hart Avenue. Miller said Following an investigation, officers learned that the resident, 33-year-old Melayna Good, had...",
+          "link": "https://kqennewsradio.com/2025/07/06/winston-police-charge-woman-with-first-degree-arson/?utm_source=rss&utm_medium=rss&utm_campaign=winston-police-charge-woman-with-first-degree-arson",
+          "publishedOn": "2025-07-07T00:54:27.000Z",
+          "wordCount": 1620,
+          "title": "WINSTON POLICE CHARGE WOMAN WITH FIRST-DEGREE ARSON",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135155",
           "author": "Kyle Bailey",
           "description": "July 5, 2025 9:00 a.m. A motorcyclist evaded a deputy early Friday morning. A Douglas County Sheriff’s Office report said at 2:00 a.m. a deputy attempted to conduct a traffic stop on a sport motorcycle on Interstate 5 northbound, a mile south of Rice Hill. The motorcycle accelerated and did not yield. The deputy continued...",
@@ -441,18 +451,7 @@
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
-      "articles": [
-        {
-          "id": "68668855cbfd6b0001f9e3ba",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/july-3-2025/",
-          "publishedOn": "2025-07-03T14:00:13.000Z",
-          "wordCount": 3969,
-          "title": "July 3, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-2.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

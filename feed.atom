@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-06T23:13:18.259Z</updated>
+    <updated>2025-07-07T03:20:54.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WINSTON POLICE CHARGE WOMAN WITH FIRST-DEGREE ARSON]]></title>
+        <id>https://kqennewsradio.com/?p=135158</id>
+        <link href="https://kqennewsradio.com/2025/07/06/winston-police-charge-woman-with-first-degree-arson/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-police-charge-woman-with-first-degree-arson"/>
+        <updated>2025-07-07T00:54:27.000Z</updated>
+        <summary type="html"><![CDATA[July 6, 2025 6:00 p.m.  Winston Police charged a woman with first-degree arson following a fire Friday evening. Sergeant Mike Miller said at about 7:40 p.m. officers were dispatched to a fire at the Blue Ridge Apartments on Southwest Hart Avenue. Miller said Following an investigation, officers learned that the resident, 33-year-old Melayna Good, had...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winston’s Fourth of July: A day jam-packed with fun]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/64fa2a2a-ab1f-4c7b-a8eb-464976b98962</id>
@@ -335,16 +345,6 @@ The post SOU considers partners for older adult housing and education facility a
         <summary type="html"><![CDATA[IDLEYLD PARK — For nearly a century, the Rock Creek fish hatchery on the North Umpqua River was a hub of activity, collecting, spawning and rearing Chinook, steelhead, rainbow trout and a host of other fish.]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 3, 2025]]></title>
-        <id>68668855cbfd6b0001f9e3ba</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/july-3-2025/"/>
-        <updated>2025-07-03T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
