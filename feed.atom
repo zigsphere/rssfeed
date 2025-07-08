@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-08T19:11:26.050Z</updated>
+    <updated>2025-07-08T23:13:43.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.8.25]]></title>
+        <id>https://kqennewsradio.com/?p=135274</id>
+        <link href="https://kqennewsradio.com/2025/07/08/inside-douglas-county-7-8-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-7-8-25"/>
+        <updated>2025-07-08T20:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Fourth-District State Representative Alek Skarlatos talks about his first full-session in the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIREFIGHTERS RESPONDING TO OVER 50 REPORTS OF FIRES IN SOUTHWEST OREGON]]></title>
         <id>https://kqennewsradio.com/?p=135267</id>
