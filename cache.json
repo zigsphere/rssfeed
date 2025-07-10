@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135360",
+          "author": "Kyle Bailey",
+          "description": "United Community Action Network Food Bank Director Val Gordon talks about the Pouring Generosity campaign, underway through the end of August.",
+          "link": "https://kqennewsradio.com/2025/07/10/morning-conversation-7-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-10-25",
+          "publishedOn": "2025-07-10T16:13:59.000Z",
+          "wordCount": 1561,
+          "title": "MORNING CONVERSATION 7.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250710151110/AM-CONV-07-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250710151322/Val-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135354",
           "author": "Kyle Bailey",
           "description": "July 10, 2025 4:20 a.m.  A Roseburg man died in a single vehicle wreck early Wednesday morning. A Douglas County Sheriff’s Office report said at approximately 5:40 a.m. deputies responded along with Central Douglas Fire & Rescue to the 3100 block of Melrose Road, west of Roseburg. Undersheriff Brad O’Dell said responders found a vehicle...",
@@ -796,6 +811,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "686fe448cbfd6b0001f9ec2c",
+          "author": "Joseph Ziegler",
+          "description": "Phoenix Charter School’s sponsorship by Roseburg Public Schools has ended, halting its high school program for now. But Phoenix School will continue to provide youth services and support, vowing to help students and families as they navigate their next steps.",
+          "link": "https://www.roseburgscanner.com/phoenix-school-faces-setback-but-support-for-students-remains-strong/",
+          "publishedOn": "2025-07-10T16:10:37.000Z",
+          "wordCount": 1674,
+          "title": "Phoenix School Faces Setback, But Support for Students Remains Strong",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/phoenix.png"
+        },
+        {
+          "id": "686fc10ccbfd6b0001f9eab8",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-10-2025/",
+          "publishedOn": "2025-07-10T13:47:11.000Z",
+          "wordCount": 4491,
+          "title": "July 10, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-6.png"
+        },
         {
           "id": "686e8e82cbfd6b0001f9ea92",
           "author": "Joseph Ziegler",
