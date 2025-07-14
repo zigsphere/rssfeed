@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-14T14:00:58.556Z</updated>
+    <updated>2025-07-14T16:18:56.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 7.14.25]]></title>
+        <id>https://kqennewsradio.com/?p=135482</id>
+        <link href="https://kqennewsradio.com/2025/07/14/morning-conversation-7-14-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-7-14-25"/>
+        <updated>2025-07-14T16:11:48.000Z</updated>
+        <summary type="html"><![CDATA[From Experience Roseburg, Nate Wojtach talks about the Smash the Trash Riverfloat and Umpqua Watersheds 39th annual River Appreciation Day happening this Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEAT ADVISORY CONTINUES THROUGH TUESDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=135477</id>
