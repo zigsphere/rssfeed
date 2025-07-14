@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-13T23:14:52.101Z</updated>
+    <updated>2025-07-14T03:27:29.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRANSIENT JAILED FOR REPORTED TRESPASS INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=135457</id>
+        <link href="https://kqennewsradio.com/2025/07/13/transient-jailed-for-reported-trespass-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transient-jailed-for-reported-trespass-incident"/>
+        <updated>2025-07-13T23:36:33.000Z</updated>
+        <summary type="html"><![CDATA[July 13, 2025 4:40 p.m.  Covering coastal Douglas County: A transient was jailed for a reported trespass incident on Friday. A Douglas County Sheriff’s Office report said just before 1:30 p.m. the 44-year-old was allegedly trespassing in the 800 block of Beach Boulevard in Winchester Bay and had been asked to leave many times and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEAT ADVISORY EXTENDED THROUGH TUESDAY EVENING]]></title>
+        <id>https://kqennewsradio.com/?p=135454</id>
+        <link href="https://kqennewsradio.com/2025/07/13/heat-advisory-extended-through-tuesday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=heat-advisory-extended-through-tuesday-evening"/>
+        <updated>2025-07-13T23:25:46.000Z</updated>
+        <summary type="html"><![CDATA[July 13, 2025 4:30 p.m.  A Heat Advisory has been extended through Tuesday evening for central Douglas County and its eastern foothills. Forecasters at the National Weather Service in Medford said high temperatures in the mid-90s to around 100 degrees are expected. Low temperatures will be mainly in the lower to mid-60s. The Advisory area...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FINAL DAY OF GRAFFITI WEEKEND 2025]]></title>
         <id>https://kqennewsradio.com/?p=135452</id>
@@ -434,26 +454,6 @@
         <summary type="html"><![CDATA[The typically bare grass outside the Roseburg Veterans Affairs (VA) Medical Center was awash with color Wednesday, where row after row of eye-catching cars were on display for the Street Memories Kick Off Car Show.]]></summary>
         <author>
             <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 10, 2025]]></title>
-        <id>686fc10ccbfd6b0001f9eab8</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/july-10-2025/"/>
-        <updated>2025-07-10T13:47:11.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG MAN DIES IN SINGLE VEHICLE WRECK]]></title>
-        <id>https://kqennewsradio.com/?p=135354</id>
-        <link href="https://kqennewsradio.com/2025/07/10/roseburg-man-dies-in-single-vehicle-wreck-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-dies-in-single-vehicle-wreck-3"/>
-        <updated>2025-07-10T11:18:22.000Z</updated>
-        <summary type="html"><![CDATA[July 10, 2025 4:20 a.m.  A Roseburg man died in a single vehicle wreck early Wednesday morning. A Douglas County Sheriff’s Office report said at approximately 5:40 a.m. deputies responded along with Central Douglas Fire & Rescue to the 3100 block of Melrose Road, west of Roseburg. Undersheriff Brad O’Dell said responders found a vehicle...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
