@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135545",
+          "author": "Kyle Bailey",
+          "description": "Kelly Leonard and Marci Williams join us live from the Nichol’s Band Shell in Stewart Park to talk about tonight’s Music on the Half Shell concert.",
+          "link": "https://kqennewsradio.com/2025/07/15/morning-conversation-7-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-15-25",
+          "publishedOn": "2025-07-15T16:17:13.000Z",
+          "wordCount": 1562,
+          "title": "MORNING CONVERSATION 7.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250715151431/AM-CONV-7-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214855/shell-e1627382011800.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135540",
           "author": "Kyle Bailey",
           "description": "July 15, 2025 5:30 a.m.      In the KQEN Cultural Spotlight: Music on the Half Shell features bluegrass music on Tuesday night at the Nichol’s Band Shell in Roseburg’s Stewart Park. Seth Mulder & Midnight Run was born in the holler of Tennessee’s first legal moonshine distillery, where the spirit of tradition still runs...",
@@ -349,6 +364,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0162b118-fb62-4a6e-a47e-e2fb3de0d3e4",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Normally, the only things wandering the fields of Growing Miracles Lavender Gardens are honeybees and the occasional farmer. On Saturday, those fields came alive for the 8th Annual Lavender Festival & Farm Tour as crowds of attendees walked through the…",
+          "link": "https://www.nrtoday.com/news/flowers-families-and-fun-at-growing-miracles-8th-annual-lavender-festival-farm-tour/article_0162b118-fb62-4a6e-a47e-e2fb3de0d3e4.html",
+          "publishedOn": "2025-07-15T15:00:00.000Z",
+          "wordCount": 13150,
+          "title": "Flowers, families and fun at Growing Miracles 8th Annual Lavender Festival & Farm Tour",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/57/657c28d1-d878-4a97-b188-6991299eae18/6872d849b88be.image.jpg?resize=300%2C200",
+            "length": "649530",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/57/657c28d1-d878-4a97-b188-6991299eae18/6872d849b88be.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1d27e926-2a15-4137-82eb-d996c503b158",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "MELROSE — Roaring motors, frenetic 50s rock and the smell of motor oil and car polish aren't what one would probably expect at experience at a vineyard, but for attendees of the 42nd Annual Stray Angels Show-N-Shine, that's exactly what…",
+          "link": "https://www.nrtoday.com/news/motorheads-meet-in-melrose-for-the-42nd-annual-stray-angels-show-n-shine/article_1d27e926-2a15-4137-82eb-d996c503b158.html",
+          "publishedOn": "2025-07-15T15:00:00.000Z",
+          "wordCount": 13781,
+          "title": "Motorheads meet in Melrose for the 42nd Annual Stray Angels Show-N-Shine",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a8/da8df32a-2401-411c-9f97-82a0712ef41b/6872d320a1754.image.jpg?resize=300%2C200",
+            "length": "690053",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a8/da8df32a-2401-411c-9f97-82a0712ef41b/6872d320a1754.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bdf3632a-0220-4bd5-ac30-5bdbc81264e0",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On Friday, a quiet evening in a Roseburg apartment complex turned to chaos as a motorist operating a Mazda Miata allegedly crashed into two parked vehicles at 672 NE Winchester St., injuring a man before driving away from the scene.",
+          "link": "https://www.nrtoday.com/news/duii-leads-to-injury-arrest-in-roseburg/article_bdf3632a-0220-4bd5-ac30-5bdbc81264e0.html",
+          "publishedOn": "2025-07-15T15:00:00.000Z",
+          "wordCount": 12856,
+          "title": "DUII leads to injury, arrest in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/09/f0966620-c5fa-40fc-894c-cee40b5bfd44/68718d93b5ea5.image.jpg?resize=300%2C200",
+            "length": "369193",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/09/f0966620-c5fa-40fc-894c-cee40b5bfd44/68718d93b5ea5.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/89402d60-e8bf-41ef-b010-dfc8a5bd0ef2",
           "author": "Scott Carroll The News-Review",
           "description": "A Roseburg man who sexually assaulted a Roseburg middle school student is facing up to 25 years in prison after he accepted a plea deal in court Monday.",
@@ -456,6 +516,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68765906cbfd6b0001f9f01f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-15-2025/",
+          "publishedOn": "2025-07-15T13:58:26.000Z",
+          "wordCount": 3901,
+          "title": "July 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-9.png"
+        },
         {
           "id": "6874a0b7cbfd6b0001f9ee6d",
           "author": "Joseph Ziegler",
