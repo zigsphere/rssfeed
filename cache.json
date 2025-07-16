@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135605",
+          "author": "Kyle Bailey",
+          "description": "Organizer Ted Romas talks about the Music in the Park concert series underway on Thursday nights at Millsite Park in Myrtle Creek.",
+          "link": "https://kqennewsradio.com/2025/07/16/morning-conversation-7-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-16-25",
+          "publishedOn": "2025-07-16T16:08:05.000Z",
+          "wordCount": 1561,
+          "title": "MORNING CONVERSATION 7.16.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250716150604/AM-CONV-07-16-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250710092852/MUSMUSIC.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135601",
           "author": "Kyle Bailey",
           "description": "July 16, 2025 4:00 a.m. Roseburg is expected to see a near record high temperature for the date on Wednesday, before some cooling begins to impact the Umpqua Valley. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the high is forecast to be 99 degrees. The...",
@@ -666,6 +681,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6877aa00cbfd6b0001f9f1a7",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-16-2025/",
+          "publishedOn": "2025-07-16T13:55:22.000Z",
+          "wordCount": 4223,
+          "title": "July 16, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-10.png"
+        },
         {
           "id": "68765906cbfd6b0001f9f01f",
           "author": "Joseph Ziegler",
