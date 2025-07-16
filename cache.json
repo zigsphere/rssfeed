@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135636",
+          "author": "Kyle Bailey",
+          "description": "July 16, 2025 2:30 p.m.  As the weather continues to trend towards warming and drying, the Umpqua National Forest will move into Level 2 Public Use Restrictions across the forest, effective on Friday. The fire danger rating moved to HIGH effective Wednesday. Industrial Fire Precaution will increase to Level 2, effective on Monday. HIGH fire...",
+          "link": "https://kqennewsradio.com/2025/07/16/umpqua-national-forest-increases-fire-danger-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-national-forest-increases-fire-danger-ratings",
+          "publishedOn": "2025-07-16T21:28:46.000Z",
+          "wordCount": 1606,
+          "title": "UMPQUA NATIONAL FOREST INCREASES FIRE DANGER RATINGS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250716202840/Fire-Danger-Level-9.jpg.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=135629",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Director Kris Wiley talks about the upcoming Harry Potter Day on July 26th and talks about other things happening for kids and families this summer.",
+          "link": "https://kqennewsradio.com/2025/07/16/inside-douglas-county-7-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-7-16-25",
+          "publishedOn": "2025-07-16T20:14:15.000Z",
+          "wordCount": 1571,
+          "title": "INSIDE DOUGLAS COUNTY 7.16.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250716191031/IDC-07-16-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250716191358/Kris-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135625",
           "author": "Kyle Bailey",
           "description": "July 16, 2025 11:30 a.m.  Oregon Governor Tina Kotek has declared a State of Emergency due to the imminent threat of wildfire beginning on Wednesday and lasting through the calendar year. Kotek said, “Oregon is already experiencing a devastating wildfire season that will have lasting consequences. The summer is only getter hotter, drier and more...",
@@ -598,6 +623,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/74def7eb-84ee-4651-ad8b-e93d43b2acd1",
+          "author": "Amelia Winkelman The News-Review",
+          "description": "Folding tables with hygiene products, survival supplies and bags of dog and cat food are set up inside St. George Episcopal Church at 1024 SE Cass Ave. in Roseburg. The church is open as a cooling center from 3-6 p.m.…",
+          "link": "https://www.nrtoday.com/news/local/st-george-episcopal-church-serves-the-community-as-a-cooling-center/article_74def7eb-84ee-4651-ad8b-e93d43b2acd1.html",
+          "publishedOn": "2025-07-16T16:00:00.000Z",
+          "wordCount": 12231,
+          "title": "St. George Episcopal Church serves the community as a cooling center",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f8617216-c76b-4a05-b755-75af31c0650d",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Whether the hobby includes throwing down cards, rolling dice, painting miniatures or all of the above, Tabletop Kingdom’s got it covered.",
+          "link": "https://www.nrtoday.com/business/fun-and-games-tabletop-kingdom-brings-a-space-for-hobbyists-to-roseburg/article_f8617216-c76b-4a05-b755-75af31c0650d.html",
+          "publishedOn": "2025-07-16T15:00:00.000Z",
+          "wordCount": 13215,
+          "title": "Fun and games: Tabletop Kingdom brings a space for hobbyists to Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ab/9ab7a78e-da89-4190-a111-0ba196a95693/687550133c46c.image.jpg?resize=300%2C200",
+            "length": "436753",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ab/9ab7a78e-da89-4190-a111-0ba196a95693/687550133c46c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cef95a03-09e9-40f0-b6dd-8fb20cfded73",
+          "author": "Maggie Dapp The News-Review",
+          "description": "GLIDE — Oftentimes, one walks into the store with a list yet comes out with a cart twice its size.",
+          "link": "https://www.nrtoday.com/news/terringer-farm-jumps-headfirst-into-the-world-of-donkeys/article_cef95a03-09e9-40f0-b6dd-8fb20cfded73.html",
+          "publishedOn": "2025-07-16T15:00:00.000Z",
+          "wordCount": 12989,
+          "title": "Terringer Farm jumps headfirst into the world of donkeys",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/8b/88bb6f31-b162-4fa8-afed-672c385106fa/6877d13e5a0a0.image.jpg?resize=300%2C200",
+            "length": "435541",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/8b/88bb6f31-b162-4fa8-afed-672c385106fa/6877d13e5a0a0.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0162b118-fb62-4a6e-a47e-e2fb3de0d3e4",
           "author": "ANDREW GRIFFIN The News-Review",
