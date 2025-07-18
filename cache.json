@@ -624,6 +624,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a91665f0-5973-4344-b36a-e926b457005f",
+          "author": "Maggie Dapp The News-Review",
+          "description": "The Douglas County Parks Department champions a story of success — one that leadership falls back on when speaking and their Public Information Officers (PIOs) infuse into marketing materials.",
+          "link": "https://www.nrtoday.com/news/what-s-up-with-douglas-county-parks/article_a91665f0-5973-4344-b36a-e926b457005f.html",
+          "publishedOn": "2025-07-18T15:00:00.000Z",
+          "wordCount": 13800,
+          "title": "What’s up with Douglas County Parks?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a9/1a95da1a-d5b2-4236-9996-bb454fe3078d/687a5da60191e.image.jpg?resize=300%2C400",
+            "length": "439757",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a9/1a95da1a-d5b2-4236-9996-bb454fe3078d/687a5da60191e.image.jpg?resize=300%2C400"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a5196820-84cb-4282-9366-75b9b19a50af",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "MELROSE — Friends of Umpqua Valley Police K9 Programs will host K9s in the Grapevines on Sept. 5 and tickets are now available.",
+          "link": "https://www.nrtoday.com/briefs/k9s-in-the-grapevines-returns-in-september/article_a5196820-84cb-4282-9366-75b9b19a50af.html",
+          "publishedOn": "2025-07-18T14:53:00.000Z",
+          "wordCount": 12064,
+          "title": "K9s in the Grapevines returns in September",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b02ba0a6-fd73-49d7-b42a-af08ede38810",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "YONCALLA — Caroline Luke has read enough books so far this summer to fill four reading logs for the summer reading program at Yoncalla Public Library.",
+          "link": "https://www.nrtoday.com/family/yoncalla-public-library-builds-birdhouses-prepares-to-wrap-up-summer-reading-program/article_b02ba0a6-fd73-49d7-b42a-af08ede38810.html",
+          "publishedOn": "2025-07-18T14:00:00.000Z",
+          "wordCount": 14002,
+          "title": "Yoncalla Public Library builds birdhouses, prepares to wrap up summer reading program",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/3e/03eb9de1-5d1d-472c-a8db-91b992917719/6879032a79418.image.jpg?resize=300%2C200",
+            "length": "280213",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/3e/03eb9de1-5d1d-472c-a8db-91b992917719/6879032a79418.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e7594318-fafa-40fd-b46e-bf54638e73c6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — The Bureau of Lane Management Roseburg District will reopen the Long Pine Group Campground in Glide on July 25 for individual site rental for the summer and fall season.",
+          "link": "https://www.nrtoday.com/briefs/blm-reopens-lone-pine-group-campground/article_e7594318-fafa-40fd-b46e-bf54638e73c6.html",
+          "publishedOn": "2025-07-18T13:30:00.000Z",
+          "wordCount": 13069,
+          "title": "BLM reopens Lone Pine Group Campground",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3a961727-8f51-431b-8164-8213b24cf87f",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Break out the chainmail and sharpen the swords; On Saturday, Umpqua Community College (UCC) is inviting people to step back into the past and immerse themselves in the world as it was centuries ago with the school’s very first Renaissance…",
@@ -787,101 +837,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/09/f0966620-c5fa-40fc-894c-cee40b5bfd44/68718d93b5ea5.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/89402d60-e8bf-41ef-b010-dfc8a5bd0ef2",
-          "author": "Scott Carroll The News-Review",
-          "description": "A Roseburg man who sexually assaulted a Roseburg middle school student is facing up to 25 years in prison after he accepted a plea deal in court Monday.",
-          "link": "https://www.nrtoday.com/news/court/plea-deal-reached-in-rape-case/article_89402d60-e8bf-41ef-b010-dfc8a5bd0ef2.html",
-          "publishedOn": "2025-07-14T23:30:00.000Z",
-          "wordCount": 13010,
-          "title": "Plea deal reached in rape case",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/1e/41ec30cf-7f64-4eb0-ad00-98b7afe84cf3/68759d4902592.image.jpg?resize=300%2C200",
-            "length": "132942",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/1e/41ec30cf-7f64-4eb0-ad00-98b7afe84cf3/68759d4902592.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8292dee4-730d-46e5-bb9c-556e89e5238c",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "DRAIN — Douglas Forest Protective Association and North Douglas County Fire and EMS crews responded around 1:30 p.m. Saturday to a slash fire near Putnam Valley Road in Drain.",
-          "link": "https://www.nrtoday.com/news/environment/putnam-valley-road-fire-stopped-sunday-by-local-fire-crews/article_8292dee4-730d-46e5-bb9c-556e89e5238c.html",
-          "publishedOn": "2025-07-14T19:57:00.000Z",
-          "wordCount": 13745,
-          "title": "Putnam Valley Road Fire stopped Sunday by local fire crews",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4571b5f0-ca44-44d7-a61e-cd244a98d710",
-          "author": "Maggie Dapp The News-Review",
-          "description": "Graffiti Weekend, a five day celebration of cars with several events, kept the good times rolling Thursday with the Backside Brewery Burnout Competition.",
-          "link": "https://www.nrtoday.com/news/backside-brewery-burnout-competition-brings-the-heat-and-smoke-to-graffiti-weekend/article_4571b5f0-ca44-44d7-a61e-cd244a98d710.html",
-          "publishedOn": "2025-07-14T16:00:00.000Z",
-          "wordCount": 13198,
-          "title": "Backside Brewery Burnout Competition brings the heat — and smoke — to Graffiti Weekend",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/5b/f5bcd5ce-baca-40cb-9a1a-f841bfc2cabc/6871269eed712.image.jpg?resize=300%2C196",
-            "length": "368482",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/5b/f5bcd5ce-baca-40cb-9a1a-f841bfc2cabc/6871269eed712.image.jpg?resize=300%2C196"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/dc5a78ac-4b40-457f-b072-85f35ca39d7c",
-          "author": "Amelia Winkelman The News-Review",
-          "description": "GREEN — Central Douglas Fire & Rescue (CDF&R) and Lookingglass Rural Fire District’s response to a house fire on Circle Drive in the Green district Sunday morning allowed all residents of the home to safely evacuate, according to a press…",
-          "link": "https://www.nrtoday.com/briefs/crews-respond-to-green-district-house-fire/article_dc5a78ac-4b40-457f-b072-85f35ca39d7c.html",
-          "publishedOn": "2025-07-14T16:00:00.000Z",
-          "wordCount": 12028,
-          "title": "Crews respond to Green district house fire",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9aba9da3-7689-40b2-97aa-9b109920174a",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "MYRTLE CREEK — Douglas County is home to variety of outdoor summer concert programs that bring free entertainment from far and wide to rural communities. However, only one of them holds the title of longest-running in the county, and that’s…",
-          "link": "https://www.nrtoday.com/a_and_e/music/music-in-the-parks-2025-season-gets-started-in-myrtle-creek/article_9aba9da3-7689-40b2-97aa-9b109920174a.html",
-          "publishedOn": "2025-07-14T15:00:00.000Z",
-          "wordCount": 13151,
-          "title": "Music in the Park's 2025 season gets started in Myrtle Creek",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/18/d18850c9-b4de-45ad-81b2-006e67cb8354/6870927482f8e.image.jpg?resize=300%2C200",
-            "length": "238535",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/18/d18850c9-b4de-45ad-81b2-006e67cb8354/6870927482f8e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/07c47515-fff3-4ee3-96fc-0a9e0f8029d1",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Roseburg came alive Saturday evening as classic car after classic car revved their way across downtown for the 43rd Annual Umpqua Flatheads Roseburg Graffiti Night Cruise.",
-          "link": "https://www.nrtoday.com/family/43rd-annual-umpqua-flatheads-roseburg-graffiti-night-cruise-brings-big-crowds/article_07c47515-fff3-4ee3-96fc-0a9e0f8029d1.html",
-          "publishedOn": "2025-07-14T15:00:00.000Z",
-          "wordCount": 13137,
-          "title": "43rd Annual Umpqua Flatheads Roseburg Graffiti Night Cruise brings big crowds",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1c/f1c1cb16-f41d-41f9-8ae4-2312970c8997/687330deb578d.image.jpg?resize=300%2C200",
-            "length": "412822",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1c/f1c1cb16-f41d-41f9-8ae4-2312970c8997/687330deb578d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/64651b76-7925-4100-9f21-0002422d5153",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Axe throwing for FISH Food Pantry donations. Hotdogs and indoor golf. The smell of burnt rubber. Many cars, polished to a shine. Graffiti Weekend was back on Northeast Diamond Lake Boulevard and other spots around Roseburg, loud and proud all…",
-          "link": "https://www.nrtoday.com/news/environment/graffiti-weekend-features-new-places-new-faces/article_64651b76-7925-4100-9f21-0002422d5153.html",
-          "publishedOn": "2025-07-14T14:57:00.000Z",
-          "wordCount": 13870,
-          "title": "Graffiti Weekend features new places, new faces",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/2a/32aa2244-b686-4ba3-9887-3911587870a9/6871704d2e924.image.jpg?resize=300%2C200",
-            "length": "316372",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/2a/32aa2244-b686-4ba3-9887-3911587870a9/6871704d2e924.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -896,6 +851,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "687a4ef4cbfd6b0001f9f44d",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-18-2025/",
+          "publishedOn": "2025-07-18T14:25:31.000Z",
+          "wordCount": 3791,
+          "title": "July 18, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-12.png"
+        },
         {
           "id": "6878feeecbfd6b0001f9f308",
           "author": "Joseph Ziegler",
