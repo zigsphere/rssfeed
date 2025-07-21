@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-21T13:34:44.057Z</updated>
+    <updated>2025-07-21T16:17:38.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 7.21.25]]></title>
+        <id>https://kqennewsradio.com/?p=135771</id>
+        <link href="https://kqennewsradio.com/2025/07/21/morning-conversation-7-21-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-7-21-25"/>
+        <updated>2025-07-21T16:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Actors Community Theatre opens the summer musical, “Anastasia” on Thursday night in Jacoby Auditorium of Umpqua Community College.  UACT Executive Director Melody Schwegel talks about the show.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 21, 2025]]></title>
+        <id>687dc275cbfd6b0001f9f609</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/july-21-2025/"/>
+        <updated>2025-07-21T13:46:17.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COOLER MONDAY, NEAR NORMAL HIGH TEMPERATURES STARTING TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=135767</id>

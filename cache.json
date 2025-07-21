@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135771",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Actors Community Theatre opens the summer musical, “Anastasia” on Thursday night in Jacoby Auditorium of Umpqua Community College.  UACT Executive Director Melody Schwegel talks about the show.",
+          "link": "https://kqennewsradio.com/2025/07/21/morning-conversation-7-21-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-7-21-25",
+          "publishedOn": "2025-07-21T16:16:49.000Z",
+          "wordCount": 1567,
+          "title": "MORNING CONVERSATION 7.21.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250721150929/AM-CONV-07-21-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250721151636/UACT-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135767",
           "author": "Kyle Bailey",
           "description": "July 21, 2025 3:50 a.m.  Monday will see clouds and cooler conditions with warming to near normal temperatures beginning Tuesday in the Umpqua Valley. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that low pressure off the coast of California will lead to the change in conditions....",
@@ -627,6 +642,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "687dc275cbfd6b0001f9f609",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-21-2025/",
+          "publishedOn": "2025-07-21T13:46:17.000Z",
+          "wordCount": 3917,
+          "title": "July 21, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-13.png"
+        },
         {
           "id": "687bd6f2cbfd6b0001f9f5e9",
           "author": "Joseph Ziegler",
