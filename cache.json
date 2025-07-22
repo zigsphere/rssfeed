@@ -339,16 +339,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250718152454/Connor.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=135701",
-          "author": "Kyle Bailey",
-          "description": "July 18, 2025 4:15 a.m. One more day of above normal temperatures is expected for Friday in the Umpqua Valley, before cooler conditions impact the region. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs in the low 90s are forecast. 86 degrees is the normal...",
-          "link": "https://kqennewsradio.com/2025/07/18/one-more-day-of-above-normal-temperatures-for-friday/?utm_source=rss&utm_medium=rss&utm_campaign=one-more-day-of-above-normal-temperatures-for-friday",
-          "publishedOn": "2025-07-18T11:17:16.000Z",
-          "wordCount": 1648,
-          "title": "ONE MORE DAY OF ABOVE NORMAL TEMPERATURES FOR FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -432,56 +422,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/9b/e9b43299-5434-46c9-af95-73f8ee11c687/6875310734c3f.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a91665f0-5973-4344-b36a-e926b457005f",
-          "author": "Maggie Dapp The News-Review",
-          "description": "The Douglas County Parks Department champions a story of success — one that leadership falls back on when speaking and their Public Information Officers (PIOs) infuse into marketing materials.",
-          "link": "https://www.nrtoday.com/news/what-s-up-with-douglas-county-parks/article_a91665f0-5973-4344-b36a-e926b457005f.html",
-          "publishedOn": "2025-07-18T15:00:00.000Z",
-          "wordCount": 13800,
-          "title": "What’s up with Douglas County Parks?",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a9/1a95da1a-d5b2-4236-9996-bb454fe3078d/687a5da60191e.image.jpg?resize=300%2C400",
-            "length": "439757",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a9/1a95da1a-d5b2-4236-9996-bb454fe3078d/687a5da60191e.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a5196820-84cb-4282-9366-75b9b19a50af",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "MELROSE — Friends of Umpqua Valley Police K9 Programs will host K9s in the Grapevines on Sept. 5 and tickets are now available.",
-          "link": "https://www.nrtoday.com/briefs/k9s-in-the-grapevines-returns-in-september/article_a5196820-84cb-4282-9366-75b9b19a50af.html",
-          "publishedOn": "2025-07-18T14:53:00.000Z",
-          "wordCount": 12064,
-          "title": "K9s in the Grapevines returns in September",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b02ba0a6-fd73-49d7-b42a-af08ede38810",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "YONCALLA — Caroline Luke has read enough books so far this summer to fill four reading logs for the summer reading program at Yoncalla Public Library.",
-          "link": "https://www.nrtoday.com/family/yoncalla-public-library-builds-birdhouses-prepares-to-wrap-up-summer-reading-program/article_b02ba0a6-fd73-49d7-b42a-af08ede38810.html",
-          "publishedOn": "2025-07-18T14:00:00.000Z",
-          "wordCount": 14002,
-          "title": "Yoncalla Public Library builds birdhouses, prepares to wrap up summer reading program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/3e/03eb9de1-5d1d-472c-a8db-91b992917719/6879032a79418.image.jpg?resize=300%2C200",
-            "length": "280213",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/3e/03eb9de1-5d1d-472c-a8db-91b992917719/6879032a79418.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e7594318-fafa-40fd-b46e-bf54638e73c6",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "GLIDE — The Bureau of Lane Management Roseburg District will reopen the Long Pine Group Campground in Glide on July 25 for individual site rental for the summer and fall season.",
-          "link": "https://www.nrtoday.com/briefs/blm-reopens-lone-pine-group-campground/article_e7594318-fafa-40fd-b46e-bf54638e73c6.html",
-          "publishedOn": "2025-07-18T13:30:00.000Z",
-          "wordCount": 13069,
-          "title": "BLM reopens Lone Pine Group Campground",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -656,16 +596,6 @@
           "wordCount": 1772,
           "title": "ARRESTS MADE IN CHILD EXPLOITATION AND ANIMAL ABUSE INVESTIGATION",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/arrest-1.png"
-        },
-        {
-          "id": "687a4ef4cbfd6b0001f9f44d",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/july-18-2025/",
-          "publishedOn": "2025-07-18T14:25:31.000Z",
-          "wordCount": 3791,
-          "title": "July 18, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-12.png"
         }
       ]
     }
