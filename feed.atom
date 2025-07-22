@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-22T19:13:41.354Z</updated>
+    <updated>2025-07-22T23:14:06.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 7.22.25]]></title>
+        <id>https://kqennewsradio.com/?p=135846</id>
+        <link href="https://kqennewsradio.com/2025/07/22/inside-douglas-county-7-22-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-7-22-25"/>
+        <updated>2025-07-22T20:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Live from Bellview, Washington, State Senator David Brock Smith talks about the Pacific Northwest Economic Region organization and the meetings that are taking place. He also talked about a potential Special Session of the Oregon State Legislature to deal with the Oregon Department of Transportation budget situation.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR TRESPASSING, WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=135843</id>
