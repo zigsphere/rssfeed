@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135849",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/07/22/true-wealth-7-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-7-22-25",
+          "publishedOn": "2025-07-23T00:12:12.000Z",
+          "wordCount": 1554,
+          "title": "TRUE WEALTH 7.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250722230403/TWR-07-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135846",
           "author": "Kyle Bailey",
           "description": "Live from Bellview, Washington, State Senator David Brock Smith talks about the Pacific Northwest Economic Region organization and the meetings that are taking place. He also talked about a potential Special Session of the Oregon State Legislature to deal with the Oregon Department of Transportation budget situation.",
@@ -374,16 +389,6 @@
           "wordCount": 1739,
           "title": "MYRTLE CREEK MAN JAILED FOLLOWING ALLEGED ELUDE, RECKLESS DRIVING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=135744",
-          "author": "Kyle Bailey",
-          "description": "July 21, 2025 6:40 a.m. A home and multiple vehicles are a total loss following a fire in Winston early Friday morning. Battalion Chief Mitch Doss of Central Douglas Fire & Rescue said just after 4:50 a.m. crews responded to the report of a fully engulfed home on Southeast Theodore Street. Doss said initial reports...",
-          "link": "https://kqennewsradio.com/2025/07/19/home-and-multiple-vehicles-a-total-loss-in-winston-fire-friday/?utm_source=rss&utm_medium=rss&utm_campaign=home-and-multiple-vehicles-a-total-loss-in-winston-fire-friday",
-          "publishedOn": "2025-07-19T13:41:47.000Z",
-          "wordCount": 1689,
-          "title": "HOME AND MULTIPLE VEHICLES A TOTAL LOSS IN WINSTON FIRE FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250719124132/theodore.jpg"
         }
       ]
     },
@@ -398,6 +403,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2cdd6ef9-e3ab-44a5-bcbb-814af1853afa",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS COUNTY — Glide High School Alumni will host the all school reunion Friday, Saturday and Sunday in and around Glide and Roseburg.",
+          "link": "https://www.nrtoday.com/news/education/glide-all-school-reunion-is-friday-sunday/article_2cdd6ef9-e3ab-44a5-bcbb-814af1853afa.html",
+          "publishedOn": "2025-07-22T19:37:00.000Z",
+          "wordCount": 12445,
+          "title": "Glide All School reunion is Friday-Sunday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8bef400b-501d-4221-9218-797ea50e955d",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "According to Oregon Department of Transportation (ODOT) manager Dan Metz, the incoming impacts to rural roadways as ODOT strives to maintain vital highways in the midst of layoffs will be like losing a dying limb.",
+          "link": "https://www.nrtoday.com/news/bracing-for-impacts-odot-layoffs-may-cause-impassable-rural-roads-dangerous-conditions/article_8bef400b-501d-4221-9218-797ea50e955d.html",
+          "publishedOn": "2025-07-22T15:00:00.000Z",
+          "wordCount": 13837,
+          "title": "Bracing for impacts: ODOT layoffs may cause impassable rural roads, dangerous conditions",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/41/94188170-8d14-57b8-bd19-851ffa9ac9e6/5c7706c5ebec5.image.jpg?resize=300%2C211",
+            "length": "538063",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/41/94188170-8d14-57b8-bd19-851ffa9ac9e6/5c7706c5ebec5.image.jpg?resize=300%2C211"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f2b4d753-cfc6-46d5-847f-f2cca9a56ec5",
           "author": "GLORIA COLEMAN The News-Review",
