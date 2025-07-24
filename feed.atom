@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-24T13:34:15.857Z</updated>
+    <updated>2025-07-24T16:16:43.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 6.24.25]]></title>
+        <id>https://kqennewsradio.com/?p=135926</id>
+        <link href="https://kqennewsradio.com/2025/07/24/morning-conversation-6-24-25-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-6-24-25-2"/>
+        <updated>2025-07-24T16:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library Director Kris Wiley has information about Harry Potter Day, happening this Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 24, 2025]]></title>
+        <id>68823a0fcbfd6b0001f9fb42</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/july-24-2025/"/>
+        <updated>2025-07-24T14:01:18.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prepare for summer fun in Myrtle Creek]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/65aaf1dd-4b1b-45ce-a2e1-226d94b5a575</id>

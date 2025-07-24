@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=135926",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Director Kris Wiley has information about Harry Potter Day, happening this Saturday.",
+          "link": "https://kqennewsradio.com/2025/07/24/morning-conversation-6-24-25-2/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-24-25-2",
+          "publishedOn": "2025-07-24T16:09:47.000Z",
+          "wordCount": 1556,
+          "title": "MORNING CONVERSATION 6.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250724150616/AM-CONV-07-24-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250724150931/kris-3-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=135922",
           "author": "Kyle Bailey",
           "description": "July 24, 2025 4:10 a.m. No new information is out regarding a fatal shooting Sunday night in Sutherlin. On Wednesday afternoon, Captain Kurt Sorensen of the Sutherlin Police Department told News Radio 93-9 FM and 1240 KQEN that there are no updates in the case. SPD and medical personnel were dispatched to a residence in...",
@@ -801,6 +816,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68823a0fcbfd6b0001f9fb42",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-24-2025/",
+          "publishedOn": "2025-07-24T14:01:18.000Z",
+          "wordCount": 4249,
+          "title": "July 24, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-17.png"
+        },
         {
           "id": "6881b29acbfd6b0001f9fb2a",
           "author": "Joseph Ziegler",
