@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-28T13:35:19.353Z</updated>
+    <updated>2025-07-28T16:19:53.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 28, 2025]]></title>
+        <id>68870118cbfd6b0001f9fe33</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/july-28-2025/"/>
+        <updated>2025-07-28T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WITH NORMAL SEASONAL TEMPERATURES EXPECTED TO CONTINUE]]></title>
         <id>https://kqennewsradio.com/?p=136031</id>
@@ -42,6 +52,16 @@
         <link href="https://kqennewsradio.com/2025/07/28/sba-relief-still-available-for-oregonians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sba-relief-still-available-for-oregonians"/>
         <updated>2025-07-28T10:13:30.000Z</updated>
         <summary type="html"><![CDATA[July 28, 2025 3:20 a.m.  The U.S. Small Business Administration is reminding eligible small businesses, private non-profits, and residents in Oregon of the August 25th deadline to apply for low interest federal disaster loans to offset physical damage caused by severe storms, flooding, landslides and mudslides that occurred between March 13th and 20th. The disaster...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COUNCIL WITH LENGTHY AGENDA FOR MONDAY NIGHT MEETING]]></title>
+        <id>https://kqennewsradio.com/?p=136019</id>
+        <link href="https://kqennewsradio.com/2025/07/28/council-with-lengthy-agenda-for-monday-night-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=council-with-lengthy-agenda-for-monday-night-meeting"/>
+        <updated>2025-07-28T10:08:48.000Z</updated>
+        <summary type="html"><![CDATA[July 28, 2025 3:05 a.m. The Roseburg City Council has a lengthy agenda for its meeting Monday night. Umpqua Community College Dean of Advanced Medical Program Partnerships Randy Hubbard will provide an update on the medical education programs at UCC. Councilors will have a Public Hearing on a proposed purchase of a Triple Combination Pumper...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
