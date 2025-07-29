@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136104",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osborne is in studio to cover a number of current topics involving the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2025/07/29/inside-douglas-county-7-29-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-7-29-25",
+          "publishedOn": "2025-07-29T20:07:13.000Z",
+          "wordCount": 1559,
+          "title": "INSIDE DOUGLAS COUNTY 7.29.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250729190448/IDC-07-29-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136102",
           "author": "Kyle Bailey",
           "description": "July 29, 2015 11:00 a.m.   In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre continues its summer musical, “Anastasia” through this Sunday. The production is on stage in the Jacoby Auditorium at Umpqua Community College. Based on the animated movie from 20th Century Fox, “Anastasia” is both a heartwarming and heart-wrenching dive into one of...",
@@ -502,21 +517,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/c2/6c268e81-6271-4f50-a7f8-c792abcf61ba/68855a5c848c9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bfaaceb7-0fef-451c-8202-2db0012d3988",
-          "author": "PATRICK MOORE The News-Review",
-          "description": "Zachary Alan Tall, 49, of Tiller, was sentenced Wednesday in Douglas County Circuit Court to the Residential Substance Abuse Treatment program, also known as RSAT.",
-          "link": "https://www.nrtoday.com/news/court/serial-burglar-gets-a-chance-at-rehabilitation/article_bfaaceb7-0fef-451c-8202-2db0012d3988.html",
-          "publishedOn": "2025-07-26T10:30:00.000Z",
-          "wordCount": 13113,
-          "title": "Serial burglar gets a chance at rehabilitation",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/12/91299a48-7edf-46df-90f8-af75c5274143/6881769777901.image.jpg?resize=300%2C225",
-            "length": "266814",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/12/91299a48-7edf-46df-90f8-af75c5274143/6881769777901.image.jpg?resize=300%2C225"
         }
       ]
     },
