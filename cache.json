@@ -467,6 +467,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6888e1f2cbfd6b0001fa0106",
+          "author": "Joseph Ziegler",
+          "description": "A Douglas County man, Izaiah Alvarez, 26, is facing charges including first-degree rape after an alleged assault at a Roseburg home. The victim reported waking to the incident. Alvarez claims it was consensual. He is being held on $50,000 bail. The case remains under investigation.",
+          "link": "https://www.roseburgscanner.com/douglas-county-man-charged-in-roseburg-assault-case/",
+          "publishedOn": "2025-07-29T15:01:09.000Z",
+          "wordCount": 1706,
+          "title": "Douglas County Man Charged in Roseburg Assault Case",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/lights.webp"
+        },
+        {
+          "id": "6888ce57cbfd6b0001f9ffbc",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-29-2025/",
+          "publishedOn": "2025-07-29T14:07:49.000Z",
+          "wordCount": 4309,
+          "title": "July 29, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-20.png"
+        },
+        {
           "id": "68870118cbfd6b0001f9fe33",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -475,6 +495,28 @@
           "wordCount": 4020,
           "title": "July 28, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-19.png"
+        }
+      ]
+    },
+    {
+      "title": "www.kezi.com - RSS Results for roseburg in news of type article",
+      "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+      "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/8ceca9fd-2632-436c-8062-6ebc64ab30f4",
+          "author": "Chelsea Deffenbacher",
+          "description": "A Douglas County man is facing serious charges following accusations of assaulting a woman in her home.",
+          "link": "https://www.kezi.com/news/local/roseburg-man-charged-with-rape-while-victim-slept-on-couch/article_8ceca9fd-2632-436c-8062-6ebc64ab30f4.html",
+          "publishedOn": "2025-07-28T17:56:00.000Z",
+          "wordCount": 8184,
+          "title": "Roseburg man charged with rape while victim slept on couch",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/77/077c2c1e-bac8-532f-a126-89637242233e/61a92ae312b7d.image.jpg?resize=300%2C169",
+            "length": "37823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/77/077c2c1e-bac8-532f-a126-89637242233e/61a92ae312b7d.image.jpg?resize=300%2C169"
         }
       ]
     }

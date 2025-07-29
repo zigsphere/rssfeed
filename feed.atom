@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-07-29T13:36:20.624Z</updated>
+    <updated>2025-07-29T15:11:05.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Man Charged in Roseburg Assault Case]]></title>
+        <id>6888e1f2cbfd6b0001fa0106</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-man-charged-in-roseburg-assault-case/"/>
+        <updated>2025-07-29T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[A Douglas County man, Izaiah Alvarez, 26, is facing charges including first-degree rape after an alleged assault at a Roseburg home. The victim reported waking to the incident. Alvarez claims it was consensual. He is being held on $50,000 bail. The case remains under investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 29, 2025]]></title>
+        <id>6888ce57cbfd6b0001f9ffbc</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/july-29-2025/"/>
+        <updated>2025-07-29T14:07:49.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIRE WEATHER WATCH FOR UMPQUA BASIN]]></title>
         <id>https://kqennewsradio.com/?p=136076</id>
@@ -104,6 +124,16 @@
         <summary type="html"><![CDATA[July 28, 2025 10:50 a.m.    Roseburg Police jailed one person and cited another following a reported theft incident on Saturday. An RPD report said just before 2:30 p.m. officers responded to a business in the 1300 block of Northeast Stephens Street after the store manager said a man had stolen a cordless drill set...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man charged with rape while victim slept on couch]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/8ceca9fd-2632-436c-8062-6ebc64ab30f4</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-charged-with-rape-while-victim-slept-on-couch/article_8ceca9fd-2632-436c-8062-6ebc64ab30f4.html"/>
+        <updated>2025-07-28T17:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A Douglas County man is facing serious charges following accusations of assaulting a woman in her home.]]></summary>
+        <author>
+            <name>Chelsea Deffenbacher</name>
         </author>
     </entry>
     <entry>
