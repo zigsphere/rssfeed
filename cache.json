@@ -614,6 +614,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6063107c-315c-48f4-8755-cb44112878c8",
+          "author": "Amelia Winkelman The News-Review",
+          "description": "A partnership between the city of Roseburg and OpenGov.com will bring a new online portal option to Roseburg residents.",
+          "link": "https://www.nrtoday.com/news/government/new-city-portal-launches-aug-1/article_6063107c-315c-48f4-8755-cb44112878c8.html",
+          "publishedOn": "2025-07-31T16:00:00.000Z",
+          "wordCount": 12439,
+          "title": "New city portal launches Aug. 1",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/bd/6bd4563b-ea69-4f13-bd0a-acc1ebc31f8a/688b7e35d5c22.image.jpg?resize=300%2C200",
+            "length": "245357",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/bd/6bd4563b-ea69-4f13-bd0a-acc1ebc31f8a/688b7e35d5c22.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e9c71acf-76f0-4457-bd6d-fdcf1cbf8469",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "GLIDE — The Oregon State University Extension Service has a Compost Tea 101 class coming soon.",
+          "link": "https://www.nrtoday.com/briefs/extension-to-host-compost-tea-101/article_e9c71acf-76f0-4457-bd6d-fdcf1cbf8469.html",
+          "publishedOn": "2025-07-31T14:53:00.000Z",
+          "wordCount": 12181,
+          "title": "Extension to host Compost Tea 101",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/43c6117f-bfd2-48b1-9643-f699d1d28e26",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — A group of community partners are presenting free Building Tomorrow Together – Back to School Bashes in August.",
+          "link": "https://www.nrtoday.com/briefs/community-partners-host-free-back-to-school-bashes/article_43c6117f-bfd2-48b1-9643-f699d1d28e26.html",
+          "publishedOn": "2025-07-31T14:49:00.000Z",
+          "wordCount": 12204,
+          "title": "Community partners host free back-to-school bashes",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0e8729f4-38b9-4646-87d0-a21263c84a33",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Clubhouse by Round Table Pizza, located on Stewart Parkway in Roseburg, will be closing Thursday for good.",
+          "link": "https://www.nrtoday.com/news/clubhouse-by-round-table-pizza-closes-thursday/article_0e8729f4-38b9-4646-87d0-a21263c84a33.html",
+          "publishedOn": "2025-07-31T10:15:00.000Z",
+          "wordCount": 13322,
+          "title": "Clubhouse by Round Table Pizza closes Thursday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3e0a0e12-dfc5-45c2-9c71-d8cea1294663",
           "author": "Amelia Winkelman The News-Review",
           "description": "In June, Don’s Mid Town Grill announced it was closing its Winston location following months of economic hardship that radiated beyond the restaurant.",
@@ -841,6 +886,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "688b7418cbfd6b0001fa0280",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/july-31-2025/",
+          "publishedOn": "2025-07-31T14:00:46.000Z",
+          "wordCount": 4064,
+          "title": "July 31, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-22.png"
+        },
         {
           "id": "688aef94cbfd6b0001fa026e",
           "author": "Joseph Ziegler",
