@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-01T13:33:30.015Z</updated>
+    <updated>2025-08-01T16:18:44.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 8.1.25]]></title>
+        <id>https://kqennewsradio.com/?p=136264</id>
+        <link href="https://kqennewsradio.com/2025/08/01/local-real-estate-today-8-1-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-8-1-25"/>
+        <updated>2025-08-01T16:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.1.25]]></title>
+        <id>https://kqennewsradio.com/?p=136260</id>
+        <link href="https://kqennewsradio.com/2025/08/01/morning-conversation-8-1-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-1-25"/>
+        <updated>2025-08-01T16:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Carey Rayburn of Good Co talks about the band’s unique jazzy sound and their concert at Riverbend Live! Friday night.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mt. Nebo Wildland Fire Scorches Four Acres; Drone Use Grounds Aerial Response]]></title>
+        <id>688ccae6cbfd6b0001fa0526</id>
+        <link href="https://www.roseburgscanner.com/mt-nebo-wildland-fire-scorches-four-acres-drone-use-grounds-aerial-response/"/>
+        <updated>2025-08-01T14:15:51.000Z</updated>
+        <summary type="html"><![CDATA[An estimated four-acre wildland fire ignited on Mt. Nebo near I-5 milepost 124 at 6:30 p.m. Thursday. DFPA, Roseburg Fire, and Central Douglas crews attacked by ground and air until drone interference grounded aircraft. By 9:57 p.m., 50% of the perimeter was trailed.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 1, 2025]]></title>
+        <id>688cc40acbfd6b0001fa03d9</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-1-2025/"/>
+        <updated>2025-08-01T14:01:15.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MT. NEBO FIRE 50 PERCENT TRAILED]]></title>
         <id>https://kqennewsradio.com/?p=136245</id>
