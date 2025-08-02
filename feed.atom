@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-02T16:16:13.805Z</updated>
+    <updated>2025-08-02T19:11:07.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG RECEIVES 0.05 INCHES OF PRECIPITATION IN JULY]]></title>
+        <id>https://kqennewsradio.com/?p=136308</id>
+        <link href="https://kqennewsradio.com/2025/08/02/roseburg-receives-0-05-inches-of-precipitation-in-july/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-receives-0-05-inches-of-precipitation-in-july"/>
+        <updated>2025-08-02T18:16:10.000Z</updated>
+        <summary type="html"><![CDATA[August 2, 2025 11:15 a.m.  The Roseburg Regional Airport received just 0.05 inches of precipitation in July. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the normal amount of rain for the month is 0.26 inches. However, forecasters said it is not unusual for Roseburg to...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COTTAGE GROVE MAN CITED AFTER DUII CRASH]]></title>
         <id>https://kqennewsradio.com/?p=136306</id>
