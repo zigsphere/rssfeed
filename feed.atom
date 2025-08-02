@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-01T23:14:27.196Z</updated>
+    <updated>2025-08-02T03:21:36.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FINAL UPDATE ON MILEPOST 124 FIRE ON MT. NEBO]]></title>
+        <id>https://kqennewsradio.com/?p=136297</id>
+        <link href="https://kqennewsradio.com/2025/08/01/final-update-on-milepost-124-fire-on-mt-nebo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=final-update-on-milepost-124-fire-on-mt-nebo"/>
+        <updated>2025-08-01T23:25:07.000Z</updated>
+        <summary type="html"><![CDATA[August 1, 2205 4:30 p.m.  The Milepost 124 Fire on Mt. Nebo is 75 percent mopped up, as of Friday afternoon. The final update on the fire from the Douglas Forest Protective Association said response to the fire began Thursday night at about 6:30 p.m. Crews from DFPA, Roseburg Fire Department, Central Douglas Fire &...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UPTD's weekend busses to stop rolling next month amid funding concerns]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/b9812837-e52e-43b9-930a-13dae5af0e9f</id>
@@ -998,26 +1008,6 @@ Christopher Alan Page, age 41, of Roseburg, was cited for interfering with a fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Douglas County Man Charged in Roseburg Assault Case]]></title>
-        <id>6888e1f2cbfd6b0001fa0106</id>
-        <link href="https://www.roseburgscanner.com/douglas-county-man-charged-in-roseburg-assault-case/"/>
-        <updated>2025-07-29T15:01:09.000Z</updated>
-        <summary type="html"><![CDATA[A Douglas County man, Izaiah Alvarez, 26, is facing charges including first-degree rape after an alleged assault at a Roseburg home. The victim reported waking to the incident. Alvarez claims it was consensual. He is being held on $50,000 bail. The case remains under investigation.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 29, 2025]]></title>
-        <id>6888ce57cbfd6b0001f9ffbc</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/july-29-2025/"/>
-        <updated>2025-07-29T14:07:49.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wizards, snakes and all things fantastic show up to Roseburg Public Library]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/0c8c0571-7ac0-41b1-a1cc-e24b1c9b6b2e</id>
         <link href="https://www.nrtoday.com/news/environment/wizards-snakes-and-all-things-fantastic-show-up-to-roseburg-public-library/article_0c8c0571-7ac0-41b1-a1cc-e24b1c9b6b2e.html"/>
@@ -1025,26 +1015,6 @@ Christopher Alan Page, age 41, of Roseburg, was cited for interfering with a fir
         <summary type="html"><![CDATA[Ashton Olson handed out items to create keys for children at Roseburg Public Library on Saturday morning during the annual Harry Potter Day.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIRE WEATHER WATCH FOR UMPQUA BASIN]]></title>
-        <id>https://kqennewsradio.com/?p=136076</id>
-        <link href="https://kqennewsradio.com/2025/07/29/fire-weather-watch-for-umpqua-basin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fire-weather-watch-for-umpqua-basin"/>
-        <updated>2025-07-29T11:29:41.000Z</updated>
-        <summary type="html"><![CDATA[July 29, 2025 4:30 a.m.  A Fire Weather Watch is in place for the Umpqua Basin from Wednesday evening through Thursday morning for abundant lightning on dry fuels. This could result in the potential for new fire starts. Forecasters at the National Weather Service in Medford said isolated to scattered thunderstorms with dry lightning are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STATE POLICE JAIL MAN FOR REPORTED MENACING INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=136074</id>
-        <link href="https://kqennewsradio.com/2025/07/29/state-police-jail-man-for-reported-menacing-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=state-police-jail-man-for-reported-menacing-incident"/>
-        <updated>2025-07-29T11:14:57.000Z</updated>
-        <summary type="html"><![CDATA[July 29, 2025 4:10 a.m.   Troopers with the Oregon State Police jailed a man following a reported menacing incident on Sunday afternoon. An OSP report said just before 5:00 p.m. troopers were dispatched to Interstate 5 northbound in the Weaver Road area after a caller said there had been a past domestic violence incident. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
