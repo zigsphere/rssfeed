@@ -539,16 +539,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136136",
-          "author": "Kyle Bailey",
-          "description": "July 30, 2025 7:00 a.m. The next round of thunderstorms will spread across southern Oregon on Wednesday afternoon and evening. Another round of thunderstorms will develop Thursday afternoon and evening. A Red Flag Warning is in effect from 2:00 p.m. through 11:00 p.m. Wednesday for a wide area of southern Oregon including the Southern Oregon...",
-          "link": "https://kqennewsradio.com/2025/07/30/red-flag-warning-for-parts-of-southern-oregon-starts-wednesday-afternoon-2/?utm_source=rss&utm_medium=rss&utm_campaign=red-flag-warning-for-parts-of-southern-oregon-starts-wednesday-afternoon-2",
-          "publishedOn": "2025-07-30T14:00:46.000Z",
-          "wordCount": 1668,
-          "title": "RED FLAG WARNING FOR PARTS OF SOUTHERN OREGON STARTS WEDNESDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250730130030/Newfire.png"
         }
       ]
     },
@@ -922,6 +912,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "688e9bd6cbfd6b0001fa058f",
+          "author": "Joseph Ziegler",
+          "description": "Project Skywatch has released a stunning 360° drone preview of our future mountaintop camera location, showcasing panoramic views and hinting at the capabilities of our 30× zoom PTZ system. Watch the full video and join us as we prepare for live streaming later this year!",
+          "link": "https://www.roseburgscanner.com/project-skywatch-captures-first-360deg-preview-of-future-watchtower/",
+          "publishedOn": "2025-08-02T23:22:16.000Z",
+          "wordCount": 1813,
+          "title": "Project Skywatch Captures First 360° Preview of Future Camera View",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/skywatch.png"
+        },
+        {
           "id": "688d0ee2cbfd6b0001fa0573",
           "author": "Joseph Ziegler",
           "description": "A rapidly spreading vegetation fire broke out at approximately 6:30 p.m. on July 31, 2025, near Milepost 124 on Interstate 5 southbound, affecting the hillside of Mount Nebo in Roseburg. Multiple agencies quickly mobilized, including crews from the Roseburg Fire Department, Douglas Forest Protective Association (DFPA), Central Douglas",
@@ -990,16 +990,6 @@
           "wordCount": 1850,
           "title": "New Wildfires Ignite in Cascade Range Following Recent Thunderstorms",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/wf_alert.png"
-        },
-        {
-          "id": "688a1fc1cbfd6b0001fa011e",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/july-30-2025/",
-          "publishedOn": "2025-07-30T13:53:05.000Z",
-          "wordCount": 4139,
-          "title": "July 30, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/07/The-Morning-Scoop-21.png"
         }
       ]
     },

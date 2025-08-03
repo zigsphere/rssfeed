@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-02T23:14:11.100Z</updated>
+    <updated>2025-08-03T03:45:57.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Skywatch Captures First 360° Preview of Future Camera View]]></title>
+        <id>688e9bd6cbfd6b0001fa058f</id>
+        <link href="https://www.roseburgscanner.com/project-skywatch-captures-first-360deg-preview-of-future-watchtower/"/>
+        <updated>2025-08-02T23:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Project Skywatch has released a stunning 360° drone preview of our future mountaintop camera location, showcasing panoramic views and hinting at the capabilities of our 30× zoom PTZ system. Watch the full video and join us as we prepare for live streaming later this year!]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG RECEIVES 0.05 INCHES OF PRECIPITATION IN JULY]]></title>
         <id>https://kqennewsradio.com/?p=136308</id>
@@ -825,26 +835,6 @@ Christopher Alan Page, age 41, of Roseburg, was cited for interfering with a fir
         <summary type="html"><![CDATA[DOUGLAS COUNTY — A Fire Weather Watch is in place for the Umpqua Basin from Wednesday evening through Thursday morning for abundant lightning on dry fuels.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RED FLAG WARNING FOR PARTS OF SOUTHERN OREGON STARTS WEDNESDAY AFTERNOON]]></title>
-        <id>https://kqennewsradio.com/?p=136136</id>
-        <link href="https://kqennewsradio.com/2025/07/30/red-flag-warning-for-parts-of-southern-oregon-starts-wednesday-afternoon-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=red-flag-warning-for-parts-of-southern-oregon-starts-wednesday-afternoon-2"/>
-        <updated>2025-07-30T14:00:46.000Z</updated>
-        <summary type="html"><![CDATA[July 30, 2025 7:00 a.m. The next round of thunderstorms will spread across southern Oregon on Wednesday afternoon and evening. Another round of thunderstorms will develop Thursday afternoon and evening. A Red Flag Warning is in effect from 2:00 p.m. through 11:00 p.m. Wednesday for a wide area of southern Oregon including the Southern Oregon...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 30, 2025]]></title>
-        <id>688a1fc1cbfd6b0001fa011e</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/july-30-2025/"/>
-        <updated>2025-07-30T13:53:05.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
