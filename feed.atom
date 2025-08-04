@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-04T13:33:21.705Z</updated>
+    <updated>2025-08-04T13:37:12.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -104,6 +104,16 @@
         <summary type="html"><![CDATA[August 2, 2025 8:30 a.m.    A Roseburg man was cited following a single-vehicle accident on Friday. A Douglas County Sheriff’s Office report said just after 4:00 p.m. the 199-year-old was driving northbound on in the 1400 block of Roberts Mountain Road when he lost control of his pickup while coming around a corner. The...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLM timber sales in Oregon bring in nearly $13.5 million]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3638194a-94d0-4390-8814-325b0633ed2e</id>
+        <link href="https://www.nrtoday.com/business/blm-timber-sales-in-oregon-bring-in-nearly-13-5-million/article_3638194a-94d0-4390-8814-325b0633ed2e.html"/>
+        <updated>2025-08-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July Bureau of Land Management timber sales in Oregon brought in nearly $13.5 million, supporting local jobs, local economies and sustainable forest management.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -475,166 +485,6 @@ Christopher Alan Page, age 41, of Roseburg, was cited for interfering with a fir
         <summary type="html"><![CDATA[August 1, 2025 2:50 a.m.   The Winston-Dillard School District continues its summer meal distribution program until the middle of this month. Grab-n -Go Breakfasts and Lunches are available Mondays through Thursdays through August 14th. The free meals are for all those up to age 18 and include the choice of a hot or cold meal,...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free summer meal distribution continues for South Umpqua youth]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6c22f8f2-372e-4688-8c63-a3ed76cf135a</id>
-        <link href="https://www.nrtoday.com/briefs/free-summer-meal-distribution-continues-for-south-umpqua-youth/article_6c22f8f2-372e-4688-8c63-a3ed76cf135a.html"/>
-        <updated>2025-07-31T16:26:00.000Z</updated>
-        <summary type="html"><![CDATA[SOUTH DOUGLAS COUNTY — Free summer meal distribution continues in the South Umpqua School District.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heat up summer with Zumba in the Park]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1d3609a7-eaa3-4317-b058-106457937926</id>
-        <link href="https://www.nrtoday.com/a_and_e/heat-up-summer-with-zumba-in-the-park/article_1d3609a7-eaa3-4317-b058-106457937926.html"/>
-        <updated>2025-07-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To get outdoors and open Zumba classes up to the public, the YMCA’s Wednesday evening class moves to Stewart Park during the summer.]]></summary>
-        <author>
-            <name>Amelia Winkelman The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New city portal launches Aug. 1]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6063107c-315c-48f4-8755-cb44112878c8</id>
-        <link href="https://www.nrtoday.com/news/government/new-city-portal-launches-aug-1/article_6063107c-315c-48f4-8755-cb44112878c8.html"/>
-        <updated>2025-07-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A partnership between the city of Roseburg and OpenGov.com will bring a new online portal option to Roseburg residents.]]></summary>
-        <author>
-            <name>Amelia Winkelman The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extension to host Compost Tea 101]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e9c71acf-76f0-4457-bd6d-fdcf1cbf8469</id>
-        <link href="https://www.nrtoday.com/briefs/extension-to-host-compost-tea-101/article_e9c71acf-76f0-4457-bd6d-fdcf1cbf8469.html"/>
-        <updated>2025-07-31T14:53:00.000Z</updated>
-        <summary type="html"><![CDATA[GLIDE — The Oregon State University Extension Service has a Compost Tea 101 class coming soon.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community partners host free back-to-school bashes]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/43c6117f-bfd2-48b1-9643-f699d1d28e26</id>
-        <link href="https://www.nrtoday.com/briefs/community-partners-host-free-back-to-school-bashes/article_43c6117f-bfd2-48b1-9643-f699d1d28e26.html"/>
-        <updated>2025-07-31T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — A group of community partners are presenting free Building Tomorrow Together – Back to School Bashes in August.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubhouse by Round Table Pizza closes Thursday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0e8729f4-38b9-4646-87d0-a21263c84a33</id>
-        <link href="https://www.nrtoday.com/news/clubhouse-by-round-table-pizza-closes-thursday/article_0e8729f4-38b9-4646-87d0-a21263c84a33.html"/>
-        <updated>2025-07-31T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Clubhouse by Round Table Pizza, located on Stewart Parkway in Roseburg, will be closing Thursday for good.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’s Mid Town Grill and its former employees endure financial hardship]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3e0a0e12-dfc5-45c2-9c71-d8cea1294663</id>
-        <link href="https://www.nrtoday.com/business/local_biz/don-s-mid-town-grill-and-its-former-employees-endure-financial-hardship/article_3e0a0e12-dfc5-45c2-9c71-d8cea1294663.html"/>
-        <updated>2025-07-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In June, Don’s Mid Town Grill announced it was closing its Winston location following months of economic hardship that radiated beyond the restaurant.]]></summary>
-        <author>
-            <name>Amelia Winkelman The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua River Lighthouse, Museum and Gift Shop receive Tripadvisor award]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8f75fb77-0bbb-43bd-8602-18011c404e98</id>
-        <link href="https://www.nrtoday.com/news/local/umpqua-river-lighthouse-museum-and-gift-shop-receive-tripadvisor-award/article_8f75fb77-0bbb-43bd-8602-18011c404e98.html"/>
-        <updated>2025-07-30T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER BAY — The Umpqua River Lighthouse, Museum and Gift Shop has been recognized as one of the world's best destinations. Douglas County commissioners announced Thursday that the museum has received a Tripadvisor Travelers' Choice Award for 2025.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Fair begins in one week]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/93169802-f13c-4020-976f-ba3307e00a04</id>
-        <link href="https://www.nrtoday.com/briefs/douglas-county-fair-begins-in-one-week/article_93169802-f13c-4020-976f-ba3307e00a04.html"/>
-        <updated>2025-07-30T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The 2025 Douglas County Fair begins in one week.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senate Bill 95 brings new judge to Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/197f576a-203a-43ce-a496-c51e6db50b6b</id>
-        <link href="https://www.nrtoday.com/briefs/senate-bill-95-brings-new-judge-to-douglas-county/article_197f576a-203a-43ce-a496-c51e6db50b6b.html"/>
-        <updated>2025-07-30T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — On July 24, Gov. Kotek signed Senate Bill 95 into law. The legislation creates new judicial positions for Douglas, Lane and Clackamas counties.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Weather Watch issued for Umpqua Basin]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/61e51f55-c9c7-49ff-a374-a85c5c1988d7</id>
-        <link href="https://www.nrtoday.com/briefs/fire-weather-watch-issued-for-umpqua-basin/article_61e51f55-c9c7-49ff-a374-a85c5c1988d7.html"/>
-        <updated>2025-07-30T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — A Fire Weather Watch is in place for the Umpqua Basin from Wednesday evening through Thursday morning for abundant lightning on dry fuels.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community shows up for Breabach at the half shell]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/df28549d-c5f8-412e-b7c4-f59098e067f3</id>
-        <link href="https://www.nrtoday.com/a_and_e/community-shows-up-for-breabach-at-the-half-shell/article_df28549d-c5f8-412e-b7c4-f59098e067f3.html"/>
-        <updated>2025-07-30T05:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The hill in Stewart Park was covered in people as the Douglas County community listened, danced or swayed to the Scottish band Breabach on Tuesday during Music on the Half Shell.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowers and food: Local businesses transition to new storefronts]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0be41b27-7512-4ed1-a1ae-59f3291441af</id>
-        <link href="https://www.nrtoday.com/news/flowers-and-food-local-businesses-transition-to-new-storefronts/article_0be41b27-7512-4ed1-a1ae-59f3291441af.html"/>
-        <updated>2025-07-29T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In Douglas County, two businesses are adjusting to new business models, with one increasing in size and the other scaling back. Here’s what to know about what’s changing for Roseburg-based The Soup and Salad Shop and Sutherlin-based Country Flowers:]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County outreach programs aim to build rural resilience]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/b097f912-9627-4edf-9d53-27cb53177199</id>
-        <link href="https://www.nrtoday.com/news/douglas-county-outreach-programs-aim-to-build-rural-resilience/article_b097f912-9627-4edf-9d53-27cb53177199.html"/>
-        <updated>2025-07-29T18:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County’s Emergency Management Department is aiming to help its hardest to reach residents with two additions to its Rural Outreach Programs, according to a July 23 Douglas County Board of Commissioners press release.]]></summary>
-        <author>
-            <name>Maggie Dapp The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loans available for homes, businesses, nonprofits, renters affected by March floods]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/731088b5-e54f-4a34-8058-46d752c4112d</id>
-        <link href="https://www.nrtoday.com/business/loans-available-for-homes-businesses-nonprofits-renters-affected-by-march-floods/article_731088b5-e54f-4a34-8058-46d752c4112d.html"/>
-        <updated>2025-07-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The United States Small Business Administration (SBA) is in Roseburg offering loans for residences — including rentals — businesses and nonprofit organizations in Coos, Curry and Douglas counties affected by floods March 12-20.]]></summary>
-        <author>
-            <name>Amelia Winkelman The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wizards, snakes and all things fantastic show up to Roseburg Public Library]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0c8c0571-7ac0-41b1-a1cc-e24b1c9b6b2e</id>
-        <link href="https://www.nrtoday.com/news/environment/wizards-snakes-and-all-things-fantastic-show-up-to-roseburg-public-library/article_0c8c0571-7ac0-41b1-a1cc-e24b1c9b6b2e.html"/>
-        <updated>2025-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ashton Olson handed out items to create keys for children at Roseburg Public Library on Saturday morning during the annual Harry Potter Day.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
