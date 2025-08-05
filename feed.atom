@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-05T13:37:09.486Z</updated>
+    <updated>2025-08-05T16:15:53.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[August 5, 2025]]></title>
+        <id>68920a3dcbfd6b0001fa07cf</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-5-2025/"/>
+        <updated>2025-08-05T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fair opens tomorrow]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c0de54e2-af6d-49a2-b63f-dd3f935f26da</id>
+        <link href="https://www.nrtoday.com/a_and_e/douglas-county-fair-opens-tomorrow/article_c0de54e2-af6d-49a2-b63f-dd3f935f26da.html"/>
+        <updated>2025-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Fairgrounds was abuzz with people, animals, large trucks and more as final preparations for the Douglas County Fair were underway. A group of women used the cooler weather Monday afternoon to begin setting up equipment under the…]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NO ONE HURT IN  TWO-VEHICLE CRASH SUNDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=136370</id>

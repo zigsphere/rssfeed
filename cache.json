@@ -279,6 +279,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c0de54e2-af6d-49a2-b63f-dd3f935f26da",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Douglas County Fairgrounds was abuzz with people, animals, large trucks and more as final preparations for the Douglas County Fair were underway. A group of women used the cooler weather Monday afternoon to begin setting up equipment under the…",
+          "link": "https://www.nrtoday.com/a_and_e/douglas-county-fair-opens-tomorrow/article_c0de54e2-af6d-49a2-b63f-dd3f935f26da.html",
+          "publishedOn": "2025-08-05T14:00:00.000Z",
+          "wordCount": 14395,
+          "title": "Douglas County Fair opens tomorrow",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b7/bb7d2016-5b13-465b-a2a6-a8aea5e07643/68918960032df.image.jpg?resize=300%2C197",
+            "length": "336049",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b7/bb7d2016-5b13-465b-a2a6-a8aea5e07643/68918960032df.image.jpg?resize=300%2C197"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/66ef2c4f-3dbc-4c5a-ae0b-5a4e3dc59073",
           "author": "Oregon Journalism Project",
           "description": "Oregon Secretary of State Tobias Read’s Elections Division has opened an investigation of the Umpqua Public Transit District’s response to a hotly contested May election result.",
@@ -351,6 +366,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68920a3dcbfd6b0001fa07cf",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-5-2025/",
+          "publishedOn": "2025-08-05T14:00:57.000Z",
+          "wordCount": 3969,
+          "title": "August 5, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-2.png"
+        },
         {
           "id": "6890c1f9cbfd6b0001fa0785",
           "author": "Joseph Ziegler",
