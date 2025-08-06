@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-05T23:14:26.927Z</updated>
+    <updated>2025-08-06T03:39:28.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Idleyld Park river rescues: one life saved, one lost in swift currents]]></title>
+        <id>6892c976cbfd6b0001fa092f</id>
+        <link href="https://www.roseburgscanner.com/idleyld-park-river-rescues-one-life-saved-one-lost-in-swift-currents/"/>
+        <updated>2025-08-06T03:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Emergency crews responded to two river rescues along the North Umpqua Saturday. A Myrtle Creek woman was rescued after being swept downstream, while a separate incident near milepost 24.5 resulted in the drowning death of 50-year-old Jonathon Vasquez of Mapleton.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 8.5.25]]></title>
+        <id>https://kqennewsradio.com/?p=136397</id>
+        <link href="https://kqennewsradio.com/2025/08/05/true-wealth-8-5-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-8-5-25"/>
+        <updated>2025-08-06T00:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWO RIVER RESCUES ON NORTH UMPQUA: ONE FATALITY, ONE INJURED SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=136394</id>
@@ -442,16 +462,6 @@
         <link href="https://kqennewsradio.com/2025/08/02/cottage-grove-man-cited-after-duii-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cottage-grove-man-cited-after-duii-crash"/>
         <updated>2025-08-02T15:48:41.000Z</updated>
         <summary type="html"><![CDATA[August 2, 2025 8:50 a.m.     A Cottage Grove man was cited after a DUII crash early Saturday. A Douglas County Sheriff’s Office report said shortly before 2:30 a.m. the 18-year-old was driving westbound on Bear Creek Road near the intersection with Jacob Acers Lane in the Curtin area, when he overcorrected and wrecked, causing...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG MAN CITED FOLLOWING SINGLE-VEHICLE ACCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=136304</id>
-        <link href="https://kqennewsradio.com/2025/08/02/roseburg-man-cited-following-single-vehicle-accident-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-cited-following-single-vehicle-accident-2"/>
-        <updated>2025-08-02T15:35:27.000Z</updated>
-        <summary type="html"><![CDATA[August 2, 2025 8:30 a.m.    A Roseburg man was cited following a single-vehicle accident on Friday. A Douglas County Sheriff’s Office report said just after 4:00 p.m. the 199-year-old was driving northbound on in the 1400 block of Roberts Mountain Road when he lost control of his pickup while coming around a corner. The...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
