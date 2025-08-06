@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136416",
+          "author": "Kyle Bailey",
+          "description": "Live from the Douglas County Fairgrounds, Fairgrounds Complex Manager Ciera Keith talks about what’s happening at the fair this week.",
+          "link": "https://kqennewsradio.com/2025/08/06/morning-conversation-8-6-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-6-25",
+          "publishedOn": "2025-08-06T16:12:23.000Z",
+          "wordCount": 1559,
+          "title": "MORNING CONVERSATION 8.6.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250806150535/AM-CONV-08-06-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241024094506/Keith-Ciera_Fairgrounds_2022-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136411",
           "author": "Kyle Bailey",
           "description": "August 6, 2025 3:50 a.m.  The Umpqua Valley will see above normal high temperatures starting Friday, with the mercury peaking on Sunday and Monday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the region will enjoy normal high temperatures for early August on Wednesday and Thursday...",
@@ -531,6 +546,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "689359cacbfd6b0001fa0944",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-6-2025/",
+          "publishedOn": "2025-08-06T14:00:09.000Z",
+          "wordCount": 4330,
+          "title": "August 6, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-3.png"
+        },
         {
           "id": "6892c976cbfd6b0001fa092f",
           "author": "Joseph Ziegler",
