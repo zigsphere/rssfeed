@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-07T19:15:58.772Z</updated>
+    <updated>2025-08-07T23:14:54.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remembering the Roseburg Blast: August 7, 1959]]></title>
+        <id>689521d7cbfd6b0001fa0c44</id>
+        <link href="https://www.roseburgscanner.com/remembering-the-roseburg-blast-august-7-1959/"/>
+        <updated>2025-08-07T22:03:33.000Z</updated>
+        <summary type="html"><![CDATA[66 years ago today, the Roseburg Blast devastated downtown Roseburg, Oregon. The 1959 explosion destroyed city blocks, claimed lives, and forever changed the community, leaving a legacy of resilience and remembrance that endures each August 7th.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 8.7.25]]></title>
+        <id>https://kqennewsradio.com/?p=136509</id>
+        <link href="https://kqennewsradio.com/2025/08/07/inside-douglas-county-8-7-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-8-7-25"/>
+        <updated>2025-08-07T20:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Fourth District Congresswoman Val Hoyle shares her perspective regarding the first half of the year in Congress and actions that have taken place.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXTREME HEAT WATCH FOR SUNDAY MORNING THROUGH MONDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=136505</id>
@@ -774,66 +794,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY TO SEE MORE DRY WEATHER, WARMING TREND STARTS THURSDAY]]></title>
-        <id>https://kqennewsradio.com/?p=136326</id>
-        <link href="https://kqennewsradio.com/2025/08/04/umpqua-valley-to-see-more-dry-weather-warming-trend-starts-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-to-see-more-dry-weather-warming-trend-starts-thursday"/>
-        <updated>2025-08-04T10:58:57.000Z</updated>
-        <summary type="html"><![CDATA[August 4, 2025 3:50 a.m.  The Umpqua Valley will see more dry weather, with a warming tend starting Thursday and the potential for triple digits by Sunday. Forecasters at the National Weather Service told News Radio 93-9 FM and 1240 KQEN that afternoon highs will remain around seasonal norms for the first part of the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG CITY COUNCIL WITH SPECIAL MEETING MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=136323</id>
-        <link href="https://kqennewsradio.com/2025/08/04/roseburg-city-council-with-special-meeting-monday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-city-council-with-special-meeting-monday-night"/>
-        <updated>2025-08-04T10:41:36.000Z</updated>
-        <summary type="html"><![CDATA[August 4, 2025 3:40 a.m.  The Roseburg City Council has a special meeting Monday night, as discussion continues regarding a proposal to turn a section of the Fir Grove Park soccer fields into two turfed fields. The idea received a lengthy amount of debate at last week’s council meeting, but no decision was made. Staff...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REEDSPORT CITY COUNCIL WITH WORK SESSION AND REGULAR MEETING]]></title>
-        <id>https://kqennewsradio.com/?p=136321</id>
-        <link href="https://kqennewsradio.com/2025/08/04/reedsport-city-council-with-work-session-and-regular-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reedsport-city-council-with-work-session-and-regular-meeting"/>
-        <updated>2025-08-04T10:38:42.000Z</updated>
-        <summary type="html"><![CDATA[August 4, 2025 3:30 a.m.  Covering Coastal Douglas County: The Reedsport City Council has a busy evening on its Monday night agenda. Councilors will gather at 6:00 p.m. for a Work Session. They will receive an update on League of Oregon Cities priorities for 2025-26, review draft council rules, and more. At 7:00 p.m. the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPTD SUSPENDS WEEKEND SERVICE DUE TO STATEWIDE FUNDING CRISIS]]></title>
-        <id>https://kqennewsradio.com/?p=136318</id>
-        <link href="https://kqennewsradio.com/2025/08/04/uptd-suspends-weekend-service-due-to-statewide-funding-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uptd-suspends-weekend-service-due-to-statewide-funding-crisis"/>
-        <updated>2025-08-04T10:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Photo credit: Nathan Miller August 4, 2025 3:20 a.m. The Umpqua Public Transit District recently announced the indefinite suspension of all its weekend transit service, beginning this Saturday, August 9th. A UPTD release said the move is due to a statewide funding freeze and a breakdown in federal disbursements. Despite maintaining full compliance with all...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY FARM TO SCHOOL WITH “GARDEN HAPPY HOUR”]]></title>
-        <id>https://kqennewsradio.com/?p=136314</id>
-        <link href="https://kqennewsradio.com/2025/08/04/umpqua-valley-farm-to-school-with-garden-happy-hour/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-farm-to-school-with-garden-happy-hour"/>
-        <updated>2025-08-04T10:26:46.000Z</updated>
-        <summary type="html"><![CDATA[August 4, 2025 3:05 a.m.  Umpqua Valley Farm to School invites the community to its new “Garden Happy Hour” series. The event began on July 10th and is continuing the second and fourth Thursday of the month from 5:00 p.m. to 6:30 p.m. at the Umpqua Dairy Garden, located at 1240 Southeast Mill Street in...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FORT UMPQUA DAYS RETURNING TO ECEC FOR LABOR DAY WEEKEND]]></title>
-        <id>https://kqennewsradio.com/?p=136311</id>
-        <link href="https://kqennewsradio.com/2025/08/04/fort-umpqua-days-returning-to-ecec-for-labor-day-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fort-umpqua-days-returning-to-ecec-for-labor-day-weekend"/>
-        <updated>2025-08-04T10:14:22.000Z</updated>
-        <summary type="html"><![CDATA[August 4, 2025 2:50 a.m.  Fort Umpqua Days returns to the Elkton Community Education Center, on Saturday and Sunday, August 30th and 31st. The annual festival is designed to help attendees take a step back in time and celebrate the local heritage by bringing together history, family fun, food and community spirit at the unique...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
