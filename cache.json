@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136487",
+          "author": "Kyle Bailey",
+          "description": "Douglas Forest Protective Association Public Information Officer Rachel Pope talks about the move to Extreme Public Use Restrictions, effective Sunday",
+          "link": "https://kqennewsradio.com/2025/08/07/morning-conversation-8-7-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-7-25",
+          "publishedOn": "2025-08-07T16:13:41.000Z",
+          "wordCount": 1629,
+          "title": "MORNING CONVERSATION 8.7.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250807150625/AM-CONV-08-07-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250807151329/rach-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136476",
           "author": "Kyle Bailey",
           "description": "August 7, 2025 3:50 a.m. The Umpqua Valley has one more day in the low to mid 80s, before warming begins on Friday, and heats up each day before peaking on Sunday and Monday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that afternoon highs should increase...",
@@ -731,6 +746,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6894ab6fcbfd6b0001fa0ade",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-7-2025/",
+          "publishedOn": "2025-08-07T13:53:54.000Z",
+          "wordCount": 4437,
+          "title": "August 7, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-4.png"
+        },
         {
           "id": "6893d33bcbfd6b0001fa0abd",
           "author": "Joseph Ziegler",
