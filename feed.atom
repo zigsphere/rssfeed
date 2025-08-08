@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-08T13:34:24.595Z</updated>
+    <updated>2025-08-08T16:16:31.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.8.25]]></title>
+        <id>https://kqennewsradio.com/?p=136539</id>
+        <link href="https://kqennewsradio.com/2025/08/08/morning-conversation-8-8-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-8-25"/>
+        <updated>2025-08-08T16:12:08.000Z</updated>
+        <summary type="html"><![CDATA[The News Review Managing Editor Drew Winkelmaier talks about Friday’s print edition of the paper, including special coverage of the anniversary of the 1959 Roseburg Blast, which was on Thursday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The preacher and the teacher]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2c1594e6-7670-481f-a98b-0f533688e2ee</id>
+        <link href="https://www.nrtoday.com/news/history/the-preacher-and-the-teacher/article_2c1594e6-7670-481f-a98b-0f533688e2ee.html"/>
+        <updated>2025-08-08T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Editor's note: This is an except from "The story of our years at St. George's as told by Father Alfred S. Tyson 1949-1978, and had been edited to feature only the information relevant to the Blast."]]></summary>
+        <author>
+            <name>ereynolds@nrtoday.com (Erica Reynolds)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Heat Watch for Sunday morning through Monday night]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d65152de-cfdc-4d4f-9fea-b753c619c0c4</id>
+        <link href="https://www.nrtoday.com/briefs/extreme-heat-watch-for-sunday-morning-through-monday-night/article_d65152de-cfdc-4d4f-9fea-b753c619c0c4.html"/>
+        <updated>2025-08-08T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — An Extreme Heat Watch is in effect for Sunday morning through late Monday night for parts of Southern Oregon.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 8, 2025]]></title>
+        <id>6895fccdcbfd6b0001fa0c5b</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-8-2025/"/>
+        <updated>2025-08-08T13:50:04.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXTREME HEAT WATCH SUNDAY MORNING THROUGH EARLY TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=136531</id>
@@ -177,6 +217,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remembering the 1959 Roseburg blast]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/10f8401b-e280-41d1-9206-e71c66b11a64</id>
+        <link href="https://www.nrtoday.com/news/history/remembering-the-1959-roseburg-blast/article_10f8401b-e280-41d1-9206-e71c66b11a64.html"/>
+        <updated>2025-08-07T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Early Aug. 7, 1959, a red truck loaded with explosives erupted in downtown Roseburg, killing 14 people, injuring more than 120 and flattening entire blocks of the city’s core.]]></summary>
+        <author>
+            <name>DREW WINKELMAIER The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MORNING CONVERSATION 8.7.25]]></title>
         <id>https://kqennewsradio.com/?p=136487</id>
         <link href="https://kqennewsradio.com/2025/08/07/morning-conversation-8-7-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-7-25"/>
@@ -184,6 +234,26 @@
         <summary type="html"><![CDATA[Douglas Forest Protective Association Public Information Officer Rachel Pope talks about the move to Extreme Public Use Restrictions, effective Sunday]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dock Dogs and more at the Douglas County Fair]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e73ad81f-aa13-476b-8a2c-53db815138ac</id>
+        <link href="https://www.nrtoday.com/news/education/dock-dogs-and-more-at-the-douglas-county-fair/article_e73ad81f-aa13-476b-8a2c-53db815138ac.html"/>
+        <updated>2025-08-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Fair brought crowds in as Wednesday kicked off with animal shows, live music, typical fair food, vendors of all sort, carnival rides and so much more.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rodeo: Challenge of Champions Tour stops at Douglas County Fair]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e8d953a1-dc21-420a-b95d-8be761cad69f</id>
+        <link href="https://www.nrtoday.com/news/local/rodeo-challenge-of-champions-tour-stops-at-douglas-county-fair/article_e8d953a1-dc21-420a-b95d-8be761cad69f.html"/>
+        <updated>2025-08-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Levi Gray of Dairy has been riding bucking animals since he was 3 years old, he said Wednesday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +324,26 @@
         <summary type="html"><![CDATA[August 7, 2027 2:50 a.m.  On Wednesday, Oregon’s U.S. Senator Jeff Merkley and Third-District U.S. Representative Maxine Dexter introduced the Farmworker Smoke and Excessive Heat Protection Act. A release said the legislation would put safeguards in place for farm workers facing the dangers of wildfire smoke and extreme weather. Merkley said, “Climate chaos is creating...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Danger Level moves to extreme Sunday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4aa3c956-7ca2-4d06-850c-020fed2dc900</id>
+        <link href="https://www.nrtoday.com/news/local/fire-danger-level-moves-to-extreme-sunday/article_4aa3c956-7ca2-4d06-850c-020fed2dc900.html"/>
+        <updated>2025-08-07T05:18:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS DISTRICT — The Fire Danger Level and Public Use Restriction Level will increase to Extreme for private, county, state and Bureau of Indian Affairs land covered by the Douglas Forest Protective Association as of 12:01 a.m. Sunday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bicyclist dies in crash on Interstate 5]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/12264ac1-2b16-4859-8049-cfeb780331e4</id>
+        <link href="https://www.nrtoday.com/news/local/bicyclist-dies-in-crash-on-interstate-5/article_12264ac1-2b16-4859-8049-cfeb780331e4.html"/>
+        <updated>2025-08-07T05:11:00.000Z</updated>
+        <summary type="html"><![CDATA[SUTHERLIN — Oregon State Police (OSP) responded to a vehicle versus bicycle fatal crash near milepost 133 on Interstate 5 on July 31.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -714,46 +804,6 @@
         <summary type="html"><![CDATA[August 5, 2025 2:50 a.m. During this week’s Douglas County Fair, the Roseburg Rotary Club’s 4H & FFA Jr. Livestock Auction will be on Friday afternoon at 4:00 p.m. Buyer registration starts at 2:30 p.m. Steers will be sold followed by the buyer’s barbecue. Goats and sheep will be auctioned next. For more information on...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secretary of State Opens Investigation of Umpqua Public Transit District’s Response to May Election]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/66ef2c4f-3dbc-4c5a-ae0b-5a4e3dc59073</id>
-        <link href="https://www.nrtoday.com/news/secretary-of-state-opens-investigation-of-umpqua-public-transit-district-s-response-to-may-election/article_66ef2c4f-3dbc-4c5a-ae0b-5a4e3dc59073.html"/>
-        <updated>2025-08-04T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Secretary of State Tobias Read’s Elections Division has opened an investigation of the Umpqua Public Transit District’s response to a hotly contested May election result.]]></summary>
-        <author>
-            <name>Oregon Journalism Project</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Valley Farm to School invites public to Garden Happy Hour]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ed74f9eb-4b33-4be4-857d-d7b77a2be990</id>
-        <link href="https://www.nrtoday.com/agriculture/umpqua-valley-farm-to-school-invites-public-to-garden-happy-hour/article_ed74f9eb-4b33-4be4-857d-d7b77a2be990.html"/>
-        <updated>2025-08-04T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Umpqua Valley Farm to School invites the community to its new Garden Happy Hour series.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More dry weather on the way, warming starts Thursday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/bd759ece-022d-42e6-af93-54c3f44388d3</id>
-        <link href="https://www.nrtoday.com/briefs/more-dry-weather-on-the-way-warming-starts-thursday/article_bd759ece-022d-42e6-af93-54c3f44388d3.html"/>
-        <updated>2025-08-04T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — The Umpqua Valley will see more dry weather, with a warming trend starting Thursday and the potential for triple digits by Sunday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riverbend Live! announces bonus show]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f0f07d99-0fed-40ea-b11f-25fed9668411</id>
-        <link href="https://www.nrtoday.com/a_and_e/riverbend-live-announces-bonus-show/article_f0f07d99-0fed-40ea-b11f-25fed9668411.html"/>
-        <updated>2025-08-04T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — Riverbend Live! has announced that a bonus concert has been added for its 2025 summer concert season.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
 </feed>
