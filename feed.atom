@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-07T23:14:54.741Z</updated>
+    <updated>2025-08-08T03:39:14.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -774,26 +774,6 @@
         <summary type="html"><![CDATA[WINSTON — Riverbend Live! has announced that a bonus concert has been added for its 2025 summer concert season.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Public Transit District Suspends All Weekend Service Amid Funding Crisis]]></title>
-        <id>6890c1f9cbfd6b0001fa0785</id>
-        <link href="https://www.roseburgscanner.com/umpqua-public-transit-district-suspends-all-weekend-service-amid-funding-crisis/"/>
-        <updated>2025-08-04T14:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Umpqua Public Transit District is suspending all weekend bus service starting August 9th due to a statewide funding freeze and federal delays. More cuts may follow as the agency works to save $200,000 and maintain weekday service.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 4, 2025]]></title>
-        <id>68903d2acbfd6b0001fa05b9</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-4-2025/"/>
-        <updated>2025-08-04T13:46:48.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
