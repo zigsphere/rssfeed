@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-09T16:16:02.792Z</updated>
+    <updated>2025-08-09T19:10:28.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BURNT MOUNTAIN FIRE AT 20 ACRES AS OF MID-DAY SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=136593</id>
+        <link href="https://kqennewsradio.com/2025/08/09/burnt-mountain-fire-at-20-acres-as-of-mid-day-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=burnt-mountain-fire-at-20-acres-as-of-mid-day-saturday"/>
+        <updated>2025-08-09T17:14:01.000Z</updated>
+        <summary type="html"><![CDATA[August 9, 2025 10:10 a.m.    The Burnt Mountain Fire is estimated at 20-acres as of midday on Saturday. An update from the Douglas Forest Protective Association said the fire began at approximately 2:15 p.m. Friday afternoon near Burnt Mountain Access Road, approximately 8 miles northwest of Tenmile. Crews from DFPA and the Coos Forest...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BURNT MOUNTAIN FIRE AT TEN ACRES AS OF FRIDAY EVENING]]></title>
         <id>https://kqennewsradio.com/?p=136586</id>
@@ -744,26 +754,6 @@
         <summary type="html"><![CDATA[August 6, 2025 2:50 A.M. One driver was hospitalized following a two-vehicle crash on Monday afternoon. An Oregon State Police report said shortly before 4:00 p.m. a trooper and emergency medical personnel were dispatched to Highway, near milepost 50, west of Camas Valley after a caller said there had been a multi-vehicle wreck. The driver...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon Heritage Commission offers grants]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1e72054c-21f2-49ce-bccd-12c7a12f7798</id>
-        <link href="https://www.nrtoday.com/briefs/oregon-heritage-commission-offers-grants/article_1e72054c-21f2-49ce-bccd-12c7a12f7798.html"/>
-        <updated>2025-08-05T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[OREGON — The Oregon Heritage Commission offers grants for qualified projects for the conservation, development and interpretation of Oregon's cultural heritage. Awards typically range between $3,000 and $20,000, and the grant application deadline is Oct. 2.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heat up summer with Zumba in the Park]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1d3609a7-eaa3-4317-b058-106457937926</id>
-        <link href="https://www.nrtoday.com/a_and_e/heat-up-summer-with-zumba-in-the-park/article_1d3609a7-eaa3-4317-b058-106457937926.html"/>
-        <updated>2025-08-05T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To get outdoors and open Zumba classes up to the public, the YMCA’s Wednesday evening class moves to Stewart Park during the summer.]]></summary>
-        <author>
-            <name>Amelia Winkelman The News-Review</name>
         </author>
     </entry>
 </feed>
