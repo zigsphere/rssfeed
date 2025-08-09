@@ -699,16 +699,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250804192004/Jimetta.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136370",
-          "author": "Kyle Bailey",
-          "description": "August 5, 2025 5:10 a.m.   No one was hurt in a two-vehicle crash on Sunday night. A Douglas County Sheriff’s Office report said just after 6:10 p.m. a teen driver fell asleep while heading south on Garden Valley Road near the intersection with Cross Creek Road, northwest of Roseburg. His sedan crashed into a second...",
-          "link": "https://kqennewsradio.com/2025/08/05/no-one-hurt-in-two-vehicle-crash-sunday-night/?utm_source=rss&utm_medium=rss&utm_campaign=no-one-hurt-in-two-vehicle-crash-sunday-night",
-          "publishedOn": "2025-08-05T12:11:40.000Z",
-          "wordCount": 1578,
-          "title": "NO ONE HURT IN  TWO-VEHICLE CRASH SUNDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
@@ -724,6 +714,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f9e7492-be98-43d0-a4d6-fe7c6044ab33",
+          "author": "Erica Reynolds The News-Review",
+          "description": "GLENDALE — Douglas County Sheriff's Office is asking for public assistance in locating Owen Weese, 39, last seen at approximately 9:45 p.m. Wednesday when he was dropped off near milepost 6.1 on Windy Creek Road in Glendale.",
+          "link": "https://www.nrtoday.com/briefs/sheriffs-office-seeks-help-finding-owen-weese/article_0f9e7492-be98-43d0-a4d6-fe7c6044ab33.html",
+          "publishedOn": "2025-08-08T23:52:00.000Z",
+          "wordCount": 12317,
+          "title": "Sheriff's office seeks help finding Owen Weese",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/be/8be841a1-3d2d-478e-b00a-55d764a355fb/6896906e3c4a5.image.png?resize=300%2C454",
+            "length": "1202124",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/be/8be841a1-3d2d-478e-b00a-55d764a355fb/6896906e3c4a5.image.png?resize=300%2C454"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/2c1594e6-7670-481f-a98b-0f533688e2ee",
           "author": "ereynolds@nrtoday.com (Erica Reynolds)",
           "description": "Editor's note: This is an except from \"The story of our years at St. George's as told by Father Alfred S. Tyson 1949-1978, and had been edited to feature only the information relevant to the Blast.\"",
@@ -731,6 +736,16 @@
           "publishedOn": "2025-08-08T15:15:00.000Z",
           "wordCount": 14123,
           "title": "The preacher and the teacher",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d65152de-cfdc-4d4f-9fea-b753c619c0c4",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — A Heat Advisory is in effect from 8 a.m. Sunday to 2 a.m. Tuesday for Central Douglas County.",
+          "link": "https://www.nrtoday.com/briefs/updated-heat-advisory-in-effect-sunday-morning-to-early-tuesday/article_d65152de-cfdc-4d4f-9fea-b753c619c0c4.html",
+          "publishedOn": "2025-08-08T14:40:00.000Z",
+          "wordCount": 12201,
+          "title": "UPDATED: Heat Advisory in effect Sunday morning to early Tuesday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         },
         {
@@ -857,21 +872,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d4/cd43ddc5-6a3f-43d9-8f6f-2040a8f6b318/688b8a891bee5.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c0de54e2-af6d-49a2-b63f-dd3f935f26da",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The Douglas County Fairgrounds was abuzz with people, animals, large trucks and more as final preparations for the Douglas County Fair were underway. A group of women used the cooler weather Monday afternoon to begin setting up equipment under the…",
-          "link": "https://www.nrtoday.com/a_and_e/douglas-county-fair-opens-tomorrow/article_c0de54e2-af6d-49a2-b63f-dd3f935f26da.html",
-          "publishedOn": "2025-08-05T14:00:00.000Z",
-          "wordCount": 14395,
-          "title": "Douglas County Fair opens tomorrow",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b7/bb7d2016-5b13-465b-a2a6-a8aea5e07643/68918960032df.image.jpg?resize=300%2C197",
-            "length": "336049",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/b7/bb7d2016-5b13-465b-a2a6-a8aea5e07643/68918960032df.image.jpg?resize=300%2C197"
         }
       ]
     },
@@ -955,16 +955,6 @@
           "wordCount": 1762,
           "title": "Idleyld Park river rescues: one life saved, one lost in swift currents",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/police.jpg"
-        },
-        {
-          "id": "68920a3dcbfd6b0001fa07cf",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/august-5-2025/",
-          "publishedOn": "2025-08-05T14:00:57.000Z",
-          "wordCount": 3969,
-          "title": "August 5, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-2.png"
         }
       ]
     },

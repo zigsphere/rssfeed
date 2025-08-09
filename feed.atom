@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-08T23:13:52.801Z</updated>
+    <updated>2025-08-09T03:16:03.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sheriff's office seeks help finding Owen Weese]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0f9e7492-be98-43d0-a4d6-fe7c6044ab33</id>
+        <link href="https://www.nrtoday.com/briefs/sheriffs-office-seeks-help-finding-owen-weese/article_0f9e7492-be98-43d0-a4d6-fe7c6044ab33.html"/>
+        <updated>2025-08-08T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[GLENDALE — Douglas County Sheriff's Office is asking for public assistance in locating Owen Weese, 39, last seen at approximately 9:45 p.m. Wednesday when he was dropped off near milepost 6.1 on Windy Creek Road in Glendale.]]></summary>
+        <author>
+            <name>Erica Reynolds The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEAT ADVISORY IN EFFECT FROM 8:00 A.M. SUNDAY TO 2:00 A.M. TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=136583</id>
@@ -164,6 +174,16 @@
         <summary type="html"><![CDATA[Editor's note: This is an except from "The story of our years at St. George's as told by Father Alfred S. Tyson 1949-1978, and had been edited to feature only the information relevant to the Blast."]]></summary>
         <author>
             <name>ereynolds@nrtoday.com (Erica Reynolds)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDATED: Heat Advisory in effect Sunday morning to early Tuesday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d65152de-cfdc-4d4f-9fea-b753c619c0c4</id>
+        <link href="https://www.nrtoday.com/briefs/updated-heat-advisory-in-effect-sunday-morning-to-early-tuesday/article_d65152de-cfdc-4d4f-9fea-b753c619c0c4.html"/>
+        <updated>2025-08-08T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — A Heat Advisory is in effect from 8 a.m. Sunday to 2 a.m. Tuesday for Central Douglas County.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -854,36 +874,6 @@
         <summary type="html"><![CDATA[Kelly Leonard from Music on the Half Shell talks about the upcoming performance by Jimetta Rose and the Voices of Creation and chats with Half Shell marketing director Tiana Burt.]]></summary>
         <author>
             <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 5, 2025]]></title>
-        <id>68920a3dcbfd6b0001fa07cf</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-5-2025/"/>
-        <updated>2025-08-05T14:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Fair opens tomorrow]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c0de54e2-af6d-49a2-b63f-dd3f935f26da</id>
-        <link href="https://www.nrtoday.com/a_and_e/douglas-county-fair-opens-tomorrow/article_c0de54e2-af6d-49a2-b63f-dd3f935f26da.html"/>
-        <updated>2025-08-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas County Fairgrounds was abuzz with people, animals, large trucks and more as final preparations for the Douglas County Fair were underway. A group of women used the cooler weather Monday afternoon to begin setting up equipment under the…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO ONE HURT IN  TWO-VEHICLE CRASH SUNDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=136370</id>
-        <link href="https://kqennewsradio.com/2025/08/05/no-one-hurt-in-two-vehicle-crash-sunday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=no-one-hurt-in-two-vehicle-crash-sunday-night"/>
-        <updated>2025-08-05T12:11:40.000Z</updated>
-        <summary type="html"><![CDATA[August 5, 2025 5:10 a.m.   No one was hurt in a two-vehicle crash on Sunday night. A Douglas County Sheriff’s Office report said just after 6:10 p.m. a teen driver fell asleep while heading south on Garden Valley Road near the intersection with Cross Creek Road, northwest of Roseburg. His sedan crashed into a second...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
