@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-10T16:16:56.857Z</updated>
+    <updated>2025-08-10T19:10:53.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -517,26 +517,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire Danger Level moves to extreme Sunday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/4aa3c956-7ca2-4d06-850c-020fed2dc900</id>
-        <link href="https://www.nrtoday.com/news/local/fire-danger-level-moves-to-extreme-sunday/article_4aa3c956-7ca2-4d06-850c-020fed2dc900.html"/>
-        <updated>2025-08-07T05:18:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS DISTRICT — The Fire Danger Level and Public Use Restriction Level will increase to Extreme for private, county, state and Bureau of Indian Affairs land covered by the Douglas Forest Protective Association as of 12:01 a.m. Sunday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bicyclist dies in crash on Interstate 5]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/12264ac1-2b16-4859-8049-cfeb780331e4</id>
-        <link href="https://www.nrtoday.com/news/local/bicyclist-dies-in-crash-on-interstate-5/article_12264ac1-2b16-4859-8049-cfeb780331e4.html"/>
-        <updated>2025-08-07T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — Oregon State Police (OSP) responded to a vehicle versus bicycle fatal crash near milepost 133 on Interstate 5 on July 31.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bicyclist struck and killed by vehicle in Douglas County crash]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/d7af3d5c-60b4-4a6d-a1c1-bb5c7a145cda</id>
         <link href="https://www.kezi.com/news/local/bicyclist-struck-and-killed-by-vehicle-in-douglas-county-crash/article_d7af3d5c-60b4-4a6d-a1c1-bb5c7a145cda.html"/>
@@ -544,26 +524,6 @@
         <summary type="html"><![CDATA[A 42-year-old California man died early Thursday morning after being struck by a vehicle on his bicycle on Interstate 5 near Sutherlin, according to the Oregon State Police.]]></summary>
         <author>
             <name>Ryan Bonham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gov. Kotek declares drought in Douglas, other counties]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cdce8d6c-2dc7-4c60-b01a-6a6212728056</id>
-        <link href="https://www.nrtoday.com/news/environment/gov-kotek-declares-drought-in-douglas-other-counties/article_cdce8d6c-2dc7-4c60-b01a-6a6212728056.html"/>
-        <updated>2025-08-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gov. Tina Kotek declared a drought in Douglas, Morrow and Union counties as of Aug. 4, and directed state agencies to coordinate and prioritize assistance to the region. The declaration can be found at Executive Order 25-18.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg children learn their power in keeping the planet]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9e7da610-7e6d-41bc-abca-1c588da6319e</id>
-        <link href="https://www.nrtoday.com/news/education/roseburg-children-learn-their-power-in-keeping-the-planet/article_9e7da610-7e6d-41bc-abca-1c588da6319e.html"/>
-        <updated>2025-08-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Museum of Natural and Cultural History Outreach Educator Kali Bissanti began her presentation Tuesday in Roseburg by asking children gathered if they could live on other planets besides the earth.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
