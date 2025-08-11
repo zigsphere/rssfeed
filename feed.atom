@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-10T23:13:46.683Z</updated>
+    <updated>2025-08-11T03:29:24.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG WOMAN DIES, SECOND DRIVER INJURED IN HEAD-ON CRASH ON FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=136608</id>
+        <link href="https://kqennewsradio.com/2025/08/10/roseburg-woman-dies-second-driver-injured-in-head-on-crash-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-woman-dies-second-driver-injured-in-head-on-crash-on-friday"/>
+        <updated>2025-08-11T00:33:28.000Z</updated>
+        <summary type="html"><![CDATA[August 10, 2025 5:30 p.m.   A Roseburg woman died, and the second driver was injured in a two-vehicle head-on crash on Friday morning. A Douglas County Sheriff’s Office report said shortly after 7:30 a.m., 911 dispatchers began receiving calls regarding the wreck on Garden Valley Road near Ridgewood Drive, northwest of Roseburg. Undersheriff Brad O’Dell...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA CREWS DEAL WITH DOLE ROAD FIRE ON SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=136606</id>
@@ -464,16 +474,6 @@
         <summary type="html"><![CDATA[Levi Gray of Dairy has been riding bucking animals since he was 3 years old, he said Wednesday.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 7, 2025]]></title>
-        <id>6894ab6fcbfd6b0001fa0ade</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-7-2025/"/>
-        <updated>2025-08-07T13:53:54.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
