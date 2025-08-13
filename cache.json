@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136717",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/08/12/true-wealth-8-12-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-8-12-25",
+          "publishedOn": "2025-08-13T00:12:52.000Z",
+          "wordCount": 1620,
+          "title": "TRUE WEALTH 8.12.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250812230338/TWR-08-12-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136715",
           "author": "Kyle Bailey",
           "description": "August 12, 2024 4:00 p.m.  Maintenance to extend the life of about 2.6 miles of streets in southeastern Roseburg is set to begin on Thursday, August 28th, weather permitting. A city release said the Roseburg Public Works Department asks vehicle owners to remove their vehicles from street sections scheduled and posted for maintenance to allow...",
@@ -444,16 +459,6 @@
           "wordCount": 1797,
           "title": "BURNT MOUNTAIN FIRE AT 20 ACRES AS OF MID-DAY SATURDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250809161321/DFPASat1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136586",
-          "author": "Kyle Bailey",
-          "description": "August 9, 2025 6:30 a.m.  Crews with the Douglas Forest Protective Association and the Coos Forest Protective Association responded to a fire near Burnt Mountain Access Road, north of Tenmile, at approximately 2:15 p.m. Friday afternoon. DFPA Public Information Officer Rachel Pope said the fire was initially estimated at 1.5 acres and was moving in...",
-          "link": "https://kqennewsradio.com/2025/08/09/burnt-mountain-fire-at-ten-acres-as-of-friday-evening/?utm_source=rss&utm_medium=rss&utm_campaign=burnt-mountain-fire-at-ten-acres-as-of-friday-evening",
-          "publishedOn": "2025-08-09T13:34:24.000Z",
-          "wordCount": 1744,
-          "title": "BURNT MOUNTAIN FIRE AT TEN ACRES AS OF FRIDAY EVENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250809123419/Burnt1.jpg"
         }
       ]
     },

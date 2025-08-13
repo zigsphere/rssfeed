@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-12T23:13:31.812Z</updated>
+    <updated>2025-08-13T03:15:53.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 8.12.25]]></title>
+        <id>https://kqennewsradio.com/?p=136717</id>
+        <link href="https://kqennewsradio.com/2025/08/12/true-wealth-8-12-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-8-12-25"/>
+        <updated>2025-08-13T00:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, Matt Dickson and Justin Bruggeman have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG SUMMERTIME ROAD RESURFACING STARTS SOON]]></title>
         <id>https://kqennewsradio.com/?p=136715</id>
@@ -562,16 +572,6 @@
         <link href="https://kqennewsradio.com/2025/08/09/burnt-mountain-fire-at-20-acres-as-of-mid-day-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=burnt-mountain-fire-at-20-acres-as-of-mid-day-saturday"/>
         <updated>2025-08-09T17:14:01.000Z</updated>
         <summary type="html"><![CDATA[August 9, 2025 10:10 a.m.    The Burnt Mountain Fire is estimated at 20-acres as of midday on Saturday. An update from the Douglas Forest Protective Association said the fire began at approximately 2:15 p.m. Friday afternoon near Burnt Mountain Access Road, approximately 8 miles northwest of Tenmile. Crews from DFPA and the Coos Forest...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BURNT MOUNTAIN FIRE AT TEN ACRES AS OF FRIDAY EVENING]]></title>
-        <id>https://kqennewsradio.com/?p=136586</id>
-        <link href="https://kqennewsradio.com/2025/08/09/burnt-mountain-fire-at-ten-acres-as-of-friday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=burnt-mountain-fire-at-ten-acres-as-of-friday-evening"/>
-        <updated>2025-08-09T13:34:24.000Z</updated>
-        <summary type="html"><![CDATA[August 9, 2025 6:30 a.m.  Crews with the Douglas Forest Protective Association and the Coos Forest Protective Association responded to a fire near Burnt Mountain Access Road, north of Tenmile, at approximately 2:15 p.m. Friday afternoon. DFPA Public Information Officer Rachel Pope said the fire was initially estimated at 1.5 acres and was moving in...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
