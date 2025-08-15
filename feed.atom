@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-14T23:13:36.360Z</updated>
+    <updated>2025-08-15T03:17:02.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Susan Creek Campground closed for weeklong sanitation; day-use area remains open]]></title>
+        <id>689e8573cbfd6b0001fa1334</id>
+        <link href="https://www.roseburgscanner.com/susan-creek-campground-closed-for-weeklong-sanitation-day-use-area-remains-open/"/>
+        <updated>2025-08-15T00:56:27.000Z</updated>
+        <summary type="html"><![CDATA[BLM has closed Susan Creek Campground Wednesday–Tuesday for a precautionary deep clean. The Susan Creek Falls day-use area and trail remain open. Officials say no norovirus is confirmed; crews are sanitizing facilities before reopening.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DINT ARRESTS TWO MEN: DRUG AND FIREARMS CHARGES]]></title>
+        <id>https://kqennewsradio.com/?p=136837</id>
+        <link href="https://kqennewsradio.com/2025/08/14/dint-arrests-two-men-drug-and-firearms-charges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-arrests-two-men-drug-and-firearms-charges"/>
+        <updated>2025-08-15T00:23:40.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2025 5:30 p.m. On Wednesday, detectives with the Douglas Interagency Narcotics Team arrested two men in the Curtin area. DINT Commander Lieutenant Rick McArthur said detectives had reason to believe that criminal activity was taking place at the location and obtained a search warrant for the property. At approximately 3:00 p.m., detectives executed...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YMCA-LED COLLABORATION INSTALLS NEW WATER SAFETY SIGNS]]></title>
         <id>https://kqennewsradio.com/?p=136833</id>
