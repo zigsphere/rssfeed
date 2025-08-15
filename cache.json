@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136868",
+          "author": "Kyle Bailey",
+          "description": "Tracy David of Roseburg Parks and Recreation talks about Movies in the Park, happening Friday night.",
+          "link": "https://kqennewsradio.com/2025/08/15/morning-conversation-8-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-15-25",
+          "publishedOn": "2025-08-15T16:15:36.000Z",
+          "wordCount": 1629,
+          "title": "MORNING CONVERSATION 8.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250815151302/AM-CONV-08-15-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250625151329/Tracy-2-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136858",
           "author": "Kyle Bailey",
           "description": "August 15, 2025 4:00 a.m.  The Umpqua Valley is expected to see a brief period of cooler, somewhat wet weather before dry conditions return and warming resumes in the Umpqua Valley. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that Roseburg will have near normal conditions Friday,...",
@@ -921,6 +936,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "689f5984cbfd6b0001fa14de",
+          "author": "Joseph Ziegler",
+          "description": "Curtin drug bust nets 30 marijuana plants, meth, and firearms. Two men face charges, including manufacturing and possession. One suspect, a felon, was arrested for having guns. Six others were detained but released at the scene.",
+          "link": "https://www.roseburgscanner.com/curtin-drug-bust-leads-to-two-arrests-multiple-seizures/",
+          "publishedOn": "2025-08-15T16:02:51.000Z",
+          "wordCount": 1691,
+          "title": "Curtin Drug Bust Leads to Two Arrests, Multiple Seizures",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/dint.webp"
+        },
+        {
+          "id": "689f37c6cbfd6b0001fa1348",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-15-2025/",
+          "publishedOn": "2025-08-15T13:55:27.000Z",
+          "wordCount": 4352,
+          "title": "August 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-9.png"
+        },
         {
           "id": "689e8573cbfd6b0001fa1334",
           "author": "Joseph Ziegler",
