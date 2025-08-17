@@ -569,26 +569,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250813151414/Alliance.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136743",
-          "author": "Kyle Bailey",
-          "description": "August 13, 2025 6:50 a.m. Five people are dead, and a murder-suicide investigation is underway in Josephine County. A release from the Josephine County Sheriff’s Office said on Monday, shortly after 9:30 a.m. deputies responded to a home in the 200 block of Hussey Lane, in the Picket Creek area, after receiving a request to...",
-          "link": "https://kqennewsradio.com/2025/08/13/five-people-dead-murder-suicide-investigation-underway-in-josephine-county/?utm_source=rss&utm_medium=rss&utm_campaign=five-people-dead-murder-suicide-investigation-underway-in-josephine-county",
-          "publishedOn": "2025-08-13T13:59:09.000Z",
-          "wordCount": 1778,
-          "title": "FIVE PEOPLE DEAD, MURDER-SUICIDE INVESTIGATION UNDERWAY IN JOSEPHINE COUNTY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250813125845/JCSO.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136741",
-          "author": "Kyle Bailey",
-          "description": "August 13, 2025 5:45 a.m.  A cooling trend is beginning in the Umpqua Valley after three days of triple digit temperatures. Data from the National Weather Service in Medford said the mercury reached 101 degrees on Tuesday at the Roseburg Regional Airport. Monday’s high was 104 degrees while it got to 103 degrees on Sunday....",
-          "link": "https://kqennewsradio.com/2025/08/13/cooling-begins-after-three-days-in-the-triple-digits/?utm_source=rss&utm_medium=rss&utm_campaign=cooling-begins-after-three-days-in-the-triple-digits",
-          "publishedOn": "2025-08-13T12:44:09.000Z",
-          "wordCount": 1701,
-          "title": "COOLING BEGINS AFTER THREE DAYS IN THE TRIPLE DIGITS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -603,6 +583,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5b6c0069-0ec3-48c6-9190-6074af4d8abb",
+          "author": "Amelia Winkelman The News-Review",
+          "description": "OAKLAND — Turkey Hall is back.",
+          "link": "https://www.nrtoday.com/news/local/turkey-hall-oakland-family-restaurant-reopens-as-event-venue/article_5b6c0069-0ec3-48c6-9190-6074af4d8abb.html",
+          "publishedOn": "2025-08-16T16:00:00.000Z",
+          "wordCount": 12751,
+          "title": "Turkey Hall, Oakland family restaurant, reopens as event venue",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f8ef5b6-1824-4755-bf6c-efc7b2132541/689e6e5f71ddf.image.jpg?resize=300%2C169",
+            "length": "230031",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f8ef5b6-1824-4755-bf6c-efc7b2132541/689e6e5f71ddf.image.jpg?resize=300%2C169"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f500d254-ae35-4ef4-b974-74a9d50ac791",
           "author": "DREW WINKELMAIER The News-Review",
@@ -847,16 +842,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/15/215aa5b3-3b4a-47cc-92d1-2fafb6a4df81/66c10e5c93d6c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/083dc2ef-4984-4897-87d4-f7044a5f8058",
-          "author": "Nathan A. Miller",
-          "description": "Where to go on the hottest day of the summer? The pool at Umpqua Community College was the choice for many Monday afternoon. As the temperatures soared to triple-digits, families enjoyed the refreshing feel of the Winchester waters.",
-          "link": "https://www.nrtoday.com/news/local/what-to-do-when-it-is-hot-hot-hot/article_083dc2ef-4984-4897-87d4-f7044a5f8058.html",
-          "publishedOn": "2025-08-13T15:00:00.000Z",
-          "wordCount": 12012,
-          "title": "What to do when it is hot, hot, hot",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -920,26 +905,6 @@
           "wordCount": 4603,
           "title": "August 14, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-8.png"
-        },
-        {
-          "id": "689ca605cbfd6b0001fa1188",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg hosts its 3rd International Overdose Awareness Day on Sat., Aug. 23, 11 a.m.–1 p.m., Stewart Park Pavilion. Free, family-friendly event by Adapt, HIV Alliance and DPHN honors lives lost, supports recovery; theme: “One Big Family.”",
-          "link": "https://www.roseburgscanner.com/roseburg-to-mark-international-overdose-awareness-day-on-aug-23/",
-          "publishedOn": "2025-08-13T14:51:00.000Z",
-          "wordCount": 1588,
-          "title": "Roseburg to Mark International Overdose Awareness Day on Aug. 23",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2024/12/Screenshot-2024-12-13-at-10.43.08-PM-1.png"
-        },
-        {
-          "id": "689c92b2cbfd6b0001fa0feb",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/august-13-2025/",
-          "publishedOn": "2025-08-13T13:55:06.000Z",
-          "wordCount": 4328,
-          "title": "August 13, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-7.png"
         }
       ]
     },
