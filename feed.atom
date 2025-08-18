@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-18T13:31:41.278Z</updated>
+    <updated>2025-08-18T16:18:05.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.18.25]]></title>
+        <id>https://kqennewsradio.com/?p=136942</id>
+        <link href="https://kqennewsradio.com/2025/08/18/morning-conversation-8-18-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-18-25"/>
+        <updated>2025-08-18T16:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Tom Guevara of the Oregon Department of Transportation talks about a meeting Thrive Umpqua is hosting Monday evening at Abby’s Pizza on Northeast Diamond Lake Boulevard regarding the Diamond Lake Boulevard/OR 138 Design Concept Plan.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 18, 2025]]></title>
+        <id>68a2b659cbfd6b0001fa150d</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-18-2025/"/>
+        <updated>2025-08-18T13:41:58.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG RECEIVES MOST MEASURABLE RAINFALL SINCE MAY]]></title>
+        <id>https://kqennewsradio.com/?p=136938</id>
+        <link href="https://kqennewsradio.com/2025/08/18/roseburg-receives-most-measurable-rainfall-since-may/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-receives-most-measurable-rainfall-since-may"/>
+        <updated>2025-08-18T13:39:56.000Z</updated>
+        <summary type="html"><![CDATA[August 18, 2025 6:30 a.m.  Roseburg received the most measurable rainfall on a day since May, on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport measured 0.13 inches of rain. That was the biggest amount of rain since May 12th, when...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUPPRESSION EFFORTS CONTINUE ON HISTORIC DOERNER TREE FIRE]]></title>
         <id>https://kqennewsradio.com/?p=136933</id>
@@ -434,16 +464,6 @@
         <summary type="html"><![CDATA[August 15, 2025 2:50 a.m. The Sutherlin Blackberry Festival is happening Friday through Sunday with a long list of events taking place. In its 37th year, most events are in or close to Central Park. Friday night, the drive-in movie, Herbie “The Love Bug” will be show at dusk. Saturday’s activities include the Blackberry Car...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas Forest Protect Association to reduce fire danger level to 'high' starting Friday]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/fbde8fdf-a216-4481-9888-64880a999e59</id>
-        <link href="https://www.kezi.com/news/local/douglas-forest-protect-association-to-reduce-fire-danger-level-to-high-starting-friday/article_fbde8fdf-a216-4481-9888-64880a999e59.html"/>
-        <updated>2025-08-14T23:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting on Friday, the Douglas Forest Protective Association (DFPA) is lowering the fire danger level from extreme to high due to predicted cooler temperatures and increased humidity.]]></summary>
-        <author>
-            <name>www.kezi.com - RSS Results for roseburg in news of type article</name>
         </author>
     </entry>
 </feed>
