@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-18T23:12:42.528Z</updated>
+    <updated>2025-08-19T03:06:08.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Umpqua Community College has begun building a $21.5 million Welcome Center and Medical Careers Hub. Opening in early 2027, it will centralize student services and expand medical training, backed by an $8 million state match and support from local partners.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCC's $21.5M project aims to transform Douglas County healthcare]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/92d3b7b0-a7ff-4d94-a7cf-fc1987538842</id>
+        <link href="https://www.kezi.com/news/local/uccs-21-5m-project-aims-to-transform-douglas-county-healthcare/article_92d3b7b0-a7ff-4d94-a7cf-fc1987538842.html"/>
+        <updated>2025-08-18T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG, Ore. - Umpqua Community College (UCC) has begun construction on a new Welcome Center and Medical Careers Hub, which was kicked off on Friday with the demolition of the Del Blanchard Administration Building.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -444,66 +454,6 @@
         <summary type="html"><![CDATA[Curtin drug bust nets 30 marijuana plants, meth, and firearms. Two men face charges, including manufacturing and possession. One suspect, a felon, was arrested for having guns. Six others were detained but released at the scene.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a Landscape: live concert to commemorate Archie Creek Fire]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/bc706715-1f6c-4bb6-a365-8963dccfb684</id>
-        <link href="https://www.nrtoday.com/news/environment/in-a-landscape-live-concert-to-commemorate-archie-creek-fire/article_bc706715-1f6c-4bb6-a365-8963dccfb684.html"/>
-        <updated>2025-08-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IDLEYLD PARK — The landscape around Douglas County and the world at large continues to change every day due to natural disasters, human-caused accidents and more.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Plein Air to bring artists outdoors for creativity and competition]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5f43cfd7-195f-4615-985b-d31b5475a563</id>
-        <link href="https://www.nrtoday.com/a_and_e/umpqua-plein-air-to-bring-artists-outdoors-for-creativity-and-competition/article_5f43cfd7-195f-4615-985b-d31b5475a563.html"/>
-        <updated>2025-08-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In French, the term “en plein air” refers to the practice of painting the outdoors while immersed in the nature itself. In doing so, artists are not only able to capture the look of a location with their own eyes,…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Irving Reservoir sports new water safety gear, signage]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/56b3a786-8356-48de-84f3-acd8312a7a9f</id>
-        <link href="https://www.nrtoday.com/news/environment/ben-irving-reservoir-sports-new-water-safety-gear-signage/article_56b3a786-8356-48de-84f3-acd8312a7a9f.html"/>
-        <updated>2025-08-15T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[TENMILE — A new sign stood tall, attached to the front of a large wooden board. Life jackets of various sizes hung neatly under the words “life jacket loaner station.”]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remembering a hero: the life and hard work of Mike Merlino]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0c1a2709-6f91-4bdc-8259-60e232227c55</id>
-        <link href="https://www.nrtoday.com/news/remembering-a-hero-the-life-and-hard-work-of-mike-merlino/article_0c1a2709-6f91-4bdc-8259-60e232227c55.html"/>
-        <updated>2025-08-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — Battalion Chief. Advisor. Father. Husband. Brother. Friend. Hero. These are just some of the words that describe the roles Mike Merlino fulfilled in his life and across the 30 years he served in fire departments across Douglas County.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 15, 2025]]></title>
-        <id>689f37c6cbfd6b0001fa1348</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-15-2025/"/>
-        <updated>2025-08-15T13:55:27.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas ESD launches School Safety Starts with Us initiative, PSA]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/af9009f5-3fbd-46e3-a82f-b15963189163</id>
-        <link href="https://www.nrtoday.com/a_and_e/douglas-esd-launches-school-safety-starts-with-us-initiative-psa/article_af9009f5-3fbd-46e3-a82f-b15963189163.html"/>
-        <updated>2025-08-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The YouTube video opened to a child in a light blue shirt standing in a cold school hallway lined with blue lockers, arms crossed in front of him.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
