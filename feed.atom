@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-19T13:25:27.716Z</updated>
+    <updated>2025-08-19T16:17:33.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.19.25]]></title>
+        <id>https://kqennewsradio.com/?p=136996</id>
+        <link href="https://kqennewsradio.com/2025/08/19/morning-conversation-8-19-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-19-25"/>
+        <updated>2025-08-19T16:16:10.000Z</updated>
+        <summary type="html"><![CDATA[YMCA of Douglas County Marketing and Development Director Brittany Arnold and Childcare Director Rochelle Van Slyke talk about the annual facility shutdown, new equipment being installed, fall classes, and child care availability including the new South County After School Program]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 19,2025]]></title>
+        <id>68a47cd1cbfd6b0001fa173a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-19-2025/"/>
+        <updated>2025-08-19T13:52:05.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA, SMITH, NORTH FORK SMITH RIVERS FISHERY IS NOW CLOSED]]></title>
         <id>https://kqennewsradio.com/?p=136992</id>
@@ -384,16 +404,6 @@
         <summary type="html"><![CDATA[OAKLAND — Turkey Hall is back.]]></summary>
         <author>
             <name>Amelia Winkelman The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg burglar suspect entered home, cooked and ate food prior to arrest]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/4c5ae649-a938-4781-b67f-57623ceaf6a1</id>
-        <link href="https://www.kezi.com/news/local/roseburg-burglar-suspect-entered-home-cooked-and-ate-food-prior-to-arrest/article_4c5ae649-a938-4781-b67f-57623ceaf6a1.html"/>
-        <updated>2025-08-15T19:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A 33-year-old Roseburg man was arrested Thursday after allegedly entering a local residence where he spent several hours and cooked food for himself before he was eventually arrested, according to the Roseburg Police Department.]]></summary>
-        <author>
-            <name>Ryan Bonham</name>
         </author>
     </entry>
 </feed>

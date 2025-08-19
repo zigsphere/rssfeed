@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=136996",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County Marketing and Development Director Brittany Arnold and Childcare Director Rochelle Van Slyke talk about the annual facility shutdown, new equipment being installed, fall classes, and child care availability including the new South County After School Program",
+          "link": "https://kqennewsradio.com/2025/08/19/morning-conversation-8-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-19-25",
+          "publishedOn": "2025-08-19T16:16:10.000Z",
+          "wordCount": 1651,
+          "title": "MORNING CONVERSATION 8.19.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250819150726/AM-CONB-08-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250819151439/YMCA-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=136992",
           "author": "Kyle Bailey",
           "description": "August 19, 2025 4:10 a.m.  Fishing for Chinook salmon, both hatchery and wild, has closed on the Umpqua, Smith and North Fork Smith rivers because the quota of 500 wild fall Chinook has been reached. An update from the Oregon Department of Fish and Wildlife said with forecasted low returns of wild fall Chinook salmon...",
@@ -407,6 +422,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68a47cd1cbfd6b0001fa173a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-19-2025/",
+          "publishedOn": "2025-08-19T13:52:05.000Z",
+          "wordCount": 4515,
+          "title": "August 19,2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-11.png"
+        },
+        {
           "id": "68a3a3c7cbfd6b0001fa1721",
           "author": "Joseph Ziegler",
           "description": "Umpqua Community College has begun building a $21.5 million Welcome Center and Medical Careers Hub. Opening in early 2027, it will centralize student services and expand medical training, backed by an $8 million state match and support from local partners.",
@@ -447,21 +472,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/7d/37da8d66-6fc2-4958-8444-bf5575ab7a88/68a3a00369984.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/4c5ae649-a938-4781-b67f-57623ceaf6a1",
-          "author": "Ryan Bonham",
-          "description": "A 33-year-old Roseburg man was arrested Thursday after allegedly entering a local residence where he spent several hours and cooked food for himself before he was eventually arrested, according to the Roseburg Police Department.",
-          "link": "https://www.kezi.com/news/local/roseburg-burglar-suspect-entered-home-cooked-and-ate-food-prior-to-arrest/article_4c5ae649-a938-4781-b67f-57623ceaf6a1.html",
-          "publishedOn": "2025-08-15T19:23:00.000Z",
-          "wordCount": 8146,
-          "title": "Roseburg burglar suspect entered home, cooked and ate food prior to arrest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/66/c66e0290-9271-11ec-86d6-43e60bbd5f53/6212790fdbb98.image.jpg?resize=300%2C169",
-            "length": "34939",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/66/c66e0290-9271-11ec-86d6-43e60bbd5f53/6212790fdbb98.image.jpg?resize=300%2C169"
         }
       ]
     }
