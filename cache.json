@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137024",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, David Littlejohn, Matt Dickson and attorney Derick Simmons have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/08/19/true-wealth-8-19-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-8-19-25",
+          "publishedOn": "2025-08-20T00:09:44.000Z",
+          "wordCount": 1631,
+          "title": "TRUE WEALTH 8.19/25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250819230405/TWR-08-19-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137021",
           "author": "Kyle Bailey",
           "description": "August 19, 2025 3:20 p.m.  The News Review is reporting that on Monday, 32-year-old Johnathan James Dowdy of Coso Bay, pleaded guilty to multiple crimes in his collision with the Umpqua Community College’s softball team’s bus near Myrtle Point on April 18th. That crash took the lives of 19-year-old Kiley Jones and head coach Jami...",
@@ -583,6 +598,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/2e787dd5-75cc-40ff-80be-3ba3e66e4fa0",
+          "author": "News Staff",
+          "description": "Fishing for fall Chinook salmon on the Umpqua, Smith, and North Fork Smith rivers is now closed after reaching the quota of 500 wild fall Chinook.",
+          "link": "https://www.kezi.com/news/local/chinook-salmon-fishing-ends-in-umpqua-bag-limit-increased-for-coos-basin/article_2e787dd5-75cc-40ff-80be-3ba3e66e4fa0.html",
+          "publishedOn": "2025-08-19T23:07:00.000Z",
+          "wordCount": 8600,
+          "title": "Chinook salmon fishing ends in Umpqua, bag limit increased for Coos Basin",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/28/628808ee-2326-432a-999d-d4eb61e2ccb4/67ffec17120a2.image.jpg?resize=300%2C200",
+            "length": "231326",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/28/628808ee-2326-432a-999d-d4eb61e2ccb4/67ffec17120a2.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/92d3b7b0-a7ff-4d94-a7cf-fc1987538842",
           "author": "News Staff",

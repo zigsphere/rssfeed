@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-19T23:12:21.646Z</updated>
+    <updated>2025-08-20T03:04:29.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 8.19/25]]></title>
+        <id>https://kqennewsradio.com/?p=137024</id>
+        <link href="https://kqennewsradio.com/2025/08/19/true-wealth-8-19-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-8-19-25"/>
+        <updated>2025-08-20T00:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, David Littlejohn, Matt Dickson and attorney Derick Simmons have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinook salmon fishing ends in Umpqua, bag limit increased for Coos Basin]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/2e787dd5-75cc-40ff-80be-3ba3e66e4fa0</id>
+        <link href="https://www.kezi.com/news/local/chinook-salmon-fishing-ends-in-umpqua-bag-limit-increased-for-coos-basin/article_2e787dd5-75cc-40ff-80be-3ba3e66e4fa0.html"/>
+        <updated>2025-08-19T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Fishing for fall Chinook salmon on the Umpqua, Smith, and North Fork Smith rivers is now closed after reaching the quota of 500 wild fall Chinook.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOWDY PLEADS GUILTY IN UCC BUS CRASH]]></title>
         <id>https://kqennewsradio.com/?p=137021</id>
