@@ -674,6 +674,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/72a61026-d357-4d64-857c-272d0c4d9abc",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Oregon Senator Ron Wyden joined News Radio 93-9 FM and 1240 KQEN News Director Kyle Bailey in the studio Monday, answering questions and asking for opinions of events happening in Washington D.C. which affect Douglas County.",
+          "link": "https://www.nrtoday.com/news/q-a-with-sen-ron-wyden/article_72a61026-d357-4d64-857c-272d0c4d9abc.html",
+          "publishedOn": "2025-08-21T13:45:00.000Z",
+          "wordCount": 13431,
+          "title": "Q&A with Sen. Ron Wyden",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/50/d5068f2a-0b80-4fde-9af9-f90a09e0a7f6/68a4efd716ddc.image.jpg?resize=300%2C202",
+            "length": "332252",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/50/d5068f2a-0b80-4fde-9af9-f90a09e0a7f6/68a4efd716ddc.image.jpg?resize=300%2C202"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a34a2927-0fa5-4198-86fb-bccf8a88d0ff",
           "author": "Kyle Bailey For The News-Review",
           "description": "DOUGLAS COUNTY — Douglas County’s seasonally adjusted payroll employment decreased by 230 jobs in July after an increase of 160 in June and 90 in May.",
@@ -871,6 +886,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68a73642cbfd6b0001fa1bdb",
+          "author": "Joseph Ziegler",
+          "description": "A Drain man was sentenced for illegally manufacturing firearms with a 3D printer. David Ralston, 35, pleaded guilty to three felony counts. He received probation, jail time served, and forfeited multiple firearms and parts.",
+          "link": "https://www.roseburgscanner.com/drain-man-sentenced-for-firearm-manufacturing-convictions/",
+          "publishedOn": "2025-08-21T15:16:07.000Z",
+          "wordCount": 1940,
+          "title": "Drain Man Sentenced for Firearm Manufacturing Convictions",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/ghost_pistol.jpg"
+        },
+        {
+          "id": "68a71ef5cbfd6b0001fa1a71",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-21-2025/",
+          "publishedOn": "2025-08-21T13:48:20.000Z",
+          "wordCount": 3951,
+          "title": "August 21, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-13.png"
+        },
         {
           "id": "68a655e3cbfd6b0001fa1a5f",
           "author": "Joseph Ziegler",

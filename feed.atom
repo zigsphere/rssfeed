@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-21T13:25:46.388Z</updated>
+    <updated>2025-08-21T16:16:32.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drain Man Sentenced for Firearm Manufacturing Convictions]]></title>
+        <id>68a73642cbfd6b0001fa1bdb</id>
+        <link href="https://www.roseburgscanner.com/drain-man-sentenced-for-firearm-manufacturing-convictions/"/>
+        <updated>2025-08-21T15:16:07.000Z</updated>
+        <summary type="html"><![CDATA[A Drain man was sentenced for illegally manufacturing firearms with a 3D printer. David Ralston, 35, pleaded guilty to three felony counts. He received probation, jail time served, and forfeited multiple firearms and parts.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 21, 2025]]></title>
+        <id>68a71ef5cbfd6b0001fa1a71</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-21-2025/"/>
+        <updated>2025-08-21T13:48:20.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&A with Sen. Ron Wyden]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/72a61026-d357-4d64-857c-272d0c4d9abc</id>
+        <link href="https://www.nrtoday.com/news/q-a-with-sen-ron-wyden/article_72a61026-d357-4d64-857c-272d0c4d9abc.html"/>
+        <updated>2025-08-21T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Oregon Senator Ron Wyden joined News Radio 93-9 FM and 1240 KQEN News Director Kyle Bailey in the studio Monday, answering questions and asking for opinions of events happening in Washington D.C. which affect Douglas County.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEAT ADVISORY EXTENDED 1:00 P.M. FRIDAY THROUGH 8:00 P.M. SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=137094</id>
