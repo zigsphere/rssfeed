@@ -679,16 +679,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818151404/Tom-1-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=136938",
-          "author": "Kyle Bailey",
-          "description": "August 18, 2025 6:30 a.m.  Roseburg received the most measurable rainfall on a day since May, on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg Regional Airport measured 0.13 inches of rain. That was the biggest amount of rain since May 12th, when...",
-          "link": "https://kqennewsradio.com/2025/08/18/roseburg-receives-most-measurable-rainfall-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-receives-most-measurable-rainfall-since-may",
-          "publishedOn": "2025-08-18T13:39:56.000Z",
-          "wordCount": 1705,
-          "title": "ROSEBURG RECEIVES MOST MEASURABLE RAINFALL SINCE MAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
         }
       ]
     },
@@ -703,6 +693,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/95aa2450-8220-40a0-b2c3-2345d27919a6",
+          "author": "Amelia Winkelman The News-Review",
+          "description": "SUTHERLIN — Troy Mills, police chief of the Sutherlin Police Department, released a statement Tuesday addressing citizen concerns and misinformation regarding the city’s new public safety fee.",
+          "link": "https://www.nrtoday.com/news/sutherlin-police-department-addresses-new-public-safety-fee-concerns/article_95aa2450-8220-40a0-b2c3-2345d27919a6.html",
+          "publishedOn": "2025-08-22T00:45:00.000Z",
+          "wordCount": 13203,
+          "title": "Sutherlin Police Department addresses new public safety fee concerns",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/60/b60dea5b-1840-4f01-96b9-0b91ec3cda17/6705839d0b4b6.image.jpg?resize=300%2C225",
+            "length": "316291",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/60/b60dea5b-1840-4f01-96b9-0b91ec3cda17/6705839d0b4b6.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c6d1530d-253b-4a3a-8ace-b681424f40f4",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Douglas County commissioners are making their position known regarding Umpqua Public Transportation District in response to \"numerous false rumors currently being circulated by other local elected officials.\"",
+          "link": "https://www.nrtoday.com/news/douglas-county-commissioners-issue-statement-on-umpqua-public-transportation-district/article_c6d1530d-253b-4a3a-8ace-b681424f40f4.html",
+          "publishedOn": "2025-08-21T17:00:00.000Z",
+          "wordCount": 12492,
+          "title": "Douglas County commissioners issue statement on Umpqua Public Transportation District",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ac/6aca137a-1f54-410b-8085-7f772cb8beac/67edcd5d3ac16.image.jpg?resize=300%2C200",
+            "length": "323543",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ac/6aca137a-1f54-410b-8085-7f772cb8beac/67edcd5d3ac16.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/231e4d4a-2e8e-4ab2-8244-a0c917a859ec",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "RIDDLE — It’s not uncommon for people looking for guidance in life to say they’ve had an epiphany, some kind of message or sign from a higher power that gives them direction. For 80-year-old Willie Schmidt, that epiphany came at…",
+          "link": "https://www.nrtoday.com/a_and_e/painting-hand-in-hand-with-god-the-life-and-art-of-willie-schmidt/article_231e4d4a-2e8e-4ab2-8244-a0c917a859ec.html",
+          "publishedOn": "2025-08-21T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Painting hand in hand with God: The life and art of Willie Schmidt",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/47/c47e070e-2759-4f18-a6d4-745a86693cbf/68a64e5948990.image.jpg?resize=300%2C200",
+            "length": "314830",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/47/c47e070e-2759-4f18-a6d4-745a86693cbf/68a64e5948990.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/72a61026-d357-4d64-857c-272d0c4d9abc",
           "author": "Kyle Bailey For The News-Review",
@@ -872,36 +907,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/3b/23b94ff2-6a12-475c-ad6b-00aac5def270/68a362bd9da87.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/63cea8d9-60f6-4f1d-be3e-d4791f9a77e3",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "DRAIN — Ame Beard said she spent months planning the mermaid party with a group of people in Drain, after she was approached with the idea at another themed party she had thrown.",
-          "link": "https://www.nrtoday.com/news/local/drain-residents-hold-mermaid-party-upon-request/article_63cea8d9-60f6-4f1d-be3e-d4791f9a77e3.html",
-          "publishedOn": "2025-08-18T15:00:00.000Z",
-          "wordCount": 14005,
-          "title": "Drain residents hold mermaid party upon request",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/3f/83fd981a-72f0-4f55-8ccc-38e85e02f275/68a15d8fa22ab.image.jpg?resize=300%2C200",
-            "length": "363385",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/3f/83fd981a-72f0-4f55-8ccc-38e85e02f275/68a15d8fa22ab.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7b48f98b-c061-4436-a7c2-4e0b00d35f50",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SUTHERLIN — Ramona Briggs brought her 1959 Chevy El Camino to the Sutherlin Blackberry Festival car show Saturday, displaying the red vintage vehicle in the grass in Sutherlin’s Central Park.",
-          "link": "https://www.nrtoday.com/news/history/sutherlin-blackberry-festival-car-show-mud-volleyball-bmx-racing-and-more-all-weekend/article_7b48f98b-c061-4436-a7c2-4e0b00d35f50.html",
-          "publishedOn": "2025-08-18T14:00:00.000Z",
-          "wordCount": 13022,
-          "title": "Sutherlin Blackberry Festival: Car show, mud volleyball, BMX racing and more all weekend",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/f2/bf22057e-54ae-4491-a520-d38386a89c35/68a339212445e.image.jpg?resize=300%2C200",
-            "length": "576329",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/f2/bf22057e-54ae-4491-a520-d38386a89c35/68a339212445e.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -995,16 +1000,6 @@
           "wordCount": 1712,
           "title": "UCC Begins Work on Welcome Center and Medical Careers Hub",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/ucc_demo.jpg"
-        },
-        {
-          "id": "68a2b659cbfd6b0001fa150d",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/august-18-2025/",
-          "publishedOn": "2025-08-18T13:41:58.000Z",
-          "wordCount": 4484,
-          "title": "August 18, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-10.png"
         }
       ]
     },
