@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137157",
+          "author": "Kyle Bailey",
+          "description": "From Umpqua Valley Arts, Exhibitions Coordinator Ashley Cluver talks about the Plein Aire exhibit which is opening with a reception Saturday afternoon at 4:00 p.m.",
+          "link": "https://kqennewsradio.com/2025/08/22/morning-conversation-8-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-22-25",
+          "publishedOn": "2025-08-22T16:15:00.000Z",
+          "wordCount": 1635,
+          "title": "MORNING CONVERSATION 8.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250822151042/AM-CONV-08-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223957/UVA-Primary-Color-e1587405267807.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137151",
           "author": "Kyle Bailey",
           "description": "August 22, 2025 4:00 a.m. A Heat Advisory is in effect from Friday at 1:00 p.m. through Sunday at 8:00 p.m. for central Douglas County and its eastern foothills. Forecasters at the National Weather Service said hot conditions with high temperatures of 95 to 104 degrees are expected. Overnight low temperatures will be between 55...",
@@ -24,6 +39,16 @@
           "wordCount": 1659,
           "title": "VINTAGE STREET FAIR HAPPENING SATURDAY IN OAKLAND",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250822094359/Oakland2-1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=137143",
+          "author": "Kyle Bailey",
+          "description": "August 22, 2025 3:40 a.m. Due to an extended period of time with temperatures over 95 degrees, a Cooling Resource Center is open afternoons through Tuesday to help those in need escape the heat. Offered by the Schlueter-Greenwalt Foundation, it is being held at Saint George Episcopal Church on Southeast Cass Avenue in downtown Roseburg....",
+          "link": "https://kqennewsradio.com/2025/08/22/cooling-resource-center-open-afternoons-through-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=cooling-resource-center-open-afternoons-through-tuesday",
+          "publishedOn": "2025-08-22T10:28:51.000Z",
+          "wordCount": 1656,
+          "title": "COOLING RESOURCE CENTER OPEN AFTERNOONS THROUGH TUESDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250822092823/Coolingfound.jpg"
         },
         {
           "id": "https://kqennewsradio.com/?p=137143",
@@ -897,6 +922,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68a87042cbfd6b0001fa1bf1",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-22-2025/",
+          "publishedOn": "2025-08-22T13:58:26.000Z",
+          "wordCount": 4167,
+          "title": "August 22, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-14.png"
+        },
+        {
           "id": "68a73642cbfd6b0001fa1bdb",
           "author": "Joseph Ziegler",
           "description": "A Drain man was sentenced for illegally manufacturing firearms with a 3D printer. David Ralston, 35, pleaded guilty to three felony counts. He received probation, jail time served, and forfeited multiple firearms and parts.",
@@ -1017,21 +1052,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/28/628808ee-2326-432a-999d-d4eb61e2ccb4/67ffec17120a2.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/92d3b7b0-a7ff-4d94-a7cf-fc1987538842",
-          "author": "News Staff",
-          "description": "ROSEBURG, Ore. - Umpqua Community College (UCC) has begun construction on a new Welcome Center and Medical Careers Hub, which was kicked off on Friday with the demolition of the Del Blanchard Administration Building.",
-          "link": "https://www.kezi.com/news/local/uccs-21-5m-project-aims-to-transform-douglas-county-healthcare/article_92d3b7b0-a7ff-4d94-a7cf-fc1987538842.html",
-          "publishedOn": "2025-08-18T21:40:00.000Z",
-          "wordCount": 8068,
-          "title": "UCC's $21.5M project aims to transform Douglas County healthcare",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/7d/37da8d66-6fc2-4958-8444-bf5575ab7a88/68a3a00369984.image.jpg?resize=300%2C225",
-            "length": "425547",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/7d/37da8d66-6fc2-4958-8444-bf5575ab7a88/68a3a00369984.image.jpg?resize=300%2C225"
         }
       ]
     }

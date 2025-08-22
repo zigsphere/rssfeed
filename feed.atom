@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-22T13:24:22.721Z</updated>
+    <updated>2025-08-22T16:16:22.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 8.22.25]]></title>
+        <id>https://kqennewsradio.com/?p=137157</id>
+        <link href="https://kqennewsradio.com/2025/08/22/morning-conversation-8-22-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-8-22-25"/>
+        <updated>2025-08-22T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[From Umpqua Valley Arts, Exhibitions Coordinator Ashley Cluver talks about the Plein Aire exhibit which is opening with a reception Saturday afternoon at 4:00 p.m.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 22, 2025]]></title>
+        <id>68a87042cbfd6b0001fa1bf1</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-22-2025/"/>
+        <updated>2025-08-22T13:58:26.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrate clean energy with National Hydropower Day on Sunday]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/cf158341-1e89-4b9e-b453-77aba8f1120c</id>
@@ -42,6 +62,16 @@
         <link href="https://kqennewsradio.com/2025/08/22/vintage-street-fair-happening-saturday-in-oakland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vintage-street-fair-happening-saturday-in-oakland"/>
         <updated>2025-08-22T10:44:13.000Z</updated>
         <summary type="html"><![CDATA[August 22, 2025 3:40 a.m.  Oakland Economic Development is hosting a Vintage Street Fair on Saturday. It will take place in downtown Oakland from 10:00 a.m. until 5:00 p.m. The event includes antiques, jewelry, home décor, clothing and more. Food, wine, and treats will be on sale. The family-friendly day includes face painting and other...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COOLING RESOURCE CENTER OPEN AFTERNOONS THROUGH TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=137143</id>
+        <link href="https://kqennewsradio.com/2025/08/22/cooling-resource-center-open-afternoons-through-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cooling-resource-center-open-afternoons-through-tuesday"/>
+        <updated>2025-08-22T10:28:51.000Z</updated>
+        <summary type="html"><![CDATA[August 22, 2025 3:40 a.m. Due to an extended period of time with temperatures over 95 degrees, a Cooling Resource Center is open afternoons through Tuesday to help those in need escape the heat. Offered by the Schlueter-Greenwalt Foundation, it is being held at Saint George Episcopal Church on Southeast Cass Avenue in downtown Roseburg....]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
@@ -874,16 +904,6 @@
         <summary type="html"><![CDATA[August 19, 2025 2:50 a.m.  In the KQEN Cultural Spotlight: The Art Gallery at Umpqua Community College presents a series of assemblage art pieces by Ralf Huber about the atrocities of child labor, past and present, in “Turning the/into Tools”. The show will be on display at the Whipple Fine Arts Center at UCC from...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC's $21.5M project aims to transform Douglas County healthcare]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/92d3b7b0-a7ff-4d94-a7cf-fc1987538842</id>
-        <link href="https://www.kezi.com/news/local/uccs-21-5m-project-aims-to-transform-douglas-county-healthcare/article_92d3b7b0-a7ff-4d94-a7cf-fc1987538842.html"/>
-        <updated>2025-08-18T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG, Ore. - Umpqua Community College (UCC) has begun construction on a new Welcome Center and Medical Careers Hub, which was kicked off on Friday with the demolition of the Del Blanchard Administration Building.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
