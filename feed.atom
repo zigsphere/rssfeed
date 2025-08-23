@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-23T16:14:25.910Z</updated>
+    <updated>2025-08-23T19:09:47.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -824,16 +824,6 @@
         <summary type="html"><![CDATA[August 20, 2025 2:50 a.m. The North Douglas County Fair is taking place in Drain this Friday and Saturday. Events take place on West A Avenue, directly behind the Mildred Whipple Public Library from 10:00 a.m. to 10:00 p.m. each day. Friday activities include a comedy magic show, pet parade, live music and more. There...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinook salmon fishing ends in Umpqua, bag limit increased for Coos Basin]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/2e787dd5-75cc-40ff-80be-3ba3e66e4fa0</id>
-        <link href="https://www.kezi.com/news/local/chinook-salmon-fishing-ends-in-umpqua-bag-limit-increased-for-coos-basin/article_2e787dd5-75cc-40ff-80be-3ba3e66e4fa0.html"/>
-        <updated>2025-08-19T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Fishing for fall Chinook salmon on the Umpqua, Smith, and North Fork Smith rivers is now closed after reaching the quota of 500 wild fall Chinook.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
