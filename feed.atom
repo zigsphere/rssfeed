@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-23T23:12:15.524Z</updated>
+    <updated>2025-08-24T03:14:57.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SHERIFF’S OFFICE SEEKING MISSING WOMAN]]></title>
+        <id>https://kqennewsradio.com/?p=137194</id>
+        <link href="https://kqennewsradio.com/2025/08/23/sheriffs-office-seeking-missing-woman/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sheriffs-office-seeking-missing-woman"/>
+        <updated>2025-08-23T23:34:54.000Z</updated>
+        <summary type="html"><![CDATA[August 23, 2025 4:20 p.m.  The Douglas County Sheriff’s Office is seeking assistance in locating 38-year-old Mysti Blu Harding, who is considered a missing person. Undersheriff Brad O’Dell said Harding was last seen by a family member on July 17th. O’Dell said she failed to report to work on August 18th. Her employer received a...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR OPENS APPLICATION PROCESS: JUDICIAL VACANCY IN DOUGLAS COUNTY]]></title>
         <id>https://kqennewsradio.com/?p=137190</id>
@@ -704,76 +714,6 @@
         <summary type="html"><![CDATA[August 20, 2025 9:20 a.m.  Roseburg Police jailed a man following an alleged trespass incident on Tuesday. An RPD report said just after 1:30 p.m. officers contacted the 59-year-old at a motel in the 400 block of Northwest Garden Valley Boulevard after an employee at the business said the man was trespassing. The suspect reportedly...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stewart Park Bridge construction making progress, nearing late fall completion]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/18fcba83-3096-48b8-83fb-161fc5f1ddab</id>
-        <link href="https://www.nrtoday.com/news/stewart-park-bridge-construction-making-progress-nearing-late-fall-completion/article_18fcba83-3096-48b8-83fb-161fc5f1ddab.html"/>
-        <updated>2025-08-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg's Stewart Park Bridge has stood as a shortcut across the South Umpqua River for commercial and residential travelers since 1933. However, as the years have gone on, the bridge has become worn and aged, with its paint beginning to…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt Integrated Health Care receives multiple awards for healthcare quality]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0437298f-7702-493d-bfa0-714b01b0d6bf</id>
-        <link href="https://www.nrtoday.com/news/adapt-integrated-health-care-receives-multiple-awards-for-healthcare-quality/article_0437298f-7702-493d-bfa0-714b01b0d6bf.html"/>
-        <updated>2025-08-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Each year, the U.S. Health Resources & Services Administration (HRSA) recognizes growth and improvement in health care providers through the awarding of Community Health Quality Recognition (CHQR) badges.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Douglas County Fair brings fun for all]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/824ea0a5-16a5-4044-8cd6-4598e76884b0</id>
-        <link href="https://www.nrtoday.com/news/history/north-douglas-county-fair-brings-fun-for-all/article_824ea0a5-16a5-4044-8cd6-4598e76884b0.html"/>
-        <updated>2025-08-20T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[DRAIN — The 103rd North Douglas County Fair will be held Friday and Saturday at the Drain Civic Center, 241 S. First Street in Drain.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final update issued in Scholfield Ridge Fire]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/01dc6cc5-b769-4e24-9189-7201b2cbaf12</id>
-        <link href="https://www.nrtoday.com/briefs/final-update-issued-in-scholfield-ridge-fire/article_01dc6cc5-b769-4e24-9189-7201b2cbaf12.html"/>
-        <updated>2025-08-20T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[REEDSPORT — Coos Forest Protective Association issued a final update on the Scholfield Ridge Fire at 8:30 p.m. Monday, stating the fire was still held at 50 acres and was 57% contained.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua, Smith, North Fork Smith Rivers fishery is closed]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/35774161-220c-4622-9605-d2ef5bcf37b7</id>
-        <link href="https://www.nrtoday.com/briefs/umpqua-smith-north-fork-smith-rivers-fishery-is-closed/article_35774161-220c-4622-9605-d2ef5bcf37b7.html"/>
-        <updated>2025-08-20T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[OREGON — Fishing for Chinook salmon, both hatchery and wild, has closed on the Umpqua, Smith and North Fork Smith rivers because the quota of 500 wild fall Chinook has been reached.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Above normal temperatures coming, near record highs possible]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5674c2c1-5a91-40fb-89e1-46c8ba011ecc</id>
-        <link href="https://www.nrtoday.com/briefs/above-normal-temperatures-coming-near-record-highs-possible/article_5674c2c1-5a91-40fb-89e1-46c8ba011ecc.html"/>
-        <updated>2025-08-20T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — Almost a week of above normal temperatures is coming to the Umpqua Valley, with the potential for near record highs starting later in the week.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 20, 2025]]></title>
-        <id>68a5cc3dcbfd6b0001fa18ee</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-20-2025/"/>
-        <updated>2025-08-20T13:48:41.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
