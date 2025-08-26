@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-25T23:12:58.705Z</updated>
+    <updated>2025-08-26T03:05:35.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Judge Robert Johnson is joined by Curtis “Wall Street: Carroll who told story of being incarcerated for 27 years, and his work while in prison to learn financial literacy and now be able to share it was others.  Judge Johnson also talked about the Drug Court program and its impact.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg house fire cause under investigation]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/4b812e4e-ea3c-4ade-9fa2-3e1c4975db17</id>
+        <link href="https://www.kezi.com/news/local/roseburg-house-fire-cause-under-investigation/article_4b812e4e-ea3c-4ade-9fa2-3e1c4975db17.html"/>
+        <updated>2025-08-25T18:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Fire officials said that the cause of a fire that severely damaged a Roseburg home on Sunday morning is currently under investigation, according to the Roseburg Fire Department.]]></summary>
+        <author>
+            <name>Ryan Bonham</name>
         </author>
     </entry>
     <entry>
@@ -504,16 +514,6 @@
         <summary type="html"><![CDATA[WINCHESTER — Umpqua Community College is well underway with three capital projects, all in various stages of transforming the campus.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 22, 2025]]></title>
-        <id>68a87042cbfd6b0001fa1bf1</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-22-2025/"/>
-        <updated>2025-08-22T13:58:26.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
