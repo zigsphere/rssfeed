@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-26T19:11:17.989Z</updated>
+    <updated>2025-08-26T23:12:17.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MEDICAL OFFICE SUSTAINS STRUCTURAL, SMOKE AND WATER DAMAGE IN FIRE]]></title>
+        <id>https://kqennewsradio.com/?p=137322</id>
+        <link href="https://kqennewsradio.com/2025/08/26/medical-office-sustains-structural-smoke-and-water-damage-in-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=medical-office-sustains-structural-smoke-and-water-damage-in-fire"/>
+        <updated>2025-08-26T20:41:10.000Z</updated>
+        <summary type="html"><![CDATA[August 26, 2025 1:40 p.m.   A medical office in Roseburg was damaged in a fire Tuesday morning. A Roseburg Fire Department release said at 7:10 a.m. personnel responded to a reported commercial structure fire in the 2500 block of Northwest Edenbower Boulevard. The reporting party said an exterior window was broken with smoke exiting from...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 8.26.25]]></title>
+        <id>https://kqennewsradio.com/?p=137316</id>
+        <link href="https://kqennewsradio.com/2025/08/26/inside-douglas-county-8-26-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-8-26-25"/>
+        <updated>2025-08-26T20:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Current Marion County Commissioner Danielle Bethell is a Republican candidate for Governor of Oregon.  Bethell goes in depth sharing her background, views on the issues, and why she wants to lead Oregon.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mother arrested after 5-year-old son reportedly overdoses on meth in Roseburg]]></title>
         <id>68ae037acbfd6b0001fa2146</id>
