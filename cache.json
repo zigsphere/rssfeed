@@ -359,6 +359,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c9fa49e3-73c1-41d3-bd2b-720ba37c09a0",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "While youth orchestras teach children crucial fundamentals and how to closely follow sheet music, there's not always an opportunity in them to cut loose and play without the fear of missing a note or perfecting a solo.",
+          "link": "https://www.nrtoday.com/a_and_e/fiddling-in-the-park-brings-in-youth-to-participate-in-music-and-community/article_c9fa49e3-73c1-41d3-bd2b-720ba37c09a0.html",
+          "publishedOn": "2025-08-26T15:00:00.000Z",
+          "wordCount": 13253,
+          "title": "Fiddling in the Park brings in youth to participate in music and community",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d5/6d5b70a7-f084-4ef7-a76a-8216e6847ac7/68aceb11e44f4.image.jpg?resize=300%2C200",
+            "length": "574493",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/d5/6d5b70a7-f084-4ef7-a76a-8216e6847ac7/68aceb11e44f4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/98e9a07c-8058-48a1-866c-731f2d0640a6",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — A Red Flag Warning is in effect Tuesday from.1-9 p.m. for parts of southwest and south-central Oregon.",
+          "link": "https://www.nrtoday.com/briefs/red-flag-warning-in-effect-tuesday/article_98e9a07c-8058-48a1-866c-731f2d0640a6.html",
+          "publishedOn": "2025-08-26T14:40:00.000Z",
+          "wordCount": 12119,
+          "title": "Red Flag Warning in effect Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e0a11334-a1ad-4f4e-8289-f21cb032fdc8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DAYS CREEK — Days Creek Charter School invited students kindergarten through 12th grade back to school Monday.",
+          "link": "https://www.nrtoday.com/news/education/days-creek-charter-school-opens-for-new-year/article_e0a11334-a1ad-4f4e-8289-f21cb032fdc8.html",
+          "publishedOn": "2025-08-26T14:30:00.000Z",
+          "wordCount": 13487,
+          "title": "Days Creek Charter School opens for new year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/57/857402c1-f18d-4318-b178-5801e0b6d0f6/68adc13171643.image.jpg?resize=300%2C200",
+            "length": "426763",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/57/857402c1-f18d-4318-b178-5801e0b6d0f6/68adc13171643.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/20f5dbff-53f7-48cf-b8cf-e0c1a2e65de3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Umpqua National Forest — The U.S. Forest Service announced multiple reports of new fires in the north zone of the forest due to a widespread lightening storm on Aug. 24.",
+          "link": "https://www.nrtoday.com/news/environment/umpqua-national-forest-sees-multiple-fires-start/article_20f5dbff-53f7-48cf-b8cf-e0c1a2e65de3.html",
+          "publishedOn": "2025-08-25T17:05:00.000Z",
+          "wordCount": 13322,
+          "title": "Umpqua National Forest sees multiple fires start",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/74/6747da64-62fb-42ce-bac2-13cd33ea9ddf/68acc17a4d96b.image.jpg?resize=300%2C464",
+            "length": "400569",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/74/6747da64-62fb-42ce-bac2-13cd33ea9ddf/68acc17a4d96b.image.jpg?resize=300%2C464"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c4851fa0-5c21-4999-b99a-68645db9743e",
           "author": "Amelia Winkelman The News-Review",
           "description": "Summers are getting hotter, and deadly heat related illnesses like heat stroke are becoming more common. Last summer, 11 people in Oregon died during of the July 4-7 heat wave — one of the most deadly weather events in Oregon’s…",
@@ -392,121 +447,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/e0/6e0e41ad-5113-4c59-88a3-0a5e553b5499/68a8ab7c8d28d.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2e08f9e6-5e5a-409c-b5dd-705d0d174c07",
-          "author": "Amelia Winkelman The News-Review",
-          "description": "The YMCA of Douglas County will be closed for upgrades and maintenance beginning Monday and will reopen Tuesday, Sept. 2 with a remodeled weight room and other updates, according to a press release from the facility.",
-          "link": "https://www.nrtoday.com/family/ymca-closed-until-tuesday-for-upgrades-youth-sport-and-day-care-registration-open/article_2e08f9e6-5e5a-409c-b5dd-705d0d174c07.html",
-          "publishedOn": "2025-08-22T21:00:00.000Z",
-          "wordCount": 12621,
-          "title": "YMCA closed until Tuesday for upgrades, youth sport and day care registration open",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/61/46108a78-a9d0-11ee-8372-7b26815eaa71/658efaa61836e.image.jpg?resize=300%2C200",
-            "length": "623484",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/61/46108a78-a9d0-11ee-8372-7b26815eaa71/658efaa61836e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b6fa84cc-a1c2-4439-9d23-b474a62beb6d",
-          "author": "Kris Wiley For The News-Review",
-          "description": "Roseburg Public Library is dedicating additional resources to purchase digital materials and large-print books, and I’m asking readers to share ideas for collection development.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-library-requests-reader-input/article_b6fa84cc-a1c2-4439-9d23-b474a62beb6d.html",
-          "publishedOn": "2025-08-22T16:41:00.000Z",
-          "wordCount": 12659,
-          "title": "Roseburg Library requests reader input",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
-            "length": "188004",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6454d0ff-ec55-4342-a3da-c843eca452ec",
-          "author": "Mackenzi Hall Master Gardner",
-          "description": "Question: Now that the growing season is slowly winding down, do you have any suggestions for gardening related hobbies I could do during the winter?",
-          "link": "https://www.nrtoday.com/life/the-value-of-keeping-a-gardening-journal/article_6454d0ff-ec55-4342-a3da-c843eca452ec.html",
-          "publishedOn": "2025-08-22T16:30:00.000Z",
-          "wordCount": 12831,
-          "title": "The value of keeping a gardening journal",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6c/06cde579-498d-45d0-b4f0-9a4ccd45367c/68a377dc67933.image.jpg?resize=300%2C200",
-            "length": "120049",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/6c/06cde579-498d-45d0-b4f0-9a4ccd45367c/68a377dc67933.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ccfba9a-4647-418f-9c0a-62a7ef1da0f3",
-          "author": "Amelia Winkelman The News-Review",
-          "description": "Drain, Myrtle Creek and Yoncalla share a common gap in staff. But what does that mean for them?",
-          "link": "https://www.nrtoday.com/news/local/douglas_county/drain-myrtle-creek-yoncalla-without-city-administrators/article_3ccfba9a-4647-418f-9c0a-62a7ef1da0f3.html",
-          "publishedOn": "2025-08-22T16:00:00.000Z",
-          "wordCount": 13305,
-          "title": "Drain, Myrtle Creek, Yoncalla without city administrators",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ff3be57b-6a96-4c12-a733-7d9f1359af08",
-          "author": "Jack Costa Umpqua Valley Winegrowers Association For The News-Review",
-          "description": "As summer begins to simmer down in the Umpqua Valley, a few warm days remain before the cool days of fall start to seep in. For those looking to squeeze out the last few drops of fun, the Umpqua Valley…",
-          "link": "https://www.nrtoday.com/business/best-ways-to-soak-up-the-last-bits-of-summer-at-cooper-ridge/article_ff3be57b-6a96-4c12-a733-7d9f1359af08.html",
-          "publishedOn": "2025-08-22T15:00:00.000Z",
-          "wordCount": 13054,
-          "title": "Best ways to soak up the last bits of summer at Cooper Ridge",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2e/62ed8eb8-6bc2-4007-8566-2b6bd374fd9b/68a36e8ff0698.image.png?resize=300%2C424",
-            "length": "2000800",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2e/62ed8eb8-6bc2-4007-8566-2b6bd374fd9b/68a36e8ff0698.image.png?resize=300%2C424"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4552588c-c6f8-4adb-8eff-c87b104b72fa",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — Umpqua Community College is well underway with three capital projects, all in various stages of transforming the campus.",
-          "link": "https://www.nrtoday.com/news/education/construction-at-umpqua-community-college-is-underway/article_4552588c-c6f8-4adb-8eff-c87b104b72fa.html",
-          "publishedOn": "2025-08-22T14:00:00.000Z",
-          "wordCount": 13889,
-          "title": "Construction at Umpqua Community College is underway",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/65/b650abb7-801c-4108-ba35-889470841bbf/68a5d3005d1bc.image.jpg?resize=300%2C200",
-            "length": "532693",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/65/b650abb7-801c-4108-ba35-889470841bbf/68a5d3005d1bc.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/cf158341-1e89-4b9e-b453-77aba8f1120c",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "National Hydropower Day 2025 is Sunday, according to the National Hydropower Association.",
-          "link": "https://www.nrtoday.com/news/environment/celebrate-clean-energy-with-national-hydropower-day-on-sunday/article_cf158341-1e89-4b9e-b453-77aba8f1120c.html",
-          "publishedOn": "2025-08-22T12:30:00.000Z",
-          "wordCount": 12721,
-          "title": "Celebrate clean energy with National Hydropower Day on Sunday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9a/d9a27e19-9974-47d6-b3a0-1fab65ee159a/68a6159b57fbe.image.jpg?resize=300%2C263",
-            "length": "144519",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/9a/d9a27e19-9974-47d6-b3a0-1fab65ee159a/68a6159b57fbe.image.jpg?resize=300%2C263"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5f514dac-1866-4ff7-9324-06224db43c75",
-          "author": "NIGEL JAQUISS Oregon Journalism Project",
-          "description": "As the Legislature prepares for an Aug. 29 special session to bail out the Oregon Department of Transportation, Oregon economist Joe Cortright says the state agency is misleading lawmakers and the public about its budget.",
-          "link": "https://www.nrtoday.com/news/odot-s-most-persistent-critic-says-the-state-could-solve-its-road-funding-crunch-by/article_5f514dac-1866-4ff7-9324-06224db43c75.html",
-          "publishedOn": "2025-08-22T12:15:00.000Z",
-          "wordCount": 13287,
-          "title": "ODOT’s most persistent critic says the state could solve its road-funding crunch — by scuttling some projects",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/38/238d1768-feab-4ec3-9baf-4e9724520a18/68a611d7c2813.image.jpg?resize=300%2C169",
-            "length": "186957",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/38/238d1768-feab-4ec3-9baf-4e9724520a18/68a611d7c2813.image.jpg?resize=300%2C169"
         }
       ]
     },
@@ -521,6 +461,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68adb562cbfd6b0001fa1fc1",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-26-2025/",
+          "publishedOn": "2025-08-26T13:39:21.000Z",
+          "wordCount": 4119,
+          "title": "August 26, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-16.png"
+        },
         {
           "id": "68abe151cbfd6b0001fa1db7",
           "author": "Joseph Ziegler",
