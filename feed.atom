@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-26T23:12:17.977Z</updated>
+    <updated>2025-08-27T02:58:52.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH RADIO 8.26.25]]></title>
+        <id>https://kqennewsradio.com/?p=137325</id>
+        <link href="https://kqennewsradio.com/2025/08/26/true-wealth-radio-8-26-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-radio-8-26-25"/>
+        <updated>2025-08-27T00:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial: David Littlejohn, Matt Dickson and attorney Derek Simmons have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEDICAL OFFICE SUSTAINS STRUCTURAL, SMOKE AND WATER DAMAGE IN FIRE]]></title>
         <id>https://kqennewsradio.com/?p=137322</id>
@@ -24,6 +34,36 @@
         <summary type="html"><![CDATA[Current Marion County Commissioner Danielle Bethell is a Republican candidate for Governor of Oregon.  Bethell goes in depth sharing her background, views on the issues, and why she wants to lead Oregon.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA decreases fire danger levels to High]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/abb4ecb7-ef83-49ab-a083-f1de58730c51</id>
+        <link href="https://www.nrtoday.com/briefs/dfpa-decreases-fire-danger-levels-to-high/article_abb4ecb7-ef83-49ab-a083-f1de58730c51.html"/>
+        <updated>2025-08-26T19:32:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS DISTRICT — Due to the predicted decreases in temperatures, increases in relative humidity and better overnight moisture recovery, Douglas Forest Protective Association will lower the fire danger level to high from extreme as of Thursday morning.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bureau of Land Management repaves Rock Creek Road]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/aa073f1b-36e6-41a3-91bf-e5be00158b56</id>
+        <link href="https://www.nrtoday.com/briefs/bureau-of-land-management-repaves-rock-creek-road/article_aa073f1b-36e6-41a3-91bf-e5be00158b56.html"/>
+        <updated>2025-08-26T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[IDLEYLD PARK — The Bureau of Land Management will repave Rock Creek Road and East Fork Rock Creek Road between mileposts 3-18 starting Monday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg offices closed Monday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4dd48287-adef-4f31-b329-bf859a8decd3</id>
+        <link href="https://www.nrtoday.com/briefs/roseburg-offices-closed-monday/article_4dd48287-adef-4f31-b329-bf859a8decd3.html"/>
+        <updated>2025-08-26T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — City of Roseburg buildings will be closed Monday in observance of Labor Day. This includes the Roseburg City Hall, Roseburg Public Safety Center, Roseburg Public Library and other city buildings.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -562,16 +602,6 @@
         <link href="https://kqennewsradio.com/2025/08/23/heat-advisory-in-effect-through-sunday-night-at-800-p-m/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=heat-advisory-in-effect-through-sunday-night-at-800-p-m"/>
         <updated>2025-08-23T15:50:29.000Z</updated>
         <summary type="html"><![CDATA[August 23, 2025 8:50 a.m.  A Heat Advisory remains in effect through 8:00 p.m. Sunday for central Douglas County and its eastern foothills. Forecasters at the National Weather Service in Medford said hot conditions with high temperatures of 95 to 104 degrees are expected. Overnight low temperatures will range from 55 to 65 degrees. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECORD TIES RECORD HIGH FOR THE DATE ON FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=137185</id>
-        <link href="https://kqennewsradio.com/2025/08/23/record-ties-record-high-for-the-date-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=record-ties-record-high-for-the-date-on-friday"/>
-        <updated>2025-08-23T13:44:26.000Z</updated>
-        <summary type="html"><![CDATA[August 23, 2025 6:50 a.m. Roseburg tied the record high for the date on Friday. Data from the National Weather Service in Medford said the mercury reached 101 degrees at the Roseburg Regional Airport. That tied the record for August 22nd, which was set in 1934. Roseburg could tie the record high for the date,...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

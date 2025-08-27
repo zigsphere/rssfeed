@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137325",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial: David Littlejohn, Matt Dickson and attorney Derek Simmons have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/08/26/true-wealth-radio-8-26-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-8-26-25",
+          "publishedOn": "2025-08-27T00:08:34.000Z",
+          "wordCount": 1629,
+          "title": "TRUE WEALTH RADIO 8.26.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250826230259/TWR-08-26-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137322",
           "author": "Kyle Bailey",
           "description": "August 26, 2025 1:40 p.m.   A medical office in Roseburg was damaged in a fire Tuesday morning. A Roseburg Fire Department release said at 7:10 a.m. personnel responded to a reported commercial structure fire in the 2500 block of Northwest Edenbower Boulevard. The reporting party said an exterior window was broken with smoke exiting from...",
@@ -444,16 +459,6 @@
           "wordCount": 1698,
           "title": "HEAT ADVISORY IN EFFECT THROUGH SUNDAY NIGHT AT 8:00 P.M.",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250823145016/SatAM-18.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137185",
-          "author": "Kyle Bailey",
-          "description": "August 23, 2025 6:50 a.m. Roseburg tied the record high for the date on Friday. Data from the National Weather Service in Medford said the mercury reached 101 degrees at the Roseburg Regional Airport. That tied the record for August 22nd, which was set in 1934. Roseburg could tie the record high for the date,...",
-          "link": "https://kqennewsradio.com/2025/08/23/record-ties-record-high-for-the-date-on-friday/?utm_source=rss&utm_medium=rss&utm_campaign=record-ties-record-high-for-the-date-on-friday",
-          "publishedOn": "2025-08-23T13:44:26.000Z",
-          "wordCount": 1657,
-          "title": "RECORD TIES RECORD HIGH FOR THE DATE ON FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224115/Sunshine-park-ball-field-1.jpg"
         }
       ]
     },
@@ -468,6 +473,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/abb4ecb7-ef83-49ab-a083-f1de58730c51",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "DOUGLAS DISTRICT — Due to the predicted decreases in temperatures, increases in relative humidity and better overnight moisture recovery, Douglas Forest Protective Association will lower the fire danger level to high from extreme as of Thursday morning.",
+          "link": "https://www.nrtoday.com/briefs/dfpa-decreases-fire-danger-levels-to-high/article_abb4ecb7-ef83-49ab-a083-f1de58730c51.html",
+          "publishedOn": "2025-08-26T19:32:00.000Z",
+          "wordCount": 13475,
+          "title": "DFPA decreases fire danger levels to High",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/aa073f1b-36e6-41a3-91bf-e5be00158b56",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "IDLEYLD PARK — The Bureau of Land Management will repave Rock Creek Road and East Fork Rock Creek Road between mileposts 3-18 starting Monday.",
+          "link": "https://www.nrtoday.com/briefs/bureau-of-land-management-repaves-rock-creek-road/article_aa073f1b-36e6-41a3-91bf-e5be00158b56.html",
+          "publishedOn": "2025-08-26T19:27:00.000Z",
+          "wordCount": 12759,
+          "title": "Bureau of Land Management repaves Rock Creek Road",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4dd48287-adef-4f31-b329-bf859a8decd3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — City of Roseburg buildings will be closed Monday in observance of Labor Day. This includes the Roseburg City Hall, Roseburg Public Safety Center, Roseburg Public Library and other city buildings.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-offices-closed-monday/article_4dd48287-adef-4f31-b329-bf859a8decd3.html",
+          "publishedOn": "2025-08-26T19:15:00.000Z",
+          "wordCount": 12767,
+          "title": "Roseburg offices closed Monday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c9fa49e3-73c1-41d3-bd2b-720ba37c09a0",
           "author": "ANDREW GRIFFIN The News-Review",
