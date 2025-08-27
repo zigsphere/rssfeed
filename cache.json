@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137383",
+          "author": "Kyle Bailey",
+          "description": "August 27, 2025 3:10 p.m.   A Myrtle Point man was jailed for a stolen vehicle incident on Tuesday. An Oregon State Police report said at 1:30 p.m. a trooper responded to assist a disabled motorist on Interstate Five southbound at the Winchester exit. A check of the driver revealed two current warrants and suspended driving...",
+          "link": "https://kqennewsradio.com/2025/08/27/myrtle-point-man-jailed-for-stolen-vehicle-incident/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-point-man-jailed-for-stolen-vehicle-incident",
+          "publishedOn": "2025-08-27T22:15:15.000Z",
+          "wordCount": 1663,
+          "title": "MYRTLE POINT MAN JAILED FOR STOLEN VEHICLE INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=137380",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith talks about the state revenue forecast which just came out, and the Special Session of the Oregon State Legislature,  which begins on Friday.",
+          "link": "https://kqennewsradio.com/2025/08/27/inside-douglas-county-8-27-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-8-27-25",
+          "publishedOn": "2025-08-27T20:17:34.000Z",
+          "wordCount": 1644,
+          "title": "INSIDE DOUGLAS COUNTY 8.27.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250827191532/IDC-08-27-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137377",
           "author": "Kyle Bailey",
           "description": "August 27, 2025 11:00 a.m.  Complex Incident Management Team Northwest 13 assumed command of the Sugar Loaf Fire on Tuesday night. The fire is just east of Sugarloaf Mountain on the Cottage Grove Ranger District. The fire is 46 acres with zero percent containment as of midday Wednesday. Crews are anchoring off the 850 Road,...",
@@ -618,6 +643,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f2d2d2a0-c364-4504-bd0a-c4bc28cb6709",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The northbound lanes of Interstate 5 are closed at milepost 163, 11 miles south of Cottage Grove. The closure is due to an overturned log truck blocking the road. One southbound lane is also closed due to a crash.",
+          "link": "https://www.nrtoday.com/briefs/northbound-lanes-of-i-5-closed-at-exit-163/article_f2d2d2a0-c364-4504-bd0a-c4bc28cb6709.html",
+          "publishedOn": "2025-08-27T14:34:00.000Z",
+          "wordCount": 12639,
+          "title": "Northbound lanes of I-5 closed at exit 163",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/abb4ecb7-ef83-49ab-a083-f1de58730c51",
           "author": "GLORIA COLEMAN The News-Review",
