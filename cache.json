@@ -524,6 +524,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f2d2d2a0-c364-4504-bd0a-c4bc28cb6709",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The northbound lanes of Interstate 5 are closed at milepost 163, 11 miles south of Cottage Grove. The closure is due to an overturned log truck blocking the road. One southbound lane is also closed due to a crash.",
+          "link": "https://www.nrtoday.com/briefs/northbound-lanes-of-i-5-closed-at-exit-163/article_f2d2d2a0-c364-4504-bd0a-c4bc28cb6709.html",
+          "publishedOn": "2025-08-27T14:34:00.000Z",
+          "wordCount": 12628,
+          "title": "Northbound lanes of I-5 closed at exit 163",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/abb4ecb7-ef83-49ab-a083-f1de58730c51",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "DOUGLAS DISTRICT — Due to the predicted decreases in temperatures, increases in relative humidity and better overnight moisture recovery, Douglas Forest Protective Association will lower the fire danger level to high from extreme as of Thursday morning.",
@@ -657,6 +667,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68af269bcbfd6b0001fa22c1",
+          "author": "Joseph Ziegler",
+          "description": "A Bandon man has been indicted on 371 charges tied to the West Coast Game Park, including hundreds of animal neglect counts, wildlife violations, drug crimes, and unlawful possession of a machine gun. Prosecutors also added a felony racketeering charge.",
+          "link": "https://www.roseburgscanner.com/bandon-man-indicted-on-hundreds-of-charges-tied-to-game-park-investigation/",
+          "publishedOn": "2025-08-27T15:41:20.000Z",
+          "wordCount": 1661,
+          "title": "Bandon Man Indicted on Hundreds of Charges Tied to Game Park Investigation",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/coos_county_courthouse.webp"
+        },
+        {
+          "id": "68af06dbcbfd6b0001fa2161",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-27-2025/",
+          "publishedOn": "2025-08-27T13:38:08.000Z",
+          "wordCount": 4227,
+          "title": "August 27, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-17.png"
+        },
+        {
           "id": "68ae037acbfd6b0001fa2146",
           "author": "Joseph Ziegler",
           "description": "A Roseburg woman was arrested after her 5-year-old son overdosed on meth early Sunday. Police say she admitted the child accessed her drugs. After receiving Narcan, he was hospitalized. She faces a charge of endangering the welfare of a minor.",
@@ -714,6 +744,36 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/65a6d006-9f9b-4193-b414-2943722d4184",
+          "author": "News Staff",
+          "description": "According to the Douglas Forest Protective Association (DFPA), recent lightning storms sparked two fires on DFPA-protected lands on Monday.",
+          "link": "https://www.kezi.com/news/local/douglas-county-forest-crews-swiftly-contain-lightning-sparked-fires-near-glide-oakland/article_65a6d006-9f9b-4193-b414-2943722d4184.html",
+          "publishedOn": "2025-08-26T23:36:00.000Z",
+          "wordCount": 8025,
+          "title": "Douglas County forest crews swiftly contain lightning-sparked fires near Glide, Oakland",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/90/a90e53df-1c66-4996-bd2d-01a0a06416e2/68ae4619a490d.image.jpg?resize=300%2C200",
+            "length": "220876",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/90/a90e53df-1c66-4996-bd2d-01a0a06416e2/68ae4619a490d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/7015eb29-76f3-496f-957d-5c6daef96424",
+          "author": "News Staff",
+          "description": "Firefighters tackled a blaze Tuesday morning at a commercial building on Northwest Edenbower Boulevard.",
+          "link": "https://www.kezi.com/news/local/smoke-from-roseburg-dental-office-prompts-swift-firefighter-response/article_7015eb29-76f3-496f-957d-5c6daef96424.html",
+          "publishedOn": "2025-08-26T22:21:00.000Z",
+          "wordCount": 7982,
+          "title": "Smoke from Roseburg dental office prompts swift firefighter response",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/09/00984534-95b4-429e-94d7-b5e5ba0a4027/68ae3540c0c5d.image.jpg?resize=300%2C162",
+            "length": "216714",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/09/00984534-95b4-429e-94d7-b5e5ba0a4027/68ae3540c0c5d.image.jpg?resize=300%2C162"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/4b812e4e-ea3c-4ade-9fa2-3e1c4975db17",
           "author": "Ryan Bonham",
           "description": "Fire officials said that the cause of a fire that severely damaged a Roseburg home on Sunday morning is currently under investigation, according to the Roseburg Fire Department.",
@@ -742,36 +802,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/c7/cc7e9a60-a440-55d7-aa33-04c038d15004/61a92c6bec752.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/90ce0d8e-e43b-41fc-a256-0fbf6bdb356a",
-          "author": "News Staff",
-          "description": "Douglas County is gearing up for its 3rd Annual International Overdose Awareness Day event on Saturday, Aug. 23, from 11 a.m. to 1 p.m. at Stewart Park Pavilion.",
-          "link": "https://www.kezi.com/news/local/adapt-integrated-health-care-community-partners-to-host-overdose-awareness-event/article_90ce0d8e-e43b-41fc-a256-0fbf6bdb356a.html",
-          "publishedOn": "2025-08-22T19:41:00.000Z",
-          "wordCount": 8641,
-          "title": "Adapt Integrated Health Care, community partners to host overdose awareness event",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/99/b99f60c6-3587-11ee-ad18-efeb53d0248d/64d1953a1c3ae.image.jpg?resize=300%2C169",
-            "length": "144219",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/99/b99f60c6-3587-11ee-ad18-efeb53d0248d/64d1953a1c3ae.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/5f6d7bea-4d77-4b62-8658-c9eef1884682",
-          "author": "News Staff",
-          "description": "Roseburg Public Library is seeking input from patrons to guide their collection development. They are focusing on expanding digital materials and large-print books.",
-          "link": "https://www.kezi.com/news/roseburg-library-seeks-publics-input-on-book-collection-choices/article_5f6d7bea-4d77-4b62-8658-c9eef1884682.html",
-          "publishedOn": "2025-08-22T17:44:00.000Z",
-          "wordCount": 8602,
-          "title": "Roseburg library seeks public's input on book collection choices",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225",
-            "length": "545684",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225"
         }
       ]
     }

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-27T13:23:31.972Z</updated>
+    <updated>2025-08-27T16:16:48.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bandon Man Indicted on Hundreds of Charges Tied to Game Park Investigation]]></title>
+        <id>68af269bcbfd6b0001fa22c1</id>
+        <link href="https://www.roseburgscanner.com/bandon-man-indicted-on-hundreds-of-charges-tied-to-game-park-investigation/"/>
+        <updated>2025-08-27T15:41:20.000Z</updated>
+        <summary type="html"><![CDATA[A Bandon man has been indicted on 371 charges tied to the West Coast Game Park, including hundreds of animal neglect counts, wildlife violations, drug crimes, and unlawful possession of a machine gun. Prosecutors also added a felony racketeering charge.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northbound lanes of I-5 closed at exit 163]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f2d2d2a0-c364-4504-bd0a-c4bc28cb6709</id>
+        <link href="https://www.nrtoday.com/briefs/northbound-lanes-of-i-5-closed-at-exit-163/article_f2d2d2a0-c364-4504-bd0a-c4bc28cb6709.html"/>
+        <updated>2025-08-27T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The northbound lanes of Interstate 5 are closed at milepost 163, 11 miles south of Cottage Grove. The closure is due to an overturned log truck blocking the road. One southbound lane is also closed due to a crash.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 27, 2025]]></title>
+        <id>68af06dbcbfd6b0001fa2161</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/august-27-2025/"/>
+        <updated>2025-08-27T13:38:08.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG JUST MISSES RECORD HIGH, MORE ABOVE NORMAL TEMPERATURES AHEAD]]></title>
         <id>https://kqennewsradio.com/?p=137350</id>
@@ -94,6 +124,26 @@
         <summary type="html"><![CDATA[Presented by Littlejohn Financial: David Littlejohn, Matt Dickson and attorney Derek Simmons have our weekly local financial program.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County forest crews swiftly contain lightning-sparked fires near Glide, Oakland]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/65a6d006-9f9b-4193-b414-2943722d4184</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-forest-crews-swiftly-contain-lightning-sparked-fires-near-glide-oakland/article_65a6d006-9f9b-4193-b414-2943722d4184.html"/>
+        <updated>2025-08-26T23:36:00.000Z</updated>
+        <summary type="html"><![CDATA[According to the Douglas Forest Protective Association (DFPA), recent lightning storms sparked two fires on DFPA-protected lands on Monday.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoke from Roseburg dental office prompts swift firefighter response]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/7015eb29-76f3-496f-957d-5c6daef96424</id>
+        <link href="https://www.kezi.com/news/local/smoke-from-roseburg-dental-office-prompts-swift-firefighter-response/article_7015eb29-76f3-496f-957d-5c6daef96424.html"/>
+        <updated>2025-08-26T22:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters tackled a blaze Tuesday morning at a commercial building on Northwest Edenbower Boulevard.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -654,26 +704,6 @@
         <summary type="html"><![CDATA[August 24, 2025 5:40 a.m. A Heat Advisory remains in effect through Sunday night at 8:00 p.m. in central Douglas County and its eastern foothills. Forecasters at the National Weather Service in Medford said hot conditions with high temperatures of 95 to 100 degrees are expected. Overnight low temperatures will range between 55 and 65...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt Integrated Health Care, community partners to host overdose awareness event]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/90ce0d8e-e43b-41fc-a256-0fbf6bdb356a</id>
-        <link href="https://www.kezi.com/news/local/adapt-integrated-health-care-community-partners-to-host-overdose-awareness-event/article_90ce0d8e-e43b-41fc-a256-0fbf6bdb356a.html"/>
-        <updated>2025-08-22T19:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County is gearing up for its 3rd Annual International Overdose Awareness Day event on Saturday, Aug. 23, from 11 a.m. to 1 p.m. at Stewart Park Pavilion.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg library seeks public's input on book collection choices]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/5f6d7bea-4d77-4b62-8658-c9eef1884682</id>
-        <link href="https://www.kezi.com/news/roseburg-library-seeks-publics-input-on-book-collection-choices/article_5f6d7bea-4d77-4b62-8658-c9eef1884682.html"/>
-        <updated>2025-08-22T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library is seeking input from patrons to guide their collection development. They are focusing on expanding digital materials and large-print books.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
