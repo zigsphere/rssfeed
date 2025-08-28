@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137403",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Actors Community Theatre’s Ashley Chitwood is the director for their production of, “Picasso at the Lapin Agile”, which open on September 4th.",
+          "link": "https://kqennewsradio.com/2025/08/28/morning-conversation-8-28-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-8-28-25",
+          "publishedOn": "2025-08-28T16:14:05.000Z",
+          "wordCount": 1636,
+          "title": "MORNING CONVERSATION 8.28.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250828150620/AM-CONV-08-28-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250828151352/Ashley-4-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137398",
           "author": "Kyle Bailey",
           "description": "August 28, 2025 4:10 a.m.  A ridge of high pressure is staying in place in the Umpqua Valley, but some cooling is expected for the next two days. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs should be right at or slightly above 90 degrees...",
@@ -674,6 +689,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f8003a1b-d671-4e33-82a0-21d08dd4ae02",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "What would happen if two massively influential historical figures — Pablo Picasso and Albert Einstein — met in a bar just before putting out their greatest achievements? What would have resulted from their conversation?",
+          "link": "https://www.nrtoday.com/a_and_e/two-historic-figures-bring-big-laughs-to-uact/article_f8003a1b-d671-4e33-82a0-21d08dd4ae02.html",
+          "publishedOn": "2025-08-28T15:00:00.000Z",
+          "wordCount": 13350,
+          "title": "Two historic figures bring big laughs to UACT",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/89/18946c84-557e-40ad-9499-93d01a09f89d/68afc8d979269.image.jpg?resize=300%2C200",
+            "length": "316962",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/89/18946c84-557e-40ad-9499-93d01a09f89d/68afc8d979269.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f3689e40-e78b-490c-bd18-429e6560b232",
+          "author": "Scott Carroll The News-Review",
+          "description": "WINSTON — Quantivia Lopez said that almost as soon as she and her 2-year-old daughter got on Leo the camel, she noticed something was wrong.",
+          "link": "https://www.nrtoday.com/news/camel-ride-spurs-lawsuit/article_f3689e40-e78b-490c-bd18-429e6560b232.html",
+          "publishedOn": "2025-08-28T15:00:00.000Z",
+          "wordCount": 13043,
+          "title": "Camel ride spurs lawsuit",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/36/936052ba-8830-484b-8645-086c79c59edb/681a53c6ccafb.image.jpg?resize=300%2C200",
+            "length": "475945",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/36/936052ba-8830-484b-8645-086c79c59edb/681a53c6ccafb.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ee734680-b4ba-4ba1-a627-bfe50102e8f5",
+          "author": "Amelia Winkelman The News-Review",
+          "description": "(Re)Discover Downtown Roseburg’s Fifth Friday event returns from from 4:30-7:30 p.m. Friday. It includes an author book signing at Yours Truly Bookshop, Central Art Supply store opening, a kitten adoption pop-up and more.",
+          "link": "https://www.nrtoday.com/a_and_e/rediscover-downtown-roseburg-during-fifth-friday/article_ee734680-b4ba-4ba1-a627-bfe50102e8f5.html",
+          "publishedOn": "2025-08-28T14:15:00.000Z",
+          "wordCount": 12864,
+          "title": "Rediscover downtown Roseburg during Fifth Friday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/48/948a4060-9606-435d-acd8-12862316e9a7/6792aa3167c9f.image.jpg?resize=300%2C200",
+            "length": "541004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/48/948a4060-9606-435d-acd8-12862316e9a7/6792aa3167c9f.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f2d2d2a0-c364-4504-bd0a-c4bc28cb6709",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "The northbound lanes of Interstate 5 are closed at milepost 163, 11 miles south of Cottage Grove. The closure is due to an overturned log truck blocking the road. One southbound lane is also closed due to a crash.",
@@ -817,6 +877,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68b05962cbfd6b0001fa22e4",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/august-28-2025/",
+          "publishedOn": "2025-08-28T13:42:23.000Z",
+          "wordCount": 4131,
+          "title": "August 28, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-18.png"
+        },
+        {
           "id": "68afc81bcbfd6b0001fa22d4",
           "author": "Joseph Ziegler",
           "description": "Lookingglass Rural Fire District is offering two scholarships worth nearly $16,000 each for volunteers pursuing fire science. Applications, including a 500-word essay, are due Sept. 30, 2025. Winners will be announced Oct. 31.",
@@ -875,26 +945,6 @@
           "wordCount": 4544,
           "title": "August 25, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/The-Morning-Scoop-15.png"
-        },
-        {
-          "id": "68abe2e2cbfd6b0001fa1dc2",
-          "author": "Joseph Ziegler",
-          "description": "Twisted Steel RC Hobby Shop in Roseburg is closing its doors. The store confirmed it is going out of business, urging customers to use credits and warranties soon. A cash-only blowout sale with up to 50% off starts August 22, 2025. All sales final, no refunds or exchanges.",
-          "link": "https://www.roseburgscanner.com/twisted-steel-rc-hobby-shop-announces-store-closing/",
-          "publishedOn": "2025-08-25T04:15:42.000Z",
-          "wordCount": 1727,
-          "title": "Twisted Steel RC Hobby Shop Announces Store Closing",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/2024-10-22.webp"
-        },
-        {
-          "id": "68abd3efcbfd6b0001fa1d99",
-          "author": "Joseph Ziegler",
-          "description": "Claire’s in Roseburg, located at 780 NW Garden Valley Boulevard, Suite 100, will close on August 26, 2025. The closure is part of the retailer’s nationwide bankruptcy restructuring. Shoppers can expect liquidation sales until the final day, marking the end of a nostalgic local favorite.",
-          "link": "https://www.roseburgscanner.com/claires-in-roseburg-to-close-on-august-26/",
-          "publishedOn": "2025-08-25T03:15:58.000Z",
-          "wordCount": 1887,
-          "title": "Claire’s in Roseburg to Close on August 26",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/08/1000004846.jpg"
         }
       ]
     },
