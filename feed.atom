@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-08-30T13:18:52.842Z</updated>
+    <updated>2025-08-30T16:14:52.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SHERIFF HANLIN JOINS 33 OTHER OREGON SHERIFF’S SEEKING CLARIFICATION ON ICE]]></title>
+        <id>https://kqennewsradio.com/?p=137483</id>
+        <link href="https://kqennewsradio.com/2025/08/30/sheriff-hanlin-joins-33-other-oregon-sheriffs-seeking-clarification-on-ice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sheriff-hanlin-joins-33-other-oregon-sheriffs-seeking-clarification-on-ice"/>
+        <updated>2025-08-30T14:39:20.000Z</updated>
+        <summary type="html"><![CDATA[August 30, 2025 7:30 a.m.  Douglas County Sheriff John Hanlin has joined 33 other Oregon Sheriff’s in signing a letter asking for legal clarity on U.S. Immigration and Customs Enforcement immigration subpoenas. Wednesday’s letter went to Marion County’s legal counsel, Oregon Attorney General Dan Rayfield and United States Attorney General Pam Bondi. A release from...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPTD ANNOUNCES TEMPORARY SERVICE REDUCTIONS]]></title>
+        <id>https://kqennewsradio.com/?p=137477</id>
+        <link href="https://kqennewsradio.com/2025/08/30/uptd-announces-temporary-service-reductions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uptd-announces-temporary-service-reductions"/>
+        <updated>2025-08-30T14:05:33.000Z</updated>
+        <summary type="html"><![CDATA[(photo credit: Patrick Moore) August 30, 2025 7:00 a.m.  On Friday, the Umpqua Public Transportation District announced that it will be reducing services beginning September 15th, following significant delays in both federal and state funding allocations. UPTD Chief Operations Officer George Carrillo said, “These reductions were not a choice but a necessity”. Carrillo said, “This...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umpqua Public Transportation District announces temporary service reductions]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/055c89d1-40c6-4d73-8e97-1b400d8ee40a</id>
@@ -794,26 +814,6 @@
         <summary type="html"><![CDATA[August 27, 2025 2:50 a.m.  Saving Grace Humane Society will have their biggest event of the year: “Paws for a Cause, A Magical Evening” on Friday, September 19th. The event will be at Melrose Vineyards where guests will enjoy an evening of delicious food, local wine and beer, exciting live and silent auctions, and adorable...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County forest crews swiftly contain lightning-sparked fires near Glide, Oakland]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/65a6d006-9f9b-4193-b414-2943722d4184</id>
-        <link href="https://www.kezi.com/news/local/douglas-county-forest-crews-swiftly-contain-lightning-sparked-fires-near-glide-oakland/article_65a6d006-9f9b-4193-b414-2943722d4184.html"/>
-        <updated>2025-08-26T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[According to the Douglas Forest Protective Association (DFPA), recent lightning storms sparked two fires on DFPA-protected lands on Monday.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoke from Roseburg dental office prompts swift firefighter response]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/7015eb29-76f3-496f-957d-5c6daef96424</id>
-        <link href="https://www.kezi.com/news/local/smoke-from-roseburg-dental-office-prompts-swift-firefighter-response/article_7015eb29-76f3-496f-957d-5c6daef96424.html"/>
-        <updated>2025-08-26T22:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters tackled a blaze Tuesday morning at a commercial building on Northwest Edenbower Boulevard.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

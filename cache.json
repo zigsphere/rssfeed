@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137483",
+          "author": "Kyle Bailey",
+          "description": "August 30, 2025 7:30 a.m.  Douglas County Sheriff John Hanlin has joined 33 other Oregon Sheriff’s in signing a letter asking for legal clarity on U.S. Immigration and Customs Enforcement immigration subpoenas. Wednesday’s letter went to Marion County’s legal counsel, Oregon Attorney General Dan Rayfield and United States Attorney General Pam Bondi. A release from...",
+          "link": "https://kqennewsradio.com/2025/08/30/sheriff-hanlin-joins-33-other-oregon-sheriffs-seeking-clarification-on-ice/?utm_source=rss&utm_medium=rss&utm_campaign=sheriff-hanlin-joins-33-other-oregon-sheriffs-seeking-clarification-on-ice",
+          "publishedOn": "2025-08-30T14:39:20.000Z",
+          "wordCount": 1791,
+          "title": "SHERIFF HANLIN JOINS 33 OTHER OREGON SHERIFF’S SEEKING CLARIFICATION ON ICE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727211436/Hanlin-1-e1650993650393.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=137477",
+          "author": "Kyle Bailey",
+          "description": "(photo credit: Patrick Moore) August 30, 2025 7:00 a.m.  On Friday, the Umpqua Public Transportation District announced that it will be reducing services beginning September 15th, following significant delays in both federal and state funding allocations. UPTD Chief Operations Officer George Carrillo said, “These reductions were not a choice but a necessity”. Carrillo said, “This...",
+          "link": "https://kqennewsradio.com/2025/08/30/uptd-announces-temporary-service-reductions/?utm_source=rss&utm_medium=rss&utm_campaign=uptd-announces-temporary-service-reductions",
+          "publishedOn": "2025-08-30T14:05:33.000Z",
+          "wordCount": 1767,
+          "title": "UPTD ANNOUNCES TEMPORARY SERVICE REDUCTIONS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250830130457/UPTD.webp"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137472",
           "author": "Kyle Bailey",
           "description": "Ali Shaver talks about events happening and Wildlife Safari, and John Dimof of Thrive Umpqua covers summer and fall activities they have going on.",
@@ -927,38 +947,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/65a6d006-9f9b-4193-b414-2943722d4184",
-          "author": "News Staff",
-          "description": "According to the Douglas Forest Protective Association (DFPA), recent lightning storms sparked two fires on DFPA-protected lands on Monday.",
-          "link": "https://www.kezi.com/news/local/douglas-county-forest-crews-swiftly-contain-lightning-sparked-fires-near-glide-oakland/article_65a6d006-9f9b-4193-b414-2943722d4184.html",
-          "publishedOn": "2025-08-26T23:36:00.000Z",
-          "wordCount": 8022,
-          "title": "Douglas County forest crews swiftly contain lightning-sparked fires near Glide, Oakland",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/90/a90e53df-1c66-4996-bd2d-01a0a06416e2/68ae4619a490d.image.jpg?resize=300%2C200",
-            "length": "220876",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/90/a90e53df-1c66-4996-bd2d-01a0a06416e2/68ae4619a490d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/7015eb29-76f3-496f-957d-5c6daef96424",
-          "author": "News Staff",
-          "description": "Firefighters tackled a blaze Tuesday morning at a commercial building on Northwest Edenbower Boulevard.",
-          "link": "https://www.kezi.com/news/local/smoke-from-roseburg-dental-office-prompts-swift-firefighter-response/article_7015eb29-76f3-496f-957d-5c6daef96424.html",
-          "publishedOn": "2025-08-26T22:21:00.000Z",
-          "wordCount": 7979,
-          "title": "Smoke from Roseburg dental office prompts swift firefighter response",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/09/00984534-95b4-429e-94d7-b5e5ba0a4027/68ae3540c0c5d.image.jpg?resize=300%2C162",
-            "length": "216714",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/09/00984534-95b4-429e-94d7-b5e5ba0a4027/68ae3540c0c5d.image.jpg?resize=300%2C162"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
