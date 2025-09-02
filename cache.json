@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137529",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Virgle Osbourne has an update on the Special Session of the Oregon State Legislature",
+          "link": "https://kqennewsradio.com/2025/09/02/morning-conversation-9-2-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-2-25",
+          "publishedOn": "2025-09-02T16:10:59.000Z",
+          "wordCount": 1637,
+          "title": "MORNING CONVERSATION 9.2.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250902150905/AM-CONV-09-02-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137523",
           "author": "Kyle Bailey",
           "description": "September 2, 2025 4:00 a.m.   Above normal high temperatures are forecast for the Umpqua Valley through Thursday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs should be in the low to mid 90’s. That’s well above the normal high of 84 degrees for this week...",
@@ -296,7 +311,28 @@
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "68b6fd33cbfd6b0001fa273b",
+          "author": "Joseph Ziegler",
+          "description": "Dad’s Creek Fire near Glendale has burned 130 acres, prompting road closures on Cow Creek Rd. Level 1 “Be Ready” evacuations are in effect for 30482–31302 Lower Cow Creek Rd. Crews have 60% containment. Stay alert, check dcso.com/evacuations.",
+          "link": "https://www.roseburgscanner.com/dads-creek-fire-prompts-road-closure-and-evacuation-notice-near-glendale/",
+          "publishedOn": "2025-09-02T14:22:45.000Z",
+          "wordCount": 1848,
+          "title": "Dad’s Creek Fire Prompts Road Closure and Evacuation Notice Near Glendale",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/dads_fire.jpg"
+        },
+        {
+          "id": "68b66ef4cbfd6b0001fa25dc",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-2-2025/",
+          "publishedOn": "2025-09-02T13:39:16.000Z",
+          "wordCount": 3683,
+          "title": "September 2, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop.png"
+        }
+      ]
     },
     {
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",

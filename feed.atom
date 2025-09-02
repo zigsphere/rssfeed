@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-02T13:25:32.420Z</updated>
+    <updated>2025-09-02T16:16:52.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.2.25]]></title>
+        <id>https://kqennewsradio.com/?p=137529</id>
+        <link href="https://kqennewsradio.com/2025/09/02/morning-conversation-9-2-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-2-25"/>
+        <updated>2025-09-02T16:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Representative Virgle Osbourne has an update on the Special Session of the Oregon State Legislature]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dad’s Creek Fire Prompts Road Closure and Evacuation Notice Near Glendale]]></title>
+        <id>68b6fd33cbfd6b0001fa273b</id>
+        <link href="https://www.roseburgscanner.com/dads-creek-fire-prompts-road-closure-and-evacuation-notice-near-glendale/"/>
+        <updated>2025-09-02T14:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Dad’s Creek Fire near Glendale has burned 130 acres, prompting road closures on Cow Creek Rd. Level 1 “Be Ready” evacuations are in effect for 30482–31302 Lower Cow Creek Rd. Crews have 60% containment. Stay alert, check dcso.com/evacuations.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 2, 2025]]></title>
+        <id>68b66ef4cbfd6b0001fa25dc</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/september-2-2025/"/>
+        <updated>2025-09-02T13:39:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABOVE NORMAL HIGH TEMPERATURES THROUGH THURSDAY IN THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=137523</id>
