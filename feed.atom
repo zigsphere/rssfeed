@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-01T23:12:20.997Z</updated>
+    <updated>2025-09-02T03:02:07.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DADS CREEK FIRE AT 130 ACRES IN GLENDALE AREA]]></title>
+        <id>https://kqennewsradio.com/?p=137501</id>
+        <link href="https://kqennewsradio.com/2025/09/01/dads-creek-fire-at-130-acres-in-glendale-area/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dads-creek-fire-at-130-acres-in-glendale-area"/>
+        <updated>2025-09-01T23:39:08.000Z</updated>
+        <summary type="html"><![CDATA[September 1, 2025 4:30 p.m.  Crews with the Douglas Forest Protective Association are working on the Dads Creek Fire, in the Glendale area. DFPA Public Information Officer Rachel Pope said Sunday night at 9:00 p.m. firefighters from DFPA, South Umpqua Fire, Riddle Fire, Azalea Fire, Glendale Fire, and Tri City Fire responded to a smoke...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOP UP PROGRESSES ON SUGAR LOAF FIRE]]></title>
         <id>https://kqennewsradio.com/?p=137499</id>
@@ -464,16 +474,6 @@ The post SOU Digital Cinema named to national Top 30 appeared first on Southern 
         <summary type="html"><![CDATA[DOUGLAS COUNTY — As summer shifts to a close, schools begin to open back up and safety is one topic that seems to be at the forefront of discussion. The News-Review had the opportunity to sit down with Douglas County…]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 29, 2025]]></title>
-        <id>68b1a58bcbfd6b0001fa245a</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/august-29-2025/"/>
-        <updated>2025-08-29T13:23:33.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
