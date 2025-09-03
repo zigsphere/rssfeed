@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137585",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith is live from Salem with an update on the pause in the Special Session of the Oregon State Legislature",
+          "link": "https://kqennewsradio.com/2025/09/03/morning-conversation-9-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-3-25",
+          "publishedOn": "2025-09-03T16:15:15.000Z",
+          "wordCount": 1638,
+          "title": "MORNING CONVERSATION 9.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250903151332/AM-CONV-09-03-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137581",
           "author": "Kyle Bailey",
           "description": "September 3, 2025 5:40 a.m.   Governor Tina Kotek has issued a statement in response to the delay in the final deliberation of the transportation bills in the special session of the Oregon State Legislature. Governor Kotek said, “I am making a good faith assessment, with the assurances of Senate leaders, that the bill passed by...",
@@ -344,84 +359,43 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": [
-        {
-          "id": "https://southernoregonbusiness.com/?p=9018",
-          "author": "Jim Teece",
-          "description": "Medford, Oregon – August 28, 2025 – The Board of Directors for Southern Oregon Regional Economic Development, Inc. (SOREDI) is pleased to announce the appointment of Blair Sundell as its new Executive Director. Sundell will assume the role on September 1, 2025, and brings with him a wealth of experience in economic development, strategic planning,…\nThe post Southern Oregon Regional Economic Development, Inc. (SOREDI) Names Blair Sundell as New Executive Director appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/southern-oregon-regional-economic-development-inc-soredi-names-blair-sundell-as-new-executive-director/",
-          "publishedOn": "2025-08-31T02:14:12.000Z",
-          "wordCount": 2879,
-          "title": "Southern Oregon Regional Economic Development, Inc. (SOREDI) Names Blair Sundell as New Executive Director",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/08/Screenshot-2025-08-30-at-7.10.43-PM.png"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9010",
-          "author": "Jim Teece",
-          "description": "Preliminary data for 2024 from a Dean Runyan Associates study for the Oregon Tourism Commission shows that total direct travel spending in Oregon rose 1.1% in 2024 compared with the 2023 total. Travel spending rose from $14.15 billion in 2023 to $14.3 billion in 2024, an inflation-adjusted increase of 1.0%. Adjusted for inflation, Oregon’s total…\nThe post Rogue Valley Travel Impacts 2024 appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/rogue-valley-travel-impacts-2024/",
-          "publishedOn": "2025-08-31T01:57:21.000Z",
-          "wordCount": 3363,
-          "title": "Rogue Valley Travel Impacts 2024",
-          "imageUrl": "https://qualityinfo.org/documents/d/guest/rogue-valley-travel-spending-g1"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9005",
-          "author": "Jim Teece",
-          "description": "Building permit data from the U.S. Census Bureau shows that new housing construction in Douglas County as measured by permits for living units dropped to 190 units in 2024 from 246 in 2023. It was the lowest level since 2015 when there were 172 building permits for living units. Building permits in Douglas County peaked…\nThe post Douglas County Building Permits Drop in 2024 appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/douglas-county-building-permits-drop-in-2024-2/",
-          "publishedOn": "2025-08-31T01:52:51.000Z",
-          "wordCount": 2686,
-          "title": "Douglas County Building Permits Drop in 2024",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/08/Douglas-building-permits-g1.png"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=8996",
-          "author": "Jim Teece",
-          "description": "In the first quarter of 2025, Oregon had just over 155,000 private firms that were subject to paying unemployment insurance taxes. Over 108,000 of these firms had at least one payroll employee in March.  More than 19 out of 20 firms (96%) with workers on their payrolls had less than 50 employees. While that left…\nThe post A Snapshot of Oregon Firms by Size Class, 2025 appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/a-snapshot-of-oregon-firms-by-size-class-2025/",
-          "publishedOn": "2025-08-31T01:48:04.000Z",
-          "wordCount": 2849,
-          "title": "A Snapshot of Oregon Firms by Size Class, 2025",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/08/size-of-firm-g1-scaled.png"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=8981",
-          "author": "Jim Teece",
-          "description": "Grant funding was awarded to eight Regional Innovation Hubs to support Oregon’s innovation-based entrepreneurs. AUGUST 12, 2025 Business Oregon and the Oregon Innovation Council (Oregon InC) are pleased to announce the intent to award 2025-2027 Regional Innovation Hub grants. Regional Innovation Hubs provide technical assistance, access to capital, networking, mentorship and talent development to innovation-based…\nThe post Business Oregon and Oregon InC Award $3.7 Million to Support Oregon Innovators appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/business-oregon-and-oregon-inc-award-3-7-million-to-support-oregon-innovators/",
-          "publishedOn": "2025-08-31T01:32:19.000Z",
-          "wordCount": 2801,
-          "title": "Business Oregon and Oregon InC Award $3.7 Million to Support Oregon Innovators",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=8978",
-          "author": "Jim Teece",
-          "description": "AUGUST 29, 2025 Revino Inc.’s new bottle-washing facility in the Portland metro area will bring washable, reusable, American-made glass wine bottles to the market.  Oregon’s wine industry generates $8 billion worth of economic activity in the state, employing more than 40,000 people, and it is increasingly constrained by an unreliable supply chain for glass bottles.…\nThe post Business Oregon Funds Unique Solution to Oregon’s Wine Bottle Shortage appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/business-oregon-funds-unique-solution-to-oregons-wine-bottle-shortage/",
-          "publishedOn": "2025-08-31T01:30:18.000Z",
-          "wordCount": 3041,
-          "title": "Business Oregon Funds Unique Solution to Oregon’s Wine Bottle Shortage",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=8975",
-          "author": "Jim Teece",
-          "description": "Southern Oregon University is celebrating a piece of its future by acknowledging the Oregon Legislature’s recent approval of $40 million in capital construction bonds to update and consolidate SOU’s facilities for creative industries – music, media and film. The cross-disciplinary project will transform the university’s programs and help secure Oregon’s future as a national leader…\nThe post Creative Industries project gains legislative funding appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/creative-industries-project-gains-legislative-funding/",
-          "publishedOn": "2025-08-31T01:28:00.000Z",
-          "wordCount": 2820,
-          "title": "Creative Industries project gains legislative funding",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/08/music-building-845x475-1.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68b867a5cbfd6b0001fa28bb",
+          "author": "Joseph Ziegler",
+          "description": "Jerry Lee Thacker, 58, of Roseburg, already convicted of sex crimes against a minor, was arraigned on 15 new counts involving another alleged victim over more than a decade. He waived his right to a speedy trial and remains in custody.",
+          "link": "https://www.roseburgscanner.com/roseburg-man-faces-new-sex-abuse-charges-following-prior-conviction/",
+          "publishedOn": "2025-09-03T16:11:08.000Z",
+          "wordCount": 1720,
+          "title": "Roseburg Man Faces New Sex Abuse Charges Following Prior Conviction",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/justice.png"
+        },
+        {
+          "id": "68b85d2dcbfd6b0001fa28a8",
+          "author": "Joseph Ziegler",
+          "description": "Kati Ann Steensland, 31, of Myrtle Creek, was arraigned after a child was injured in Canyonville when her pickup reportedly ran over the child’s arm. She faces multiple misdemeanor charges and one felony hit-and-run charge. Bail was set at $10,000.",
+          "link": "https://www.roseburgscanner.com/myrtle-creek-woman-arraigned-following-child-injury-incident/",
+          "publishedOn": "2025-09-03T15:27:22.000Z",
+          "wordCount": 1786,
+          "title": "Myrtle Creek Woman Arraigned Following Child Injury Incident",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/courthouse.jpg"
+        },
+        {
+          "id": "68b84217cbfd6b0001fa275f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-3-2025/",
+          "publishedOn": "2025-09-03T13:44:49.000Z",
+          "wordCount": 4041,
+          "title": "September 3, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-1.png"
+        },
         {
           "id": "68b6fd33cbfd6b0001fa273b",
           "author": "Joseph Ziegler",
