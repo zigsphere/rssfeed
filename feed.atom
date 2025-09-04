@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-03T23:11:04.505Z</updated>
+    <updated>2025-09-04T02:51:24.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sutherlin Woman Faces Multiple Charges in Ongoing Investigation]]></title>
+        <id>68b8d3cccbfd6b0001fa28d6</id>
+        <link href="https://www.roseburgscanner.com/sutherlin-woman-faces-multiple-charges-in-ongoing-investigation/"/>
+        <updated>2025-09-03T23:51:33.000Z</updated>
+        <summary type="html"><![CDATA[A Sutherlin woman was released from jail after being charged with multiple counts of sexual abuse, witness tampering, and evidence tampering. Prosecutors added a Measure 11 charge of first-degree sexual abuse. She is due in Douglas County Circuit Court Friday.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.3.25]]></title>
         <id>https://kqennewsradio.com/?p=137606</id>
