@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-04T13:21:23.528Z</updated>
+    <updated>2025-09-04T16:16:13.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Road Work Brings Delays to Stewart Parkway in Roseburg]]></title>
+        <id>68b9b7fbcbfd6b0001fa2a27</id>
+        <link href="https://www.roseburgscanner.com/road-work-brings-delays-to-stewart-parkway-in-roseburg/"/>
+        <updated>2025-09-04T16:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Expect moderate delays on NW Stewart Pkwy through Oct. 20 for road work & ADA ramp upgrades. Businesses remain open, turn lane stays accessible. Overnight paving set for mid-late Oct. Wider bike lane coming soon. More info: cityofroseburg.org/departments/public-works]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 4, 2025]]></title>
+        <id>68b99343cbfd6b0001fa28e5</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/september-4-2025/"/>
+        <updated>2025-09-04T13:44:25.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THUNDERSTORMS BRING RAIN TO MAINLY SOUTH AND SOUTHWEST DOUGLAS COUNTY]]></title>
         <id>https://kqennewsradio.com/?p=137639</id>
