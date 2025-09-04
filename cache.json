@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137669",
+          "author": "Kyle Bailey",
+          "description": "Sutherlin School District Superintendent Terry Prestianni talked about things happening this fall as the Back to School series continues",
+          "link": "https://kqennewsradio.com/2025/09/04/inside-douglas-county-9-5-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-5-25",
+          "publishedOn": "2025-09-04T21:07:09.000Z",
+          "wordCount": 1632,
+          "title": "INSIDE DOUGLAS COUNTY 9.5.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250904200408/IDC-09-04-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727205050/terry-e1662062914969.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137663",
           "author": "Kyle Bailey",
           "description": "September 4, 2025 11:10 a.m.  The Douglas Forest Protective Association has been actively involved in lightning reconnaissance and initial attacks following a prolonged lighting storm that began at approximately 5:00 p.m. on Wednesday. DFPA Public Information Officer Rachel Pope said the storm resulted in 76 registered strikes. Pope said overnight crews responded to 14 smoke...",
@@ -872,7 +887,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/02bb1014-d63d-4b84-81d7-ee4f64f85fdc",
+          "author": "News Staff",
+          "description": "Umpqua National Forest has announced an emergency closure order for the Emigrant Fire, according to the Umpqua National Forest.",
+          "link": "https://www.kezi.com/news/local/emigrant-fire-prompts-forest-closures-near-roseburg/article_02bb1014-d63d-4b84-81d7-ee4f64f85fdc.html",
+          "publishedOn": "2025-09-04T18:27:00.000Z",
+          "wordCount": 7942,
+          "title": "Emigrant Fire prompts forest closures near Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/d8/5d87aece-e976-5107-b34f-1ddf9bde7b54/6737bb2219411.image.jpg?resize=300%2C169",
+            "length": "32473",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/d8/5d87aece-e976-5107-b34f-1ddf9bde7b54/6737bb2219411.image.jpg?resize=300%2C169"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
