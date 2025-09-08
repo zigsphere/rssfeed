@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137768",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Tim Freeman talks about National Preparedness Month and how residents can be ready when disaster strikes.",
+          "link": "https://kqennewsradio.com/2025/09/08/morning-conversation-9-08-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-08-25",
+          "publishedOn": "2025-09-08T16:09:19.000Z",
+          "wordCount": 1630,
+          "title": "MORNING CONVERSATION 9.08.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250908145501/AM-CONV-09-08-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250908150903/Freeman-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137764",
           "author": "Kyle Bailey",
           "description": "September 8, 2025 3:50 a.m.  Low pressure that has been sitting offshore is moving into the Umpqua Valley starting Monday, bringing cooler temperatures and widespread showers. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that afternoon highs should be in the 70s for several days. That is...",
@@ -456,6 +471,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68bedcf7cbfd6b0001fa2dab",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg City Council will consider a fireworks ban at its Sept. 8 meeting. Fire staff cite recent local fires, rising wildfire risk, and impacts on veterans and pets. Options include drafting an ordinance this year, seeking more info, or taking no action at this time.",
+          "link": "https://www.roseburgscanner.com/roseburg-city-council-considers-fireworks-ban-following-recent-fire-risks/",
+          "publishedOn": "2025-09-08T13:44:55.000Z",
+          "wordCount": 1844,
+          "title": "Roseburg City Council Considers Fireworks Ban Following Recent Fire Risks",
+          "imageUrl": "https://images.unsplash.com/photo-1732766680298-b79ae5aae48c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU2MHx8ZmlyZXdvcmtzfGVufDB8fHx8MTc1NzMzOTM4N3ww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "68be51afcbfd6b0001fa2be6",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-8-2025/",
+          "publishedOn": "2025-09-08T13:34:47.000Z",
+          "wordCount": 4015,
+          "title": "September 8, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-4.png"
+        },
         {
           "id": "68bb2c3fcbfd6b0001fa2bc5",
           "author": "Joseph Ziegler",
