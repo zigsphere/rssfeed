@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137850",
+          "author": "Kyle Bailey",
+          "description": "September 9, 2025 2:00 p.m.  The Douglas Forest Protective Association remains actively involved in lightning reconnaissance and initial attack after frequent lightning activity on Monday. DFPA Public Information Officer Rachel Pope said a total of 280 lightning strikes were recorded with nine confirmed lightning-caused fires. Five of these fires are in patrol status, while firefighters...",
+          "link": "https://kqennewsradio.com/2025/09/09/dfpa-lightning-response-continues/?utm_source=rss&utm_medium=rss&utm_campaign=dfpa-lightning-response-continues",
+          "publishedOn": "2025-09-09T21:05:58.000Z",
+          "wordCount": 1805,
+          "title": "DFPA LIGHTNING RESPONSE CONTINUES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250909200528/DFPAnew1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=137846",
+          "author": "Kyle Bailey",
+          "description": "Douglas Timber Operators Executive Director Matt Hill shares his thoughts regarding the impact of the Archie Creek Fire, 5 years later.",
+          "link": "https://kqennewsradio.com/2025/09/09/inside-douglas-county-9-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-9-25",
+          "publishedOn": "2025-09-09T20:39:17.000Z",
+          "wordCount": 1631,
+          "title": "INSIDE DOUGLAS COUNTY 9.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250909193731/IDC-09-09-25.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250909193901/Matt-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137844",
           "author": "Kyle Bailey",
           "description": "September 9, 2025 10:40 a.m.    Roseburg Police cited a man for a criminal count of prohibited camping on Monday afternoon. An RPD report said at 3:00 p.m. the 53-year-old was contacted at his camp in Gaddis Park, in the 800 block of Northwest Highland Street and was alongside a creek. The man had two...",
@@ -516,6 +541,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68c08f30cbfd6b0001fa2f8b",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg begins a water main replacement Sept. 17 on SE Pine St. between Oak & Sykes. Expect lane closures 7 p.m.–6 a.m. through Sept. 24, then daytime work starting Sept. 29. Project may pause in winter. Info: 541-492-6730 or pwd@roseburgor.gov",
+          "link": "https://www.roseburgscanner.com/roseburg-to-begin-water-main-replacement-project-on-se-pine-street/",
+          "publishedOn": "2025-09-09T20:35:17.000Z",
+          "wordCount": 1738,
+          "title": "Roseburg to Begin Water Main Replacement Project on SE Pine Street",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/trench.webp"
+        },
         {
           "id": "68c074fecbfd6b0001fa2f6e",
           "author": "Joseph Ziegler",
