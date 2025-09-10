@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137878",
+          "author": "Kyle Bailey",
+          "description": "Dr. Sidnee Hedrick of Adapt Integrated Health Care talks about World Suicide Prevention Day, which is Wednesday.",
+          "link": "https://kqennewsradio.com/2025/09/10/morning-conversation-9-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-10-25",
+          "publishedOn": "2025-09-10T16:11:27.000Z",
+          "wordCount": 1631,
+          "title": "MORNING CONVERSATION 9.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250910150903/AM-CONV-09-10-25.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250910151109/SIdnee.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137870",
           "author": "Kyle Bailey",
           "description": "September 10, 2025 3:50 a.m.  Several lightning-caused fires on the Umpqua National Forest are now contained, controlled or out after an aggressive response to multiple new starts over the weekend. A UNF update said in addition to twelve new fire starts between Saturday and Sunday, four new starts were found on Tuesday. Including the Sugar...",
@@ -556,6 +571,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68c17c95cbfd6b0001fa2f9e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-10-2025/",
+          "publishedOn": "2025-09-10T13:42:51.000Z",
+          "wordCount": 4051,
+          "title": "September 10, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-6.png"
+        },
         {
           "id": "68c08f30cbfd6b0001fa2f8b",
           "author": "Joseph Ziegler",
