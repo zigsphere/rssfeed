@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137855",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have the weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/09/09/true-wealth-9-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-9-9-25",
+          "publishedOn": "2025-09-10T00:16:12.000Z",
+          "wordCount": 1620,
+          "title": "TRUE WEALTH 9.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250909230325/TWR-09-09-25.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137850",
           "author": "Kyle Bailey",
           "description": "September 9, 2025 2:00 p.m.  The Douglas Forest Protective Association remains actively involved in lightning reconnaissance and initial attack after frequent lightning activity on Monday. DFPA Public Information Officer Rachel Pope said a total of 280 lightning strikes were recorded with nine confirmed lightning-caused fires. Five of these fires are in patrol status, while firefighters...",
@@ -394,36 +409,6 @@
           "wordCount": 1763,
           "title": "DFPA CONTINUES LIGHTNING RECONNAISSANCE FOLLOWING FRIDAY STORM",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250905200434/DFPAFri1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137745",
-          "author": "Kyle Bailey",
-          "description": "September 6, 2025 6:50 a.m.  Crews with Central Douglas Fire & Rescue dealt with a fire at a home in the Green District on Friday evening. Battalion Chief Nick Wecks said at 5:35 p.m. crews were dispatched to a reported fire in a carport extending to the attached house in the1800 block of Austin Road....",
-          "link": "https://kqennewsradio.com/2025/09/06/carport-house-fire-in-green-district-friday-night/?utm_source=rss&utm_medium=rss&utm_campaign=carport-house-fire-in-green-district-friday-night",
-          "publishedOn": "2025-09-06T13:56:15.000Z",
-          "wordCount": 1739,
-          "title": "CARPORT/HOUSE FIRE IN GREEN DISTRICT FRIDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240703091909/Central-Douglas-Fire-Rescue-primary-logo-small.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137743",
-          "author": "Kyle Bailey",
-          "description": "September 6, 2025 6:40 a.m. A Red Flag Warning is in effect on Saturday from 2:00 p.m. to 11:00 p.m. in the Umpqua Basin, Umpqua National Forest and the Southern Oregon Cascades Forecasters at the National Weather Service in Medford said abundant lightning on dry fuels will result in the potential for numerous new fire...",
-          "link": "https://kqennewsradio.com/2025/09/06/red-flag-warning-saturday-200-p-m-to-1100-p-m-for-region/?utm_source=rss&utm_medium=rss&utm_campaign=red-flag-warning-saturday-200-p-m-to-1100-p-m-for-region",
-          "publishedOn": "2025-09-06T13:43:28.000Z",
-          "wordCount": 1711,
-          "title": "RED FLAG WARNING SATURDAY 2:00 P.M. TO 11:00 P.M. FOR REGION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250906123133/Satwarn-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137740",
-          "author": "Kyle Bailey",
-          "description": "September 6, 2025 6:30 a.m.    An Air Quality Alert is in effect through Sunday night at 8:00 p.m. for eastern Douglas County. The Oregon Department of Environmental Quality said the Alert is for Roseburg, Winchester, Sutherlin, Umpqua and Green. It also applies to Diamond Lake, Toketee Falls, Steamboat and Tiller. Wildfires burning in the...",
-          "link": "https://kqennewsradio.com/2025/09/06/air-quality-alert-through-sunday-evening/?utm_source=rss&utm_medium=rss&utm_campaign=air-quality-alert-through-sunday-evening",
-          "publishedOn": "2025-09-06T13:31:45.000Z",
-          "wordCount": 1681,
-          "title": "AIR QUALITY ALERT THROUGH SUNDAY EVENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250906123133/Satwarn-1.png"
         }
       ]
     },
@@ -618,6 +603,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/213e080b-d05e-42f7-80f2-0e2102492acf",
+          "author": "News Staff",
+          "description": "Firefighters are responding to several lightning-induced fires across the Douglas Forest Protective Association district following a storm on Monday, DFPA officials said.",
+          "link": "https://www.kezi.com/news/local/more-douglas-county-fires-sparked-by-lightning-storms/article_213e080b-d05e-42f7-80f2-0e2102492acf.html",
+          "publishedOn": "2025-09-09T22:48:00.000Z",
+          "wordCount": 7979,
+          "title": "More Douglas County fires sparked by lightning storms",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169",
+            "length": "93928",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/2acc1ab4-7c1e-44bf-baeb-01ba111800e2",
           "author": null,

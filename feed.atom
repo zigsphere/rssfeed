@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-09T23:11:09.897Z</updated>
+    <updated>2025-09-10T02:50:45.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 9.9.25]]></title>
+        <id>https://kqennewsradio.com/?p=137855</id>
+        <link href="https://kqennewsradio.com/2025/09/09/true-wealth-9-9-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-9-9-25"/>
+        <updated>2025-09-10T00:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have the weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Douglas County fires sparked by lightning storms]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/213e080b-d05e-42f7-80f2-0e2102492acf</id>
+        <link href="https://www.kezi.com/news/local/more-douglas-county-fires-sparked-by-lightning-storms/article_213e080b-d05e-42f7-80f2-0e2102492acf.html"/>
+        <updated>2025-09-09T22:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters are responding to several lightning-induced fires across the Douglas Forest Protective Association district following a storm on Monday, DFPA officials said.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA LIGHTNING RESPONSE CONTINUES]]></title>
         <id>https://kqennewsradio.com/?p=137850</id>
@@ -522,36 +542,6 @@
         <link href="https://kqennewsradio.com/2025/09/06/dfpa-continues-lightning-reconnaissance-following-friday-storm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-continues-lightning-reconnaissance-following-friday-storm"/>
         <updated>2025-09-06T14:55:16.000Z</updated>
         <summary type="html"><![CDATA[September 6, 2025 7:50 a.m. Crews with the Douglas Forest Protective Association continue with lightning reconnaissance and initial attack following the early morning lightning storm on Friday. DFPA Public Information Officer Rachel Pope said of the 48 registered lightning strikes recorded across land protected by DFPA, only two have resulted in confirmed fires: *Fate Creek...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CARPORT/HOUSE FIRE IN GREEN DISTRICT FRIDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=137745</id>
-        <link href="https://kqennewsradio.com/2025/09/06/carport-house-fire-in-green-district-friday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=carport-house-fire-in-green-district-friday-night"/>
-        <updated>2025-09-06T13:56:15.000Z</updated>
-        <summary type="html"><![CDATA[September 6, 2025 6:50 a.m.  Crews with Central Douglas Fire & Rescue dealt with a fire at a home in the Green District on Friday evening. Battalion Chief Nick Wecks said at 5:35 p.m. crews were dispatched to a reported fire in a carport extending to the attached house in the1800 block of Austin Road....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RED FLAG WARNING SATURDAY 2:00 P.M. TO 11:00 P.M. FOR REGION]]></title>
-        <id>https://kqennewsradio.com/?p=137743</id>
-        <link href="https://kqennewsradio.com/2025/09/06/red-flag-warning-saturday-200-p-m-to-1100-p-m-for-region/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=red-flag-warning-saturday-200-p-m-to-1100-p-m-for-region"/>
-        <updated>2025-09-06T13:43:28.000Z</updated>
-        <summary type="html"><![CDATA[September 6, 2025 6:40 a.m. A Red Flag Warning is in effect on Saturday from 2:00 p.m. to 11:00 p.m. in the Umpqua Basin, Umpqua National Forest and the Southern Oregon Cascades Forecasters at the National Weather Service in Medford said abundant lightning on dry fuels will result in the potential for numerous new fire...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR QUALITY ALERT THROUGH SUNDAY EVENING]]></title>
-        <id>https://kqennewsradio.com/?p=137740</id>
-        <link href="https://kqennewsradio.com/2025/09/06/air-quality-alert-through-sunday-evening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-quality-alert-through-sunday-evening"/>
-        <updated>2025-09-06T13:31:45.000Z</updated>
-        <summary type="html"><![CDATA[September 6, 2025 6:30 a.m.    An Air Quality Alert is in effect through Sunday night at 8:00 p.m. for eastern Douglas County. The Oregon Department of Environmental Quality said the Alert is for Roseburg, Winchester, Sutherlin, Umpqua and Green. It also applies to Diamond Lake, Toketee Falls, Steamboat and Tiller. Wildfires burning in the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
