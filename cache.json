@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137906",
+          "author": "Kyle Bailey",
+          "description": "September 10, 2025 2:00 p.m.  Crews with the Douglas Forest Protective Association continue to actively monitor for lightning and respond to initial fires following frequent lightning activity on Thursday. DFPA Public Information Officer Rachel Pope said a total of 280 lightning strikes were recorded, with ten confirmed fires caused by lightning. Pope said six of...",
+          "link": "https://kqennewsradio.com/2025/09/10/dfpa-update-on-lightning-response/?utm_source=rss&utm_medium=rss&utm_campaign=dfpa-update-on-lightning-response",
+          "publishedOn": "2025-09-10T21:16:53.000Z",
+          "wordCount": 1789,
+          "title": "DFPA UPDATE ON LIGHTNING RESPONSE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250910201645/Little-Camp-Fire.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=137900",
+          "author": "Kyle Bailey",
+          "description": "Glide Revitalization Executive Director Jeana Beam share her remembrances about the Archie Creek Fire.",
+          "link": "https://kqennewsradio.com/2025/09/10/inside-douglas-county-9-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-10-25",
+          "publishedOn": "2025-09-10T20:41:37.000Z",
+          "wordCount": 1626,
+          "title": "INSIDE DOUGLAS COUNTY 9.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250910193703/IDC-09-10-25.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250910194121/Jeana.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137898",
           "author": "Kyle Bailey",
           "description": "September 10, 2025 11:00 a.m.  Roseburg Police cited two men for second-degree disorderly conduct on Tuesday. An RPD report said at 7:20 a.m. a woman and the first man, age 31 from Washington state, arrived at a residence in the 1700 block of Southeast Cobb Street to retrieve her vehicle. A confrontation ensued between the...",
@@ -808,6 +833,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/6e3588a5-87a9-4a88-b783-c68af2d5d335",
+          "author": "News Staff",
+          "description": "The Douglas Forest Protective Association (DFPA) is actively responding to fires caused by recent lightning activity, forest officials said.",
+          "link": "https://www.kezi.com/news/local/final-mop-up-underway-for-lightning-caused-fires-in-douglas-county/article_6e3588a5-87a9-4a88-b783-c68af2d5d335.html",
+          "publishedOn": "2025-09-10T22:46:00.000Z",
+          "wordCount": 7994,
+          "title": "Final mop-up underway for lightning-caused fires in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/67/1674240d-18e7-432e-928c-3786afe31144/68c2011c7ee21.image.jpg?resize=300%2C258",
+            "length": "200732",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/67/1674240d-18e7-432e-928c-3786afe31144/68c2011c7ee21.image.jpg?resize=300%2C258"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/213e080b-d05e-42f7-80f2-0e2102492acf",
           "author": "News Staff",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-10T19:10:19.481Z</updated>
+    <updated>2025-09-10T23:11:13.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Final mop-up underway for lightning-caused fires in Douglas County]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/6e3588a5-87a9-4a88-b783-c68af2d5d335</id>
+        <link href="https://www.kezi.com/news/local/final-mop-up-underway-for-lightning-caused-fires-in-douglas-county/article_6e3588a5-87a9-4a88-b783-c68af2d5d335.html"/>
+        <updated>2025-09-10T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Forest Protective Association (DFPA) is actively responding to fires caused by recent lightning activity, forest officials said.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA UPDATE ON LIGHTNING RESPONSE]]></title>
+        <id>https://kqennewsradio.com/?p=137906</id>
+        <link href="https://kqennewsradio.com/2025/09/10/dfpa-update-on-lightning-response/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-update-on-lightning-response"/>
+        <updated>2025-09-10T21:16:53.000Z</updated>
+        <summary type="html"><![CDATA[September 10, 2025 2:00 p.m.  Crews with the Douglas Forest Protective Association continue to actively monitor for lightning and respond to initial fires following frequent lightning activity on Thursday. DFPA Public Information Officer Rachel Pope said a total of 280 lightning strikes were recorded, with ten confirmed fires caused by lightning. Pope said six of...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.10.25]]></title>
+        <id>https://kqennewsradio.com/?p=137900</id>
+        <link href="https://kqennewsradio.com/2025/09/10/inside-douglas-county-9-10-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-10-25"/>
+        <updated>2025-09-10T20:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Glide Revitalization Executive Director Jeana Beam share her remembrances about the Archie Creek Fire.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DINT raid in Oakland yields firearms, narcotics, suspected stolen property]]></title>
         <id>68c1c09ecbfd6b0001fa3101</id>
