@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=137946",
+          "author": "Kyle Bailey",
+          "description": "South Umpqua School District Superintendent Erica Bare provides an update on the start of the school year in her district",
+          "link": "https://kqennewsradio.com/2025/09/11/inside-douglas-county-9-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-11-25",
+          "publishedOn": "2025-09-11T20:37:20.000Z",
+          "wordCount": 1634,
+          "title": "INSIDE DOUGLAS COUNTY 9.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250911193416/IDC-09-11-25.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250911193707/Erica.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=137944",
           "author": "Kyle Bailey",
           "description": "September 11, 2025 11:00 a.m.  A Roseburg man was jailed following a standoff Wednesday night standoff. A Douglas County Sheriff’s Office report said at 5:20 p.m. a deputy was dispatched to the 500 block of Shadow Ranch Lane, just north of Roseburg, for a welfare check on a female resident. It was reported that 49-year-old...",
@@ -664,66 +679,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250908150903/Freeman-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137764",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2025 3:50 a.m.  Low pressure that has been sitting offshore is moving into the Umpqua Valley starting Monday, bringing cooler temperatures and widespread showers. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that afternoon highs should be in the 70s for several days. That is...",
-          "link": "https://kqennewsradio.com/2025/09/08/lower-pressure-bringing-cooler-temperatures-and-showers/?utm_source=rss&utm_medium=rss&utm_campaign=lower-pressure-bringing-cooler-temperatures-and-showers",
-          "publishedOn": "2025-09-08T10:52:59.000Z",
-          "wordCount": 1698,
-          "title": "LOWER PRESSURE BRINGING COOLER TEMPERATURES AND SHOWERS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137761",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2026 3:40 a.m.  Abundant lightning moved across the Umpqua National Forest on Saturday with twelve new fires confirmed on Sunday. A UNF post said four fires are in contained status. – Old Fire (#392) – Estimated at one-tenth of an acre. Located just east of Garwood Butte on the Diamond Lake Ranger District....",
-          "link": "https://kqennewsradio.com/2025/09/08/abundant-lightning-moved-across-umpqua-national-forest/?utm_source=rss&utm_medium=rss&utm_campaign=abundant-lightning-moved-across-umpqua-national-forest",
-          "publishedOn": "2025-09-08T10:36:05.000Z",
-          "wordCount": 1861,
-          "title": "ABUNDANT LIGHTNING MOVED ACROSS UMPQUA NATIONAL FOREST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250908093558/FIremap-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137759",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2025 3: 30 a.m.  On Friday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden, and U.S. Representative Val Hoyle welcomed the approval of Oregon Governor Tina Kotek’s request for a Major Disaster Declaration from the Federal Emergency Management Agency in response to devastating flooding and other devastating weather-related events that severely impacted Coos,...",
-          "link": "https://kqennewsradio.com/2025/09/08/merkley-wyden-hoyle-disaster-relief-coming-to-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=merkley-wyden-hoyle-disaster-relief-coming-to-southern-oregon",
-          "publishedOn": "2025-09-08T10:19:53.000Z",
-          "wordCount": 1874,
-          "title": "MERKLEY, WYDEN, HOYLE: DISASTER RELIEF COMING TO SOUTHERN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137757",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2025 3:20 a.m.  There will be fireworks at the Roseburg City Council meeting on Monday night. A light agenda is highlighted with a fireworks risk assessment. Staff are asking the council to consider possible actions to establish a ban on the sale, possession and use of fireworks inside the city. Councilors will look...",
-          "link": "https://kqennewsradio.com/2025/09/08/city-council-to-consider-potential-for-fireworks-ban/?utm_source=rss&utm_medium=rss&utm_campaign=city-council-to-consider-potential-for-fireworks-ban",
-          "publishedOn": "2025-09-08T10:16:11.000Z",
-          "wordCount": 1728,
-          "title": "CITY COUNCIL TO CONSIDER POTENTIAL FOR FIREWORKS BAN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223954/City-Hall-Front-e1587726357513.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137755",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2025 3:05 a.m.  Greater Douglas United Way has the Dave Johnson Memorial Golf Tournament this Thursday. Back for its 43rd year, the event will be held at Bar Run Golf & RV Resort. It supports the local United Way’s annual fundraising campaign, and is made possible by generous sponsors, enthusiastic golfers, dedicated volunteers,...",
-          "link": "https://kqennewsradio.com/2025/09/08/united-way-dave-johnson-memorial-gold-tournament-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=united-way-dave-johnson-memorial-gold-tournament-thursday",
-          "publishedOn": "2025-09-08T10:10:34.000Z",
-          "wordCount": 1726,
-          "title": "UNITED WAY DAVE JOHNSON MEMORIAL GOLD TOURNAMENT THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223500/GDUW-Logo-NEW-lg-e1596732471561.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=137753",
-          "author": "Kyle Bailey",
-          "description": "September 8, 2025 2:50 a.m.  The deputy forest supervisor of the Umpqua National Forest will address a timber organization later this month. Jake Winn will be the speaker at a no host breakfast of the Douglas Timber Operators on Thursday, September 25th at 8:00 a.m. It will be held in the loft of the Del...",
-          "link": "https://kqennewsradio.com/2025/09/08/unf-deputy-forest-supervisor-to-address-timber-organization/?utm_source=rss&utm_medium=rss&utm_campaign=unf-deputy-forest-supervisor-to-address-timber-organization",
-          "publishedOn": "2025-09-08T10:04:48.000Z",
-          "wordCount": 1655,
-          "title": "UNF DEPUTY FOREST SUPERVISOR TO ADDRESS TIMBER ORGANIZATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
         }
       ]
     },
