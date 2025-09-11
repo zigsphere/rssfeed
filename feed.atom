@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-11T13:08:29.044Z</updated>
+    <updated>2025-09-11T13:18:36.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -74,6 +74,16 @@
         <summary type="html"><![CDATA[September 11, 2025 2:50 a.m.  The OSU Extension Service in Douglas County is offering New Leader Trainings this fall for adults who would like to become 4-H volunteers. An Extension release said these sessions provide essential tools, resources, and support to help people get started as a club or project leader. Training will cover the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mop-up on lightning-caused fires continues with varying containments]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/f2587bb5-66cb-4ce1-b86b-b84f49aad40e</id>
+        <link href="https://www.nrtoday.com/news/local/mop-up-on-lightning-caused-fires-continues-with-varying-containments/article_f2587bb5-66cb-4ce1-b86b-b84f49aad40e.html"/>
+        <updated>2025-09-10T23:22:00.000Z</updated>
+        <summary type="html"><![CDATA[According to the Douglas Forest Protective Association, a total of 280 lightning strikes were recorded during the lightning activity Monday. The association has been actively monitoring the strikes, in the end confirming 10 lightning-caused fires.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
