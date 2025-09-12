@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-12T19:09:43.027Z</updated>
+    <updated>2025-09-12T23:11:06.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fire safety boost: Prescribed burns return to Douglas County]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/7d799998-7448-4588-92b2-d27a12a4ceba</id>
+        <link href="https://www.kezi.com/news/local/fire-safety-boost-prescribed-burns-return-to-douglas-county/article_7d799998-7448-4588-92b2-d27a12a4ceba.html"/>
+        <updated>2025-09-12T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Forest Protective Association (DFPA) is set to issue permits for prescribed pasture burning as conditions allow.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.12.25]]></title>
+        <id>https://kqennewsradio.com/?p=138005</id>
+        <link href="https://kqennewsradio.com/2025/09/12/inside-douglas-county-9-12-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-12-25"/>
+        <updated>2025-09-12T20:47:51.000Z</updated>
+        <summary type="html"><![CDATA[The Back to School series continues with Oakland School District Superintendent Jeff Clark talking about things happening in that district.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR FELONY WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=137998</id>
@@ -924,86 +944,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COOLER WETTER WEATHER THROUGH WEDNESDAY FOR THE UMPQUA VALLEY]]></title>
-        <id>https://kqennewsradio.com/?p=137817</id>
-        <link href="https://kqennewsradio.com/2025/09/09/cooler-wetter-weather-through-wednesday-for-the-umpqua-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cooler-wetter-weather-through-wednesday-for-the-umpqua-valley"/>
-        <updated>2025-09-09T11:09:22.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 4:10 a.m.  Cooler wetter weather is expected in the Umpqua Valley through Wednesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that conditions will dry out beginning Thursday bringing warmer temperatures up to the mid-80’s for Friday and Saturday. Another weather system is likely...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA DECREASES IFPL’S AND PUBLIC USE RESTRICTIONS]]></title>
-        <id>https://kqennewsradio.com/?p=137814</id>
-        <link href="https://kqennewsradio.com/2025/09/09/dfpa-decreases-ifpls-and_public-use-restrictions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-decreases-ifpls-and_public-use-restrictions"/>
-        <updated>2025-09-09T10:57:09.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 4:00 a.m.  Effective Tuesday, the Douglas Forest Protective Association has decreased the Industrial Fire Precaution Levels to IFPL Level 2 on all lands protected by DFPA, which includes lands managed by the Bureau of Land Management. DFPA Public Information Officer Rachel Pope said Public Use Restrictions have decreased to Moderate for all...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA ACTIVELY INVOLVED IN LIGHTNING RECONNAISSANCE]]></title>
-        <id>https://kqennewsradio.com/?p=137810</id>
-        <link href="https://kqennewsradio.com/2025/09/09/dfpa-actively-involved-in-lightning-reconnaissance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-actively-involved-in-lightning-reconnaissance"/>
-        <updated>2025-09-09T10:40:40.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 3:50 a.m.   Crews with the Douglas Forest Protective Association have been actively involved in lightning reconnaissance and initial attack following several lightning storms that occurred on Monday. DFPA Public Information Officer Rachel Pope said firefighters responded to numerous smoke investigations. Pope said of those responses, four have been confirmed fires. Of those,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW GRANTS MARK FIVE-YEAR ANNIVERSARY OF LABOR DAY FIRES]]></title>
-        <id>https://kqennewsradio.com/?p=137806</id>
-        <link href="https://kqennewsradio.com/2025/09/09/new-grants-mark-five-year-anniversary-of-labor-day-fires/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-grants-mark-five-year-anniversary-of-labor-day-fires"/>
-        <updated>2025-09-09T10:24:17.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 3:40 a.m.  Five years after the Labor Day megafires devastated parts of Oregon, 11 nonprofits are receiving new funding to help communities continue to recover and prepare for future disasters: The Oregon Community Foundation has announced $120,000 in new grants from its Disaster Readiness and Response Fund, to help organizations in areas...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITCH NIGHT GRAND FINALE FALL LINEUP IS SET]]></title>
-        <id>https://kqennewsradio.com/?p=137804</id>
-        <link href="https://kqennewsradio.com/2025/09/09/pitch-night-grand-finale-fall-lineup-is-set/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pitch-night-grand-finale-fall-lineup-is-set"/>
-        <updated>2025-09-09T10:14:47.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 3:30 a.m.  After almost one year, the field is now set for the Umpqua Growth Talk’s Grand Finale Pitch Night October 23rd at Backside Brewing in Roseburg. A release from the Umpqua Economic Development Partnership said with the most recent Pitch Night event now complete, the first and second place finishers from...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAISY AWARD FOR EXTRAORDINARY NURSE AT CHI MERCY HEALTH]]></title>
-        <id>https://kqennewsradio.com/?p=137802</id>
-        <link href="https://kqennewsradio.com/2025/09/09/daisy-award-for-extraordinary-nurse-at-chi-mercy-health/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=daisy-award-for-extraordinary-nurse-at-chi-mercy-health"/>
-        <updated>2025-09-09T10:11:16.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 3:20 a.m.  Tammy St. Amand of Mercy Medical Center was recently honored with The DAISY Award for Extraordinary Nurses. The award is part of the DAISY Foundations programs to recognize the super-human efforts nurses perform every day. A Mercy release said St. Amand was selected through a nomination process. The not-for-profit DAISY...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PACIFIC POWER FOUNDATION PROVIDES GRANT SUPPORT TO ORGANIZATIONS]]></title>
-        <id>https://kqennewsradio.com/?p=137799</id>
-        <link href="https://kqennewsradio.com/2025/09/09/pacific-power-foundation-provides-grant-support-to-organizations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pacific-power-foundation-provides-grant-support-to-organizations"/>
-        <updated>2025-09-09T10:08:09.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 3:05 a.m. The Pacific Power Foundation is providing grant funds to 62 non-profits and community organizations whose mission is to enhance communities and promote responsible environmental stewardship. Pacific Power President Ryan Flynn said, “The Pacific Power Foundation is inspired by these critical community-serving organizations that help our region prosper. It’s an honor...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWO VEHICLE ACCIDENT IN MELROSE AREA ON SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=137797</id>
-        <link href="https://kqennewsradio.com/2025/09/09/two-vehicle-accident-in-melrose-area-on-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-vehicle-accident-in-melrose-area-on-sunday"/>
-        <updated>2025-09-09T10:03:53.000Z</updated>
-        <summary type="html"><![CDATA[September 9, 2025 2:50 am.. There was a two-vehicle accident in the Melrose area on Sunday. A Douglas County Sheriff’s Office report said at 3:55 p.m. an SUV was heading northbound on Cleveland Hill Road near the intersection with Monte Vista Lane intending to turn into a driveway. A sedan was going southbound at 60...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
