@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-12T23:11:06.108Z</updated>
+    <updated>2025-09-13T02:41:31.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -914,36 +914,6 @@
         <summary type="html"><![CDATA[United Community Action Network Food Bank Manager Val Gordon and David Adamson from Columbia Bank talk about a food drive happening on Wednesday at Sherm’s Thunderbird Market.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA decreases fire danger]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/29c0a302-5eb0-4e91-9c73-8b111b22b1c6</id>
-        <link href="https://www.nrtoday.com/news/environment/dfpa-decreases-fire-danger/article_29c0a302-5eb0-4e91-9c73-8b111b22b1c6.html"/>
-        <updated>2025-09-09T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Due to precipitation, Douglas Forest Protective Association will decrease Industrial Fire Precaution Levels to Level 2 and Public Use Restrictions to moderate for all associated lands in the Douglas District.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA Lowers Fire Precaution Levels Following Rainfall]]></title>
-        <id>68c03207cbfd6b0001fa2f23</id>
-        <link href="https://www.roseburgscanner.com/dfpa-lowers-fire-precaution-levels-following-rainfall/"/>
-        <updated>2025-09-09T13:59:11.000Z</updated>
-        <summary type="html"><![CDATA[DFPA has lowered fire danger levels following recent rain. Effective Sept. 9, IFPL drops to Level 2 and Public Use Restrictions to Moderate across the district. Industrial and public activities face time-of-day limits to reduce wildfire risk. Full details at www.dfpa.net]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 9, 2025]]></title>
-        <id>68c02b62cbfd6b0001fa2dd1</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/september-9-2025/"/>
-        <updated>2025-09-09T13:50:08.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
