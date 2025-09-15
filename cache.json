@@ -294,6 +294,116 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e5247e42-034e-4d14-8909-783ecece46e1",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Every Sept. 27, organizations across the country celebrate National Public Lands Day, a holiday dedicated to the conservation of public lands and the enrichment they bring to communities.",
+          "link": "https://www.nrtoday.com/news/bureau-of-land-management-plans-trail-maintenance-day-for-susan-creek-falls/article_e5247e42-034e-4d14-8909-783ecece46e1.html",
+          "publishedOn": "2025-09-15T15:00:00.000Z",
+          "wordCount": 12761,
+          "title": "Bureau of Land Management plans trail maintenance day for Susan Creek Falls",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/55/455a986b-6a90-4057-8b5f-556c160ef29a/643afdd47ff87.image.jpg?resize=300%2C200",
+            "length": "539328",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/55/455a986b-6a90-4057-8b5f-556c160ef29a/643afdd47ff87.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6467e3ea-8c15-450a-b3f7-3982a4d70d3e",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — \"Picasso at the Lapin Agile\" continues through Sept. 24 at Umpqua Actors Community Theatre on West Harvard Avenue in Roseburg.",
+          "link": "https://www.nrtoday.com/a_and_e/picasso-at-the-lapin-agile-continues-at-uact/article_6467e3ea-8c15-450a-b3f7-3982a4d70d3e.html",
+          "publishedOn": "2025-09-15T14:30:00.000Z",
+          "wordCount": 12127,
+          "title": "'Picasso at the Lapin Agile' continues at UACT",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ae01385f-8193-4ed0-b127-61a2f748d2f0",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "Corazón Oaxaqueño took over the center of the Umpqua Valley Farmers Market for more than an hour Saturday, performing three dances that each ran about 15 minutes and resembled short musicals. The routines included themes, plots and even a bullfight.",
+          "link": "https://www.nrtoday.com/a_and_e/dancing-in-the-street-at-the-umpqua-valley-farmers-market/article_ae01385f-8193-4ed0-b127-61a2f748d2f0.html",
+          "publishedOn": "2025-09-15T14:30:00.000Z",
+          "wordCount": 12940,
+          "title": "Dancing in the street at the Umpqua Valley Farmer's Market",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dd/4ddcb683-3719-49d5-903c-f982c3d8952b/68c63aaceae4c.image.jpg?resize=300%2C225",
+            "length": "508547",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/dd/4ddcb683-3719-49d5-903c-f982c3d8952b/68c63aaceae4c.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/95a468f5-232c-4a36-b495-ff21d70109ec",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "ELKTON — How to differentiate bluegrass music from country and folk?",
+          "link": "https://www.nrtoday.com/a_and_e/what-is-bluegrass/article_95a468f5-232c-4a36-b495-ff21d70109ec.html",
+          "publishedOn": "2025-09-15T14:30:00.000Z",
+          "wordCount": 12771,
+          "title": "What is bluegrass?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/8d/c8d7bc35-51a1-40ba-a6f1-5169ac210921/68c61b5b9813b.image.jpg?resize=300%2C225",
+            "length": "434365",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/8d/c8d7bc35-51a1-40ba-a6f1-5169ac210921/68c61b5b9813b.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/818cd47e-690e-44f3-af95-566db484320d",
+          "author": "PATRICK MOORE The News-Review",
+          "description": "There's not much room left on the hills above Roseburg's Hucrest neighborhood, but Kennaday Builders, LLC, was able to fit a new house between two others.",
+          "link": "https://www.nrtoday.com/business/outdoor-living-space-a-new-addition-to-showcase-of-homes/article_818cd47e-690e-44f3-af95-566db484320d.html",
+          "publishedOn": "2025-09-15T14:30:00.000Z",
+          "wordCount": 12991,
+          "title": "Outdoor living space a new addition to Showcase of Homes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/96/39633eec-8828-4b2b-a138-339be964a7ef/68c605e263cb1.image.jpg?resize=300%2C225",
+            "length": "662072",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/96/39633eec-8828-4b2b-a138-339be964a7ef/68c605e263cb1.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a49c6ddc-239d-43bd-9b4e-6ee5648ca945",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Douglas County Republican Party is hosting an event to honor the legacy of Charlie Kirk on Monday night.",
+          "link": "https://www.nrtoday.com/briefs/republican-party-hosting-charlie-kirk-remembrance-event/article_a49c6ddc-239d-43bd-9b4e-6ee5648ca945.html",
+          "publishedOn": "2025-09-15T14:28:00.000Z",
+          "wordCount": 12073,
+          "title": "Republican party hosting Charlie Kirk remembrance event",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dbfd73eb-dfef-4979-a60e-984365f21379",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — CASA of Douglas County will hold its annual charity auction on Saturday, Sept. 20 at the Roseburg Country Club.",
+          "link": "https://www.nrtoday.com/briefs/casa-of-douglas-county-to-hold-charity-auction-saturday/article_dbfd73eb-dfef-4979-a60e-984365f21379.html",
+          "publishedOn": "2025-09-15T14:25:00.000Z",
+          "wordCount": 12103,
+          "title": "CASA of Douglas County to hold charity auction Saturday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8514b707-fa81-4ddb-93a5-61d8a87b5ebc",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The city of Roseburg is taking applications from people interested in serving on a city commission.",
+          "link": "https://www.nrtoday.com/briefs/four-roseburg-city-commissions-have-openings/article_8514b707-fa81-4ddb-93a5-61d8a87b5ebc.html",
+          "publishedOn": "2025-09-15T14:22:00.000Z",
+          "wordCount": 12081,
+          "title": "Four Roseburg city commissions have openings",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/58752d08-ecc6-4fd5-add3-ebc261163774",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas Forest Protective Association (DFPA) will begin issuing permits for prescribed pasture burns as conditions allow.",
+          "link": "https://www.nrtoday.com/news/dfpa-to-begin-issuing-permits-for-prescribed-pasture-burns/article_58752d08-ecc6-4fd5-add3-ebc261163774.html",
+          "publishedOn": "2025-09-15T13:47:00.000Z",
+          "wordCount": 12177,
+          "title": "DFPA to begin issuing permits for prescribed pasture burns",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1b9d6fc7-d52d-45a2-980d-72c89c12fccc",
           "author": "Aurora Ropp For The News-Review",
           "description": "The September children’s and teen programing break at the library gives me time to plan fall programs and also give a little extra attention to our collection of materials.",
@@ -401,6 +511,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68c82613cbfd6b0001fa3604",
+          "author": "Joseph Ziegler",
+          "description": "Winston’s Now N Then Antique Mall may close Oct. 3 after 19 years unless an attorney can secure a lease extension. Specials include 50% off items marked 22 or 222. Vendors notified, showcases for sale, and a final parking lot sale may be held.",
+          "link": "https://www.roseburgscanner.com/winstons-now-n-then-antique-mall-closing-after-19-years/",
+          "publishedOn": "2025-09-15T14:44:04.000Z",
+          "wordCount": 1733,
+          "title": "Winston’s Now N Then Antique Mall Closing After 19 Years",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/antique_mall-1.png"
+        },
+        {
+          "id": "68c7809fcbfd6b0001fa3430",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-15-2025/",
+          "publishedOn": "2025-09-15T13:44:34.000Z",
+          "wordCount": 3883,
+          "title": "September 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-9.png"
+        },
         {
           "id": "68c45afdcbfd6b0001fa340b",
           "author": "Joseph Ziegler",
