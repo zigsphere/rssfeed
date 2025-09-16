@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138084",
+          "author": "Kyle Bailey",
+          "description": "First District State Representative Court Boice talks about the rally in remembrance of Charlie Kirk, held in Roseburg on Monday night.",
+          "link": "https://kqennewsradio.com/2025/09/16/morning-conversation-9-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-16-25",
+          "publishedOn": "2025-09-16T16:03:34.000Z",
+          "wordCount": 1633,
+          "title": "MORNING CONVERSATION 9.16.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250916145536/AM-CONV-09-16-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138082",
           "author": "Kyle Bailey",
           "description": "September 16, 2025 4:10 a.m.  Tuesday could see a record breaking high for the date in Roseburg. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a ridge of high pressure aloft is bringing a warm air mass into the region. Roseburg is expecting a high temperature...",
@@ -406,6 +421,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68c96a34cbfd6b0001fa3761",
+          "author": "Joseph Ziegler",
+          "description": "DFPA has six prescribed burns scheduled this week: Sept. 16 in Oakland & Roseburg, Sept. 17 in Oakland & Roseburg, Sept. 18 on N. Umpqua Hwy in Roseburg, and Sept. 20 on Roberts Creek Rd in Roseburg. Burns aim to reduce wildfire risk under safe conditions.",
+          "link": "https://www.roseburgscanner.com/dfpa-confirms-six-prescribed-burns-scheduled-this-week/",
+          "publishedOn": "2025-09-16T13:50:42.000Z",
+          "wordCount": 1779,
+          "title": "DFPA Confirms Six Prescribed Burns Scheduled This Week",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/Prescribed-Pasture-Burns--1.jpg"
+        },
+        {
+          "id": "68c9643ecbfd6b0001fa3626",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-16-2025/",
+          "publishedOn": "2025-09-16T13:41:15.000Z",
+          "wordCount": 4103,
+          "title": "September 16, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-10.png"
+        },
         {
           "id": "68c82613cbfd6b0001fa3604",
           "author": "Joseph Ziegler",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-16T13:23:24.203Z</updated>
+    <updated>2025-09-16T16:16:10.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.16.25]]></title>
+        <id>https://kqennewsradio.com/?p=138084</id>
+        <link href="https://kqennewsradio.com/2025/09/16/morning-conversation-9-16-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-16-25"/>
+        <updated>2025-09-16T16:03:34.000Z</updated>
+        <summary type="html"><![CDATA[First District State Representative Court Boice talks about the rally in remembrance of Charlie Kirk, held in Roseburg on Monday night.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA Confirms Six Prescribed Burns Scheduled This Week]]></title>
+        <id>68c96a34cbfd6b0001fa3761</id>
+        <link href="https://www.roseburgscanner.com/dfpa-confirms-six-prescribed-burns-scheduled-this-week/"/>
+        <updated>2025-09-16T13:50:42.000Z</updated>
+        <summary type="html"><![CDATA[DFPA has six prescribed burns scheduled this week: Sept. 16 in Oakland & Roseburg, Sept. 17 in Oakland & Roseburg, Sept. 18 on N. Umpqua Hwy in Roseburg, and Sept. 20 on Roberts Creek Rd in Roseburg. Burns aim to reduce wildfire risk under safe conditions.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 16, 2025]]></title>
+        <id>68c9643ecbfd6b0001fa3626</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/september-16-2025/"/>
+        <updated>2025-09-16T13:41:15.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RECORD BREAKING HEAT EXPECTED FOR TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=138082</id>
