@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-15T23:10:54.552Z</updated>
+    <updated>2025-09-16T02:51:44.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three people found dead in RV from suspected overdoses]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/289b35ac-e30c-468f-b27f-9c99fd134d0c</id>
+        <link href="https://www.kezi.com/news/three-people-found-dead-in-rv-from-suspected-overdoses/article_289b35ac-e30c-468f-b27f-9c99fd134d0c.html"/>
+        <updated>2025-09-16T00:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Tragedy struck at Shady Point RV Park, just south of Roseburg, where three individuals were found dead and one in medical distress from a suspected drug overdose.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DINT INFORMATION ON DRUG OVERDOSE DEATHS]]></title>
+        <id>https://kqennewsradio.com/?p=138065</id>
+        <link href="https://kqennewsradio.com/2025/09/15/dint-information-on-drug-overdose-deaths/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dint-information-on-drug-overdose-deaths"/>
+        <updated>2025-09-15T23:51:33.000Z</updated>
+        <summary type="html"><![CDATA[September 15, 4:50 p.m. The Douglas Interagency Narcotics Team has released information on drug overdose deaths which took place over the weekend. DINT Commander Lieutenant Rick McArthur said on Sunday, three individuals were found deceased in a recreational vehicle at the Shady Point RV Park, just south of Roseburg on Highway 99 South. McArthur said...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN IN THEFT CASE]]></title>
         <id>https://kqennewsradio.com/?p=138063</id>
@@ -474,56 +494,6 @@
         <summary type="html"><![CDATA[GLIDE — In 2020, a series of wildifires across Oregon, dubbed the Labor Day Fires, laid waste to woodlands and the communities in them across Oregon. For Douglas County, that consisted of the Archie Creek Fire and its impacts to…]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community Support Needed: Lookingglass Rural Fire District Seeks Grant for Lifesaving Cardiac Monitor]]></title>
-        <id>68c4277fcbfd6b0001fa33e2</id>
-        <link href="https://www.roseburgscanner.com/community-support-needed-lookingglass-rural-fire-district-seeks-grant-for-lifesaving-cardiac-monitor/"/>
-        <updated>2025-09-12T14:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Lookingglass Rural Fire District is seeking community letters of support for a $15,000 Ford Family Foundation grant to help buy a Zoll X-Series Cardiac Monitor. The device will cut costs, speed patient transfers, and improve emergency care as call volumes rise. Email captain@lookingglassfire.org]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only two fires uncontained in Umpqua National Forest]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/26cc05fb-527c-4707-89f8-1949f386b71d</id>
-        <link href="https://www.nrtoday.com/briefs/only-two-fires-uncontained-in-umpqua-national-forest/article_26cc05fb-527c-4707-89f8-1949f386b71d.html"/>
-        <updated>2025-09-12T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Only two of the recent fires remain uncontained on the Umpqua National Forest (UNF).]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoncalla teacher becomes student in Oaxaca cuisine]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/35b3470f-eb58-4019-b196-804387a6eec9</id>
-        <link href="https://www.nrtoday.com/family/yoncalla-teacher-becomes-student-in-oaxaca-cuisine/article_35b3470f-eb58-4019-b196-804387a6eec9.html"/>
-        <updated>2025-09-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[YONCALLA — Yoncalla High School’s culinary arts and Spanish teacher Matt Sybrant is excited to bring a new wealth of knowledge about Spanish culture and corn to his students.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 12, 2025]]></title>
-        <id>68c41f5ecbfd6b0001fa3288</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/september-12-2025/"/>
-        <updated>2025-09-12T13:37:23.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Public Schools installs AI tech for added security layer]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/51bcd74e-3632-4006-8871-9d2ef613be45</id>
-        <link href="https://www.nrtoday.com/news/education/roseburg-public-schools-installs-ai-tech-for-added-security-layer/article_51bcd74e-3632-4006-8871-9d2ef613be45.html"/>
-        <updated>2025-09-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg High School is turning to new technology to ensure students remain safe in the form of AI gun detection technology.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
