@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-16T19:10:25.705Z</updated>
+    <updated>2025-09-16T23:09:34.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.16.25]]></title>
+        <id>https://kqennewsradio.com/?p=138103</id>
+        <link href="https://kqennewsradio.com/2025/09/16/inside-douglas-county-9-16-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-16-25"/>
+        <updated>2025-09-16T20:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Camas Valley Charter School Superintendent Done Wonsley talks about things happening at the K-12 school.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man charged with child sex abuse caught on video]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/c589d1f5-db8d-43df-8ca9-eb50e76a2289</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-charged-with-child-sex-abuse-caught-on-video/article_c589d1f5-db8d-43df-8ca9-eb50e76a2289.html"/>
+        <updated>2025-09-16T19:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man faces serious charges after accusations of filming and sexually abusing a child, according to Douglas County Circuit Court records.]]></summary>
+        <author>
+            <name>Chelsea Deffenbacher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR PROHIBITED CAMPING, WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=138100</id>
@@ -484,26 +504,6 @@
         <summary type="html"><![CDATA[September 15, 2025 11:00 a.m.  A transient was jailed for alleged disorderly conduct in the parking lot of a retail complex on Friday afternoon. A Douglas County Sheriff’s Office report said at approximately 2:30 p.m. several parties called dispatch to complain about the behavior of a man in the 4600 block of Carnes Road in...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire safety boost: Prescribed burns return to Douglas County]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/7d799998-7448-4588-92b2-d27a12a4ceba</id>
-        <link href="https://www.kezi.com/news/local/fire-safety-boost-prescribed-burns-return-to-douglas-county/article_7d799998-7448-4588-92b2-d27a12a4ceba.html"/>
-        <updated>2025-09-12T22:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas Forest Protective Association (DFPA) is set to issue permits for prescribed pasture burning as conditions allow.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coos Bay man gets 20 years for fatal drunk driving crash]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/ab52f949-6760-4bee-b871-354d17ab2ed5</id>
-        <link href="https://www.kezi.com/news/local/coos-bay-man-gets-20-years-for-fatal-drunk-driving-crash/article_ab52f949-6760-4bee-b871-354d17ab2ed5.html"/>
-        <updated>2025-09-12T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The driver involved in a tragic bus crash that claimed the lives of a softball coach and player has been sentenced to more than 20 years in prison.]]></summary>
-        <author>
-            <name>Chelsea Deffenbacher</name>
         </author>
     </entry>
 </feed>

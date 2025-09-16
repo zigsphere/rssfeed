@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138103",
+          "author": "Kyle Bailey",
+          "description": "Camas Valley Charter School Superintendent Done Wonsley talks about things happening at the K-12 school.",
+          "link": "https://kqennewsradio.com/2025/09/16/inside-douglas-county-9-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-16-25",
+          "publishedOn": "2025-09-16T20:27:30.000Z",
+          "wordCount": 1626,
+          "title": "INSIDE DOUGLAS COUNTY 9.16.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250916192436/IDC-09-16-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250916192705/Don.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138100",
           "author": "Kyle Bailey",
           "description": "September 16, 2025 10:40 a.m.  Roseburg Police jailed a woman for prohibited camping and for warrants on Monday. An RPD report said at 6:40 p.m. the 35-year-old was contacted at a camp that was set up in a restricted area of Gaddis Park in the 800 block of Northwest Highland Street. She had three prior...",
@@ -539,6 +554,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/c589d1f5-db8d-43df-8ca9-eb50e76a2289",
+          "author": "Chelsea Deffenbacher",
+          "description": "A Roseburg man faces serious charges after accusations of filming and sexually abusing a child, according to Douglas County Circuit Court records.",
+          "link": "https://www.kezi.com/news/local/roseburg-man-charged-with-child-sex-abuse-caught-on-video/article_c589d1f5-db8d-43df-8ca9-eb50e76a2289.html",
+          "publishedOn": "2025-09-16T19:27:00.000Z",
+          "wordCount": 8149,
+          "title": "Roseburg man charged with child sex abuse caught on video",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169",
+            "length": "106754",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/289b35ac-e30c-468f-b27f-9c99fd134d0c",
           "author": "News Staff",
           "description": "Tragedy struck at Shady Point RV Park, just south of Roseburg, where three individuals were found dead and one in medical distress from a suspected drug overdose.",
@@ -552,36 +582,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/22/1226874c-c5c7-11ec-a5e2-97d2d0680735/6268987adcb17.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/7d799998-7448-4588-92b2-d27a12a4ceba",
-          "author": "News Staff",
-          "description": "The Douglas Forest Protective Association (DFPA) is set to issue permits for prescribed pasture burning as conditions allow.",
-          "link": "https://www.kezi.com/news/local/fire-safety-boost-prescribed-burns-return-to-douglas-county/article_7d799998-7448-4588-92b2-d27a12a4ceba.html",
-          "publishedOn": "2025-09-12T22:46:00.000Z",
-          "wordCount": 7988,
-          "title": "Fire safety boost: Prescribed burns return to Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169",
-            "length": "93928",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/ab52f949-6760-4bee-b871-354d17ab2ed5",
-          "author": "Chelsea Deffenbacher",
-          "description": "The driver involved in a tragic bus crash that claimed the lives of a softball coach and player has been sentenced to more than 20 years in prison.",
-          "link": "https://www.kezi.com/news/local/coos-bay-man-gets-20-years-for-fatal-drunk-driving-crash/article_ab52f949-6760-4bee-b871-354d17ab2ed5.html",
-          "publishedOn": "2025-09-12T18:05:00.000Z",
-          "wordCount": 8282,
-          "title": "Coos Bay man gets 20 years for fatal drunk driving crash",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/d5/5d5405c0-03af-11ed-8e22-3b75aa35e386/62d0758113ea4.image.jpg?resize=300%2C225",
-            "length": "99081",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/d5/5d5405c0-03af-11ed-8e22-3b75aa35e386/62d0758113ea4.image.jpg?resize=300%2C225"
         }
       ]
     }
