@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138133",
+          "author": "Kyle Bailey",
+          "description": "House District 2 State Representative Virgle Osborne talks about a delay in the Special Session of the Legislature, and covers his decision to run for re-election.",
+          "link": "https://kqennewsradio.com/2025/09/17/morning-conversation-9-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-17-25",
+          "publishedOn": "2025-09-17T16:15:18.000Z",
+          "wordCount": 1643,
+          "title": "MORNING CONVERSATION 9.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250917150925/AM-CONV-09-17-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250917151451/Virgle-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138129",
           "author": "Kyle Bailey",
           "description": "September 17, 2025 4:00 a.m.  Roseburg saw a new record high temperature for the date on Tuesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 96 degrees at the Roseburg Regional Airport. The previous record high temperature for the date was 93 degrees,...",
@@ -448,6 +463,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1a3a87a7-16ca-495d-b391-b387f20e1644",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For over a decade, Umpqua Watersheds has hosted the Umpqua Brewfest, bringing in major breweries and home brewers from near and far to share the joys of craft beer and community gathering.",
+          "link": "https://www.nrtoday.com/news/umpqua-brewfest-returns-to-roseburg-for-14th-year/article_1a3a87a7-16ca-495d-b391-b387f20e1644.html",
+          "publishedOn": "2025-09-17T15:00:00.000Z",
+          "wordCount": 12651,
+          "title": "Umpqua Brewfest returns to Roseburg for 14th year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/82/682e119c-8fc7-41d6-bf18-06a39a06e4c5/5da2a67125a24.image.jpg?resize=300%2C215",
+            "length": "330517",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/82/682e119c-8fc7-41d6-bf18-06a39a06e4c5/5da2a67125a24.image.jpg?resize=300%2C215"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d984cdcf-f526-4ffc-a476-d5f489931a5a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Melva \"Pinky\" Bratton said she never planned to help out at a preschool, but she's having fun as assistant teacher at Neighborhood Christian Preschool.",
+          "link": "https://www.nrtoday.com/news/education/pinky-bratton-isnt-stopping-yet/article_d984cdcf-f526-4ffc-a476-d5f489931a5a.html",
+          "publishedOn": "2025-09-17T13:30:00.000Z",
+          "wordCount": 14017,
+          "title": "Pinky Bratton isn't stopping yet",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/a1/9a12a630-bcfb-453c-a305-3b4bb42a8e01/68ca3ebf73872.image.jpg?resize=300%2C200",
+            "length": "404315",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/a1/9a12a630-bcfb-453c-a305-3b4bb42a8e01/68ca3ebf73872.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/77e39725-5441-42ba-9026-17fdbaa5a556",
           "author": "Brian Bull KLCC",
