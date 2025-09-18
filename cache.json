@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138182",
+          "author": "Kyle Bailey",
+          "description": "Organizer Clay Caldwell talks about the 56th annual Winston-Dillard Melon Festival happening Friday through Sunday.",
+          "link": "https://kqennewsradio.com/2025/09/18/morning-conversation-9-18-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-18-25",
+          "publishedOn": "2025-09-18T16:04:27.000Z",
+          "wordCount": 1629,
+          "title": "MORNING CONVERSATION 9.18.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250918150249/AM-CONV-09-18-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250916093116/Melon-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138175",
           "author": "Kyle Bailey",
           "description": "September 18, 2025 4:00 a.m.  The Myrtle Creek Police Department is investigating a robbery which reportedly took place outside a bank on Sunday evening. Detective Kevin Taggert said just after 8:45 p.m. MCPD officers and deputies with the Douglas County Sheriff’s Office were dispatched to Columbia Bank, formerly Umpqua Bank, in the 100 block of...",
@@ -629,6 +644,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/31174568-f9ed-4c1f-971d-1f69448c0107",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Every year, veterans travel to the Roseburg VA Health Care System to get their annual booster shots and vaccinations against seasonal illnesses. Since 2020, COVID-19 vaccines have become a regular part of that cycle for many.",
+          "link": "https://www.nrtoday.com/news/va-puts-limit-on-covid-19-shots-pending-cdc-guidance/article_31174568-f9ed-4c1f-971d-1f69448c0107.html",
+          "publishedOn": "2025-09-18T15:00:00.000Z",
+          "wordCount": 12364,
+          "title": "VA puts limit on COVID-19 shots pending CDC guidance",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/86/886886a7-f326-47e5-a4ea-8f679f380a47/6859edb4f2480.image.jpg?resize=300%2C200",
+            "length": "399821",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/86/886886a7-f326-47e5-a4ea-8f679f380a47/6859edb4f2480.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dc587a9e-83e6-4360-b148-00c15c0598a8",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "It's 5:30 a.m. You are 10-years-old, waking up for your shift in a mine or factory. As you walk to your post, you see your fellow workers missing arms, legs, fingers, tufts of hair that have been torn away by…",
+          "link": "https://www.nrtoday.com/news/new-art-show-at-ucc-explores-the-horrors-or-child-labor-then-and-now/article_dc587a9e-83e6-4360-b148-00c15c0598a8.html",
+          "publishedOn": "2025-09-18T15:00:00.000Z",
+          "wordCount": 13508,
+          "title": "New art show at UCC explores the horrors or child labor, then and now",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/47/a4797991-7671-4fca-bf2e-0fe89e1b826f/68cb2d2313b4a.image.jpg?resize=300%2C200",
+            "length": "263814",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/47/a4797991-7671-4fca-bf2e-0fe89e1b826f/68cb2d2313b4a.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3da3a7a4-40f8-4ee2-b189-3d4f03ad8156",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — Riverbend Park will be busy with all things melon this weekend as the Winston Dillard Melon Festival caps off the summer.",
+          "link": "https://www.nrtoday.com/news/health/winston-dillard-melon-festival-offers-melon-contests-parades-vendors-and-more/article_3da3a7a4-40f8-4ee2-b189-3d4f03ad8156.html",
+          "publishedOn": "2025-09-18T13:00:00.000Z",
+          "wordCount": 12718,
+          "title": "Winston Dillard Melon Festival offers melon contests, parades, vendors and more",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4c2ad843-efae-41a3-b30c-7b8132baaa8c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Those with tickets for Saving Grace Humane Society's fundraising event Paws with a Cause are in for cute puppies, kittens, local wine and beer, food and more Saturday evening.",
+          "link": "https://www.nrtoday.com/news/health/paws-with-a-cause-showcases-work-of-saving-grace-humane-society/article_4c2ad843-efae-41a3-b30c-7b8132baaa8c.html",
+          "publishedOn": "2025-09-18T13:00:00.000Z",
+          "wordCount": 12289,
+          "title": "Paws with a Cause showcases work of Saving Grace Humane Society",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3a25c0d3-bea3-4841-b543-0933bb02d2f5",
           "author": "Zac Ziegler KLCC",
           "description": "Oregon Democratic U.S. Rep. Val Hoyle violated rules meant to increase the transparency of stock transactions by members of Congress, according to a recent report by the nonprofit Open Secrets.",
@@ -881,6 +946,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68cc08f5cbfd6b0001fa3a3f",
+          "author": "Joseph Ziegler",
+          "description": "Myrtle Creek Police are investigating a Sunday night robbery outside Columbia Bank. A man reported two masked suspects stole a deposit and threatened to shoot him before fleeing on foot. Anyone with info is asked to call MCPD at 440-4471.",
+          "link": "https://www.roseburgscanner.com/myrtle-creek-police-investigating-robbery-outside-bank/",
+          "publishedOn": "2025-09-18T13:29:11.000Z",
+          "wordCount": 1682,
+          "title": "Myrtle Creek Police Investigating Robbery Outside Bank",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/mcpd-1.jpg"
+        },
+        {
+          "id": "68cc07b3cbfd6b0001fa3a2d",
+          "author": "Joseph Ziegler",
+          "description": "Deputies arrested 38-year-old Jesse Dewbre after he fled the Douglas County Courthouse Tuesday when a judge ordered him into custody. He was later found at his home and surrendered. Dewbre faces escape and warrant charges; bail set at $100,000.",
+          "link": "https://www.roseburgscanner.com/man-arrested-after-escaping-from-douglas-county-courthouse/",
+          "publishedOn": "2025-09-18T13:23:57.000Z",
+          "wordCount": 1688,
+          "title": "Man Arrested After Escaping From Douglas County Courthouse",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/Sheriff-Badge-medium-3.jpg"
+        },
         {
           "id": "68cc02afcbfd6b0001fa38eb",
           "author": "Joseph Ziegler",
