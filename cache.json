@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138203",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Community College President Dr. Rachel Pokrandt talks about the start of the academic year at their campus in Winchester.",
+          "link": "https://kqennewsradio.com/2025/09/18/inside-douglas-county-9-18-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-9-18-25",
+          "publishedOn": "2025-09-18T20:33:43.000Z",
+          "wordCount": 1636,
+          "title": "INSIDE DOUGLAS COUNTY 9.18.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250918193011/IDC-09-18-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250918193329/Rachel-1-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138200",
           "author": "Kyle Bailey",
           "description": "September 18, 2025 11:00 a.m.  Roseburg Police cited a man for outdoor burning on Wednesday. An RPD report said at 11:50 p.m. officers contacted the 48-year-old sitting next to a campfire in the 200 block of Southeast Pine Street. He extinguished the fire and was cited without incident.",
@@ -639,76 +654,6 @@
           "wordCount": 1676,
           "title": "SUTHERLIN POLICE JAIL MAN FOR ALLEGED DISORDERLY CONDUCT INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223709/police-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138034",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 4:00 a.m.  The Umpqua Valley will see above normal temperatures for a few days beginning on Tuesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a strong ridge of high pressure will move in from California on Tuesday, impacting the entire Pacific Northwest....",
-          "link": "https://kqennewsradio.com/2025/09/15/temperatures-above-normal-starting-tuesday-in-the-umpqua-valley/?utm_source=rss&utm_medium=rss&utm_campaign=temperatures-above-normal-starting-tuesday-in-the-umpqua-valley",
-          "publishedOn": "2025-09-15T10:55:32.000Z",
-          "wordCount": 1705,
-          "title": "TEMPERATURES ABOVE NORMAL STARTING TUESDAY IN THE UMPQUA VALLEY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138030",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 3:50 a.m. The Douglas County Republican Party is hosting an event to honor the legacy of Charlie Kirk on Monday night. It will be held at 6:00 p.m. in front of the Douglas County Courthouse on Southeast Douglas Avenue. Organizers say this will be a time of reflection, remembrance and renewed purpose....",
-          "link": "https://kqennewsradio.com/2025/09/15/republican-party-hosting-charlie-kirk-remembrance/?utm_source=rss&utm_medium=rss&utm_campaign=republican-party-hosting-charlie-kirk-remembrance",
-          "publishedOn": "2025-09-15T10:36:54.000Z",
-          "wordCount": 1651,
-          "title": "REPUBLICAN PARTY HOSTING CHARLIE KIRK REMEMBRANCE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138028",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 3:40 a.m.  The City of Roseburg is taking applications from people interested in serving on a city commission. A city release said there are vacancies on these commissions: homeless, parks and recreation, planning and public works. The planning and public works commissions have two vacancies each while the other commissions have one...",
-          "link": "https://kqennewsradio.com/2025/09/15/four-roseburg-city-commissons-have-openings/?utm_source=rss&utm_medium=rss&utm_campaign=four-roseburg-city-commissons-have-openings",
-          "publishedOn": "2025-09-15T10:25:56.000Z",
-          "wordCount": 1664,
-          "title": "FOUR ROSEBURG CITY COMMISSONS HAVE OPENINGS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213442/City-Hall-Gold-Light-on-Trees-11-5-21-scaled-e1637321373883.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138025",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 3:30 a.m.  The Bureau of Land Management will offer six timber sales in September, totaling 39.7 million board feet to be harvested from 3,470 public acres across western Oregon, including in Douglas County. BLM Oregon/Washington State Director Barry Bushue said, “Timber harvested from public lands provides essential benefits to our nation, from...",
-          "link": "https://kqennewsradio.com/2025/09/15/blm-timber-sales-to-offer-nearly-40-million-board-feet/?utm_source=rss&utm_medium=rss&utm_campaign=blm-timber-sales-to-offer-nearly-40-million-board-feet",
-          "publishedOn": "2025-09-15T10:22:16.000Z",
-          "wordCount": 1807,
-          "title": "BLM TIMBER SALES TO OFFER NEARLY 40 MILLION BOARD FEET",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250915092144/blm-1-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138022",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 3:20 a.m.  CASA of Douglas County will hold their Annual Charity Auction on Saturday, September 20th at the Roseburg Country Club. The event will feature a centerpiece collection of children’s play structures designed and built from seven local schools in partnership with the Umpqua Valley Homebuilders Association. The custom playhouses will be...",
-          "link": "https://kqennewsradio.com/2025/09/15/casa-of-douglas-county-to-hold-charity-auction-september-20th/?utm_source=rss&utm_medium=rss&utm_campaign=casa-of-douglas-county-to-hold-charity-auction-september-20th",
-          "publishedOn": "2025-09-15T10:18:28.000Z",
-          "wordCount": 1685,
-          "title": "CASA OF DOUGLAS COUNTY TO HOLD CHARITY AUCTION SEPTEMBER 20TH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250915091759/Casa-2.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138019",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 3:05 a.m.   In the KQEN Cultural Spotlight: Season tickets sales end Monday for the upcoming series of concerts from the Umpqua Symphony Association. The season includes: *Acropolis Reed Quintet on Sunday, October 26th *Fandango! Saturday, March 14th *Delgani String Quartet on Sunday, May 31st All concerts are being held at 3:00 p.m....",
-          "link": "https://kqennewsradio.com/2025/09/15/umpqua-symphony-association-season-ticket-sale-ends-monday/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-symphony-association-season-ticket-sale-ends-monday",
-          "publishedOn": "2025-09-15T10:13:00.000Z",
-          "wordCount": 1653,
-          "title": "UMPQUA SYMPHONY ASSOCIATION SEASON TICKET SALE ENDS MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250915091243/Symphony.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138017",
-          "author": "Kyle Bailey",
-          "description": "September 15, 2025 2:50 a.m.  On Friday, U.S. Senator Ron Wyden said he joined colleagues from the Senate Energy and Natural Resources Committee to question the Trump administration’s sudden elimination of the Women in Wildfire Bootcamps program and demand its reinstatement. A release said this year alone, the U.S. has experienced 48,458 wildfires that have...",
-          "link": "https://kqennewsradio.com/2025/09/15/wyden-colleagues-demand-reinstatement-of-wildfire-preparedness/?utm_source=rss&utm_medium=rss&utm_campaign=wyden-colleagues-demand-reinstatement-of-wildfire-preparedness",
-          "publishedOn": "2025-09-15T10:09:57.000Z",
-          "wordCount": 1844,
-          "title": "WYDEN, COLLEAGUES DEMAND REINSTATEMENT OF WILDFIRE PREPAREDNESS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
         }
       ]
     },
@@ -1026,6 +971,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68cc670fcbfd6b0001fa3a54",
+          "author": "Joseph Ziegler",
+          "description": "The 56th Winston-Dillard Melon Festival runs Sept. 19–21 with parades, live music, contests, kids’ games, food, and more. Highlights include the parade Sept. 20 at 11 a.m., music from Strange Birds, Trip Wire, and Borrowed Time, plus the grand raffle on Sunday.",
+          "link": "https://www.roseburgscanner.com/winston-dillard-melon-festival-kicks-off-friday-with-full-weekend-of-events/",
+          "publishedOn": "2025-09-18T20:14:13.000Z",
+          "wordCount": 1870,
+          "title": "Winston-Dillard Melon Festival Kicks Off Friday With Full Weekend of Events",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/festival_2-1.jpg"
+        },
         {
           "id": "68cc08f5cbfd6b0001fa3a3f",
           "author": "Joseph Ziegler",
