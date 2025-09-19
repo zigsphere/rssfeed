@@ -634,6 +634,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/24e35054-37b8-498f-b264-ccb584482e68",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Eclectic doesn't even begin to describe it: Baseball cards, VHS tapes, heirloom china cabinets, Transformers action figures, vintage pottery, 19th century weapons of war, family photos of long-departed strangers.",
+          "link": "https://www.nrtoday.com/business/after-nearly-2-decades-winstons-now-n-then-antique-mall-is-closing-for-good/article_24e35054-37b8-498f-b264-ccb584482e68.html",
+          "publishedOn": "2025-09-19T15:00:00.000Z",
+          "wordCount": 13084,
+          "title": "After nearly 2 decades, Winston's Now N Then Antique Mall is closing for good",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/59/f5944915-8b0c-4c2d-aac2-facd6f3d155f/68cc85280cee5.image.jpg?resize=300%2C200",
+            "length": "392980",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/59/f5944915-8b0c-4c2d-aac2-facd6f3d155f/68cc85280cee5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0cb06e41-cb57-429d-91c1-3acfa892feb6",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Over 400 people will be eating dinner in the streets of downtown Roseburg Sunday during Thrive Umpqua's The Longest Table dinner",
+          "link": "https://www.nrtoday.com/news/environment/the-longest-table-offers-food-fellowship-funding-for-community-members/article_0cb06e41-cb57-429d-91c1-3acfa892feb6.html",
+          "publishedOn": "2025-09-19T13:45:00.000Z",
+          "wordCount": 13245,
+          "title": "The Longest Table offers food, fellowship, funding for community members",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ae/6aedeb0e-6296-11ef-884f-2b8c75dcbd00/66caac1d0b336.image.jpg?resize=300%2C200",
+            "length": "303253",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ae/6aedeb0e-6296-11ef-884f-2b8c75dcbd00/66caac1d0b336.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2da8f11-2f90-4ed5-aab3-7d1e5a5d8565",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Every year, the Ford Family Foundation (FFF) publishes its Oregon By The Numbers report, examining all 36 Oregon counties through data and statistics to see how it’s health, economy, infrastructure and more are changing.",
+          "link": "https://www.nrtoday.com/analytics/douglas-county-showing-ups-and-downs-in-ford-family-foundation-2025-oregon-by-the-numbers/article_e2da8f11-2f90-4ed5-aab3-7d1e5a5d8565.html",
+          "publishedOn": "2025-09-19T13:30:00.000Z",
+          "wordCount": 13203,
+          "title": "Douglas County showing ups and downs in Ford Family Foundation 2025 Oregon By The Numbers data",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b630da36-0381-11f0-b8b5-13ebee7d4afb/67d8a65913e65.image.jpg?resize=300%2C347",
+            "length": "154839",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b630da36-0381-11f0-b8b5-13ebee7d4afb/67d8a65913e65.image.jpg?resize=300%2C347"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/31174568-f9ed-4c1f-971d-1f69448c0107",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Every year, veterans travel to the Roseburg VA Health Care System to get their annual booster shots and vaccinations against seasonal illnesses. Since 2020, COVID-19 vaccines have become a regular part of that cycle for many.",
@@ -826,6 +871,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68cd5811cbfd6b0001fa3a7f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-19-2021/",
+          "publishedOn": "2025-09-19T13:34:13.000Z",
+          "wordCount": 4234,
+          "title": "September 19, 2021",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-13.png"
+        },
         {
           "id": "68cc670fcbfd6b0001fa3a54",
           "author": "Joseph Ziegler",
