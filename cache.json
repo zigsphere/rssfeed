@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138282",
+          "author": "Kyle Bailey",
+          "description": "Nick Smith of the American Forest Resource Council talks about the Roadless Rule and why he organization wants to see it rescinded.",
+          "link": "https://kqennewsradio.com/2025/09/22/morning-conversation-9-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-22-25",
+          "publishedOn": "2025-09-22T16:12:13.000Z",
+          "wordCount": 1636,
+          "title": "MORNING CONVERSATION 9.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250922145013/AM-CONV-09-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250922151115/nsmith_photo-2-scaled-e1758557500201.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138276",
           "author": "Kyle Bailey",
           "description": "September 22, 2025 4:10 a.m.   The Roseburg City Council will consider making a final decision on purchasing property in the southeast end of the city to use as a potential urban campground, as part of its meeting Monday night. The site under review is at 1899 Southeast Stephens Street and is the former location of...",
@@ -274,6 +289,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd69d46d-fa38-4b34-af8b-3da2f16f3b07",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "If documentary filmmaking possesses one core strength, is is that it can be deeply personal, highlighting the lives and experiences of its subjects in real time with a raw sense of authenticity.",
+          "link": "https://www.nrtoday.com/news/siskyou-mountain-film-tour-screening-in-roseburg-celebrates-public-land-maintenance/article_fd69d46d-fa38-4b34-af8b-3da2f16f3b07.html",
+          "publishedOn": "2025-09-22T15:00:00.000Z",
+          "wordCount": 12902,
+          "title": "Siskyou Mountain Film Tour screening in Roseburg celebrates public land maintenance",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/92/4923f957-2847-47c9-a2ec-431a4ef529d8/68cd94b882d39.image.jpg?resize=300%2C200",
+            "length": "266682",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/92/4923f957-2847-47c9-a2ec-431a4ef529d8/68cd94b882d39.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/36698f67-6bd6-4f1d-aaf3-b1b081609995",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — Elvis Hunsaker sat in front is his 1955 Oldsmobile Rocket 88 and handed out small American flags, even offering two sizes to choose from, to everyone who wanted one.",
+          "link": "https://www.nrtoday.com/news/environment/roseburg-elks-host-auto-extravaganza-at-umpqua-community-college/article_36698f67-6bd6-4f1d-aaf3-b1b081609995.html",
+          "publishedOn": "2025-09-22T13:15:00.000Z",
+          "wordCount": 14190,
+          "title": "Roseburg Elks host Auto Extravaganza at Umpqua Community College",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bb/ebb5865f-0a74-4aed-9316-79248a30765f/68cf57b01324d.image.jpg?resize=300%2C200",
+            "length": "574337",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bb/ebb5865f-0a74-4aed-9316-79248a30765f/68cf57b01324d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/62391acf-3079-466f-9e0c-404e1803d48a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — Saturday's warm skies welcomed people outside and to the Winston Dillard Melon Festival in Riverbend Park in Winston. People arrived in droves following the parade at 10 a.m. to play games, watch the entertainment and eat fair food…",
+          "link": "https://www.nrtoday.com/news/environment/communityunity-joins-in-hosting-winston-dillard-melon-festival/article_62391acf-3079-466f-9e0c-404e1803d48a.html",
+          "publishedOn": "2025-09-22T12:30:00.000Z",
+          "wordCount": 13697,
+          "title": "CommunityUnity joins in hosting Winston Dillard Melon Festival",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/6d/b6dcb892-fe9a-4491-a2da-4cea7518c991/68cf44b46772f.image.jpg?resize=300%2C200",
+            "length": "501261",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/6d/b6dcb892-fe9a-4491-a2da-4cea7518c991/68cf44b46772f.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c6629847-5a5a-4100-aa0d-ec3243119b16",
           "author": "Mandy Hatfield For The News-Review",
           "description": "If you love preserving local food, right now is a great time to live in the Umpqua Valley.",
@@ -388,6 +448,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68d174d0cbfd6b0001fa3d5f",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg City Council meets tonight, Sept. 22, at 7 p.m. to consider buying a 2.56-acre site on S.E. Stephens St. for use as an urban campground and discussing a possible citywide fireworks ban over fire safety concerns. Public comments are welcome in person, by email, or via Zoom.",
+          "link": "https://www.roseburgscanner.com/roseburg-city-council-to-consider-fireworks-ban-urban-campground-proposal/",
+          "publishedOn": "2025-09-22T16:11:11.000Z",
+          "wordCount": 1703,
+          "title": "Roseburg City Council to Consider Fireworks Ban, Urban Campground Proposal",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/city_council.jpg"
+        },
+        {
+          "id": "68d0cc27cbfd6b0001fa3bd6",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-22-2025/",
+          "publishedOn": "2025-09-22T13:42:49.000Z",
+          "wordCount": 3804,
+          "title": "September 22, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-14.png"
+        },
+        {
           "id": "68cd5811cbfd6b0001fa3a7f",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -403,23 +483,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/a52c0b2a-1603-4d55-a430-52eb0e9a2f9f",
-          "author": "Ryan Bonham",
-          "description": "Authorities are investigating a robbery that occurred at Columbia Bank on Northwest Pleasant Street, according to the Myrtle Creek Police Department.",
-          "link": "https://www.kezi.com/news/local/two-suspects-sought-in-myrtle-creek-bank-robbery-incident/article_a52c0b2a-1603-4d55-a430-52eb0e9a2f9f.html",
-          "publishedOn": "2025-09-18T17:07:00.000Z",
-          "wordCount": 8126,
-          "title": "Two suspects sought in Myrtle Creek bank robbery incident",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/4c/04cb6cde-2314-11ed-9fe8-53a7584f6c25/61a92805c36f1.image.jpg?resize=300%2C169",
-            "length": "27247",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/4c/04cb6cde-2314-11ed-9fe8-53a7584f6c25/61a92805c36f1.image.jpg?resize=300%2C169"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
