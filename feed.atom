@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-23T19:10:25.840Z</updated>
+    <updated>2025-09-23T23:11:09.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 9.23.25]]></title>
+        <id>https://kqennewsradio.com/?p=138364</id>
+        <link href="https://kqennewsradio.com/2025/09/23/inside-douglas-county-9-23-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-9-23-25"/>
+        <updated>2025-09-23T21:03:23.000Z</updated>
+        <summary type="html"><![CDATA[A two-segment program with Amy Taylor of Urban Rural Action talking about the Poverty Simulation Event and Kris Wiley of the Roseburg Public Library with information on library happenings.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR PROHBITED OUTDOOR BURNING]]></title>
         <id>https://kqennewsradio.com/?p=138360</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[September 23, 2025 10:20 a.m.  Roseburg Police jailed a man for driving while suspended early Tuesday. An RPD report said just after 2:00 a.m. officers initiated a traffic stop on a motor home for expired tags in the 2600 block of Northwest Stewart Parkway. Officers contacted the 59-year-old man who was driving. The man returned...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elderly woman in Douglas County saved from $35k scam with YouTuber's help]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/d81679b4-895b-4701-8a0c-a7500db3c47f</id>
+        <link href="https://www.kezi.com/news/local/elderly-woman-in-douglas-county-saved-from-35k-scam-with-youtubers-help/article_d81679b4-895b-4701-8a0c-a7500db3c47f.html"/>
+        <updated>2025-09-23T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A quick-thinking YouTuber and a Douglas County Sheriff's deputy teamed up to thwart a scam targeting an elderly woman in a 55-and-over community.]]></summary>
+        <author>
+            <name>Chelsea Deffenbacher</name>
         </author>
     </entry>
     <entry>
