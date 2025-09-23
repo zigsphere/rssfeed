@@ -422,36 +422,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/59/f5944915-8b0c-4c2d-aac2-facd6f3d155f/68cc85280cee5.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0cb06e41-cb57-429d-91c1-3acfa892feb6",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Over 400 people will be eating dinner in the streets of downtown Roseburg Sunday during Thrive Umpqua's The Longest Table dinner",
-          "link": "https://www.nrtoday.com/news/environment/the-longest-table-offers-food-fellowship-funding-for-community-members/article_0cb06e41-cb57-429d-91c1-3acfa892feb6.html",
-          "publishedOn": "2025-09-19T13:45:00.000Z",
-          "wordCount": 13245,
-          "title": "The Longest Table offers food, fellowship, funding for community members",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ae/6aedeb0e-6296-11ef-884f-2b8c75dcbd00/66caac1d0b336.image.jpg?resize=300%2C200",
-            "length": "303253",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ae/6aedeb0e-6296-11ef-884f-2b8c75dcbd00/66caac1d0b336.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2da8f11-2f90-4ed5-aab3-7d1e5a5d8565",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Every year, the Ford Family Foundation (FFF) publishes its Oregon By The Numbers report, examining all 36 Oregon counties through data and statistics to see how it’s health, economy, infrastructure and more are changing.",
-          "link": "https://www.nrtoday.com/analytics/douglas-county-showing-ups-and-downs-in-ford-family-foundation-2025-oregon-by-the-numbers/article_e2da8f11-2f90-4ed5-aab3-7d1e5a5d8565.html",
-          "publishedOn": "2025-09-19T13:30:00.000Z",
-          "wordCount": 13203,
-          "title": "Douglas County showing ups and downs in Ford Family Foundation 2025 Oregon By The Numbers data",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b630da36-0381-11f0-b8b5-13ebee7d4afb/67d8a65913e65.image.jpg?resize=300%2C347",
-            "length": "154839",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/63/b630da36-0381-11f0-b8b5-13ebee7d4afb/67d8a65913e65.image.jpg?resize=300%2C347"
         }
       ]
     },
@@ -477,6 +447,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68d1d9a1cbfd6b0001fa3d8a",
+          "author": "Joseph Ziegler",
+          "description": "DFPA will raise fire danger to HIGH on Sept. 23. Public Use Restrictions increase: power saws, mowing cured grass, welding, and metal cutting are only allowed before 10 a.m. or after 8 p.m. Industrial Fire Precaution Level remains at IFPL II.",
+          "link": "https://www.roseburgscanner.com/dfpa-raises-fire-danger-level-to-high-starting-sept-23/",
+          "publishedOn": "2025-09-22T23:21:28.000Z",
+          "wordCount": 1743,
+          "title": "DFPA Raises Fire Danger Level to High Starting Sept. 23",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/highfire.webp"
+        },
         {
           "id": "68d1b28acbfd6b0001fa3d78",
           "author": "Joseph Ziegler",
@@ -506,16 +486,6 @@
           "wordCount": 3804,
           "title": "September 22, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-14.png"
-        },
-        {
-          "id": "68cd5811cbfd6b0001fa3a7f",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/september-19-2021/",
-          "publishedOn": "2025-09-19T13:34:13.000Z",
-          "wordCount": 4234,
-          "title": "September 19, 2021",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-13.png"
         }
       ]
     },
