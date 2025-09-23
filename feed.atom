@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-23T13:23:06.878Z</updated>
+    <updated>2025-09-23T16:16:18.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 9.23.25]]></title>
+        <id>https://kqennewsradio.com/?p=138342</id>
+        <link href="https://kqennewsradio.com/2025/09/23/morning-conversation-9-23-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-9-23-25"/>
+        <updated>2025-09-23T16:13:26.000Z</updated>
+        <summary type="html"><![CDATA[State Senator David Brock Smith has an update on his work in the Oregon State Legislature and talks about the continuation of the Special Session on September 29th.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September 23, 2025]]></title>
+        <id>68d29fc5cbfd6b0001fa3d9b</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/september-23-2025/"/>
+        <updated>2025-09-23T13:40:06.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG TO SEE HIGHS 10 TO 15 DEGREES ABOVE NORMAL THROUGH WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=138338</id>

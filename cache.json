@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138342",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith has an update on his work in the Oregon State Legislature and talks about the continuation of the Special Session on September 29th.",
+          "link": "https://kqennewsradio.com/2025/09/23/morning-conversation-9-23-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-9-23-25",
+          "publishedOn": "2025-09-23T16:13:26.000Z",
+          "wordCount": 1641,
+          "title": "MORNING CONVERSATION 9.23.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250923151055/AM-CONV-9-23-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138338",
           "author": "Kyle Bailey",
           "description": "September 23, 2025 3:50 a.m.  Roseburg will see high temperatures that are 10 to 15 degrees above normal for Tuesday and Wednesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that strong high pressure is centered over much of southern Oregon. While the temperatures will be higher...",
@@ -381,6 +396,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68d29fc5cbfd6b0001fa3d9b",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/september-23-2025/",
+          "publishedOn": "2025-09-23T13:40:06.000Z",
+          "wordCount": 3913,
+          "title": "September 23, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-15.png"
+        },
         {
           "id": "68d1d9a1cbfd6b0001fa3d8a",
           "author": "Joseph Ziegler",
