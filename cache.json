@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138369",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn, Matt Dickson and guest Malcom Keith talk about the Teen Mastermind Project.",
+          "link": "https://kqennewsradio.com/2025/09/23/true-wealth-9-23-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-9-23-25",
+          "publishedOn": "2025-09-24T00:17:48.000Z",
+          "wordCount": 1626,
+          "title": "TRUE WEALTH 9.23.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250923230313/TWR-09-23-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138364",
           "author": "Kyle Bailey",
           "description": "A two-segment program with Amy Taylor of Urban Rural Action talking about the Poverty Simulation Event and Kris Wiley of the Roseburg Public Library with information on library happenings.",
@@ -349,6 +364,76 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3e265a01-e029-4b2d-abae-4783e7216ded",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "RIDDLE — Riddle School district superintendent Dave Gianotti died and school will be closed Tuesday, the district announced Monday evening.",
+          "link": "https://www.nrtoday.com/news/education/riddle-superintendent-dave-gianotti-died/article_3e265a01-e029-4b2d-abae-4783e7216ded.html",
+          "publishedOn": "2025-09-23T17:28:00.000Z",
+          "wordCount": 11975,
+          "title": "Riddle superintendent Dave Gianotti died",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b5473bad-be39-476c-ae84-3296e397b8d8",
+          "author": "Vickie Aldous Daily Courier",
+          "description": "Gregory Loveday and Nicole Inglis not only live at a homeless campground in Roseburg, they serve as the hosts and managers of the site — providing a low-cost way to offer shelter without paying for 24-hour supervision and security.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-businessman-provides-self-governing-homeless-camps/article_b5473bad-be39-476c-ae84-3296e397b8d8.html",
+          "publishedOn": "2025-09-23T16:00:00.000Z",
+          "wordCount": 14972,
+          "title": "Roseburg businessman provides self-governing homeless camps",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/29/b29a32b3-498f-4e9c-8625-48bfdeb43e63/68d2eafec2960.image.jpg?resize=300%2C200",
+            "length": "641017",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/29/b29a32b3-498f-4e9c-8625-48bfdeb43e63/68d2eafec2960.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/02ed797e-b874-48ac-bc52-be0176153269",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Douglas County is no stranger to SNAP benefits. According to the Oregon Hunger Task Force, there was an average of 27,590 residents participating in SNAP in 2023, roughly a quarter of the county’s population.",
+          "link": "https://www.nrtoday.com/news/ebt-theft-is-on-the-rise-in-oregon-heres-what-to-know-about-preventing-it/article_02ed797e-b874-48ac-bc52-be0176153269.html",
+          "publishedOn": "2025-09-23T14:45:00.000Z",
+          "wordCount": 12709,
+          "title": "EBT theft is on the rise in Oregon. Here's what to know about preventing it.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/59/65964825-3336-40bd-95e1-4a335b73af1a/68d1c66d67355.image.jpg?resize=300%2C251",
+            "length": "38019",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/59/65964825-3336-40bd-95e1-4a335b73af1a/68d1c66d67355.image.jpg?resize=300%2C251"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/55147bc9-b3ed-45b0-83a3-f245a2ae4abe",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Douglas County Master Gardner Association announced the creation of a new scholarship fund for local horticulture students.",
+          "link": "https://www.nrtoday.com/news/education/master-gardeners-offer-new-scholarships-for-ucc-students/article_55147bc9-b3ed-45b0-83a3-f245a2ae4abe.html",
+          "publishedOn": "2025-09-23T14:45:00.000Z",
+          "wordCount": 13175,
+          "title": "Master Gardeners offer new scholarships for UCC students",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/81/48117ce3-8ec0-4c3f-bd9c-a23e10a41435/62963a66f1d6e.image.jpg?resize=300%2C199",
+            "length": "1012317",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/81/48117ce3-8ec0-4c3f-bd9c-a23e10a41435/62963a66f1d6e.image.jpg?resize=300%2C199"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0affd207-b42e-40b6-9731-91d07b480e13",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "GLIDE — The Glide School District board of directors unanimously voted to approve the contact of Superintendent Robert Freeman for another three years.",
+          "link": "https://www.nrtoday.com/news/education/glide-school-board-renews-superintendent-contract/article_0affd207-b42e-40b6-9731-91d07b480e13.html",
+          "publishedOn": "2025-09-23T13:00:00.000Z",
+          "wordCount": 13279,
+          "title": "Glide School Board renews superintendent contract",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/c4/ec4ee7eb-f5a8-4284-9a68-b66c6051aa45/64cc223d9b112.image.jpg?resize=300%2C200",
+            "length": "249511",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/c4/ec4ee7eb-f5a8-4284-9a68-b66c6051aa45/64cc223d9b112.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/98d6850a-6261-4fb0-879c-10a5593c30d0",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "One of the most common subjects in art is natural landscapes, often due to their inherent visual appeal. This weekend, artists get a chance to directly immerse themselves in a landscape not to create art, but to sell it.",
@@ -407,66 +492,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/6d/b6dcb892-fe9a-4491-a2da-4cea7518c991/68cf44b46772f.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c6629847-5a5a-4100-aa0d-ec3243119b16",
-          "author": "Mandy Hatfield For The News-Review",
-          "description": "If you love preserving local food, right now is a great time to live in the Umpqua Valley.",
-          "link": "https://www.nrtoday.com/life/food/have-fun-pickling-this-season/article_c6629847-5a5a-4100-aa0d-ec3243119b16.html",
-          "publishedOn": "2025-09-19T16:47:00.000Z",
-          "wordCount": 13000,
-          "title": "Have fun pickling this season",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/a2/2a263cbd-7298-4595-a11f-056c305653c2/68c8440360c7a.image.jpg?resize=300%2C451",
-            "length": "262490",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/a2/2a263cbd-7298-4595-a11f-056c305653c2/68c8440360c7a.image.jpg?resize=300%2C451"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6fabcb01-115a-47a7-88b1-337729eab628",
-          "author": "Kris Wiley For The News-Review",
-          "description": "The Summer Reading Program may be over, but Roseburg Public Library still is basking in the glow of an amazing 12 weeks of special activities and reading fun for all ages.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-library-celebrates-the-summer-reading-program/article_6fabcb01-115a-47a7-88b1-337729eab628.html",
-          "publishedOn": "2025-09-19T16:41:00.000Z",
-          "wordCount": 12499,
-          "title": "Roseburg library celebrates the Summer Reading Program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
-            "length": "188004",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7aacda4c-d557-4100-b881-0a17b65ce20c",
-          "author": "Bonnie Courter Master Gardner",
-          "description": "Question: My neighbor has this bush that is covered in beautiful large flowers. I thought it was a hibiscus but she said it’s called the Rose of Sharon. Which one of us is right, and can you tell me more…",
-          "link": "https://www.nrtoday.com/life/ask-a-master-gardener-shasta-daisies-copy/article_7aacda4c-d557-4100-b881-0a17b65ce20c.html",
-          "publishedOn": "2025-09-19T16:30:00.000Z",
-          "wordCount": 12877,
-          "title": "Ask a Master Gardener: Shasta daisies (copy)",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/17/a1778b6f-9b7a-4c94-be70-fb75fe815e87/68c84b6d901d5.image.jpg?resize=300%2C450",
-            "length": "90378",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/17/a1778b6f-9b7a-4c94-be70-fb75fe815e87/68c84b6d901d5.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/24e35054-37b8-498f-b264-ccb584482e68",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Eclectic doesn't even begin to describe it: Baseball cards, VHS tapes, heirloom china cabinets, Transformers action figures, vintage pottery, 19th century weapons of war, family photos of long-departed strangers.",
-          "link": "https://www.nrtoday.com/business/after-nearly-2-decades-winstons-now-n-then-antique-mall-is-closing-for-good/article_24e35054-37b8-498f-b264-ccb584482e68.html",
-          "publishedOn": "2025-09-19T15:00:00.000Z",
-          "wordCount": 13084,
-          "title": "After nearly 2 decades, Winston's Now N Then Antique Mall is closing for good",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/59/f5944915-8b0c-4c2d-aac2-facd6f3d155f/68cc85280cee5.image.jpg?resize=300%2C200",
-            "length": "392980",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/59/f5944915-8b0c-4c2d-aac2-facd6f3d155f/68cc85280cee5.image.jpg?resize=300%2C200"
         }
       ]
     },
