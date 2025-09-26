@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-25T23:11:55.337Z</updated>
+    <updated>2025-09-26T02:55:13.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Umpqua National Forest to Lift Emigrant Fire Emergency Closure]]></title>
+        <id>68d5ef87cbfd6b0001fa41db</id>
+        <link href="https://www.roseburgscanner.com/umpqua-national-forest-to-lift-emigrant-fire-emergency-closure/"/>
+        <updated>2025-09-26T01:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua National Forest will lift the Emigrant Fire Emergency Closure on Friday, reopening trails like Upper Lemolo Falls and Skipper Lakes. Roads 2610 and 6000-700 remain closed. A related closure is still in effect on the Willamette National Forest.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon: New Tennis and Pickleball Courts at Stewart Park]]></title>
+        <id>68d5d75bcbfd6b0001fa41c7</id>
+        <link href="https://www.roseburgscanner.com/coming-soon-new-tennis-and-pickleball-courts-at-stewart-park/"/>
+        <updated>2025-09-26T00:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon: Stewart Park will open brand-new courts this fall after a $2.5M renovation. The project adds 8 tennis courts, 10 pickleball courts, new seating, lighting, and accessibility upgrades. A ribbon-cutting ceremony will mark the grand opening once work is complete.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Forest Products Ends Hardwood Plywood Production in Dillard]]></title>
         <id>68d5a094cbfd6b0001fa41b2</id>
@@ -747,16 +767,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[September 22, 2025]]></title>
-        <id>68d0cc27cbfd6b0001fa3bd6</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/september-22-2025/"/>
-        <updated>2025-09-22T13:42:49.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roseburg Elks host Auto Extravaganza at Umpqua Community College]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/36698f67-6bd6-4f1d-aaf3-b1b081609995</id>
         <link href="https://www.nrtoday.com/news/environment/roseburg-elks-host-auto-extravaganza-at-umpqua-community-college/article_36698f67-6bd6-4f1d-aaf3-b1b081609995.html"/>
@@ -774,16 +784,6 @@
         <summary type="html"><![CDATA[WINSTON — Saturday's warm skies welcomed people outside and to the Winston Dillard Melon Festival in Riverbend Park in Winston. People arrived in droves following the parade at 10 a.m. to play games, watch the entertainment and eat fair food…]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COUNCIL TO MAKE FINAL DECISION ON PROPERTY PURCHASE FOR POTENTIAL URBAN CAMPGROUND]]></title>
-        <id>https://kqennewsradio.com/?p=138276</id>
-        <link href="https://kqennewsradio.com/2025/09/22/council-to-make-final-decision-on-property-purchase-for-potential-urban-campground/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=council-to-make-final-decision-on-property-purchase-for-potential-urban-campground"/>
-        <updated>2025-09-22T11:16:49.000Z</updated>
-        <summary type="html"><![CDATA[September 22, 2025 4:10 a.m.   The Roseburg City Council will consider making a final decision on purchasing property in the southeast end of the city to use as a potential urban campground, as part of its meeting Monday night. The site under review is at 1899 Southeast Stephens Street and is the former location of...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

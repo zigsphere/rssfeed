@@ -499,16 +499,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250922151115/nsmith_photo-2-scaled-e1758557500201.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=138276",
-          "author": "Kyle Bailey",
-          "description": "September 22, 2025 4:10 a.m.   The Roseburg City Council will consider making a final decision on purchasing property in the southeast end of the city to use as a potential urban campground, as part of its meeting Monday night. The site under review is at 1899 Southeast Stephens Street and is the former location of...",
-          "link": "https://kqennewsradio.com/2025/09/22/council-to-make-final-decision-on-property-purchase-for-potential-urban-campground/?utm_source=rss&utm_medium=rss&utm_campaign=council-to-make-final-decision-on-property-purchase-for-potential-urban-campground",
-          "publishedOn": "2025-09-22T11:16:49.000Z",
-          "wordCount": 1870,
-          "title": "COUNCIL TO MAKE FINAL DECISION ON PROPERTY PURCHASE FOR POTENTIAL URBAN CAMPGROUND",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224158/City-Hall-Front.jpg"
         }
       ]
     },
@@ -787,6 +777,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68d5ef87cbfd6b0001fa41db",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua National Forest will lift the Emigrant Fire Emergency Closure on Friday, reopening trails like Upper Lemolo Falls and Skipper Lakes. Roads 2610 and 6000-700 remain closed. A related closure is still in effect on the Willamette National Forest.",
+          "link": "https://www.roseburgscanner.com/umpqua-national-forest-to-lift-emigrant-fire-emergency-closure/",
+          "publishedOn": "2025-09-26T01:47:11.000Z",
+          "wordCount": 1674,
+          "title": "Umpqua National Forest to Lift Emigrant Fire Emergency Closure",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/usfs.png"
+        },
+        {
+          "id": "68d5d75bcbfd6b0001fa41c7",
+          "author": "Joseph Ziegler",
+          "description": "Coming soon: Stewart Park will open brand-new courts this fall after a $2.5M renovation. The project adds 8 tennis courts, 10 pickleball courts, new seating, lighting, and accessibility upgrades. A ribbon-cutting ceremony will mark the grand opening once work is complete.",
+          "link": "https://www.roseburgscanner.com/coming-soon-new-tennis-and-pickleball-courts-at-stewart-park/",
+          "publishedOn": "2025-09-26T00:01:58.000Z",
+          "wordCount": 1744,
+          "title": "Coming Soon: New Tennis and Pickleball Courts at Stewart Park",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/pickleball.jpg"
+        },
+        {
           "id": "68d5a094cbfd6b0001fa41b2",
           "author": "Joseph Ziegler",
           "description": "Roseburg Forest Products will cease hardwood plywood production at its Dillard plant, exiting the market amid rising imports. About 110 jobs are affected, with workers encouraged to apply at other sites. The company will focus on core lines like engineered wood, MDF, lumber, and softwood plywood.",
@@ -885,16 +895,6 @@
           "wordCount": 1703,
           "title": "Roseburg City Council to Consider Fireworks Ban, Urban Campground Proposal",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/city_council.jpg"
-        },
-        {
-          "id": "68d0cc27cbfd6b0001fa3bd6",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/september-22-2025/",
-          "publishedOn": "2025-09-22T13:42:49.000Z",
-          "wordCount": 3804,
-          "title": "September 22, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-14.png"
         }
       ]
     },
