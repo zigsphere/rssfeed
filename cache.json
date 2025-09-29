@@ -287,51 +287,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c3/fc36100e-5374-11ef-834a-df935a0c3223/64c99635b20a5.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/87129d5b-b13b-4b16-b9c2-3a66b0c26190",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "CANYONVILLE — The Southern Oregon Trade Careers Expo will return for the fifth biennial event on Tuesday at Seven Feathers Casino Resort and the surrounding area.",
-          "link": "https://www.nrtoday.com/news/trade-career-opportunities-are-available-in-douglas-county/article_87129d5b-b13b-4b16-b9c2-3a66b0c26190.html",
-          "publishedOn": "2025-09-25T14:30:00.000Z",
-          "wordCount": 12600,
-          "title": "Trade career opportunities are available in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b0/6b0f2d90-92fd-4b6b-aed6-3706083d21a3/6513564aec877.image.jpg?resize=300%2C200",
-            "length": "326028",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b0/6b0f2d90-92fd-4b6b-aed6-3706083d21a3/6513564aec877.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8abd351e-264f-4fb5-b5db-bee8bf5f65b4",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "It would be hard to find an American who isn't familiar with the image of a United States Postal Service (USPS) delivery driver. With the signature sky blue uniform and boxy white delivery truck, the USPS has trafficked mail near…",
-          "link": "https://www.nrtoday.com/news/got-mail-u-s-postal-service-is-holding-a-hiring-event-in-roseburg-for-delivery/article_8abd351e-264f-4fb5-b5db-bee8bf5f65b4.html",
-          "publishedOn": "2025-09-25T14:00:00.000Z",
-          "wordCount": 12442,
-          "title": "Got mail? U.S. Postal Service is holding a hiring event in Roseburg for delivery.",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/09/60900e12-2b98-4d76-b3e4-5b4135f01a41/632f81e788497.image.jpg?resize=300%2C200",
-            "length": "789350",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/09/60900e12-2b98-4d76-b3e4-5b4135f01a41/632f81e788497.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fec89d1a-cbf5-4e55-99b1-5103dc89a1cb",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "GLIDE — Little Loggers Playschool in Glide will be moving locations by the end of September, but according to Glide Revitalization Executive Director Jeana Beam, it may need to close for a few weeks due to the move timeline.",
-          "link": "https://www.nrtoday.com/news/education/glide-revitalization-moves-little-loggers-playschool-to-local-church/article_fec89d1a-cbf5-4e55-99b1-5103dc89a1cb.html",
-          "publishedOn": "2025-09-25T13:15:00.000Z",
-          "wordCount": 13450,
-          "title": "Glide Revitalization moves Little Loggers Playschool to local church",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1d/d1dd2d62-7247-41e8-b41c-915b7f88043d/68d4cafac6233.image.jpg?resize=300%2C200",
-            "length": "586827",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/1d/d1dd2d62-7247-41e8-b41c-915b7f88043d/68d4cafac6233.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -395,16 +350,6 @@
           "wordCount": 1919,
           "title": "Migrating Vaux’s Swifts Return to Roseburg; “Swift Watch” Back On",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/chimney.jpg"
-        },
-        {
-          "id": "68d543cbcbfd6b0001fa405f",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/september-25-2025/",
-          "publishedOn": "2025-09-25T13:54:46.000Z",
-          "wordCount": 3214,
-          "title": "September 25, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-17.png"
         }
       ]
     },
@@ -413,6 +358,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/9c02c1fc-533d-4b5d-82c9-6549a90488ec",
+          "author": "Israel La Rue",
+          "description": "The \"Timber Capitol of the World\" was just hit by a major blow. One of the area’s major employers, Roseburg Forest Products laid off more than 100 employees last Thursday after closing one of its Dillard plants.",
+          "link": "https://www.kezi.com/news/local/roseburg-forest-products-lays-off-107-employees-closes-dillard-hardwood-plywood-plant/article_9c02c1fc-533d-4b5d-82c9-6549a90488ec.html",
+          "publishedOn": "2025-09-29T01:23:00.000Z",
+          "wordCount": 8470,
+          "title": "Roseburg Forest Products lays off 107 employees, closes Dillard Hardwood Plywood plant",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a2/4a2bcae0-354c-4bb3-95a5-ff5d9d1ffc42/68d9e607d8312.image.png?resize=300%2C161",
+            "length": "1246730",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a2/4a2bcae0-354c-4bb3-95a5-ff5d9d1ffc42/68d9e607d8312.image.png?resize=300%2C161"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/a321ab80-c7b8-4006-8f82-2c09a623be8e",
           "author": "News Staff",
