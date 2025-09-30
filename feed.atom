@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-30T16:16:20.076Z</updated>
+    <updated>2025-09-30T19:10:07.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Builder Sues Over Unfinished Senior Living Projects]]></title>
+        <id>68dc0619cbfd6b0001fa46a7</id>
+        <link href="https://www.roseburgscanner.com/builder-sues-over-unfinished-senior-living-projects/"/>
+        <updated>2025-09-30T16:34:06.000Z</updated>
+        <summary type="html"><![CDATA[A Sutherlin builder is suing the parent companies behind unfinished senior living projects in Roseburg and Creswell, claiming nearly $3 million in unpaid work. Dan Van Acker of Mars Construction alleges breach of contract and seeks foreclosure on the properties to recover costs.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[State Rep. Osborne responds to HB 3991 passage]]></title>
         <id>https://kqennewsradio.com/?p=138483</id>
