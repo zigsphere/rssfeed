@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-09-30T19:10:07.808Z</updated>
+    <updated>2025-09-30T23:11:39.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Fire Department set to begin issuing residential burn permits on Oct. 1]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/066a0460-719e-4f0c-8ad5-27775907bba6</id>
+        <link href="https://www.kezi.com/news/local/roseburg-fire-department-set-to-begin-issuing-residential-burn-permits-on-oct-1/article_066a0460-719e-4f0c-8ad5-27775907bba6.html"/>
+        <updated>2025-09-30T17:14:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG, Ore. - The City of Roseburg Fire Department is set to issue residential burn permits starting Oct. 1, and will be available until Oct. 31.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Builder Sues Over Unfinished Senior Living Projects]]></title>
         <id>68dc0619cbfd6b0001fa46a7</id>

@@ -324,6 +324,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/066a0460-719e-4f0c-8ad5-27775907bba6",
+          "author": "News Staff",
+          "description": "ROSEBURG, Ore. - The City of Roseburg Fire Department is set to issue residential burn permits starting Oct. 1, and will be available until Oct. 31.",
+          "link": "https://www.kezi.com/news/local/roseburg-fire-department-set-to-begin-issuing-residential-burn-permits-on-oct-1/article_066a0460-719e-4f0c-8ad5-27775907bba6.html",
+          "publishedOn": "2025-09-30T17:14:00.000Z",
+          "wordCount": 8312,
+          "title": "Roseburg Fire Department set to begin issuing residential burn permits on Oct. 1",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/2b/d2ba8682-5970-11ee-b581-0f8cfae91193/650dd47e93d0c.image.png?resize=300%2C162",
+            "length": "767855",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/2b/d2ba8682-5970-11ee-b581-0f8cfae91193/650dd47e93d0c.image.png?resize=300%2C162"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/9c02c1fc-533d-4b5d-82c9-6549a90488ec",
           "author": "Israel La Rue",
           "description": "The \"Timber Capitol of the World\" was just hit by a major blow. One of the area’s major employers, Roseburg Forest Products laid off more than 100 employees last Thursday after closing one of its Dillard plants.",
