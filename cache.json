@@ -324,6 +324,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/31cf235e-a4a5-4115-a5b2-c9d96577de74",
+          "author": "News Staff",
+          "description": "The Roseburg Public Library is gearing up for an exciting fall with a variety of youth programs.",
+          "link": "https://www.kezi.com/news/local/roseburg-library-offers-free-programs-for-families-this-fall/article_31cf235e-a4a5-4115-a5b2-c9d96577de74.html",
+          "publishedOn": "2025-09-30T23:21:00.000Z",
+          "wordCount": 8155,
+          "title": "Roseburg library offers free programs for families this fall",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f7/9f7f6b1f-9df2-4b86-b234-a139f1e2ff9c/68dc66f5c2108.image.jpg?resize=300%2C225",
+            "length": "290939",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f7/9f7f6b1f-9df2-4b86-b234-a139f1e2ff9c/68dc66f5c2108.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/066a0460-719e-4f0c-8ad5-27775907bba6",
           "author": "News Staff",
           "description": "ROSEBURG, Ore. - The City of Roseburg Fire Department is set to issue residential burn permits starting Oct. 1, and will be available until Oct. 31.",

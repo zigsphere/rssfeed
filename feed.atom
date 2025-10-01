@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-01T03:06:20.493Z</updated>
+    <updated>2025-10-01T13:24:42.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg library offers free programs for families this fall]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/31cf235e-a4a5-4115-a5b2-c9d96577de74</id>
+        <link href="https://www.kezi.com/news/local/roseburg-library-offers-free-programs-for-families-this-fall/article_31cf235e-a4a5-4115-a5b2-c9d96577de74.html"/>
+        <updated>2025-09-30T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Public Library is gearing up for an exciting fall with a variety of youth programs.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Fire Department set to begin issuing residential burn permits on Oct. 1]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/066a0460-719e-4f0c-8ad5-27775907bba6</id>
