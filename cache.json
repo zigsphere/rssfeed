@@ -489,6 +489,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/928a060d-3071-4c45-91c1-c9d78f341edc",
+          "author": "Israel La Rue",
+          "description": "Today marks 10 years since the tragic shooting at Umpqua Community College (UCC) in Roseburg. Eight students and one professor were killed that day. The college continues to support the families, friends and witnesses, with a memorial for the lives…",
+          "link": "https://www.kezi.com/news/local/umpqua-community-college-marks-tenth-anniversary-of-2015-shooting/article_928a060d-3071-4c45-91c1-c9d78f341edc.html",
+          "publishedOn": "2025-10-02T01:57:00.000Z",
+          "wordCount": 8964,
+          "title": "Umpqua Community College marks tenth anniversary of 2015 shooting",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/20/92023f6d-e609-4ab1-8205-9b9c9ff92630/68ddde39652f1.image.png?resize=300%2C161",
+            "length": "1671131",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/20/92023f6d-e609-4ab1-8205-9b9c9ff92630/68ddde39652f1.image.png?resize=300%2C161"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/31cf235e-a4a5-4115-a5b2-c9d96577de74",
           "author": "News Staff",
           "description": "The Roseburg Public Library is gearing up for an exciting fall with a variety of youth programs.",

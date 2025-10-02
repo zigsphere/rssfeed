@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-02T02:52:29.805Z</updated>
+    <updated>2025-10-02T13:22:02.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Community College marks tenth anniversary of 2015 shooting]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/928a060d-3071-4c45-91c1-c9d78f341edc</id>
+        <link href="https://www.kezi.com/news/local/umpqua-community-college-marks-tenth-anniversary-of-2015-shooting/article_928a060d-3071-4c45-91c1-c9d78f341edc.html"/>
+        <updated>2025-10-02T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Today marks 10 years since the tragic shooting at Umpqua Community College (UCC) in Roseburg. Eight students and one professor were killed that day. The college continues to support the families, friends and witnesses, with a memorial for the lives…]]></summary>
+        <author>
+            <name>Israel La Rue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emigrant Fire containment grows, local management taking over]]></title>
         <id>https://kqennewsradio.com/?p=138516</id>
