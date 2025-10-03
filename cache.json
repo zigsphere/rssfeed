@@ -397,6 +397,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68dfceb0cbfd6b0001fa4944",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-3-2025/",
+          "publishedOn": "2025-10-03T13:43:15.000Z",
+          "wordCount": 4066,
+          "title": "October 3, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-2.png"
+        },
+        {
           "id": "68de7d11cbfd6b0001fa4805",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -435,56 +445,6 @@
           "wordCount": 3820,
           "title": "September 30, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/The-Morning-Scoop-20.png"
-        },
-        {
-          "id": "68db38cdcbfd6b0001fa4534",
-          "author": "Joseph Ziegler",
-          "description": "Diamond Lake Resort hosts its first Fall Fling Oct. 4, 9–5! 🎃 Start the day with the Monsters & Mimosas 5K (benefiting UCAN, use code “Diamondlake” for 10% off). Vendors, food, and “Witches & Ghouls on the Water” make it a full day of fun.",
-          "link": "https://www.roseburgscanner.com/diamond-lake-resort-hosting-first-fall-fling-october-4/",
-          "publishedOn": "2025-09-30T02:01:56.000Z",
-          "wordCount": 1716,
-          "title": "Diamond Lake Resort Hosting First Fall Fling October 4",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/fall_fling.png"
-        },
-        {
-          "id": "68db35a7cbfd6b0001fa4525",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg Police arrested Justin Jones early Saturday on felony assault charges after he allegedly admitted to kicking a woman in the ribs. The victim reported difficulty breathing and feared broken ribs. Jones is held without bail at Douglas County Corrections.",
-          "link": "https://www.roseburgscanner.com/roseburg-man-arrested-on-felony-assault-charge/",
-          "publishedOn": "2025-09-30T01:43:49.000Z",
-          "wordCount": 1575,
-          "title": "Roseburg Man Arrested on Felony Assault Charge",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/RPDPatrol-2.jpg"
-        },
-        {
-          "id": "68db3376cbfd6b0001fa4514",
-          "author": "Joseph Ziegler",
-          "description": "A 50-year-old Roseburg man, Royce Morgan, was arrested Sunday for felony strangulation, assault, and menacing after allegedly choking a woman and threatening to kill her. He is being held without bail at Douglas County Corrections.",
-          "link": "https://www.roseburgscanner.com/roseburg-man-arrested-for-felony-strangulation/",
-          "publishedOn": "2025-09-30T01:35:58.000Z",
-          "wordCount": 1581,
-          "title": "Roseburg Man Arrested for Felony Strangulation",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/RPDPatrol-1.jpg"
-        },
-        {
-          "id": "68db31eacbfd6b0001fa4503",
-          "author": "Joseph Ziegler",
-          "description": "Though fall has arrived, fire season is not over. ODF warns fuels remain dry, east winds elevate risk, and most of Oregon is still at moderate to high fire danger. Debris burning is prohibited until season-ending rains arrive.",
-          "link": "https://www.roseburgscanner.com/though-fall-is-here-fire-season-is-not-over/",
-          "publishedOn": "2025-09-30T01:30:19.000Z",
-          "wordCount": 1759,
-          "title": "Though Fall Is Here, Fire Season Is Not Over",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/ODF-Northeast-Oregon.jpg"
-        },
-        {
-          "id": "68db30cbcbfd6b0001fa44f2",
-          "author": "Joseph Ziegler",
-          "description": "DFPA has lowered fire restrictions: Public Use is now Level LOW and IFPL reduced to Level 1 across the Douglas District. Debris burning remains prohibited. More at www.dfpa.net\n or call (541) 672-6507.",
-          "link": "https://www.roseburgscanner.com/restrictions-decrease-for-public-and-industry/",
-          "publishedOn": "2025-09-30T01:24:09.000Z",
-          "wordCount": 1737,
-          "title": "Restrictions Decrease for Public and Industry",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/09/dfpa.jpg"
         }
       ]
     },
