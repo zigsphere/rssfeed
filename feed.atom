@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-06T19:10:18.753Z</updated>
+    <updated>2025-10-06T23:12:00.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10 6 25]]></title>
+        <id>https://kqennewsradio.com/?p=138620</id>
+        <link href="https://kqennewsradio.com/2025/10/06/inside-douglas-county-10-6-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-6-25"/>
+        <updated>2025-10-06T20:04:57.000Z</updated>
+        <summary type="html"><![CDATA[State Senator David Brock Smith talks about the recent Special Session of the Oregon State Legislature and reaction to the tax increases that were passed.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REEDSPORT WOMAN DIES IN TWO-VEHICLE CRASH ON SATURDAY]]></title>
         <id>https://kqennewsradio.com/?p=138618</id>
