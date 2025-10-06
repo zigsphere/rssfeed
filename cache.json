@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138601",
+          "author": "Kyle Bailey",
+          "description": "Regional Teacher of the Year in the Douglas Education Service District Jennifer Bracken of East Primary School talks about her recent honor, and why she loves being a teacher.",
+          "link": "https://kqennewsradio.com/2025/10/06/morning-conversation-10-6-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-6-25",
+          "publishedOn": "2025-10-06T16:10:10.000Z",
+          "wordCount": 1645,
+          "title": "MORNING CONVERSATION 10.6.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251006150438/AM-CONV-10-06-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251006150952/Jennifer.jph_.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138597",
           "author": "Kyle Bailey",
           "description": "October 6, 2025 3:50 a.m.    Sunday night, Oregon Governor Tina Kotek issued a response to the U.S. District Court’s second ruling, which reiterated that the President lacks the authority given the circumstances on the ground in Oregon to deploy troops under federal law, which only permits federalizing the National Guard in circumstances of invasion,...",
@@ -234,6 +249,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b3685ffb-3502-439a-84ef-d53c78706be9",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Douglas Forest Protective Association has a tentative schedule of prescribed burns this week.",
+          "link": "https://www.nrtoday.com/briefs/dfpa-schedules-prescribed-burns-this-week/article_b3685ffb-3502-439a-84ef-d53c78706be9.html",
+          "publishedOn": "2025-10-06T16:03:00.000Z",
+          "wordCount": 12788,
+          "title": "DFPA schedules prescribed burns this week",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3f25f88d-0f9a-41b4-b09b-96d16ef6de5b",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "WINSTON — Love it or hate it, chilly, rainy fall weather is returning to Douglas County. While many would take it as a sign to bundle up and stay inside, grey skies couldn't keep families from heading out to Brosi's…",
+          "link": "https://www.nrtoday.com/family/farms-pumpkin_patches/fall-is-in-the-air-as-families-flock-to-brosis-sugartree-farms-harvest-festival/article_3f25f88d-0f9a-41b4-b09b-96d16ef6de5b.html",
+          "publishedOn": "2025-10-06T15:00:00.000Z",
+          "wordCount": 12996,
+          "title": "Fall is in the air as families flock to Brosi's Sugartree Farms Harvest Festival",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d1/cd1a01b0-796c-4acb-ac85-572fba0edabd/68e1b2c6885b8.image.jpg?resize=300%2C200",
+            "length": "684886",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d1/cd1a01b0-796c-4acb-ac85-572fba0edabd/68e1b2c6885b8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a8f7cc3b-691b-492c-a398-213fd397f365",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Hundreds of vendors. A full lineup of bands and live performances. Food trucks and beer taps on every corner. A community gathered together for the common purpose of fun and fall festivities.",
+          "link": "https://www.nrtoday.com/family/hundreds-come-to-downtown-roseburg-for-fourth-annual-blocktober-fest/article_a8f7cc3b-691b-492c-a398-213fd397f365.html",
+          "publishedOn": "2025-10-06T15:00:00.000Z",
+          "wordCount": 13049,
+          "title": "Hundreds come to downtown Roseburg for fourth annual Blocktober Fest.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/99/0992b5dd-7705-4bb5-9d28-7b9b611ed6d6/68e1b9dacb364.image.jpg?resize=300%2C200",
+            "length": "556660",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/99/0992b5dd-7705-4bb5-9d28-7b9b611ed6d6/68e1b9dacb364.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2a07b57-def6-4f81-8fc0-cea2222742bb",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "WINSTON — If there's one thing that's been a consistent point of division in Winston, it's marijuana.",
+          "link": "https://www.nrtoday.com/news/winston-voted-against-allowing-dispensaries-the-results-went-up-in-smoke/article_b2a07b57-def6-4f81-8fc0-cea2222742bb.html",
+          "publishedOn": "2025-10-06T15:00:00.000Z",
+          "wordCount": 12884,
+          "title": "Winston voted against allowing dispensaries. The results went up in smoke.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/d9/ad9e873d-a147-4d38-af53-0aa45e79d7f5/68a3f7821f33d.image.jpg?resize=300%2C200",
+            "length": "327987",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/d9/ad9e873d-a147-4d38-af53-0aa45e79d7f5/68a3f7821f33d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/52030061-2d50-49f3-a6a5-7a8fa32e4b24",
           "author": "Kris Wiley For The News-Review",
           "description": "If you are interested in daily newspaper content, help us decide whether to add digital newspapers to Roseburg Public Library’s collection.",
@@ -332,51 +402,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/31/f31147a1-4742-4f3b-98ba-8be75dea0547/68df3a9922740.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2edcde9-0e00-4342-bb2b-82484dc93144",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — Umpqua Community College's Chief Academic Officer Danielle Haskett greeted those gathered Wednesday around the memorial of the Oct. 1, 2015, deadly shooting at Umpqua Community College (UCC).",
-          "link": "https://www.nrtoday.com/news/ucc-remembers-deadly-shooting-with-acts-of-service-moment-of-silence-10-years-later/article_b2edcde9-0e00-4342-bb2b-82484dc93144.html",
-          "publishedOn": "2025-10-02T15:15:00.000Z",
-          "wordCount": 14770,
-          "title": "UCC remembers deadly shooting with acts of service, moment of silence, 10 years later",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/47/347ed6e6-1105-4dd3-a2a8-4747b4360ce7/68ddaf62077e2.image.jpg?resize=300%2C200",
-            "length": "667801",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/47/347ed6e6-1105-4dd3-a2a8-4747b4360ce7/68ddaf62077e2.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/206e9fdc-68f1-4a7c-b556-a81b2c5aaf7f",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Oregon Department of Education released the 2025 Statewide Assessment summative test scores and data Thursday. The department said while participation rates improved, and there were gains seen in math and English language arts (ELA) — overall achievement, however, still remains…",
-          "link": "https://www.nrtoday.com/news/education/assessment-data-shows-douglas-county-schools-behind-the-curve/article_206e9fdc-68f1-4a7c-b556-a81b2c5aaf7f.html",
-          "publishedOn": "2025-10-02T15:00:00.000Z",
-          "wordCount": 13912,
-          "title": "Assessment data shows Douglas County schools behind the curve",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/98/b9893e95-bdf0-4361-b4b8-37e197566123/68b84e63370e4.image.jpg?resize=300%2C200",
-            "length": "273479",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/98/b9893e95-bdf0-4361-b4b8-37e197566123/68b84e63370e4.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3839f980-b7c6-4b33-b558-24a70cb7ac64",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Those visiting the Umpqua Valley's wine country often are there to sit and sip while taking in the views. Once a year, the Umpqua Velo Club (UVC) gives wine enthusiasts and cyclists a new way to enjoy the region's scenery:…",
-          "link": "https://www.nrtoday.com/business/wine-and-wheels-umpqua-velo-club-gears-up-for-vineyard-tour/article_3839f980-b7c6-4b33-b558-24a70cb7ac64.html",
-          "publishedOn": "2025-10-02T14:45:00.000Z",
-          "wordCount": 12756,
-          "title": "Wine and wheels: Umpqua Velo Club gears up for Vineyard Tour",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/0a/f0ab0488-420b-4979-97ec-fca96b381e88/64f3a2c1ef6e6.image.jpg?resize=300%2C200",
-            "length": "611431",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/0a/f0ab0488-420b-4979-97ec-fca96b381e88/64f3a2c1ef6e6.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -391,6 +416,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68e340e0cbfd6b0001fa4acc",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-6-2025/",
+          "publishedOn": "2025-10-06T13:40:07.000Z",
+          "wordCount": 3713,
+          "title": "October 6, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-3.png"
+        },
         {
           "id": "68dfceb0cbfd6b0001fa4944",
           "author": "Joseph Ziegler",
