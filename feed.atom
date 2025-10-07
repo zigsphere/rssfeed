@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-06T23:12:00.393Z</updated>
+    <updated>2025-10-07T02:53:11.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Man Charged After Video Shows Dog Attacking Injured Deer]]></title>
+        <id>68e45d47cbfd6b0001fa4c7f</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-man-charged-after-video-shows-dog-attacking-injured-deer/"/>
+        <updated>2025-10-07T00:25:59.000Z</updated>
+        <summary type="html"><![CDATA[A Douglas County man faces felony animal abuse charges after a viral video showed him laughing as his dog attacked an injured deer in Sutherlin. Oregon State Police say the footage sparked public outrage and led to charges of aggravated animal abuse and harassing wildlife.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10 6 25]]></title>
         <id>https://kqennewsradio.com/?p=138620</id>
@@ -434,16 +444,6 @@
         <summary type="html"><![CDATA[In 1993, two cities nearly 5,000 miles apart came together under a common value: to learn from each other and celebrate both similarities and differences.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 3, 2025]]></title>
-        <id>68dfceb0cbfd6b0001fa4944</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/october-3-2025/"/>
-        <updated>2025-10-03T13:43:15.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

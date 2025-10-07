@@ -497,6 +497,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68e45d47cbfd6b0001fa4c7f",
+          "author": "Joseph Ziegler",
+          "description": "A Douglas County man faces felony animal abuse charges after a viral video showed him laughing as his dog attacked an injured deer in Sutherlin. Oregon State Police say the footage sparked public outrage and led to charges of aggravated animal abuse and harassing wildlife.",
+          "link": "https://www.roseburgscanner.com/douglas-county-man-charged-after-video-shows-dog-attacking-injured-deer/",
+          "publishedOn": "2025-10-07T00:25:59.000Z",
+          "wordCount": 1727,
+          "title": "Douglas County Man Charged After Video Shows Dog Attacking Injured Deer",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/lights.png"
+        },
+        {
           "id": "68e340e0cbfd6b0001fa4acc",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -505,16 +515,6 @@
           "wordCount": 3713,
           "title": "October 6, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-3.png"
-        },
-        {
-          "id": "68dfceb0cbfd6b0001fa4944",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/october-3-2025/",
-          "publishedOn": "2025-10-03T13:43:15.000Z",
-          "wordCount": 4066,
-          "title": "October 3, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-2.png"
         }
       ]
     },
