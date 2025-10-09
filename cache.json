@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138740",
+          "author": "Kyle Bailey",
+          "description": "Community Cancer Center Program Manager Angelia Freeman and Oregon Health Sciences University Cancer Control Specialist Sarah Swanson talk about Breast Cancer Awareness Month.",
+          "link": "https://kqennewsradio.com/2025/10/09/morning-conversation-10-9-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-9-25",
+          "publishedOn": "2025-10-09T16:14:28.000Z",
+          "wordCount": 1636,
+          "title": "MORNING CONVERSATION 10.9.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251009150619/AM-CONV-10-09-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251009151412/Pink-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138738",
           "author": "Kyle Bailey",
           "description": "October 9, 2025 4:10 a.m.  Crews with Central Douglas Fire & Rescue responded to a structure fire in DIxonville on Tuesday. A CDF&R release issued Wednesday night, said the fire in the 1000 block of Buckhorn Road was called in at approximately 10:40 a.m. Upon arrival, firefighters found a single-story home with fire coming out...",
@@ -806,6 +821,46 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68e7cebfcbfd6b0001fa5186",
+          "author": "Joseph Ziegler",
+          "description": "Students at Roseburg High walked out Wednesday during eighth period to protest transgender students using locker rooms matching their gender identity. Counter-protesters also attended, calling the demonstration transphobic. Oregon law allows students to use facilities by gender identity.",
+          "link": "https://www.roseburgscanner.com/students-walk-out-at-roseburg-high-over-locker-room-access-debate/",
+          "publishedOn": "2025-10-09T15:09:04.000Z",
+          "wordCount": 1913,
+          "title": "Students Walk Out at Roseburg High Over Locker Room Access Debate",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/rsbg1.jpg"
+        },
+        {
+          "id": "68e7c3eacbfd6b0001fa5175",
+          "author": "Joseph Ziegler",
+          "description": "Firefighters responded to a house fire Tuesday morning on Buckhorn Road in Dixonville. Flames were coming from several windows, and one kitten was rescued. The blaze started from a heat lamp used to warm baby chickens, officials said. No injuries were reported.",
+          "link": "https://www.roseburgscanner.com/heat-lamp-blamed-for-dixonville-house-fire-kitten-rescued/",
+          "publishedOn": "2025-10-09T14:26:50.000Z",
+          "wordCount": 1667,
+          "title": "Heat Lamp Blamed for Dixonville House Fire; Kitten Rescued",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/Central-Douglas-Fire-Rescue-1.jpg"
+        },
+        {
+          "id": "68e7c153cbfd6b0001fa5161",
+          "author": "Joseph Ziegler",
+          "description": "A Florida man has been arrested for allegedly starting the blaze that became January’s deadly Palisades Fire in Los Angeles, which killed 12 and destroyed thousands of homes. Officials say 29-year-old Jonathan Rinderknecht first set a smaller fire that later reignited amid strong winds.",
+          "link": "https://www.roseburgscanner.com/national-news-florida-man-arrested-for-arson-in-deadly-palisades-fire-that-killed-12/",
+          "publishedOn": "2025-10-09T14:08:32.000Z",
+          "wordCount": 2153,
+          "title": "[National News] Florida Man Arrested for Arson in Deadly Palisades Fire That Killed 12",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/rinderknecht.webp"
+        },
+        {
+          "id": "68e7b736cbfd6b0001fa4fd4",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-9-2025/",
+          "publishedOn": "2025-10-09T13:42:14.000Z",
+          "wordCount": 4434,
+          "title": "October 9, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-6.png"
+        },
         {
           "id": "68e7367dcbfd6b0001fa4fb7",
           "author": "Joseph Ziegler",
