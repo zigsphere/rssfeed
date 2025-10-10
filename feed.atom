@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-10T13:22:54.146Z</updated>
+    <updated>2025-10-10T16:15:53.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Man Faces Multiple Charges After Two-Day Crime Spree and Jail Outburst]]></title>
+        <id>68e93072cbfd6b0001fa5340</id>
+        <link href="https://www.roseburgscanner.com/roseburg-man-faces-multiple-charges-after-two-day-crime-spree-and-jail-outburst/"/>
+        <updated>2025-10-10T16:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy Brett Vroman, 48, faces multiple felony charges after allegedly committing two crimes in one day, including a daycare burglary and breaking a home’s window. He appeared via video from jail after refusing to attend his arraignment and has declined a court-appointed attorney.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 10, 2025]]></title>
+        <id>68e90b3dcbfd6b0001fa51c5</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/october-10-2025/"/>
+        <updated>2025-10-10T13:47:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAIN, AFTERNOON HIGHS TEN DEGREES BELOW NORMAL THROUGH MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=138789</id>
