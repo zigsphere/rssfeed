@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-10T23:11:30.407Z</updated>
+    <updated>2025-10-11T02:48:13.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -1007,16 +1007,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[October 7, 2025]]></title>
-        <id>68e514b9cbfd6b0001fa4ca9</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/october-7-2025/"/>
-        <updated>2025-10-07T13:44:47.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stewart Park Bridge is closed to pedestrians on Wednesday]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5dfba1e7-bbba-4d79-be6d-d4f7e886aed4</id>
         <link href="https://www.nrtoday.com/news/environment/stewart-park-bridge-is-closed-to-pedestrians-on-wednesday/article_5dfba1e7-bbba-4d79-be6d-d4f7e886aed4.html"/>
@@ -1024,16 +1014,6 @@
         <summary type="html"><![CDATA[The Stewart Park Bridge will be closed to all foot and bicycle traffic 6 a.m. until about 7 p.m. Wednesday as part of the roadway resurfacing of the rehabilitation project that has closed regular bridge traffic since February.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG COULD SEE LAST 80 PLUS DEGREE DAY FOR THE SEASON ON TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=138642</id>
-        <link href="https://kqennewsradio.com/2025/10/07/roseburg-could-see-last-80-plus-degree-day-for-the-season-on-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-could-see-last-80-plus-degree-day-for-the-season-on-tuesday"/>
-        <updated>2025-10-07T12:25:02.000Z</updated>
-        <summary type="html"><![CDATA[October 7, 2025 5:20 a.m.   Roseburg could see the last 80 plus degree day for the season on Tuesday. The National Weather Service is calling for a change in conditions beginning on Wednesday, with high temperatures dropping to the 60s for the next week. The normal high temperature for this week in Roseburg is 72...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
