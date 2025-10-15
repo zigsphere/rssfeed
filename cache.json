@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138932",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/10/14/true-wealth-10-14-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-10-14-25",
+          "publishedOn": "2025-10-15T00:20:37.000Z",
+          "wordCount": 1647,
+          "title": "TRUE WEALTH 10.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251014230440/TWR-10-24-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=138929",
+          "author": "Kyle Bailey",
+          "description": "October 14, 2025 4;15 p.m.  On Tuesday, Oregon House Republican Leader Lucetta Elmer called for accountability after a news report from the Daily Caller revealed that Oregon will spend more on free health care for immigrants – regardless of their legal status – than on state police. A release from Elmer said that according to...",
+          "link": "https://kqennewsradio.com/2025/10/14/house-republican-leader-calls-for-accountabilty/?utm_source=rss&utm_medium=rss&utm_campaign=house-republican-leader-calls-for-accountabilty",
+          "publishedOn": "2025-10-14T23:14:40.000Z",
+          "wordCount": 1767,
+          "title": "HOUSE REPUBLICAN LEADER CALLS FOR ACCOUNTABILTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251014221409/Elmer.jpg.jpeg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138924",
           "author": "Kyle Bailey",
           "description": "Peace at Home  Executive Director Melanie Prummer talks about October being designated as Domestic Violence Awareness Month. She also talked about some special events that are coming up.",
@@ -435,6 +460,16 @@
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9084",
+          "author": "Jim Teece",
+          "description": "Each fall, Oregon’s broadband and technology leaders gather for the Oregon Connections Telecommunications Conference—an annual event that shapes how the state connects homes, schools, and businesses to the digital economy. Now in its 29th year, the conference has grown into a statewide hub for collaboration among public agencies, internet service providers, educators, and economic development…\nThe post Connecting Every Corner: Oregon’s Broadband Leaders Focus on the Future appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/connecting-every-corner-oregons-broadband-leaders-focus-on-the-future/",
+          "publishedOn": "2025-10-15T02:02:33.000Z",
+          "wordCount": 3051,
+          "title": "Connecting Every Corner: Oregon’s Broadband Leaders Focus on the Future",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-10.00.24-PM.png"
+        },
         {
           "id": "https://southernoregonbusiness.com/?p=9079",
           "author": "Jim Teece",
