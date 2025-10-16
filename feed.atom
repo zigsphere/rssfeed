@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-16T19:09:34.068Z</updated>
+    <updated>2025-10-16T23:11:56.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.16.25]]></title>
+        <id>https://kqennewsradio.com/?p=139019</id>
+        <link href="https://kqennewsradio.com/2025/10/16/inside-douglas-county-10-16-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-16-25"/>
+        <updated>2025-10-16T20:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Forest Protective Association Public Information Rachael Pope takes a look at data from fire season, which ended recently.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR OFFENSIVE LITTERING]]></title>
         <id>https://kqennewsradio.com/?p=139013</id>
@@ -755,56 +765,6 @@ The post Connecting Every Corner: Oregon’s Broadband Leaders Focus on the Futu
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODOT CONTRACTOR WORKING ON WRONG WAY DRIVER MITIGATION PROJECT]]></title>
-        <id>https://kqennewsradio.com/?p=138836</id>
-        <link href="https://kqennewsradio.com/2025/10/13/odot-contractor-working-on-wrong-way-driver-mitigation-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=odot-contractor-working-on-wrong-way-driver-mitigation-project"/>
-        <updated>2025-10-13T10:38:40.000Z</updated>
-        <summary type="html"><![CDATA[October 13, 2025 3:40 a.m.   A contractor for the Oregon Department of Transportation has begun work on the Southern Oregon Wrong Way Driver Mitigation project. A ODOT construction report said the project will improve safety along Interstate 5 by adding features that alert drivers when they enter an interchange off-ramp from the wrong direction. These...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY COUNCIL TO CONSIDER ALLOWING LIMITED BEER SALES AT LEGION FIELD]]></title>
-        <id>https://kqennewsradio.com/?p=138833</id>
-        <link href="https://kqennewsradio.com/2025/10/13/city-council-to-consider-allowing-limited-beer-sales-at-legion-field/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-to-consider-allowing-limited-beer-sales-at-legion-field"/>
-        <updated>2025-10-13T10:26:41.000Z</updated>
-        <summary type="html"><![CDATA[October 13, 2025 3:30 a.m. The Roseburg City Council will consider allowing limited beer sales at Legion Field, also known as Champion Car Wash Field, during their meeting on Monday night. The Douglas County Baseball Association has asked the city for permission to allow the sale. Last summer the organization was allowed to sell beer...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINE STREET WATER MAIN REPLACEMENT PROJECT CONTINUES]]></title>
-        <id>https://kqennewsradio.com/?p=138831</id>
-        <link href="https://kqennewsradio.com/2025/10/13/pine-street-water-main-replacement-project-continues-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pine-street-water-main-replacement-project-continues-2"/>
-        <updated>2025-10-13T10:18:35.000Z</updated>
-        <summary type="html"><![CDATA[October 13, 2025 3:20 a.m.  A water main replacement project continues along Southeast Pine Street between Southeast Oak Avenue and Southeast Sykes Avenue. A City of Roseburg release said the project is replacing about 2,600 linear feet of 6-inch diameter water main installed in the 1930s, with new 8-inch-diameter water main. Work also includes mid-block...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REEDSPORT MAYOR AND BUSINESS RECEIVE “EXCELLENCE ON MAIN” AWARDS]]></title>
-        <id>https://kqennewsradio.com/?p=138829</id>
-        <link href="https://kqennewsradio.com/2025/10/13/reedsport-mayor-and-business-receive-excellence-on-main-awards/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reedsport-mayor-and-business-receive-excellence-on-main-awards"/>
-        <updated>2025-10-13T10:14:47.000Z</updated>
-        <summary type="html"><![CDATA[October 13, 2025 3:05 a.m.   Covering coastal Douglas County: Reedsport’s mayor and a business in the city received Excellence on Main awards during the annual Main Street conference held last week in Albany. A release from the Oregon Parks and Recreation Department said Oregon Main Street, is part of Oregon Heritage, which is a program...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOPE FOR KIDS STOCKING DRIVE BENEFITS ODHS AND SHOP WITH A COP]]></title>
-        <id>https://kqennewsradio.com/?p=138825</id>
-        <link href="https://kqennewsradio.com/2025/10/13/hope-for-kids-stocking-drive-benefits-odhs-and-shop-with-a-cop/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hope-for-kids-stocking-drive-benefits-odhs-and-shop-with-a-cop"/>
-        <updated>2025-10-13T10:07:28.000Z</updated>
-        <summary type="html"><![CDATA[October 13, 2025 2:50 a.m.  The Oregon Department of Human Services and the Shop with a Cop program are the recipients this holiday season by a H.O.P.E. Drug Court participant working to make sure teens and young children in Douglas County feel the joy of Christmas morning. A Douglas County Circuit Court release said the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
