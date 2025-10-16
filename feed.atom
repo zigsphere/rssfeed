@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-16T13:25:59.838Z</updated>
+    <updated>2025-10-16T16:17:20.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.16 25]]></title>
+        <id>https://kqennewsradio.com/?p=138994</id>
+        <link href="https://kqennewsradio.com/2025/10/16/morning-conversation-10-16-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-16-25"/>
+        <updated>2025-10-16T16:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Community Cancer Center Executive Director Angelia Freeman is joined by Emily Booher, whose family now owns the local Human Bean franchise in Roseburg. They talk about the Coffee for a Cure event, happening on Friday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 16, 2025]]></title>
+        <id>68f0f4f3cbfd6b0001fa588f</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/october-16-2025/"/>
+        <updated>2025-10-16T13:57:31.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA URGING CAUTION WHEN BURNING YARD DEBRIS]]></title>
         <id>https://kqennewsradio.com/?p=138990</id>

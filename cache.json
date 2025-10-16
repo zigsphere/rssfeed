@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=138994",
+          "author": "Kyle Bailey",
+          "description": "Community Cancer Center Executive Director Angelia Freeman is joined by Emily Booher, whose family now owns the local Human Bean franchise in Roseburg. They talk about the Coffee for a Cure event, happening on Friday.",
+          "link": "https://kqennewsradio.com/2025/10/16/morning-conversation-10-16-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-16-25",
+          "publishedOn": "2025-10-16T16:14:25.000Z",
+          "wordCount": 1670,
+          "title": "MORNING CONVERSATION 10.16 25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251016150855/AM-CONV-10-16-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251016151403/Human-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=138990",
           "author": "Kyle Bailey",
           "description": "October 16, 2025 3:50 a.m.  The Douglas Forest Protective Association is asking residents to use caution when burning yard debris. DFPA Public Information Officer Rachel Pope said for those who decide that burning is their best option for the disposal of woody materials, safety is key. Pope said in the past decade, escaped debris burns...",
@@ -727,6 +742,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68f0f4f3cbfd6b0001fa588f",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-16-2025/",
+          "publishedOn": "2025-10-16T13:57:31.000Z",
+          "wordCount": 3905,
+          "title": "October 16, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-11.png"
+        },
         {
           "id": "68f04ebfcbfd6b0001fa587b",
           "author": "Joseph Ziegler",
