@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-15T23:11:47.974Z</updated>
+    <updated>2025-10-16T02:58:38.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County’s Emily Ring Named Oregon’s 2025 Emergency Management Professional of the Year]]></title>
+        <id>68f04ebfcbfd6b0001fa587b</id>
+        <link href="https://www.roseburgscanner.com/douglas-countys-emily-ring-named-oregons-2025-emergency-management-professional-of-the-year/"/>
+        <updated>2025-10-16T01:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Emergency Manager Emily Ring was named Oregon’s 2025 Emergency Management Professional of the Year for leading March 2025 flood response, securing recovery funds, and uniting agencies and community partners, county officials said.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.15.25]]></title>
         <id>https://kqennewsradio.com/?p=138971</id>
