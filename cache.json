@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139045",
+          "author": "Kyle Bailey",
+          "description": "From Umpqua Actors Community Theatre, lead actor Eza Leder talks about the production of “SNAPPED!”, which wraps up this weekend, and about a student trip to New York City, planned for spring break of next year",
+          "link": "https://kqennewsradio.com/2025/10/17/morning-conversation-10-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-17-25",
+          "publishedOn": "2025-10-17T16:14:55.000Z",
+          "wordCount": 1679,
+          "title": "MORNING CONVERSATION 10.17.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251017150848/AM-CONV-10-17-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251017151438/Ezra.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139040",
           "author": "Kyle Bailey",
           "description": "October 17, 2025 3:50 a.m. Oregon State Police are still trying to find the suspect or suspects in a fatal hit and run crash which took place last weekend in the Green District. An OSP release said Sunday just before 1:10 a.m. troopers responded to the wreck involving a pedestrian on Highway 42 near Grant...",
@@ -738,6 +753,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68f2451acbfd6b0001fa5a06",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-17-2025/",
+          "publishedOn": "2025-10-17T13:47:00.000Z",
+          "wordCount": 3879,
+          "title": "October 17, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-12.png"
+        },
+        {
           "id": "68f0f4f3cbfd6b0001fa588f",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -786,26 +811,6 @@
           "wordCount": 3814,
           "title": "October 14, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-9.png"
-        },
-        {
-          "id": "68eda867cbfd6b0001fa5582",
-          "author": "Joseph Ziegler",
-          "description": "Douglas Electric warns a state-backed lawsuit against the Bonneville Power Administration could cut hydropower, raising costs and risking reliability for over a million Oregonians. The co-op urges Governor Kotek to seek collaboration, saying hydropower and salmon recovery can coexist.",
-          "link": "https://www.roseburgscanner.com/douglas-electric-warns-lawsuit-could-threaten-hydropower-and-raise-costs-for-oregonians/",
-          "publishedOn": "2025-10-14T01:40:08.000Z",
-          "wordCount": 1755,
-          "title": "Douglas Electric Warns Lawsuit Could Threaten Hydropower and Raise Costs for Oregonians",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/Spillway-_Bonneville_Dam.jpg"
-        },
-        {
-          "id": "68eda750cbfd6b0001fa5570",
-          "author": "Joseph Ziegler",
-          "description": "A 30-year-old Canyonville man was killed in a hit-and-run early Sunday on Highway 42 near Winston. OSP says Dustin Rios was struck by an eastbound vehicle that fled the scene. Investigators are seeking a 2006–2011 black Honda Civic with driver’s side damage. Reference case SP25-433741.",
-          "link": "https://www.roseburgscanner.com/pedestrian-killed-in-hit-and-run-crash-near-winston-authorities-seeking-suspect-vehicle/",
-          "publishedOn": "2025-10-14T01:30:49.000Z",
-          "wordCount": 1800,
-          "title": "Pedestrian Killed in Hit-and-Run Crash Near Winston; Authorities Seeking Suspect Vehicle",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/lights-3.png"
         }
       ]
     },
