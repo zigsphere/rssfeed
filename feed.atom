@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-18T16:14:08.861Z</updated>
+    <updated>2025-10-18T19:09:16.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Roseburg Receiver Helps Bring New GMRS Repeater and Regional Safety Upgrades to Douglas County]]></title>
+        <id>68f1caf9cbfd6b0001fa59f8</id>
+        <link href="https://www.roseburgscanner.com/the-roseburg-receiver-helps-bring-new-gmrs-repeater-and-regional-safety-upgrades-to-douglas-county/"/>
+        <updated>2025-10-18T17:28:43.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver is partnering with local radio operators to launch a new GMRS repeater on Mount Nebo, expanding emergency communication across Douglas County. This project will bring together repeaters across southern Oregon, keeping communities connected when other systems fail.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN MAN JAILED FOR REPORTED MENACING INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=139082</id>
