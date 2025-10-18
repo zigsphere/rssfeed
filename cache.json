@@ -803,6 +803,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "68f2f0b5cbfd6b0001fa5b82",
+          "author": "Joseph Ziegler",
+          "description": "Winston’s main shopping center is getting a major upgrade. New owner Stipe Properties plans to invest over $1 million in improvements, including solar panels, new paint, flooring, and lighting. Sunrise Enterprises will stay, while new shops like a grocery store, bakery, and urgent care are planned.",
+          "link": "https://www.roseburgscanner.com/big-changes-ahead-winston-shopping-center-set-for-major-transformation/",
+          "publishedOn": "2025-10-18T02:22:56.000Z",
+          "wordCount": 2024,
+          "title": "Big Changes Ahead: Winston Shopping Center Set for Major Transformation",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/Winston_shopping_center.png"
+        },
+        {
           "id": "68f2cb71cbfd6b0001fa5b71",
           "author": "Joseph Ziegler",
           "description": "A student was arrested after a video on social media showed a firearm brought onto Yoncalla High School grounds. Authorities say there was no active threat, and Principal Chelsea Ross urged students to report safety concerns, calling communication critical. The investigation remains ongoing.",
@@ -871,16 +881,6 @@
           "wordCount": 3640,
           "title": "October 15, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-10.png"
-        },
-        {
-          "id": "68ee4f59cbfd6b0001fa559c",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/october-14-2025/",
-          "publishedOn": "2025-10-14T13:47:07.000Z",
-          "wordCount": 3814,
-          "title": "October 14, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-9.png"
         }
       ]
     },

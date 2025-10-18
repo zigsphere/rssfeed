@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-17T23:11:32.015Z</updated>
+    <updated>2025-10-18T02:50:21.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Big Changes Ahead: Winston Shopping Center Set for Major Transformation]]></title>
+        <id>68f2f0b5cbfd6b0001fa5b82</id>
+        <link href="https://www.roseburgscanner.com/big-changes-ahead-winston-shopping-center-set-for-major-transformation/"/>
+        <updated>2025-10-18T02:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Winston’s main shopping center is getting a major upgrade. New owner Stipe Properties plans to invest over $1 million in improvements, including solar panels, new paint, flooring, and lighting. Sunrise Enterprises will stay, while new shops like a grocery store, bakery, and urgent care are planned.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arrest Made After Firearm Video Surfaces at Yoncalla High School]]></title>
         <id>68f2cb71cbfd6b0001fa5b71</id>
@@ -725,16 +735,6 @@ The post Connecting Every Corner: Oregon’s Broadband Leaders Focus on the Futu
         <summary type="html"><![CDATA[Drew Stanton and Toby Gramberg said they spent the morning learning about acorns.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 14, 2025]]></title>
-        <id>68ee4f59cbfd6b0001fa559c</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/october-14-2025/"/>
-        <updated>2025-10-14T13:47:07.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
