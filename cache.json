@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139107",
+          "author": "Kyle Bailey",
+          "description": "Planning Committee member Jennifer Coalwell talks about Make a Difference Day -Douglas County which is happening this Saturday. She talks about how people can get signed up to help.",
+          "link": "https://kqennewsradio.com/2025/10/20/morning-conversation-10-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-20-25",
+          "publishedOn": "2025-10-20T16:04:36.000Z",
+          "wordCount": 1669,
+          "title": "MORNING CONVERSATION 10.20.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251020145431/AM-CONV-10-20-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251020150416/Jenifer.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139099",
           "author": "Kyle Bailey",
           "description": "October 20, 2025 3:40 a.m.  In the KQEN Business Spotlight: Time Magazine has announced that local auto dealer Clint Newell has been nominated for the TIME Dealer of the Year award. A TIME release said Newell is one of a select group of 47 dealer nominees from across the country who will be honored at...",
@@ -476,6 +491,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68f5a39dcbfd6b0001fa5c0e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-20-2025/",
+          "publishedOn": "2025-10-20T13:36:08.000Z",
+          "wordCount": 4299,
+          "title": "October 20, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-13.png"
+        },
         {
           "id": "68f1caf9cbfd6b0001fa59f8",
           "author": "Joseph Ziegler",
