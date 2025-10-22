@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139206",
+          "author": "Kyle Bailey",
+          "description": "Roseburg VA Medical Center Chief of Pharmacy Christina Akers talks about their prescription drug take back event that is happening on Saturday.",
+          "link": "https://kqennewsradio.com/2025/10/22/morning-conversation-10-22-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-22-25",
+          "publishedOn": "2025-10-22T16:13:10.000Z",
+          "wordCount": 1660,
+          "title": "MORNING CONVERSATION 10.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251022150529/AM-CONV-10-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251022151245/VA-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139202",
           "author": "Kyle Bailey",
           "description": "October 22, 2025 3:50 a.m.  Sutherlin Downtown Development is presenting the annual Trunk of Treat Festival on Halloween evening. Organizers say that once again, Central Avenue will be the center of festivities with a haunted house, food trucks, vendors, a photo station and candy everywhere for everyone. The Oakland Flash Mob Witches will also be...",
@@ -527,6 +542,46 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68f90265cbfd6b0001fa6119",
+          "author": "Joseph Ziegler",
+          "description": "A series of storms will soak the Pacific Northwest starting Thursday night as an atmospheric river brings 2–6 inches of rain to western Oregon and Washington. Snow levels will drop to 2,500–3,000 feet by the weekend. Clear drains and prepare for minor flooding in low-lying or urban areas.",
+          "link": "https://www.roseburgscanner.com/atmospheric-river-to-drench-the-pacific-northwest-clear-gutters-and-drains/",
+          "publishedOn": "2025-10-22T16:13:42.000Z",
+          "wordCount": 1747,
+          "title": "Atmospheric River to Drench the Pacific Northwest: Clear Gutters and Drains",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/bad_weather.jpg"
+        },
+        {
+          "id": "68f8f336cbfd6b0001fa6106",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man is in jail on $50,000 bail after a reported robbery and struggle with police. Raul Yanz Rosario, 41, is accused of robbing a 19-year-old of his wallet and later injuring an officer during his arrest near Fir Grove Park. He faces multiple felony and assault charges.",
+          "link": "https://www.roseburgscanner.com/teen-robbed-at-knifepoint-officer-injured/",
+          "publishedOn": "2025-10-22T15:13:04.000Z",
+          "wordCount": 1950,
+          "title": "Teen robbed at knifepoint, officer injured",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/police_lights-1.png"
+        },
+        {
+          "id": "68f8ed16cbfd6b0001fa60e7",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man narrowly escaped after his home on Fisher Road caught fire Tuesday morning. Jim Barnes was asleep with earplugs in and woke only when passersby banged on his door. Central Douglas Fire & Rescue arrived within minutes, but the home and a nearby RV were already engulfed.",
+          "link": "https://www.roseburgscanner.com/roseburg-fire-destroys-home-on-fisher-road/",
+          "publishedOn": "2025-10-22T14:45:13.000Z",
+          "wordCount": 1816,
+          "title": "Roseburg Fire Destroys Home on Fisher Road",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/Fisher_Rd_Fire_4_of_4.jpg"
+        },
+        {
+          "id": "68f8dc17cbfd6b0001fa5f8c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-22-2025/",
+          "publishedOn": "2025-10-22T13:38:55.000Z",
+          "wordCount": 4000,
+          "title": "October 22, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-15.png"
+        },
         {
           "id": "68f78a68cbfd6b0001fa5e0a",
           "author": "Joseph Ziegler",
