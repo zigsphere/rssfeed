@@ -629,6 +629,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e68582c-6a1a-4961-8d50-9e97bb2454ef",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "The 2025 Umpqua Growth Talks Pitch Night's have given a leg up to entrepreneurs in Douglas County throughout the year. In total, there were three first place winners earning $1,000 each and three second place winners earning $500 each.",
+          "link": "https://www.nrtoday.com/business/local-entrepreneurs-win-big-in-2025-pitch-night-grand-finale/article_6e68582c-6a1a-4961-8d50-9e97bb2454ef.html",
+          "publishedOn": "2025-10-24T15:00:00.000Z",
+          "wordCount": 13221,
+          "title": "Local entrepreneurs win big in 2025 Pitch Night Grand Finale",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/eb/3eb348b0-cf2c-4fbc-897a-dacb4aff0453/68faf33b4436d.image.jpg?resize=300%2C200",
+            "length": "436386",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/eb/3eb348b0-cf2c-4fbc-897a-dacb4aff0453/68faf33b4436d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2618668-62ae-4da2-ac9b-21aedd097d89",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Editor’s Note: This story contains content relating to sexual abuse. If you or someone you know may be a victim of sexual abuse, confidential support, information and more are available at the National Sexual Assault Hotline by calling 800-656-4673. Text…",
+          "link": "https://www.nrtoday.com/news/education/i-am-a-survivor-peace-at-home-hosts-take-back-the-night-walk/article_b2618668-62ae-4da2-ac9b-21aedd097d89.html",
+          "publishedOn": "2025-10-24T14:00:00.000Z",
+          "wordCount": 14930,
+          "title": "\"I am a survivor\": Peace at Home hosts Take Back the Night walk",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/97/497e5f74-c098-44df-bc4e-c269fd85fb04/68fb08bddabaa.image.jpg?resize=300%2C200",
+            "length": "317595",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/97/497e5f74-c098-44df-bc4e-c269fd85fb04/68fb08bddabaa.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea481efe-3319-4417-891a-d6a92c2c5b68",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Editor’s Note: This story contains content relating to suicide. If you or someone you know may be considering suicide, contact the Suicide and Crisis Lifeline by dialing 988 or the Crisis Text Line by texting HOME to 741741. Adapt Integrated…",
+          "link": "https://www.nrtoday.com/news/education/roseburg-high-leadership-plant-maple-tree-for-suicide-awareness/article_ea481efe-3319-4417-891a-d6a92c2c5b68.html",
+          "publishedOn": "2025-10-24T12:00:00.000Z",
+          "wordCount": 13179,
+          "title": "Roseburg High leadership plant maple tree for suicide awareness",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b4/9b4786fa-f685-4982-b63e-406a19fe355c/68fb145b925af.image.jpg?resize=300%2C200",
+            "length": "252516",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/b4/9b4786fa-f685-4982-b63e-406a19fe355c/68fb145b925af.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/1baf2b2d-7b8a-4757-8f74-af79960e0c5f",
           "author": "Kyle Bailey For The News-Review",
           "description": "Roseburg Public Works Department will offer leaf collection service for homeowners starting next month.",
@@ -842,6 +887,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68fb7e07cbfd6b0001fa6365",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-24-2025/",
+          "publishedOn": "2025-10-24T13:41:03.000Z",
+          "wordCount": 4340,
+          "title": "October 24, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-17.png"
+        },
         {
           "id": "68fa4151cbfd6b0001fa634a",
           "author": "Joseph Ziegler",
