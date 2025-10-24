@@ -669,6 +669,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1baf2b2d-7b8a-4757-8f74-af79960e0c5f",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg Public Works Department will offer leaf collection service for homeowners starting next month.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-residential-leaf-pickups-to-start-nov-3/article_1baf2b2d-7b8a-4757-8f74-af79960e0c5f.html",
+          "publishedOn": "2025-10-23T16:45:00.000Z",
+          "wordCount": 12399,
+          "title": "Roseburg residential leaf pickups to start Nov. 3",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8a/28ac40ca-0c65-427f-813e-c45b93e963a0/68fa5d394e4fa.image.jpg?resize=300%2C225",
+            "length": "645351",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8a/28ac40ca-0c65-427f-813e-c45b93e963a0/68fa5d394e4fa.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d4423166-f07b-4106-b9a2-735876e88e51",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "WINSTON — The 2025 Southern Oregon Fly Tying and Fishing Expo is set to bring people instructions in fly tying, new ideas for fishing and more Saturday in Winston.",
@@ -847,21 +862,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/cb/0cb1f018-00fc-11ef-bd4d-033d53bcd839/5cba3adb9e1c2.image.jpg?resize=300%2C235"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f3877f42-1cf3-4bcc-8c12-37c5b1715ddd",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "RIDDLE — On Jan. 9, 1995, Bill Duckett officially became the mayor of Riddle. For the next 30 years, he helped spearhead projects and tackle issues that presented themselves for his community.",
-          "link": "https://www.nrtoday.com/news/riddle-mayor-bill-duckett-resigns-after-decades-of-service/article_f3877f42-1cf3-4bcc-8c12-37c5b1715ddd.html",
-          "publishedOn": "2025-10-20T14:00:00.000Z",
-          "wordCount": 12779,
-          "title": "Riddle Mayor Bill Duckett resigns after decades of service",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/81/281825b7-42f0-4a1d-915c-9f4cf81ebc21/63d85c9333058.image.jpg?resize=300%2C200",
-            "length": "383125",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/81/281825b7-42f0-4a1d-915c-9f4cf81ebc21/63d85c9333058.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1056,16 +1056,6 @@
           "wordCount": 1979,
           "title": "Teen Released After Allegedly Bringing Gun to Yoncalla High School",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/Yoncalla_High_School-1.jpg"
-        },
-        {
-          "id": "68f5a39dcbfd6b0001fa5c0e",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/october-20-2025/",
-          "publishedOn": "2025-10-20T13:36:08.000Z",
-          "wordCount": 4299,
-          "title": "October 20, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-13.png"
         }
       ]
     },
