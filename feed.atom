@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-25T13:18:11.857Z</updated>
+    <updated>2025-10-25T16:14:21.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WIND ADVISORY FOR REGION THROUGH 8:00 P.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=139355</id>
+        <link href="https://kqennewsradio.com/2025/10/25/wind-advisory-for-region-through-800-p-m-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wind-advisory-for-region-through-800-p-m-saturday"/>
+        <updated>2025-10-25T13:29:48.000Z</updated>
+        <summary type="html"><![CDATA[October 25, 2025 6:30 a.m.  A Wind Advisory remains in effect through 8:00 p.m. Saturday for central Douglas County and surrounding areas. Forecasters at the National Weather Service in Medford said southwest winds of 20 to 30 miles per hour with gusts up to 55 miles per hour are expected. The Advisory area also includes...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY FOR SATURDAY THROUGH SUNDAY]]></title>
+        <id>https://kqennewsradio.com/?p=139352</id>
+        <link href="https://kqennewsradio.com/2025/10/25/winter-weather-advisory-for-saturday-through-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-for-saturday-through-sunday"/>
+        <updated>2025-10-25T13:20:01.000Z</updated>
+        <summary type="html"><![CDATA[October 25, 2025 6:20 a.m.  A Winter Weather Advisory remains in effect for mountain areas in parts of southern Oregon from 11:00 a.m. Saturday through 5:00 p.m. Sunday. Forecasters at the National Weather Service in Medford said 6 to 10 inches of snow is expected, with up to 20 inches above 6,000 feet. Winds are...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMMUNITY CAMPUS CANCELS TRUNK-OR-TREAT DUE TO HEAVY WIND/RAIN]]></title>
         <id>https://kqennewsradio.com/?p=139349</id>
@@ -885,36 +905,6 @@ The post Google advances commitment to The Dalles, launching sustainable water s
         <summary type="html"><![CDATA[October 22, 2025 2:50 a.m. Saving Grace Humane Society has Pints for Pits happening this Thursday from 4:00 p.m. to 7:00 p.m. It will take place at North Forty Beer Company in downtown Roseburg. The fun dog-friendly evening is celebrating Pitbull Awareness Month and Halloween. Activities will include a costume contest for pets and people,...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emily Ring recognized as Oregon's Emergency Manager Professional of the Year]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/68baa891-5426-4664-a383-d2e8684796da</id>
-        <link href="https://www.nrtoday.com/news/government/douglas_county/emily-ring-recognized-as-oregons-emergency-manager-professional-of-the-year/article_68baa891-5426-4664-a383-d2e8684796da.html"/>
-        <updated>2025-10-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When the March 2025 floods hit Douglas County, the community found itself scrambling for recovery resources, as well as a strategy for repairing the nearly $5.2 million in damages to county operated roads.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFW Post 2468 holds ceremony for US submarine remembrance wall]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9ca417fe-f74b-4fdd-a10d-70b31c09cbef</id>
-        <link href="https://www.nrtoday.com/news/vfw-post-2468-holds-ceremony-for-us-submarine-remembrance-wall/article_9ca417fe-f74b-4fdd-a10d-70b31c09cbef.html"/>
-        <updated>2025-10-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the founding of the U.S. Navy Submarine Force in 1900, 66 submarines have been lost in service to both combat and non-combat related causes. A combined 3,891 U.S. Navy sailors lost their lives, never returning from the depths they…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petition requests U.S. Fish and Wildlife to list Umpqua chub,  northern roach on endangered list]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/fbea03ee-bf57-4cc0-8414-6c0cdfc25f6a</id>
-        <link href="https://www.nrtoday.com/news/environment/petition-requests-u-s-fish-and-wildlife-to-list-umpqua-chub-northern-roach-on-endangered/article_fbea03ee-bf57-4cc0-8414-6c0cdfc25f6a.html"/>
-        <updated>2025-10-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Center for Biological Diversity sent a petition to the U.S. Fish and Wildlife Service on Thursday Sking for protection for two fish species in Oregon and California under the Endangered Species Act.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
