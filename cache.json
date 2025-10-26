@@ -786,26 +786,6 @@
           "wordCount": 4197,
           "title": "October 23, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-16.png"
-        },
-        {
-          "id": "68f98a1dcbfd6b0001fa617b",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Police Department will host National Drug Take Back Day on Friday, Oct. 24, 2025, from 8 a.m.–12 p.m. and 1–5 p.m. at 700 SE Douglas Ave. Residents can safely and anonymously dispose of unwanted or expired medications. Illicit substances will not be accepted.",
-          "link": "https://www.roseburgscanner.com/roseburg-police-to-host-national-drug-take-back-day-on-october-24/",
-          "publishedOn": "2025-10-23T01:52:39.000Z",
-          "wordCount": 1754,
-          "title": "Roseburg Police to Host National Drug Take Back Day on October 24",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/drug_take_back.jpg"
-        },
-        {
-          "id": "68f9821ecbfd6b0001fa6167",
-          "author": "Joseph Ziegler",
-          "description": "Lookingglass Rural Fire District has purchased its first-ever cardiac monitor thanks to $22,500 in community donations from the Cow Creek Band of Umpqua Tribe of Indians and the Ford Family Foundation. The new equipment will improve local emergency response and cardiac care.",
-          "link": "https://www.roseburgscanner.com/lookingglass-fire-district-secures-cardiac-monitor-through-community-donations/",
-          "publishedOn": "2025-10-23T01:19:41.000Z",
-          "wordCount": 1968,
-          "title": "Lookingglass Fire District Secures Cardiac Monitor Through Community Donations",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/ZOLL.jpg"
         }
       ]
     },
@@ -813,23 +793,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/d2bb2b68-3630-40ad-86a0-c61266d5ca7b",
-          "author": "News Desk",
-          "description": "Roseburg Public Works is launching its annual leaf collection service for city residents starting in November.",
-          "link": "https://www.kezi.com/news/local/roseburg-homeowners-get-free-leaf-pickup-mulch-in-november/article_d2bb2b68-3630-40ad-86a0-c61266d5ca7b.html",
-          "publishedOn": "2025-10-22T22:20:00.000Z",
-          "wordCount": 7972,
-          "title": "Roseburg homeowners get free leaf pickup, mulch in November",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f5/9f5b5579-a1bb-4efd-a54e-e361934f9cb1/68f95a105c002.image.jpg?resize=300%2C225",
-            "length": "834130",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f5/9f5b5579-a1bb-4efd-a54e-e361934f9cb1/68f95a105c002.image.jpg?resize=300%2C225"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
