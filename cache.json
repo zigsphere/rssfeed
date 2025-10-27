@@ -334,6 +334,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a36f9c8c-1b7d-42d3-93da-235200544a25",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — The Canyonville Community Library hosted the Native Innovation traveling exhibit, all the way from Eugene and the Museum of Natural and Cultural History, for most of the month of October.",
+          "link": "https://www.nrtoday.com/news/cow_creek/native-innovations-canyonville-community-library-hosted-traveling-exhibit/article_a36f9c8c-1b7d-42d3-93da-235200544a25.html",
+          "publishedOn": "2025-10-27T16:00:00.000Z",
+          "wordCount": 14002,
+          "title": "Native Innovations: Canyonville Community Library hosted traveling exhibit",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a4/1a4587a8-965c-4153-b95d-4325497ffb6d/68fb0280e2799.image.jpg?resize=300%2C200",
+            "length": "415172",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a4/1a4587a8-965c-4153-b95d-4325497ffb6d/68fb0280e2799.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bd67333a-e9f1-487c-b304-6b1c0cfb17f4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Oregon Department of Agriculture and the Oregon Department of Fish and Wildlife announced that mussel harvest has opened from Cascade Head to the California border.",
+          "link": "https://www.nrtoday.com/briefs/coastal-area-opens-for-mussel-harvest/article_bd67333a-e9f1-487c-b304-6b1c0cfb17f4.html",
+          "publishedOn": "2025-10-27T15:28:00.000Z",
+          "wordCount": 13405,
+          "title": "Coastal area opens for mussel harvest",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/59e81afe-5221-41ab-a3a0-8885e00367d7",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "As Sleep in Heavenly Peace Chapter President Tracy Grauer watched fellow members of her community sand boards, drill screws and cut wood to build beds for children, there was only one thing she could think of: how good it feels…",
+          "link": "https://www.nrtoday.com/news/make-a-difference-day-brings-out-volunteers-across-the-county/article_59e81afe-5221-41ab-a3a0-8885e00367d7.html",
+          "publishedOn": "2025-10-27T14:30:00.000Z",
+          "wordCount": 13047,
+          "title": "Make A Difference Day brings out volunteers across the county",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/e6/8e6016ba-55f1-4b78-8544-8318c361ffcb/68fd25fef0fa3.image.jpg?resize=300%2C200",
+            "length": "344215",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/e6/8e6016ba-55f1-4b78-8544-8318c361ffcb/68fd25fef0fa3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3695c6e4-802d-4ecb-88d2-650a109216dd",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For Mike Malone, it's a yearly ritual: Put on the black and white suit, don the cherry red wig, slip on the polyester clown mask, grab the fake knife and take on the role of Stabby the Clown.",
+          "link": "https://www.nrtoday.com/news/roseburg-comes-for-frights-at-nightmares-at-fairview-manor/article_3695c6e4-802d-4ecb-88d2-650a109216dd.html",
+          "publishedOn": "2025-10-27T14:00:00.000Z",
+          "wordCount": 12730,
+          "title": "Roseburg comes for frights at Nightmares at Fairview Manor",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c5/fc5a46dd-cb8a-4387-8e83-02d4d5484cca/68fd25a2af3f3.image.jpg?resize=300%2C200",
+            "length": "329006",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c5/fc5a46dd-cb8a-4387-8e83-02d4d5484cca/68fd25a2af3f3.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3715ec4c-3e8f-4499-a708-06488459e585",
           "author": "Alicia Christiansen and Kalee Paxton For The News-Review",
           "description": "We are living in a world that is rapidly changing, and not always for the better.",
@@ -451,6 +506,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "68ffa85ecbfd6b0001fa6693",
+          "author": "Joseph Ziegler",
+          "description": "Cooler weather and rain have allowed DFPA to ease industrial slash-burning restrictions starting Oct. 27. Only industrial burns are affected; residents should check local fire departments for debris-burning rules.",
+          "link": "https://www.roseburgscanner.com/industrial-slash-burning-restrictions-eased-in-douglas-county/",
+          "publishedOn": "2025-10-27T17:14:58.000Z",
+          "wordCount": 1735,
+          "title": "Industrial Slash-Burning Restrictions Eased in Douglas County",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/2025-Industrial-Slash-Opening-.jpg"
+        },
         {
           "id": "68fef19bcbfd6b0001fa64ea",
           "author": "Joseph Ziegler",
