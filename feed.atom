@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-28T19:10:41.421Z</updated>
+    <updated>2025-10-28T23:12:27.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg's Neewollah Parade: a Halloween tradition returns]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/565b3497-56ce-48c4-9e9d-a6c7900f488f</id>
+        <link href="https://www.kezi.com/news/local/roseburgs-neewollah-parade-a-halloween-tradition-returns/article_565b3497-56ce-48c4-9e9d-a6c7900f488f.html"/>
+        <updated>2025-10-28T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Spooky excitement is brewing in Roseburg as the Neewollah Parade returns this Halloween.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple DUII arrests highlight dedicated traffic patrol needs]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/dbaa6fd2-3bb2-4665-bbb5-ccd95caa8b07</id>
+        <link href="https://www.kezi.com/news/local/multiple-duii-arrests-highlight-dedicated-traffic-patrol-needs/article_dbaa6fd2-3bb2-4665-bbb5-ccd95caa8b07.html"/>
+        <updated>2025-10-28T21:19:00.000Z</updated>
+        <summary type="html"><![CDATA[A recent series of DUII arrests highlights the risks associated with driving impaired, according to sheriff's deputies.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.28.25]]></title>
+        <id>https://kqennewsradio.com/?p=139456</id>
+        <link href="https://kqennewsradio.com/2025/10/28/inside-douglas-county-10-28-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-28-25"/>
+        <updated>2025-10-28T20:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Live from Washington D.C., 2nd District Congressman Cliff Bentz shares his perspective about the continuing shutdown of the federal government.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=139453</id>
