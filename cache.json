@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139461",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial,  David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/10/28/true-wealth-radio-10-28-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-radio-10-28-25",
+          "publishedOn": "2025-10-28T23:29:42.000Z",
+          "wordCount": 1600,
+          "title": "TRUE WEALTH RADIO 10.28.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251028230315/TWR-10-28-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139456",
           "author": "Kyle Bailey",
           "description": "Live from Washington D.C., 2nd District Congressman Cliff Bentz shares his perspective about the continuing shutdown of the federal government.",
@@ -359,26 +374,6 @@
           "wordCount": 1830,
           "title": "SENATORS URGE ADMINISTRATION TO IMMEDIATELY RELEASE SNAP BENEFITS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215525/Wyden_Ron-032321-DBR-048-e1623261017348.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139355",
-          "author": "Kyle Bailey",
-          "description": "October 25, 2025 6:30 a.m.  A Wind Advisory remains in effect through 8:00 p.m. Saturday for central Douglas County and surrounding areas. Forecasters at the National Weather Service in Medford said southwest winds of 20 to 30 miles per hour with gusts up to 55 miles per hour are expected. The Advisory area also includes...",
-          "link": "https://kqennewsradio.com/2025/10/25/wind-advisory-for-region-through-800-p-m-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=wind-advisory-for-region-through-800-p-m-saturday",
-          "publishedOn": "2025-10-25T13:29:48.000Z",
-          "wordCount": 1648,
-          "title": "WIND ADVISORY FOR REGION THROUGH 8:00 P.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251025121945/Satwx-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139352",
-          "author": "Kyle Bailey",
-          "description": "October 25, 2025 6:20 a.m.  A Winter Weather Advisory remains in effect for mountain areas in parts of southern Oregon from 11:00 a.m. Saturday through 5:00 p.m. Sunday. Forecasters at the National Weather Service in Medford said 6 to 10 inches of snow is expected, with up to 20 inches above 6,000 feet. Winds are...",
-          "link": "https://kqennewsradio.com/2025/10/25/winter-weather-advisory-for-saturday-through-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-for-saturday-through-sunday",
-          "publishedOn": "2025-10-25T13:20:01.000Z",
-          "wordCount": 1668,
-          "title": "WINTER WEATHER ADVISORY FOR SATURDAY THROUGH SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251025121945/Satwx-1.png"
         }
       ]
     },
