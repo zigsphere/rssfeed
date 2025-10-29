@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-29T13:28:20.293Z</updated>
+    <updated>2025-10-29T16:17:52.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October 29, 2025]]></title>
+        <id>690215ffcbfd6b0001fa6842</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/october-29-2025/"/>
+        <updated>2025-10-29T13:44:27.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WYDEN LEADS BIPARTISAN AMICUS BRIEF CHALLENGING PRESIDENT TRUMP’S TARIFFS]]></title>
         <id>https://kqennewsradio.com/?p=139479</id>
