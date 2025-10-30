@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-29T23:12:48.908Z</updated>
+    <updated>2025-10-30T03:06:19.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -654,16 +654,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY THHROUGH 5:00 P.M. SUNDAY FOR MOUNTAIN AREAS]]></title>
-        <id>https://kqennewsradio.com/?p=139364</id>
-        <link href="https://kqennewsradio.com/2025/10/26/winter-weather-advisory-thhrough-500-p-m-sunday-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-thhrough-500-p-m-sunday-for-mountain-areas"/>
-        <updated>2025-10-26T13:00:55.000Z</updated>
-        <summary type="html"><![CDATA[October 26, 2025 6:00 a.m.  A Winter Weather Advisory remains in effect through 5:00 p.m. Sunday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service in Medford said additional accumulations of 6 to 16 inches are expected above 4,500 feet. Winds will gust as high as 60 miles per hour...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
