@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-30T13:26:30.174Z</updated>
+    <updated>2025-10-30T16:17:55.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 10.30.25]]></title>
+        <id>https://kqennewsradio.com/?p=139529</id>
+        <link href="https://kqennewsradio.com/2025/10/30/morning-conversation-10-30-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-10-30-25"/>
+        <updated>2025-10-30T16:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Community Cancer Center Executive Director Tammy Turner talks about the Power of Pink campaign as Breast Cancer Awareness Month wraps up soon.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 30, 2025]]></title>
+        <id>690365cbcbfd6b0001fa69b2</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/october-30-2025/"/>
+        <updated>2025-10-30T13:33:39.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR DECLARES FOOD EMERGENCY, DIRECTS $5 MILLION TO FOOD BANKS]]></title>
         <id>https://kqennewsradio.com/?p=139523</id>

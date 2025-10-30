@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139529",
+          "author": "Kyle Bailey",
+          "description": "Community Cancer Center Executive Director Tammy Turner talks about the Power of Pink campaign as Breast Cancer Awareness Month wraps up soon.",
+          "link": "https://kqennewsradio.com/2025/10/30/morning-conversation-10-30-25/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-10-30-25",
+          "publishedOn": "2025-10-30T16:07:59.000Z",
+          "wordCount": 1618,
+          "title": "MORNING CONVERSATION 10.30.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251030150244/AM-CONV-10-30-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251030150744/tAMMY-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139523",
           "author": "Kyle Bailey",
           "description": "October 30, 2025 3:50 a.m.  With thousands of Oregonians facing hunger due to the federal government shutdown and the upcoming loss of the Supplemental Nutrition Assistance Program, on Wednesday Governor Tina Kotek announced a coordinated state response that includes three actions. A release from the Governor’s office said that includes declaring a 60-day food security...",
@@ -711,6 +726,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "690365cbcbfd6b0001fa69b2",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/october-30-2025/",
+          "publishedOn": "2025-10-30T13:33:39.000Z",
+          "wordCount": 4079,
+          "title": "October 30, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/10/The-Morning-Scoop-21.png"
+        },
         {
           "id": "690215ffcbfd6b0001fa6842",
           "author": "Joseph Ziegler",
