@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139553",
+          "author": "Kyle Bailey",
+          "description": "Betsy Yraguen of the Douglas County chapter of Oregon Women in Timber talks about October as Forest Products Month. She talked about the work of the organization in educating kids and adults on forestry issues.",
+          "link": "https://kqennewsradio.com/2025/10/30/inside-douglas-county-10-30-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-30-25",
+          "publishedOn": "2025-10-30T20:11:31.000Z",
+          "wordCount": 1630,
+          "title": "INSIDE DOUGLAS COUNTY 10.30.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251030190703/IDC-10-30-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251030191115/Betsy.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139551",
           "author": "Kyle Bailey",
           "description": "October 30, 2025 11:05 a.m.  Roseburg Police jailed a man for a warrant and cited him for drinking in public on Wednesday morning. An RPD report said just after 11:30 a.m. officers saw the 54-year-old walking on the sidewalk in the 400 block of West Harvard Avene with a beer in his hand. They knew...",
@@ -723,6 +738,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0ff1fd20-9037-4945-87c4-dd33bbb6b958",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Umpqua Wildlife Rescue is preparing to host the annual Fall Craft Fair this weekend in Roseburg.",
+          "link": "https://www.nrtoday.com/a_and_e/fall-craft-fair-is-this-weekend-at-douglas-county-fairgrounds/article_0ff1fd20-9037-4945-87c4-dd33bbb6b958.html",
+          "publishedOn": "2025-10-30T12:45:00.000Z",
+          "wordCount": 13783,
+          "title": "Fall Craft Fair is this weekend at Douglas County Fairgrounds",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a38e830c-f3d3-4ea3-879b-aa30bc62fc0f",
           "author": "GLORIA COLEMAN The News-Review",
