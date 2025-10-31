@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-10-30T23:12:12.643Z</updated>
+    <updated>2025-10-31T03:05:44.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overwhelming demand strains Roseburg food pantry as SNAP deadline approaches]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/87f20d78-aafc-43ef-acae-1ff6cb50dc39</id>
+        <link href="https://www.kezi.com/news/overwhelming-demand-strains-roseburg-food-pantry-as-snap-deadline-approaches/article_87f20d78-aafc-43ef-acae-1ff6cb50dc39.html"/>
+        <updated>2025-10-31T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[FISH of Roseburg Food Pantry typically serves 1,000 to 1,200 families a month. But due to growing concerns over the November 1st deadline to fund SNAP benefits, they served more than 800 families last week alone.]]></summary>
+        <author>
+            <name>Aaron Arellano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Grocery Outlet offers discount to combat potential SNAP pause]]></title>
+        <id>6903f980cbfd6b0001fa6b1c</id>
+        <link href="https://www.roseburgscanner.com/roseburg-grocery-outlet-offers-discount-to-combat-potential-snap-pause/"/>
+        <updated>2025-10-30T23:51:39.000Z</updated>
+        <summary type="html"><![CDATA[As the federal shutdown threatens SNAP funding, Roseburg’s Grocery Outlet is offering a 10% discount to SNAP users through November and hosting food drives to support local families. Owners Stephen and Kelly Burton say it’s their way of helping neighbors make ends meet during tough times.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.30.25]]></title>
         <id>https://kqennewsradio.com/?p=139553</id>
@@ -774,76 +794,6 @@
         <summary type="html"><![CDATA[For Mike Malone, it's a yearly ritual: Put on the black and white suit, don the cherry red wig, slip on the polyester clown mask, grab the fake knife and take on the role of Stabby the Clown.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City Council to Consider Downtown Parking Enforcement]]></title>
-        <id>https://kqennewsradio.com/?p=139379</id>
-        <link href="https://kqennewsradio.com/2025/10/27/city-council-to-consider-downtown-parking-enforcement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-to-consider-downtown-parking-enforcement"/>
-        <updated>2025-10-27T13:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:55 a.m. The topic of parking enforcement in the downtown area will again be considered by the Roseburg City Council at its meeting on Monday night. Over the past three years city staff has presented several options for changes to the program with councilors going back and forth on what to do...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governor Nominates Three County Residents for State Commissions]]></title>
-        <id>https://kqennewsradio.com/?p=139377</id>
-        <link href="https://kqennewsradio.com/2025/10/27/governor-nominates-three-county-residents-for-state-commissions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-nominates-three-county-residents-for-state-commissions"/>
-        <updated>2025-10-27T13:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:55 a.m. On Friday, Oregon Governor Tina Kotek nominated three Douglas County residents for a position on a state commission. That was among dozens of people selected to be on a state board or commission. The Senate Committee on rules will consider the nominations next month during November Legislative Days. Alicia McAuley...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Presbyterian Donates $10,000 to Fish Food Pantry]]></title>
-        <id>https://kqennewsradio.com/?p=139375</id>
-        <link href="https://kqennewsradio.com/2025/10/27/first-presbyterian-donates-10000-to-fish-food-pantry/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=first-presbyterian-donates-10000-to-fish-food-pantry"/>
-        <updated>2025-10-27T13:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:50 a.m. Ahead of potential cuts in federal funding to programs like the Supplemental Nutrition Assistance Program and Women, Infants, and Children, First Presbyterian Church of Roseburg has announced a donation of $10,000 to The FISH Food Pantry of Roseburg. A church release said FBC, a founding member of the FISH, made...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senators Urge Administration to Immediately Release SNAP Benefits]]></title>
-        <id>https://kqennewsradio.com/?p=139373</id>
-        <link href="https://kqennewsradio.com/2025/10/27/senators-urge-administration-to-immediately-release-snap-benefits-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senators-urge-administration-to-immediately-release-snap-benefits-2"/>
-        <updated>2025-10-27T13:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:50 a.m. Oregon’s U.S. Senators Ron Wyden and Jeff Merkley have urged the Trump administration to release the billions of dollars at its disposal to ensure that Supplemental Nutrition Assistance Program benefits continue next month in Oregon and nationwide. In a letter to Agriculture Secretary Brooke Rollins, the senators and a large...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC Concert Band and Concert Chorale Presents Veterans Day Concert]]></title>
-        <id>https://kqennewsradio.com/?p=139371</id>
-        <link href="https://kqennewsradio.com/2025/10/27/ucc-concert-band-and-concert-chorale-presents-veterans-day-concert/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-concert-band-and-concert-chorale-presents-veterans-day-concert"/>
-        <updated>2025-10-27T13:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:50 a.m. The Umpqua Community College Performing and Visual Arts Department presents the UCC Concert Band and Roseburg Concert Chorale in a special Veterans Day concert on Tuesday, November 11th at 7:00 p.m. in Jacoby Auditorium. The UCC Symphonic Band, under the direction of Jeff Soffer, and the Roseburg Concert Chorale, will...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyatt’s Waterfowl Co. Crowned Pitch Night Champ]]></title>
-        <id>https://kqennewsradio.com/?p=139368</id>
-        <link href="https://kqennewsradio.com/2025/10/27/wyatts-waterfowl-co-crowned-pitch-night-champ/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyatts-waterfowl-co-crowned-pitch-night-champ"/>
-        <updated>2025-10-27T13:48:56.000Z</updated>
-        <summary type="html"><![CDATA[Oct. 27, 2025 6:45 a.m. With a presentation he wrote and practiced himself, 12-year-old Wyatt Bradley took home both First Place and Audience Choice prizes in the Umpqua Growth Talks Pitch Night Grand Finale on Thursday night at Backside Brewing in Roseburg. Drew Winkelmaier has the details: “Drew1” Q: News Radio 93-9 FM and 1240...]]></summary>
-        <author>
-            <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 27, 2025]]></title>
-        <id>68fef19bcbfd6b0001fa64ea</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/october-27-2025/"/>
-        <updated>2025-10-27T13:44:55.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
