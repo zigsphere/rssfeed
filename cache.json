@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139706",
+          "author": "Kyle Bailey",
+          "description": "An encore program with our recent interview with scientist Kareem El-Badry, who picked up a big award last month.",
+          "link": "https://kqennewsradio.com/2025/11/04/inside-douglas-county-11-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-4-25",
+          "publishedOn": "2025-11-04T21:19:12.000Z",
+          "wordCount": 1607,
+          "title": "INSIDE DOUGLAS COUNTY 11.4.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251009192605/IDC-10-9-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251009092912/el-badry_2025_hi-res-download-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139704",
           "author": "Kyle Bailey",
           "description": "November 4, 2025 11:05 a.m.   A Springfield man was jailed for multiple warrants by the Oregon State Police on Monday afternoon. An OSP report said at 4:20 p.m. a male was observed walking across Interstate 5 near the Edenbower Boulevard exit in north Roseburg. The man went from the southbound lanes, over the median and...",
@@ -416,6 +431,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "690a8013cbfd6b0001fa6fd7",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County deputies arrested 43-year-old Jason Nathaniel Briggs on Oct. 31 for first-degree sexual abuse, a Class B felony. Investigators say the victim, a minor known to Briggs, reported years of abuse. He remains in the Douglas County Jail.",
+          "link": "https://www.roseburgscanner.com/douglas-county-man-arrested-on-felony-sexual-abuse-charge/",
+          "publishedOn": "2025-11-04T22:38:05.000Z",
+          "wordCount": 1843,
+          "title": "Douglas County Man Arrested on Felony Sexual Abuse Charge",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/lights.png"
+        },
+        {
+          "id": "690a58d1cbfd6b0001fa6fc2",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Grocery Outlet’s planned 10% discount for SNAP recipients was blocked by the USDA, but owners Steve and Kelly Burton found a workaround—partnering with FISH Food Pantry to offer 10% off cards to anyone in need throughout November, no verification required.",
+          "link": "https://www.roseburgscanner.com/usda-blocks-snap-discount-but-roseburg-grocery-outlet-finds-a-way-to-help/",
+          "publishedOn": "2025-11-04T19:52:07.000Z",
+          "wordCount": 2065,
+          "title": "USDA Blocks SNAP Discount, but Roseburg Grocery Outlet Finds a Way to Help",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/grocery_kval.png"
+        },
         {
           "id": "690a15b3cbfd6b0001fa6f7c",
           "author": "Joseph Ziegler",

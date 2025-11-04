@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-04T19:10:58.515Z</updated>
+    <updated>2025-11-04T23:12:34.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Man Arrested on Felony Sexual Abuse Charge]]></title>
+        <id>690a8013cbfd6b0001fa6fd7</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-man-arrested-on-felony-sexual-abuse-charge/"/>
+        <updated>2025-11-04T22:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County deputies arrested 43-year-old Jason Nathaniel Briggs on Oct. 31 for first-degree sexual abuse, a Class B felony. Investigators say the victim, a minor known to Briggs, reported years of abuse. He remains in the Douglas County Jail.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.4.25]]></title>
+        <id>https://kqennewsradio.com/?p=139706</id>
+        <link href="https://kqennewsradio.com/2025/11/04/inside-douglas-county-11-4-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-4-25"/>
+        <updated>2025-11-04T21:19:12.000Z</updated>
+        <summary type="html"><![CDATA[An encore program with our recent interview with scientist Kareem El-Badry, who picked up a big award last month.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDA Blocks SNAP Discount, but Roseburg Grocery Outlet Finds a Way to Help]]></title>
+        <id>690a58d1cbfd6b0001fa6fc2</id>
+        <link href="https://www.roseburgscanner.com/usda-blocks-snap-discount-but-roseburg-grocery-outlet-finds-a-way-to-help/"/>
+        <updated>2025-11-04T19:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Grocery Outlet’s planned 10% discount for SNAP recipients was blocked by the USDA, but owners Steve and Kelly Burton found a workaround—partnering with FISH Food Pantry to offer 10% off cards to anyone in need throughout November, no verification required.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPRINGFIELD MAN JAILED FOR MULTIPLE WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=139704</id>
