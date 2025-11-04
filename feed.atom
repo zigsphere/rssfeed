@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-04T13:29:32.483Z</updated>
+    <updated>2025-11-04T16:17:23.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Joins Operation Green Light to Honor Veterans]]></title>
+        <id>690a15b3cbfd6b0001fa6f7c</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-joins-operation-green-light-to-honor-veterans/"/>
+        <updated>2025-11-04T15:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County will again take part in Operation Green Light this November, lighting the courthouse green to honor veterans and their families. Residents are encouraged to join by displaying a green light at home to show gratitude and support for those who have served.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Search and Rescue Locates Two Missing Men]]></title>
+        <id>690a13c9cbfd6b0001fa6f6d</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-search-and-rescue-locates-two-missing-men/"/>
+        <updated>2025-11-04T14:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Search and Rescue located two missing men in separate incidents last week. A Myrtle Creek hunter was found safe Friday morning, and an Eugene man stuck in the Umpqua National Forest was located Sunday evening in good health after being stranded for four days.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 4, 2025]]></title>
+        <id>690a0d50cbfd6b0001fa6e38</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-4-2025/"/>
+        <updated>2025-11-04T14:48:41.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIND ADVISORY FOR MUCH OF REGION STARTS TUESDAY AFTERNOON]]></title>
         <id>https://kqennewsradio.com/?p=139677</id>
@@ -284,36 +314,6 @@
         <summary type="html"><![CDATA[November 1, 2025 6:30 a.m.   No one was injured in a school bus versus sports car crash in Roseburg on Thursday night. An Oregon State Police report said just before 6:30 p.m. the bus driver attempted to re-enter Interstate 5 from the Exit 127 off-ramp, crossing Northwest Edenbower Boulevard, when the bus was hit by...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Valley Arts hosts 2025 Members' Exhibit]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c829f919-21ff-4425-906b-4f4840e31289</id>
-        <link href="https://www.nrtoday.com/a_and_e/umpqua-valley-arts-hosts-2025-members-exhibit/article_c829f919-21ff-4425-906b-4f4840e31289.html"/>
-        <updated>2025-10-31T20:36:00.000Z</updated>
-        <summary type="html"><![CDATA[For artists, the artistic process can be many things: therapeutic, eye-opening, and just plain fun. But sometimes, after days spent away in a studio working away on a piece, it can be lonely.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aviva Health to welcome two new physician associates to Myrtle Creek]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/c87b2c89-23a7-4078-b4ea-c757a9255bde</id>
-        <link href="https://www.nrtoday.com/news/aviva-health-to-welcome-two-new-physician-associates-to-myrtle-creek/article_c87b2c89-23a7-4078-b4ea-c757a9255bde.html"/>
-        <updated>2025-10-31T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[In Douglas County’s most rural areas, access to quality healthcare isn’t always a guarantee. But in one community, families may soon be getting a leg up for their medical needs.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annual Leonids meteor shower peaks mid-November]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d967e7b6-0f2e-47c9-84b4-9d6fdde11875</id>
-        <link href="https://www.nrtoday.com/life/annual-leonids-meteor-shower-peaks-mid-november/article_d967e7b6-0f2e-47c9-84b4-9d6fdde11875.html"/>
-        <updated>2025-10-31T16:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Look tonight, before trick or treating, just after sunset toward the west-southwest horizon to attempt to spy faint Mercury and Mars. Point your binoculars just above the tree tops to spot Mercury. Scan a bit below to find Mars.]]></summary>
-        <author>
-            <name>PAUL MORGAN For The News-Review</name>
         </author>
     </entry>
 </feed>

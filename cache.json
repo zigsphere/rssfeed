@@ -307,46 +307,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/8b/98be4db3-fde4-4b94-b3f5-fdf507704929/69068276daae5.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c829f919-21ff-4425-906b-4f4840e31289",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For artists, the artistic process can be many things: therapeutic, eye-opening, and just plain fun. But sometimes, after days spent away in a studio working away on a piece, it can be lonely.",
-          "link": "https://www.nrtoday.com/a_and_e/umpqua-valley-arts-hosts-2025-members-exhibit/article_c829f919-21ff-4425-906b-4f4840e31289.html",
-          "publishedOn": "2025-10-31T20:36:00.000Z",
-          "wordCount": 13157,
-          "title": "Umpqua Valley Arts hosts 2025 Members' Exhibit",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/24/c24ea764-f56c-49c2-b997-f3924a67f888/69051e1262668.image.jpg?resize=300%2C200",
-            "length": "235238",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/24/c24ea764-f56c-49c2-b997-f3924a67f888/69051e1262668.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/c87b2c89-23a7-4078-b4ea-c757a9255bde",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "In Douglas County’s most rural areas, access to quality healthcare isn’t always a guarantee. But in one community, families may soon be getting a leg up for their medical needs.",
-          "link": "https://www.nrtoday.com/news/aviva-health-to-welcome-two-new-physician-associates-to-myrtle-creek/article_c87b2c89-23a7-4078-b4ea-c757a9255bde.html",
-          "publishedOn": "2025-10-31T17:04:00.000Z",
-          "wordCount": 12548,
-          "title": "Aviva Health to welcome two new physician associates to Myrtle Creek",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5f/55f45432-e7c5-4426-9a1d-e078b9337a92/688023b169225.image.jpg?resize=300%2C200",
-            "length": "312348",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5f/55f45432-e7c5-4426-9a1d-e078b9337a92/688023b169225.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d967e7b6-0f2e-47c9-84b4-9d6fdde11875",
-          "author": "PAUL MORGAN For The News-Review",
-          "description": "Look tonight, before trick or treating, just after sunset toward the west-southwest horizon to attempt to spy faint Mercury and Mars. Point your binoculars just above the tree tops to spot Mercury. Scan a bit below to find Mars.",
-          "link": "https://www.nrtoday.com/life/annual-leonids-meteor-shower-peaks-mid-november/article_d967e7b6-0f2e-47c9-84b4-9d6fdde11875.html",
-          "publishedOn": "2025-10-31T16:49:00.000Z",
-          "wordCount": 12477,
-          "title": "Annual Leonids meteor shower peaks mid-November",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -361,6 +321,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "690a15b3cbfd6b0001fa6f7c",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County will again take part in Operation Green Light this November, lighting the courthouse green to honor veterans and their families. Residents are encouraged to join by displaying a green light at home to show gratitude and support for those who have served.",
+          "link": "https://www.roseburgscanner.com/douglas-county-joins-operation-green-light-to-honor-veterans/",
+          "publishedOn": "2025-11-04T15:05:15.000Z",
+          "wordCount": 1823,
+          "title": "Douglas County Joins Operation Green Light to Honor Veterans",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/2025-Operation-Green-LIght-1.png"
+        },
+        {
+          "id": "690a13c9cbfd6b0001fa6f6d",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County Search and Rescue located two missing men in separate incidents last week. A Myrtle Creek hunter was found safe Friday morning, and an Eugene man stuck in the Umpqua National Forest was located Sunday evening in good health after being stranded for four days.",
+          "link": "https://www.roseburgscanner.com/douglas-county-search-and-rescue-locates-two-missing-men/",
+          "publishedOn": "2025-11-04T14:58:55.000Z",
+          "wordCount": 1942,
+          "title": "Douglas County Search and Rescue Locates Two Missing Men",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/NEW_DC_SAR_Logo-1.jpg"
+        },
+        {
+          "id": "690a0d50cbfd6b0001fa6e38",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-4-2025/",
+          "publishedOn": "2025-11-04T14:48:41.000Z",
+          "wordCount": 3992,
+          "title": "November 4, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-1.png"
+        },
         {
           "id": "6908347dcbfd6b0001fa6cb5",
           "author": "Joseph Ziegler",
