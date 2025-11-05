@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-05T13:27:31.999Z</updated>
+    <updated>2025-11-05T16:18:08.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grants Pass Awards $1.2 Million Homelessness Grant to Roseburg Developer]]></title>
+        <id>690b6554cbfd6b0001fa7175</id>
+        <link href="https://www.roseburgscanner.com/grants-pass-awards-1-2-million-homelessness-grant-to-roseburg-developer/"/>
+        <updated>2025-11-05T15:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Grants Pass re-awarded a $1.2 million homelessness grant to Roseburg’s Elk Island Trading Group, which plans to build a container-home village for 150 people by summer 2026. The project could help the city close unmanaged camps and meet shelter space requirements.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 5, 2025]]></title>
+        <id>690b5e1fcbfd6b0001fa7031</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-5-2025/"/>
+        <updated>2025-11-05T14:39:27.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN FOLLOWING STALKING ORDER VIOLATON INVESTIGATION]]></title>
         <id>https://kqennewsradio.com/?p=139725</id>
@@ -135,6 +155,16 @@ The post Securing Your Future: Choosing the Right Financing for Your Business Pr
         <summary type="html"><![CDATA[Douglas County deputies arrested 43-year-old Jason Nathaniel Briggs on Oct. 31 for first-degree sexual abuse, a Class B felony. Investigators say the victim, a minor known to Briggs, reported years of abuse. He remains in the Douglas County Jail.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man arrested for long-term sexual abuse of minor victim]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/c9344c74-a0f9-4602-822f-c4babf5ea19f</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-arrested-for-long-term-sexual-abuse-of-minor-victim/article_c9344c74-a0f9-4602-822f-c4babf5ea19f.html"/>
+        <updated>2025-11-04T22:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A local man faces serious charges after an investigation into alleged sexual abuse.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>

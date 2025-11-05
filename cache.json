@@ -528,6 +528,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "690b6554cbfd6b0001fa7175",
+          "author": "Joseph Ziegler",
+          "description": "Grants Pass re-awarded a $1.2 million homelessness grant to Roseburg’s Elk Island Trading Group, which plans to build a container-home village for 150 people by summer 2026. The project could help the city close unmanaged camps and meet shelter space requirements.",
+          "link": "https://www.roseburgscanner.com/grants-pass-awards-1-2-million-homelessness-grant-to-roseburg-developer/",
+          "publishedOn": "2025-11-05T15:01:17.000Z",
+          "wordCount": 2101,
+          "title": "Grants Pass Awards $1.2 Million Homelessness Grant to Roseburg Developer",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/bernied_woodard.png"
+        },
+        {
+          "id": "690b5e1fcbfd6b0001fa7031",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-5-2025/",
+          "publishedOn": "2025-11-05T14:39:27.000Z",
+          "wordCount": 4165,
+          "title": "November 5, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-2.png"
+        },
+        {
           "id": "690adf14cbfd6b0001fa701e",
           "author": "Joseph Ziegler",
           "description": "The 32nd annual Umpqua Valley Festival of Lights opens Nov. 23 at River Forks Park! Enjoy over half a million lights, 90+ displays, the World’s Largest Nutcracker, and the Dutch Bros Holiday Village. Open nightly at 5:30 p.m. through Jan. 1. More at UVFestivalofLights.com.",
@@ -623,7 +643,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/c9344c74-a0f9-4602-822f-c4babf5ea19f",
+          "author": "News Staff",
+          "description": "A local man faces serious charges after an investigation into alleged sexual abuse.",
+          "link": "https://www.kezi.com/news/local/roseburg-man-arrested-for-long-term-sexual-abuse-of-minor-victim/article_c9344c74-a0f9-4602-822f-c4babf5ea19f.html",
+          "publishedOn": "2025-11-04T22:21:00.000Z",
+          "wordCount": 7939,
+          "title": "Roseburg man arrested for long-term sexual abuse of minor victim",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
