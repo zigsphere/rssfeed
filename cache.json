@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139759",
+          "author": "Kyle Bailey",
+          "description": "November 6, 2025 1:45 p.m. Fire crews responded to a semi-truck fire along Interstate 5 southbound on Thursday morning. Central Douglas Fire & Rescue Division Chief and Fire Marshall Josh Waechter said the fire was reported at 10:25 a.m. Waechter said a semi with a trailer had pulled over at the Winston Exit at milepost...",
+          "link": "https://kqennewsradio.com/2025/11/05/fire-crews-respond-to-semi-truck-fire-along-interstate-five/?utm_source=rss&utm_medium=rss&utm_campaign=fire-crews-respond-to-semi-truck-fire-along-interstate-five",
+          "publishedOn": "2025-11-05T21:48:50.000Z",
+          "wordCount": 1718,
+          "title": "FIRE CREWS RESPOND TO SEMI-TRUCK FIRE ALONG INTERSTATE FIVE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251105204829/Fire2-28.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=139755",
+          "author": "Kyle Bailey",
+          "description": "Live from Washington D.C., Fourth District Congresswoman Val Hoyle shares her perspective on the federal government shutdown.",
+          "link": "https://kqennewsradio.com/2025/11/05/inside-douglas-county-11-5-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-5-25",
+          "publishedOn": "2025-11-05T21:11:01.000Z",
+          "wordCount": 1614,
+          "title": "INSIDE DOUGLAS COUNTY 11.5.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251105200905/IDC-11-05-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139749",
           "author": "Kyle Bailey",
           "description": "November 5, 2025 10:50 a.m.  Sutherlin Police jailed a man for a reported assault incident on Tuesday evening. An SPD report said at 10:00 p.m. officers responded to a residence in the 100 block of Bambi Lane after a caller said that there was a disturbance. Officers learned that 24-year-old Isaac Wedekind-King had reportedly grabbed...",
@@ -632,6 +657,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "690bb14dcbfd6b0001fa71b1",
+          "author": "Joseph Ziegler",
+          "description": "A notice of appeal has been filed in the case of Jonathan Dowdy, sentenced to over 20 years for the fatal UCC softball team bus crash. Records show his sentence matched the plea agreement, and his earliest possible release date remains March 22, 2044.",
+          "link": "https://www.roseburgscanner.com/appeal-filed-in-fatal-ucc-softball-team-crash-case/",
+          "publishedOn": "2025-11-05T20:20:53.000Z",
+          "wordCount": 2314,
+          "title": "Appeal Filed in Fatal UCC Softball Team Crash Case",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/courthouse.jpg"
+        },
         {
           "id": "690b9337cbfd6b0001fa7194",
           "author": "Joseph Ziegler",
