@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139708",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have an encore program, which originally aired on August 20, 2024.",
+          "link": "https://kqennewsradio.com/2025/11/04/true-wealth-11-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-4-25",
+          "publishedOn": "2025-11-05T00:22:09.000Z",
+          "wordCount": 1602,
+          "title": "TRUE WEALTH 11.4.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251104231037/TRUE-WEALTH-8-20-2024-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139706",
           "author": "Kyle Bailey",
           "description": "An encore program with our recent interview with scientist Kareem El-Badry, who picked up a big award last month.",
@@ -364,16 +379,6 @@
           "wordCount": 1602,
           "title": "ROSEBURG HIGH MARCHING ENSEMBLE FNAL PERFORMANCE OF THE YEAR MONDAY NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251028091413/Platinum-Arrow.jpg-1.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139612",
-          "author": "Kyle Bailey",
-          "description": "November 1, 2025 6:30 a.m.   No one was injured in a school bus versus sports car crash in Roseburg on Thursday night. An Oregon State Police report said just before 6:30 p.m. the bus driver attempted to re-enter Interstate 5 from the Exit 127 off-ramp, crossing Northwest Edenbower Boulevard, when the bus was hit by...",
-          "link": "https://kqennewsradio.com/2025/11/01/no-one-injured-in-school-bus-versus-sports-car-crash/?utm_source=rss&utm_medium=rss&utm_campaign=no-one-injured-in-school-bus-versus-sports-car-crash",
-          "publishedOn": "2025-11-01T13:46:02.000Z",
-          "wordCount": 1631,
-          "title": "NO ONE INJURED IN SCHOOL BUS VERSUS SPORTS CAR CRASH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
         }
       ]
     },
@@ -388,6 +393,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/201efb57-2fac-480a-9407-ab672c9d0df7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Oregon State University Douglas Extension Service announced that the Roseburg location of the Beef Quality Assurance Cow-Calf class is cancelled due to low registration numbers.",
+          "link": "https://www.nrtoday.com/briefs/beef-quality-assurance-class-in-roseburg-cancelled/article_201efb57-2fac-480a-9407-ab672c9d0df7.html",
+          "publishedOn": "2025-11-04T17:06:00.000Z",
+          "wordCount": 12098,
+          "title": "Beef Quality Assurance class in Roseburg cancelled",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e7456000-6ee4-47cf-b33b-54782142509f",
           "author": "GLORIA COLEMAN The News-Review",
@@ -424,7 +439,18 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9105",
+          "author": "Jim Teece",
+          "description": "For a growing business, the decision to move from leasing to owning commercial real estate (CRE) represents a major strategic inflection point. While leasing offers flexibility and capital preservation in the short term, ownership is a powerful long-term tool for stability, wealth creation, and operational control. Once the decision to buy is made, securing the…\nThe post Securing Your Future: Choosing the Right Financing for Your Business Property appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/securing-your-future-choosing-the-right-financing-for-your-business-property/",
+          "publishedOn": "2025-11-04T23:57:05.000Z",
+          "wordCount": 3304,
+          "title": "Securing Your Future: Choosing the Right Financing for Your Business Property",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/11/OOCRE-Financing.png"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
