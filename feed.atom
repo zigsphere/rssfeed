@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-06T13:26:50.027Z</updated>
+    <updated>2025-11-06T16:18:21.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Southbound I-5 semi-truck fire near Winston extinguished]]></title>
+        <id>690cc855cbfd6b0001fa72f0</id>
+        <link href="https://www.roseburgscanner.com/southbound-i-5-semi-truck-fire-near-winston-extinguished/"/>
+        <updated>2025-11-06T16:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Fire crews extinguished a semi-truck fire on I-5 southbound near Winston Thursday morning. The blaze started in the engine compartment and spread to the cab and trailer loaded with paper rolls. No injuries were reported, and the cause is under investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 6, 2025]]></title>
+        <id>690cb091cbfd6b0001fa71c3</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-6-2025/"/>
+        <updated>2025-11-06T14:43:10.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG MAN ARRESTED ON CHARGE OF FIRST-DEGREE SEXUAL ABUSE]]></title>
         <id>https://kqennewsradio.com/?p=139784</id>
