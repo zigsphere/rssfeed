@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-06T19:10:54.465Z</updated>
+    <updated>2025-11-06T23:12:30.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.6.25]]></title>
+        <id>https://kqennewsradio.com/?p=139810</id>
+        <link href="https://kqennewsradio.com/2025/11/06/inside-douglas-county-11-6-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-6-25"/>
+        <updated>2025-11-06T22:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Bailey was live at Aviva Health’s Vets and Their Pets event, talking with staff from Aviva and a number of veterans.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR SECOND-DEGREE THEFT]]></title>
         <id>https://kqennewsradio.com/?p=139808</id>
@@ -914,16 +924,6 @@ The post Securing Your Future: Choosing the Right Financing for Your Business Pr
         <link href="https://kqennewsradio.com/2025/11/03/salvation-army-continues-to-accept-angel-tree-applications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=salvation-army-continues-to-accept-angel-tree-applications"/>
         <updated>2025-11-03T11:12:56.000Z</updated>
         <summary type="html"><![CDATA[November 3, 2025 3:05 a.m.  The Roseburg Salvation Army is continuing to accept applications for its Angel Tree program, which provides gifts for children of those in need. Applications are currently being accepted Tuesdays through Fridays from 9:00 a.m. to 12:00 p.m. and from 1:00 p.m. to 4:00 p.m. Gifts are for children up to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG HIGH MARCHING ENSEMBLE FNAL PERFORMANCE OF THE YEAR MONDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=139616</id>
-        <link href="https://kqennewsradio.com/2025/11/03/roseburg-high-marching-ensemble-fnal-performance-of-the-year-monday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-high-marching-ensemble-fnal-performance-of-the-year-monday-night"/>
-        <updated>2025-11-03T11:09:42.000Z</updated>
-        <summary type="html"><![CDATA[November 3, 2025 2:50 a.m.  The Roseburg High School Marching Ensemble has its final performance of this school year on Monday night. The group will perform this year’s show, “Cruisin” at their Platinum Arrow event at 8:30 p.m. at Finlay Field on the RHS campus. It is free and open to the public.]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

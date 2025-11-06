@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139810",
+          "author": "Kyle Bailey",
+          "description": "Kyle Bailey was live at Aviva Health’s Vets and Their Pets event, talking with staff from Aviva and a number of veterans.",
+          "link": "https://kqennewsradio.com/2025/11/06/inside-douglas-county-11-6-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-6-25",
+          "publishedOn": "2025-11-06T22:08:42.000Z",
+          "wordCount": 1607,
+          "title": "INSIDE DOUGLAS COUNTY 11.6.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251106202208/IDC-11-6-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251106210823/Aviva1-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139808",
           "author": "Kyle Bailey",
           "description": "November 6, 2025 10:40 a.m.   Roseburg Police cited a woman for second-degree theft on Wednesday. An RPD report said at 9:20 a.m. the 29-year-old was pushing a Fred Meyer shopping cart down from the multi-use paved path with trash and her possession in it. The woman claimed she took the cart from Deer Creek Park...",
@@ -714,16 +729,6 @@
           "wordCount": 1660,
           "title": "SALVATION ARMY CONTINUES TO ACCEPT ANGEL TREE APPLICATIONS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222531/logo-salvationarmy-e1601896030680.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139616",
-          "author": "Kyle Bailey",
-          "description": "November 3, 2025 2:50 a.m.  The Roseburg High School Marching Ensemble has its final performance of this school year on Monday night. The group will perform this year’s show, “Cruisin” at their Platinum Arrow event at 8:30 p.m. at Finlay Field on the RHS campus. It is free and open to the public.",
-          "link": "https://kqennewsradio.com/2025/11/03/roseburg-high-marching-ensemble-fnal-performance-of-the-year-monday-night/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-high-marching-ensemble-fnal-performance-of-the-year-monday-night",
-          "publishedOn": "2025-11-03T11:09:42.000Z",
-          "wordCount": 1602,
-          "title": "ROSEBURG HIGH MARCHING ENSEMBLE FNAL PERFORMANCE OF THE YEAR MONDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251028091413/Platinum-Arrow.jpg-1.png"
         }
       ]
     },
