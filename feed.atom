@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-08T13:19:14.389Z</updated>
+    <updated>2025-11-08T16:14:23.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 10:00 A.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=139865</id>
+        <link href="https://kqennewsradio.com/2025/11/08/dense-fog-advisory-through-1000-a-m-saturday-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dense-fog-advisory-through-1000-a-m-saturday-2"/>
+        <updated>2025-11-08T13:57:09.000Z</updated>
+        <summary type="html"><![CDATA[November 8, 2025 5:50 a.m.  A Dense Fog Advisory remains in effect for much of southwestern Oregon through 10:00 a.m. Saturday. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less is expected in dense fog. The Advisory area includes central Douglas County, eastern Curry County, Josephine and Jackson...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PacifiCorp Credit Downgrade Raises Bankruptcy Concerns Amid Wildfire Lawsuits]]></title>
         <id>690ecf8fcbfd6b0001fa74cf</id>
@@ -793,26 +803,6 @@ The post Oregon Connections 2025 Brings Together Broadband Leaders in Hood River
         <link href="https://www.roseburgscanner.com/umpqua-valley-festival-of-lights-returns-for-32nd-year/"/>
         <updated>2025-11-05T05:24:31.000Z</updated>
         <summary type="html"><![CDATA[The 32nd annual Umpqua Valley Festival of Lights opens Nov. 23 at River Forks Park! Enjoy over half a million lights, 90+ displays, the World’s Largest Nutcracker, and the Dutch Bros Holiday Village. Open nightly at 5:30 p.m. through Jan. 1. More at UVFestivalofLights.com.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stewart Park “Green Bridge” Reopens - and It’s No Longer Green]]></title>
-        <id>690accaccbfd6b0001fa6ffe</id>
-        <link href="https://www.roseburgscanner.com/roseburgs-green-bridge-reopens-after-rehabilitation-work/"/>
-        <updated>2025-11-05T04:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg’s iconic “Green Bridge” has reopened after months of rehabilitation work, but it’s now black. Crews completed repairs, deck upgrades, and repainting to extend the bridge’s life and improve safety, restoring a key route between Stewart Parkway and the VA Medical Center.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCAN Preparing to Open Roseburg Warming Center for Third Winter]]></title>
-        <id>690ac43ecbfd6b0001fa6fe8</id>
-        <link href="https://www.roseburgscanner.com/ucan-preparing-to-open-roseburg-warming-center-for-third-winter/"/>
-        <updated>2025-11-05T03:30:38.000Z</updated>
-        <summary type="html"><![CDATA[UCAN is reopening the Roseburg Warming Center for a third winter, offering warmth, food, and shelter during freezing nights. The center opens when temps drop to 30°F or below. Volunteers and donations are needed—sign up at housinghomelessservices.as.me/volunteerorientation.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
         </author>
