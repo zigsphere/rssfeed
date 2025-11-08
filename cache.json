@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139868",
+          "author": "Kyle Bailey",
+          "description": "(Story from information provided by Jack Costa of the Umpqua Valley Winegrowers Association) November 8, 2025 11:10 a.m.  A pioneer in the Umpqua Valley wine industry has passed away. Philippe Girardet was the founder of Girardet Vineyards and Winery in Tenmile. The Swiss American was an astrophysics engineer at the California Institute of Technology before...",
+          "link": "https://kqennewsradio.com/2025/11/08/local-wine-pioneer-philippe-girardet-has-passed-away/?utm_source=rss&utm_medium=rss&utm_campaign=local-wine-pioneer-philippe-girardet-has-passed-away",
+          "publishedOn": "2025-11-08T19:31:55.000Z",
+          "wordCount": 1915,
+          "title": "LOCAL WINE PIONEER PHILIPPE GIRARDET HAS PASSED AWAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251108181328/Philppe1-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139865",
           "author": "Kyle Bailey",
           "description": "November 8, 2025 5:50 a.m.  A Dense Fog Advisory remains in effect for much of southwestern Oregon through 10:00 a.m. Saturday. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less is expected in dense fog. The Advisory area includes central Douglas County, eastern Curry County, Josephine and Jackson...",
@@ -539,26 +549,6 @@
           "wordCount": 1713,
           "title": "UMPQUA WINERIES INTRODUCE WINESGIVING WEEKEND",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201035/Copy-of-UVW-vertical-logo-01-e1682937507894.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139714",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 3:05 a.m.  Wildlife Safari will hold its annual Turkey Trot on Thanksgiving Day, Thursday, November 27th. This family-friendly 5K fun run and walk is open to all ages. Seasoned runners, casual walkers, or those who are just looking to get some exercise before the big feast are invited to participate. Check-in opens...",
-          "link": "https://kqennewsradio.com/2025/11/05/wildlife-safari-with-annual-turkey-trot-on-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-with-annual-turkey-trot-on-thanksgiving",
-          "publishedOn": "2025-11-05T11:11:22.000Z",
-          "wordCount": 1624,
-          "title": "WILDLIFE SAFARI WITH ANNUAL TURKEY TROT ON THANKSGIVING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251105101101/Turkey-Trot-2025.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139711",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 2:50 a.m.  Umpqua Community College Performing and Visual Arts presents the Umpqua Singers in “Flying High” on November 14th at 7:00 p.m. in Centerstage at the Whipple Fine Arts Center on the UCC campus. The Umpqua Singers, directed by Dr. Jason Heald, will present a program of high-energy jazz standards and contemporary...",
-          "link": "https://kqennewsradio.com/2025/11/05/umpqua-singers-present-fall-concert-flying-high/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-singers-present-fall-concert-flying-high",
-          "publishedOn": "2025-11-05T11:04:49.000Z",
-          "wordCount": 1620,
-          "title": "UMPQUA SINGERS PRESENT FALL CONCERT, “FLYING HIGH”",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251105100403/Flying-High-poster.jpg"
         }
       ]
     },
@@ -573,6 +563,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/bb63c85f-ebd3-4143-a27b-3e936d9e3a5d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "As temperatures drop, staff with United Community Action Network (UCAN) are preparing to operate the Roseburg Warming Center again this winter for the third consecutive year.",
+          "link": "https://www.nrtoday.com/news/ucan-will-operate-roseburg-warming-center-for-third-year/article_bb63c85f-ebd3-4143-a27b-3e936d9e3a5d.html",
+          "publishedOn": "2025-11-08T18:05:00.000Z",
+          "wordCount": 12422,
+          "title": "UCAN will operate Roseburg Warming Center for third year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/08/4089ebbe-867d-432d-83e6-93d2bef9f50c/65e9fe5d87dfd.image.jpg?resize=300%2C200",
+            "length": "329841",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/08/4089ebbe-867d-432d-83e6-93d2bef9f50c/65e9fe5d87dfd.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e9cff3e5-e2f7-4935-b6d2-d338253ad335",
           "author": "Kris Wiley For The News-Review",
