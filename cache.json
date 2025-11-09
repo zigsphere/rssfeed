@@ -499,56 +499,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139725",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 4:00 a.m.  Sutherlin Police have jailed a man following a stalking order violation investigation held in cooperation with the Portland Police Bureau. An SPD report said that 36-year-old Tyler Wolford was served a stalking order on February 25th issued by Multnomah County Circuit Court. The order protects a victim and is still...",
-          "link": "https://kqennewsradio.com/2025/11/05/sutherlin-police-jail-man-following-stalking-order-violaton-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-police-jail-man-following-stalking-order-violaton-investigation",
-          "publishedOn": "2025-11-05T11:57:14.000Z",
-          "wordCount": 1690,
-          "title": "SUTHERLIN POLICE JAIL MAN FOLLOWING STALKING ORDER VIOLATON INVESTIGATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223709/police-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139723",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 3:50 a.m.  A craft fair and bake sale will be held in Glide on Saturday. The event will take place from 1:00 p.m. to 4:00 p.m. at Glide Assembly of God, at 19250 North Umpqua Highway. Admission to the event is free. It is a fundraiser for the church. Call 496-0327 for...",
-          "link": "https://kqennewsradio.com/2025/11/05/craft-fair-and-bake-sale-in-glide-on-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=craft-fair-and-bake-sale-in-glide-on-saturday",
-          "publishedOn": "2025-11-05T11:42:25.000Z",
-          "wordCount": 1600,
-          "title": "CRAFT FAIR AND BAKE SALE IN GLIDE ON SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139721",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 3:40 a.m.  As temperatures drop, staff with the United Community Action Network are preparing to operate the Roseburg Warming Center again this winter for the third consecutive year. A UCAN release said it will provide a warm, safe place for community members in need. This life-saving service is made possible through the...",
-          "link": "https://kqennewsradio.com/2025/11/05/ucan-will-operate-roseburg-warming-center-for-third-year/?utm_source=rss&utm_medium=rss&utm_campaign=ucan-will-operate-roseburg-warming-center-for-third-year",
-          "publishedOn": "2025-11-05T11:26:53.000Z",
-          "wordCount": 1892,
-          "title": "UCAN WILL  OPERATE ROSEBURG WARMING CENTER FOR THIRD YEAR",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240605092748/ucan.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139719",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 3:30 a.m.  Aviva Health is hosting its annual Vets and Their Pets Veterans Day celebration on Thursday. It will take place from 11:00 a.m. until 2:00 p.m. in Aviva’s parking lot in front of its facility at 150 Northeast Kenneth Ford Drive, just north of Costco in Roseburg. The event honors U.S....",
-          "link": "https://kqennewsradio.com/2025/11/05/aviva-health-with-vets-and-their-pets-event-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=aviva-health-with-vets-and-their-pets-event-thursday",
-          "publishedOn": "2025-11-05T11:23:01.000Z",
-          "wordCount": 1733,
-          "title": "AVIVA HEALTH WITH VETS AND THEIR PETS EVENT THURSDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251028091850/vets3.jpg-scaled.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139717",
-          "author": "Kyle Bailey",
-          "description": "November 5, 2025 3:20 a.m.  The Umpqua Valley Winegrowers Association has announced the renaming of its annual Thanksgiving open house event to Winesgiving Weekend in the Umpqua Valley. Twenty wineries in the Umpqua Valley will participate in Winegiving Weekend this year, from Friday, November 28th through Sunday, November 30th. A UVWA release said along with...",
-          "link": "https://kqennewsradio.com/2025/11/05/umpqua-wineries-introduce-winesgiving-weekend/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-wineries-introduce-winesgiving-weekend",
-          "publishedOn": "2025-11-05T11:18:38.000Z",
-          "wordCount": 1713,
-          "title": "UMPQUA WINERIES INTRODUCE WINESGIVING WEEKEND",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201035/Copy-of-UVW-vertical-logo-01-e1682937507894.jpg"
         }
       ]
     },
@@ -743,6 +693,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "690fe307cbfd6b0001fa74ed",
+          "author": "Joseph Ziegler",
+          "description": "A student-led walkout is planned Monday at Winston Middle School to raise awareness about bullying and safety concerns. Organized by 13-year-old Ashton, the event has gained attention from parents and community members online.",
+          "link": "https://www.roseburgscanner.com/walkout-planned-at-winston-middle-school-to-address-bullying-concerns/",
+          "publishedOn": "2025-11-09T00:42:14.000Z",
+          "wordCount": 1995,
+          "title": "Walkout Planned at Winston Middle School to Address Bullying Concerns",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/winston_bullying.jpeg"
+        },
+        {
           "id": "690ecf8fcbfd6b0001fa74cf",
           "author": "Joseph Ziegler",
           "description": "PacifiCorp, the Oregon-based utility owned by Warren Buffett, warns of a potential liquidity crisis amid lawsuits over the 2020 wildfires. Facing billions in damages and credit downgrades, the company says ongoing litigation threatens its long-term operations.",
@@ -871,26 +831,6 @@
           "wordCount": 1928,
           "title": "\"DWreck Does It\" Expands Into The Purple Avocado Vendor Mall",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/purple6.jpg"
-        },
-        {
-          "id": "690b6554cbfd6b0001fa7175",
-          "author": "Joseph Ziegler",
-          "description": "Grants Pass re-awarded a $1.2 million homelessness grant to Roseburg’s Elk Island Trading Group, which plans to build a container-home village for 150 people by summer 2026. The project could help the city close unmanaged camps and meet shelter space requirements.",
-          "link": "https://www.roseburgscanner.com/grants-pass-awards-1-2-million-homelessness-grant-to-roseburg-developer/",
-          "publishedOn": "2025-11-05T15:01:17.000Z",
-          "wordCount": 2101,
-          "title": "Grants Pass Awards $1.2 Million Homelessness Grant to Roseburg Developer",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/bernied_woodard.png"
-        },
-        {
-          "id": "690b5e1fcbfd6b0001fa7031",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/november-5-2025/",
-          "publishedOn": "2025-11-05T14:39:27.000Z",
-          "wordCount": 4165,
-          "title": "November 5, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-2.png"
         }
       ]
     },
