@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139922",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County CEO Stephen Stanfield talks about their annual fund raising campaign and how the community can help. He also talks about the history of the YMCA both internationally and here in Roseburg.",
+          "link": "https://kqennewsradio.com/2025/11/10/inside-douglas-county-11-10-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-10-25",
+          "publishedOn": "2025-11-10T21:20:17.000Z",
+          "wordCount": 1626,
+          "title": "INSIDE DOUGLAS COUNTY 11.10.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251110201543/IDC-11-10-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251110201818/Stephe.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=139919",
+          "author": "Kyle Bailey",
+          "description": "November 10, 2025 12:00 p.m.  A driver lost control, and a vehicle struck a barrier on Interstate 5 southbound on Sunday. An Oregon State Police report said just after 1:15 p.m. the vehicle became disabled near the fog line in the center median near the milepost 150 exit which leads to Highway 38. A towing...",
+          "link": "https://kqennewsradio.com/2025/11/10/driver-loses-control-vehicle-strikes-a-barrier-on-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=driver-loses-control-vehicle-strikes-a-barrier-on-sunday",
+          "publishedOn": "2025-11-10T19:58:19.000Z",
+          "wordCount": 1606,
+          "title": "DRIVER LOSES CONTROL, VEHICLE STRIKES A BARRIER ON SUNDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139916",
           "author": "Kyle Bailey",
           "description": "November 10, 2025 11:00 a.m.   Roseburg Police jailed a woman for a warrant and prohibited camping on Saturday afternoon. An RPD report said at 12:40 p.m. officers contacted the 35-year-old at her camp along the riverbank in the 1400 block of Northwest Stewart Park Drive, knowing she had the warrant for her arrest. The woman’s...",
@@ -344,26 +369,6 @@
           "wordCount": 1928,
           "title": "AFRC DEFENDS BLM’S BLUE AND GOLD PROJECT IN FEDERAL COURT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139821",
-          "author": "Kyle Bailey",
-          "description": "November 7, 2025 3:05 a.m.   In the KQEN Cultural Spotlight: Umpqua Valley Arts is inviting residents to step into the warmth and creativity of the season at its Handmade Holiday Market, happening during Small Business Saturday, on November 29th from 12:00 p.m. to 7:00 p.m. A UVA release said the annual event celebrates the return...",
-          "link": "https://kqennewsradio.com/2025/11/07/uva-with-handmade-holiday-market-november-29th/?utm_source=rss&utm_medium=rss&utm_campaign=uva-with-handmade-holiday-market-november-29th",
-          "publishedOn": "2025-11-07T11:12:47.000Z",
-          "wordCount": 1794,
-          "title": "UVA WITH HANDMADE HOLIDAY MARKET NOVEMBER 29TH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251107101216/Handmade-Holiday_poster.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139819",
-          "author": "Kyle Bailey",
-          "description": "November 7, 2025 2:50 a.m.  The Oregon State University Extension Forestry and Natural Resources program is holding a workshop titled, “Landslides in Forested Landscapes”, on December 3rd. It will be held from 9:00 a.m. to 12:30 p.m. at the OSU Extension office on Southeast Douglas Avenue, next to the courthouse. Participants will learn about geologic...",
-          "link": "https://kqennewsradio.com/2025/11/07/learn-about-landslides-in-forested-landscapes/?utm_source=rss&utm_medium=rss&utm_campaign=learn-about-landslides-in-forested-landscapes",
-          "publishedOn": "2025-11-07T11:04:30.000Z",
-          "wordCount": 1692,
-          "title": "LEARN ABOUT LANDSLIDES IN FORESTED LANDSCAPES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },
