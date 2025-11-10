@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-10T13:26:45.971Z</updated>
+    <updated>2025-11-10T16:17:34.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas High School Mural Project Paused Amid Unresolved Financial Questions]]></title>
+        <id>691201e9cbfd6b0001fa76b6</id>
+        <link href="https://www.roseburgscanner.com/douglas-high-school-mural-project-paused-amid-unresolved-financial-questions/"/>
+        <updated>2025-11-10T16:11:45.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas High School mural project, started by David Van Dermark and fellow alumni, is on pause as organizers, including his son Joseph Ziegler, work to clarify financial details and complete the project with transparency and community pride.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 10, 2025]]></title>
+        <id>69117150cbfd6b0001fa7515</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-10-2025/"/>
+        <updated>2025-11-10T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 9:00 AM. MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=139892</id>
@@ -424,16 +444,6 @@
         <summary type="html"><![CDATA[November 7, 2025 2:50 a.m.  The Oregon State University Extension Forestry and Natural Resources program is holding a workshop titled, “Landslides in Forested Landscapes”, on December 3rd. It will be held from 9:00 a.m. to 12:30 p.m. at the OSU Extension office on Southeast Douglas Avenue, next to the courthouse. Participants will learn about geologic...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DINT Arrests Myrtle Creek Man in Roseburg Drug Investigation]]></title>
-        <id>690d6a75cbfd6b0001fa7320</id>
-        <link href="https://www.roseburgscanner.com/dint-arrests-myrtle-creek-man-in-roseburg-drug-investigation/"/>
-        <updated>2025-11-07T03:42:49.000Z</updated>
-        <summary type="html"><![CDATA[DINT detectives arrested 38-year-old Chet Evans of Myrtle Creek in Roseburg after finding suspected fentanyl, meth residue, and weapons. Evans faces drug and weapons charges and remains in custody on a Lane County probation detainer.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
