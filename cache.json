@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139981",
+          "author": "Kyle Bailey",
+          "description": "November 11, 2025 3:00 p.m.  Roseburg Police cited a man for reckless driving after his sportscar hit a building early Monday morning. An RPD report said at 12:45 a.m. officers responded to a structure in the 100 block of Northeast Exchange Avenue after a caller said a vehicle had crashed into it. Officers contacted the...",
+          "link": "https://kqennewsradio.com/2025/11/11/roseburg-police-cite-man-after-sports-car-hits-building-2/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-man-after-sports-car-hits-building-2",
+          "publishedOn": "2025-11-11T22:59:07.000Z",
+          "wordCount": 1728,
+          "title": "ROSEBURG POLICE CITE MAN AFTER SPORTS CAR HITS BUILDING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=139975",
+          "author": "Kyle Bailey",
+          "description": "Our annual Veterans Day program: We talk with veterans Gwendolyn Best and Bill Mixon about their time of service.",
+          "link": "https://kqennewsradio.com/2025/11/11/inside-douglas-county-11-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-11-25",
+          "publishedOn": "2025-11-11T21:09:18.000Z",
+          "wordCount": 1613,
+          "title": "INSIDE DOUGLAS COUNTY 11.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251111200333/IDC-11-11-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251111200815/Gwen.jpg.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139970",
           "author": "Kyle Bailey",
           "description": "November 11, 2025 10:30 a.m.   Roseburg Police cited a man for an alleged harassment incident on Saturday afternoon. An RPD report said at 2:30 p.m. officers responded to a home in the 700 block of Northwest Hill Avenue. Upon arrival officers learned that the 58-year-old had slapped a victim and made several racial slurs towards...",
@@ -414,6 +439,41 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d7354a73-92e2-4545-98ea-a1059c56aff0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — The city of Roseburg buildings are closed Tuesday in observance of Veterans Day.",
+          "link": "https://www.nrtoday.com/briefs/city-of-roseburg-offices-are-closed-tuesday/article_d7354a73-92e2-4545-98ea-a1059c56aff0.html",
+          "publishedOn": "2025-11-10T21:02:00.000Z",
+          "wordCount": 13114,
+          "title": "City of Roseburg offices are closed Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/28d66606-13b8-4381-b191-242cba2918dc",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — The Umpqua Community College Performing and Visual Arts' Big Horn Jazz Band and Moment's Notice will perform Big Noise from the Umpqua at 7 p.m. Nov. 19 at the Whipple Fine Arts Center on the Umpqua Community College…",
+          "link": "https://www.nrtoday.com/a_and_e/big-horn-jazz-band-performs-nov-19-at-ucc/article_28d66606-13b8-4381-b191-242cba2918dc.html",
+          "publishedOn": "2025-11-10T20:53:00.000Z",
+          "wordCount": 12092,
+          "title": "Big Horn Jazz Band performs Nov. 19 at UCC",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8d91bdc3-e299-45b2-a1e3-198c5610de79",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Connor Gowey stood in front of the attendees at the Legacy Ball: Havana Nights on Friday night and spoke about the impact that Umpqua Community College (UCC) has had on him.",
+          "link": "https://www.nrtoday.com/news/education/havana-nights-ucc-foundations-legacy-ball-raises-money-for-students-programs/article_8d91bdc3-e299-45b2-a1e3-198c5610de79.html",
+          "publishedOn": "2025-11-10T14:45:00.000Z",
+          "wordCount": 14276,
+          "title": "Havana Nights: UCC Foundation's Legacy Ball raises money for students, programs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0e/00e13e73-f69d-47d5-b9d0-03943bdf50a4/69122dd5c485e.image.jpg?resize=300%2C200",
+            "length": "194087",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/0e/00e13e73-f69d-47d5-b9d0-03943bdf50a4/69122dd5c485e.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/bb63c85f-ebd3-4143-a27b-3e936d9e3a5d",
           "author": "Kyle Bailey For The News-Review",
           "description": "As temperatures drop, staff with United Community Action Network (UCAN) are preparing to operate the Roseburg Warming Center again this winter for the third consecutive year.",
@@ -427,126 +487,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/08/4089ebbe-867d-432d-83e6-93d2bef9f50c/65e9fe5d87dfd.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e9cff3e5-e2f7-4935-b6d2-d338253ad335",
-          "author": "Kris Wiley For The News-Review",
-          "description": "Roseburg Public Library now offers access to thousands of digital newspapers through NewsBank.",
-          "link": "https://www.nrtoday.com/a_and_e/roseburg-library-adds-digital-newspapers/article_e9cff3e5-e2f7-4935-b6d2-d338253ad335.html",
-          "publishedOn": "2025-11-07T17:30:00.000Z",
-          "wordCount": 12461,
-          "title": "Roseburg library adds digital newspapers",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
-            "length": "188004",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4719edbd-62cc-4f8c-8e93-0c65dd34d433",
-          "author": "Julie Burchstead Master Gardner",
-          "description": "Question: I love olive trees. Can we grow them in Roseburg?",
-          "link": "https://www.nrtoday.com/life/join-the-growing-trend-of-planting-olive-trees-in-your-garden/article_4719edbd-62cc-4f8c-8e93-0c65dd34d433.html",
-          "publishedOn": "2025-11-07T17:30:00.000Z",
-          "wordCount": 13045,
-          "title": "Join the growing trend of planting olive trees in your garden",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/a1/ba1f20ab-bdfa-40a6-87af-b43d48d33c76/690a554838e6d.image.jpg?resize=300%2C199",
-            "length": "445393",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/a1/ba1f20ab-bdfa-40a6-87af-b43d48d33c76/690a554838e6d.image.jpg?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d3128861-0536-44ed-9a8c-d80b0f2c65cd",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "CANYONVILLE — Most highways around Douglas County are maintained by the Oregon Department of Transportation (ODOT), keeping all travelers on safe routes. Like Roseburg crew manager Randy Camp said Oct. 29, the public expects safe road to travel on, especially…",
-          "link": "https://www.nrtoday.com/news/environment/canyonville-odot-receives-funding-able-to-stay-open-in-time-for-winter/article_d3128861-0536-44ed-9a8c-d80b0f2c65cd.html",
-          "publishedOn": "2025-11-07T16:45:00.000Z",
-          "wordCount": 13459,
-          "title": "Canyonville ODOT receives funding, able to stay open in time for winter",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ed/2ede3588-4b19-4693-9a97-46e9634065cd/690a94c0e3d5b.image.jpg?resize=300%2C200",
-            "length": "346491",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ed/2ede3588-4b19-4693-9a97-46e9634065cd/690a94c0e3d5b.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5572451a-7d06-439e-80f9-de17103ca708",
-          "author": "Scott Carroll The News-Review",
-          "description": "Editors note: This article references a brutal murder, and contains language and information that may not be appropriate for some readers, especially children.",
-          "link": "https://www.nrtoday.com/news/oakland-murder-case-heats-up/article_5572451a-7d06-439e-80f9-de17103ca708.html",
-          "publishedOn": "2025-11-07T16:00:00.000Z",
-          "wordCount": 13566,
-          "title": "Oakland murder case heats up",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ff/9ffef814-55d0-4744-8e36-299c2153e0f2/64fcb9a7d3c29.image.jpg?resize=300%2C400",
-            "length": "29785",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ff/9ffef814-55d0-4744-8e36-299c2153e0f2/64fcb9a7d3c29.image.jpg?resize=300%2C400"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2a767320-0d5d-4b42-a7ea-89ed39bab335",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The Stewart Park Drive Bridge reopened Tuesday night after being closed to vehicle traffic for several months. The bridge, spanning the South Umpqua River, closed in February for a major rehabilitation project.",
-          "link": "https://www.nrtoday.com/news/environment/stewart-park-drive-bridge-reopens-after-rehabilitation-project/article_2a767320-0d5d-4b42-a7ea-89ed39bab335.html",
-          "publishedOn": "2025-11-07T16:00:00.000Z",
-          "wordCount": 13101,
-          "title": "Stewart Park Drive Bridge reopens after rehabilitation project",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/13/41314974-1969-4508-b05b-a6cd952f75df/690d0c7ba5106.image.jpg?resize=300%2C200",
-            "length": "557802",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/13/41314974-1969-4508-b05b-a6cd952f75df/690d0c7ba5106.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/510b2c0e-62b4-4306-9496-d0d2dea69d79",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Senior Vice President at Columbia Bank David Adamson said Thursday that Columbia Bank is committed to helping people.",
-          "link": "https://www.nrtoday.com/news/columbia-bank-ucan-team-up-for-november-donation-barrels/article_510b2c0e-62b4-4306-9496-d0d2dea69d79.html",
-          "publishedOn": "2025-11-07T14:45:00.000Z",
-          "wordCount": 12464,
-          "title": "Columbia Bank, UCAN team up for November donation barrels",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ec/9ecec47a-9c9a-4c45-8c8b-64bf62b5f4c8/690dabcc300e1.image.jpg?resize=300%2C472",
-            "length": "405723",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/ec/9ecec47a-9c9a-4c45-8c8b-64bf62b5f4c8/690dabcc300e1.image.jpg?resize=300%2C472"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7c17656c-7343-493d-80b4-bbe96c2a5261",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Paul Eckel said his time in the U.S. Army and Central Intelligence Agency (CIA) turned him into a tested combatant, but his time in the North Umpqua River has healed him immensely.",
-          "link": "https://www.nrtoday.com/news/government/healing-through-rafting-paul-eckel-documents-journey-post-service/article_7c17656c-7343-493d-80b4-bbe96c2a5261.html",
-          "publishedOn": "2025-11-07T14:00:00.000Z",
-          "wordCount": 12967,
-          "title": "Healing through rafting: Paul Eckel documents journey post service",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/c7/3c7d8665-5d14-49b6-8480-2c4d69cc9034/6824085034106.image.jpg?resize=300%2C527",
-            "length": "346633",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/c7/3c7d8665-5d14-49b6-8480-2c4d69cc9034/6824085034106.image.jpg?resize=300%2C527"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f006987a-41aa-4fce-8a3c-4f5a0b147c9e",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Paul Romero said he originally joined the U.S. Navy to pay off college with a GI bill.",
-          "link": "https://www.nrtoday.com/news/government/communicating-around-the-waters-paul-romero-reflects-on-his-navy-service/article_f006987a-41aa-4fce-8a3c-4f5a0b147c9e.html",
-          "publishedOn": "2025-11-07T13:00:00.000Z",
-          "wordCount": 15833,
-          "title": "Communicating around the waters: Paul Romero reflects on his Navy service",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/11/e116c710-2868-41e6-b673-464692f8e1be/69012a1cbfacc.image.jpg?resize=300%2C200",
-            "length": "368952",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/11/e116c710-2868-41e6-b673-464692f8e1be/69012a1cbfacc.image.jpg?resize=300%2C200"
         }
       ]
     },
