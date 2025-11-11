@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-11T13:26:04.087Z</updated>
+    <updated>2025-11-11T16:17:30.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="https://kqennewsradio.com/2025/11/11/showers-begin-late-wednesday-with-mountain-snow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=showers-begin-late-wednesday-with-mountain-snow"/>
         <updated>2025-11-11T11:43:54.000Z</updated>
         <summary type="html"><![CDATA[November 11, 2025 4:00 a.m.  Southern Oregon will see showers beginning late Wednesday with mountain snow possible. Forecasters at the National Weather Service in Medford said active weather will return with breezy conditions starting late Thursday. Snow levels will drop to as low as 4,000 feet on Thursday, rising to 5,000 feet by Friday afternoon....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CITY OF ROSEBURG OFFICES TO CLOSE FOR VETERANS DAY TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=139940</id>
+        <link href="https://kqennewsradio.com/2025/11/11/city-of-roseburg-offices-to-close-for-veterans-day-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-roseburg-offices-to-close-for-veterans-day-tuesday"/>
+        <updated>2025-11-11T11:29:15.000Z</updated>
+        <summary type="html"><![CDATA[November 11, 2025 3:50 a.m.  City of Roseburg buildings are closed Tuesday, in observance of Veterans Day. A city release said Roseburg City Hall, the Public Safety Center, Roseburg Public Library and other city buildings will not be open to the public. Police and firefighters will continue to provide public safety. Roseburg parks will be...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
