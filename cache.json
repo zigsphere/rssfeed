@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140037",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith has an update on the federal funding for an Oregon State Veterans Home in Roseburg, a look at the transportation package just signed and other topics.",
+          "link": "https://kqennewsradio.com/2025/11/12/inside-douglas-county-11-12-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-12-25",
+          "publishedOn": "2025-11-12T21:08:26.000Z",
+          "wordCount": 1625,
+          "title": "INSIDE DOUGLAS COUNTY 11.12.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251112200520/IDC-11-12-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140033",
           "author": "Kyle Bailey",
           "description": "November 12, 2025 11:00 a.m.   Roseburg Police jailed a woman for depositing trash within 100 yards of a waterway and prohibited camping early Wednesday. An RPD report said at 5:00 a.m. officers contacted the 42-year-old at her camp in Deer Creek Park in the 200 block of Southeast Pine Street. The report said the camp...",
@@ -679,13 +694,34 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9110",
+          "author": "Jim Teece",
+          "description": "Mercy Flights will launch a groundbreaking pilot program thanks to a generous grant of $350,000 fromthe Ashland Community Health Foundation (ACHF). The 12-month initiative will bring emergencymedical care directly into the home of seniors and veterans across Jackson County while reducingunnecessary emergency department visits. Mercy Flights is expanding its community-based care programs, including Alternative Destinations…\nThe post Mercy Flights and Ashland Community Health Foundation Announce $350,000 Grant appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/mercy-flights-and-ashland-community-health-foundation-announce-350000-grant/",
+          "publishedOn": "2025-11-12T20:15:49.000Z",
+          "wordCount": 2912,
+          "title": "Mercy Flights and Ashland Community Health Foundation Announce $350,000 Grant",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/08/4G5A6192-scaled.jpg"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6915102ccbfd6b0001fa78f2",
+          "author": "Joseph Ziegler",
+          "description": "After 238 years, the U.S. Mint has retired the penny. Officials cite rising production costs as retailers and consumers now face rounding challenges and legal questions over exact change. Existing pennies will remain legal tender as the nation adjusts to life without its oldest coin.",
+          "link": "https://www.roseburgscanner.com/farewell-to-the-penny-americas-238-year-old-coin-reaches-its-end/",
+          "publishedOn": "2025-11-12T22:56:55.000Z",
+          "wordCount": 2539,
+          "title": "Farewell to the Penny: America’s 238-Year-Old Coin Reaches Its End",
+          "imageUrl": "https://images.unsplash.com/photo-1586974710160-55f48f417990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fHBlbm5pZXN8ZW58MHx8fHwxNzYyOTc0MzU0fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "691494bdcbfd6b0001fa78ca",
           "author": "Joseph Ziegler",
