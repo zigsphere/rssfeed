@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-11T23:12:18.794Z</updated>
+    <updated>2025-11-12T03:07:28.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 11.11.25]]></title>
+        <id>https://kqennewsradio.com/?p=139983</id>
+        <link href="https://kqennewsradio.com/2025/11/12/true-wealth-11-11-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-11-11-25"/>
+        <updated>2025-11-12T01:08:19.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN AFTER SPORTS CAR HITS BUILDING]]></title>
         <id>https://kqennewsradio.com/?p=139981</id>
@@ -484,16 +494,6 @@
         <summary type="html"><![CDATA[As temperatures drop, staff with United Community Action Network (UCAN) are preparing to operate the Roseburg Warming Center again this winter for the third consecutive year.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 10:00 A.M. SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=139865</id>
-        <link href="https://kqennewsradio.com/2025/11/08/dense-fog-advisory-through-1000-a-m-saturday-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dense-fog-advisory-through-1000-a-m-saturday-2"/>
-        <updated>2025-11-08T13:57:09.000Z</updated>
-        <summary type="html"><![CDATA[November 8, 2025 5:50 a.m.  A Dense Fog Advisory remains in effect for much of southwestern Oregon through 10:00 a.m. Saturday. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less is expected in dense fog. The Advisory area includes central Douglas County, eastern Curry County, Josephine and Jackson...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

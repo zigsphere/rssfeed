@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=139983",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2025/11/12/true-wealth-11-11-25/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-11-25",
+          "publishedOn": "2025-11-12T01:08:19.000Z",
+          "wordCount": 1601,
+          "title": "TRUE WEALTH 11.11.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251112000341/TWR-11-11-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=139981",
           "author": "Kyle Bailey",
           "description": "November 11, 2025 3:00 p.m.  Roseburg Police cited a man for reckless driving after his sportscar hit a building early Monday morning. An RPD report said at 12:45 a.m. officers responded to a structure in the 100 block of Northeast Exchange Avenue after a caller said a vehicle had crashed into it. Officers contacted the...",
@@ -414,16 +429,6 @@
           "wordCount": 1915,
           "title": "LOCAL WINE PIONEER PHILIPPE GIRARDET HAS PASSED AWAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251108181328/Philppe1-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139865",
-          "author": "Kyle Bailey",
-          "description": "November 8, 2025 5:50 a.m.  A Dense Fog Advisory remains in effect for much of southwestern Oregon through 10:00 a.m. Saturday. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less is expected in dense fog. The Advisory area includes central Douglas County, eastern Curry County, Josephine and Jackson...",
-          "link": "https://kqennewsradio.com/2025/11/08/dense-fog-advisory-through-1000-a-m-saturday-2/?utm_source=rss&utm_medium=rss&utm_campaign=dense-fog-advisory-through-1000-a-m-saturday-2",
-          "publishedOn": "2025-11-08T13:57:09.000Z",
-          "wordCount": 1642,
-          "title": "DENSE FOG ADVISORY THROUGH 10:00 A.M. SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251108125656/Fog-3.png"
         }
       ]
     },
