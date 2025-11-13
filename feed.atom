@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-13T19:11:14.262Z</updated>
+    <updated>2025-11-13T23:13:00.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.13.25]]></title>
+        <id>https://kqennewsradio.com/?p=140086</id>
+        <link href="https://kqennewsradio.com/2025/11/13/inside-douglas-county-11-13-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-13-25"/>
+        <updated>2025-11-13T21:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Live from Washington D.C., Congressman Cliff Bentz talks about the end of the federal government shutdown and what lies ahead.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TROOPERS ARREST MAN FOR DUII CONTROLLED SUBSTANCE]]></title>
         <id>https://kqennewsradio.com/?p=140081</id>
@@ -913,16 +923,6 @@ The post Mercy Flights and Ashland Community Health Foundation Announce $350,000
         <link href="https://kqennewsradio.com/2025/11/10/boys-girls-club-hosts-fall-into-wellness-family-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=boys-girls-club-hosts-fall-into-wellness-family-night"/>
         <updated>2025-11-10T11:14:55.000Z</updated>
         <summary type="html"><![CDATA[November 10, 2025 3:05 a.m.  The Boys & Girls Club of the Umpqua Valley is inviting local families to join in an evening of fun, connection, and community wellness at its upcoming Family Night: Fall into Wellness”, the clubs final Family Night of the year. A release said it will take place this Thursday, November...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEVEN FEATHERS HOLDING “LIGHT THE SKY” EVENT TO KICKOFF HOLIDAYS]]></title>
-        <id>https://kqennewsradio.com/?p=139875</id>
-        <link href="https://kqennewsradio.com/2025/11/10/seven-feathers-holding-light-the-sky-event-to-kickoff-holidays/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seven-feathers-holding-light-the-sky-event-to-kickoff-holidays"/>
-        <updated>2025-11-10T11:08:19.000Z</updated>
-        <summary type="html"><![CDATA[November 10, 2025 2:50 a.m.  In the KQEN Business Spotlight: Seven Feathers Casino Resort invites community members to celebrate the start of the holiday season at the Light the Sky Event, on Friday, November 28th from 4:00 p.m. to 5:30 p.m. A Seven Feathers release said the free, family-friendly event will take place at the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
