@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140144",
+          "author": "Kyle Bailey",
+          "description": "November 17, 2025 3:00 p.m.  A Roseburg man died in a three-vehicle crash in Coos County on Thursday. An Oregon State Police report said just before 11:00 a.m. troopers responded to the wreck on Highway 42, near milepost 24 miles in Coos County. That is approximately twenty miles west of the Douglas/Coos county line. The...",
+          "link": "https://kqennewsradio.com/2025/11/14/roseburg-man-dies-in-three-vehicle-crash-on-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-man-dies-in-three-vehicle-crash-on-thursday",
+          "publishedOn": "2025-11-14T23:11:27.000Z",
+          "wordCount": 1719,
+          "title": "ROSEBURG MAN DIES IN THREE-VEHICLE CRASH ON THURSDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=140136",
+          "author": "Kyle Bailey",
+          "description": "Senate Republican Leader Bruce Starr talks about the impacts of the Governor’s Transportation Package and efforts to bring four parts of it to a vote of the people next year.",
+          "link": "https://kqennewsradio.com/2025/11/14/inside-douglas-county-11-14-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-14-25",
+          "publishedOn": "2025-11-14T21:11:54.000Z",
+          "wordCount": 1623,
+          "title": "INSIDE DOUGLAS COUNTY 11.14.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251114203137/IDC-11-14-25-REV.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251114201112/Starr.jpg.jpeg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140132",
           "author": "Kyle Bailey",
           "description": "November 14, 2025 10:45 a.m.  The Roseburg Fire Department will be conducting a live fire training exercise at a building at 859 West Lookingglass Road. It will begin at approximately 8:00 a.m. on Saturday and will continue throughout the day. The exercise will be a joint agency training in conjunction with Central Douglas Fire &...",
@@ -764,26 +789,6 @@
           "wordCount": 1719,
           "title": "ROSEBURG HIGH SCHOOL MARCHING ENSEMBLE ENDS COMPETITIVE SEASON",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251111101803/Copy-of-Last-Champs-11.2.2025-20-of-65-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139928",
-          "author": "Kyle Bailey",
-          "description": "November 11, 2025 3:05 a.m.  On Monday, Oregon Governor Tina Kotek announced that she signed House Bill 3991 into law. A release from the Governor’s office said the legislation will preserve critical maintenance and operations for Oregon’s roads, bridges, and transit agencies. Governor Kotek said, “This bill will help us keep state highways and local...",
-          "link": "https://kqennewsradio.com/2025/11/11/governor-signs-emergency-transportation-package-into-law/?utm_source=rss&utm_medium=rss&utm_campaign=governor-signs-emergency-transportation-package-into-law",
-          "publishedOn": "2025-11-11T11:12:21.000Z",
-          "wordCount": 1640,
-          "title": "GOVERNOR SIGNS EMERGENCY TRANSPORTATION PACKAGE INTO LAW",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=139926",
-          "author": "Kyle Bailey",
-          "description": "November 11, 2025 2:50 a.m.  On Monday, Republican leaders in the Oregon State Legislature released statements after Governor Tina Kotek announced that she signed the Transportation Package, House Bill 3991. Senate GOP Leader Bruce Starr said, “After delaying for more than a month to keep Oregonians from weighing in on this historic tax increase, Governor...",
-          "link": "https://kqennewsradio.com/2025/11/11/republican-leaders-release-statement-on-transportation-package/?utm_source=rss&utm_medium=rss&utm_campaign=republican-leaders-release-statement-on-transportation-package",
-          "publishedOn": "2025-11-11T11:05:25.000Z",
-          "wordCount": 1768,
-          "title": "REPUBLICAN LEADERS RELEASE STATEMENT ON TRANSPORTATION PACKAGE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251014221409/Elmer.jpg.jpeg"
         }
       ]
     },
