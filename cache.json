@@ -717,21 +717,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/bf/2bf646c2-fffd-40fe-a7e4-6084f855aaa3/6914983e26a90.image.jpg?resize=300%2C157"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/09cd3750-1695-4961-bdb9-7b16cfde3261",
-          "author": "NATHAN A. MILLER The News-Review",
-          "description": "The Douglas County Courthouse will be illuminated in green throughout November to honor veterans and their families.",
-          "link": "https://www.nrtoday.com/news/government/douglas-county-courthouse-glows-green-to-honor-veterans/article_09cd3750-1695-4961-bdb9-7b16cfde3261.html",
-          "publishedOn": "2025-11-11T16:00:00.000Z",
-          "wordCount": 12125,
-          "title": "Douglas County Courthouse glows green to honor veterans",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/ed/eed897bb-890d-4c99-b420-4c532576358d/69141302864f8.image.jpg?resize=300%2C200",
-            "length": "247280",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/ed/eed897bb-890d-4c99-b420-4c532576358d/69141302864f8.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -873,7 +858,38 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/35f05541-f362-4251-b281-fb154fc95271",
+          "author": "Ryan Bonham",
+          "description": "A fatal multivehicle crash claimed the life of a Roseburg man and seriously injured his passenger on Thursday morning on Highway 42 in Coos County, according to the Oregon State Police.",
+          "link": "https://www.kezi.com/news/local/highway-42-crash-in-coos-county-leaves-one-dead-one-injured/article_35f05541-f362-4251-b281-fb154fc95271.html",
+          "publishedOn": "2025-11-15T00:49:00.000Z",
+          "wordCount": 8148,
+          "title": "Highway 42 crash in Coos County leaves one dead, one injured",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/91/c91f4f66-8dc7-11ec-a7cd-171427961bd3/620aa60f4907d.image.jpg?resize=300%2C169",
+            "length": "43418",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/91/c91f4f66-8dc7-11ec-a7cd-171427961bd3/620aa60f4907d.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/eb156c5b-a8d6-4a91-86d6-6023fc460122",
+          "author": "News Staff",
+          "description": "The Roseburg Fire Department will conduct a live fire training exercise on Saturday, Nov. 15, at 859 West Lookingglass Road.",
+          "link": "https://www.kezi.com/news/local/roseburg-firefighters-prep-for-emergencies-with-live-exercise/article_eb156c5b-a8d6-4a91-86d6-6023fc460122.html",
+          "publishedOn": "2025-11-14T20:56:00.000Z",
+          "wordCount": 8034,
+          "title": "Roseburg firefighters prep for emergencies with live exercise",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/d0/8d0f5e5d-f5fb-4b70-afc9-02cf562cd1ab/691798843e511.image.jpg?resize=300%2C162",
+            "length": "267258",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/d0/8d0f5e5d-f5fb-4b70-afc9-02cf562cd1ab/691798843e511.image.jpg?resize=300%2C162"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
