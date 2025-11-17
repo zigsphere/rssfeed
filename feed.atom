@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-17T13:27:35.184Z</updated>
+    <updated>2025-11-17T16:18:53.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[November 17, 2025]]></title>
+        <id>691aa41ecbfd6b0001fa7c35</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-17-2025/"/>
+        <updated>2025-11-17T14:38:39.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG CITY COUNCIL WITH WORK STUDY SESSION MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=140166</id>
@@ -387,16 +397,6 @@ The post End of an Era: Rogue Ales Abruptly Closes All Operations, Citing Financ
         <summary type="html"><![CDATA[November 14, 2025 2:50 a.m.  The Oregon State University Extension Service and the United Community Action Network are partnering to provide a class on creating unique, wearable floral arrangements while fighting hunger. The Flowers for Cause Workshop will take place at the OSU Extension Office on Saturday, December 6th, from 11:00 a.m. to 1:00 p.m....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Valley Tennis Center Nears Completion of Outdoor Court Renovation]]></title>
-        <id>69168baccbfd6b0001fa7a6e</id>
-        <link href="https://www.roseburgscanner.com/umpqua-valley-tennis-center-nears-completion-of-outdoor-court-renovation/"/>
-        <updated>2025-11-14T03:25:35.000Z</updated>
-        <summary type="html"><![CDATA[The Umpqua Valley Tennis Center is entering the final phase of its outdoor renovation, with the upgraded courts taking shape and reopening expected in December. Staff say the project is coming together quickly and they’re excited to welcome the community back soon.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

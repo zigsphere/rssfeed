@@ -398,6 +398,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "691aa41ecbfd6b0001fa7c35",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-17-2025/",
+          "publishedOn": "2025-11-17T14:38:39.000Z",
+          "wordCount": 3727,
+          "title": "November 17, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-9.png"
+        },
+        {
           "id": "691a7c04cbfd6b0001fa7c14",
           "author": "Joseph Ziegler",
           "description": "Online records show Tractor Supply purchased the former Big Lots lease on NE Stephens in Roseburg as part of an 18-store deal nationwide. Construction listings now reference a Roseburg renovation, but the company has not yet announced an opening date.",
@@ -426,16 +436,6 @@
           "wordCount": 3744,
           "title": "November 14, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-8.png"
-        },
-        {
-          "id": "69168baccbfd6b0001fa7a6e",
-          "author": "Joseph Ziegler",
-          "description": "The Umpqua Valley Tennis Center is entering the final phase of its outdoor renovation, with the upgraded courts taking shape and reopening expected in December. Staff say the project is coming together quickly and they’re excited to welcome the community back soon.",
-          "link": "https://www.roseburgscanner.com/umpqua-valley-tennis-center-nears-completion-of-outdoor-court-renovation/",
-          "publishedOn": "2025-11-14T03:25:35.000Z",
-          "wordCount": 1906,
-          "title": "Umpqua Valley Tennis Center Nears Completion of Outdoor Court Renovation",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/tennis2.jpg"
         }
       ]
     },
