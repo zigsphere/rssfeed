@@ -582,6 +582,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "691dd487cbfd6b0001fa7f85",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-19-2025/",
+          "publishedOn": "2025-11-19T14:41:49.000Z",
+          "wordCount": 4057,
+          "title": "November 19, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-11.png"
+        },
+        {
           "id": "691d522acbfd6b0001fa7f72",
           "author": "Joseph Ziegler",
           "description": "A late-night chase through Gaddis Park ended with the arrest of 49-year-old Joshua Frazier after police say he fled on a dirt bike and later crashed near the I-5 walking bridge. Officers found meth in his possession and confirmed he had an outstanding warrant.",
@@ -648,6 +658,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/0cd8d31a-4c60-4ef0-bafe-0ffc0b8b5447",
+          "author": "News Staff",
+          "description": "Roseburg Public Library is seeking community input for its updated strategic plan.",
+          "link": "https://www.kezi.com/news/local/roseburg-library-seeks-community-input-for-future-planning/article_0cd8d31a-4c60-4ef0-bafe-0ffc0b8b5447.html",
+          "publishedOn": "2025-11-18T23:44:00.000Z",
+          "wordCount": 8021,
+          "title": "Roseburg library seeks community input for future planning",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225",
+            "length": "545684",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/83dc6888-2be9-4873-a6cc-77fd78168926",
           "author": "News Staff",
