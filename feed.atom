@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-19T19:11:12.981Z</updated>
+    <updated>2025-11-19T23:13:09.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.19.25]]></title>
+        <id>https://kqennewsradio.com/?p=140308</id>
+        <link href="https://kqennewsradio.com/2025/11/19/inside-douglas-county-11-19-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-19-25"/>
+        <updated>2025-11-19T21:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Congress in the Fourth District Monique DeSpain has an update on her campaign.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE DEAL WITH TWO-VEHICLE CRASH TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=140303</id>
