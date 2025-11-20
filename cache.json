@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140329",
+          "author": "Kyle Bailey",
+          "description": "November 20, 2025 6:00 a.m.  Late Wednesday, Governor Tina Kotek issued a statement in response to the 9th Circuit Court ruling to temporarily stay the district court’s November 7th permanent injunction. Adjutant General Alan R. Gronewold provided a status update on the remaining 100 Oregon National Guard troops. He said, “The Oregon Military Department received...",
+          "link": "https://kqennewsradio.com/2025/11/20/governor-kotek-adjutant-general-update-status-of-national-guard/?utm_source=rss&utm_medium=rss&utm_campaign=governor-kotek-adjutant-general-update-status-of-national-guard",
+          "publishedOn": "2025-11-20T14:04:26.000Z",
+          "wordCount": 1716,
+          "title": "GOVERNOR KOTEK, ADJUTANT GENERAL UPDATE STATUS OF NATIONAL GUARD",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202210/GTK_Headshot-scaled-e1676547460934.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=140327",
+          "author": "Kyle Bailey",
+          "description": "November 20, 2025 5:50 a.m.  A Riddle man was jailed for a restraining order violation on Tuesday night. A Douglas County Sheriff’s Office report said just before 7:30 p.m. a deputy received a report that the 38-year-old was on property he is restrained from being on in the 3000 block of Canyonville-Riddle Road in south...",
+          "link": "https://kqennewsradio.com/2025/11/20/riddle-man-jailed-for-restraining-order-violation-tuesday-night/?utm_source=rss&utm_medium=rss&utm_campaign=riddle-man-jailed-for-restraining-order-violation-tuesday-night",
+          "publishedOn": "2025-11-20T13:48:43.000Z",
+          "wordCount": 1662,
+          "title": "RIDDLE MAN JAILED FOR RESTRAINING ORDER VIOLATION TUESDAY NIGHT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140324",
           "author": "Kyle Bailey",
           "description": "November 20, 2025 3:40 a.m. A Roseburg man has been charged with attempted murder. A release from the Douglas County Sheriff’s Office issued Wednesday, said on Sunday, November 9th, deputies responded to the 1300 block of Gazley Road in Myrtle Creek after a caller said there had been an assault. The victim of the assault...",
@@ -634,6 +654,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d43c219c-f55d-4654-b9e8-da181b511150",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "RIDDLE — On Sept. 22, the Riddle School District broke tragic news for the community that superintendent Dave Gianotti died after 21 years of service in the position. Months after the loss, the district is starting to pass the torch…",
+          "link": "https://www.nrtoday.com/news/riddle-school-district-board-of-directors-appoint-interim-superintendent/article_d43c219c-f55d-4654-b9e8-da181b511150.html",
+          "publishedOn": "2025-11-20T16:00:00.000Z",
+          "wordCount": 12514,
+          "title": "Riddle School District Board of Directors appoint interim superintendent",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1c/f1c0f320-1d10-4a91-b831-44d63359f4c5/691ea32b272dc.image.jpg?resize=300%2C200",
+            "length": "256573",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/1c/f1c0f320-1d10-4a91-b831-44d63359f4c5/691ea32b272dc.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/37f856d5-568a-4527-b3aa-25ac108796c1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Almost Family Intellectual and Developmental Disabilities Director Crystal McOwen met with steady stream of people throughout the South County Rendezvous as they came up to play with the magnetic rocks, fidget spinners and other sensory toys at…",
+          "link": "https://www.nrtoday.com/news/health/south-county-rendezvous-brings-resources-beyond-roseburg/article_37f856d5-568a-4527-b3aa-25ac108796c1.html",
+          "publishedOn": "2025-11-20T14:30:00.000Z",
+          "wordCount": 14096,
+          "title": "South County Rendezvous brings resources beyond Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/da/bda331a4-b33d-4dcb-b560-a69a5dda8c62/691ec4121ce3d.image.jpg?resize=300%2C200",
+            "length": "315455",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/da/bda331a4-b33d-4dcb-b560-a69a5dda8c62/691ec4121ce3d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/95fcd3b7-3758-4f38-9cc6-8ebde0510a04",
           "author": "Erica Reynolds The News-Review",
           "description": "It’s the ending of an age for the YMCA of Douglas County. After 57 years, Peggy Konzack has retired from teaching swim lessons.",
@@ -792,6 +842,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "691f2560cbfd6b0001fa80fc",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-20-2025/",
+          "publishedOn": "2025-11-20T14:38:16.000Z",
+          "wordCount": 3766,
+          "title": "November 20, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-12.png"
+        },
+        {
           "id": "691e5d7bcbfd6b0001fa80e3",
           "author": "Joseph Ziegler",
           "description": "A 21-year-old Roseburg man is facing attempted murder charges after detectives say he broke into a Myrtle Creek home and assaulted 73-year-old Stephen Balliew. The victim’s injuries did not match a reported fall, prompting a full investigation.",
@@ -860,16 +920,6 @@
           "wordCount": 3727,
           "title": "November 17, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-9.png"
-        },
-        {
-          "id": "691a7c04cbfd6b0001fa7c14",
-          "author": "Joseph Ziegler",
-          "description": "Online records show Tractor Supply purchased the former Big Lots lease on NE Stephens in Roseburg as part of an 18-store deal nationwide. Construction listings now reference a Roseburg renovation, but the company has not yet announced an opening date.",
-          "link": "https://www.roseburgscanner.com/lease-purchase-and-project-listings-hint-at-tractor-supply-plans-in-roseburg/",
-          "publishedOn": "2025-11-17T01:38:52.000Z",
-          "wordCount": 2044,
-          "title": "Lease Purchase and Project Listings Hint at Tractor Supply Plans in Roseburg",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/opening_soon.jpg"
         }
       ]
     },
