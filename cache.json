@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140356",
+          "author": "Kyle Bailey",
+          "description": "Umpqua Community College Small Business Development Center Director Aaron Larsen talks about small business in the county and how the SBDC can help those seeking help with starting or operating their small business.",
+          "link": "https://kqennewsradio.com/2025/11/20/inside-douglas-county-11-20-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-20-25",
+          "publishedOn": "2025-11-20T21:20:06.000Z",
+          "wordCount": 1629,
+          "title": "INSIDE DOUGLAS COUNTY 11.20.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251120201426/IDC-11-20-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251120201951/Aaron.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140354",
           "author": "Kyle Bailey",
           "description": "November 20, 2025 11:00 a.m.   Troopers with Oregon State Police responded to a four-vehicle crash on Interstate 5 on Wednesday night. An OSP report said shortly after 6:00 p.m. the driver of a sedan was headed northbound near milepost 131, approximately two miles north of Winchester. The vehicle was unable to stop in time as...",
@@ -53,6 +68,16 @@
           "publishedOn": "2025-11-20T17:59:44.000Z",
           "wordCount": 1607,
           "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED TRESPASS INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=140344",
+          "author": "Kyle Bailey",
+          "description": "November 20, 2025 9:40 a.m.  Roseburg Police jailed a man following a reported disturbance in the downtown area on Wednesday. An RPD report said just after 2:15 p.m. officers took the 55-year-old into custody after he allegedly kicked a victim in the ribs at Eagles Park in the 700 block of Southeast Jackson Street. The...",
+          "link": "https://kqennewsradio.com/2025/11/20/roseburg-police-jail-man-following-reported-downtown-disturbance/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-following-reported-downtown-disturbance",
+          "publishedOn": "2025-11-20T17:52:23.000Z",
+          "wordCount": 1616,
+          "title": "ROSEBURG POLICE JAIL MAN FOLLOWING REPORTED DOWNTOWN DISTURBANCE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
         },
         {
@@ -724,16 +749,6 @@
           "wordCount": 1638,
           "title": "UCC GROUPS PRESENT: “BIG NOISE FROM THE UMPQUA”",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251117101717/Big-Noise.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140156",
-          "author": "Kyle Bailey",
-          "description": "November 17, 2025 2:50 a.m. The Oregon State University Extension Service and the Umpqua Soil & Water Conservation District are offering a fruit tree pruning workshop on Saturday January 17th. It will take place at the Elkton Community Education Center on Highway 38 in Elkton. Attendees will learn the art and science of winter pruning...",
-          "link": "https://kqennewsradio.com/2025/11/17/extension-service-soil-and-water-conservation-district-with-pruning-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=extension-service-soil-and-water-conservation-district-with-pruning-workshop",
-          "publishedOn": "2025-11-17T11:10:30.000Z",
-          "wordCount": 1667,
-          "title": "EXTENSION SERVICE/SOIL AND WATER CONSERVATION DISTRICT WITH PRUNING WORKSHOP",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251117100947/ECECPrune.jpg"
         }
       ]
     },
