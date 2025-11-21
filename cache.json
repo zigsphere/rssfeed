@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140418",
+          "author": "Kyle Bailey",
+          "description": "A two-part program with Mariah Smith talking about “Pancakes, Pins and Pajamas” on December 2nd, and Troy Pennington talking about both Umpqua Actors Community Theatre and Roseburg High School theater productions.l",
+          "link": "https://kqennewsradio.com/2025/11/21/inside-douglas-county-11-21-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-21-25",
+          "publishedOn": "2025-11-21T21:09:39.000Z",
+          "wordCount": 1620,
+          "title": "INSIDE DOUGLAS COUNTY 11.21.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251121200433/IDC-11-21-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251104100826/UACT-6-scaled-e1762254527848.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140416",
           "author": "Kyle Bailey",
           "description": "November 21, 2025 10:50 a.m.  Roseburg Police jailed two people due to a littering incident on Thursday. An RPD report said at 6:20 a.m. officers contacted Jessica Gater and Michael Valdez, both age 38, because they were camping in a restricted area and in a restricted manner, near the intersection of Northwest Stewart Parkway and...",
@@ -749,31 +764,6 @@
           "wordCount": 1739,
           "title": "TICKETS SELLING FAST FOR “HAVE YOURSELF A MERRY LITTLE CHRISTMAS”",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251104100826/UACT-6-scaled-e1762254527848.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140203",
-          "author": "Kyle Bailey",
-          "description": "November 18, 2025 2:50 a.m.    The Salvation Army of Roseburg has extended the application period to apply for their Angel Tree program, which provides toys for kids of families in need. Captain Edith Dye-Mabie said gifts are for children up to age 17. Applications may be filled out on weekdays from 9:00 a.m. to...",
-          "link": "https://kqennewsradio.com/2025/11/18/salvation-army-extends-christmas-application-periods/?utm_source=rss&utm_medium=rss&utm_campaign=salvation-army-extends-christmas-application-periods",
-          "publishedOn": "2025-11-18T11:08:16.000Z",
-          "wordCount": 1651,
-          "title": "SALVATION ARMY EXTENDS CHRISTMAS APPLICATION PERIODS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222531/logo-salvationarmy-e1601896030680.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140199",
-          "author": "Kyle Bailey",
-          "description": "Oregon State University Extension Agent Logan Bennett talks about fall and winter classes and events. He also talked about what is happening this time of year when it comes to agriculture in Douglas County.",
-          "link": "https://kqennewsradio.com/2025/11/18/inside-douglas-county-11-17-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-17-25",
-          "publishedOn": "2025-11-18T11:04:25.000Z",
-          "wordCount": 1633,
-          "title": "INSIDE DOUGLAS COUNTY 11.17.25",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251117203131/IDC-12-17-25.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251118100335/newlogan-1.jpg"
         }
       ]
     },
@@ -1063,6 +1053,36 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/7380de18-3f2b-43b4-864d-79a42be0abc4",
+          "author": "News Staff",
+          "description": "Authorities in Douglas County are seeking help from the public to find a woman who went missing from Roseburg on Thursday, according to the Douglas County Sheriff's Office.",
+          "link": "https://www.kezi.com/news/local/urgent-search-for-missing-roseburg-woman-with-mental-health-issues/article_7380de18-3f2b-43b4-864d-79a42be0abc4.html",
+          "publishedOn": "2025-11-21T19:49:00.000Z",
+          "wordCount": 8026,
+          "title": "Urgent search for missing Roseburg woman with mental health issues",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/b1/1b17408e-9138-4c88-b6e2-7bc8d6e29f5e/6920c5107c415.image.jpg?resize=300%2C162",
+            "length": "238997",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/b1/1b17408e-9138-4c88-b6e2-7bc8d6e29f5e/6920c5107c415.image.jpg?resize=300%2C162"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/135b648e-6944-4a7b-baf8-5c13508458b3",
+          "author": "rbonham@kezi.com (Ryan Bonham)",
+          "description": "A 21-year-old Roseburg man was arrested last Friday in connection with the attempted murder of a Myrtle Creek man in the victim’s home, according to the Douglas County Sheriff’s Office.",
+          "link": "https://www.kezi.com/news/local/roseburg-man-arrested-in-myrtle-creek-attempted-murder-case/article_135b648e-6944-4a7b-baf8-5c13508458b3.html",
+          "publishedOn": "2025-11-19T20:23:00.000Z",
+          "wordCount": 8070,
+          "title": "Roseburg man arrested in Myrtle Creek attempted murder case",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/0cd8d31a-4c60-4ef0-bafe-0ffc0b8b5447",
           "author": "News Staff",

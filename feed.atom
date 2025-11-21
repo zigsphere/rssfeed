@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-21T19:11:20.935Z</updated>
+    <updated>2025-11-21T23:12:26.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.21.25]]></title>
+        <id>https://kqennewsradio.com/?p=140418</id>
+        <link href="https://kqennewsradio.com/2025/11/21/inside-douglas-county-11-21-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-21-25"/>
+        <updated>2025-11-21T21:09:39.000Z</updated>
+        <summary type="html"><![CDATA[A two-part program with Mariah Smith talking about “Pancakes, Pins and Pajamas” on December 2nd, and Troy Pennington talking about both Umpqua Actors Community Theatre and Roseburg High School theater productions.l]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urgent search for missing Roseburg woman with mental health issues]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/7380de18-3f2b-43b4-864d-79a42be0abc4</id>
+        <link href="https://www.kezi.com/news/local/urgent-search-for-missing-roseburg-woman-with-mental-health-issues/article_7380de18-3f2b-43b4-864d-79a42be0abc4.html"/>
+        <updated>2025-11-21T19:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Authorities in Douglas County are seeking help from the public to find a woman who went missing from Roseburg on Thursday, according to the Douglas County Sheriff's Office.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL TWO PEOPLE DUE TO LITTERING INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=140416</id>
@@ -477,6 +497,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roseburg man arrested in Myrtle Creek attempted murder case]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/135b648e-6944-4a7b-baf8-5c13508458b3</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-arrested-in-myrtle-creek-attempted-murder-case/article_135b648e-6944-4a7b-baf8-5c13508458b3.html"/>
+        <updated>2025-11-19T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A 21-year-old Roseburg man was arrested last Friday in connection with the attempted murder of a Myrtle Creek man in the victim’s home, according to the Douglas County Sheriff’s Office.]]></summary>
+        <author>
+            <name>rbonham@kezi.com (Ryan Bonham)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE DEAL WITH TWO-VEHICLE CRASH TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=140303</id>
         <link href="https://kqennewsradio.com/2025/11/19/sutherlin-police-deal-with-two-vehicle-crash-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-police-deal-with-two-vehicle-crash-tuesday"/>
@@ -922,26 +952,6 @@
         <link href="https://kqennewsradio.com/2025/11/18/tickets-selling-fast-for-have-yourself-a-merry-little-christmas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tickets-selling-fast-for-have-yourself-a-merry-little-christmas"/>
         <updated>2025-11-18T11:19:05.000Z</updated>
         <summary type="html"><![CDATA[November 18, 2025 3:05 a.m.  In the KQEN Cultural Spotlight: Tickets are selling fast for the Umpqua Actors Community Theater’s production of, “Have Yourself a Merry Little Christmas”. A synopsis said everyone has seen those Christmas movies where everything seems to go wrong. When relatives come from near and far, getting together for a holiday...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SALVATION ARMY EXTENDS CHRISTMAS APPLICATION PERIODS]]></title>
-        <id>https://kqennewsradio.com/?p=140203</id>
-        <link href="https://kqennewsradio.com/2025/11/18/salvation-army-extends-christmas-application-periods/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=salvation-army-extends-christmas-application-periods"/>
-        <updated>2025-11-18T11:08:16.000Z</updated>
-        <summary type="html"><![CDATA[November 18, 2025 2:50 a.m.    The Salvation Army of Roseburg has extended the application period to apply for their Angel Tree program, which provides toys for kids of families in need. Captain Edith Dye-Mabie said gifts are for children up to age 17. Applications may be filled out on weekdays from 9:00 a.m. to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 11.17.25]]></title>
-        <id>https://kqennewsradio.com/?p=140199</id>
-        <link href="https://kqennewsradio.com/2025/11/18/inside-douglas-county-11-17-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-11-17-25"/>
-        <updated>2025-11-18T11:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Oregon State University Extension Agent Logan Bennett talks about fall and winter classes and events. He also talked about what is happening this time of year when it comes to agriculture in Douglas County.]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
