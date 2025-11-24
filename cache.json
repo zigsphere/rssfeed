@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140469",
+          "author": "Kyle Bailey",
+          "description": "A two segment program with Ali Shaver of Wildlife Safari talking about holiday events, and Roseburg Dream Center Co-Director Jeremy Grammon talking about the increased need for help they are seeing in the community and how residents can help.",
+          "link": "https://kqennewsradio.com/2025/11/24/inside-douglas-county-11-24-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-24-25",
+          "publishedOn": "2025-11-24T21:23:46.000Z",
+          "wordCount": 1632,
+          "title": "INSIDE DOUGLAS COUNTY 11.24.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251124202025/IDC-11-24-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251124202321/SafariAli.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140467",
           "author": "Kyle Bailey",
           "description": "November24, 2025 11:05 a.m.  A Washington State man was jailed on the charge of 4th degree felony assault on Sunday morning. A Douglas County Sheriff’s Office report said just before 9:00 a.m. a victim reported that a family man had assaulted him the previous evening at South Umpqua Falls campground in the Tiller area. The...",
@@ -354,26 +369,6 @@
           "wordCount": 1640,
           "title": "CONCERT CHORALE/CHAMBER ORCHESTRA PRESENT “MESSIAH”",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251029092443/Messiah.jpg-e1763723644397.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140368",
-          "author": "Kyle Bailey",
-          "description": "November 21, 2025 3:05 a.m.  Wildlife Safari is kicking off the holiday season with two festive events designed to bring families together for unforgettable winter memories. The WildLights display returns brighter than ever. It will take place Fridays through Sundays from December 5th through December 21st from 4:00 pm. to 7:00 p.m. The Safari Village...",
-          "link": "https://kqennewsradio.com/2025/11/21/wildlife-safari-kicks-off-holiday-season-with-two-festive-events/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-kicks-off-holiday-season-with-two-festive-events",
-          "publishedOn": "2025-11-21T11:10:15.000Z",
-          "wordCount": 1758,
-          "title": "WILDLIFE SAFARI KICKS OFF HOLIDAY SEASON WITH TWO FESTIVE EVENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251121100958/Safari1-3.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140363",
-          "author": "Kyle Bailey",
-          "description": "November 21, 2025 2:50 a.m.  Giving Machines are returning to Valley River Center in Eugene beginning Monday. A release said they offer the community an innovative, hands-on way to support local nonprofits. Last year they raised more than $60,000 in donations. This year’s launch begins with a special opening ceremony from 9:00 a.m. to 10:00...",
-          "link": "https://kqennewsradio.com/2025/11/21/giving-machines-return-to-valley-river-center/?utm_source=rss&utm_medium=rss&utm_campaign=giving-machines-return-to-valley-river-center",
-          "publishedOn": "2025-11-21T11:05:18.000Z",
-          "wordCount": 1702,
-          "title": "GIVING MACHINES RETURN TO VALLEY RIVER CENTER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251121100437/Giving1.jpg"
         }
       ]
     },
