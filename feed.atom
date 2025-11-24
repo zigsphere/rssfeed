@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-24T13:28:44.610Z</updated>
+    <updated>2025-11-24T16:15:37.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winston-Dillard, Riddle, other school districts take a look at attendance, on track rates]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b7231e71-7678-4914-b0f0-624a956c110c</id>
+        <link href="https://www.nrtoday.com/news/education/winston-dillard-riddle-other-school-districts-take-a-look-at-attendance-on-track-rates/article_b7231e71-7678-4914-b0f0-624a956c110c.html"/>
+        <updated>2025-11-24T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Lookingglass Elementary School Principal Emily Ledbetter said the school and Winston-Dillard School District as a whole implemented a new attendance progress three years ago, with a big focus on family partnerships.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 24, 2025]]></title>
+        <id>6923e844cbfd6b0001fa8456</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-24-2025/"/>
+        <updated>2025-11-24T14:45:44.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Umpqua High School serves Thanksgiving lunch]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/08feed2d-8e23-4379-96d3-b8721b82fda3</id>
+        <link href="https://www.nrtoday.com/news/education/south-umpqua-high-school-serves-thanksgiving-lunch/article_08feed2d-8e23-4379-96d3-b8721b82fda3.html"/>
+        <updated>2025-11-24T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[TRI CITY — South Umpqua High School held Thanksgiving lunch Friday, inviting over 450 students, staff and administration to partake in the traditionally festive foods.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHERIFF’S OFFICE STILL SEEKING HELP IN LOCATING MISSING WOMAN]]></title>
         <id>https://kqennewsradio.com/?p=140440</id>
@@ -32,6 +62,16 @@
         <link href="https://kqennewsradio.com/2025/11/24/downtown-roseburg-is-getting-decked-out-for-the-holidays/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=downtown-roseburg-is-getting-decked-out-for-the-holidays"/>
         <updated>2025-11-24T11:28:36.000Z</updated>
         <summary type="html"><![CDATA[November 24, 2025 3:30 a.m.  Downtown Roseburg is getting decked out for the holidays. A city release said last week their facilities maintenance team installed a Christmas wreath and colored string lights around the top of Roseburg City Hall and the Public Safety Center. Strands of white lights now illuminate the front window of city...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CITY OF MYRTLE CREEK LISTS PUBLIC MEETINGS]]></title>
+        <id>https://kqennewsradio.com/?p=140428</id>
+        <link href="https://kqennewsradio.com/2025/11/24/city-of-myrtle-creek-lists-public-meetings/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-myrtle-creek-lists-public-meetings"/>
+        <updated>2025-11-24T11:15:17.000Z</updated>
+        <summary type="html"><![CDATA[November 24, 2025 3:20 a.m.   The City of Myrtle Creek has listed its public meetings for the month of December: *The City Council will meet on Tuesday, December 2nd at 5:30 p.m. with the Urban Renewal Agency meeting to follow *The Park Commission will gather on Tuesday, December 9th at 5:30 p.m. *The City Council...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
@@ -384,16 +424,6 @@
         <summary type="html"><![CDATA[November 21, 2025 2:50 a.m.  Giving Machines are returning to Valley River Center in Eugene beginning Monday. A release said they offer the community an innovative, hands-on way to support local nonprofits. Last year they raised more than $60,000 in donations. This year’s launch begins with a special opening ceremony from 9:00 a.m. to 10:00...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBRC Raceway Brings High-Energy RC Racing to Roseburg]]></title>
-        <id>691fe411cbfd6b0001fa825b</id>
-        <link href="https://www.roseburgscanner.com/ebrc-raceway-brings-high-energy-rc-racing-to-roseburg/"/>
-        <updated>2025-11-21T04:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg’s new EBRC Raceway has opened on Diamond Lake Blvd, offering a two-level indoor RC racing facility with a 1/10th-scale off-road track, pit area, and pro shop. Partnering with The Roseburg Plug, the track aims to build community and bring year-round fun to local RC enthusiasts.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
