@@ -279,6 +279,61 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0a63f09a-04ba-4bac-b211-4dd3c056c8ae",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For 31 years, attendees of the Festival of Lights, one of the largest Christmas light attractions in Oregon, had to enjoy the displays from inside their cars. Now, an annual event gives them a new way to experience the displays:…",
+          "link": "https://www.nrtoday.com/news/bike-the-lights-returns-for-second-year-of-festival-of-lights-family-fun/article_0a63f09a-04ba-4bac-b211-4dd3c056c8ae.html",
+          "publishedOn": "2025-11-25T16:00:00.000Z",
+          "wordCount": 12814,
+          "title": "Bike the Lights returns for second year of Festival of Lights family fun",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/01/50184cd6-0084-45a6-9861-90485a80dc05/692524530bf18.image.jpg?resize=300%2C221",
+            "length": "530981",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/01/50184cd6-0084-45a6-9861-90485a80dc05/692524530bf18.image.jpg?resize=300%2C221"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fea228a3-b359-431c-a6ab-305c803a6cf7",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Ever since he was a teen, Kevin Figueroa has been fascinated by the weather.",
+          "link": "https://www.nrtoday.com/news/education/water-from-thin-air-geneva-academy-receives-selco-grant-to-study-fog-harvesting/article_fea228a3-b359-431c-a6ab-305c803a6cf7.html",
+          "publishedOn": "2025-11-25T14:30:00.000Z",
+          "wordCount": 13043,
+          "title": "Water from thin air: Geneva Academy receives SELCO grant to study fog harvesting",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/2f/c2f6f8e4-000b-4965-964e-3e2ac34c422c/635824a80d842.image.jpg?resize=300%2C200",
+            "length": "454902",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/2f/c2f6f8e4-000b-4965-964e-3e2ac34c422c/635824a80d842.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e0a38a5d-86fb-40d0-8d6b-719e0df3176c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Jennie Gohman said vending at the Roseburg Senior Center Holiday Fair on Saturday was only her second time selling her products in such a way.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-senior-center-brings-in-crafts-holiday-gift-ideas-in-holiday-fair/article_e0a38a5d-86fb-40d0-8d6b-719e0df3176c.html",
+          "publishedOn": "2025-11-25T14:00:00.000Z",
+          "wordCount": 13571,
+          "title": "Roseburg Senior Center brings in crafts, holiday gift ideas in Holiday Fair",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c1/fc136e0f-fc22-4064-8761-9b42a840853a/69226c874fd73.image.jpg?resize=300%2C200",
+            "length": "508164",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c1/fc136e0f-fc22-4064-8761-9b42a840853a/69226c874fd73.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/10693bb5-1561-4757-9daf-4c7d136023f0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — Geneva Academy will host the Christmas Soiree at 6 p.m. Dec. 16 at Garden Valley Church, 3047 Garden Valley Road in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/geneva-academy-hosts-christmas-soiree-on-dec-16/article_10693bb5-1561-4757-9daf-4c7d136023f0.html",
+          "publishedOn": "2025-11-24T22:15:00.000Z",
+          "wordCount": 12074,
+          "title": "Geneva Academy hosts Christmas Soiree on Dec. 16",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b7231e71-7678-4914-b0f0-624a956c110c",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "Lookingglass Elementary School Principal Emily Ledbetter said the school and Winston-Dillard School District as a whole implemented a new attendance progress three years ago, with a big focus on family partnerships.",
@@ -302,106 +357,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/6b/c6b7b65f-1776-443b-9686-2a16e22fe810/69226a483d1d1.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bd7bc21a-4ecd-4035-b223-12d583560467",
-          "author": "Mandy Hatfield For The News-Review",
-          "description": "Sweet potatoes are quite possibly my favorite food. They can be made in so many ways, savory or sweet, and they are good for you.",
-          "link": "https://www.nrtoday.com/life/food/year-round-nutrition-with-sweet-potatoes/article_bd7bc21a-4ecd-4035-b223-12d583560467.html",
-          "publishedOn": "2025-11-21T17:47:00.000Z",
-          "wordCount": 13165,
-          "title": "Year-round nutrition with sweet potatoes",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/bd/dbddaec9-9123-409a-9a96-a289c586a873/691b81895f6e5.image.png?resize=300%2C199",
-            "length": "4025260",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/bd/dbddaec9-9123-409a-9a96-a289c586a873/691b81895f6e5.image.png?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/55b826b2-0c9c-4f69-a35b-f3304724f1e8",
-          "author": "Kris Wiley For The News-Review",
-          "description": "Roseburg Public Library has a lot going for it in addition to books.",
-          "link": "https://www.nrtoday.com/a_and_e/beyond-the-books-at-roseburg-library/article_55b826b2-0c9c-4f69-a35b-f3304724f1e8.html",
-          "publishedOn": "2025-11-21T17:30:00.000Z",
-          "wordCount": 12481,
-          "title": "Beyond the books at Roseburg Library",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
-            "length": "188004",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f08d1d0c-a17f-4613-a1b2-922e8cf2f532",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Before Barbara Clithero drove away from The Umpqua Valley Food Rally and volunteers sorted through her donated bag of food, she said it was for one reason: Her duty to her community.",
-          "link": "https://www.nrtoday.com/news/the-fish-of-roseburg-food-pantry-holds-first-the-umpqua-valley-food-rally-in-roseburg/article_f08d1d0c-a17f-4613-a1b2-922e8cf2f532.html",
-          "publishedOn": "2025-11-21T16:00:00.000Z",
-          "wordCount": 12889,
-          "title": "The FISH of Roseburg Food Pantry holds first The Umpqua Valley Food Rally in Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8f/b8fcebd0-6744-4689-870d-ea151da9200a/691f947e04295.image.jpg?resize=300%2C200",
-            "length": "272024",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/8f/b8fcebd0-6744-4689-870d-ea151da9200a/691f947e04295.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d02eb233-3a19-4198-8528-cac7498ac117",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Wednesday's Douglas County Board of Commissioners meeting was focused on wellness and recovery, specifically for those who provide health care and specialty court services and those who receive them.",
-          "link": "https://www.nrtoday.com/news/douglas-county-commissioners-issue-rural-health-proclamation-approve-court-grants/article_d02eb233-3a19-4198-8528-cac7498ac117.html",
-          "publishedOn": "2025-11-21T15:00:00.000Z",
-          "wordCount": 12694,
-          "title": "Douglas County Commissioners issue rural health proclamation, approve court grants",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/11/91123b78-5f19-4804-b4bb-ca4f660271f2/691e2ce2618a7.image.jpg?resize=300%2C200",
-            "length": "410953",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/11/91123b78-5f19-4804-b4bb-ca4f660271f2/691e2ce2618a7.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/56f48416-d30f-4762-b948-5ec775d3399a",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Cindy Houston said she served in the U.S Air Force from 1995 to 2009, serving a short stint in active duty before switching over to the reserves. Most of her time she said was spent with the 304th Rescue Squadron…",
-          "link": "https://www.nrtoday.com/life/primary-sources-roseburg-high-school-hosts-veterans-in-salute-to-service/article_56f48416-d30f-4762-b948-5ec775d3399a.html",
-          "publishedOn": "2025-11-21T15:00:00.000Z",
-          "wordCount": 15268,
-          "title": "Primary sources: Roseburg High School hosts veterans in Salute to Service",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/67/96775353-e62c-43c5-ae23-cf12dac92db9/691fe8e339cb7.image.jpg?resize=300%2C200",
-            "length": "416149",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/67/96775353-e62c-43c5-ae23-cf12dac92db9/691fe8e339cb7.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/5c070e0f-dbf6-47c6-821d-23882d3d1810",
-          "author": "SANNE GODFREY The News-Review",
-          "description": "Canyonville Middle School honor roll",
-          "link": "https://www.nrtoday.com/news/education/canyonville-middle-school-honor-roll/article_5c070e0f-dbf6-47c6-821d-23882d3d1810.html",
-          "publishedOn": "2025-11-21T14:45:00.000Z",
-          "wordCount": 12101,
-          "title": "Canyonville Middle School honor roll",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6552cbec-bceb-4713-b912-b82ef59bd71e",
-          "author": "Khloe Grotting For The News-Review",
-          "description": "INDIANAPOLIS — At the 98th National FFA Convention & Expo, chapters from Douglas County joined with over 60,0000 other FFA members from across the country.",
-          "link": "https://www.nrtoday.com/news/education/local-ffa-chapters-represent-at-the-national-ffa-convention/article_6552cbec-bceb-4713-b912-b82ef59bd71e.html",
-          "publishedOn": "2025-11-21T14:15:00.000Z",
-          "wordCount": 14372,
-          "title": "Local FFA chapters represent at the National FFA Convention",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/83/e83e8ab9-e379-4b2d-8c9c-f2555f3e7d14/691b900bc7abc.image.jpg?resize=300%2C169",
-            "length": "270757",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/83/e83e8ab9-e379-4b2d-8c9c-f2555f3e7d14/691b900bc7abc.image.jpg?resize=300%2C169"
         }
       ]
     },
@@ -416,6 +371,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6925bcf3cbfd6b0001fa8651",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-25-2025/",
+          "publishedOn": "2025-11-25T14:45:53.000Z",
+          "wordCount": 4995,
+          "title": "November 25, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-15.png"
+        },
         {
           "id": "69251a94cbfd6b0001fa863c",
           "author": "Joseph Ziegler",
@@ -455,16 +420,6 @@
           "wordCount": 1967,
           "title": "WAID to Host Free Community Christmas Celebration on December 12",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/community_christmas.png"
-        },
-        {
-          "id": "69211ad2cbfd6b0001fa8409",
-          "author": "Joseph Ziegler",
-          "description": "The 3rd Annual Winston-Dillard Festival Association Christmas Ball returns Dec. 13 with live music by Borrowed Time, refreshments by Freed Estate Winery, and a festive evening of dancing at the Winston Community Center. Tickets are on sale now.",
-          "link": "https://www.roseburgscanner.com/3rd-annual-winston-dillard-festival-association-christmas-ball-set-for-dec-13/",
-          "publishedOn": "2025-11-22T02:12:21.000Z",
-          "wordCount": 1926,
-          "title": "3rd Annual Winston-Dillard Festival Association Christmas Ball Set for Dec. 13",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/winter_christmas_ball.png"
         }
       ]
     },
