@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-26T13:29:59.831Z</updated>
+    <updated>2025-11-26T16:17:40.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seven Feathers lights up Friday evening]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d6957fc6-d8a7-465f-8200-42a915be691c</id>
+        <link href="https://www.nrtoday.com/a_and_e/seven-feathers-lights-up-friday-evening/article_d6957fc6-d8a7-465f-8200-42a915be691c.html"/>
+        <updated>2025-11-26T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CANYONVILLE — Seven Feathers Casino Resort will light up the sky, the venue and the surrounding areas Friday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 26, 2025]]></title>
+        <id>69270ba9cbfd6b0001fa8822</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/november-26-2025/"/>
+        <updated>2025-11-26T14:33:24.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COLDER LOW TEMPERATURES ARE EXPECTED FOR SOUTHERN OREGON]]></title>
         <id>https://kqennewsradio.com/?p=140547</id>
@@ -94,6 +114,16 @@
         <summary type="html"><![CDATA[November 26, 2025 4:00 p.m.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win prizes: Roseburg's library invites you to join winter reading]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/fc9f0e20-d932-4743-b620-5a777a923f48</id>
+        <link href="https://www.kezi.com/news/local/win-prizes-roseburgs-library-invites-you-to-join-winter-reading/article_fc9f0e20-d932-4743-b620-5a777a923f48.html"/>
+        <updated>2025-11-25T22:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library is kicking off its Winter Reading Program, offering something for everyone from Dec. 1 to Dec. 31.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -534,16 +564,6 @@
         <summary type="html"><![CDATA[November 24, 2025 2:50 a.m.  The Oregon Department of Fish and Wildlife is offering free fishing days this Friday and Saturday, right after Thanksgiving. An ODFW release said no fishing or shellfish licenses or tags are required for those two days. All other fishing regulations apply including closures, bag limits, and size restrictions. Both Oregon...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Annual Umpqua Valley Food Rally Brings in Over $2,000 and More Than a Ton of Food]]></title>
-        <id>6922662fcbfd6b0001fa8439</id>
-        <link href="https://www.roseburgscanner.com/first-annual-umpqua-valley-food-rally-brings-in-over-2-000-and-more-than-a-ton-of-food/"/>
-        <updated>2025-11-23T01:46:28.000Z</updated>
-        <summary type="html"><![CDATA[The first annual Umpqua Valley Food Rally collected 2,176 pounds of food and raised $2,128 to support families across Douglas County. Planned in just three weeks, the event drew strong community turnout and organizers say it will now become an annual tradition.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

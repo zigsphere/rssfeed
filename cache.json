@@ -474,6 +474,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d6957fc6-d8a7-465f-8200-42a915be691c",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — Seven Feathers Casino Resort will light up the sky, the venue and the surrounding areas Friday.",
+          "link": "https://www.nrtoday.com/a_and_e/seven-feathers-lights-up-friday-evening/article_d6957fc6-d8a7-465f-8200-42a915be691c.html",
+          "publishedOn": "2025-11-26T15:30:00.000Z",
+          "wordCount": 13988,
+          "title": "Seven Feathers lights up Friday evening",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/92/e926597c-79af-4b10-acee-4166b1e4bb4b/691f86d47b1de.image.jpg?resize=300%2C200",
+            "length": "358404",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/92/e926597c-79af-4b10-acee-4166b1e4bb4b/691f86d47b1de.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0a63f09a-04ba-4bac-b211-4dd3c056c8ae",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "For 31 years, attendees of the Festival of Lights, one of the largest Christmas light attractions in Oregon, had to enjoy the displays from inside their cars. Now, an annual event gives them a new way to experience the displays:…",
@@ -567,6 +582,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "69270ba9cbfd6b0001fa8822",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/november-26-2025/",
+          "publishedOn": "2025-11-26T14:33:24.000Z",
+          "wordCount": 4225,
+          "title": "November 26, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-16.png"
+        },
+        {
           "id": "6926765bcbfd6b0001fa880f",
           "author": "Joseph Ziegler",
           "description": "Christmas tree permits for the Umpqua National Forest are now available online and at local vendors. Permits cost $5 per household and are valid only on UNF land. Fourth graders with an Every Kid Outdoors pass can receive a free permit. More details are available on Recreation.gov.",
@@ -605,16 +630,6 @@
           "wordCount": 3946,
           "title": "November 24, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-14.png"
-        },
-        {
-          "id": "6922662fcbfd6b0001fa8439",
-          "author": "Joseph Ziegler",
-          "description": "The first annual Umpqua Valley Food Rally collected 2,176 pounds of food and raised $2,128 to support families across Douglas County. Planned in just three weeks, the event drew strong community turnout and organizers say it will now become an annual tradition.",
-          "link": "https://www.roseburgscanner.com/first-annual-umpqua-valley-food-rally-brings-in-over-2-000-and-more-than-a-ton-of-food/",
-          "publishedOn": "2025-11-23T01:46:28.000Z",
-          "wordCount": 1971,
-          "title": "First Annual Umpqua Valley Food Rally Brings in Over $2,000 and More Than a Ton of Food",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/food_rally.webp"
         }
       ]
     },
@@ -622,7 +637,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/fc9f0e20-d932-4743-b620-5a777a923f48",
+          "author": "News Staff",
+          "description": "Roseburg Public Library is kicking off its Winter Reading Program, offering something for everyone from Dec. 1 to Dec. 31.",
+          "link": "https://www.kezi.com/news/local/win-prizes-roseburgs-library-invites-you-to-join-winter-reading/article_fc9f0e20-d932-4743-b620-5a777a923f48.html",
+          "publishedOn": "2025-11-25T22:57:00.000Z",
+          "wordCount": 8075,
+          "title": "Win prizes: Roseburg's library invites you to join winter reading",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225",
+            "length": "545684",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/5a/95ab3ddb-27d2-40e6-85b2-1a4e826f063c/68a8ad42a05eb.image.jpg?resize=300%2C225"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
