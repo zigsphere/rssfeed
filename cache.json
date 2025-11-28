@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140634",
+          "author": "Kyle Bailey",
+          "description": "Wendi Patterson  Communication Director for the Roseburg Stake – Church of Jesus Christ of Latter Day Saints, and Colleen May-Weir of the United Community Action Network,  talk about the Giving Machine at Valley River Center in Eugene, and the impact it can have on a number of charities, including several in Douglas County like UCAN.",
+          "link": "https://kqennewsradio.com/2025/11/28/inside-douglas-county-11-28-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-28-25",
+          "publishedOn": "2025-11-28T21:15:18.000Z",
+          "wordCount": 1645,
+          "title": "INSIDE DOUGLAS COUNTY 11.28.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251128200816/IDC-11-28-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251128201405/Giving.jpb_.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140632",
           "author": "Kyle Bailey",
           "description": "November 28, 2025 10:50 a.m.  The City of Sutherlin’s annual Christmas Tree lighting will take place on Sunday night at 5:00 p.m. The event will be held in Central Park. It is happening earlier than in past years, to allow the tree lights to brighten the downtown area throughout the month of December.    ...",
@@ -519,26 +534,6 @@
           "wordCount": 1807,
           "title": "CHRISTMAS TREE PERMITS AVAILABLE FOR UMPQUA NATIONAL FOREST",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251125101524/Christmas-Tree-Permit.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140480",
-          "author": "Kyle Bailey",
-          "description": "November 25, 2025 3:05 a.m.  Wildlife Safari still has registration open for the Turkey Trot event happening on Thursday – Thanksgiving morning. The annual 5K fun run and walk goes through the grounds of Wildlife Safari and is open to all ages. Seasoned runners, casual walkers, or those just wanting some exercise before the big...",
-          "link": "https://kqennewsradio.com/2025/11/25/wildlife-safari-registration-still-open-for-turkey-trot/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-registration-still-open-for-turkey-trot",
-          "publishedOn": "2025-11-25T11:12:03.000Z",
-          "wordCount": 1640,
-          "title": "WILDLIFE SAFARI REGISTRATION STILL OPEN FOR TURKEY TROT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251105101101/Turkey-Trot-2025.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140478",
-          "author": "Kyle Bailey",
-          "description": "November 25, 2025 2:50 a.m.  On Monday, Oregon’s U.S. Senators Jeff Merkley and Ron Wyden joined fellow western senators to urge Congress to pass additional funding to support wildfire recovery on public lands. A joint release said in a letter to Senate Appropriation Committee Chair Susan Collins, and Vice Chair Patty Murray, the senators pressed...",
-          "link": "https://kqennewsradio.com/2025/11/25/merkley-wyden-call-for-emergency-funding-for-wildfire-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=merkley-wyden-call-for-emergency-funding-for-wildfire-recovery",
-          "publishedOn": "2025-11-25T11:07:46.000Z",
-          "wordCount": 1813,
-          "title": "MERKLEY, WYDEN CALL FOR EMERGENCY FUNDING FOR WILDFIRE RECOVERY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230821191728/Sen.-Jeff-Merkley-Official-Portrait-1.jpg"
         }
       ]
     },
@@ -553,6 +548,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/af78e08c-7741-42bf-a197-5062c931de9f",
+          "author": "PAUL MORGAN For The News-Review",
+          "description": "A parade of Giant Planet starts as the sky darkens with Saturn and Neptune leading in the southeast tonight.",
+          "link": "https://www.nrtoday.com/life/two-meteor-showers-in-december/article_af78e08c-7741-42bf-a197-5062c931de9f.html",
+          "publishedOn": "2025-11-28T17:49:00.000Z",
+          "wordCount": 12562,
+          "title": "Two meteor showers in December",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2bda21de-1301-4d08-a759-2b596c52fc9a",
+          "author": "Bonnie Courter Master Gardner",
+          "description": "Question: A friend was telling me they had a strawberry tree growing in their garden. I’d never heard of such a thing — can strawberries grow on trees?",
+          "link": "https://www.nrtoday.com/life/ask-a-master-gardener-whats-a-strawberry-tree/article_2bda21de-1301-4d08-a759-2b596c52fc9a.html",
+          "publishedOn": "2025-11-28T17:30:00.000Z",
+          "wordCount": 12923,
+          "title": "Ask a Master Gardener: What's a strawberry tree?",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a6/ea627896-8b5a-49a3-99f2-d99b979278eb/6924965a2671c.image.jpg?resize=300%2C199",
+            "length": "387482",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a6/ea627896-8b5a-49a3-99f2-d99b979278eb/6924965a2671c.image.jpg?resize=300%2C199"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9f18e064-c72d-456b-bc0b-f974bf82f276",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Roseburg Public Library’s Winter Reading Program is a celebration of books for all ages.",
+          "link": "https://www.nrtoday.com/a_and_e/roseburg-public-library-s-winter-reading-program/article_9f18e064-c72d-456b-bc0b-f974bf82f276.html",
+          "publishedOn": "2025-11-28T17:30:00.000Z",
+          "wordCount": 12605,
+          "title": "Roseburg Public Library’s winter reading program",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/990758ac-fc77-40e1-8c56-5f98331d6c3f",
           "author": "The News-Review",
