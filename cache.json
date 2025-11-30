@@ -289,56 +289,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251126161156/Chris-7.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140547",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2025 3:50 a.m.    Colder low temperatures are expected for the next several days in southern Oregon. Information from the National Weather Service in Medford said overnight lows could be five to ten degrees below seasonal norms. For Roseburg, lows are expected to range between 33 and 39 degrees, with the lowest temperatures...",
-          "link": "https://kqennewsradio.com/2025/11/26/colder-low-temperatures-are-expected-for-southern-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=colder-low-temperatures-are-expected-for-southern-oregon",
-          "publishedOn": "2025-11-26T11:37:43.000Z",
-          "wordCount": 1699,
-          "title": "COLDER LOW TEMPERATURES ARE EXPECTED FOR SOUTHERN OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251126103727/WeatherStory4.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140545",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2025 3:40 a.m.  City of Roseburg offices will be closed for two days for the Thanksgiving holiday. A city release said offices will not be open on Thursday or Friday. That includes Roseburg City Hall, the Public Safety Center, Roseburg Public Library and other city buildings. Police and firefighters will continue to provide...",
-          "link": "https://kqennewsradio.com/2025/11/26/city-of-roseburg-offices-closed-for-two-days-for-holiday/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-roseburg-offices-closed-for-two-days-for-holiday",
-          "publishedOn": "2025-11-26T11:21:55.000Z",
-          "wordCount": 1660,
-          "title": "CITY OF ROSEBURG OFFICES CLOSED FOR TWO DAYS FOR HOLIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213442/Fall-Trees-Public-Safety-Ctr-10-6-21-e1637321407571.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140542",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2025 3:30 a.m.  With the holiday travel rush underway, staff with the Oregon Department of Transportation are urging drivers to stay safe. Drew Winkelmaier has the story: “Drew3” Q: News Radio 93-9 FM and 1240 KQEN An ODOT release said Thanksgiving is one of the busiest travel periods of the year, with many...",
-          "link": "https://kqennewsradio.com/2025/11/26/odot-urges-drivers-to-stay-safe-holiday-travel-rush/?utm_source=rss&utm_medium=rss&utm_campaign=odot-urges-drivers-to-stay-safe-holiday-travel-rush",
-          "publishedOn": "2025-11-26T11:17:57.000Z",
-          "wordCount": 1810,
-          "title": "ODOT URGES DRIVERS TO STAY SAFE: HOLIDAY TRAVEL RUSH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251126101743/NewODOT-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140540",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2025 3:20 a.m.  Employment reports for Douglas County and other parts of Oregon have been delayed again, due to the recent federal government shutdown. A State of Oregon Employment Department update said the U.S. Bureau of Labor Statistics has resumed production of the monthly employment reports for the nation on a delayed schedule....",
-          "link": "https://kqennewsradio.com/2025/11/26/employment-in-douglas-county-reports-delayed-again/?utm_source=rss&utm_medium=rss&utm_campaign=employment-in-douglas-county-reports-delayed-again",
-          "publishedOn": "2025-11-26T11:15:32.000Z",
-          "wordCount": 1731,
-          "title": "EMPLOYMENT IN DOUGLAS COUNTY: REPORTS DELAYED AGAIN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221940/OED_hrz_clr.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140538",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2025 3:05 a.m.  The Department of Veterans Affairs has announced that it permanently housed nearly 52,000 homeless veterans across the country in fiscal year 2025. That number is just over 4,000 more veterans than the VA housed last year. A release from the Roseburg VA said the nationwide numbers include 256 veterans permanently...",
-          "link": "https://kqennewsradio.com/2025/11/26/roseburg-va-health-care-system-helped-house-256-veterans-locally/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-va-health-care-system-helped-house-256-veterans-locally",
-          "publishedOn": "2025-11-26T11:13:22.000Z",
-          "wordCount": 1770,
-          "title": "ROSEBURG VA HEALTH CARE SYSTEM HELPED HOUSE 256 VETERANS LOCALLY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251002133623/VA-seal.png"
         }
       ]
     },
@@ -353,6 +303,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/48215232-be8e-4091-9c36-a492315c2a3e",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For many, Christmas is a time for gathering, family, giving and joy. For the Crowder family, it's also a time for drama, chaos and chasing down a loose pet ferret.",
+          "link": "https://www.nrtoday.com/news/uact-embraces-holiday-chaos-with-have-yourself-a-crazy-little-christmas/article_48215232-be8e-4091-9c36-a492315c2a3e.html",
+          "publishedOn": "2025-11-29T16:00:00.000Z",
+          "wordCount": 13034,
+          "title": "UACT embraces holiday chaos with 'Have Yourself a Crazy Little Christmas'",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bf/ebf5d5fd-1b1f-4b1c-bba6-3d45904bceee/6927756dea437.image.jpg?resize=300%2C200",
+            "length": "460023",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/bf/ebf5d5fd-1b1f-4b1c-bba6-3d45904bceee/6927756dea437.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ca0c1c5-4a45-4cca-9aef-cd9049b987fc",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "In the cold and wet winter months, indoor facilities provide equestrians with a way to socialize and stay active with their horses. But in Douglas County, those equestrians may have to wait.",
+          "link": "https://www.nrtoday.com/news/douglas-county-fairgrounds-temporarily-closes-riding-arenas-to-prevent-spread-of-equine-herpes/article_3ca0c1c5-4a45-4cca-9aef-cd9049b987fc.html",
+          "publishedOn": "2025-11-29T16:00:00.000Z",
+          "wordCount": 12837,
+          "title": "Douglas County Fairgrounds temporarily closes riding arenas to prevent spread of equine herpes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/68/8687f9ad-6682-4dd8-a373-af50bc92671c/67df0faf13b10.image.jpg?resize=300%2C200",
+            "length": "294262",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/68/8687f9ad-6682-4dd8-a373-af50bc92671c/67df0faf13b10.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/af78e08c-7741-42bf-a197-5062c931de9f",
           "author": "PAUL MORGAN For The News-Review",
@@ -522,51 +502,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/92/e926597c-79af-4b10-acee-4166b1e4bb4b/691f86d47b1de.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0a63f09a-04ba-4bac-b211-4dd3c056c8ae",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For 31 years, attendees of the Festival of Lights, one of the largest Christmas light attractions in Oregon, had to enjoy the displays from inside their cars. Now, an annual event gives them a new way to experience the displays:…",
-          "link": "https://www.nrtoday.com/news/bike-the-lights-returns-for-second-year-of-festival-of-lights-family-fun/article_0a63f09a-04ba-4bac-b211-4dd3c056c8ae.html",
-          "publishedOn": "2025-11-25T16:00:00.000Z",
-          "wordCount": 12814,
-          "title": "Bike the Lights returns for second year of Festival of Lights family fun",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/01/50184cd6-0084-45a6-9861-90485a80dc05/692524530bf18.image.jpg?resize=300%2C221",
-            "length": "530981",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/01/50184cd6-0084-45a6-9861-90485a80dc05/692524530bf18.image.jpg?resize=300%2C221"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/fea228a3-b359-431c-a6ab-305c803a6cf7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Ever since he was a teen, Kevin Figueroa has been fascinated by the weather.",
-          "link": "https://www.nrtoday.com/news/education/water-from-thin-air-geneva-academy-receives-selco-grant-to-study-fog-harvesting/article_fea228a3-b359-431c-a6ab-305c803a6cf7.html",
-          "publishedOn": "2025-11-25T14:30:00.000Z",
-          "wordCount": 13043,
-          "title": "Water from thin air: Geneva Academy receives SELCO grant to study fog harvesting",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/2f/c2f6f8e4-000b-4965-964e-3e2ac34c422c/635824a80d842.image.jpg?resize=300%2C200",
-            "length": "454902",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/2f/c2f6f8e4-000b-4965-964e-3e2ac34c422c/635824a80d842.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e0a38a5d-86fb-40d0-8d6b-719e0df3176c",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "Jennie Gohman said vending at the Roseburg Senior Center Holiday Fair on Saturday was only her second time selling her products in such a way.",
-          "link": "https://www.nrtoday.com/news/local/roseburg-senior-center-brings-in-crafts-holiday-gift-ideas-in-holiday-fair/article_e0a38a5d-86fb-40d0-8d6b-719e0df3176c.html",
-          "publishedOn": "2025-11-25T14:00:00.000Z",
-          "wordCount": 13571,
-          "title": "Roseburg Senior Center brings in crafts, holiday gift ideas in Holiday Fair",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c1/fc136e0f-fc22-4064-8761-9b42a840853a/69226c874fd73.image.jpg?resize=300%2C200",
-            "length": "508164",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/c1/fc136e0f-fc22-4064-8761-9b42a840853a/69226c874fd73.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -600,16 +535,6 @@
           "wordCount": 2163,
           "title": "Chinese Xiang Cuisine Announces Closure After Five Years of Serving Douglas County",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/xiang.png"
-        },
-        {
-          "id": "69270ba9cbfd6b0001fa8822",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/november-26-2025/",
-          "publishedOn": "2025-11-26T14:33:24.000Z",
-          "wordCount": 4225,
-          "title": "November 26, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/11/The-Morning-Scoop-16.png"
         }
       ]
     },
