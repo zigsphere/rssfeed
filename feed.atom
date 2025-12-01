@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-11-30T23:12:29.758Z</updated>
+    <updated>2025-12-01T03:44:58.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -284,36 +284,6 @@
         <summary type="html"><![CDATA[GREEN — A senior living center in Green that was under construction but never got finished will be sold at auction to pay the Sutherlin builder on the project, who won a lawsuit claiming he was out more than $2…]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas tree permits are available]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/baf6ebc9-2535-41b7-9e6d-42d04be988b4</id>
-        <link href="https://www.nrtoday.com/news/environment/christmas-tree-permits-are-available/article_baf6ebc9-2535-41b7-9e6d-42d04be988b4.html"/>
-        <updated>2025-11-27T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Christmas tree permits are available for trees in the Umpqua National Forest and on Bureau of Land Management-administered lands around Roseburg.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Christmas Craft Fair offers hand made gifts for everyone]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9a9f9def-d6da-42d7-9470-4dd8123d30e0</id>
-        <link href="https://www.nrtoday.com/family/douglas-county-christmas-craft-fair-offers-hand-made-gifts-for-everyone/article_9a9f9def-d6da-42d7-9470-4dd8123d30e0.html"/>
-        <updated>2025-11-27T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What: Douglas County Christmas Craft Fair]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light up the night with Umpqua Valley Festival of Lights]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0f34471e-3b0b-4a9f-a0e6-ffa5d1d50b91</id>
-        <link href="https://www.nrtoday.com/family/light-up-the-night-with-umpqua-valley-festival-of-lights/article_0f34471e-3b0b-4a9f-a0e6-ffa5d1d50b91.html"/>
-        <updated>2025-11-27T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What: Umpqua Valley Festival of Lights]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
         </author>
     </entry>
 </feed>
