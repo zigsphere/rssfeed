@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140680",
+          "author": "Kyle Bailey",
+          "description": "State Representative Court Boice covers a number of current legislative topics and looks ahead to the upcoming session and the 2025 election.",
+          "link": "https://kqennewsradio.com/2025/12/01/inside-douglas-county-12-1-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-1-25",
+          "publishedOn": "2025-12-01T21:08:39.000Z",
+          "wordCount": 1614,
+          "title": "INSIDE DOUGLAS COUNTY 12.1.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251201200424/IDC-12-1-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140677",
           "author": "Kyle Bailey",
           "description": "December 1, 2025 11:00 a.m.  Sutherlin Police jailed a transient for a reported trespass incident on Saturday night. An SPD report said just after 9:20 p.m. an employee at a store in the 1300 block of West Central Avenue called 911 regarding two adult males that he wanted trespassed from the business. They were seen...",
@@ -334,16 +349,6 @@
           "wordCount": 1607,
           "title": "WINESGIVING WEEKEND HAPPENING FRIDAY THROUGH SUNDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251107201529/UVWA.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140586",
-          "author": "Kyle Bailey",
-          "description": "November 26, 2025 2:50 a.m.  The Oregon Department of Fish and Wildlife has free fishing days around Oregon, Friday and Saturday. That means both Oregon residents and non-residents can fish, crab, and clam for free. An ODFW release said statewide free fishing days are a great opportunity to take someone new fishing and celebrate Oregon’s...",
-          "link": "https://kqennewsradio.com/2025/11/28/free-fishing-days-friday-and-saturday-around-oregon/?utm_source=rss&utm_medium=rss&utm_campaign=free-fishing-days-friday-and-saturday-around-oregon",
-          "publishedOn": "2025-11-28T11:11:18.000Z",
-          "wordCount": 1667,
-          "title": "FREE FISHING DAYS FRIDAY AND SATURDAY AROUND OREGON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210725/fishing-e1654251649962.jpg"
         }
       ]
     },

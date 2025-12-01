@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-01T19:16:19.905Z</updated>
+    <updated>2025-12-01T23:13:48.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.1.25]]></title>
+        <id>https://kqennewsradio.com/?p=140680</id>
+        <link href="https://kqennewsradio.com/2025/12/01/inside-douglas-county-12-1-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-1-25"/>
+        <updated>2025-12-01T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[State Representative Court Boice covers a number of current legislative topics and looks ahead to the upcoming session and the 2025 election.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL TRANSIENT FOR REPORTED TRESPASS INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=140677</id>
@@ -412,16 +422,6 @@
         <link href="https://kqennewsradio.com/2025/11/28/winesgiving-weekend-happening-friday-through-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winesgiving-weekend-happening-friday-through-sunday"/>
         <updated>2025-11-28T11:17:09.000Z</updated>
         <summary type="html"><![CDATA[November 28, 2025 3:05 a.m.  The Umpqua Valley Wine Growers Association has its Winegiving Weekend promotion happening Friday through Sunday. Attendees can give thanks and taste wine at twenty wineries across the Umpqua Valley. There will be Thanksgiving-themed pairings and live music at some locations. By shopping local, residents will enjoy limited-edition releases and can...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE FISHING DAYS FRIDAY AND SATURDAY AROUND OREGON]]></title>
-        <id>https://kqennewsradio.com/?p=140586</id>
-        <link href="https://kqennewsradio.com/2025/11/28/free-fishing-days-friday-and-saturday-around-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=free-fishing-days-friday-and-saturday-around-oregon"/>
-        <updated>2025-11-28T11:11:18.000Z</updated>
-        <summary type="html"><![CDATA[November 26, 2025 2:50 a.m.  The Oregon Department of Fish and Wildlife has free fishing days around Oregon, Friday and Saturday. That means both Oregon residents and non-residents can fish, crab, and clam for free. An ODFW release said statewide free fishing days are a great opportunity to take someone new fishing and celebrate Oregon’s...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
