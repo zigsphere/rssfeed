@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-02T19:14:44.761Z</updated>
+    <updated>2025-12-02T23:13:03.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.2.25]]></title>
+        <id>https://kqennewsradio.com/?p=140719</id>
+        <link href="https://kqennewsradio.com/2025/12/02/inside-douglas-county-12-2-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-2-25"/>
+        <updated>2025-12-02T21:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library Director Kris Wiley talks about input they are seeking to help formulate a new strategic plan, plus covers a number of upcoming activities.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston-Dillard Festival Association Plants New Community Christmas Tree at Civic Wayside Park]]></title>
+        <id>692f50d2cbfd6b0001fa8e95</id>
+        <link href="https://www.roseburgscanner.com/winston-dillard-festival-association-plants-new-community-christmas-tree-at-civic-wayside-park/"/>
+        <updated>2025-12-02T20:53:28.000Z</updated>
+        <summary type="html"><![CDATA[A new 15 foot Douglas fir has been planted at Civic Wayside Park to serve as Winston’s permanent community Christmas tree. Installed with help from Winston Public Works and Wildwood Nursery, it will be used for future tree lighting ceremonies starting December 6.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRIVER TAKEN TO HOSPITAL AFTER PICKUP GOES DOWN AN EMBANKMENT HOURS EARLIER]]></title>
         <id>https://kqennewsradio.com/?p=140716</id>

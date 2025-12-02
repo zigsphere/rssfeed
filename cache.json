@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140719",
+          "author": "Kyle Bailey",
+          "description": "Roseburg Public Library Director Kris Wiley talks about input they are seeking to help formulate a new strategic plan, plus covers a number of upcoming activities.",
+          "link": "https://kqennewsradio.com/2025/12/02/inside-douglas-county-12-2-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-2-25",
+          "publishedOn": "2025-12-02T21:12:03.000Z",
+          "wordCount": 1621,
+          "title": "INSIDE DOUGLAS COUNTY 12.2.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251202200530/IDC-12-2-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251202201146/IMG_8422.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140716",
           "author": "Kyle Bailey",
           "description": "December 2, 2025 10:50 a.m.  A driver was taken to the hospital after his pickup went down an embankment several hours earlier. An Oregon State Police report said at 1:15 p.m. the 60-year-old was spotted near the intersection of Highway 138W and Tyee Road in the Oakland area. The man said that early that morning...",
@@ -456,6 +471,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "692f50d2cbfd6b0001fa8e95",
+          "author": "Joseph Ziegler",
+          "description": "A new 15 foot Douglas fir has been planted at Civic Wayside Park to serve as Winston’s permanent community Christmas tree. Installed with help from Winston Public Works and Wildwood Nursery, it will be used for future tree lighting ceremonies starting December 6.",
+          "link": "https://www.roseburgscanner.com/winston-dillard-festival-association-plants-new-community-christmas-tree-at-civic-wayside-park/",
+          "publishedOn": "2025-12-02T20:53:28.000Z",
+          "wordCount": 2003,
+          "title": "Winston-Dillard Festival Association Plants New Community Christmas Tree at Civic Wayside Park",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/tree_wdfa.jpg"
+        },
         {
           "id": "692ef815cbfd6b0001fa8cdb",
           "author": "Joseph Ziegler",
