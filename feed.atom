@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-03T13:31:18.445Z</updated>
+    <updated>2025-12-03T16:20:38.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winston Domino’s Donates Over $1,000 to Support the Winston–Dillard Food Bank]]></title>
+        <id>69304ea0cbfd6b0001fa9075</id>
+        <link href="https://www.roseburgscanner.com/dominos-winston-donates-over-1-000-to-support-the-winston-dillard-food-bank/"/>
+        <updated>2025-12-03T15:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Domino’s in Winston raised over $1,000 and collected canned goods for the Winston–Dillard Food Bank during a community meet-the-owner event, where new franchise owner Angelique Martinez thanked locals for their generosity and support.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 3, 2025]]></title>
+        <id>693049e9cbfd6b0001fa8ef7</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-3-2025/"/>
+        <updated>2025-12-03T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERKLEY SAYS FOREST SERVICE CUTS THREATEN WILDFIRE PREVENTION EFFORTS]]></title>
+        <id>https://kqennewsradio.com/?p=140753</id>
+        <link href="https://kqennewsradio.com/2025/12/03/merkley-says-forest-service-cuts-threaten-wildfire-prevention-efforts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=merkley-says-forest-service-cuts-threaten-wildfire-prevention-efforts"/>
+        <updated>2025-12-03T14:27:38.000Z</updated>
+        <summary type="html"><![CDATA[December 3, 2025 6:30 a.m.  On Tuesday, Senate Interior-Environment Appropriations Subcommittee Ranking Member Jeff Merkley led a group of senators to demand answers from U.S. Forest Service Chief Tom Schultz regarding the agency’s wildfire risk reduction efforts across the West and the nation. A release said the inquiry follows an independent analysis of publicly available...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UPTD ANNOUNCES APPOINTMENT OF NEW GENERAL MANAGER]]></title>
         <id>https://kqennewsradio.com/?p=140745</id>
