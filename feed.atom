@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-03T19:13:05.997Z</updated>
+    <updated>2025-12-03T23:11:45.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Forest Products Shuts Down Weed, California Veneer Plant]]></title>
+        <id>6930bb83cbfd6b0001fa90a2</id>
+        <link href="https://www.roseburgscanner.com/roseburg-forest-products-shuts-down-weed-california-veneer-plant/"/>
+        <updated>2025-12-03T22:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Forest Products has closed its Weed, Calif., veneer plant, shifting production to Oregon mills as part of a broader restructuring. About 140 employees will receive transition support, and the company says it remains committed to investing in the Weed community.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.3.25]]></title>
+        <id>https://kqennewsradio.com/?p=140776</id>
+        <link href="https://kqennewsradio.com/2025/12/03/inside-douglas-county-12-3-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-3-25"/>
+        <updated>2025-12-03T21:14:03.000Z</updated>
+        <summary type="html"><![CDATA[State Representative  Alek Skarlatos announced that he has filed for re-election.  He talked about what is ahead in the upcoming short session of the legislature, and his priorities going forward.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGHWAY 42 PAVING AND SAFETY IMPROPROVEMENT PROJECT CONTINUES]]></title>
         <id>https://kqennewsradio.com/?p=140772</id>

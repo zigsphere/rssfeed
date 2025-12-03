@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140776",
+          "author": "Kyle Bailey",
+          "description": "State Representative  Alek Skarlatos announced that he has filed for re-election.  He talked about what is ahead in the upcoming short session of the legislature, and his priorities going forward.",
+          "link": "https://kqennewsradio.com/2025/12/03/inside-douglas-county-12-3-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-3-25",
+          "publishedOn": "2025-12-03T21:14:03.000Z",
+          "wordCount": 1625,
+          "title": "INSIDE DOUGLAS COUNTY 12.3.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251203201146/IDC-12-3-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241028191337/Alek_Skarlatos.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140772",
           "author": "Kyle Bailey",
           "description": "December 3, 2025 10:50 a.m.  The Highway 42 paving and safety improvement project continues between Winston and Green. An update from the Oregon Department of Transportation said safety features being added should help reduce crashes through the Green District. Sidewalk curb ramps are being upgraded to better accommodate wheelchair users and other pedestrians. The new...",
@@ -621,6 +636,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6930bb83cbfd6b0001fa90a2",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Forest Products has closed its Weed, Calif., veneer plant, shifting production to Oregon mills as part of a broader restructuring. About 140 employees will receive transition support, and the company says it remains committed to investing in the Weed community.",
+          "link": "https://www.roseburgscanner.com/roseburg-forest-products-shuts-down-weed-california-veneer-plant/",
+          "publishedOn": "2025-12-03T22:40:30.000Z",
+          "wordCount": 2061,
+          "title": "Roseburg Forest Products Shuts Down Weed, California Veneer Plant",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/rfp.png"
+        },
         {
           "id": "69304ea0cbfd6b0001fa9075",
           "author": "Joseph Ziegler",
