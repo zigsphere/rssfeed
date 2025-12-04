@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140830",
+          "author": "Kyle Bailey",
+          "description": "A two segment program with Ali Shaver of Wildlife Safari, and Ashley Cluver of Umpqua Valley Arts talking about upcoming events and activities.",
+          "link": "https://kqennewsradio.com/2025/12/04/inside-douglas-county-12-4-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-4-25",
+          "publishedOn": "2025-12-04T21:10:57.000Z",
+          "wordCount": 1616,
+          "title": "INSIDE DOUGLAS COUNTY 12.4.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251204200542/IDC-12-4-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251204201002/AliSafari.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140828",
           "author": "Kyle Bailey",
           "description": "December 4, 2025 11:00 a.m.  Roseburg Police cited a woman for having a nuisance dog on Wednesday night. An RPD report said at 6:00 p.m. the 40-year-old was contacted at Eastwood Park in the 2600 block of Northeast Douglas Avenue, which she was in her van. The woman’s dog allegedly jumped out of the van...",
@@ -684,26 +699,6 @@
           "wordCount": 1809,
           "title": "HIV ALLIANCE COMMEMORATES WORLD AIDS DAY ON MONDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203407/aids.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140642",
-          "author": "Kyle Bailey",
-          "description": "December 1, 2025 3:05 a.m. The Oregon State University Extension Service Forestry and Natural Resources program will hold a workshop titled, “Landslides in Forested Landscapes” on Wednesday. It will run from 9:00 a.m. to 12:30 p.m. at the Extension office on Southeast Douglas Avenue, next to the courthouse in Roseburg. Workshop participants will learn about...",
-          "link": "https://kqennewsradio.com/2025/12/01/learn-about-landslides-in-forested-landscapes-2/?utm_source=rss&utm_medium=rss&utm_campaign=learn-about-landslides-in-forested-landscapes-2",
-          "publishedOn": "2025-12-01T11:08:16.000Z",
-          "wordCount": 1689,
-          "title": "LEARN ABOUT LANDSLIDES IN FORESTED LANDSCAPES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140639",
-          "author": "Kyle Bailey",
-          "description": "December 1, 2025 2:50 a.m.  In the KQEN Cultural Spotlight: The Umpqua Community College Performing and Visual Arts present, “Holidays Songs and Holiday Sweets”. It will be held on Wednesday evening, December 10th at 7:00 p.m. at the Lang center on the UCC Campus. The Umpqua Singers, directed by Dr. Jason Heald, will perform a...",
-          "link": "https://kqennewsradio.com/2025/12/01/umpqua-singers-present-holiday-songs-and-holiday-sweets/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-singers-present-holiday-songs-and-holiday-sweets",
-          "publishedOn": "2025-12-01T11:03:17.000Z",
-          "wordCount": 1629,
-          "title": "UMPQUA SINGERS PRESENT “HOLIDAY SONGS AND HOLIDAY SWEETS”",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251201100248/UCCHoliday.png"
         }
       ]
     },
@@ -718,6 +713,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For over 10 years, U.S. Air Force veteran John Pierson upheld the three core values of Wreaths Across America: Remember, honor, teach. As the annual event returns in 2025, he will be remembered for passing down those values.",
+          "link": "https://www.nrtoday.com/news/wreaths-across-america-returns-to-remember-douglas-county-veterans/article_01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc.html",
+          "publishedOn": "2025-12-04T16:00:00.000Z",
+          "wordCount": 12957,
+          "title": "Wreaths Across America returns to remember Douglas County veterans",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f5/ff5af2a3-471b-4f6f-b77a-868e605c65e2/6931e6904a2a6.image.jpg?resize=300%2C200",
+            "length": "357283",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f5/ff5af2a3-471b-4f6f-b77a-868e605c65e2/6931e6904a2a6.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc",
           "author": "ANDREW GRIFFIN The News-Review",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-04T19:13:53.682Z</updated>
+    <updated>2025-12-04T23:13:30.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.4.25]]></title>
+        <id>https://kqennewsradio.com/?p=140830</id>
+        <link href="https://kqennewsradio.com/2025/12/04/inside-douglas-county-12-4-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-4-25"/>
+        <updated>2025-12-04T21:10:57.000Z</updated>
+        <summary type="html"><![CDATA[A two segment program with Ali Shaver of Wildlife Safari, and Ashley Cluver of Umpqua Valley Arts talking about upcoming events and activities.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR NUISANCE DOG]]></title>
         <id>https://kqennewsradio.com/?p=140828</id>
@@ -114,6 +124,16 @@
         <summary type="html"><![CDATA[Cow Creek Health & Wellness Center will open a new full-service pharmacy next to its Roseburg clinic in March 2026, offering convenient prescription services for patients and Tribal families as pharmacy options continue to decline in the area.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wreaths Across America returns to remember Douglas County veterans]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc</id>
+        <link href="https://www.nrtoday.com/news/wreaths-across-america-returns-to-remember-douglas-county-veterans/article_01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc.html"/>
+        <updated>2025-12-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For over 10 years, U.S. Air Force veteran John Pierson upheld the three core values of Wreaths Across America: Remember, honor, teach. As the annual event returns in 2025, he will be remembered for passing down those values.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -852,26 +872,6 @@
         <link href="https://kqennewsradio.com/2025/12/01/hiv-alliance-commemorates-world-aids-day-on-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hiv-alliance-commemorates-world-aids-day-on-monday"/>
         <updated>2025-12-01T11:17:48.000Z</updated>
         <summary type="html"><![CDATA[December 1, 2025 3:20 a.m.  The HIV Alliance is commemorating World AID Day with events around the region, including one in Roseburg on Monday night. The Oregon-based nonprofit HIV Alliance is having the events to show solidarity, remembrance, raise awareness and provide a call of support for those impacted by HIV/AIDS. Through this shared resilience...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEARN ABOUT LANDSLIDES IN FORESTED LANDSCAPES]]></title>
-        <id>https://kqennewsradio.com/?p=140642</id>
-        <link href="https://kqennewsradio.com/2025/12/01/learn-about-landslides-in-forested-landscapes-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=learn-about-landslides-in-forested-landscapes-2"/>
-        <updated>2025-12-01T11:08:16.000Z</updated>
-        <summary type="html"><![CDATA[December 1, 2025 3:05 a.m. The Oregon State University Extension Service Forestry and Natural Resources program will hold a workshop titled, “Landslides in Forested Landscapes” on Wednesday. It will run from 9:00 a.m. to 12:30 p.m. at the Extension office on Southeast Douglas Avenue, next to the courthouse in Roseburg. Workshop participants will learn about...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA SINGERS PRESENT “HOLIDAY SONGS AND HOLIDAY SWEETS”]]></title>
-        <id>https://kqennewsradio.com/?p=140639</id>
-        <link href="https://kqennewsradio.com/2025/12/01/umpqua-singers-present-holiday-songs-and-holiday-sweets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-singers-present-holiday-songs-and-holiday-sweets"/>
-        <updated>2025-12-01T11:03:17.000Z</updated>
-        <summary type="html"><![CDATA[December 1, 2025 2:50 a.m.  In the KQEN Cultural Spotlight: The Umpqua Community College Performing and Visual Arts present, “Holidays Songs and Holiday Sweets”. It will be held on Wednesday evening, December 10th at 7:00 p.m. at the Lang center on the UCC Campus. The Umpqua Singers, directed by Dr. Jason Heald, will perform a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
