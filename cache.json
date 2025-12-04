@@ -614,6 +614,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For over 10 years, U.S. Air Force veteran John Pierson upheld the three core values of Wreaths Across America: Remember, honor, teach. Now, as the annual event returns for the 2025 season, he will be remembered for passing down those…",
+          "link": "https://www.nrtoday.com/news/wreaths-across-america-returns-to-remember-veterans/article_01a11c5a-7923-4c19-a5cf-71d0a4bb9ddc.html",
+          "publishedOn": "2025-12-04T16:00:00.000Z",
+          "wordCount": 12864,
+          "title": "Wreaths Across America returns to remember veterans",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/92/092129a7-43d0-456e-8d14-8ef8451eb862/6930ba1892241.image.jpg?resize=300%2C200",
+            "length": "389161",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/92/092129a7-43d0-456e-8d14-8ef8451eb862/6930ba1892241.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/745a2078-b800-4f9c-bae5-b19c3d6d8319",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "In June, Roseburg's last Rite Aid officially closed its doors. This led to a reduction in access to pharmacy services for local patients in need of medication. Now, the Cow Creek Band of Umpqua Tribe of Indians announced it is…",
+          "link": "https://www.nrtoday.com/news/cow-creek-tribe-to-open-roseburg-pharmacy-in-2026-after-rite-aid-closure/article_745a2078-b800-4f9c-bae5-b19c3d6d8319.html",
+          "publishedOn": "2025-12-04T15:00:00.000Z",
+          "wordCount": 12708,
+          "title": "Cow Creek tribe to open Roseburg pharmacy in 2026 after Rite Aid closure",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/3c/d3ce8d62-eb40-4c9d-a9fb-e3f82c5249d2/6930b9dad961e.image.jpg?resize=300%2C200",
+            "length": "329017",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/3c/d3ce8d62-eb40-4c9d-a9fb-e3f82c5249d2/6930b9dad961e.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/200b1615-a37e-4553-be95-b1a1f5854724",
           "author": "Kyle Bailey For The News-Review",
           "description": "Umpqua Public Transportation District (UPTD) has announced that Sheri Bleau has been appointed as the agency’s new general manager and chief financial officer.",
@@ -726,6 +756,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6931b130cbfd6b0001fa9296",
+          "author": "Joseph Ziegler",
+          "description": "Cow Creek Health & Wellness Center will open a new full-service pharmacy next to its Roseburg clinic in March 2026, offering convenient prescription services for patients and Tribal families as pharmacy options continue to decline in the area.",
+          "link": "https://www.roseburgscanner.com/cow-creek-health-wellness-center-preparing-to-open-new-pharmacy-in-spring-2026/",
+          "publishedOn": "2025-12-04T16:07:12.000Z",
+          "wordCount": 2018,
+          "title": "Cow Creek Health & Wellness Center Preparing to Open New Pharmacy in Spring 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/north-clinic-copy.jpg"
+        },
+        {
+          "id": "69319ff1cbfd6b0001fa9277",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County has earned the Certificate of Achievement for Excellence in Financial Reporting for the 37th consecutive year. Commissioners recognized CFO Dan Wilson and the Management and Finance Department for their award-winning 2024 ACFR.",
+          "link": "https://www.roseburgscanner.com/douglas-county-receives-national-award-for-excellence-in-financial-reporting-for-37th-consecutive-year/",
+          "publishedOn": "2025-12-04T14:54:54.000Z",
+          "wordCount": 2164,
+          "title": "Douglas County Receives National Award for Excellence in Financial Reporting for 37th Consecutive Year",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/award_cropped.png"
+        },
+        {
+          "id": "69319a11cbfd6b0001fa90e0",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/december-4-2025/",
+          "publishedOn": "2025-12-04T14:45:44.000Z",
+          "wordCount": 4935,
+          "title": "December 4, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-3.png"
+        },
         {
           "id": "6930c4accbfd6b0001fa90b5",
           "author": "Joseph Ziegler",
