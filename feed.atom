@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-05T13:27:56.570Z</updated>
+    <updated>2025-12-05T16:18:16.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 5, 2025]]></title>
+        <id>6932ea8ccbfd6b0001fa92c4</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-5-2025/"/>
+        <updated>2025-12-05T14:35:54.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WYDEN, MERKLEY, IDAHO SENATORS PUSH FOR SRS REAUTHORIZATION]]></title>
+        <id>https://kqennewsradio.com/?p=140860</id>
+        <link href="https://kqennewsradio.com/2025/12/05/wyden-merkley-idaho-senators-push-for-srs-reauthorization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-merkley-idaho-senators-push-for-srs-reauthorization"/>
+        <updated>2025-12-05T14:13:04.000Z</updated>
+        <summary type="html"><![CDATA[December 5, 2025 6:10 a.m.  On Thursday, Oregon U.S. Senators Ron Wyden and Jeff Merkley alongside Idaho Senators Mike Crapo and James Risch, led a bipartisan coalition of 83 lawmakers in sending a letter to House leadership requesting urgent reauthorization of the Secure Rural Schools and Self-Determination Act. A release from Senators Wyden and Merkley...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAN JAILED FOLLOWING FIREARMS DISTURBANCE, LARGE LAW ENFORCEMENT RESPONSE]]></title>
         <id>https://kqennewsradio.com/?p=140855</id>
