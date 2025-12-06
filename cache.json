@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140914",
+          "author": "Kyle Bailey",
+          "description": "December 6, 2025 12:20 p.m.    The National Weather Service in Medford has issued a Flood Potential Outlook for quick rises on rivers, creeks, and streams in portions of Douglas and Coos counties. Forecasters said a persistent storm track in the Pacific Northwest will bring periods of rain, some heavy, to Douglas and Coos counties,...",
+          "link": "https://kqennewsradio.com/2025/12/06/flood-potential-outlook-for-quick-rises-of-rivers-creeks-and-streams/?utm_source=rss&utm_medium=rss&utm_campaign=flood-potential-outlook-for-quick-rises-of-rivers-creeks-and-streams",
+          "publishedOn": "2025-12-06T20:23:15.000Z",
+          "wordCount": 1785,
+          "title": "FLOOD POTENTIAL OUTLOOK FOR QUICK RISES OF RIVERS, CREEKS AND STREAMS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140911",
           "author": "Kyle Bailey",
           "description": "December 6, 2025 9:50 a.m.  A Winchester man was jailed for a restraining order violation on Friday afternoon. A Douglas County Sheriff’s Office report said at 2:10 p.m. the 31-year-old reportedly went on property on Page Road and attempted to enter a residence. The man has active restraining order prohibiting him from being on that...",
@@ -579,16 +589,6 @@
           "wordCount": 1693,
           "title": "CHRISTMAS CRAFT FAIR HAPPENING FRIDAY THROUGH SUNDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251203102013/2025-CFair-Poster-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140729",
-          "author": "Kyle Bailey",
-          "description": "December 3, 2025 2:50 a.m. During the month of December, Thrive Umpqua has a number of community events open to the public. They include: *Light Up the Night at Ford’s Pond in Sutherlin on Friday, December 5th from 4:30 p.m. to 5;30 p.m. This will be a casual, family-friendly ride around the pond. No registration...",
-          "link": "https://kqennewsradio.com/2025/12/03/thrive-umpqua-with-december-events/?utm_source=rss&utm_medium=rss&utm_campaign=thrive-umpqua-with-december-events",
-          "publishedOn": "2025-12-03T11:10:05.000Z",
-          "wordCount": 1802,
-          "title": "THRIVE UMPQUA WITH DECEMBER EVENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201024/THRIVE-UMPQUA-LOGO-e1684405931742.jpg"
         }
       ]
     },
@@ -603,6 +603,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0102070d-8122-4597-a43c-73e0be67b78f",
+          "author": "Erica Reynolds The News-Review",
+          "description": "The city of Roseburg has launched an online survey seeking community input on a master plan update for Stewart Park.",
+          "link": "https://www.nrtoday.com/news/environment/roseburg-looking-for-community-input-on-stewart-park-master-plan-update/article_0102070d-8122-4597-a43c-73e0be67b78f.html",
+          "publishedOn": "2025-12-06T15:45:00.000Z",
+          "wordCount": 12772,
+          "title": "Roseburg looking for community input on Stewart Park master plan update",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/87/2878748e-b73c-4978-8870-b84b57a1aaba/69332246a52ac.image.jpg?resize=300%2C200",
+            "length": "472282",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/87/2878748e-b73c-4978-8870-b84b57a1aaba/69332246a52ac.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9ca98150-558f-461a-9d80-1ea323a201dd",
           "author": "Kyle Bailey For The News-Review",
@@ -762,76 +777,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/38/338a8db3-2feb-4a3c-8e69-9ca98175e5da/692f8b8358aae.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f2686782-1bc8-4449-892d-7b1e6bdc45ba",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSEBURG — Roseburg Public Works Department is still offerring leaf collection service for homeowners starting next month.",
-          "link": "https://www.nrtoday.com/news/local/roseburg-residential-leaf-pickups-still-underway/article_f2686782-1bc8-4449-892d-7b1e6bdc45ba.html",
-          "publishedOn": "2025-12-02T17:45:00.000Z",
-          "wordCount": 12499,
-          "title": "Roseburg residential leaf pickups still underway",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8a/28ac40ca-0c65-427f-813e-c45b93e963a0/68fa5d394e4fa.image.jpg?resize=300%2C225",
-            "length": "645351",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8a/28ac40ca-0c65-427f-813e-c45b93e963a0/68fa5d394e4fa.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a4848ad9-eb3e-4102-806d-4894ff46b7eb",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For all the joy they can bring, the holidays can just as easily turn into a time of stress as families in need struggle to afford food on top of seasonal obligations.",
-          "link": "https://www.nrtoday.com/news/state-and-county-officials-go-on-sherms-shopping-spree-to-fight-hunger-for-the-holidays/article_a4848ad9-eb3e-4102-806d-4894ff46b7eb.html",
-          "publishedOn": "2025-12-02T14:30:00.000Z",
-          "wordCount": 12632,
-          "title": "State and county officials go on Sherm's shopping spree to fight hunger for the holidays",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/de/5de76c80-85d9-4cdc-9b98-a5ed89fe2a69/692e3f9255d1c.image.jpg?resize=300%2C200",
-            "length": "516814",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/de/5de76c80-85d9-4cdc-9b98-a5ed89fe2a69/692e3f9255d1c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9b8798dc-b768-446d-9868-fc231d692fad",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "SUTHERLIN — The city of Sutherlin is holding an open house for its Parks and Recreation Plan on Dec. 15.",
-          "link": "https://www.nrtoday.com/briefs/sutherlin-parks-and-recreation-to-hold-open-house/article_9b8798dc-b768-446d-9868-fc231d692fad.html",
-          "publishedOn": "2025-12-02T14:21:00.000Z",
-          "wordCount": 12157,
-          "title": "Sutherlin Parks and Recreation to hold open house",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/26870c56-b925-40ac-9001-6ecbfd6a5086",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — The Douglas County Wreaths Across America committee has announced that the John Pierson Memorial Wreaths Across America event will take place Saturday, Dece. 13 at the Roseburg National Cemetery.",
-          "link": "https://www.nrtoday.com/briefs/7-000-veterans-to-be-honored-with-wreaths-across-america/article_26870c56-b925-40ac-9001-6ecbfd6a5086.html",
-          "publishedOn": "2025-12-02T14:11:00.000Z",
-          "wordCount": 12229,
-          "title": "7,000 veterans to be honored with Wreaths Across America",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a4422fb2-a8b0-40c5-b76d-3c413fc67dbc",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — The 34th annual Umpqua Fishery Enhancement Derby, which supports restoration, enhancement and education projects in the Umpqua Basin, will be held Jan. 28-31.",
-          "link": "https://www.nrtoday.com/briefs/umpqua-fishery-enhancement-derby-announces-34th-annual-event/article_a4422fb2-a8b0-40c5-b76d-3c413fc67dbc.html",
-          "publishedOn": "2025-12-02T14:06:00.000Z",
-          "wordCount": 12301,
-          "title": "Umpqua Fishery Enhancement Derby announces 34th annual event",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/af2b732c-9ab6-433d-95ba-7b79d2f94678",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — Employment reports for Douglas County and other parts of Oregon have been delayed again, due to the recent federal government shutdown.",
-          "link": "https://www.nrtoday.com/briefs/employment-in-douglas-county-reports-delayed-again/article_af2b732c-9ab6-433d-95ba-7b79d2f94678.html",
-          "publishedOn": "2025-12-02T13:57:00.000Z",
-          "wordCount": 12216,
-          "title": "Employment in Douglas County: Reports delayed again",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
