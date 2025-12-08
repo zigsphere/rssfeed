@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=140953",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Chris Boice and Shelly Johnson of the local Sea Cadets program talk about this year’s Wreaths Across America event.",
+          "link": "https://kqennewsradio.com/2025/12/08/inside-douglas-county-12-8-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-8-25",
+          "publishedOn": "2025-12-08T21:09:50.000Z",
+          "wordCount": 1613,
+          "title": "INSIDE DOUGLAS COUNTY 12.8.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251208200328/IDC-12-8-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251124101826/wreaths.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=140946",
           "author": "Kyle Bailey",
           "description": "December 8, 2025 10:40 a.m.  UCVEG will have their next community potluck on Saturday night at 5:30 p.m. The event will feature a presentation from Luthie West, who will share information on how to use herbs, spices, and seasoning combinations to boost taste without compromising health. The potluck will be held at First United Methodist...",
@@ -354,26 +369,6 @@
           "wordCount": 1808,
           "title": "INPUT SOUGHT ON STEWART PARK MASTER PLAN",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251205101435/Locomotive-Stewart-Park-9-20-23-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140840",
-          "author": "Kyle Bailey",
-          "description": "December 5, 2025 3:05 a.m.  The Friends of the Roseburg Public Library are holding the Winter Book Sale in the Ford Room this week. It will continue Friday from 9:00 a.m. to 4:00 p.m. and on Saturday from 9:00 a.m. to 2:00 p.m. Library Director Kris Wiley said this is a Better Book Sale with...",
-          "link": "https://kqennewsradio.com/2025/12/05/friends-of-roseburg-public-library-book-sale-through-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=friends-of-roseburg-public-library-book-sale-through-saturday",
-          "publishedOn": "2025-12-05T11:10:39.000Z",
-          "wordCount": 1730,
-          "title": "FRIENDS OF ROSEBURG PUBLIC LIBRARY BOOK SALE THROUGH SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250421091318/Magnolia-at-Roseburg-Library-3-27-25-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=140838",
-          "author": "Kyle Bailey",
-          "description": "Decemb34 5, 2025 2:50 a.m. Adapt Integrated Health Care will be closed for services for all non-crisis non-residential services and sites in Douglas County for two upcoming holidays. This will be on December 25th for Christmas and on January 1st for New Years. These will be full-day closures. Services will resume on December 26th and...",
-          "link": "https://kqennewsradio.com/2025/12/05/adapt-annual-closure-notice-for-holidays/?utm_source=rss&utm_medium=rss&utm_campaign=adapt-annual-closure-notice-for-holidays",
-          "publishedOn": "2025-12-05T11:06:18.000Z",
-          "wordCount": 1634,
-          "title": "ADAPT ANNUAL CLOSURE NOTICE FOR HOLIDAYS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727220558/Adapt_IntegratedHealthCare_large-1.jpg"
         }
       ]
     },
