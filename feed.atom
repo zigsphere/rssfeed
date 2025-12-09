@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-08T23:13:29.695Z</updated>
+    <updated>2025-12-09T03:13:47.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man Arrested After Investigation Into Suspected Fentanyl-Related Death in Green District]]></title>
+        <id>693775cfcbfd6b0001fa96df</id>
+        <link href="https://www.roseburgscanner.com/man-arrested-after-investigation-into-suspected-fentanyl-related-death-in-green-district/"/>
+        <updated>2025-12-09T01:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Detectives are investigating a suspected fentanyl overdose that left a Green District man dead. Evidence led officers to arrest 39-year-old George Perez, who is accused of selling fentanyl shortly before the death. More charges may follow as the case continues.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatal Crash on Highway 138E Claims Life of Roseburg Man]]></title>
+        <id>6937716ccbfd6b0001fa96cb</id>
+        <link href="https://www.roseburgscanner.com/fatal-crash-on-highway-138e-claims-life-of-roseburg-man/"/>
+        <updated>2025-12-09T00:51:13.000Z</updated>
+        <summary type="html"><![CDATA[A single-vehicle crash on Highway 138E late Thursday night claimed the life of 30-year-old Domonik Randsome Wright of Roseburg. His Chrysler 200 left the roadway, went airborne, rolled into a field, and caught fire. He was pronounced deceased at the scene.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEATH INVESTIGTION CONTINUES, ARREST MADE ON FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=140959</id>
+        <link href="https://kqennewsradio.com/2025/12/08/death-investigtion-continues-arrest-made-on-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=death-investigtion-continues-arrest-made-on-friday"/>
+        <updated>2025-12-09T00:11:13.000Z</updated>
+        <summary type="html"><![CDATA[December 8, 2025 4:10 p.m.  A death investigation continues, and one arrest has been made. A release from the Douglas Interagency Narcotics Team said in the early morning hours on Thursday, December 4th, deputies with the Douglas County Sheriff’s Office investigated a suspicious death that occurred in the 5000 block of Grange Road in the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG MAN DIES IN HIGHWAY 138E CRASH ON THURSDAY NIGHT]]></title>
+        <id>https://kqennewsradio.com/?p=140957</id>
+        <link href="https://kqennewsradio.com/2025/12/08/roseburg-man-dies-in-highway-138e-crash-on-thursday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-dies-in-highway-138e-crash-on-thursday-night"/>
+        <updated>2025-12-08T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[December 9, 2025 3:50 p.m.  A Roseburg man died in a single vehicle crash late Thursday night. An Oregon State Police report released late Monday afternoon said just before 11:15 p.m. troopers were dispatched to the wreck on Highway 138E, near milepost 12, approximately four miles west of Glide. The preliminary investigation indicated that an...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.8.25]]></title>
         <id>https://kqennewsradio.com/?p=140953</id>
@@ -97,6 +137,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sheriff’s office seeking missing man]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0a55d583-cb61-4b98-9d5b-cc75bf685dae</id>
+        <link href="https://www.nrtoday.com/news/local/sheriff-s-office-seeking-missing-man/article_0a55d583-cb61-4b98-9d5b-cc75bf685dae.html"/>
+        <updated>2025-12-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — The Douglas County Sheriff’s Office is seeking assistance from the public in locating a missing Lake County man after his vehicle was found in the Elliott State Forest.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[52nd annual Douglas County Christmas Craft Fair returns to fairgrounds]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2d11e116-02d1-4cf3-aac9-88ff81f2ae87</id>
+        <link href="https://www.nrtoday.com/family/52nd-annual-douglas-county-christmas-craft-fair-returns-to-fairgrounds/article_2d11e116-02d1-4cf3-aac9-88ff81f2ae87.html"/>
+        <updated>2025-12-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many people have Christmas traditions they return to year after year: Decorating a tree, ice skating and caroling, to name a few.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[December 8, 2025]]></title>
         <id>69365de1cbfd6b0001fa9498</id>
         <link href="https://www.roseburgscanner.com/morning-scoop/december-8-2025/"/>
@@ -104,6 +164,16 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partnership lights up Ford's pond]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e05b53fb-b4ee-41bf-887f-a8aff32f9de5</id>
+        <link href="https://www.nrtoday.com/family/partnership-lights-up-fords-pond/article_e05b53fb-b4ee-41bf-887f-a8aff32f9de5.html"/>
+        <updated>2025-12-08T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[During the winter season, rain and frigid temps usually keep outdoorsy types waiting for springtime to get back into their favorite activities and exercise. One group of cyclists had a different plan in mind.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -384,76 +454,6 @@
         <summary type="html"><![CDATA[Oregon’s Legislature passed House Bill 3991 in September, a prospect that brought relief to ongoing concerns about the Oregon Department of Transportation’s (ODOT) capability to maintain its operations at the cost of increased taxes and fees for citizens.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 5, 2025]]></title>
-        <id>6932ea8ccbfd6b0001fa92c4</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/december-5-2025/"/>
-        <updated>2025-12-05T14:35:54.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sutherlin, Oakland FFA chapters place at state competitions]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/69687fa4-38a6-4497-805d-c6826ca582b0</id>
-        <link href="https://www.nrtoday.com/news/education/sutherlin-oakland-ffa-chapters-place-at-state-competitions/article_69687fa4-38a6-4497-805d-c6826ca582b0.html"/>
-        <updated>2025-12-05T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[On Nov. 22, the state Food Science and Ag Sales competitions took place at Eastern Oregon University. The Sutherlin FFA Chapter competed in the Food Science Career Development Event (CDE) and placed second in state.]]></summary>
-        <author>
-            <name>Khloe Grotting For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN, MERKLEY, IDAHO SENATORS PUSH FOR SRS REAUTHORIZATION]]></title>
-        <id>https://kqennewsradio.com/?p=140860</id>
-        <link href="https://kqennewsradio.com/2025/12/05/wyden-merkley-idaho-senators-push-for-srs-reauthorization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-merkley-idaho-senators-push-for-srs-reauthorization"/>
-        <updated>2025-12-05T14:13:04.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2025 6:10 a.m.  On Thursday, Oregon U.S. Senators Ron Wyden and Jeff Merkley alongside Idaho Senators Mike Crapo and James Risch, led a bipartisan coalition of 83 lawmakers in sending a letter to House leadership requesting urgent reauthorization of the Secure Rural Schools and Self-Determination Act. A release from Senators Wyden and Merkley...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAN JAILED FOLLOWING FIREARMS DISTURBANCE, LARGE LAW ENFORCEMENT RESPONSE]]></title>
-        <id>https://kqennewsradio.com/?p=140855</id>
-        <link href="https://kqennewsradio.com/2025/12/05/man-jailed-following-firearms-disturbance-large-law-enforcement-response/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=man-jailed-following-firearms-disturbance-large-law-enforcement-response"/>
-        <updated>2025-12-05T12:13:54.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2025 4:10 a.m.  A man is in jail following a disturbance involving a firearm, which led to a large law enforcement response on Northeast Stephens Street in Roseburg on Thursday afternoon. Sergeant Daniel Allen of the Roseburg Police Department said the situation began at approximately 2:45 p.m. when officers were dispatched to the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMISSIONERS ISSUE PROCLAMATION FOR WREATHS ACROSS AMERICA DAY]]></title>
-        <id>https://kqennewsradio.com/?p=140851</id>
-        <link href="https://kqennewsradio.com/2025/12/05/commissioners-issue-proclamation-for-wreaths-across-america-day-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commissioners-issue-proclamation-for-wreaths-across-america-day-3"/>
-        <updated>2025-12-05T11:28:07.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2025 3:40 a.m.   Douglas County Commissioners Tim Freeman, Tom Kress, and Chris Boice issued a proclamation on Wednesday, during their weekly business meeting, calling upon all citizens of the county to observe Wreaths Across America Day, in celebration of the annual Wreaths Across America event taking place on Saturday, December 13th. A county...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAIRGROUNDS DIRECTOR GRADUATE OF IAFE FAIR MANAGEMENT PROGRAM]]></title>
-        <id>https://kqennewsradio.com/?p=140847</id>
-        <link href="https://kqennewsradio.com/2025/12/05/fairgrounds-director-graduate-of-iafe-fair-management-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fairgrounds-director-graduate-of-iafe-fair-management-program"/>
-        <updated>2025-12-05T11:23:24.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2025 3:30 a.m.  Douglas County Fairgrounds Director Ciera Keith has been recognized as a graduate of the Institute of Fair Management during the 2025 International Association of Fairs and Expositions Convention and Trade Show held this week in Denver, Colorado. A release said established in 2007, the IAFE provides industry professionals and volunteers...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INPUT SOUGHT ON STEWART PARK MASTER PLAN]]></title>
-        <id>https://kqennewsradio.com/?p=140842</id>
-        <link href="https://kqennewsradio.com/2025/12/05/input-sought-on-stewart-park-master-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=input-sought-on-stewart-park-master-plan"/>
-        <updated>2025-12-05T11:16:28.000Z</updated>
-        <summary type="html"><![CDATA[December 5, 2025 3:20 a.m.  The City of Roseburg has launched an online community survey seeking input on a master plan update to help shape the future of Stewart Park. A city release said Roseburg residents and others who use the city’s premiere park and its various amenities are being asked to give feedback to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
