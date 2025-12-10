@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-09T23:14:18.305Z</updated>
+    <updated>2025-12-10T03:17:12.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 12.9.25]]></title>
+        <id>https://kqennewsradio.com/?p=141008</id>
+        <link href="https://kqennewsradio.com/2025/12/10/true-wealth-12-9-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-12-9-25"/>
+        <updated>2025-12-10T01:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.9.25]]></title>
         <id>https://kqennewsradio.com/?p=141005</id>
