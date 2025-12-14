@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-14T16:15:32.157Z</updated>
+    <updated>2025-12-14T19:11:35.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Volunteers Place 7,000 Wreaths at Roseburg National Cemetery to Honor Veterans]]></title>
+        <id>693e65f5cbfd6b0001fa9e36</id>
+        <link href="https://www.roseburgscanner.com/volunteers-place-7-000-wreaths-at-roseburg-national-cemetery-to-honor-veterans/"/>
+        <updated>2025-12-14T16:43:34.000Z</updated>
+        <summary type="html"><![CDATA[More than 7,000 wreaths were placed at Roseburg National Cemetery as volunteers gathered for the John Pierson Memorial Wreaths Across America Ceremony. Each wreath marked a veteran’s service, with names spoken aloud to ensure no one is remembered as just a number.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.12.25]]></title>
         <id>https://kqennewsradio.com/?p=141173</id>
