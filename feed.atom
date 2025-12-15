@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-15T19:14:59.548Z</updated>
+    <updated>2025-12-15T23:14:22.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.15.25]]></title>
+        <id>https://kqennewsradio.com/?p=141223</id>
+        <link href="https://kqennewsradio.com/2025/12/15/inside-douglas-county-12-15-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-15-25"/>
+        <updated>2025-12-15T21:12:18.000Z</updated>
+        <summary type="html"><![CDATA[City of Roseburg  Parks and Recreation Program Manager Vel Ligon talks about a master plan update for Stewart Park. A survey is available for public input through Friday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H.O.P.E DRUG COURT TO CELEBRATE 111TH GRADUATION TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=141220</id>
@@ -412,26 +422,6 @@
         <link href="https://kqennewsradio.com/2025/12/12/sutherlin-parks-and-recreation-plan-open-house-on-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-parks-and-recreation-plan-open-house-on-monday"/>
         <updated>2025-12-12T11:15:37.000Z</updated>
         <summary type="html"><![CDATA[December 12, 2025 3:20 a.m.  The open house for the City of Sutherlin Parks and Recreation Plan is happening Monday night. A city release said the plan is in the process of being updated and staff are hoping to receive community input regarding what the community wants and what its top priorities are. The event...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG HIGH SCHOOL HOLIDAY ONE-ACT EXTRAVAGANZA]]></title>
-        <id>https://kqennewsradio.com/?p=141126</id>
-        <link href="https://kqennewsradio.com/2025/12/12/roseburg-high-school-holiday-one-act-extravaganza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-high-school-holiday-one-act-extravaganza"/>
-        <updated>2025-12-12T11:11:19.000Z</updated>
-        <summary type="html"><![CDATA[December 12, 2025 3:05 a.m. In the KQEN Cultural Spotlight: Roseburg High School Theatre Department presents, “A Holiday One-Act Extravaganza” on Friday and Saturday night at 7:00 p.m. It is a series of original and adapted short stories about the spirit of the holidays. Each evening features, “The Little Match Girl”, by Herbert Ammann, based...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR PROBATION VIOLATION]]></title>
-        <id>https://kqennewsradio.com/?p=141124</id>
-        <link href="https://kqennewsradio.com/2025/12/12/roseburg-police-jail-man-for-probation-violation-12/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-probation-violation-12"/>
-        <updated>2025-12-12T11:00:25.000Z</updated>
-        <summary type="html"><![CDATA[December 12, 2025 2:50 a.m.  Roseburg Police jailed a man for a probation violation early Thursday. An RPD report said at 1:50 a.m. officers contacted the 41-year-old while responding to a report of a suspicious male walking near resident’s vehicles and into their carports near the area of Northwest Luth Street and Northwest Utah Drive....]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

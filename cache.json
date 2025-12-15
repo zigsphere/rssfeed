@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141223",
+          "author": "Kyle Bailey",
+          "description": "City of Roseburg  Parks and Recreation Program Manager Vel Ligon talks about a master plan update for Stewart Park. A survey is available for public input through Friday.",
+          "link": "https://kqennewsradio.com/2025/12/15/inside-douglas-county-12-15-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-15-25",
+          "publishedOn": "2025-12-15T21:12:18.000Z",
+          "wordCount": 1647,
+          "title": "INSIDE DOUGLAS COUNTY 12.15.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251215200738/IDC-12-15-25-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251215201108/Vel.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141220",
           "author": "Kyle Bailey",
           "description": "December 15, 2025 11:10 a.m.   The H.O.P.E. Drug Court will celebrate its 111th graduation ceremony Tuesday night at 5:15 p.m. in Cascade Hall at the fairgrounds. The ceremony will be presided over by The Honorable Robert B. Johnson, who leads the adult drug court program. A release from the Douglas County Circuit Court said the...",
@@ -324,26 +339,6 @@
           "wordCount": 1683,
           "title": "SUTHERLIN PARKS AND RECREATION PLAN OPEN HOUSE ON MONDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251202102236/Suthparks.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141126",
-          "author": "Kyle Bailey",
-          "description": "December 12, 2025 3:05 a.m. In the KQEN Cultural Spotlight: Roseburg High School Theatre Department presents, “A Holiday One-Act Extravaganza” on Friday and Saturday night at 7:00 p.m. It is a series of original and adapted short stories about the spirit of the holidays. Each evening features, “The Little Match Girl”, by Herbert Ammann, based...",
-          "link": "https://kqennewsradio.com/2025/12/12/roseburg-high-school-holiday-one-act-extravaganza/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-high-school-holiday-one-act-extravaganza",
-          "publishedOn": "2025-12-12T11:11:19.000Z",
-          "wordCount": 1661,
-          "title": "ROSEBURG HIGH SCHOOL HOLIDAY ONE-ACT EXTRAVAGANZA",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251212100925/Xmas-One-Acts-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141124",
-          "author": "Kyle Bailey",
-          "description": "December 12, 2025 2:50 a.m.  Roseburg Police jailed a man for a probation violation early Thursday. An RPD report said at 1:50 a.m. officers contacted the 41-year-old while responding to a report of a suspicious male walking near resident’s vehicles and into their carports near the area of Northwest Luth Street and Northwest Utah Drive....",
-          "link": "https://kqennewsradio.com/2025/12/12/roseburg-police-jail-man-for-probation-violation-12/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-probation-violation-12",
-          "publishedOn": "2025-12-12T11:00:25.000Z",
-          "wordCount": 1681,
-          "title": "ROSEBURG POLICE JAIL MAN FOR PROBATION VIOLATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
         }
       ]
     },
