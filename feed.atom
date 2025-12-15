@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-14T23:13:30.124Z</updated>
+    <updated>2025-12-15T03:24:58.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Travel Alert for Drivers Heading North: OR 229 Closed in Lincoln County Due to Landslide]]></title>
+        <id>693f540dcbfd6b0001fa9e6a</id>
+        <link href="https://www.roseburgscanner.com/travel-alert-for-drivers-heading-north-or-229-closed-in-lincoln-county-due-to-landslide/"/>
+        <updated>2025-12-15T00:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Drivers traveling north or toward the Oregon coast should be aware that OR 229 in Lincoln County is closed between Kernville and Siletz due to a landslide that removed part of the roadway. No detour is available and the closure is expected to be long term.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volunteers Place 7,000 Wreaths at Roseburg National Cemetery to Honor Veterans]]></title>
         <id>693e65f5cbfd6b0001fa9e36</id>
@@ -422,86 +432,6 @@
         <link href="https://kqennewsradio.com/2025/12/11/wish-upon-a-star-12-11-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wish-upon-a-star-12-11-25"/>
         <updated>2025-12-11T17:18:34.000Z</updated>
         <summary type="html"><![CDATA[Wish #4. Presented by Brooke Communications and Rogue Credit Union, today we heard the story of Jon, who is going through some tough times. Some help is provided by Wish Upon a Star.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland Tree Farm is open until Sunday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/351a8252-6407-405b-a7d3-f12626a56e72</id>
-        <link href="https://www.nrtoday.com/news/oakland-tree-farm-is-open-until-sunday/article_351a8252-6407-405b-a7d3-f12626a56e72.html"/>
-        <updated>2025-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OAKLAND — Phil and Kim Adams have owned Oakland Tree Farm for 31 years.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 11, 2025]]></title>
-        <id>693ad483cbfd6b0001fa9a50</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/december-11-2025/"/>
-        <updated>2025-12-11T14:49:45.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SETS RECORD HIGH FOR THE DATE ON WEDNESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=141083</id>
-        <link href="https://kqennewsradio.com/2025/12/11/roseburg-sets-record-high-for-the-date-on-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sets-record-high-for-the-date-on-wednesday"/>
-        <updated>2025-12-11T11:42:50.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2025 4:00 a.m.  Roseburg had a record high temperature for the date on Wednesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 67 degrees at the Roseburg Regional Airport. The previous record high for December 10th was 66 degrees, set in...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OREGON’S UNEMPLOYMENT RATE WAS 5.2 PERCENT IN SEPTEMBER]]></title>
-        <id>https://kqennewsradio.com/?p=141081</id>
-        <link href="https://kqennewsradio.com/2025/12/11/oregons-unemployment-rate-was-5-2-percent-in-september/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oregons-unemployment-rate-was-5-2-percent-in-september"/>
-        <updated>2025-12-11T11:22:31.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2025 3:50 a.m.  On Wednesday, the Oregon Employment Department released monthly employment and unemployment data for September 2025, after a significant delay due to the federal government shutdown. An OED release said Oregon’s Unemployment Rate was 5.2 percent in September and 5.0 percent in August, after increasing for much of the past two...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REPRESENTATIVE HOYLES ANNOUNCES TELE-TOWN HALL FOR MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=141079</id>
-        <link href="https://kqennewsradio.com/2025/12/11/representative-hoyles-announces-tele-town-hall-for-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=representative-hoyles-announces-tele-town-hall-for-monday"/>
-        <updated>2025-12-11T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2025 3:40 a.m.  Representative Val Hoyle has announced she will host a Tele-Town Hall next Monday, December 15th. The event will begin at 5:30 p.m. Pacific Time. Representative Hoyle will share end of the year updates about what’s going on in Congress and how it’s impacting communities in her district. It is also...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCAN HOSTING WINTER WARMING CENTER VOLUNTEER TRAINING SESSIONS]]></title>
-        <id>https://kqennewsradio.com/?p=141076</id>
-        <link href="https://kqennewsradio.com/2025/12/11/ucan-hosting-winter-warming-center-volunteer-training-sessions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucan-hosting-winter-warming-center-volunteer-training-sessions"/>
-        <updated>2025-12-11T11:16:06.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 20-25 3:30 a.m.  The United Community Action Network is hosting winter warming center volunteer training sessions this month. A UCAN release said the organization is recruiting volunteers to help out at the Roseburg Warming Center, a temporary shelter that will be located inside St. Joseph’s Catholic Church gymnasium on West Stanton Street. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMPQUA VALLEY ARTS SEEKING ENTERTAINMENT FOR SUMMER ARTS FESTIVAL]]></title>
-        <id>https://kqennewsradio.com/?p=141073</id>
-        <link href="https://kqennewsradio.com/2025/12/11/umpqua-valley-arts-seeking-entertainment-for-summer-arts-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=umpqua-valley-arts-seeking-entertainment-for-summer-arts-festival"/>
-        <updated>2025-12-11T11:10:14.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2025 3:20 a.m.  In the KQEN Cultural Spotlight: Umpqua Valley Arts is seeking Main Stage and Community Stage entertainment for its Summer Arts Festival. The 57th annual event will be on June 26th, 27th and 28th. Local, regional and national bands are sought for the Main Stage to entertain festival guests in the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIVING MACHINES AT VALLEY RIVER CENTER THROUGH SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=141071</id>
-        <link href="https://kqennewsradio.com/2025/12/11/giving-machines-at-valley-river-center-through-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=giving-machines-at-valley-river-center-through-sunday"/>
-        <updated>2025-12-11T11:03:46.000Z</updated>
-        <summary type="html"><![CDATA[December 11, 2025 2:50 a.m.  Giving Machines will remain at Valley River Center in Eugene, through this Sunday. The effort offers the community an innovative, hands-on way to support local nonprofits. Last year, more than $60,000 in donations was raised. Each dollar donated in the machines goes to support non-profit organizations in Lane, Linn, Benton...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
