@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-15T14:27:02.116Z</updated>
+    <updated>2025-12-15T16:21:10.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DR Johnson Memorial Timber Truckers Light Parade passes through south county]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/4f09a40a-8b56-4b13-a5a0-5185ef3853a8</id>
+        <link href="https://www.nrtoday.com/news/history/dr-johnson-memorial-timber-truckers-light-parade-passes-through-south-county/article_4f09a40a-8b56-4b13-a5a0-5185ef3853a8.html"/>
+        <updated>2025-12-15T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Dominic and Shirley Corbin typically sit on the back of a decorated Norton Forest Products truck in the DR Johnson Memorial Timber Truckers Light Parades; at least, that's what they've done for the past five years.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 15, 2025]]></title>
+        <id>693fa315cbfd6b0001fa9e8a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-15-2025/"/>
+        <updated>2025-12-15T14:41:11.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pierson Memorial Wreaths Across America honors over 6,000 veterans in Roseburg]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d3d90dba-189b-4c19-a163-5840541bdb03</id>
+        <link href="https://www.nrtoday.com/news/government/pierson-memorial-wreaths-across-america-honors-over-6-000-veterans-in-roseburg/article_d3d90dba-189b-4c19-a163-5840541bdb03.html"/>
+        <updated>2025-12-15T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Saturday's Wreaths Across America sprinkled across the United States with people in over 5,000 locations coming together to remember, honor and teach.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STORM SYSTEM BRINGING MULTIPLE ROUNDS OF RAIN THIS WEEK]]></title>
         <id>https://kqennewsradio.com/?p=141197</id>

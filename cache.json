@@ -284,6 +284,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4f09a40a-8b56-4b13-a5a0-5185ef3853a8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — Dominic and Shirley Corbin typically sit on the back of a decorated Norton Forest Products truck in the DR Johnson Memorial Timber Truckers Light Parades; at least, that's what they've done for the past five years.",
+          "link": "https://www.nrtoday.com/news/history/dr-johnson-memorial-timber-truckers-light-parade-passes-through-south-county/article_4f09a40a-8b56-4b13-a5a0-5185ef3853a8.html",
+          "publishedOn": "2025-12-15T15:30:00.000Z",
+          "wordCount": 14572,
+          "title": "DR Johnson Memorial Timber Truckers Light Parade passes through south county",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/5f/e5fb7a24-55f5-4523-a4aa-0b7eb9701533/693fac59acbc4.image.jpg?resize=300%2C200",
+            "length": "481709",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/5f/e5fb7a24-55f5-4523-a4aa-0b7eb9701533/693fac59acbc4.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d3d90dba-189b-4c19-a163-5840541bdb03",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Saturday's Wreaths Across America sprinkled across the United States with people in over 5,000 locations coming together to remember, honor and teach.",
+          "link": "https://www.nrtoday.com/news/government/pierson-memorial-wreaths-across-america-honors-over-6-000-veterans-in-roseburg/article_d3d90dba-189b-4c19-a163-5840541bdb03.html",
+          "publishedOn": "2025-12-15T14:30:00.000Z",
+          "wordCount": 15306,
+          "title": "Pierson Memorial Wreaths Across America honors over 6,000 veterans in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/24/d24757d9-f09a-4a9e-929f-0f7d8b8f7d45/693fbb337f06f.image.jpg?resize=300%2C200",
+            "length": "452092",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/24/d24757d9-f09a-4a9e-929f-0f7d8b8f7d45/693fbb337f06f.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ba2e5979-792a-4e7a-b3f2-495dc7dc30f2",
           "author": "Kyle Bailey For The News-Review",
           "description": "OREGON — Oregon State Parks will host Winter Whale Watch Week along the Oregon coast from Dec. 27-31.",
@@ -356,6 +386,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "693fa315cbfd6b0001fa9e8a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/december-15-2025/",
+          "publishedOn": "2025-12-15T14:41:11.000Z",
+          "wordCount": 4849,
+          "title": "December 15, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-10.png"
+        },
         {
           "id": "693f540dcbfd6b0001fa9e6a",
           "author": "Joseph Ziegler",
