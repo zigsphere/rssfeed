@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-17T14:38:06.708Z</updated>
+    <updated>2025-12-17T16:19:24.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 17, 2025]]></title>
+        <id>6942be98cbfd6b0001faa216</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-17-2025/"/>
+        <updated>2025-12-17T14:58:30.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highway 138 East closed due to downed trees]]></title>
+        <id>https://kqennewsradio.com/?p=141277</id>
+        <link href="https://kqennewsradio.com/2025/12/17/highway-138-east-closed-due-to-downed-trees/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=highway-138-east-closed-due-to-downed-trees"/>
+        <updated>2025-12-17T14:50:58.000Z</updated>
+        <summary type="html"><![CDATA[6:45 a.m. Dec. 17, 2025 Downed trees on Highway 138 East forced crews to close the road early Wednesday. Oregon Department of Transportation reported that the highway is closed from west of Tokatee at milepost 58 to the junction with Highway 97. There is no estimated time for reopening the highway. ODOT encourages travelers to...]]></summary>
+        <author>
+            <name>Joey Keeran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Douglas Electric deals with early-morning outage]]></title>
         <id>https://kqennewsradio.com/?p=141275</id>
