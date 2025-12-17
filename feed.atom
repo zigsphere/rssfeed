@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-17T14:35:16.485Z</updated>
+    <updated>2025-12-17T14:38:06.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas Electric deals with early-morning outage]]></title>
+        <id>https://kqennewsradio.com/?p=141275</id>
+        <link href="https://kqennewsradio.com/2025/12/17/douglas-electric-deals-with-early-morning-outage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-electric-deals-with-early-morning-outage"/>
+        <updated>2025-12-17T14:34:50.000Z</updated>
+        <summary type="html"><![CDATA[6:35 a.m. Dec. 17, 2025 Over 3,300 Douglas Electric Cooperative members lost power early Wednesday morning, but the utility has managed to get power restored to more than half of its customers. Phil Bigler with Douglas Electric said that a wide-scale outage was reported around 2:30 a.m. affecting all customers in Drain, Elkton and Scottsburg,...]]></summary>
+        <author>
+            <name>Joey Keeran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pacific Power prepares for possible weather-related outages]]></title>
         <id>https://kqennewsradio.com/?p=141269</id>
