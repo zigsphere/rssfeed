@@ -574,6 +574,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3586d6bd-17e7-49b6-883a-9008ec0c6a4b",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The sounds of young voices singing Christmas carols brought people out of their rooms and into the foyer of Riverview Terrace on Wednesday morning.",
+          "link": "https://www.nrtoday.com/news/education/spreading-the-spirit-fullerton-iv-students-carol-at-retirement-homes/article_3586d6bd-17e7-49b6-883a-9008ec0c6a4b.html",
+          "publishedOn": "2025-12-18T14:00:00.000Z",
+          "wordCount": 12947,
+          "title": "Spreading the spirit: Fullerton IV students carol at retirement homes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/6b/86b3ce74-3b0a-48f1-b7ae-1414b641e9b4/694342a1b6d79.image.jpg?resize=300%2C200",
+            "length": "337421",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/6b/86b3ce74-3b0a-48f1-b7ae-1414b641e9b4/694342a1b6d79.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e410b663-c170-41df-8afb-3f09f6d76d7d",
           "author": "Kyle Bailey For The News-Review",
           "description": "A contractor for the Oregon Department of Transportation (ODOT) has finished work for the season on the Oregon 42 Lookingglass Creek to I-5 Project.",
@@ -587,6 +602,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/32/7320d4fc-130f-11ef-8e4c-835e19b7ebc0/66453f6ed5ca0.image.jpg?resize=300%2C159"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2cf1ecd-eec8-4e38-8f2b-d11b5bc815d3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Two Douglas County school districts will offer free meals to anyone 18 and younger during the winter break.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-winston-dillard-school-districts-keep-children-fed-over-the-holidays/article_b2cf1ecd-eec8-4e38-8f2b-d11b5bc815d3.html",
+          "publishedOn": "2025-12-16T19:40:00.000Z",
+          "wordCount": 12475,
+          "title": "Roseburg, Winston-Dillard school districts keep children fed over the holidays",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/94/09428e9a-dce1-11ee-b3d3-97935e4c05d0/645d84cf560a9.image.jpg?resize=300%2C200",
+            "length": "515444",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/94/09428e9a-dce1-11ee-b3d3-97935e4c05d0/645d84cf560a9.image.jpg?resize=300%2C200"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6674e747-8328-4821-b72e-5bc58c417473",
@@ -656,6 +686,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "69441d11cbfd6b0001faa537",
+          "author": "Joseph Ziegler",
+          "description": "Oregon has activated its State Emergency Coordination Center as an atmospheric river is expected to bring heavy rain, flooding, and landslide risks across western Oregon, including Benton, Clackamas, Lane, Linn, Marion, Multnomah, Polk, Tillamook, Washington, and Yamhill counties.",
+          "link": "https://www.roseburgscanner.com/state-emergency-center-activated-as-atmospheric-river-targets-western-oregon/",
+          "publishedOn": "2025-12-18T15:28:08.000Z",
+          "wordCount": 2030,
+          "title": "State Emergency Center Activated as Atmospheric River Targets Western Oregon",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/OEMLogo-2-1.png"
+        },
+        {
+          "id": "69441ad0cbfd6b0001faa525",
+          "author": "Joseph Ziegler",
+          "description": "A Wind Advisory remains in effect until 4 a.m. Friday for parts of Douglas and Josephine counties. Southwest winds of 20 to 30 mph with gusts up to 50 mph may impact travel, utilities, and unsecured objects.",
+          "link": "https://www.roseburgscanner.com/wind-advisory-remains-in-effect-for-parts-of-douglas-and-josephine-counties/",
+          "publishedOn": "2025-12-18T15:17:07.000Z",
+          "wordCount": 1926,
+          "title": "Wind Advisory Remains in Effect for Parts of Douglas and Josephine Counties",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/wind.png"
+        },
+        {
+          "id": "69440f9bcbfd6b0001faa397",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/december-18-2025/",
+          "publishedOn": "2025-12-18T14:58:30.000Z",
+          "wordCount": 4639,
+          "title": "December 18, 2025",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-13.png"
+        },
         {
           "id": "6942be98cbfd6b0001faa216",
           "author": "Joseph Ziegler",
