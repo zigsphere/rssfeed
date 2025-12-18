@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141367",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Tim Freeman talks about the extension of Secure Rural Schools and Self Determination Act funding – and its impacts on county finances.",
+          "link": "https://kqennewsradio.com/2025/12/18/inside-douglas-county-12-18-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-18-25",
+          "publishedOn": "2025-12-18T21:14:26.000Z",
+          "wordCount": 1643,
+          "title": "INSIDE DOUGLAS COUNTY 12.18.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251218200606/IDC-12-18-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251218201407/Tim-6.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141358",
           "author": "Kyle Bailey",
           "description": "December 18, 2025 11:05 a.m.  Roseburg Public Works and Parks and Recreation staff have set out sand and sandbags for residents ahead of the predicted storm. A city release said sand and sandbags are available 24/7 at the Parks Maintenance Shop at 1802 Northwest Stewart Park Drive, adjacent to the locomotive in Stewart Park. Residents...",
@@ -599,46 +614,6 @@
           "wordCount": 1877,
           "title": "OREGON 42 LOOKINGGLASS CREEK TO I-5 PROJECT PAUSED UNTIL SPRING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251215101745/ODOT2-3-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141185",
-          "author": "Kyle Bailey",
-          "description": "December 15, 2025 3:30 a.m.  Local businesses and nonprofit organizations planning events to attract visitors, still have time to apply for a fall tourism grant from the City of Roseburg. A city release said the Roseburg Community Development Department and Roseburg Economic Development Commission are taking applications for the grants until 5:00 p.m. on Wednesday,...",
-          "link": "https://kqennewsradio.com/2025/12/15/still-time-to-apply-for-city-of-roseburg-fall-tourism-grants/?utm_source=rss&utm_medium=rss&utm_campaign=still-time-to-apply-for-city-of-roseburg-fall-tourism-grants",
-          "publishedOn": "2025-12-15T11:12:17.000Z",
-          "wordCount": 1813,
-          "title": "STILL TIME TO APPLY FOR CITY OF ROSEBURG FALL TOURISM GRANTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224038/City-Hall-Front-1-e1584801171776.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141183",
-          "author": "Kyle Bailey",
-          "description": "December 15, 2025 3:20 a.m.  The Umpqua Public Transportation District Board of directors will meet on Monday night at 5:30 p.m. Jennifer Boardman from the Oregon Department of Transportation will provide an update regarding key areas like governance and board responsibilities, compliance requirements, procurement and contracting practices, funding opportunities, board member training expectations and alignment...",
-          "link": "https://kqennewsradio.com/2025/12/15/umpqua-public-transportation-district-board-meets-monday-night/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-public-transportation-district-board-meets-monday-night",
-          "publishedOn": "2025-12-15T11:09:08.000Z",
-          "wordCount": 1709,
-          "title": "UMPQUA PUBLIC TRANSPORTATION DISTRICT BOARD MEETS MONDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251106102531/UPTD-LOGO_thumbnail.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141181",
-          "author": "Kyle Bailey",
-          "description": "December 15, 2025 3:05 a.m.  The Oregon Community Foundation recently awarded just over $200,000 to several organizations in Douglas County. The funding was part of $5.1 million given out by OCF’s Community Grants program to organizations working to expand access to education, health services, economic opportunity, arts and culture, and more. A release said grants...",
-          "link": "https://kqennewsradio.com/2025/12/15/foundation-awards-over-200000-to-local-organizations/?utm_source=rss&utm_medium=rss&utm_campaign=foundation-awards-over-200000-to-local-organizations",
-          "publishedOn": "2025-12-15T11:05:45.000Z",
-          "wordCount": 1751,
-          "title": "FOUNDATION AWARDS OVER $200,000 TO LOCAL ORGANIZATIONS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241210102419/OCF-Logo-FullColor2x-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141179",
-          "author": "Kyle Bailey",
-          "description": "December 15, 2025 2:50 a.m. The Umpqua Valley Festival of Lights continues nightly through January 1st. Presented by the Roseburg Rotary Club, the 33rd annual event features more than 500,000 lights and 90 displays at River Forks Park, northwest of Roseburg. A $10 ticket allows one vehicle visit to both the Festival of Lights and...",
-          "link": "https://kqennewsradio.com/2025/12/15/festival-of-lights-continues-through-january-1st-3/?utm_source=rss&utm_medium=rss&utm_campaign=festival-of-lights-continues-through-january-1st-3",
-          "publishedOn": "2025-12-15T11:02:58.000Z",
-          "wordCount": 1700,
-          "title": "FESTIVAL OF LIGHTS CONTINUES THROUGH JANUARY 1ST",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727203654/Festival-of-Lights-Gold-Logo-e1668535771982.png"
         }
       ]
     },
