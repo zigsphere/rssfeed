@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141317",
+          "author": "Kyle Bailey",
+          "description": "December 17, 2025 4:00 p.m.  Heavy rain is expected in Douglas, Coos, Curry and Josephine counties on Thursday night and Friday. A Hydrologic Outlook issued by the National Weather Service in Medford said an atmospheric river is forecast to bring another round of moderate to heavy rain. Rainfall amounts of 2 to 4 inches are...",
+          "link": "https://kqennewsradio.com/2025/12/17/atmospheric-river-forecast-to-arrive-thursday-night/?utm_source=rss&utm_medium=rss&utm_campaign=atmospheric-river-forecast-to-arrive-thursday-night",
+          "publishedOn": "2025-12-18T00:12:04.000Z",
+          "wordCount": 1743,
+          "title": "ATMOSPHERIC RIVER FORECAST TO ARRIVE THURSDAY NIGHT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251217231037/WeatherStory3-1.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141315",
           "author": "Kyle Bailey",
           "description": "December 17, 2025 2:00 p.m.  Roseburg Police jailed a woman for warrants on Monday afternoon. An RPD report said just after 4:30 p.m. the 30-year-old was contacted outside a business in the 300 block of Northeast Winchester Street and found she had multiple warrants for her arrest. The warrants were confirmed and she was taken...",
@@ -483,6 +493,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e410b663-c170-41df-8afb-3f09f6d76d7d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A contractor for the Oregon Department of Transportation (ODOT) has finished work for the season on the Oregon 42 Lookingglass Creek to I-5 Project.",
+          "link": "https://www.nrtoday.com/news/oregon-42-construction-project-paused-until-spring/article_e410b663-c170-41df-8afb-3f09f6d76d7d.html",
+          "publishedOn": "2025-12-16T21:01:00.000Z",
+          "wordCount": 12630,
+          "title": "Oregon 42 construction project paused until spring",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/32/7320d4fc-130f-11ef-8e4c-835e19b7ebc0/66453f6ed5ca0.image.jpg?resize=300%2C159",
+            "length": "162581",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/32/7320d4fc-130f-11ef-8e4c-835e19b7ebc0/66453f6ed5ca0.image.jpg?resize=300%2C159"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6674e747-8328-4821-b72e-5bc58c417473",
           "author": "JOEY KEERAN The News-Review",

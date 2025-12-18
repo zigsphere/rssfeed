@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-17T23:14:07.448Z</updated>
+    <updated>2025-12-18T03:15:59.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ATMOSPHERIC RIVER FORECAST TO ARRIVE THURSDAY NIGHT]]></title>
+        <id>https://kqennewsradio.com/?p=141317</id>
+        <link href="https://kqennewsradio.com/2025/12/17/atmospheric-river-forecast-to-arrive-thursday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=atmospheric-river-forecast-to-arrive-thursday-night"/>
+        <updated>2025-12-18T00:12:04.000Z</updated>
+        <summary type="html"><![CDATA[December 17, 2025 4:00 p.m.  Heavy rain is expected in Douglas, Coos, Curry and Josephine counties on Thursday night and Friday. A Hydrologic Outlook issued by the National Weather Service in Medford said an atmospheric river is forecast to bring another round of moderate to heavy rain. Rainfall amounts of 2 to 4 inches are...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=141315</id>
@@ -174,6 +184,16 @@
         <summary type="html"><![CDATA[6:35 a.m. Dec. 17, 2025 Over 3,300 Douglas Electric Cooperative members lost power early Wednesday morning, but the utility has managed to get power restored to more than half of its customers. Phil Bigler with Douglas Electric said that a wide-scale outage was reported around 2:30 a.m. affecting all customers in Drain, Elkton and Scottsburg,...]]></summary>
         <author>
             <name>Joey Keeran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon 42 construction project paused until spring]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/e410b663-c170-41df-8afb-3f09f6d76d7d</id>
+        <link href="https://www.nrtoday.com/news/oregon-42-construction-project-paused-until-spring/article_e410b663-c170-41df-8afb-3f09f6d76d7d.html"/>
+        <updated>2025-12-16T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A contractor for the Oregon Department of Transportation (ODOT) has finished work for the season on the Oregon 42 Lookingglass Creek to I-5 Project.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
