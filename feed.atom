@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-18T03:15:59.244Z</updated>
+    <updated>2025-12-18T13:32:35.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -544,26 +544,6 @@
         <summary type="html"><![CDATA[December 15, 2025 2:50 a.m. The Umpqua Valley Festival of Lights continues nightly through January 1st. Presented by the Roseburg Rotary Club, the 33rd annual event features more than 500,000 lights and 90 displays at River Forks Park, northwest of Roseburg. A $10 ticket allows one vehicle visit to both the Festival of Lights and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travel Alert for Drivers Heading North: OR 229 Closed in Lincoln County Due to Landslide]]></title>
-        <id>693f540dcbfd6b0001fa9e6a</id>
-        <link href="https://www.roseburgscanner.com/travel-alert-for-drivers-heading-north-or-229-closed-in-lincoln-county-due-to-landslide/"/>
-        <updated>2025-12-15T00:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Drivers traveling north or toward the Oregon coast should be aware that OR 229 in Lincoln County is closed between Kernville and Siletz due to a landslide that removed part of the roadway. No detour is available and the closure is expected to be long term.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volunteers Place 7,000 Wreaths at Roseburg National Cemetery to Honor Veterans]]></title>
-        <id>693e65f5cbfd6b0001fa9e36</id>
-        <link href="https://www.roseburgscanner.com/volunteers-place-7-000-wreaths-at-roseburg-national-cemetery-to-honor-veterans/"/>
-        <updated>2025-12-14T16:43:34.000Z</updated>
-        <summary type="html"><![CDATA[More than 7,000 wreaths were placed at Roseburg National Cemetery as volunteers gathered for the John Pierson Memorial Wreaths Across America Ceremony. Each wreath marked a veteran’s service, with names spoken aloud to ensure no one is remembered as just a number.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
