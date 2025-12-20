@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-20T13:23:16.833Z</updated>
+    <updated>2025-12-20T16:17:18.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Heartfelt Goodbye To Parrott House And A New Beginning For Fun Cuisine]]></title>
+        <id>6946c47fcbfd6b0001faa732</id>
+        <link href="https://www.roseburgscanner.com/a-heartfelt-goodbye-to-parrott-house-and-a-new-beginning-for-fun-cuisine/"/>
+        <updated>2025-12-20T15:49:04.000Z</updated>
+        <summary type="html"><![CDATA[A cherished chapter in Roseburg dining is ending as Fun Cuisine prepares to leave the historic Parrott House due to the property being sold. While the location is closing, the business will continue catering and plans to reopen soon as a new Italian bistro.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STORM IMPACTS CONTINUE, TRAVEL REMAINS CHALLENGING ACROSS OREGON]]></title>
         <id>https://kqennewsradio.com/?p=141436</id>
@@ -44,6 +54,26 @@
         <summary type="html"><![CDATA[Douglas CARES Executive Direction Sarah Wickersham has an update on the organization and concerns about victims they work with this time of year.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg home fire: two cats saved; no injuries reported]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/4053c613-6d1a-4158-bb8f-cdb1c44197aa</id>
+        <link href="https://www.kezi.com/news/local/roseburg-home-fire-two-cats-saved-no-injuries-reported/article_4053c613-6d1a-4158-bb8f-cdb1c44197aa.html"/>
+        <updated>2025-12-19T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A structure fire at a Roseburg home brought a swift response from local firefighters on Thursday evening, according to the Roseburg Fire Department.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County crackdown: five suspects arrested for allegedly targeting minors online]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/82f3cc13-39fd-4e3a-9803-00c375eaea7c</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-crackdown-five-suspects-arrested-for-allegedly-targeting-minors-online/article_82f3cc13-39fd-4e3a-9803-00c375eaea7c.html"/>
+        <updated>2025-12-19T20:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Myrtle Creek and Winston Police Departments recently conducted a joint operation targeting online predators, resulting in five arrests, law enforcement officials said.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>

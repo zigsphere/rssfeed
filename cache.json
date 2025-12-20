@@ -802,6 +802,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6946c47fcbfd6b0001faa732",
+          "author": "Joseph Ziegler",
+          "description": "A cherished chapter in Roseburg dining is ending as Fun Cuisine prepares to leave the historic Parrott House due to the property being sold. While the location is closing, the business will continue catering and plans to reopen soon as a new Italian bistro.",
+          "link": "https://www.roseburgscanner.com/a-heartfelt-goodbye-to-parrott-house-and-a-new-beginning-for-fun-cuisine/",
+          "publishedOn": "2025-12-20T15:49:04.000Z",
+          "wordCount": 2024,
+          "title": "A Heartfelt Goodbye To Parrott House And A New Beginning For Fun Cuisine",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/2486.jpg"
+        },
+        {
           "id": "6945d5b3cbfd6b0001faa70d",
           "author": "Joseph Ziegler",
           "description": "Firefighters responded to a residential structure fire on West Brown Avenue Thursday evening. The fire was contained to a bathroom, residents safely evacuated, and two cats were rescued. No injuries were reported. The cause was an overloaded power adapter.",
@@ -887,7 +897,38 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/4053c613-6d1a-4158-bb8f-cdb1c44197aa",
+          "author": "News Staff",
+          "description": "A structure fire at a Roseburg home brought a swift response from local firefighters on Thursday evening, according to the Roseburg Fire Department.",
+          "link": "https://www.kezi.com/news/local/roseburg-home-fire-two-cats-saved-no-injuries-reported/article_4053c613-6d1a-4158-bb8f-cdb1c44197aa.html",
+          "publishedOn": "2025-12-19T20:45:00.000Z",
+          "wordCount": 8441,
+          "title": "Roseburg home fire: two cats saved; no injuries reported",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/af/8af9d0af-60a4-410d-b925-dc8bc227004e/6945bb42e4d59.image.jpg?resize=300%2C162",
+            "length": "272717",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/af/8af9d0af-60a4-410d-b925-dc8bc227004e/6945bb42e4d59.image.jpg?resize=300%2C162"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/82f3cc13-39fd-4e3a-9803-00c375eaea7c",
+          "author": "News Staff",
+          "description": "Myrtle Creek and Winston Police Departments recently conducted a joint operation targeting online predators, resulting in five arrests, law enforcement officials said.",
+          "link": "https://www.kezi.com/news/local/douglas-county-crackdown-five-suspects-arrested-for-allegedly-targeting-minors-online/article_82f3cc13-39fd-4e3a-9803-00c375eaea7c.html",
+          "publishedOn": "2025-12-19T20:34:00.000Z",
+          "wordCount": 8604,
+          "title": "Douglas County crackdown: five suspects arrested for allegedly targeting minors online",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/a4/5a41ea04-7dff-11ec-864e-5f39ee566014/61f02bc24465e.image.jpg?resize=300%2C169",
+            "length": "19635",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/a4/5a41ea04-7dff-11ec-864e-5f39ee566014/61f02bc24465e.image.jpg?resize=300%2C169"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
