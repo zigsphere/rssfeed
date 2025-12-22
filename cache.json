@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141475",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osbourne talks about the gas tax repeal ballot measure,  the upcoming short session of the legislature and other topics.",
+          "link": "https://kqennewsradio.com/2025/12/22/inside-douglas-county-12-22-25-2/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-22-25-2",
+          "publishedOn": "2025-12-22T21:08:28.000Z",
+          "wordCount": 1647,
+          "title": "INSIDE DOUGLAS COUNTY 12.22.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251222200437/IDC-12-22-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251222200810/Newvirgle-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141472",
           "author": "Kyle Bailey",
           "description": "December 22, 2205 11:00 a.m.  Roseburg Police jailed a woman for a misdemeanor count of driving while suspended early Friday morning. An RPD report said at 2:00 a.m. officers stopped the vehicle in the 2600 block of Northwest Edenbower Boulevard. They recognized the driver as a 58-year-old Myrtle Creek woman whose license was revoked in...",
@@ -354,26 +369,6 @@
           "wordCount": 1743,
           "title": "WILDLIFE SAFARI HOLIDAY EVENTS CONTINUE THROUGH DECEMBER 28TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251210101725/Newsafari2-3.jpg-1-3.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141373",
-          "author": "Kyle Bailey",
-          "description": "December 19, 2025 3:05 a.m. The Friends of Ford’s Pond recently hosted an Appreciation Dinner, which was held at Triple Oak Wine Vault. A release said the nonprofit organization recognized volunteers on the Stewardship Team and the Activities Committee for their work at Sutherlin’s Ford’s Pond Community Park. The evening featured dinner, entertainment, and opportunities...",
-          "link": "https://kqennewsradio.com/2025/12/19/friends-of-fords-pond-hosts-appreciation-dinner/?utm_source=rss&utm_medium=rss&utm_campaign=friends-of-fords-pond-hosts-appreciation-dinner",
-          "publishedOn": "2025-12-19T11:11:18.000Z",
-          "wordCount": 1761,
-          "title": "FRIENDS OF FORD’S POND HOSTS APPRECIATION DINNER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251219101000/Triple-Oak.jpg-scaled.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141371",
-          "author": "Kyle Bailey",
-          "description": "December 19, 2025 2:50 a.m.  On Thursday, Senator Jeff Merkley and a group of colleagues introduced legislation reauthorizing the Wildlife Crossings Program. A release said this program at the Federal Highway Administration is a competitive grant program with the goal of reducing Wildlife Vehicle Collisions while improving habitat connectivity for terrestrial and aquatic species. Merkley...",
-          "link": "https://kqennewsradio.com/2025/12/19/merkley-and-colleagues-legislation-to-reauthorize-wildlife-crossings/?utm_source=rss&utm_medium=rss&utm_campaign=merkley-and-colleagues-legislation-to-reauthorize-wildlife-crossings",
-          "publishedOn": "2025-12-19T11:06:30.000Z",
-          "wordCount": 1695,
-          "title": "MERKLEY AND COLLEAGUES: LEGISLATION TO REAUTHORIZE WILDLIFE CROSSINGS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
         }
       ]
     },
@@ -551,6 +546,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6949ba89cbfd6b0001faa990",
+          "author": "Joseph Ziegler",
+          "description": "The Douglas County Sheriff’s Office will conduct enhanced DUII patrols from December 10 through January 1 as part of the Drive Sober or Get Pulled Over campaign, focusing on removing impaired drivers from local roadways during the holiday season.",
+          "link": "https://www.roseburgscanner.com/sheriffs-office-to-participate-in-enhanced-duii-patrols-this-holiday-season/",
+          "publishedOn": "2025-12-22T21:40:55.000Z",
+          "wordCount": 2155,
+          "title": "SHERIFF’S OFFICE TO PARTICIPATE IN ENHANCED DUII PATROLS THIS HOLIDAY SEASON",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/Sheriff-Badge_seal-small-web-2.jpg"
+        },
+        {
+          "id": "6949adf8cbfd6b0001faa974",
+          "author": "Joseph Ziegler",
+          "description": "Wildlife Safari’s Wild Lights brings holiday magic to Winston with illuminated paths, animal encounters, hot cocoa, Santa visits, and the popular Candy Cane Caboose. With one weekend left, families still have time to enjoy this seasonal tradition.",
+          "link": "https://www.roseburgscanner.com/wildlife-safaris-wild-lights-brings-holiday-magic-to-winston/",
+          "publishedOn": "2025-12-22T21:06:58.000Z",
+          "wordCount": 2052,
+          "title": "WILDLIFE SAFARI’S WILD LIGHTS BRINGS HOLIDAY MAGIC TO WINSTON",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/ws_train.png"
+        },
         {
           "id": "6948e0b0cbfd6b0001faa785",
           "author": "Joseph Ziegler",
