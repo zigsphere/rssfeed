@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-23T13:31:09.350Z</updated>
+    <updated>2025-12-23T16:19:14.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Absolute Motosport to Close Roseburg and Grants Pass Locations After December 31]]></title>
+        <id>694ab020cbfd6b0001faab31</id>
+        <link href="https://www.roseburgscanner.com/absolute-motosport-to-close-roseburg-and-grants-pass-locations-after-december-31/"/>
+        <updated>2025-12-23T15:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Absolute Motosport has announced it will close its Roseburg and Grants Pass locations after December 31. A liquidation sale is underway with unmarked pricing and deep discounts on all in-stock inventory. The Roseburg store is open Monday through Wednesday, 8 a.m. to 5 p.m.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 23, 2025]]></title>
+        <id>694aa2cdcbfd6b0001faa9da</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-23-2025/"/>
+        <updated>2025-12-23T14:40:26.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIND ADVISORY FOR CENTRAL DOUGLAS COUNTY AND ITS EASTERN FOOTHILLS]]></title>
         <id>https://kqennewsradio.com/?p=141501</id>
