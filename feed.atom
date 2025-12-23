@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-22T23:13:48.729Z</updated>
+    <updated>2025-12-23T03:22:05.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cash Stolen After ATM Damaged at Rogue Credit Union in Roseburg]]></title>
+        <id>6949e98dcbfd6b0001faa9b8</id>
+        <link href="https://www.roseburgscanner.com/cash-stolen-after-atm-damaged-at-rogue-credit-union-in-roseburg/"/>
+        <updated>2025-12-23T01:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police are investigating an early-morning ATM theft at Rogue Credit Union on NW Garden Valley Blvd. Officers found a damaged ATM and a stolen pickup left running at the scene. Two suspects fled in a white SUV. The investigation is ongoing.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOCAL BUSINESS CLOSURE – COLORCRAFT PAINT]]></title>
+        <id>6949e6bdcbfd6b0001faa9a6</id>
+        <link href="https://www.roseburgscanner.com/local-business-closure-colorcraft-paint/"/>
+        <updated>2025-12-23T00:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorcraft Paint, located next to the former Waldron’s Outdoor Sports on Garden Valley Blvd, has closed after serving the Roseburg community for 70 years. The longtime local business thanked the community as it marked the end of an era.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHERIFF’S OFFICE TO PARTICIPATE IN ENHANCED DUII PATROLS THIS HOLIDAY SEASON]]></title>
         <id>6949ba89cbfd6b0001faa990</id>
@@ -474,16 +494,6 @@
         <summary type="html"><![CDATA[It’s been rainy and windy in Roseburg, and according to forecasts, it’s not over yet.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 19, 2025]]></title>
-        <id>69455ee1cbfd6b0001faa573</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/december-19-2025/"/>
-        <updated>2025-12-19T14:33:54.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>

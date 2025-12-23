@@ -547,6 +547,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6949e98dcbfd6b0001faa9b8",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Police are investigating an early-morning ATM theft at Rogue Credit Union on NW Garden Valley Blvd. Officers found a damaged ATM and a stolen pickup left running at the scene. Two suspects fled in a white SUV. The investigation is ongoing.",
+          "link": "https://www.roseburgscanner.com/cash-stolen-after-atm-damaged-at-rogue-credit-union-in-roseburg/",
+          "publishedOn": "2025-12-23T01:01:58.000Z",
+          "wordCount": 1905,
+          "title": "Cash Stolen After ATM Damaged at Rogue Credit Union in Roseburg",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/rogue_cu.png"
+        },
+        {
+          "id": "6949e6bdcbfd6b0001faa9a6",
+          "author": "Joseph Ziegler",
+          "description": "Colorcraft Paint, located next to the former Waldron’s Outdoor Sports on Garden Valley Blvd, has closed after serving the Roseburg community for 70 years. The longtime local business thanked the community as it marked the end of an era.",
+          "link": "https://www.roseburgscanner.com/local-business-closure-colorcraft-paint/",
+          "publishedOn": "2025-12-23T00:54:00.000Z",
+          "wordCount": 1870,
+          "title": "LOCAL BUSINESS CLOSURE – COLORCRAFT PAINT",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/colorcraft.webp"
+        },
+        {
           "id": "6949ba89cbfd6b0001faa990",
           "author": "Joseph Ziegler",
           "description": "The Douglas County Sheriff’s Office will conduct enhanced DUII patrols from December 10 through January 1 as part of the Drive Sober or Get Pulled Over campaign, focusing on removing impaired drivers from local roadways during the holiday season.",
@@ -625,16 +645,6 @@
           "wordCount": 2035,
           "title": "Five Arrested in Douglas County Online Sex Crimes Operation",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/lights.png"
-        },
-        {
-          "id": "69455ee1cbfd6b0001faa573",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/december-19-2025/",
-          "publishedOn": "2025-12-19T14:33:54.000Z",
-          "wordCount": 4669,
-          "title": "December 19, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-14.png"
         }
       ]
     },
