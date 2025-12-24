@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-24T02:08:57.365Z</updated>
+    <updated>2025-12-24T03:19:27.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Disposal offers free Christmas tree recycling at multiple sites until January 12]]></title>
+        <id>694b533bcbfd6b0001faabd2</id>
+        <link href="https://www.roseburgscanner.com/roseburg-disposal-offers-free-christmas-tree-recycling-at-multiple-sites-until-january-12/"/>
+        <updated>2025-12-24T02:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Disposal Co. will offer free Christmas tree recycling from December 29 through January 12, with drop off locations available throughout Roseburg and surrounding areas.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRUE WEALTH 12.23.25]]></title>
         <id>https://kqennewsradio.com/?p=141538</id>
