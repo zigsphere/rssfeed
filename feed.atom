@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-24T03:19:27.468Z</updated>
+    <updated>2025-12-24T13:28:24.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Q&A: Rep. Virgle Osborne]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0eb6820f-043f-42c3-9ba1-d32d261645e0</id>
+        <link href="https://www.nrtoday.com/news/government/q-a-rep-virgle-osborne/article_0eb6820f-043f-42c3-9ba1-d32d261645e0.html"/>
+        <updated>2025-12-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This interview has been edited for brevity and style. For the full interview go to kqennewsradio.com. Virgle Osborne is State Representative for Oregon’s House District 2. He first took office in November 2022.]]></summary>
+        <author>
+            <name>The News-Review Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Disposal offers free Christmas tree recycling at multiple sites until January 12]]></title>
         <id>694b533bcbfd6b0001faabd2</id>
@@ -595,26 +605,6 @@ The post The Masterpiece Strategy: How The Websters Transformed Boutique Retail 
         <link href="https://www.roseburgscanner.com/sutherlin-timber-town-toy-land-electric-light-parade-raises-7-000-honors-2025-winners/"/>
         <updated>2025-12-21T22:42:12.000Z</updated>
         <summary type="html"><![CDATA[Sutherlin’s Timber Town Toy Land Electric Light Parade featured 79 vehicles, raised $7,000 in sponsorships, and paid out all prize money across multiple categories while reflecting on nearly two decades of community tradition.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storms Damage Trails and Recreation Areas Across Oregon State Forests]]></title>
-        <id>6945e951cbfd6b0001faa726</id>
-        <link href="https://www.roseburgscanner.com/storms-damage-trails-and-recreation-areas-across-oregon-state-forests/"/>
-        <updated>2025-12-20T17:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Recent storms have damaged trails and recreation areas across Oregon State Forests. Downed trees, erosion, and hazardous conditions are being reported as crews and volunteers work to assess and repair impacts. Visitors are urged to use caution this winter.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Heartfelt Goodbye To Parrott House And A New Beginning For Fun Cuisine]]></title>
-        <id>6946c47fcbfd6b0001faa732</id>
-        <link href="https://www.roseburgscanner.com/a-heartfelt-goodbye-to-parrott-house-and-a-new-beginning-for-fun-cuisine/"/>
-        <updated>2025-12-20T15:49:04.000Z</updated>
-        <summary type="html"><![CDATA[A cherished chapter in Roseburg dining is ending as Fun Cuisine prepares to leave the historic Parrott House due to the property being sold. While the location is closing, the business will continue catering and plans to reopen soon as a new Italian bistro.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
         </author>
