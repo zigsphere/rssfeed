@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-24T14:23:46.247Z</updated>
+    <updated>2025-12-24T16:18:02.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 24, 2025]]></title>
+        <id>694bf4f22531890001330dab</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/december-24-2025/"/>
+        <updated>2025-12-24T14:37:12.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drive Sober or Get Pulled Over: DSCO participates in enhanced DUII patrols]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/be776e1d-e157-42f1-8456-34e597fdc06d</id>
