@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-25T13:27:44.815Z</updated>
+    <updated>2025-12-25T16:17:31.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WIND ADVISORY 9:00 A.M. TO 1:00 P.M. THURSDAY WEST OF THE CASCADES]]></title>
+        <id>https://kqennewsradio.com/?p=141581</id>
+        <link href="https://kqennewsradio.com/2025/12/25/wind-advisory-900-a-m-to-100-p-m-thursday-west-of-the-cascades/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wind-advisory-900-a-m-to-100-p-m-thursday-west-of-the-cascades"/>
+        <updated>2025-12-25T14:51:16.000Z</updated>
+        <summary type="html"><![CDATA[December 25, 2025 6:50 a.m.  A Wind Advisory is in effect from 9:00 a.m. to 1:00 p.m. Thursday over areas west of the Cascades. Forecasters at the National Weather Service in Medford said south winds of 10 to 20 miles per hour with gusts up to 45 miles per hour are expected. The Advisory area...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINTER WEATHER ADVISORY THROUGH FRIDAY NIGHT FOR MOUNTAIN AREAS]]></title>
+        <id>https://kqennewsradio.com/?p=141578</id>
+        <link href="https://kqennewsradio.com/2025/12/25/winter-weather-advisory-through-friday-night-for-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-through-friday-night-for-mountain-areas"/>
+        <updated>2025-12-25T14:41:48.000Z</updated>
+        <summary type="html"><![CDATA[December 25, 2025 6:40 a.m.  A Winter Weather Advisory is in effect until Friday night at 10:00 p.m. for elevation above 4,500 feet in the Cascades and Siskiyou Mountains of southern Oregon. Forecasters at the National Weather Service said snow accumulations of 6 to 14 inches are expected with winds gusting as high as 45...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHERIFF’S OFFICE RENEWS CALL FOR INFORMATION REGARDING MISSING MAN]]></title>
         <id>https://kqennewsradio.com/?p=141571</id>
