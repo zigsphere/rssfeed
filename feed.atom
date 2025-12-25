@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-25T16:17:31.397Z</updated>
+    <updated>2025-12-25T19:11:25.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free Christmas tree recycling offered Dec. 29-Jan. 12]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b5681fc2-60b6-4c98-9bab-342684f2fb6d</id>
+        <link href="https://www.nrtoday.com/briefs/free-christmas-tree-recycling-offered-dec-29-jan-12/article_b5681fc2-60b6-4c98-9bab-342684f2fb6d.html"/>
+        <updated>2025-12-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG — Starting Monday, Roseburg Disposal Co. will continue its annual tradition of offering free Christmas tree recycling.]]></summary>
+        <author>
+            <name>Erica Reynolds The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIND ADVISORY 9:00 A.M. TO 1:00 P.M. THURSDAY WEST OF THE CASCADES]]></title>
         <id>https://kqennewsradio.com/?p=141581</id>

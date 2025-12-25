@@ -549,6 +549,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b5681fc2-60b6-4c98-9bab-342684f2fb6d",
+          "author": "Erica Reynolds The News-Review",
+          "description": "ROSEBURG — Starting Monday, Roseburg Disposal Co. will continue its annual tradition of offering free Christmas tree recycling.",
+          "link": "https://www.nrtoday.com/briefs/free-christmas-tree-recycling-offered-dec-29-jan-12/article_b5681fc2-60b6-4c98-9bab-342684f2fb6d.html",
+          "publishedOn": "2025-12-25T16:00:00.000Z",
+          "wordCount": 12347,
+          "title": "Free Christmas tree recycling offered Dec. 29-Jan. 12",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0f/50f768f9-fa7a-46f7-95ab-60e3afbca2cd/5a43ef9c980e2.image.jpg?resize=300%2C225",
+            "length": "476738",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0f/50f768f9-fa7a-46f7-95ab-60e3afbca2cd/5a43ef9c980e2.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/9df7f2a0-e8d1-4e3f-aacf-aed7990c6548",
           "author": "PAUL MORGAN For The News-Review",
           "description": "Only gas giant planets grace January night skies.",
