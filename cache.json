@@ -337,31 +337,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/e2/9e28f422-6d15-4d28-b6b4-84325dfe5259/68efedb5ca360.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b6fb04f6-9e56-4db9-a013-34cb81afa3e1",
-          "author": "Scott Carroll The News-Review",
-          "description": "Roseburg Forest Products (RFP) is trying to collect nearly $150,000 a judge deemed the company is owed from a Portland-area lighting company that reportedly forged documents and took funds it was not entitled to.",
-          "link": "https://www.nrtoday.com/news/rfp-awarded-150k-in-lawsuit/article_b6fb04f6-9e56-4db9-a013-34cb81afa3e1.html",
-          "publishedOn": "2025-12-26T16:00:00.000Z",
-          "wordCount": 12958,
-          "title": "RFP awarded $150k in lawsuit",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d7/2d7c4990-c4b3-4888-9e7a-ab8410fb1af8/6771c2d45f7fa.image.jpg?resize=300%2C199",
-            "length": "37357",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d7/2d7c4990-c4b3-4888-9e7a-ab8410fb1af8/6771c2d45f7fa.image.jpg?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d6fdac81-5ce1-4213-b14c-79f9f23925e7",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The Winchester Water Control District (WWCD) was told to start work next week on improving the fish passage in the Winchester Dam to be consistent with current standards, but an appeal might change all that.",
-          "link": "https://www.nrtoday.com/news/environment/judge-allows-odfw-to-order-wwcd-to-fix-winchester-dam-fish-ladder-by-2028/article_d6fdac81-5ce1-4213-b14c-79f9f23925e7.html",
-          "publishedOn": "2025-12-26T15:30:00.000Z",
-          "wordCount": 14490,
-          "title": "Judge allows ODFW to order WWCD to fix Winchester Dam fish ladder by 2028",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },
@@ -369,24 +344,23 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": [
-        {
-          "id": "https://southernoregonbusiness.com/?p=9148",
-          "author": "Jim Teece",
-          "description": "The Christmas season brought a deep chill to Southern Oregon’s renewable energy sector this week as Purelight Power, the Medford-based residential solar giant, announced the immediate cessation of all operations. The company, which had grown into one of the largest installers in the region, is moving toward a total liquidation under Chapter 7 bankruptcy, citing…\nThe post The Sun Sets on Purelight Power: Medford Headquarters Shutter as Federal Solar Credits Vanish appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/the-sun-sets-on-purelight-power-medford-headquarters-shutter-as-federal-solar-credits-vanish/",
-          "publishedOn": "2025-12-26T17:58:10.000Z",
-          "wordCount": 3079,
-          "title": "The Sun Sets on Purelight Power: Medford Headquarters Shutter as Federal Solar Credits Vanish",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2025/12/Purelight-Power-Staff-Photo.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "695358456d62f6000170a412",
+          "author": "Joseph Ziegler",
+          "description": "A 79-year-old Roseburg homeowner faces possible prosecution after the city issued a nuisance notice for camping and debris she says she did not create. The notice gives her 10 days to comply or pay a $306 appeal fee.",
+          "link": "https://www.roseburgscanner.com/city-of-roseburg-issues-nuisance-notice-to-79-year-old-homeowner-over-alleged-camping-she-did-not-create/",
+          "publishedOn": "2025-12-30T04:47:56.000Z",
+          "wordCount": 2574,
+          "title": "City of Roseburg Issues Nuisance Notice to 79-Year-Old Homeowner Over Alleged Camping She Did Not Create",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/garbage2.jpg"
+        },
         {
           "id": "695320186d62f6000170a3e4",
           "author": "Joseph Ziegler",
@@ -416,26 +390,6 @@
           "wordCount": 3704,
           "title": "December 29, 2025",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-19.png"
-        },
-        {
-          "id": "694ed2812531890001331096",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Warming Center will be open Saturday night, Dec. 27, at St. Joseph’s Gymnasium. Check-in begins at 5:30 p.m. with overnight shelter, meals, and limited pet accommodations available.",
-          "link": "https://www.roseburgscanner.com/roseburg-warming-center-activated-saturday-night-as-cold-weather-continues/",
-          "publishedOn": "2025-12-26T18:25:10.000Z",
-          "wordCount": 2153,
-          "title": "Roseburg Warming Center Activated Saturday Night as Cold Weather Continues",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/ucan_warming_center.jpg"
-        },
-        {
-          "id": "694ec1462531890001331080",
-          "author": "Joseph Ziegler",
-          "description": "Tubing at Diamond Lake Resort is canceled this weekend due to low snow levels. Only about 5 inches of snow has fallen, and at least 2 feet is needed for safe tubing. Visitors may still bring their own sleds and enjoy the snow for free.",
-          "link": "https://www.roseburgscanner.com/tubing-canceled-this-weekend-at-diamond-lake-resort-due-to-low-snow-levels/",
-          "publishedOn": "2025-12-26T17:11:16.000Z",
-          "wordCount": 2088,
-          "title": "Tubing Canceled This Weekend at Diamond Lake Resort Due to Low Snow Levels",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/diamond_lake_tubing_hill.jpg"
         }
       ]
     },
