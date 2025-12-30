@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-30T19:12:37.299Z</updated>
+    <updated>2025-12-30T23:13:18.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.30.25]]></title>
+        <id>https://kqennewsradio.com/?p=141740</id>
+        <link href="https://kqennewsradio.com/2025/12/30/inside-douglas-county-12-30-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-30-25"/>
+        <updated>2025-12-30T21:08:05.000Z</updated>
+        <summary type="html"><![CDATA[State Senator Bruce Starr talks about the gas tax repeal initiative, the upcoming short session of the legislature, and his hopes for the governor’s race in 2026]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR ALLEGED FORGERY INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=141738</id>
