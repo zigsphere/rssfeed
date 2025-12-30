@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2025-12-29T23:14:23.253Z</updated>
+    <updated>2025-12-30T03:22:19.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Year, New Laws: What’s Changing in Oregon on Jan. 1]]></title>
+        <id>695320186d62f6000170a3e4</id>
+        <link href="https://www.roseburgscanner.com/new-year-new-laws-whats-changing-in-oregon-on-jan-1/"/>
+        <updated>2025-12-30T00:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Oregon rings in the new year with major law changes, including new rules on civil commitment, unemployment for striking workers, ticket sales, telemarketing, and marriage age. Several new consumer and public safety protections also take effect Jan. 1.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrest Made in Connection With Fatal Shooting in Coos Bay]]></title>
+        <id>695314826d62f6000170a3c8</id>
+        <link href="https://www.roseburgscanner.com/arrest-made-in-connection-with-fatal-shooting-in-coos-bay/"/>
+        <updated>2025-12-29T23:55:53.000Z</updated>
+        <summary type="html"><![CDATA[One person is dead following a shooting in Coos Bay Sunday afternoon. Police say a suspect is in custody, and the Coos County Major Crime Team is leading the investigation. The victim has been identified as 39-year-old David Orr.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PERSON IN CUSTODY FOLLOWING SUNDAY HOMICIDE]]></title>
+        <id>https://kqennewsradio.com/?p=141680</id>
+        <link href="https://kqennewsradio.com/2025/12/29/person-in-custody-following-sunday-homicide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=person-in-custody-following-sunday-homicide"/>
+        <updated>2025-12-29T23:42:20.000Z</updated>
+        <summary type="html"><![CDATA[December 29, 2025 3:50 p.m.    On person is in custody following a homicide that occurred in a business parking lot on Sunday. A release from the Coos Bay Police Department said at approximately 1:55 p.m. the North Coos 911 Center received reports of a shooting in a parking lot in the 1900 block of...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED PRIOR BURGLARY]]></title>
+        <id>https://kqennewsradio.com/?p=141678</id>
+        <link href="https://kqennewsradio.com/2025/12/29/roseburg-police-jail-man-for-alleged-prior-burglary-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-alleged-prior-burglary-3"/>
+        <updated>2025-12-29T23:38:29.000Z</updated>
+        <summary type="html"><![CDATA[December 29, 2025 3:40 p.m.  Roseburg Police jailed a man on Saturday for an alleged prior burglary incident. An RPD report said on December 22nd, officers were dispatched to a home in the 1000 block of West Winter Ridge Road after a victim claimed that she had returned home and found an unknown male all...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 12.29.25]]></title>
+        <id>https://kqennewsradio.com/?p=141673</id>
+        <link href="https://kqennewsradio.com/2025/12/29/inside-douglas-county-12-29-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-12-29-25"/>
+        <updated>2025-12-29T21:05:56.000Z</updated>
+        <summary type="html"><![CDATA[State Senator and Republican candidate for Governor, Christine Drazan has a update on her campaign, talks about the gas tax repeal effort, the upcoming short session and other topics.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED HARASSMENT INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=141669</id>
@@ -94,6 +144,16 @@
         <summary type="html"><![CDATA[Amy Taylor from the Festival of Lights talks about the annual event, which wraps up Thursday night at River Forks Park.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMFS denies Oregon, California coastal Chinook salmon status under Endangered Species Act]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7ea6c6a5-4e29-4467-a022-c231a376ee33</id>
+        <link href="https://www.nrtoday.com/news/environment/nmfs-denies-oregon-california-coastal-chinook-salmon-status-under-endangered-species-act/article_7ea6c6a5-4e29-4467-a022-c231a376ee33.html"/>
+        <updated>2025-12-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The National Marine Fisheries Service and National Oceanic and Atmospheric Administration has determined that two coastal Chinook salmon groups, the Oregon Coast and the Southern Oregon and Northern California Coastal populations, do not warrant protection under the Endangered Species Act.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -325,76 +385,6 @@ The post The Sun Sets on Purelight Power: Medford Headquarters Shutter as Federa
         <summary type="html"><![CDATA[The Winchester Water Control District (WWCD) was told to start work next week on improving the fish passage in the Winchester Dam to be consistent with current standards, but an appeal might change all that.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WYDEN, COLLEAGUES DEMAND PAUSE ON CHANGE IN NATIONAL PARK ENTRY FEES]]></title>
-        <id>https://kqennewsradio.com/?p=141594</id>
-        <link href="https://kqennewsradio.com/2025/12/26/wyden-colleagues-demand-pause-on-change-in-national-park-entry-fees/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wyden-colleagues-demand-pause-on-change-in-national-park-entry-fees"/>
-        <updated>2025-12-26T15:20:45.000Z</updated>
-        <summary type="html"><![CDATA[December 26, 2025 7:20 a.m.  On Wednesday, Oregon Senator Ron Wyden said he has joined colleagues in calling on the Trump administration to pause its new national park entry fees and annual passes fees for non-residents, scheduled to take effect on January 1st. A release said Wyden and the other senators said the new fees...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIVER TAKEN TO HOSPITAL FOLLOWING OVERNIGHT CRASH]]></title>
-        <id>https://kqennewsradio.com/?p=141592</id>
-        <link href="https://kqennewsradio.com/2025/12/26/driver-taken-to-hospital-following-overnight-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=driver-taken-to-hospital-following-overnight-crash"/>
-        <updated>2025-12-26T14:43:14.000Z</updated>
-        <summary type="html"><![CDATA[December 26, 2025 6:45 a.m.  A driver was taken to the hospital following an overnight wreck on Wednesday. A Douglas County Sheriff’s Office report said at 1:30 a.m. the vehicle was on Gazley Ridge Road in Canyonville, when it went over Main Street and crashed into the bushes in the parking lot of a business....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 26, 2025]]></title>
-        <id>694e97492531890001330f32</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/december-26-2025/"/>
-        <updated>2025-12-26T14:38:44.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WET ROADWAY LEADS TO ROLLOVER CRASH ON WEDNESDAY MORNING]]></title>
-        <id>https://kqennewsradio.com/?p=141589</id>
-        <link href="https://kqennewsradio.com/2025/12/26/wet-roadway-leads-to-rollover-crash-on-wednesday-morning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wet-roadway-leads-to-rollover-crash-on-wednesday-morning"/>
-        <updated>2025-12-26T14:30:08.000Z</updated>
-        <summary type="html"><![CDATA[December 26, 2025 6:30 a.m.  A wet roadway led to a rollover crash on Interstate 5 northbound early Wednesday morning. A report from the Oregon State Police said at 3:45 a.m. troopers were called out to the wreck near the Edenbower Boulevard Exit 126. A minivan was northbound in the left lane of travel when...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINGERING SHOWERS THROUGH FRIDAY, HIGH PRESSURE BUILDING SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=141587</id>
-        <link href="https://kqennewsradio.com/2025/12/26/lingering-showers-through-friday-high-pressure-building-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lingering-showers-through-friday-high-pressure-building-saturday"/>
-        <updated>2025-12-26T14:15:02.000Z</updated>
-        <summary type="html"><![CDATA[December 26, 2025 6:15 a.m.  The Umpqua Valley will have lingering showers on Friday before high pressure begins building in the region on Saturday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a high-pressure system will remain in place through Wednesday bringing dry conditions with high...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Schools invites residents to join facilities advisory committee]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ba4c8342-b793-4c00-b3d6-634fec1acbc9</id>
-        <link href="https://www.nrtoday.com/news/education/roseburg-schools-invites-residents-to-join-facilities-advisory-committee/article_ba4c8342-b793-4c00-b3d6-634fec1acbc9.html"/>
-        <updated>2025-12-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Schools, formerly Roseburg Public Schools, is forming a new Community Facilities Advisory Committee. Local residents are welcome to apply.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER  WEATHER ADVISORY THROUGH 10:00 P.M. FRIDAY IN MOUNTAIN AREAS]]></title>
-        <id>https://kqennewsradio.com/?p=141584</id>
-        <link href="https://kqennewsradio.com/2025/12/26/winter-weather-advisory-through-1000-p-m-friday-in-mountain-areas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-through-1000-p-m-friday-in-mountain-areas"/>
-        <updated>2025-12-26T13:45:55.000Z</updated>
-        <summary type="html"><![CDATA[December 26, 2025 5:45 a.m.  A Winter Weather Advisory remains in effect until 10:00 p.m. Friday for mountain areas in parts of southern Oregon. Forecasters at the National Weather Service in Medford said snow is expected for elevations above 4,500 feet in the Cascades and Siskiyou Mountains. Additional accumulations of 3 to 9 inches are...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
