@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141800",
+          "author": "Kyle Bailey",
+          "description": "An encore program: Kyle Bailey and Rachelle Carter talk about the Fly Away Travel trip to Italy last fall.",
+          "link": "https://kqennewsradio.com/2025/12/31/inside-douglas-county-12-31-25/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-12-31-25",
+          "publishedOn": "2025-12-31T20:53:36.000Z",
+          "wordCount": 1644,
+          "title": "INSIDE DOUGLAS COUNTY 12.31.25",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251007193320/IDC-10-07-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251007193625/Italygroup.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141796",
           "author": "Kyle Bailey",
           "description": "December 31, 2025 11:05 a.m.  Roseburg Police jailed a man for warrants and cited him on a drug violation early Wednesday morning. An RPD report said just after 12:15 a.m. officers contacted the 61-year-old in the 3100 block of Northwest Stewart Parkway and learned he had a warrant for his arrest. The man was also...",
@@ -656,6 +671,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "695575cb6d62f6000170a748",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police handled multiple calls over Dec. 30, ranging from traffic crashes and warrant arrests to disorderly conduct and a reported domestic incident, according to the department’s daily activity log.",
+          "link": "https://www.roseburgscanner.com/police-logs/police-log-december-30-2025/",
+          "publishedOn": "2025-12-31T19:22:34.000Z",
+          "wordCount": 2491,
+          "title": "Police Log - December 30, 2025",
+          "imageUrl": "https://images.unsplash.com/photo-1637016887843-c6d136c06d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHBvbGljZXxlbnwwfHx8fDE3NjcyMDg4Njl8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "69556cfd6d62f6000170a721",
           "author": "Joseph Ziegler",
