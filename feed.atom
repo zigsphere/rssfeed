@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-01T19:11:49.055Z</updated>
+    <updated>2026-01-01T23:14:47.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coos County Man Arraigned on Murder, Kidnapping Charges After Courthouse Disruption]]></title>
+        <id>6956fad06d62f6000170a7ac</id>
+        <link href="https://www.roseburgscanner.com/coos-county-man-arraigned-on-murder-kidnapping-charges-after-courthouse-disruption/"/>
+        <updated>2026-01-01T23:01:26.000Z</updated>
+        <summary type="html"><![CDATA[A Coos County man faces multiple felony charges, including murder and kidnapping, after a fatal shooting in Coos Bay. Police say the suspect disrupted his arraignment and is accused of killing a man in a Staples parking lot and threatening another victim.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallet Left Behind Leads to Arrest in Roseburg Burglary Case]]></title>
+        <id>6956f5086d62f6000170a79d</id>
+        <link href="https://www.roseburgscanner.com/wallet-left-behind-leads-to-arrest-in-roseburg-burglary-case/"/>
+        <updated>2026-01-01T22:29:14.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man faces multiple charges after allegedly breaking into a home and leaving behind his wallet at the scene. Police say the suspect fled before officers arrived but was later identified and jailed on burglary and theft charges.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg burglary suspect identified by wallet left at scene]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/a83faf20-783a-41ba-ae4a-c645508a773f</id>
+        <link href="https://www.kezi.com/news/local/roseburg-burglary-suspect-identified-by-wallet-left-at-scene/article_a83faf20-783a-41ba-ae4a-c645508a773f.html"/>
+        <updated>2026-01-01T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[A 35-year-old Roseburg man was charged Monday with multiple charges after being following an alleged home burglary incident, according to Douglas County Circuit Court records and the Roseburg Police Department.]]></summary>
+        <author>
+            <name>Ryan Bonham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas CARES closing immediately]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/b039c38e-d047-48c4-bf4d-859d6db691e0</id>
+        <link href="https://www.nrtoday.com/business/douglas-cares-closing-immediately/article_b039c38e-d047-48c4-bf4d-859d6db691e0.html"/>
+        <updated>2026-01-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas CARES, which provides critical medical and psychological exams for abused and neglected children, as well as counseling for them and their families, is shutting down for at least a month due to a funding shortage.]]></summary>
+        <author>
+            <name>Scott Carroll The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW YEAR’S HOLIDAY CLOSURES]]></title>
         <id>https://kqennewsradio.com/?p=141802</id>
