@@ -667,6 +667,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "69572d516d62f6000170a7c5",
+          "author": "Joseph Ziegler",
+          "description": "Facing financial strain, Douglas C.A.R.E.S will temporarily pause operations beginning Jan. 1. The organization says the move is aimed at long-term sustainability while ensuring children continue to receive support through partner agencies.",
+          "link": "https://www.roseburgscanner.com/douglas-c-a-r-e-s-to-temporarily-suspend-services-amid-funding-crisis/",
+          "publishedOn": "2026-01-02T02:39:53.000Z",
+          "wordCount": 2337,
+          "title": "Douglas C.A.R.E.S to Temporarily Suspend Services Amid Funding Crisis",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/cares.jpg"
+        },
+        {
           "id": "6956fad06d62f6000170a7ac",
           "author": "Joseph Ziegler",
           "description": "A Coos County man faces multiple felony charges, including murder and kidnapping, after a fatal shooting in Coos Bay. Police say the suspect disrupted his arraignment and is accused of killing a man in a Staples parking lot and threatening another victim.",
@@ -775,16 +785,6 @@
           "wordCount": 2118,
           "title": "Arrest Made in Connection With Fatal Shooting in Coos Bay",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/lights-2.png"
-        },
-        {
-          "id": "695212076d62f6000170a1fb",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/december-29-2025/",
-          "publishedOn": "2025-12-29T14:29:50.000Z",
-          "wordCount": 3704,
-          "title": "December 29, 2025",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2025/12/The-Morning-Scoop-19.png"
         }
       ]
     },
@@ -793,6 +793,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/62f262a8-04c3-40ec-89d0-5f19f23a9dd9",
+          "author": "News Staff",
+          "description": "The Douglas County Sheriff’s Office recently celebrated outstanding achievements by its staff, highlighting their commitment to public safety and professionalism.",
+          "link": "https://www.kezi.com/news/local/douglas-county-sheriffs-office-staff-praised-for-exemplary-service/article_62f262a8-04c3-40ec-89d0-5f19f23a9dd9.html",
+          "publishedOn": "2026-01-01T22:54:00.000Z",
+          "wordCount": 8092,
+          "title": "Douglas County sheriff's office staff praised for exemplary service",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/a83faf20-783a-41ba-ae4a-c645508a773f",
           "author": "Ryan Bonham",

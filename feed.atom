@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-01T23:14:47.697Z</updated>
+    <updated>2026-01-02T03:25:46.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas C.A.R.E.S to Temporarily Suspend Services Amid Funding Crisis]]></title>
+        <id>69572d516d62f6000170a7c5</id>
+        <link href="https://www.roseburgscanner.com/douglas-c-a-r-e-s-to-temporarily-suspend-services-amid-funding-crisis/"/>
+        <updated>2026-01-02T02:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Facing financial strain, Douglas C.A.R.E.S will temporarily pause operations beginning Jan. 1. The organization says the move is aimed at long-term sustainability while ensuring children continue to receive support through partner agencies.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coos County Man Arraigned on Murder, Kidnapping Charges After Courthouse Disruption]]></title>
         <id>6956fad06d62f6000170a7ac</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[A Coos County man faces multiple felony charges, including murder and kidnapping, after a fatal shooting in Coos Bay. Police say the suspect disrupted his arraignment and is accused of killing a man in a Staples parking lot and threatening another victim.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County sheriff's office staff praised for exemplary service]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/62f262a8-04c3-40ec-89d0-5f19f23a9dd9</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-sheriffs-office-staff-praised-for-exemplary-service/article_62f262a8-04c3-40ec-89d0-5f19f23a9dd9.html"/>
+        <updated>2026-01-01T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Sheriff’s Office recently celebrated outstanding achievements by its staff, highlighting their commitment to public safety and professionalism.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -644,16 +664,6 @@
         <summary type="html"><![CDATA[The National Marine Fisheries Service and National Oceanic and Atmospheric Administration has determined that two coastal Chinook salmon groups, the Oregon Coast and the Southern Oregon and Northern California Coastal populations, do not warrant protection under the Endangered Species Act.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 29, 2025]]></title>
-        <id>695212076d62f6000170a1fb</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/december-29-2025/"/>
-        <updated>2025-12-29T14:29:50.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
