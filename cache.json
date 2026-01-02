@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141846",
+          "author": "Kyle Bailey",
+          "description": "January 2, 2025 2:10 p.m.   Oregon’s U.S. Senator Jeff Merkley has announced that he will hold his first town halls of the year, with in-person community conservations in several counties, including Douglas, over the next few days. The eight events kick-off Merkley’s 2026 town hall tour of Oregon, as he plans to hold a community...",
+          "link": "https://kqennewsradio.com/2026/01/02/senator-merkley-to-hold-town-halls-including-in-douglas-county/?utm_source=rss&utm_medium=rss&utm_campaign=senator-merkley-to-hold-town-halls-including-in-douglas-county",
+          "publishedOn": "2026-01-02T22:11:29.000Z",
+          "wordCount": 1773,
+          "title": "SENATOR MERKLEY TO HOLD TOWN HALLS, INCLUDING IN DOUGLAS COUNTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222858/Merkley_Jeff-031317-JHK-011-5.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141842",
           "author": "Kyle Bailey",
           "description": "January 2, 2026 10:35 a.m.  Sutherlin Police jailed a man for a New Year’s Day DUII incident on Thursday. An SPD report said at approximately 6:10 p.m. officers stopped the 30-year-old in the 200 block of West Central Avenue for traffic violations and noticed signs of impairment. He was taken into custody and was charged...",
@@ -504,16 +514,6 @@
           "wordCount": 1693,
           "title": "ROSEBURG ELKS LODGE WITH 129TH BIRTHDAY BASH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141683",
-          "author": "Kyle Bailey",
-          "description": "December 30, 2025 2:50 a.m. The driver was taken to the hospital following a semi-truck crash on Saturday. An Oregon State Police report said just before 3:00 p.m. troopers were dispatched to the wreck on Interstate 5 southbound near the Riddle/Tri City Exit 103. Medical personnel on scene advised that the driver and sole occupant...",
-          "link": "https://kqennewsradio.com/2025/12/30/driver-taken-to-hospital-following-semi-truck-crash-on-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=driver-taken-to-hospital-following-semi-truck-crash-on-saturday",
-          "publishedOn": "2025-12-30T11:13:23.000Z",
-          "wordCount": 1723,
-          "title": "DRIVER TAKEN TO HOSPITAL FOLLOWING SEMI-TRUCK CRASH ON SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
         }
       ]
     },
@@ -528,6 +528,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0366e906-9cd9-451c-9309-3bce6ea0ad23",
+          "author": "Aurora Ropp For The News-Review",
+          "description": "It’s a new year, and that means an updated youth program schedule at Roseburg Public Library.",
+          "link": "https://www.nrtoday.com/a_and_e/youth-programs-at-roseburg-public-library/article_0366e906-9cd9-451c-9309-3bce6ea0ad23.html",
+          "publishedOn": "2026-01-02T17:30:00.000Z",
+          "wordCount": 12867,
+          "title": "Youth programs at Roseburg Public Library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265",
+            "length": "348689",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b18419b-ccea-5520-a6a0-32d3a568693e/6289705fad5e0.image.jpg?resize=300%2C265"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a392a015-99b5-4b93-baa7-729a7c96eb3b",
+          "author": "Bonnie Courter Master Gardner",
+          "description": "Question: My garden is being overrun by uninvited cats. They dig up my raised bed vegetables, defecate in the soil and chew on my plants. What can I do to keep them out?",
+          "link": "https://www.nrtoday.com/life/cats-are-overtaking-my-garden/article_a392a015-99b5-4b93-baa7-729a7c96eb3b.html",
+          "publishedOn": "2026-01-02T17:30:00.000Z",
+          "wordCount": 13134,
+          "title": "Cats are overtaking my garden!",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/73/d73cc0e6-1742-46b5-9b4b-2476bd085af9/69529bfe3994d.image.jpg?resize=300%2C200",
+            "length": "341551",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/73/d73cc0e6-1742-46b5-9b4b-2476bd085af9/69529bfe3994d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6a03ce23-a9a8-4687-82ef-3c34a2cb1681",
+          "author": "Scott Carroll The News-Review",
+          "description": "During my 30 years as a newspaper reporter and editor, I’ve seen just about all manner of stories, from the mundane to the dramatic, the humorous to the deadly. But I’ve never witnessed any story that has had as many…",
+          "link": "https://www.nrtoday.com/news/the-remarkable-story-of-tyrone-powell/article_6a03ce23-a9a8-4687-82ef-3c34a2cb1681.html",
+          "publishedOn": "2026-01-02T16:00:00.000Z",
+          "wordCount": 14904,
+          "title": "The remarkable story of Tyrone Powell",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ab/6abcf494-99f7-11ee-9b2d-ab576a20e444/6260e3ecbeb8e.image.jpg?resize=300%2C213",
+            "length": "284694",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ab/6abcf494-99f7-11ee-9b2d-ab576a20e444/6260e3ecbeb8e.image.jpg?resize=300%2C213"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b039c38e-d047-48c4-bf4d-859d6db691e0",
           "author": "Scott Carroll The News-Review",
