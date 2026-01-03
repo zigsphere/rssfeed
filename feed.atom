@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-03T03:16:53.453Z</updated>
+    <updated>2026-01-03T13:25:18.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oran Mor Artisan Mead Closes Roseburg Tasting Room After 10 Years, Relocates Production Near Portland]]></title>
+        <id>6958a1976d62f6000170a9cd</id>
+        <link href="https://www.roseburgscanner.com/oran-mor-artisan-mead-closes-roseburg-tasting-room-after-10-years-relocates-production-near-portland/"/>
+        <updated>2026-01-03T05:03:18.000Z</updated>
+        <summary type="html"><![CDATA[After 10 years in Roseburg, Oran Mor Artisan Mead has closed its Roseburg tasting room following the relocation of its production closer to Portland. The company says it is not closing and will continue operating at its new location.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Dies After Stabbing at “The Point” in Roseburg; Juvenile Taken Into Custody]]></title>
+        <id>69588e986d62f6000170a9bc</id>
+        <link href="https://www.roseburgscanner.com/man-dies-after-stabbing-at-the-point-in-roseburg-juvenile-taken-into-custody/"/>
+        <updated>2026-01-03T03:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police responded to a reported stabbing near SE Pine Street Thursday morning where a 60-year-old man was found with a fatal stab wound. A juvenile suspect was later taken into custody. No further details have been released.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16-YEAR OLD CHARGED IN FATAL STABBING AT “THE POINT”]]></title>
         <id>https://kqennewsradio.com/?p=141848</id>
