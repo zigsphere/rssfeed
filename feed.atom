@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-03T19:10:45.927Z</updated>
+    <updated>2026-01-03T23:13:45.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Commissioners to Hold Public Hearing on Proposed Winchester Ridge Water District]]></title>
+        <id>69598a406d62f6000170a9ef</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-commissioners-to-hold-public-hearing-on-proposed-winchester-ridge-water-district/"/>
+        <updated>2026-01-03T22:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County commissioners will hold a Jan. 7 public hearing to consider forming the Winchester Ridge Domestic Water Supply District. The proposal would create a new water utility entity for residents in the unincorporated Winchester Ridge area.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY FROM 4:00 P.M. SATURDAY TO 1:00 P.M. SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=141852</id>
@@ -512,16 +522,6 @@
         <link href="https://kqennewsradio.com/2025/12/31/backside-brewing-co-announces-change-of-ownership/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=backside-brewing-co-announces-change-of-ownership"/>
         <updated>2025-12-31T11:13:45.000Z</updated>
         <summary type="html"><![CDATA[December 31, 2025 3:05 a.m.  In the KQEN Business Spotlight: Backside Brewing Co. has announced a change of ownership effective January 1st. The popular micro-brewery was created by KC McKillip back in the 2000s and officially became a location on Northeast Odell Avenue in Roseburg in 2012. Food and liquor were added to their menu...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIFE SAFARI WITH YEAR-END GIVING REMINDER]]></title>
-        <id>https://kqennewsradio.com/?p=141747</id>
-        <link href="https://kqennewsradio.com/2025/12/31/wildlife-safari-with-year-end-giving-reminder/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlife-safari-with-year-end-giving-reminder"/>
-        <updated>2025-12-31T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[December 31, 2025 2:50 a.m.  Wildlife Safari reminds residents that the time to make a year-end gift to the non-profit organization is here. Executive Director Dan Van Slyke said some of the highlights of 2025 include: *Community support in the spring when heavy rains and flooding left the park in urgent need of repairs....]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
