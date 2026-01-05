@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-05T13:36:24.341Z</updated>
+    <updated>2026-01-05T16:20:28.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January 5, 2026]]></title>
+        <id>695b489b6d62f6000170aa56</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-5-2026/"/>
+        <updated>2026-01-05T14:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WATCH FOR EASTERN DOUGLAS COUNTY FOOTHILLS]]></title>
         <id>https://kqennewsradio.com/?p=141874</id>
@@ -334,16 +344,6 @@
         <summary type="html"><![CDATA[January 2, 2025 6:30 a.m.  After recently announcing a pause in its operations, Douglas C.A.R.E.S. is seeking community support to help the non-profit organization reopen. A C.A.R.E.S. release said the county’s Child Advocacy Center has worked for over thirty years to help children who have experienced abuse, neglect, or sexual assault receive expert, compassionate medical...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas C.A.R.E.S to Temporarily Suspend Services Amid Funding Crisis]]></title>
-        <id>69572d516d62f6000170a7c5</id>
-        <link href="https://www.roseburgscanner.com/douglas-c-a-r-e-s-to-temporarily-suspend-services-amid-funding-crisis/"/>
-        <updated>2026-01-02T02:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Facing financial strain, Douglas C.A.R.E.S will temporarily pause operations beginning Jan. 1. The organization says the move is aimed at long-term sustainability while ensuring children continue to receive support through partner agencies.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>

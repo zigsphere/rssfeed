@@ -307,6 +307,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "695b489b6d62f6000170aa56",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-5-2026/",
+          "publishedOn": "2026-01-05T14:39:24.000Z",
+          "wordCount": 3971,
+          "title": "January 5, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-1.png"
+        },
+        {
           "id": "695b0e026d62f6000170aa1f",
           "author": "Joseph Ziegler",
           "description": "A Roseburg hillside property was largely cleaned up this weekend (Jan 2 - 4) through a coordinated effort by local volunteers, residents of managed camps, and Elk Island Trading LLC following a nuisance notice issued to the homeowner.",
@@ -375,16 +385,6 @@
           "wordCount": 4399,
           "title": "January 2, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop.png"
-        },
-        {
-          "id": "69572d516d62f6000170a7c5",
-          "author": "Joseph Ziegler",
-          "description": "Facing financial strain, Douglas C.A.R.E.S will temporarily pause operations beginning Jan. 1. The organization says the move is aimed at long-term sustainability while ensuring children continue to receive support through partner agencies.",
-          "link": "https://www.roseburgscanner.com/douglas-c-a-r-e-s-to-temporarily-suspend-services-amid-funding-crisis/",
-          "publishedOn": "2026-01-02T02:39:53.000Z",
-          "wordCount": 2337,
-          "title": "Douglas C.A.R.E.S to Temporarily Suspend Services Amid Funding Crisis",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/cares.jpg"
         }
       ]
     },
