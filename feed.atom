@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-04T23:13:52.177Z</updated>
+    <updated>2026-01-05T03:49:09.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three-Day Cleanup Restores Daly Property After Nuisance Notice]]></title>
+        <id>695b0e026d62f6000170aa1f</id>
+        <link href="https://www.roseburgscanner.com/volunteers-elk-island-trading-llc-clean-up-daly-property-following-nuisance-notice/"/>
+        <updated>2026-01-05T01:17:52.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg hillside property was largely cleaned up this weekend (Jan 2 - 4) through a coordinated effort by local volunteers, residents of managed camps, and Elk Island Trading LLC following a nuisance notice issued to the homeowner.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TENMILE WOMAN JAILED FOR REPORTED ASSAULT INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=141862</id>
+        <link href="https://kqennewsradio.com/2026/01/04/tenmile-woman-jailed-for-reported-assault-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tenmile-woman-jailed-for-reported-assault-incident"/>
+        <updated>2026-01-04T23:27:10.000Z</updated>
+        <summary type="html"><![CDATA[January 4, 2025 3:30 p.m. A Tenmile woman was jailed for a reported assault incident on Friday. A Douglas County Sheriff’s Office report said at 9:30 a.m. the suspect and the victim were involved in a verbal disturbance at a home in the 400 block of Sterling Drive, just north of Roseburg. As the victim...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG AREA MAN JAILED FOR ALLEGED HIT AND RUN INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=141860</id>
@@ -334,16 +354,6 @@
         <summary type="html"><![CDATA[Douglas CARES, which provides critical medical and psychological exams for abused and neglected children, as well as counseling for them and their families, is shutting down for at least a month due to a funding shortage.]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW YEAR’S HOLIDAY CLOSURES]]></title>
-        <id>https://kqennewsradio.com/?p=141802</id>
-        <link href="https://kqennewsradio.com/2026/01/01/new-years-holiday-closures/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-years-holiday-closures"/>
-        <updated>2026-01-01T14:56:38.000Z</updated>
-        <summary type="html"><![CDATA[January 1, 2026 7:00 a.m.  Thursday, January 1st is New Year’s Day and there are a number of closures. Federal, state, county, and city offices are closed. Regular mail will not be delivered. Schools remain out of session. Banks and credit unions will not be open. Professional offices are closed. Some retail outlets may be...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
