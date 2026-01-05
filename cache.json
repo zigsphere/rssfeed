@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141910",
+          "author": "Kyle Bailey",
+          "description": "Economist Dr. Elliot Eisenberg takes a look at the economy in the U.S. and around the world, evaluating 2025 and talking about that could be ahead in 2026.",
+          "link": "https://kqennewsradio.com/2026/01/05/inside-douglas-county-1-5-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-5-26",
+          "publishedOn": "2026-01-05T21:07:48.000Z",
+          "wordCount": 1649,
+          "title": "INSIDE DOUGLAS COUNTY 1.5.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260105200447/IDC-01-05-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222645/Eisenberg-Head-and-Shoulders-2018-e1600805267413.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141906",
           "author": "Kyle Bailey",
           "description": "January 5, 2026 10:55 a.m. One person was taken to the hospital following a two-vehicle crash on Sunday afternoon. A Roseburg Police report said just before 3:40 p.m. a 27-year-old man was driving westbound on Northeast Diamond Lake Boulevard while a second vehicle was headed northbound on Northeast Winchester Street. Based on witness statements, officers...",
@@ -329,6 +344,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ddf190a4-7384-496e-85a4-cbf95eb16e0b",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg Elks Lodge #326 will have its 129th birthday bash this weekend.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-elks-lodge-to-celebrate-129-birthday-with-a-bash/article_ddf190a4-7384-496e-85a4-cbf95eb16e0b.html",
+          "publishedOn": "2026-01-05T15:10:00.000Z",
+          "wordCount": 12177,
+          "title": "Roseburg Elks Lodge to celebrate 129 birthday with a bash",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/27f37a38-9b9f-4050-9c43-2fac8fd21847",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ELKTON — The Oregon State University Extension Service in Douglas County, in partnership with Umpqua Soil & Water Conservation District, are offering a fruit tree pruning workshop Saturday, Jan. 17.",
+          "link": "https://www.nrtoday.com/agriculture/local-partnership-to-offer-pruning-workshop/article_27f37a38-9b9f-4050-9c43-2fac8fd21847.html",
+          "publishedOn": "2026-01-05T15:04:00.000Z",
+          "wordCount": 12168,
+          "title": "Local partnership to offer pruning workshop",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f853c5b7-5ca8-4481-93b3-63ee8500c019",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Moon Mountain String Band brought a variety of tones to The Rosebud Theatre on Saturday night, flooding the stage with a banjo, mandolin, fiddle, an acoustic bass, twin guitars and multiple voices.",
+          "link": "https://www.nrtoday.com/a_and_e/moon-mountain-string-band-opens-2026-at-the-rosebud-theater/article_f853c5b7-5ca8-4481-93b3-63ee8500c019.html",
+          "publishedOn": "2026-01-05T14:45:00.000Z",
+          "wordCount": 14018,
+          "title": "Moon Mountain String Band opens 2026 at The Rosebud Theater",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/09/60990e8f-0e99-4c75-8cdf-0725d45c4622/695afa49abf87.image.jpg?resize=300%2C200",
+            "length": "396729",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/09/60990e8f-0e99-4c75-8cdf-0725d45c4622/695afa49abf87.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/db19c6c1-e7fd-4bae-891c-2b54740d6ba3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Roseburg Elks Lodge held the local annual Hoop Shoot on Dec 3, 2025, with children ages 8-13 joining in at the Fremont Middle School gym in Roseburg.",
+          "link": "https://www.nrtoday.com/news/health/local-hoopers-qualify-for-elks-district-hoop-shoot/article_db19c6c1-e7fd-4bae-891c-2b54740d6ba3.html",
+          "publishedOn": "2026-01-05T14:30:00.000Z",
+          "wordCount": 12586,
+          "title": "Local hoopers qualify for Elks' District Hoop Shoot",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/ae/7ae56437-b730-4c62-b693-18557b7393e5/695b380879ee2.image.jpg?resize=300%2C533",
+            "length": "315409",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/ae/7ae56437-b730-4c62-b693-18557b7393e5/695b380879ee2.image.jpg?resize=300%2C533"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0366e906-9cd9-451c-9309-3bce6ea0ad23",
           "author": "Aurora Ropp For The News-Review",
           "description": "It’s a new year, and that means an updated youth program schedule at Roseburg Public Library.",
@@ -359,6 +424,16 @@
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/73/d73cc0e6-1742-46b5-9b4b-2476bd085af9/69529bfe3994d.image.jpg?resize=300%2C200"
         },
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3b75c99a-76e7-4cd3-a657-267152cca131",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Two County Commissioner Candidate Town Halls are planned this January, in which the communities of Drain and Reedsport are invited for a conversation with the current lineup of Douglas County Commissioner candidates.",
+          "link": "https://www.nrtoday.com/briefs/two-town-hall-meetings-planned-for-douglas-county-commissioner-candidates/article_3b75c99a-76e7-4cd3-a657-267152cca131.html",
+          "publishedOn": "2026-01-02T16:00:00.000Z",
+          "wordCount": 12210,
+          "title": "Two town hall meetings planned for Douglas County Commissioner Candidates",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6a03ce23-a9a8-4687-82ef-3c34a2cb1681",
           "author": "Scott Carroll The News-Review",
           "description": "During my 30 years as a newspaper reporter and editor, I’ve seen just about all manner of stories, from the mundane to the dramatic, the humorous to the deadly. But I’ve never witnessed any story that has had as many…",
@@ -372,21 +447,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ab/6abcf494-99f7-11ee-9b2d-ab576a20e444/6260e3ecbeb8e.image.jpg?resize=300%2C213"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b039c38e-d047-48c4-bf4d-859d6db691e0",
-          "author": "Scott Carroll The News-Review",
-          "description": "Douglas CARES, which provides critical medical and psychological exams for abused and neglected children, as well as counseling for them and their families, is shutting down for at least a month due to a funding shortage.",
-          "link": "https://www.nrtoday.com/business/douglas-cares-closing-immediately/article_b039c38e-d047-48c4-bf4d-859d6db691e0.html",
-          "publishedOn": "2026-01-01T16:00:00.000Z",
-          "wordCount": 13174,
-          "title": "Douglas CARES closing immediately",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e3/1e3969a3-8e26-4333-9c30-730f0730954a/67250568698b0.image.jpg?resize=300%2C200",
-            "length": "274836",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/e3/1e3969a3-8e26-4333-9c30-730f0730954a/67250568698b0.image.jpg?resize=300%2C200"
         }
       ]
     },
