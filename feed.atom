@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-06T13:32:35.449Z</updated>
+    <updated>2026-01-06T16:19:39.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winter Storm Warning Remains in Effect for Southern Oregon Cascades and Siskiyou Mountains]]></title>
+        <id>695d2a386d62f6000170ad5a</id>
+        <link href="https://www.roseburgscanner.com/winter-storm-warning-remains-in-effect-for-southern-oregon-cascades-and-siskiyou-mountains/"/>
+        <updated>2026-01-06T15:42:28.000Z</updated>
+        <summary type="html"><![CDATA[A Winter Storm Warning remains in effect for the Southern Oregon Cascades and Siskiyou Mountains through Thursday morning. Heavy snow, strong winds, and hazardous travel are expected, with up to 20 inches possible at higher elevations.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 6, 2026]]></title>
+        <id>695d1cc66d62f6000170abf1</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-6-2026/"/>
+        <updated>2026-01-06T14:51:42.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER STORM WARNING 1:00 P.M. WEDNESDAY TO 10:00 A.M. THURSDAY ABOVE 2,000 FEET]]></title>
         <id>https://kqennewsradio.com/?p=141936</id>
@@ -344,26 +364,6 @@
         <summary type="html"><![CDATA[After 10 years in Roseburg, Oran Mor Artisan Mead has closed its Roseburg tasting room following the relocation of its production closer to Portland. The company says it is not closing and will continue operating at its new location.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Dies After Stabbing at “The Point” in Roseburg; Juvenile Taken Into Custody]]></title>
-        <id>69588e986d62f6000170a9bc</id>
-        <link href="https://www.roseburgscanner.com/man-dies-after-stabbing-at-the-point-in-roseburg-juvenile-taken-into-custody/"/>
-        <updated>2026-01-03T03:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police responded to a reported stabbing near SE Pine Street Thursday morning where a 60-year-old man was found with a fatal stab wound. A juvenile suspect was later taken into custody. No further details have been released.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16-YEAR OLD CHARGED IN FATAL STABBING AT “THE POINT”]]></title>
-        <id>https://kqennewsradio.com/?p=141848</id>
-        <link href="https://kqennewsradio.com/2026/01/03/16-year-old-charged-in-fatal-stabbing-at-the-point/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=16-year-old-charged-in-fatal-stabbing-at-the-point"/>
-        <updated>2026-01-03T03:16:07.000Z</updated>
-        <summary type="html"><![CDATA[January 3, 2026 7:10 p.m.   A 16-year-old male has been charged following a fatal stabbing near downtown Roseburg on Friday morning. A Roseburg Police report said at approximately 8:30 a.m. RPD along with the Douglas County Sheriff’s Office responded after a stabbing was reported in the 200 block of Southeast Pine Street, in an area...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
     <entry>
