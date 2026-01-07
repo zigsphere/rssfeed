@@ -474,6 +474,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/50372b8b-a7aa-45af-9532-b0f0f174a1d8",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Arguments happen, and sometimes in life, even the most petty and trivial ones can make their way to a courtroom. However, one resource in Douglas County is working to make sure it doesn't have to end this way.",
+          "link": "https://www.nrtoday.com/business/local_biz/center-for-dialogue-and-resolution-expands-into-douglas-county/article_50372b8b-a7aa-45af-9532-b0f0f174a1d8.html",
+          "publishedOn": "2026-01-07T16:00:00.000Z",
+          "wordCount": 12753,
+          "title": "Center for Dialogue and Resolution expands into Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e7/be72473b-3901-45ea-a894-077638bb8613/695d83fc5a4dc.image.jpg?resize=300%2C200",
+            "length": "336073",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e7/be72473b-3901-45ea-a894-077638bb8613/695d83fc5a4dc.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/daabde64-f9dc-49c7-9f1e-68623927bf17",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Upcoming federal and state legislation is causing possible struggles for hospitals across Oregon, and Roseburg's Mercy Medical Center is among those preparing for possible issues in the near — and far — future.",
+          "link": "https://www.nrtoday.com/news/mercy-medical-center-among-oregon-hospitals-anticipating-upcoming-strains/article_daabde64-f9dc-49c7-9f1e-68623927bf17.html",
+          "publishedOn": "2026-01-07T16:00:00.000Z",
+          "wordCount": 13051,
+          "title": "Mercy Medical Center among Oregon hospitals anticipating upcoming strains",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/43/c43eb3ec-e018-4750-9a38-90344530f585/679d65821134b.image.jpg?resize=300%2C225",
+            "length": "338700",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/43/c43eb3ec-e018-4750-9a38-90344530f585/679d65821134b.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ee3b034-c8a0-44bd-ac09-86f5aa0d17eb",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Oregon's U.S. Sen. Jeff Merkley, D-Oregon, announced Friday that he will begin his 2026 Oregon town hall tour this week.",
+          "link": "https://www.nrtoday.com/news/elections/sen-merkley-hosts-douglas-county-town-hall-on-saturday/article_3ee3b034-c8a0-44bd-ac09-86f5aa0d17eb.html",
+          "publishedOn": "2026-01-07T14:00:00.000Z",
+          "wordCount": 16196,
+          "title": "Sen. Merkley hosts Douglas County Town Hall on Saturday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/52/f5285afb-9f2f-4ef5-9da6-84657be07af0/65e3e6031b0f6.image.jpg?resize=300%2C200",
+            "length": "311484",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/52/f5285afb-9f2f-4ef5-9da6-84657be07af0/65e3e6031b0f6.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/31a9cac1-a4e8-4491-9d6a-6b0ce5180e0d",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "MYRTLE CREEK — South Umpqua School District is looking for applicants to fill two vacant positions on the board of education.",
@@ -576,6 +621,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "695e79bd6d62f6000170af42",
+          "author": "Joseph Ziegler",
+          "description": "Starting Jan. 6, 2026, NFSR 3401, the road to Umpqua Hot Springs, will close due to a winter storm. Vehicles must park at the gate. Visitors must hike, snowshoe, or ski the final 2.5 miles.",
+          "link": "https://www.roseburgscanner.com/road-to-umpqua-hot-springs-closed-due-to-winter-storm/",
+          "publishedOn": "2026-01-07T15:23:53.000Z",
+          "wordCount": 2184,
+          "title": "Road to Umpqua Hot Springs Closed Due to Winter Storm",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/hot_springs_closed.jpg"
+        },
+        {
+          "id": "695e6db56d62f6000170adda",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-7-2026/",
+          "publishedOn": "2026-01-07T14:48:39.000Z",
+          "wordCount": 4494,
+          "title": "January 7, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-3.png"
+        },
         {
           "id": "695dd6826d62f6000170adbb",
           "author": "Joseph Ziegler",
