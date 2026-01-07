@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-06T23:15:18.553Z</updated>
+    <updated>2026-01-07T03:23:57.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 1.6.26]]></title>
+        <id>https://kqennewsradio.com/?p=141966</id>
+        <link href="https://kqennewsradio.com/2026/01/07/true-wealth-1-6-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-1-6-26"/>
+        <updated>2026-01-07T01:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at financial topics.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Showers for the Valley, Heavy Mountain Snow]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/691f8caf-479b-4a03-85d9-e7b663de9cd4</id>
+        <link href="https://www.kezi.com/news/showers-for-the-valley-heavy-mountain-snow/article_691f8caf-479b-4a03-85d9-e7b663de9cd4.html"/>
+        <updated>2026-01-07T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Expect some fairly low snow levels Wednesday and Thursday mornings down to as low as 2,500-feet, but the heaviest in the Cascades for up to 24" of new snow by Thursday morning.]]></summary>
+        <author>
+            <name>Holden LeCroy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 1.6.26]]></title>
+        <id>https://kqennewsradio.com/?p=141962</id>
+        <link href="https://kqennewsradio.com/2026/01/06/inside-douglas-county-1-6-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-1-6-26"/>
+        <updated>2026-01-06T21:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Thrive Umpqua Executive Director Jess Hand talks about the organization and making a shift to a healthier lifestyle in 2026 using the Blue Zones principles.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR SECOND-DEGREE THEFT]]></title>
         <id>https://kqennewsradio.com/?p=141959</id>
@@ -464,16 +494,6 @@
         <summary type="html"><![CDATA[Douglas County commissioners will hold a Jan. 7 public hearing to consider forming the Winchester Ridge Domestic Water Supply District. The proposal would create a new water utility entity for residents in the unincorporated Winchester Ridge area.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER WEATHER ADVISORY FROM 4:00 P.M. SATURDAY TO 1:00 P.M. SUNDAY]]></title>
-        <id>https://kqennewsradio.com/?p=141852</id>
-        <link href="https://kqennewsradio.com/2026/01/03/winter-weather-advisory-from-400-p-m-saturday-to-100-p-m-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-weather-advisory-from-400-p-m-saturday-to-100-p-m-sunday"/>
-        <updated>2026-01-03T14:15:55.000Z</updated>
-        <summary type="html"><![CDATA[January 3, 2025 6:15 a.m. A Winter Weather Advisory is in effect from 4:00 p.m. Saturday through 1:00 p.m. Sunday for the south-central Oregon Cascades including Crater Lake and Diamond Lake. Forecasters at the National Weather Service in Medford said snow is expected above 5,000 feet. Total snow accumulation of 5 to 10 inches. Winds...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

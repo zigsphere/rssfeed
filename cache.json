@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=141966",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at financial topics.",
+          "link": "https://kqennewsradio.com/2026/01/07/true-wealth-1-6-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-1-6-26",
+          "publishedOn": "2026-01-07T01:14:13.000Z",
+          "wordCount": 1629,
+          "title": "TRUE WEALTH 1.6.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260107000306/TWR-01-06-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=141962",
+          "author": "Kyle Bailey",
+          "description": "Thrive Umpqua Executive Director Jess Hand talks about the organization and making a shift to a healthier lifestyle in 2026 using the Blue Zones principles.",
+          "link": "https://kqennewsradio.com/2026/01/06/inside-douglas-county-1-6-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-6-26",
+          "publishedOn": "2026-01-06T21:17:50.000Z",
+          "wordCount": 1639,
+          "title": "INSIDE DOUGLAS COUNTY 1.6.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260106201450/IDC-01-06-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260106201720/Jess.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=141959",
           "author": "Kyle Bailey",
           "description": "January 6, 2026 11:05 a.m.  Roseburg Police cited a woman for second-degree theft on Monday afternoon. An RPD report said at 2:30 p.m. the 38-year-old was contacted on the sidewalk near a business at the intersection of Northwest Stewart Parkway and Northwest Renann Street. The woman had a tarp tied to a Walmart shopping cart...",
@@ -349,16 +379,6 @@
           "wordCount": 1708,
           "title": "ROSEBURG AREA MAN JAILED FOR ALLEGED HIT AND RUN INCIDENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141852",
-          "author": "Kyle Bailey",
-          "description": "January 3, 2025 6:15 a.m. A Winter Weather Advisory is in effect from 4:00 p.m. Saturday through 1:00 p.m. Sunday for the south-central Oregon Cascades including Crater Lake and Diamond Lake. Forecasters at the National Weather Service in Medford said snow is expected above 5,000 feet. Total snow accumulation of 5 to 10 inches. Winds...",
-          "link": "https://kqennewsradio.com/2026/01/03/winter-weather-advisory-from-400-p-m-saturday-to-100-p-m-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=winter-weather-advisory-from-400-p-m-saturday-to-100-p-m-sunday",
-          "publishedOn": "2026-01-03T14:15:55.000Z",
-          "wordCount": 1694,
-          "title": "WINTER WEATHER ADVISORY FROM 4:00 P.M. SATURDAY TO 1:00 P.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260103131540/SNow-9.png"
         }
       ]
     },
@@ -542,7 +562,18 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/691f8caf-479b-4a03-85d9-e7b663de9cd4",
+          "author": "Holden LeCroy",
+          "description": "Expect some fairly low snow levels Wednesday and Thursday mornings down to as low as 2,500-feet, but the heaviest in the Cascades for up to 24\" of new snow by Thursday morning.",
+          "link": "https://www.kezi.com/news/showers-for-the-valley-heavy-mountain-snow/article_691f8caf-479b-4a03-85d9-e7b663de9cd4.html",
+          "publishedOn": "2026-01-07T00:42:00.000Z",
+          "wordCount": 7959,
+          "title": "Showers for the Valley, Heavy Mountain Snow",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/custom/image/8669ec34-4408-11ec-8535-9377ced27e8c.png?resize=600%2C315"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
