@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-07T03:23:57.087Z</updated>
+    <updated>2026-01-07T13:35:22.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[January Happenings at Wildlife Safari]]></title>
+        <id>695dd6826d62f6000170adbb</id>
+        <link href="https://www.roseburgscanner.com/january-happenings-at-wildlife-safari/"/>
+        <updated>2026-01-07T03:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Wildlife Safari kicks off 2026 with Douglas County Appreciation Days Jan. 18–19, offering free drive-thru admission for county residents. January also includes youth camps, seasonal animal viewing, and new DoorDash menu delivery.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSC CrossFit Announces Closure After More Than a Decade in Roseburg]]></title>
+        <id>695dd2d96d62f6000170ada2</id>
+        <link href="https://www.roseburgscanner.com/fsc-crossfit-announces-closure-after-more-than-a-decade-in-roseburg/"/>
+        <updated>2026-01-07T03:35:10.000Z</updated>
+        <summary type="html"><![CDATA[FSC CrossFit has announced it will close after nearly 12 years in Roseburg, with its final class scheduled for Dec. 19, 2025. Owners Gil and Janelle Brown thanked members and said equipment will be sold beginning Jan. 5.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRUE WEALTH 1.6.26]]></title>
         <id>https://kqennewsradio.com/?p=141966</id>
@@ -34,6 +54,16 @@
         <summary type="html"><![CDATA[Thrive Umpqua Executive Director Jess Hand talks about the organization and making a shift to a healthier lifestyle in 2026 using the Blue Zones principles.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canyonville, Myrtle Creek applicants welcome for South Umpqua School District Board of Education]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/31a9cac1-a4e8-4491-9d6a-6b0ce5180e0d</id>
+        <link href="https://www.nrtoday.com/briefs/canyonville-myrtle-creek-applicants-welcome-for-south-umpqua-school-district-board-of-education/article_31a9cac1-a4e8-4491-9d6a-6b0ce5180e0d.html"/>
+        <updated>2026-01-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — South Umpqua School District is looking for applicants to fill two vacant positions on the board of education.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -484,16 +514,6 @@
         <summary type="html"><![CDATA[January 4, 2025 3:00 p.m.  A Roseburg area man was jailed for an alleged hit and run incident on Friday evening. A Douglas County Sheriff’s Office report said at 6:00 p.m. a victim was stopped in the roadway, waiting to turn into her driveway in the 3000 block of Carnes Road in the Green District....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Commissioners to Hold Public Hearing on Proposed Winchester Ridge Water District]]></title>
-        <id>69598a406d62f6000170a9ef</id>
-        <link href="https://www.roseburgscanner.com/douglas-county-commissioners-to-hold-public-hearing-on-proposed-winchester-ridge-water-district/"/>
-        <updated>2026-01-03T22:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County commissioners will hold a Jan. 7 public hearing to consider forming the Winchester Ridge Domestic Water Supply District. The proposal would create a new water utility entity for residents in the unincorporated Winchester Ridge area.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

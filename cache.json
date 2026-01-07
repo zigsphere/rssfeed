@@ -394,6 +394,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/31a9cac1-a4e8-4491-9d6a-6b0ce5180e0d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "MYRTLE CREEK — South Umpqua School District is looking for applicants to fill two vacant positions on the board of education.",
+          "link": "https://www.nrtoday.com/briefs/canyonville-myrtle-creek-applicants-welcome-for-south-umpqua-school-district-board-of-education/article_31a9cac1-a4e8-4491-9d6a-6b0ce5180e0d.html",
+          "publishedOn": "2026-01-06T21:00:00.000Z",
+          "wordCount": 12685,
+          "title": "Canyonville, Myrtle Creek applicants welcome for South Umpqua School District Board of Education",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/71bfc843-92bf-4713-b9cb-10ddf561b436",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "WINCHESTER — At first glance, the scenes presented in Abbey Hepner’s photography seem fairly mundane: A lone sign and barbed wire fence in the middle of a grassy field, or pale corporate buildings sitting on the horizon across a plain.",
@@ -487,6 +497,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "695dd6826d62f6000170adbb",
+          "author": "Joseph Ziegler",
+          "description": "Wildlife Safari kicks off 2026 with Douglas County Appreciation Days Jan. 18–19, offering free drive-thru admission for county residents. January also includes youth camps, seasonal animal viewing, and new DoorDash menu delivery.",
+          "link": "https://www.roseburgscanner.com/january-happenings-at-wildlife-safari/",
+          "publishedOn": "2026-01-07T03:47:39.000Z",
+          "wordCount": 2355,
+          "title": "January Happenings at Wildlife Safari",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/wildlife_safari.webp"
+        },
+        {
+          "id": "695dd2d96d62f6000170ada2",
+          "author": "Joseph Ziegler",
+          "description": "FSC CrossFit has announced it will close after nearly 12 years in Roseburg, with its final class scheduled for Dec. 19, 2025. Owners Gil and Janelle Brown thanked members and said equipment will be sold beginning Jan. 5.",
+          "link": "https://www.roseburgscanner.com/fsc-crossfit-announces-closure-after-more-than-a-decade-in-roseburg/",
+          "publishedOn": "2026-01-07T03:35:10.000Z",
+          "wordCount": 2254,
+          "title": "FSC CrossFit Announces Closure After More Than a Decade in Roseburg",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/crossfit.jpg"
+        },
+        {
           "id": "695d36e36d62f6000170ad6d",
           "author": "Joseph Ziegler",
           "description": "Roseburg Police logged multiple arrests and citations Jan. 5, including warrants, theft, restraining order violations, and several traffic crashes. Incidents ranged from drug possession and stolen property to injury crashes at major intersections.",
@@ -545,16 +575,6 @@
           "wordCount": 2540,
           "title": "Three-Day Cleanup Restores Daly Property After Nuisance Notice",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/dfa45228-4866-43b7-b56b-f0be7d5ef2d5.jpeg"
-        },
-        {
-          "id": "69598a406d62f6000170a9ef",
-          "author": "Joseph Ziegler",
-          "description": "Douglas County commissioners will hold a Jan. 7 public hearing to consider forming the Winchester Ridge Domestic Water Supply District. The proposal would create a new water utility entity for residents in the unincorporated Winchester Ridge area.",
-          "link": "https://www.roseburgscanner.com/douglas-county-commissioners-to-hold-public-hearing-on-proposed-winchester-ridge-water-district/",
-          "publishedOn": "2026-01-03T22:06:33.000Z",
-          "wordCount": 2665,
-          "title": "Douglas County Commissioners to Hold Public Hearing on Proposed Winchester Ridge Water District",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/winchester_dam-1.jpg"
         }
       ]
     },
