@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-07T19:16:04.607Z</updated>
+    <updated>2026-01-07T23:15:23.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Portland Man Arrested in Roseburg After Stolen Vehicle Stop]]></title>
+        <id>695eb8f16d62f6000170af79</id>
+        <link href="https://www.roseburgscanner.com/portland-man-arrested-in-roseburg-after-stolen-vehicle-stop/"/>
+        <updated>2026-01-07T19:53:41.000Z</updated>
+        <summary type="html"><![CDATA[A stolen vehicle stop in Roseburg on Jan. 6 led to the arrest of a Portland man after police reportedly found methamphetamine, multiple fictitious IDs, and equipment used to make false identification. Officers also discovered an outstanding probation violation warrant.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR HARASSMENT TUESDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=142016</id>
