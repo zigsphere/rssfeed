@@ -654,6 +654,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6965da9-b343-4397-84c8-aa03d141f6b1",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Sutherlin High School Principal Jon Martz said he was completely unaware of his nomination to be the 2026 Oregon High School Principal of the Year, as the process is completely anonymous.",
+          "link": "https://www.nrtoday.com/news/education/jon-martz-is-oregons-high-school-principal-of-2026/article_f6965da9-b343-4397-84c8-aa03d141f6b1.html",
+          "publishedOn": "2026-01-08T14:45:00.000Z",
+          "wordCount": 13121,
+          "title": "Jon Martz is Oregon's high school principal of 2026",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/07/1078b67c-b28e-42b7-9b03-e879a11fb8c7/695fb40d957d3.image.png?resize=300%2C450",
+            "length": "1655546",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/07/1078b67c-b28e-42b7-9b03-e879a11fb8c7/695fb40d957d3.image.png?resize=300%2C450"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/14b9c3f7-97bd-418d-b470-3d3458083db8",
           "author": "Erica Reynolds The News-Review",
           "description": "TOKETEE — The United States Department of Agriculture Forest Service announced the closure National Forest System Road (NFSR) 3401 — also known as the road to the Umpqua Hot Springs — on Tuesday.",
@@ -841,6 +856,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "695fbef86d62f6000170afb0",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-8-2026/",
+          "publishedOn": "2026-01-08T14:44:12.000Z",
+          "wordCount": 4063,
+          "title": "January 8, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-4.png"
+        },
         {
           "id": "695f0d546d62f6000170af9d",
           "author": "Joseph Ziegler",
