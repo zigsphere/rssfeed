@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142027",
+          "author": "Kyle Bailey",
+          "description": "January 7, 2026 4:40 p.m.  The Rowe Street railroad trestle bridge in Roseburg caught fire on Wednesday morning. Staff assistant Amy Rice of the Roseburg Fire Department said just after 7:30 a.m. crews responded after a caller said a beam was on fire on the structure that is adjacent to Northeast Rowe Street, just off...",
+          "link": "https://kqennewsradio.com/2026/01/07/rowe-street-railroad-trestle-bridge-catches-fire/?utm_source=rss&utm_medium=rss&utm_campaign=rowe-street-railroad-trestle-bridge-catches-fire",
+          "publishedOn": "2026-01-08T00:43:38.000Z",
+          "wordCount": 1657,
+          "title": "ROWE STREET RAILROAD TRESTLE BRIDGE CATCHES FIRE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214304/fire-logo.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=142020",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County CEO Steven Stanfield talks about getting fit in the new year, and how the YMCA can help.",
+          "link": "https://kqennewsradio.com/2026/01/07/inside-douglas-county-1-7-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-1-7-26",
+          "publishedOn": "2026-01-07T21:09:44.000Z",
+          "wordCount": 1640,
+          "title": "INSIDE DOUGLAS COUNTY 1.7.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260107200518/IDC-01-007-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260107200929/Steven.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142016",
           "author": "Kyle Bailey",
           "description": "January 7, 2026 10:40 a.m.  Roseburg Police cited a woman for harassment on Tuesday night. An RPD report said at 8:15 p.m. during an argument, a 31-year-old man allegedly threw an empty can at a 30-year-old woman, hitting her in the leg, in the 1000 block of Northeast Stephens Street. The woman reportedly shoved the...",
@@ -569,6 +594,46 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/14b9c3f7-97bd-418d-b470-3d3458083db8",
+          "author": "Erica Reynolds The News-Review",
+          "description": "TOKETEE — The United States Department of Agriculture Forest Service announced the closure National Forest System Road (NFSR) 3401 — also known as the road to the Umpqua Hot Springs — on Tuesday.",
+          "link": "https://www.nrtoday.com/news/local/road-to-hot-springs-closed-due-to-incoming-storm/article_14b9c3f7-97bd-418d-b470-3d3458083db8.html",
+          "publishedOn": "2026-01-07T20:40:00.000Z",
+          "wordCount": 12614,
+          "title": "Road to hot springs closed due to incoming storm",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/e3/ee30d8aa-c3eb-4670-a1bf-fac342405d1a/695eb00bb7d49.image.jpg?resize=300%2C225",
+            "length": "75032",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/e3/ee30d8aa-c3eb-4670-a1bf-fac342405d1a/695eb00bb7d49.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/542d0bf5-856f-442c-bcbc-fb61d2eea1ba",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas Electric Cooperative (DEC) will have a planned power outage early Friday morning.",
+          "link": "https://www.nrtoday.com/briefs/douglas-electric-cooperative-announces-planned-power-outage/article_542d0bf5-856f-442c-bcbc-fb61d2eea1ba.html",
+          "publishedOn": "2026-01-07T18:51:00.000Z",
+          "wordCount": 12156,
+          "title": "Douglas Electric Cooperative announces planned power outage",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/11c83d3b-0cb7-4af7-b0db-5e4a2c6b51c4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The 2026 Roseburg Recreation Guide is now available online, filled with programs, events and local activities for everyone to attend.",
+          "link": "https://www.nrtoday.com/news/environment/2026-roseburg-recreation-guide-is-available-online/article_11c83d3b-0cb7-4af7-b0db-5e4a2c6b51c4.html",
+          "publishedOn": "2026-01-07T18:50:00.000Z",
+          "wordCount": 13582,
+          "title": "2026 Roseburg Recreation Guide is available online",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f8c25ed-b8fa-48dc-a894-4cf12db4ce7c/648b46d3e4d7c.image.jpg?resize=300%2C200",
+            "length": "244071",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/f8/6f8c25ed-b8fa-48dc-a894-4cf12db4ce7c/648b46d3e4d7c.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/50372b8b-a7aa-45af-9532-b0f0f174a1d8",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Arguments happen, and sometimes in life, even the most petty and trivial ones can make their way to a courtroom. However, one resource in Douglas County is working to make sure it doesn't have to end this way.",
@@ -716,6 +781,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "695f0d546d62f6000170af9d",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man was arrested after police responded to a reported burglary at a vacant SE Pine Street home. Officers found extensive interior damage exceeding $1,000. The suspect was later located nearby and faces burglary and criminal mischief charges.",
+          "link": "https://www.roseburgscanner.com/roseburg-man-arrested-following-burglary-at-vacant-se-pine-street-home/",
+          "publishedOn": "2026-01-08T01:51:57.000Z",
+          "wordCount": 2140,
+          "title": "Roseburg Man Arrested Following Burglary at Vacant SE Pine Street Home",
+          "imageUrl": "https://images.unsplash.com/photo-1732732291583-af1deca63038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHBvbGljZSUyMGxpZ2h0c3xlbnwwfHx8fDE3Njc4MDQzOTF8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "695eb8f16d62f6000170af79",
           "author": "Joseph Ziegler",
