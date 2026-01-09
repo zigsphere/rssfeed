@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142138",
+          "author": "Kyle Bailey",
+          "description": "Superintendent Terry Prestianni with a mid-year update on what’s happening in the Sutherlin School District.",
+          "link": "https://kqennewsradio.com/2026/01/09/inside-douglas-county-01-09-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-09-26",
+          "publishedOn": "2026-01-09T21:10:58.000Z",
+          "wordCount": 1634,
+          "title": "INSIDE DOUGLAS COUNTY 01.09.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260109200909/IDC-01-09-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727205049/terry-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142136",
           "author": "Kyle Bailey",
           "description": "January 9, 2026 10:45 a.m.  The Yachats Lions Club will hold its annual crab feed on Saturday, January 31st. For over thirty years, the annual trek to Yachats to eat Dungeness crab is a tradition for families and groups from across Oregon, Washington and beyond. A release said this year’s crab feed will back to...",
@@ -759,16 +774,6 @@
           "wordCount": 1680,
           "title": "WILDLIFE SAFARI WITH DOUGLAS COUNTY APPRECIATION DAYS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251217162532/Messenger_creation_97A4C76F-7157-4154-B7FA-573FF995F2C9.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=141915",
-          "author": "Kyle Bailey",
-          "description": "January 6,  2026 2:50 a.m.  In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre has tickets on sale now for its production of “Sweeney Todd – The Demon Barber of Fleet Street”. Information on the infamous tale, said Sweeney Todd was an unjustly exiled barber, who returns to 19th century London, seeking vengeance against the...",
-          "link": "https://kqennewsradio.com/2026/01/06/tickets-on-sale-for-sweeney-todd-at-uact/?utm_source=rss&utm_medium=rss&utm_campaign=tickets-on-sale-for-sweeney-todd-at-uact",
-          "publishedOn": "2026-01-06T11:11:59.000Z",
-          "wordCount": 1755,
-          "title": "TICKETS ON SALE FOR SWEENEY TODD AT UACT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260106101120/UACTSweeny-scaled-e1767697897608.jpg"
         }
       ]
     },
@@ -1011,6 +1016,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "69617a616d62f6000170b335",
+          "author": "Joseph Ziegler",
+          "description": "A two-day Amateur Radio General License class will be held Feb. 14–15, 2026, at the Glide Fire Station. The General license is the second FCC license level and requires a current Technician license to upgrade.",
+          "link": "https://www.roseburgscanner.com/two-day-ham-radio-general-license-class-scheduled-in-glide/",
+          "publishedOn": "2026-01-09T22:04:05.000Z",
+          "wordCount": 2179,
+          "title": "Two-Day Ham Radio General License Class Scheduled in Glide",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/ham.png"
+        },
+        {
+          "id": "69616df76d62f6000170b322",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County commissioners approved a renewed $1.9 million state grant to support the Douglas Interagency Narcotics Team through August 2027. The funding will support investigations and enforcement related to illegal marijuana operations, according to county officials.",
+          "link": "https://www.roseburgscanner.com/commissioners-approve-drug-enforcement-grant-for-douglas-interagency-narcotics-team/",
+          "publishedOn": "2026-01-09T21:08:48.000Z",
+          "wordCount": 2336,
+          "title": "Commissioners Approve Drug Enforcement Grant for Douglas Interagency Narcotics Team",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/dint_gov.jpg"
+        },
+        {
+          "id": "69616ad06d62f6000170b310",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported multiple arrests and citations Jan. 8, including a robbery investigation, a downtown exclusion zone trespass, and a drinking in public violation. Several individuals were lodged at Douglas County Corrections, according to police logs.",
+          "link": "https://www.roseburgscanner.com/police-logs/police-log-january-8-2026/",
+          "publishedOn": "2026-01-09T20:56:04.000Z",
+          "wordCount": 2401,
+          "title": "Police Log: January 8, 2026",
+          "imageUrl": "https://images.unsplash.com/photo-1718592168437-8382e5b97736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBvbGljZSUyMGxpZ2h0c3xlbnwwfHx8fDE3Njc4MDQzOTF8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "696133326d62f6000170b2e6",
           "author": "Joseph Ziegler",
