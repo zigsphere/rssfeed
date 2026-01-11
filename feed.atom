@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-11T13:25:40.693Z</updated>
+    <updated>2026-01-11T16:16:31.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH EARLY FRIDAY MORNING]]></title>
+        <id>https://kqennewsradio.com/?p=142157</id>
+        <link href="https://kqennewsradio.com/2026/01/11/air-stagnation-advisory-through-early-friday-morning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-through-early-friday-morning"/>
+        <updated>2026-01-11T14:31:30.000Z</updated>
+        <summary type="html"><![CDATA[January 11, 2026 6:30 a.m.  An Air Stagnation Advisory is in effect through 4:00 a.m. Friday for central Douglas County. Forecasters at the National Weather Service in Medford said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants in the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tractor Supply on Track to Open Roseburg Store in March]]></title>
         <id>696335f96d62f6000170b3bb</id>
@@ -634,16 +644,6 @@
         <summary type="html"><![CDATA[January 8, 2026 2:50 a.m.  Umpqua Watersheds, the City of Roseburg Parks and Recreation Department, and Thrive Umpqua will hold their annual river restoration/cleanup and invasive species removal event as part of the Martin Luther King Junior Day of Service, on Monday, January 19th from 9:00 a.m. to 1:00 p.m. Participants will be removing invasive...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Man Arrested Following Burglary at Vacant SE Pine Street Home]]></title>
-        <id>695f0d546d62f6000170af9d</id>
-        <link href="https://www.roseburgscanner.com/roseburg-man-arrested-following-burglary-at-vacant-se-pine-street-home/"/>
-        <updated>2026-01-08T01:51:57.000Z</updated>
-        <summary type="html"><![CDATA[A Roseburg man was arrested after police responded to a reported burglary at a vacant SE Pine Street home. Officers found extensive interior damage exceeding $1,000. The suspect was later located nearby and faces burglary and criminal mischief charges.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
