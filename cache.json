@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142211",
+          "author": "Kyle Bailey",
+          "description": "Oregon State University Extension Service staffer Geoff Puryear has an update on extension workshops, courses and more coming up in the next couple of months.",
+          "link": "https://kqennewsradio.com/2026/01/12/inside-douglas-county-01-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-12-26",
+          "publishedOn": "2026-01-12T21:17:52.000Z",
+          "wordCount": 1645,
+          "title": "INSIDE DOUGLAS COUNTY 01.12.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260112201137/IDC-01-12-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260112201731/Geoff.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142209",
           "author": "Kyle Bailey",
           "description": "January 12, 2026 11:00 a.m.  Roseburg Police cited two teens on the charge of speeding on the highway on Saturday night. An RPD report said just after 9:30 p.m. officers responded to a crash in the 1700 block of Northwest Garden Valley Boulevard. Officers learned it was caused by a 19-year-old racing a 17-year-old. The...",
@@ -384,26 +399,6 @@
           "wordCount": 1877,
           "title": "DISCOVER ROSEBURG GEOCACHING KICK-OFF EVENT FEBRUARY 7TH",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260109101522/Geocache-Series-15-2-7-26.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142086",
-          "author": "Kyle Bailey",
-          "description": "January 9, 2026 3:05 a.m.  Roseburg Schools will host its next early childhood literacy event on January 26th as part of the district’s grant-funded efforts intended to enhance literacy development across the community. A district release said all Roseburg-area families with children ages 2 to 4 are invited to sign up for “Literacy, Lines, &...",
-          "link": "https://kqennewsradio.com/2026/01/09/roseburg-families-invited-to-second-early-literacy-event/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-families-invited-to-second-early-literacy-event",
-          "publishedOn": "2026-01-09T11:09:53.000Z",
-          "wordCount": 1811,
-          "title": "ROSEBURG FAMILIES INVITED TO SECOND EARLY LITERACY EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251222101120/NEW-Roseburg-Wide-logo-transparent-background-scaled-e1766401947697.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142084",
-          "author": "Kyle Bailey",
-          "description": "January 9, 2026 2:50 a.m.   Douglas County 4-H is excited to offer a free public speaking workshop designed just for youth from ages 9 to 19. “From Fear to Fearless on the Mic” will be a hands-on workshop that will focus on poise, voice, tone and confidence-building skills that help youth succeed in competitions, leadership...",
-          "link": "https://kqennewsradio.com/2026/01/09/douglas-county-4-h-offering-public-speaking-workshop-for-youth/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-4-h-offering-public-speaking-workshop-for-youth",
-          "publishedOn": "2026-01-09T11:06:27.000Z",
-          "wordCount": 1669,
-          "title": "DOUGLAS COUNTY 4-H OFFERING PUBLIC SPEAKING WORKSHOP FOR YOUTH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224017/osu-image-e1649266797646.png"
         }
       ]
     },

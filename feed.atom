@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-12T19:16:24.735Z</updated>
+    <updated>2026-01-12T23:12:17.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01.12.26]]></title>
+        <id>https://kqennewsradio.com/?p=142211</id>
+        <link href="https://kqennewsradio.com/2026/01/12/inside-douglas-county-01-12-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-01-12-26"/>
+        <updated>2026-01-12T21:17:52.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State University Extension Service staffer Geoff Puryear has an update on extension workshops, courses and more coming up in the next couple of months.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE TWO TEENS FOR SPEEDING ON HIGHWAY]]></title>
         <id>https://kqennewsradio.com/?p=142209</id>
@@ -552,26 +562,6 @@
         <link href="https://kqennewsradio.com/2026/01/09/discover-roseburg-geocaching-kick-off-event-february-7th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=discover-roseburg-geocaching-kick-off-event-february-7th"/>
         <updated>2026-01-09T11:15:37.000Z</updated>
         <summary type="html"><![CDATA[January 9, 2026 3:20 a.m.  Roseburg’s next geocaching series launches on Saturday February 7th. A city release said hosted by Roseburg Parks and Recreation, the Discover Roseburg 15 Land of Umpqua Geocache Series kick-off is a free, family-friendly event designed to draw people of all ages outside to experience more of the city and its...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG FAMILIES INVITED TO SECOND EARLY LITERACY EVENT]]></title>
-        <id>https://kqennewsradio.com/?p=142086</id>
-        <link href="https://kqennewsradio.com/2026/01/09/roseburg-families-invited-to-second-early-literacy-event/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-families-invited-to-second-early-literacy-event"/>
-        <updated>2026-01-09T11:09:53.000Z</updated>
-        <summary type="html"><![CDATA[January 9, 2026 3:05 a.m.  Roseburg Schools will host its next early childhood literacy event on January 26th as part of the district’s grant-funded efforts intended to enhance literacy development across the community. A district release said all Roseburg-area families with children ages 2 to 4 are invited to sign up for “Literacy, Lines, &...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOUGLAS COUNTY 4-H OFFERING PUBLIC SPEAKING WORKSHOP FOR YOUTH]]></title>
-        <id>https://kqennewsradio.com/?p=142084</id>
-        <link href="https://kqennewsradio.com/2026/01/09/douglas-county-4-h-offering-public-speaking-workshop-for-youth/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-county-4-h-offering-public-speaking-workshop-for-youth"/>
-        <updated>2026-01-09T11:06:27.000Z</updated>
-        <summary type="html"><![CDATA[January 9, 2026 2:50 a.m.   Douglas County 4-H is excited to offer a free public speaking workshop designed just for youth from ages 9 to 19. “From Fear to Fearless on the Mic” will be a hands-on workshop that will focus on poise, voice, tone and confidence-building skills that help youth succeed in competitions, leadership...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
