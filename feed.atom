@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-13T19:15:40.024Z</updated>
+    <updated>2026-01-13T23:14:32.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OSP RESPONDS TO SINGLE-VEHICLE ROLLOVER CRASH ON HIGHWAY 42]]></title>
+        <id>https://kqennewsradio.com/?p=142279</id>
+        <link href="https://kqennewsradio.com/2026/01/13/osp-responds-to-single-vehicle-rollover-crash-on-highway-42/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=osp-responds-to-single-vehicle-rollover-crash-on-highway-42"/>
+        <updated>2026-01-13T23:12:33.000Z</updated>
+        <summary type="html"><![CDATA[January 14, 2026 3:15 p.m.  Troopers with Oregon State Police responded to a single vehicle rollover crash early Monday morning on Highway 42. An OSP report said just after 5:30 a.m. the operator of a westbound commercial truck lost control of his rig, due to icy conditions, near mile post 43, a few miles over...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DR. JASON GRAY NAMED HOSPITAL ASSOCIATION OF OREGON TRUSTEE]]></title>
+        <id>https://kqennewsradio.com/?p=142273</id>
+        <link href="https://kqennewsradio.com/2026/01/13/dr-jason-gray-named-hospital-association-of-oregon-trustee/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dr-jason-gray-named-hospital-association-of-oregon-trustee"/>
+        <updated>2026-01-13T22:59:51.000Z</updated>
+        <summary type="html"><![CDATA[January 13, 2026 3:00 p.m.  The Hospital Association of Oregon recently selected a Roseburg man to serve on its board of trustees. At its December meeting, seven Member Trustees and two Non-Member Trustees were elected, including CHI Mercy Health Chief Medical Officer and vice-president of Medical Affairs, Dr. Jason Gray. Gray will serve as a...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01.13.26]]></title>
+        <id>https://kqennewsradio.com/?p=142269</id>
+        <link href="https://kqennewsradio.com/2026/01/13/inside-douglas-county-01-13-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-01-13-26"/>
+        <updated>2026-01-13T21:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Douglas C.A.R.E.S. Executive Director Sarah Wickersham has an update on their current pause in operations, and talks about what is happening to improve their financial situation, both in the short and long term.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=142263</id>
@@ -94,6 +124,46 @@
         <summary type="html"><![CDATA[Roseburg police reported multiple enforcement actions in the Jan. 12 log, including arrests tied to an assault investigation, a parole violation with alleged felon in possession, burglary and theft cases, and separate theft and assault incidents, along with citations for prohibited camping.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLK Day of Service River Cleanup set for Monday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7983014d-a4bf-45bb-abd2-616229435d0d</id>
+        <link href="https://www.nrtoday.com/briefs/mlk-day-of-service-river-cleanup-set-for-monday/article_7983014d-a4bf-45bb-abd2-616229435d0d.html"/>
+        <updated>2026-01-13T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — Umpqua Watersheds, the Roseburg Parks and Recreation Department and Thrive Umpqua will hold the annual river restoration/cleanup and invasive species removal event as part of the Martin Luther King Junior Day of Service, from 9 a.m. 1…]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annual Four Chaplains Service to be held Feb. 7]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3c075b97-1eae-44a9-a908-3675085e458f</id>
+        <link href="https://www.nrtoday.com/briefs/annual-four-chaplains-service-to-be-held-feb-7/article_3c075b97-1eae-44a9-a908-3675085e458f.html"/>
+        <updated>2026-01-13T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSBURG — The 14th annual Four Chaplains Service will be held Saturday, Feb. 7.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Stagnation Advisory in affect until Friday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/462dfefb-93ce-49f4-a467-4923c4628e9d</id>
+        <link href="https://www.nrtoday.com/briefs/air-stagnation-advisory-in-affect-until-friday/article_462dfefb-93ce-49f4-a467-4923c4628e9d.html"/>
+        <updated>2026-01-13T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[DOUGLAS COUNTY — An Air Stagnation Advisory remains in effect through 4 a.m. Friday within the valleys of Douglas County.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Roseburg Geocaching kick-off scheduled for Feb. 7]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/1191f2b5-83d1-483c-96f5-965646207b8c</id>
+        <link href="https://www.nrtoday.com/family/discover-roseburg-geocaching-kick-off-scheduled-for-feb-7/article_1191f2b5-83d1-483c-96f5-965646207b8c.html"/>
+        <updated>2026-01-13T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg’s next geocaching series launches on Saturday, Feb. 7.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -424,56 +494,6 @@
         <summary type="html"><![CDATA[January 10, 2026 6:00 a.m.   An Air Stagnation Advisory remains in effect until 10:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service in Medford said unhealthy air could develop. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants. The Advisory...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrapping up a year of reading]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/cbce5e37-7506-4552-843c-6ec9c83aeb20</id>
-        <link href="https://www.nrtoday.com/a_and_e/wrapping-up-a-year-of-reading/article_cbce5e37-7506-4552-843c-6ec9c83aeb20.html"/>
-        <updated>2026-01-09T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I read 153 books last year. Not a record, but I was pleased with the quality of the titles I chose.]]></summary>
-        <author>
-            <name>Kris Wiley For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building, evolving and serving: Con-Vey celebrates 80 years of business]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ae609080-9ace-4a69-b16a-26e681d570d7</id>
-        <link href="https://www.nrtoday.com/business/building-evolving-and-serving-con-vey-celebrates-80-years-of-business/article_ae609080-9ace-4a69-b16a-26e681d570d7.html"/>
-        <updated>2026-01-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Con-Vey may have started as a fabrication and machine shop focused on repair work for local mills, but 80 years later it is a full-service industrial automation provider nationally recognized for its contributions to the manufacturing industry.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe Routes for School grant applications open soon]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f5ccc492-e9cb-4e93-b5c3-18027c9029e1</id>
-        <link href="https://www.nrtoday.com/news/education/safe-routes-for-school-grant-applications-open-soon/article_f5ccc492-e9cb-4e93-b5c3-18027c9029e1.html"/>
-        <updated>2026-01-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Oregon Department of Transportation (ODOT) announced that Safe Routes to School grant applications will open in February 2026.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County population estimates decrease as Oregon gains residents]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/bae5893a-108c-47ee-867a-34288d7d393a</id>
-        <link href="https://www.nrtoday.com/news/history/douglas-county-population-estimates-decrease-as-oregon-gains-residents/article_bae5893a-108c-47ee-867a-34288d7d393a.html"/>
-        <updated>2026-01-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Research shows approximately 17,000 new residents flocked to Oregon over the past year, but it also shows that they did not come to Douglas County.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q&A: Rep. Court Boice talks about Republican influences in the upcoming short session]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/eb7c98ad-ad04-4de7-834e-4d0aea087f1a</id>
-        <link href="https://www.nrtoday.com/news/government/q-a-rep-court-boice-talks-about-republican-influences-in-the-upcoming-short-session/article_eb7c98ad-ad04-4de7-834e-4d0aea087f1a.html"/>
-        <updated>2026-01-09T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This interview, originally broadcast on News Radio 93-9 FM and 1240 KQEN, has been edited for brevity and style. For the full interview, go to kqennewsradio.com. Court Boice, R-Gold Beach, is State Representative for Oregon’s House District 1. He first…]]></summary>
-        <author>
-            <name>The News-Review Staff</name>
         </author>
     </entry>
 </feed>
