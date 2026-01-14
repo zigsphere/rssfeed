@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-14T16:22:33.724Z</updated>
+    <updated>2026-01-14T19:15:12.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: January 13, 2026]]></title>
+        <id>6967ce356d62f6000170b95e</id>
+        <link href="https://www.roseburgscanner.com/police-logs/police-log-january-13-2026/"/>
+        <updated>2026-01-14T17:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported multiple arrests and citations on Jan. 13, including parole and warrant arrests, prohibited camping enforcement, littering near waterways, and traffic violations. Several individuals were lodged at Douglas County Corrections following citywide contacts.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scheduled Water Shutdown Planned for Crestview Area in Reedsport]]></title>
         <id>6967ada06d62f6000170b94c</id>
@@ -544,16 +554,6 @@
         <summary type="html"><![CDATA[January 11, 2026 6:30 a.m.  An Air Stagnation Advisory is in effect through 4:00 a.m. Friday for central Douglas County. Forecasters at the National Weather Service in Medford said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants in the...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tractor Supply on Track to Open Roseburg Store in March]]></title>
-        <id>696335f96d62f6000170b3bb</id>
-        <link href="https://www.roseburgscanner.com/tractor-supply-on-track-to-open-roseburg-store-in-march/"/>
-        <updated>2026-01-11T05:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Tractor Supply Company is set to open its Roseburg store in March, with a soft opening planned for March 21 and a grand opening on March 28. The store will be located in North Roseburg Plaza and is expected to create about 15 local jobs.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

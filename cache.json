@@ -532,6 +532,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "6967ce356d62f6000170b95e",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported multiple arrests and citations on Jan. 13, including parole and warrant arrests, prohibited camping enforcement, littering near waterways, and traffic violations. Several individuals were lodged at Douglas County Corrections following citywide contacts.",
+          "link": "https://www.roseburgscanner.com/police-logs/police-log-january-13-2026/",
+          "publishedOn": "2026-01-14T17:13:39.000Z",
+          "wordCount": 2869,
+          "title": "Police Log: January 13, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2-1.jpg"
+        },
+        {
           "id": "6967ada06d62f6000170b94c",
           "author": "Joseph Ziegler",
           "description": "The City of Reedsport Water Department announced a scheduled water shutdown affecting parts of the Crestview area on Thursday, Jan. 15, from 10 a.m. to 1 p.m. A map has been provided showing impacted areas.",
@@ -600,16 +610,6 @@
           "wordCount": 4605,
           "title": "January 12, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-6.png"
-        },
-        {
-          "id": "696335f96d62f6000170b3bb",
-          "author": "Joseph Ziegler",
-          "description": "Tractor Supply Company is set to open its Roseburg store in March, with a soft opening planned for March 21 and a grand opening on March 28. The store will be located in North Roseburg Plaza and is expected to create about 15 local jobs.",
-          "link": "https://www.roseburgscanner.com/tractor-supply-on-track-to-open-roseburg-store-in-march/",
-          "publishedOn": "2026-01-11T05:36:07.000Z",
-          "wordCount": 2184,
-          "title": "Tractor Supply on Track to Open Roseburg Store in March",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/tractor_supply.jpg"
         }
       ]
     },
