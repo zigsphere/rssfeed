@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142282",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at financial topics.",
+          "link": "https://kqennewsradio.com/2026/01/14/true-wealth-01-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-01-12-26",
+          "publishedOn": "2026-01-14T02:17:01.000Z",
+          "wordCount": 1630,
+          "title": "TRUE WEALTH 01.12.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260114011540/TWR-01-13-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142279",
           "author": "Kyle Bailey",
           "description": "January 14, 2026 3:15 p.m.  Troopers with Oregon State Police responded to a single vehicle rollover crash early Monday morning on Highway 42. An OSP report said just after 5:30 a.m. the operator of a westbound commercial truck lost control of his rig, due to icy conditions, near mile post 43, a few miles over...",
@@ -394,26 +409,6 @@
           "wordCount": 1655,
           "title": "ROSEBURG POLICE JAIL MAN FOR REPORTED CRIMINAL TRESPASS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142150",
-          "author": "Kyle Bailey",
-          "description": "January 10, 2025 7:40 p.m.   Roseburg Police jailed a man Thursday night, after alleged robbery and theft incidents. An RPD report said 9:40 p.m. officers contacted 33-year-old Joey Shippy after he allegedly walked into a fast-food outlet in the 2400 block of Northwest Stewart Parkway, pulled out a knife, and told an employee to give...",
-          "link": "https://kqennewsradio.com/2026/01/10/roseburg-police-jail-man-for-alleged-robbery-and-theft-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-alleged-robbery-and-theft-incidents",
-          "publishedOn": "2026-01-10T15:39:49.000Z",
-          "wordCount": 1719,
-          "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED ROBBERY AND THEFT INCIDENTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142146",
-          "author": "Kyle Bailey",
-          "description": "January 10, 2026 6:00 a.m.   An Air Stagnation Advisory remains in effect until 10:00 a.m. Sunday for much of southern Oregon. Forecasters at the National Weather Service in Medford said unhealthy air could develop. This is due to an inversion and stagnant air conditions near the surface that will continue to trap pollutants. The Advisory...",
-          "link": "https://kqennewsradio.com/2026/01/10/air-stagnation-advisory-in-effect-until-1000-a-m-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-in-effect-until-1000-a-m-sunday",
-          "publishedOn": "2026-01-10T14:02:36.000Z",
-          "wordCount": 1676,
-          "title": "AIR STAGNATION ADVISORY IN EFFECT UNTIL 10:00 A.M. SUNDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260110130222/Satamwx.png"
         }
       ]
     },
