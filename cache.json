@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142451",
+          "author": "Kyle Bailey",
+          "description": "January 17, 2026 6:00 a.m.  An Air Stagnation Advisory remains in effect through 10:00 a.m. Tuesday within the valleys of Douglas and Jackson counties. Forecasters at the National Weather Service in Medford said decreased air quality will likely continue. This is due to an inversion and stagnant air conditions near the surface that will continue...",
+          "link": "https://kqennewsradio.com/2026/01/17/air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday",
+          "publishedOn": "2026-01-17T14:20:29.000Z",
+          "wordCount": 1674,
+          "title": "AIR STAGNATION ADVISORY REMAINS IN EFFECT THROUGH 10:00 A.M. TUESDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260117132017/Satamfog.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142447",
           "author": "Kyle Bailey",
           "description": "Melody Schwegel of Umpqua Actors Community Theatre talks about the Father Daughter Dance in February, and the upcoming production of Sweeney Todd. In the second segment, Ashley Cluver of Umpqua Valley Art has an update on their new schedule, the new exhibits and upcoming classes.",
@@ -599,21 +609,6 @@
           "wordCount": 1645,
           "title": "TIMBER GROUP TO HEAR FROM COUNTY COMMISSIONER",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142282",
-          "author": "Kyle Bailey",
-          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at financial topics.",
-          "link": "https://kqennewsradio.com/2026/01/14/true-wealth-01-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-01-12-26",
-          "publishedOn": "2026-01-14T02:17:01.000Z",
-          "wordCount": 1630,
-          "title": "TRUE WEALTH 01.12.26",
-          "enclosure": {
-            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260114011540/TWR-01-13-26.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
         }
       ]
     },

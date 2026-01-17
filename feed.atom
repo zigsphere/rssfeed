@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-17T13:24:29.351Z</updated>
+    <updated>2026-01-17T16:16:02.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIR STAGNATION ADVISORY REMAINS IN EFFECT THROUGH 10:00 A.M. TUESDAY]]></title>
+        <id>https://kqennewsradio.com/?p=142451</id>
+        <link href="https://kqennewsradio.com/2026/01/17/air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday"/>
+        <updated>2026-01-17T14:20:29.000Z</updated>
+        <summary type="html"><![CDATA[January 17, 2026 6:00 a.m.  An Air Stagnation Advisory remains in effect through 10:00 a.m. Tuesday within the valleys of Douglas and Jackson counties. Forecasters at the National Weather Service in Medford said decreased air quality will likely continue. This is due to an inversion and stagnant air conditions near the surface that will continue...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01.16.26]]></title>
         <id>https://kqennewsradio.com/?p=142447</id>
@@ -942,16 +952,6 @@
         <link href="https://kqennewsradio.com/2026/01/14/timber-group-to-hear-from-county-commissioner/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=timber-group-to-hear-from-county-commissioner"/>
         <updated>2026-01-14T11:13:21.000Z</updated>
         <summary type="html"><![CDATA[January 14, 2026 2:50 a.m.  A local timber group will hear from a county commissioner at its next breakfast meeting. The Douglas Timber Operators will meet for a no host breakfast on Thursday, January 22nd, at 8:00 a.m. in the loft of the Del Ray Café’ on Northeast Stephens Street in Winchester. Douglas County Commissioner...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 01.12.26]]></title>
-        <id>https://kqennewsradio.com/?p=142282</id>
-        <link href="https://kqennewsradio.com/2026/01/14/true-wealth-01-12-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-01-12-26"/>
-        <updated>2026-01-14T02:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at financial topics.]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
