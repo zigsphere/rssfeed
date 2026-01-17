@@ -809,6 +809,161 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/735418bd-df62-4faf-a6d6-004605513999",
+          "author": "Erica Reynolds The News-Review",
+          "description": "The city of Roseburg is seeking qualified applicants for the Roseburg Budget Committee, Roseburg Homeless Commission and Roseburg Public Works Commission.",
+          "link": "https://www.nrtoday.com/news/government/roseburg-seeks-applicants-for-three-different-commissions/article_735418bd-df62-4faf-a6d6-004605513999.html",
+          "publishedOn": "2026-01-16T19:10:00.000Z",
+          "wordCount": 12462,
+          "title": "Roseburg seeks applicants for three different commissions",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/fe/6fe0658a-963d-4800-91ee-d734f64158e9/63af69323b154.image.jpg?resize=300%2C200",
+            "length": "599891",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/fe/6fe0658a-963d-4800-91ee-d734f64158e9/63af69323b154.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fe1fb7ca-d44a-4842-8f02-7f75e82b4aef",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Roseburg tied the record lowest high temperature for Jan. 15 on Thursday.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-ties-record-lowest-high-for-january-15/article_fe1fb7ca-d44a-4842-8f02-7f75e82b4aef.html",
+          "publishedOn": "2026-01-16T18:55:00.000Z",
+          "wordCount": 12199,
+          "title": "Roseburg ties record lowest high for January 15",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/636601ad-65ae-4bd3-a1b0-4a6337a22294",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — According to e press release, city of Roseburg buildings will be closed Monday, Jan. 19 for Martin Luther King Jr. Day.",
+          "link": "https://www.nrtoday.com/briefs/city-of-roseburg-buildings-closed-for-martin-luther-king-jr-day/article_636601ad-65ae-4bd3-a1b0-4a6337a22294.html",
+          "publishedOn": "2026-01-16T18:52:00.000Z",
+          "wordCount": 12250,
+          "title": "City of Roseburg buildings closed for Martin Luther King Jr. Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ad4ec96-9195-4ca4-b585-eacf6a911e8a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas County government offices will be closed Monday, Jan. 19, in observance of Martin Luther King Jr. Day.",
+          "link": "https://www.nrtoday.com/briefs/county-government-offices-closed-for-martin-luther-king-jr-day/article_3ad4ec96-9195-4ca4-b585-eacf6a911e8a.html",
+          "publishedOn": "2026-01-16T18:48:00.000Z",
+          "wordCount": 12276,
+          "title": "County government offices closed for Martin Luther King Jr. Day",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/40d12826-d94d-4d37-8a7d-9424e1db7ffe",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "DOUGLAS COUNTY — An Air Stagnation Advisory has been extended until 10 a.m. Tuesday within the valleys of Douglas, Josephine and Jackson counties.",
+          "link": "https://www.nrtoday.com/briefs/air-stagnation-advisory-extended-until-10-a-m-tuesday/article_40d12826-d94d-4d37-8a7d-9424e1db7ffe.html",
+          "publishedOn": "2026-01-16T18:39:00.000Z",
+          "wordCount": 12170,
+          "title": "Air Stagnation Advisory extended until 10 a.m. Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6d658e8-2f93-462f-8fc7-0d58b9e289aa",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Over the past couple of months, Roseburg Public Library patrons may have noticed longer wait times to check out the newest bestsellers in print format.",
+          "link": "https://www.nrtoday.com/a_and_e/short-chapters-from-roseburg-library/article_f6d658e8-2f93-462f-8fc7-0d58b9e289aa.html",
+          "publishedOn": "2026-01-16T17:30:00.000Z",
+          "wordCount": 12626,
+          "title": "Short chapters from Roseburg library",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2021ff6a-2f70-4983-b96a-93d1cf42317b",
+          "author": "Julie Burchstead Master Gardner",
+          "description": "Question: The rain and the warmish weather are causing a proliferation of weeds on my garden path, the seams of my driveway and cracks in the sidewalk. It is no fun weeding on cold chilly days. What do you recommend?",
+          "link": "https://www.nrtoday.com/life/garden-torches-the-go-to-for-winter-weeds/article_2021ff6a-2f70-4983-b96a-93d1cf42317b.html",
+          "publishedOn": "2026-01-16T17:30:00.000Z",
+          "wordCount": 12893,
+          "title": "Garden torches the go to for winter weeds",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a9/da98635d-b4e7-4a1b-80b3-6e3af6a288d7/6965603d101e8.image.jpg?resize=300%2C225",
+            "length": "945753",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a9/da98635d-b4e7-4a1b-80b3-6e3af6a288d7/6965603d101e8.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/855695fb-62a0-46ae-8ae4-05d3668dcf57",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "As Sherm’s Thunderbird Market owner Steve Olsrud watched pallets of food dedicated from his company’s Roseburg store hauled into the United Community Action Network (UCAN) Food Bank, he reflected on the chance to support a community that’s been helping him…",
+          "link": "https://www.nrtoday.com/business/ucan-accepts-truckload-of-food-from-sherms-thunderbird-market-for-20th-year-in-a-row/article_855695fb-62a0-46ae-8ae4-05d3668dcf57.html",
+          "publishedOn": "2026-01-16T16:00:00.000Z",
+          "wordCount": 12991,
+          "title": "UCAN accepts truckload of food from Sherm's Thunderbird Market for 20th year in a row",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8f/28f96be9-e984-47da-92b3-70d1fcc826c7/69697d42e1301.image.jpg?resize=300%2C200",
+            "length": "328928",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/8f/28f96be9-e984-47da-92b3-70d1fcc826c7/69697d42e1301.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1c6e8868-ee01-4af3-9fa6-5ee2c82e0ecd",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "In July 2025, The Clubhouse by Round Table Pizza in Roseburg closed its doors, joining Big Lots!, Joann Fabrics and Rite-Aid in an ongoing exodus of major chains in the town. Now, less than a year later, it’s making a…",
+          "link": "https://www.nrtoday.com/business/less-than-a-year-after-closing-round-table-pizza-is-returning-to-roseburg/article_1c6e8868-ee01-4af3-9fa6-5ee2c82e0ecd.html",
+          "publishedOn": "2026-01-16T16:00:00.000Z",
+          "wordCount": 12917,
+          "title": "Less than a year after closing, Round Table Pizza is returning to Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d9/8d93bc49-94a3-4c91-a1b7-2196ef8a570e/696992bf74190.image.jpg?resize=300%2C200",
+            "length": "327910",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/d9/8d93bc49-94a3-4c91-a1b7-2196ef8a570e/696992bf74190.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4e2ea850-be8e-47cb-81fa-9009ddf12638",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — Holding an envelope with a check enclosed, Safe Haven Maternity Home Executive Director Evie Kumar stood on the podium and gave the 30-second check acceptance speech to the leaders and representatives from over 70 Oregon nonprofits Thursday in…",
+          "link": "https://www.nrtoday.com/news/local/cow-creek-umpqua-indian-foundation-hands-out-grants-to-93-nonprofits/article_4e2ea850-be8e-47cb-81fa-9009ddf12638.html",
+          "publishedOn": "2026-01-16T15:00:00.000Z",
+          "wordCount": 15099,
+          "title": "Cow Creek Umpqua Indian Foundation hands out grants to 93 nonprofits",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/0a/a0acdda4-960f-46ed-8c8b-27ca1f9f0b95/696a0111df0e7.image.jpg?resize=300%2C200",
+            "length": "364832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/0a/a0acdda4-960f-46ed-8c8b-27ca1f9f0b95/696a0111df0e7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/52134e30-0f08-445f-ab6b-261a3f21fb86",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Roseburg Schools continues the effort to enhance literacy development across the community with an early childhood literacy event on Jan. 26.",
+          "link": "https://www.nrtoday.com/news/education/roseburg-schools-hosts-early-literacy-event-jan-26/article_52134e30-0f08-445f-ab6b-261a3f21fb86.html",
+          "publishedOn": "2026-01-16T14:00:00.000Z",
+          "wordCount": 13466,
+          "title": "Roseburg Schools hosts early literacy event Jan. 26",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/14b2902a-52bf-4508-b7d5-a9bb0cd99828",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "It is a small business owner’s worst nightmare: a single click on an unfamiliar link in a text message or email and suddenly all of their private data is accessed, leaving all their had work vulnerable to collapse.",
+          "link": "https://www.nrtoday.com/business/ccd-business-development-corporation-hosts-cybersecurity-talk-for-small-business-owners/article_14b2902a-52bf-4508-b7d5-a9bb0cd99828.html",
+          "publishedOn": "2026-01-15T16:00:00.000Z",
+          "wordCount": 13114,
+          "title": "CCD Business Development Corporation hosts cybersecurity talk for small business owners",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3b/73ba853b-3d82-4b1b-8aaf-76206d50460c/6967e02a4464b.image.jpg?resize=300%2C200",
+            "length": "279782",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3b/73ba853b-3d82-4b1b-8aaf-76206d50460c/6967e02a4464b.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/01eeacd7-3c5a-4572-80ae-7010a72175fa",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "In 2017, Blue Zones Project-Umpqua was formed to inspire healthier and more active living in a county struggling with maintaining healthy behavior among its residents.",
@@ -897,51 +1052,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/5e/75ebe574-1a45-4d08-a49d-fe8830d6e50e/6967c8cf16411.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7983014d-a4bf-45bb-abd2-616229435d0d",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — Umpqua Watersheds, the Roseburg Parks and Recreation Department and Thrive Umpqua will hold the annual river restoration/cleanup and invasive species removal event as part of the Martin Luther King Junior Day of Service, from 9 a.m. 1…",
-          "link": "https://www.nrtoday.com/briefs/mlk-day-of-service-river-cleanup-set-for-monday/article_7983014d-a4bf-45bb-abd2-616229435d0d.html",
-          "publishedOn": "2026-01-13T15:11:00.000Z",
-          "wordCount": 12213,
-          "title": "MLK Day of Service River Cleanup set for Monday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/3c075b97-1eae-44a9-a908-3675085e458f",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "ROSBURG — The 14th annual Four Chaplains Service will be held Saturday, Feb. 7.",
-          "link": "https://www.nrtoday.com/briefs/annual-four-chaplains-service-to-be-held-feb-7/article_3c075b97-1eae-44a9-a908-3675085e458f.html",
-          "publishedOn": "2026-01-13T15:07:00.000Z",
-          "wordCount": 12274,
-          "title": "Annual Four Chaplains Service to be held Feb. 7",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/462dfefb-93ce-49f4-a467-4923c4628e9d",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "DOUGLAS COUNTY — An Air Stagnation Advisory remains in effect through 4 a.m. Friday within the valleys of Douglas County.",
-          "link": "https://www.nrtoday.com/briefs/air-stagnation-advisory-in-affect-until-friday/article_462dfefb-93ce-49f4-a467-4923c4628e9d.html",
-          "publishedOn": "2026-01-13T15:04:00.000Z",
-          "wordCount": 12191,
-          "title": "Air Stagnation Advisory in affect until Friday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1191f2b5-83d1-483c-96f5-965646207b8c",
-          "author": "Kyle Bailey For The News-Review",
-          "description": "Roseburg’s next geocaching series launches on Saturday, Feb. 7.",
-          "link": "https://www.nrtoday.com/family/discover-roseburg-geocaching-kick-off-scheduled-for-feb-7/article_1191f2b5-83d1-483c-96f5-965646207b8c.html",
-          "publishedOn": "2026-01-13T14:54:00.000Z",
-          "wordCount": 12641,
-          "title": "Discover Roseburg Geocaching kick-off scheduled for Feb. 7",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/db/7dbd909c-2d3e-48ba-8667-0e073638986e/65ba99b340aa8.image.jpg?resize=300%2C200",
-            "length": "367528",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/db/7dbd909c-2d3e-48ba-8667-0e073638986e/65ba99b340aa8.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1155,16 +1265,6 @@
           "wordCount": 2962,
           "title": "Police Log: January 12, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2.jpg"
-        },
-        {
-          "id": "696656146d62f6000170b64f",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/january-13-2026/",
-          "publishedOn": "2026-01-13T14:40:59.000Z",
-          "wordCount": 3891,
-          "title": "January 13, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-7.png"
         }
       ]
     },
