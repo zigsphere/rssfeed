@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-18T16:16:50.660Z</updated>
+    <updated>2026-01-18T19:11:21.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
@@ -714,26 +714,6 @@
         <summary type="html"><![CDATA[January 15, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: The Umpqua Valley Youth Orchestra will perform a Winter Concert on Tuesday night, January 20th at 7:00 p.m. in Jacoby Auditorium at Umpqua Community College. Over 120 local musicians will be on stage over the course of the evening. Musical selections will include Passacaglia, Ashokan...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi Jurisdictional Training Exercise Planned in Downtown Roseburg]]></title>
-        <id>69687ccb6d62f6000170b99a</id>
-        <link href="https://www.roseburgscanner.com/multi-jurisdictional-training-exercise-planned-in-downtown-roseburg/"/>
-        <updated>2026-01-15T05:50:12.000Z</updated>
-        <summary type="html"><![CDATA[A multi jurisdictional training exercise simulating a train car hazardous materials incident will take place in downtown Roseburg on February 10. Residents may see increased emergency activity. This is only a drill and there is no threat to the public.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Man Cited After Fire and Weapon Found at Deer Creek Park Campsite]]></title>
-        <id>696878eb6d62f6000170b988</id>
-        <link href="https://www.roseburgscanner.com/roseburg-man-cited-after-fire-and-weapon-found-at-deer-creek-park-campsite/"/>
-        <updated>2026-01-15T05:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police cited a 56 year old man after finding a fire burning inside a tent at a Deer Creek Park campsite. Officers also located a machete at the scene. The man was cited for prohibited burning and possessing prohibited weapons on city property.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
