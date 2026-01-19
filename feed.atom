@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-18T23:13:53.154Z</updated>
+    <updated>2026-01-19T03:44:09.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cow Creek Umpqua Indian Foundation Awards $759,930 to 93 Southern Oregon Nonprofits]]></title>
+        <id>696da4226d62f6000170bddf</id>
+        <link href="https://www.roseburgscanner.com/cow-creek-umpqua-indian-foundation-awards-759-930-to-93-southern-oregon-nonprofits/"/>
+        <updated>2026-01-19T03:27:29.000Z</updated>
+        <summary type="html"><![CDATA[The Cow Creek Umpqua Indian Foundation awarded $759,930 in grants to 93 nonprofit organizations across seven Southern Oregon counties during its winter awards ceremony at Seven Feathers Casino Resort. Total giving since 1997 is now $27.2 million.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY FOR CENTRAL DOUGLAS COUNTY UNTIL 12:00 P.M. MONDAY]]></title>
         <id>https://kqennewsradio.com/?p=142464</id>
@@ -634,96 +644,6 @@
         <summary type="html"><![CDATA[It is a small business owner's worst nightmare: a single click on an unfamiliar link in a text message or email and suddenly all of their private data is accessed, leaving all their had work vulnerable to collapse.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 15, 2026]]></title>
-        <id>6968f8ca6d62f6000170b9c2</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/january-15-2026/"/>
-        <updated>2026-01-15T14:50:12.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR ANNOUNCES TIM KNOPP AS CHIEF PROSPERITY OFFICER]]></title>
-        <id>https://kqennewsradio.com/?p=142352</id>
-        <link href="https://kqennewsradio.com/2026/01/15/governor-announces-tim-knopp-as-chief-prosperity-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-announces-tim-knopp-as-chief-prosperity-officer"/>
-        <updated>2026-01-15T14:48:12.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 6:50 a.m.  On Wednesday, Governor Tina Kotek announced that former Republican State Senator Tim Knopp will serve as the Governor’s new Chief Prosperity Officer. A release said Knopp is charged with spearheading the work in her office to increase the state’s gross domestic product, create family-wage jobs, and grow Oregon businesses consistent...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Schools, Umpqua Community College enter 25-year facilities use agreement]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d795fbee-6559-4bd8-9d72-f4843860a157</id>
-        <link href="https://www.nrtoday.com/news/education/roseburg-schools-umpqua-community-college-enter-25-year-facilities-use-agreement/article_d795fbee-6559-4bd8-9d72-f4843860a157.html"/>
-        <updated>2026-01-15T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After two sets of motions, seconds and votes, Roseburg Schools and Umpqua Community College (UCC) said yes to an opportunity for students to prepare for a career in the health care field even before college.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREEZING FOG ADVISORY THROUGH 12:00 P.M. THURSDAY]]></title>
-        <id>https://kqennewsradio.com/?p=142348</id>
-        <link href="https://kqennewsradio.com/2026/01/15/freezing-fog-advisory-through-1200-p-m-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=freezing-fog-advisory-through-1200-p-m-thursday"/>
-        <updated>2026-01-15T12:02:11.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 4:00 a.m.  A Freezing Fog Advisory is in place through 12:00 p.m. Thursday for much of the region. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less in freezing fog is expected. The Advisory area includes central Douglas County, eastern Curry County and Josephine and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY EXTENDED UNTIL 10:00 A.M. TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=142345</id>
-        <link href="https://kqennewsradio.com/2026/01/15/air-stagnation-advisory-extended-until-1000-a-m-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-extended-until-1000-a-m-tuesday"/>
-        <updated>2026-01-15T11:51:39.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 3:50 a.m.  An Air Stagnation Advisory has been extended until 10:00 a.m. Tuesday within the valleys of Douglas, Josephine and Jackson counties. Forecasters at the National Weather Service in Medford said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SCHOOLS/UCC PARTNERING ON EXPANDED HEALTHCARE PATHWAYS]]></title>
-        <id>https://kqennewsradio.com/?p=142343</id>
-        <link href="https://kqennewsradio.com/2026/01/15/roseburg-schools-ucc-partnering-on-expanded-healthcare-pathways/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-schools-ucc-partnering-on-expanded-healthcare-pathways"/>
-        <updated>2026-01-15T11:38:19.000Z</updated>
-        <summary type="html"><![CDATA[January 16, 2026 3:40 a.m.  The Roseburg Schools Board of Directors voted Wednesday night to approve a $2.5 million investment in partnership with Umpqua Community College to support the Welcome Center and Medical Careers Hub currently under construction on the UCC campus. A joint release said the investment reflects a broader community development effort to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINSTON POLICE DEPARTMENT NAMES NICK MURTHA 2025 OFFICER OF THE YEAR]]></title>
-        <id>https://kqennewsradio.com/?p=142340</id>
-        <link href="https://kqennewsradio.com/2026/01/15/winston-police-department-names-nick-murtha-2025-officer-of-the-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-police-department-names-nick-murtha-2025-officer-of-the-year"/>
-        <updated>2026-01-15T11:27:50.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 3:30 a.m. The Winston Police Department has announced that Officer Nick Murtha has been recognized as the 2025 Officer of the Year. Police Chief Brandon Sarti said that Murtha was selected by department staff in recognition of his exceptional performance, dedication and professionalism throughout the year. Chief Sarti said throughout 2025, Officer...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY OF ROSEBURG BUILDINGS TO CLOSE FOR MARTIN LUTHER KING JR. DAY]]></title>
-        <id>https://kqennewsradio.com/?p=142338</id>
-        <link href="https://kqennewsradio.com/2026/01/15/city-of-roseburg-buildings-to-close-for-martin-luther-king-jr-day-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-roseburg-buildings-to-close-for-martin-luther-king-jr-day-2"/>
-        <updated>2026-01-15T11:24:16.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 3:20 a.m.  City of Roseburg Buildings will be closed next Monday, January 19th for Martin Luther King Jr. Day. That means that Roseburg City Hall and the Public Safety Center, both on Southeast Douglas Avenue, the Roseburg Public Library on Northeast Diamond Lake Boulevard and other city buildings will not be open...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLK DAY OF SERVICE WITH RIVER CLEANUP ON MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=142334</id>
-        <link href="https://kqennewsradio.com/2026/01/15/mlk-day-of-service-with-river-cleanup-on-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mlk-day-of-service-with-river-cleanup-on-monday"/>
-        <updated>2026-01-15T11:19:41.000Z</updated>
-        <summary type="html"><![CDATA[January 15, 2026 3:05 a.m.  For the MLK Day of Service on Monday, Umpqua Watersheds, the City of Roseburg Parks and Recreation Department and Thrive Umpqua will hold their annual River Restoration/Cleanup and Invasive Species Removal Event. Participants will be: *Removing invasive species and cleaning up trash at Charles Gardiner Park *Removing trash from Stewart...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
