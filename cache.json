@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142514",
+          "author": "Kyle Bailey",
+          "description": "On this Martin Luther King Jr. holiday, we re-aired the famous “I Have a Dream Speech, delivered in 1963 by the Reverend Martin Luther King Jr.",
+          "link": "https://kqennewsradio.com/2026/01/19/inside-douglas-county-01-19-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-19-26",
+          "publishedOn": "2026-01-19T21:08:13.000Z",
+          "wordCount": 1648,
+          "title": "INSIDE DOUGLAS COUNTY 01.19.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260119200443/IDC-01-19-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260119200754/MLK1-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142508",
           "author": "Kyle Bailey",
           "description": "January 19, 2026 10:50 a.m.  Families are invited to a second early literacy event presented by Roseburg Schools. A district release said it will be held on Monday, January 26th as part of the district’s grant-funded efforts intended to enhance literacy development across the community. “Literacy, Lines & Letters” will be a fun family gathering...",
@@ -394,26 +409,6 @@
           "wordCount": 1697,
           "title": "HUMAN TRAFFICKING TASK FORCE WITH STUDENT CREATOR PROJECT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260116101632/Student-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142392",
-          "author": "Kyle Bailey",
-          "description": "January 16, 2026 3:05 a.m.  Wildlife Safari has Douglas County Appreciation Days on Sunday and Monday, January 18th and 19th. The drive-through will be free for all residents of the county. Other special offers for local residents include: *Buy one, get one 50 percent off encounters *Buy one membership, and get a free encounter *Buy...",
-          "link": "https://kqennewsradio.com/2026/01/16/wildlife-safari-with-douglas-county-appreciation-days-sunday-monday/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-with-douglas-county-appreciation-days-sunday-monday",
-          "publishedOn": "2026-01-16T11:13:11.000Z",
-          "wordCount": 1675,
-          "title": "WILDLIFE SAFARI WITH DOUGLAS COUNTY APPRECIATION DAYS SUNDAY/MONDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251217162532/Messenger_creation_97A4C76F-7157-4154-B7FA-573FF995F2C9.jpeg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142389",
-          "author": "Kyle Bailey",
-          "description": "January 16, 2026 2:50 a.m.  Umpqua Valley Farm to School has community garden plots available. The organization has taken over the Umpqua Dairy Community Garden at 1450 Southeast Mill Street. There are a limited number of spots available. They are either fourteen feet by fourteen feet, or four feet by fourteen feet. The cost is...",
-          "link": "https://kqennewsradio.com/2026/01/16/farm-to-school-with-community-garden-plots-available/?utm_source=rss&utm_medium=rss&utm_campaign=farm-to-school-with-community-garden-plots-available",
-          "publishedOn": "2026-01-16T11:08:38.000Z",
-          "wordCount": 1644,
-          "title": "FARM TO SCHOOL WITH COMMUNITY GARDEN PLOTS AVAILABLE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260116100819/Farm1.jpg"
         }
       ]
     },
