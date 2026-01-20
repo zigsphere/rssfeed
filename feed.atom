@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-20T13:41:00.531Z</updated>
+    <updated>2026-01-20T16:26:21.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MLK Day of Service Brings Roseburg Together for River Cleanup and Invasive Species Removal]]></title>
+        <id>696f95966d62f6000170bfbb</id>
+        <link href="https://www.roseburgscanner.com/mlk-day-of-service-brings-roseburg-together-for-river-cleanup-and-invasive-species-removal/"/>
+        <updated>2026-01-20T15:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg volunteers marked MLK Day with hands-on service across Stewart Park, Eastwood Nature Park, and the Duck Pond, removing trash, pulling invasive plants, and installing educational signs as part of Umpqua Watersheds’ annual restoration event.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 20, 2026]]></title>
+        <id>696f110d6d62f6000170be04</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-20-2026/"/>
+        <updated>2026-01-20T14:38:14.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 12:00 P.M. TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=142536</id>
@@ -384,96 +404,6 @@
         <summary type="html"><![CDATA[January 17, 2026 6:00 a.m.  An Air Stagnation Advisory remains in effect through 10:00 a.m. Tuesday within the valleys of Douglas and Jackson counties. Forecasters at the National Weather Service in Medford said decreased air quality will likely continue. This is due to an inversion and stagnant air conditions near the surface that will continue...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg seeks applicants for three different commissions]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/735418bd-df62-4faf-a6d6-004605513999</id>
-        <link href="https://www.nrtoday.com/news/government/roseburg-seeks-applicants-for-three-different-commissions/article_735418bd-df62-4faf-a6d6-004605513999.html"/>
-        <updated>2026-01-16T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The city of Roseburg is seeking qualified applicants for the Roseburg Budget Committee, Roseburg Homeless Commission and Roseburg Public Works Commission.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg ties record lowest high for January 15]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/fe1fb7ca-d44a-4842-8f02-7f75e82b4aef</id>
-        <link href="https://www.nrtoday.com/briefs/roseburg-ties-record-lowest-high-for-january-15/article_fe1fb7ca-d44a-4842-8f02-7f75e82b4aef.html"/>
-        <updated>2026-01-16T18:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — Roseburg tied the record lowest high temperature for Jan. 15 on Thursday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City of Roseburg buildings closed for Martin Luther King Jr. Day]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/636601ad-65ae-4bd3-a1b0-4a6337a22294</id>
-        <link href="https://www.nrtoday.com/briefs/city-of-roseburg-buildings-closed-for-martin-luther-king-jr-day/article_636601ad-65ae-4bd3-a1b0-4a6337a22294.html"/>
-        <updated>2026-01-16T18:52:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — According to e press release, city of Roseburg buildings will be closed Monday, Jan. 19 for Martin Luther King Jr. Day.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[County government offices closed for Martin Luther King Jr. Day]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/3ad4ec96-9195-4ca4-b585-eacf6a911e8a</id>
-        <link href="https://www.nrtoday.com/briefs/county-government-offices-closed-for-martin-luther-king-jr-day/article_3ad4ec96-9195-4ca4-b585-eacf6a911e8a.html"/>
-        <updated>2026-01-16T18:48:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — Douglas County government offices will be closed Monday, Jan. 19, in observance of Martin Luther King Jr. Day.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Stagnation Advisory extended until 10 a.m. Tuesday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/40d12826-d94d-4d37-8a7d-9424e1db7ffe</id>
-        <link href="https://www.nrtoday.com/briefs/air-stagnation-advisory-extended-until-10-a-m-tuesday/article_40d12826-d94d-4d37-8a7d-9424e1db7ffe.html"/>
-        <updated>2026-01-16T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[DOUGLAS COUNTY — An Air Stagnation Advisory has been extended until 10 a.m. Tuesday within the valleys of Douglas, Josephine and Jackson counties.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short chapters from Roseburg library]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/f6d658e8-2f93-462f-8fc7-0d58b9e289aa</id>
-        <link href="https://www.nrtoday.com/a_and_e/short-chapters-from-roseburg-library/article_f6d658e8-2f93-462f-8fc7-0d58b9e289aa.html"/>
-        <updated>2026-01-16T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the past couple of months, Roseburg Public Library patrons may have noticed longer wait times to check out the newest bestsellers in print format.]]></summary>
-        <author>
-            <name>Kris Wiley For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garden torches the go to for winter weeds]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/2021ff6a-2f70-4983-b96a-93d1cf42317b</id>
-        <link href="https://www.nrtoday.com/life/garden-torches-the-go-to-for-winter-weeds/article_2021ff6a-2f70-4983-b96a-93d1cf42317b.html"/>
-        <updated>2026-01-16T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Question: The rain and the warmish weather are causing a proliferation of weeds on my garden path, the seams of my driveway and cracks in the sidewalk. It is no fun weeding on cold chilly days. What do you recommend?]]></summary>
-        <author>
-            <name>Julie Burchstead Master Gardner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCAN accepts truckload of food from Sherm's Thunderbird Market for 20th year in a row]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/855695fb-62a0-46ae-8ae4-05d3668dcf57</id>
-        <link href="https://www.nrtoday.com/business/ucan-accepts-truckload-of-food-from-sherms-thunderbird-market-for-20th-year-in-a-row/article_855695fb-62a0-46ae-8ae4-05d3668dcf57.html"/>
-        <updated>2026-01-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Sherm’s Thunderbird Market owner Steve Olsrud watched pallets of food dedicated from his company’s Roseburg store hauled into the United Community Action Network (UCAN) Food Bank, he reflected on the chance to support a community that’s been helping him…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less than a year after closing, Round Table Pizza is returning to Roseburg]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1c6e8868-ee01-4af3-9fa6-5ee2c82e0ecd</id>
-        <link href="https://www.nrtoday.com/business/less-than-a-year-after-closing-round-table-pizza-is-returning-to-roseburg/article_1c6e8868-ee01-4af3-9fa6-5ee2c82e0ecd.html"/>
-        <updated>2026-01-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In July 2025, The Clubhouse by Round Table Pizza in Roseburg closed its doors, joining Big Lots!, Joann Fabrics and Rite-Aid in an ongoing exodus of major chains in the town. Now, less than a year later, it’s making a…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
 </feed>
