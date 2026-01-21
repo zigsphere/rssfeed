@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142565",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and  Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/01/21/true-wealth-01-20-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-01-20-26",
+          "publishedOn": "2026-01-21T01:15:43.000Z",
+          "wordCount": 1628,
+          "title": "TRUE WEALTH 01.20.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260121000524/TWR-01-20-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142559",
           "author": "Kyle Bailey",
           "description": "Dr. Liz Fiedler Mergen talks about her grief journey following the death of her husband right before she found out she was pregnant in 2020. Her book “Flowers Bloom Anyway” is out soon and is available for pre-order from Barnes and Noble.",
@@ -394,16 +409,6 @@
           "wordCount": 1636,
           "title": "FREEZING FOG ADVISORY THROUGH 12:00 P.M. SUNDAY",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260117154923/Satfreeze.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142451",
-          "author": "Kyle Bailey",
-          "description": "January 17, 2026 6:00 a.m.  An Air Stagnation Advisory remains in effect through 10:00 a.m. Tuesday within the valleys of Douglas and Jackson counties. Forecasters at the National Weather Service in Medford said decreased air quality will likely continue. This is due to an inversion and stagnant air conditions near the surface that will continue...",
-          "link": "https://kqennewsradio.com/2026/01/17/air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday",
-          "publishedOn": "2026-01-17T14:20:29.000Z",
-          "wordCount": 1674,
-          "title": "AIR STAGNATION ADVISORY REMAINS IN EFFECT THROUGH 10:00 A.M. TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260117132017/Satamfog.png"
         }
       ]
     },
@@ -592,7 +597,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/19a8419e-0b6e-42bd-87ea-ea0de6e74584",
+          "author": "News Staff",
+          "description": "Stewart Park Drive Bridge will be closed for a maintenance inspection on Thursday, Jan. 22.",
+          "link": "https://www.kezi.com/news/local/stewart-park-drive-bridge-in-roseburg-closes-for-inspection-thursday/article_19a8419e-0b6e-42bd-87ea-ea0de6e74584.html",
+          "publishedOn": "2026-01-20T23:45:00.000Z",
+          "wordCount": 8393,
+          "title": "Stewart Park Drive Bridge in Roseburg closes for inspection Thursday",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/1c/31cbbda4-6cd5-4e8c-b7a5-39798d4d2e6a/6970146a13e1a.image.jpg?resize=300%2C224",
+            "length": "399140",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/1c/31cbbda4-6cd5-4e8c-b7a5-39798d4d2e6a/6970146a13e1a.image.jpg?resize=300%2C224"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

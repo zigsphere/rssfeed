@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-20T23:15:50.511Z</updated>
+    <updated>2026-01-21T03:28:09.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 01.20.26]]></title>
+        <id>https://kqennewsradio.com/?p=142565</id>
+        <link href="https://kqennewsradio.com/2026/01/21/true-wealth-01-20-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-01-20-26"/>
+        <updated>2026-01-21T01:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and  Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stewart Park Drive Bridge in Roseburg closes for inspection Thursday]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/19a8419e-0b6e-42bd-87ea-ea0de6e74584</id>
+        <link href="https://www.kezi.com/news/local/stewart-park-drive-bridge-in-roseburg-closes-for-inspection-thursday/article_19a8419e-0b6e-42bd-87ea-ea0de6e74584.html"/>
+        <updated>2026-01-20T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Stewart Park Drive Bridge will be closed for a maintenance inspection on Thursday, Jan. 22.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01/20/26]]></title>
         <id>https://kqennewsradio.com/?p=142559</id>
@@ -512,16 +532,6 @@
         <link href="https://kqennewsradio.com/2026/01/17/freezing-fog-advisory-through-1200-p-m-sunday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=freezing-fog-advisory-through-1200-p-m-sunday"/>
         <updated>2026-01-17T16:49:37.000Z</updated>
         <summary type="html"><![CDATA[January 17, 2025 8:30 a.m.  A Freezing Fog Advisory is in effect through 12:00 p.m. Saturday within the valleys of Douglas, Josephine and Jackson counties. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less in dense freezing fog is expected. Dense fog could make driving conditions hazardous and...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY REMAINS IN EFFECT THROUGH 10:00 A.M. TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=142451</id>
-        <link href="https://kqennewsradio.com/2026/01/17/air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-remains-in-effect-through-1000-a-m-tuesday"/>
-        <updated>2026-01-17T14:20:29.000Z</updated>
-        <summary type="html"><![CDATA[January 17, 2026 6:00 a.m.  An Air Stagnation Advisory remains in effect through 10:00 a.m. Tuesday within the valleys of Douglas and Jackson counties. Forecasters at the National Weather Service in Medford said decreased air quality will likely continue. This is due to an inversion and stagnant air conditions near the surface that will continue...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>
