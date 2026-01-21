@@ -484,6 +484,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f0302df7-c58d-4c38-975b-107f19ca924e",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On Tuesday, Drain resident Nancy Whitlock was out for a morning walk when she passed the Ray's Food Place and saw a new sign hanging from the side of the building, which reads \"Store Closing. Everything Must Go!\"",
+          "link": "https://www.nrtoday.com/business/drains-rays-food-place-to-close-by-end-of-february/article_f0302df7-c58d-4c38-975b-107f19ca924e.html",
+          "publishedOn": "2026-01-21T16:00:00.000Z",
+          "wordCount": 13320,
+          "title": "Drain's Ray's Food Place to close by end of February",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/7f/47f7b841-78f8-4f60-8a5d-a16f2efb0dbe/696fd3684e0c1.image.jpg?resize=300%2C200",
+            "length": "297038",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/7f/47f7b841-78f8-4f60-8a5d-a16f2efb0dbe/696fd3684e0c1.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/993212b7-ca7a-4389-95c8-5ee6b7fc49aa",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Umpqua Actors Community Theatre is now organizing the Douglas County Father/Daughter Winter Wonderland Dance.",
+          "link": "https://www.nrtoday.com/briefs/uact-organizing-father-daughter-dance-tickets-now-on-sale/article_993212b7-ca7a-4389-95c8-5ee6b7fc49aa.html",
+          "publishedOn": "2026-01-21T15:56:00.000Z",
+          "wordCount": 12668,
+          "title": "UACT organizing father/daughter dance, tickets now on sale",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0fce1028-d1e0-4cc4-9255-07bcbc528cbc",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "CANYONVILLE — Tickets are now on sale for the 55th annual Greatest of the Grape event.",
+          "link": "https://www.nrtoday.com/briefs/55th-annual-greatest-of-the-grape-tickets-on-sale/article_0fce1028-d1e0-4cc4-9255-07bcbc528cbc.html",
+          "publishedOn": "2026-01-21T15:40:00.000Z",
+          "wordCount": 12610,
+          "title": "55th annual Greatest of the Grape tickets on sale",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6906c2f5-0fee-4816-a2ce-f1267c7913f9",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — Stewart Park Drive Bridge in Roseburg will be closed to vehicle and pedestrian traffic during a maintenance inspection on Thursday.",
+          "link": "https://www.nrtoday.com/briefs/maintenance-inspection-to-briefly-close-stewart-park-drive-bridge/article_6906c2f5-0fee-4816-a2ce-f1267c7913f9.html",
+          "publishedOn": "2026-01-21T15:35:00.000Z",
+          "wordCount": 12645,
+          "title": "Maintenance inspection to briefly close Stewart Park Drive Bridge",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ca485283-93e3-4ace-93e5-0175848410aa",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Umpqua Valley Audubon and Roseburg Public Library invite the public to a presentation on great horned owls by Colorado researcher Scott Rashid.",
+          "link": "https://www.nrtoday.com/briefs/partnership-to-host-great-horned-owl-researcher/article_ca485283-93e3-4ace-93e5-0175848410aa.html",
+          "publishedOn": "2026-01-21T15:30:00.000Z",
+          "wordCount": 12765,
+          "title": "Partnership to host great horned owl researcher",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/39840be1-81a9-4c0d-a98f-a207a2287c9d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Roseburg Public Library invites the community to enjoy “The Power of Place,” a photography exhibit currently on loan from the Oregon Historical Society.",
+          "link": "https://www.nrtoday.com/a_and_e/roseburg-library-hosts-photography-exhibit/article_39840be1-81a9-4c0d-a98f-a207a2287c9d.html",
+          "publishedOn": "2026-01-21T15:27:00.000Z",
+          "wordCount": 12637,
+          "title": "Roseburg library hosts photography exhibit",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/021159b0-7dad-4a64-b925-1b3965693319",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "A Beginning Youth Shotgun Skills event will be held all day Feb. 14 at the Roseburg Rod and Gun Club, 875 Old Del Rio Road in Roseburg. The event is put on by Friends of the NRA and Douglas County…",
@@ -601,6 +666,56 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6970f9616d62f6000170c249",
+          "author": "Joseph Ziegler",
+          "description": "North Umpqua Outfitters is offering a free guided fishing trip on the Umpqua River for veterans and first responders. The drift boat outing includes fishing gear, lunch, and drinks, and lasts about 5 to 6 hours. Participants must bring an Oregon fishing license and Salmon Steelhead tag.",
+          "link": "https://www.roseburgscanner.com/north-umpqua-outfitters-offering-free-umpqua-river-fishing-trip-for-veterans-and-first-responders/",
+          "publishedOn": "2026-01-21T16:11:29.000Z",
+          "wordCount": 2334,
+          "title": "North Umpqua Outfitters Offering Free Umpqua River Fishing Trip for Veterans and First Responders",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/warrior_free_fishing.jpeg"
+        },
+        {
+          "id": "6970ecf76d62f6000170c22e",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua Community College women’s basketball coach Dave Stricklin earned the 1,000th win of his junior college career Jan. 19 as the Riverhawks beat Portland Community College 89-60. UCC will recognize the milestone with an on-court ceremony Jan. 25.",
+          "link": "https://www.roseburgscanner.com/ucc-womens-basketball-coach-dave-stricklin-earns-1-000th-career-win-in-riverhawks-victory/",
+          "publishedOn": "2026-01-21T15:28:44.000Z",
+          "wordCount": 2118,
+          "title": "UCC Women’s Basketball Coach Dave Stricklin Earns 1,000th Career Win in Riverhawks Victory",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/ucc_bascketball_team.webp"
+        },
+        {
+          "id": "6970e92a6d62f6000170c210",
+          "author": "Joseph Ziegler",
+          "description": "North Douglas County Fire & EMS received two SPIRE grants from Oregon Emergency Management, funding new Holmatro battery rescue tools for vehicle extrication and a thermal imaging drone to boost search and rescue and scene awareness. Crews are now training with the equipment.",
+          "link": "https://www.roseburgscanner.com/north-douglas-county-fire-ems-receives-two-spire-grants-for-new-rescue-tools-and-thermal-drone/",
+          "publishedOn": "2026-01-21T15:05:10.000Z",
+          "wordCount": 2185,
+          "title": "North Douglas County Fire & EMS Receives Two SPIRE Grants for New Rescue Tools and Thermal Drone",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/grant1.jpg"
+        },
+        {
+          "id": "6970e7fe6d62f6000170c1fd",
+          "author": "Joseph Ziegler",
+          "description": "Adapt Integrated Health Care says a vendor-related security incident at TriZetto may have involved some patient info, including names, SSNs, and insurance details. Adapt systems were not breached. Impacted patients will be notified starting Feb. 2026.",
+          "link": "https://www.roseburgscanner.com/adapt-integrated-health-care-notifies-patients-of-vendor-related-security-incident-involving-trizetto/",
+          "publishedOn": "2026-01-21T14:52:40.000Z",
+          "wordCount": 2341,
+          "title": "Adapt Integrated Health Care Notifies Patients of Vendor-Related Security Incident Involving TriZetto",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/Adapt-Integrated-Health-Care-1.png"
+        },
+        {
+          "id": "6970e2436d62f6000170c089",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/january-21-2026/",
+          "publishedOn": "2026-01-21T14:47:27.000Z",
+          "wordCount": 4328,
+          "title": "January 21, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-12.png"
+        },
         {
           "id": "696fc35e6d62f6000170c05e",
           "author": "Joseph Ziegler",
