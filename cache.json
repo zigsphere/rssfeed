@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142623",
+          "author": "Kyle Bailey",
+          "description": "Cow Creek Umpqua Indian Foundation Executive Director Carma Mornarich talks about their recent grants to over 90 non-profit organizations in the region.",
+          "link": "https://kqennewsradio.com/2026/01/21/inside-douglas-county-01-21-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-21-26",
+          "publishedOn": "2026-01-21T21:24:26.000Z",
+          "wordCount": 1643,
+          "title": "INSIDE DOUGLAS COUNTY 01/21/26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260121201858/IDC-01-21-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260121202403/carma-4.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142617",
           "author": "Kyle Bailey",
           "description": "January 21, 2026 11:00 a.m.  Roseburg Police cited a man for prohibited camping on Tuesday afternoon. An RPD report said at 12:30 p.m. a 36-year-old was contacted near the intersection of Northwest Edenbower Boulevard and Northwest Renann Street. He was covered in a small blanket in a small camp set up in the brush at...",
@@ -782,6 +797,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "69712dff6d62f6000170c685",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County commissioners issued a proclamation Jan. 21, 2026, declaring January as National Human Trafficking Awareness and Prevention Month. The proclamation cites the TVPA and recognizes the Douglas County Human Trafficking Task Force and its partner agencies.",
+          "link": "https://www.roseburgscanner.com/douglas-county-declares-january-as-human-trafficking-awareness-and-prevention-month/",
+          "publishedOn": "2026-01-21T19:55:14.000Z",
+          "wordCount": 2214,
+          "title": "Douglas County Declares January as Human Trafficking Awareness and Prevention Month",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/dc-1.png"
+        },
+        {
+          "id": "69712a826d62f6000170c66a",
+          "author": "Joseph Ziegler",
+          "description": "Congress approved the FY26 Interior Appropriations Bill with language that AOCC says restores a 75% share of BLM O&C timber receipts for 18 western Oregon counties. The group says the change reverses a 1982 revision and could boost annual revenue by about 50%.",
+          "link": "https://www.roseburgscanner.com/congress-approves-fy26-interior-appropriations-bill-with-changes-to-o-c-timber-revenue-share-for-oregon-counties/",
+          "publishedOn": "2026-01-21T19:39:58.000Z",
+          "wordCount": 2420,
+          "title": "Congress approves FY26 Interior Appropriations bill with changes to O&C timber revenue share for Oregon counties",
+          "imageUrl": "https://images.unsplash.com/photo-1520648431574-7ec4f7109c36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxsb2dnaW5nfGVufDB8fHx8MTc2OTAyNDIxM3ww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "697103006d62f6000170c277",
           "author": "Joseph Ziegler",

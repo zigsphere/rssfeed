@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-21T19:21:36.198Z</updated>
+    <updated>2026-01-21T23:18:50.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01/21/26]]></title>
+        <id>https://kqennewsradio.com/?p=142623</id>
+        <link href="https://kqennewsradio.com/2026/01/21/inside-douglas-county-01-21-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-01-21-26"/>
+        <updated>2026-01-21T21:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Cow Creek Umpqua Indian Foundation Executive Director Carma Mornarich talks about their recent grants to over 90 non-profit organizations in the region.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Declares January as Human Trafficking Awareness and Prevention Month]]></title>
+        <id>69712dff6d62f6000170c685</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-declares-january-as-human-trafficking-awareness-and-prevention-month/"/>
+        <updated>2026-01-21T19:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County commissioners issued a proclamation Jan. 21, 2026, declaring January as National Human Trafficking Awareness and Prevention Month. The proclamation cites the TVPA and recognizes the Douglas County Human Trafficking Task Force and its partner agencies.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress approves FY26 Interior Appropriations bill with changes to O&C timber revenue share for Oregon counties]]></title>
+        <id>69712a826d62f6000170c66a</id>
+        <link href="https://www.roseburgscanner.com/congress-approves-fy26-interior-appropriations-bill-with-changes-to-o-c-timber-revenue-share-for-oregon-counties/"/>
+        <updated>2026-01-21T19:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Congress approved the FY26 Interior Appropriations Bill with language that AOCC says restores a 75% share of BLM O&C timber receipts for 18 western Oregon counties. The group says the change reverses a 1982 revision and could boost annual revenue by about 50%.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=142617</id>
