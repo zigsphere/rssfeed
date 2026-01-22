@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142679",
+          "author": "Kyle Bailey",
+          "description": "Live from Washington D.C. fourth district Congresswoman Val Hoyle talks about federal forestry policy, continued work on getting funding for a state veterans home in Roseburg, and a variety of other topics.",
+          "link": "https://kqennewsradio.com/2026/01/22/inside-douglas-county-01-22-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-22-26",
+          "publishedOn": "2026-01-22T21:24:20.000Z",
+          "wordCount": 1649,
+          "title": "INSIDE DOUGLAS COUNTY 01.22.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260122201958/IDC-01-22-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142673",
           "author": "Kyle Bailey",
           "description": "January 22, 2026 10:55 a.m.    On Wednesday, Governor Tina Kotek issued a statement in response to updated legal analysis from the Oregon Legislature concluding that repealing House Bill 3991 through legislative action would be unconstitutional and that the measure instead be referred to voters. A release said earlier legal analysis relied on by the...",
@@ -714,36 +729,6 @@
           "wordCount": 1729,
           "title": "ROSEBURG ROUNDTABLE SET TO REOPEN IN THE SPRING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260119101822/Roundtable-1-e1768821517157.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142473",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2026 3:20 a.m.  On Thursday, the Cow Creek Umpqua Indian Foundation celebrated its winter awards ceremony at Seven Feathers Casino Resort. A foundation release said $759,930 was distributed to southern Oregon non-profit organizations that work to strengthen their communities. The grants were awarded to groups in Douglas, Jackson, Josephine, Coos, Klamath, Lane and...",
-          "link": "https://kqennewsradio.com/2026/01/19/cow-creek-umpqua-indian-foundation-grants-795000-to-non-profits/?utm_source=rss&utm_medium=rss&utm_campaign=cow-creek-umpqua-indian-foundation-grants-795000-to-non-profits",
-          "publishedOn": "2026-01-19T11:14:17.000Z",
-          "wordCount": 1790,
-          "title": "COW CREEK UMPQUA INDIAN FOUNDATION GRANTS $795,000 TO NON-PROFITS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260119101333/Grants1.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142468",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2026 3:05 a.m.  The Umpqua Valley Audubon and Roseburg Public Library invite the public to a presentation on great horned owls, by Colorado researcher Scott Rashid. On Wednesday, January 28th at 6:00 p.m. Rashid will visit virtually on Zoom. Attendees are invited to participate in person at the library on Northeast Diamond Lake...",
-          "link": "https://kqennewsradio.com/2026/01/19/audubon-society-roseburg-library-to-host-great-horned-owl-presentation/?utm_source=rss&utm_medium=rss&utm_campaign=audubon-society-roseburg-library-to-host-great-horned-owl-presentation",
-          "publishedOn": "2026-01-19T11:07:54.000Z",
-          "wordCount": 1842,
-          "title": "AUDUBON SOCIETY/ROSEBURG LIBRARY TO HOST GREAT HORNED OWL PRESENTATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250421091318/Magnolia-at-Roseburg-Library-3-27-25-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142466",
-          "author": "Kyle Bailey",
-          "description": "January 19, 2026 2:50 a.m. The City of Roseburg has vacancies on three city commissions and is now accepting applications from those interested in serving. A city release said the Budget Committee, Homeless Commission and Public Works Commission all have openings. The application for the Budget Committee is March 13th. Applications for the other commission...",
-          "link": "https://kqennewsradio.com/2026/01/19/city-of-roseburg-with-commission-vacancies/?utm_source=rss&utm_medium=rss&utm_campaign=city-of-roseburg-with-commission-vacancies",
-          "publishedOn": "2026-01-19T11:02:45.000Z",
-          "wordCount": 1651,
-          "title": "CITY OF ROSEBURG WITH COMMISSION VACANCIES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223954/City-Hall-Front-e1587726357513.jpg"
         }
       ]
     },
@@ -758,6 +743,51 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/55e416b3-190f-4597-a0d0-f96343595523",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On Wednesday, the Douglas County Board of Commissioners held a meeting in which service was recognized, human trafficking awareness was discussed and next steps on disaster relief funding for the March 2025 floods were taken.",
+          "link": "https://www.nrtoday.com/news/douglas-county-board-of-commissioners-address-human-trafficking-awareness-disaster-relief-funding-and-more/article_55e416b3-190f-4597-a0d0-f96343595523.html",
+          "publishedOn": "2026-01-22T20:54:00.000Z",
+          "wordCount": 13457,
+          "title": "Douglas County Board of Commissioners address human trafficking awareness, disaster relief funding and more",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/cb/3cb25e42-a3e1-40d9-97e7-84a772605d5e/697150477e5bb.image.jpg?resize=300%2C200",
+            "length": "378916",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/cb/3cb25e42-a3e1-40d9-97e7-84a772605d5e/697150477e5bb.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cf6dfd75-663f-4692-8f44-c1d06cc4ced0",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Adapt Integrated Health Care has given notice that one of its third-party vendors has reported a possible data breach.",
+          "link": "https://www.nrtoday.com/business/adapt-reports-vendor-data-breach/article_cf6dfd75-663f-4692-8f44-c1d06cc4ced0.html",
+          "publishedOn": "2026-01-22T20:00:00.000Z",
+          "wordCount": 12860,
+          "title": "Adapt reports vendor data breach",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/ad/bad11938-1e80-4a99-a99a-727aee494611/67870bc196e24.image.jpg?resize=300%2C200",
+            "length": "347540",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/ad/bad11938-1e80-4a99-a99a-727aee494611/67870bc196e24.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f476b3c3-9d23-42fb-80be-c27a31c73882",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Sutherlin High School senior Camila Castillon-Gordian said attending her last Oregon Music Education Association’s All-State choir over the weekend could only be described as bittersweet.",
+          "link": "https://www.nrtoday.com/a_and_e/music/douglas-county-students-join-in-all-state-choirs-bands/article_f476b3c3-9d23-42fb-80be-c27a31c73882.html",
+          "publishedOn": "2026-01-22T15:00:00.000Z",
+          "wordCount": 14604,
+          "title": "Douglas County students join in All-State choirs, bands",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2f/d2f7f09e-90db-4765-92ed-f0651f35f0c3/6847d83d0b01a.image.jpg?resize=300%2C225",
+            "length": "357533",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2f/d2f7f09e-90db-4765-92ed-f0651f35f0c3/6847d83d0b01a.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f0302df7-c58d-4c38-975b-107f19ca924e",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -952,6 +982,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "697297d76d62f6000170d053",
+          "author": "Joseph Ziegler",
+          "description": "Wildlife Safari has completed a brand new lemur house in the free Walk Thru Safari. The larger, heated space includes big windows and can be divided for new introductions or maternity needs. The lemurs have returned to their updated island home.",
+          "link": "https://www.roseburgscanner.com/new-lemur-house-completed-at-wildlife-safari-lemurs-return-to-walk-thru-safari/",
+          "publishedOn": "2026-01-22T21:37:43.000Z",
+          "wordCount": 2224,
+          "title": "New Lemur House Completed at Wildlife Safari, Lemurs Return to Walk Thru Safari",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/lem.png"
+        },
         {
           "id": "697253216d62f6000170d032",
           "author": "Joseph Ziegler",
