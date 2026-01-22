@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-22T13:40:55.598Z</updated>
+    <updated>2026-01-22T16:25:48.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DEMOCRATIC LEGISLATIVE LEADERSHIP TO PUSH FOR MAY VOTE ON TRANSPORTATON FUNDING LEGISLATION]]></title>
+        <id>https://kqennewsradio.com/?p=142651</id>
+        <link href="https://kqennewsradio.com/2026/01/22/democratic-legislative-leadership-to-push-for-may-vote-on-transportaton-funding-legislation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=democratic-legislative-leadership-to-push-for-may-vote-on-transportaton-funding-legislation"/>
+        <updated>2026-01-22T15:39:26.000Z</updated>
+        <summary type="html"><![CDATA[January 22, 2026 7:30 a.m.  Oregon Senate President Rob Wagner and House Speaker Julie Fahey have announced they will introduce legislation to set the date of the referendum on House Bill 3991 for May 19th to coincide with the statewide primary election. A release said this would allow voters to weigh in on the transportation...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 22, 2026]]></title>
+        <id>6972347d6d62f6000170cea1</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/january-22-2026/"/>
+        <updated>2026-01-22T14:52:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 12:00 P.M. THURSDAY]]></title>
         <id>https://kqennewsradio.com/?p=142647</id>
@@ -925,16 +945,6 @@ The post Plans paused for older adult living community at SOU appeared first on
         <summary type="html"><![CDATA[January 19, 2026 2:50 a.m. The City of Roseburg has vacancies on three city commissions and is now accepting applications from those interested in serving. A city release said the Budget Committee, Homeless Commission and Public Works Commission all have openings. The application for the Budget Committee is March 13th. Applications for the other commission...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cow Creek Umpqua Indian Foundation Awards $759,930 to 93 Southern Oregon Nonprofits]]></title>
-        <id>696da4226d62f6000170bddf</id>
-        <link href="https://www.roseburgscanner.com/cow-creek-umpqua-indian-foundation-awards-759-930-to-93-southern-oregon-nonprofits/"/>
-        <updated>2026-01-19T03:27:29.000Z</updated>
-        <summary type="html"><![CDATA[The Cow Creek Umpqua Indian Foundation awarded $759,930 in grants to 93 nonprofit organizations across seven Southern Oregon counties during its winter awards ceremony at Seven Feathers Casino Resort. Total giving since 1997 is now $27.2 million.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
