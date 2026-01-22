@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-21T23:18:50.024Z</updated>
+    <updated>2026-01-22T03:42:08.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Source One Serenity Honors Douglas County Leaders With Certificate of Appreciation]]></title>
+        <id>69718e5f6d62f6000170ce89</id>
+        <link href="https://www.roseburgscanner.com/source-one-serenity-honors-douglas-county-leaders-with-certificate-of-appreciation/"/>
+        <updated>2026-01-22T02:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Source One Serenity founders Rusty and Elena Lininger presented Douglas County Commissioners and Solid Waste staff with a certificate of appreciation, thanking them for support that helped launch a food waste diversion and compost project at the Glide Transfer Station.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reedsport Main Street advances to “Designated Main Street” level in Oregon Main Street Network]]></title>
+        <id>6971608e6d62f6000170ce73</id>
+        <link href="https://www.roseburgscanner.com/reedsport-main-street-advances-to-designated-main-street-level-in-oregon-main-street-network/"/>
+        <updated>2026-01-21T23:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Reedsport Main Street advanced to the Designated Main Street level in the Oregon Main Street Network, along with Downtown Medford Association, North Bend Main Street, and Port Orford Main Street. OMS said the designation reflects progress in strengthening historic downtowns.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01/21/26]]></title>
         <id>https://kqennewsradio.com/?p=142623</id>
