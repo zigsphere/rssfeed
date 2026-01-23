@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142746",
+          "author": "Kyle Bailey",
+          "description": "January 23, 2026 1:50 p.m.  The National Weather Service in Medford has issued a Colder Weather Advisory from Friday evening at 7:00 p.m. through Saturday morning at 11:00 a.m. Forecasters at the National Weather Service in Medford said very cold temperatures as low as 20 degrees are expected. The Advisory area includes Roseburg, Sutherlin, Myrtle...",
+          "link": "https://kqennewsradio.com/2026/01/23/cold-weather-advisory-friday-evening-through-saturday-morning/?utm_source=rss&utm_medium=rss&utm_campaign=cold-weather-advisory-friday-evening-through-saturday-morning",
+          "publishedOn": "2026-01-23T21:53:16.000Z",
+          "wordCount": 1635,
+          "title": "COLD WEATHER ADVISORY FRIDAY EVENING THROUGH SATURDAY MORNING",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123205303/Cold-10.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=142740",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osborne talks about the Governor’s race, funding for the Oregon Department of Transportation, and what is ahead during the short session of the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/01/23/inside-douglas-county-01-23-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-23-26",
+          "publishedOn": "2026-01-23T21:11:17.000Z",
+          "wordCount": 1647,
+          "title": "INSIDE DOUGLAS COUNTY 01.23.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123200735/IDC-01-23-26-2.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123201036/Virgil-2.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142735",
           "author": "Kyle Bailey",
           "description": "January 23, 2026 10:50 a.m.  Roseburg Police cited a man for prohibited burning on Thursday night. An RPD report said at 11:15 p.m. officers contacted the 38-year-old regarding a fire constructed of cardboard on the sidewalk near the intersection of Northwest Edenbower Boulevard and Northwest Renann Street. The man claimed he started the fire to...",
@@ -749,36 +774,6 @@
           "wordCount": 1719,
           "title": "WINSTON CITY COUNCIL HOLDING A TUESDAY EVENING MEETING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223900/city-logo-white-e1593623854274.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142524",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 3:20 a.m.  The Roseburg Public Library invites the community to enjoy “The Power of Place”, a photography exhibit currently on loan from the Oregon Historical Society. A city release said the exhibit showcases the breathtaking beauty of Oregon through images from renowned landscape photographer Peter Marbach. From the rugged coastline and towering...",
-          "link": "https://kqennewsradio.com/2026/01/20/roseburg-library-hots-photography-exhibit/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-library-hots-photography-exhibit",
-          "publishedOn": "2026-01-20T11:12:44.000Z",
-          "wordCount": 1708,
-          "title": "ROSEBURG LIBRARY HOTS PHOTOGRAPHY EXHIBIT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260120101148/Photo1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142522",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2025 3:05 a.m.  In the KQEN Cultural Spotlight: Tickets are now on sale for the 55th annual Greatest of the Grape event. Presented by the Umpqua Valley Wine Growers Association, it’s Oregon’s longest- running annual wine celebration. Greatest of Grape will be held on Saturday, March 7th from 6:00 p.m. to 9:00 p.m....",
-          "link": "https://kqennewsradio.com/2026/01/20/55th-annual-greatest-of-the-grape-tickets-on-sale/?utm_source=rss&utm_medium=rss&utm_campaign=55th-annual-greatest-of-the-grape-tickets-on-sale",
-          "publishedOn": "2026-01-20T11:08:38.000Z",
-          "wordCount": 1681,
-          "title": "55TH ANNUAL GREATEST OF THE GRAPE TICKETS ON SALE",
-          "imageUrl": "https://kqennewsradio.com/wp-content/uploads/GoG-2026-Instagram-Post.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142520",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: The Umpqua Valley Youth Orchestra will perform its Winter Concert Tuesday night. It will be held at 7:00 p.m. in the Jacoby Auditorium at Umpqua Community College. Over 120 musicians will be participating. Musical selections will include Passacaglia, Ashokan Farewell, featuring Raelly Jordan on violin,...",
-          "link": "https://kqennewsradio.com/2026/01/20/umpqua-valley-youth-orchestra-concert-tuesday-night/?utm_source=rss&utm_medium=rss&utm_campaign=umpqua-valley-youth-orchestra-concert-tuesday-night",
-          "publishedOn": "2026-01-20T11:05:30.000Z",
-          "wordCount": 1647,
-          "title": "UMPQUA VALLEY YOUTH ORCHESTRA CONCERT TUESDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230906092323/UVYO-logo.png"
         }
       ]
     },
@@ -1274,6 +1269,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/23fe3cf4-1270-4641-8103-3dee1dc84b8f",
+          "author": "News Staff",
+          "description": "Umpqua Community College unveiled its newly renovated Advanced Manufacturing & Forestry Hub on Wednesday with a community open house.",
+          "link": "https://www.kezi.com/news/local/uccs-new-hub-boosts-roseburgs-high-tech-workforce-training/article_23fe3cf4-1270-4641-8103-3dee1dc84b8f.html",
+          "publishedOn": "2026-01-23T18:38:00.000Z",
+          "wordCount": 8563,
+          "title": "UCC's new hub boosts Roseburg's high-tech workforce training",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/ab/3ab23318-f81b-4f02-972b-2675f55d6aaf/6973c10a199cd.image.jpg?resize=300%2C225",
+            "length": "271823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/ab/3ab23318-f81b-4f02-972b-2675f55d6aaf/6973c10a199cd.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/5a18e326-e0cb-4eff-bf6a-cfd5a7a368ff",
           "author": "Israel La Rue",
