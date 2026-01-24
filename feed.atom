@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-24T13:26:14.649Z</updated>
+    <updated>2026-01-24T16:16:46.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 11:00 A.M. SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=142750</id>
+        <link href="https://kqennewsradio.com/2026/01/24/cold-weather-advisory-remains-in-effect-until-1100-a-m-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cold-weather-advisory-remains-in-effect-until-1100-a-m-saturday"/>
+        <updated>2026-01-24T14:26:36.000Z</updated>
+        <summary type="html"><![CDATA[January 24, 2026 6:20 a.m.  A Cold Weather Advisory will remain in effect until 11:00 a.m. Saturday for central Douglas County. Forecasters at the National Weather Service in Medford said very cold temperatures as low as 20 degrees are expected within the valleys of Douglas County. Forecasters said prolonged exposure to very cold temperatures can...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COLD WEATHER ADVISORY FRIDAY EVENING THROUGH SATURDAY MORNING]]></title>
         <id>https://kqennewsradio.com/?p=142746</id>
