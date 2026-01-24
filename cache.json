@@ -734,46 +734,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202510/Rep-Wright_0183-8x-scaled-e1674732667121.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142536",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 4:00 a.m. A Dense Fog Advisory remains in effect through 12:00 p.m. Tuesday for central Douglas County. Forecasters at the National Weather Service in Medford said visibility of one quarter of a mile or less in dense fog is expected. Low visibility could make driving conditions hazardous.",
-          "link": "https://kqennewsradio.com/2026/01/20/dense-fog-advisory-through-1200-p-m-tuesday-2/?utm_source=rss&utm_medium=rss&utm_campaign=dense-fog-advisory-through-1200-p-m-tuesday-2",
-          "publishedOn": "2026-01-20T11:37:23.000Z",
-          "wordCount": 1605,
-          "title": "DENSE FOG ADVISORY THROUGH 12:00 P.M. TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260120103025/Tuesdayfog.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142533",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 3:50 a.m. An Air Stagnation Advisory remains in effect through Wednesday afternoon at 4:00 p.m. within the valleys of Douglas County. Forecasters at the National Weather Service in Medford said poor air quality will continue. This is due to an inversion and stagnant air conditions near the surface that will continue to...",
-          "link": "https://kqennewsradio.com/2026/01/20/air-stagnation-advisory-through-wednesday-afternoon/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-wednesday-afternoon",
-          "publishedOn": "2026-01-20T11:30:37.000Z",
-          "wordCount": 1678,
-          "title": "AIR STAGNATION ADVISORY THROUGH WEDNESDAY AFTERNOON",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260120103025/Tuesdayfog.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142531",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 3:40 a.m.  The Myrtle Creek City Council will have a meeting Tuesday night. Councilors will vote on collective bargaining agreements with the International Brotherhood of Electrical Workers- which represents most city staff, and with the Myrtle Creek Police Officer’s Association. They will also consider offering the city administrator position to Zach Potter....",
-          "link": "https://kqennewsradio.com/2026/01/20/myrtle-creek-city-council-meeting-on-tuesday-night/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-city-council-meeting-on-tuesday-night",
-          "publishedOn": "2026-01-20T11:19:37.000Z",
-          "wordCount": 1674,
-          "title": "MYRTLE CREEK CITY COUNCIL MEETING ON TUESDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241223183010/MClogo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142529",
-          "author": "Kyle Bailey",
-          "description": "January 20, 2026 3:30 a.m.  The Winston City Council will hold a meeting Tuesday evening at 7:00 p.m. Councilors will consider a resolution on the Highway 42 Sewer Project Grant Agreement. The city received a grant from the State of Oregon through the Oregon Business Development Department for funding in the amount of $946,700. Councilors...",
-          "link": "https://kqennewsradio.com/2026/01/20/winston-city-council-holding-a-tuesday-evening-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=winston-city-council-holding-a-tuesday-evening-meeting",
-          "publishedOn": "2026-01-20T11:17:14.000Z",
-          "wordCount": 1719,
-          "title": "WINSTON CITY COUNCIL HOLDING A TUESDAY EVENING MEETING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223900/city-logo-white-e1593623854274.jpg"
         }
       ]
     },
@@ -788,6 +748,46 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/116bd227-372e-4dd1-a315-191474fd6e36",
+          "author": "Erica Reynolds The News-Review",
+          "description": "ROSEBURG — Douglas County 4-H members and supporters are invited to Small Animal, Livestock, Dog and Poultry Quiz Bowls on Saturday, Feb. 7.",
+          "link": "https://www.nrtoday.com/briefs/multiple-4-h-quiz-bowls-scheduled-for-feb-7/article_116bd227-372e-4dd1-a315-191474fd6e36.html",
+          "publishedOn": "2026-01-23T19:40:00.000Z",
+          "wordCount": 12616,
+          "title": "Multiple 4-H quiz bowls scheduled for Feb. 7",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1e59d10c-b037-44d5-bbde-5fdd76cddef9",
+          "author": "Kris Wiley For The News-Review",
+          "description": "As I get older, I have become more intentional in selecting the books with which I choose to spend my time. At the beginning of the year, I think about what I want to read and why.",
+          "link": "https://www.nrtoday.com/a_and_e/new-year-new-reading-resolutions/article_1e59d10c-b037-44d5-bbde-5fdd76cddef9.html",
+          "publishedOn": "2026-01-23T17:30:00.000Z",
+          "wordCount": 13093,
+          "title": "New year, new reading resolutions",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/13/d134d40e-9612-11ef-8e74-3f84c0415c7f/67210d27807f1.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dd53768d-45cc-479c-8319-d9190a38f6a4",
+          "author": "Chris Rusch Master Gardner",
+          "description": "Question: I would like to add ferns to my landscape. Can you give me advice on growing ferns?",
+          "link": "https://www.nrtoday.com/life/ferns-are-a-great-addition-to-your-shady-landscape/article_dd53768d-45cc-479c-8319-d9190a38f6a4.html",
+          "publishedOn": "2026-01-23T17:30:00.000Z",
+          "wordCount": 13437,
+          "title": "Ferns are a great addition to your shady landscape",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ed/6ed954d1-5d7b-434c-b178-de210b804fb8/696e86f117e15.image.jpg?resize=300%2C200",
+            "length": "392984",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/ed/6ed954d1-5d7b-434c-b178-de210b804fb8/696e86f117e15.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/77bd4532-c03f-4d39-b125-606ea76ac187",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -1251,16 +1251,6 @@
           "wordCount": 3346,
           "title": "MLK Day of Service Brings Roseburg Together for River Cleanup and Invasive Species Removal",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/stewart_park_gather-1.png"
-        },
-        {
-          "id": "696f110d6d62f6000170be04",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/january-20-2026/",
-          "publishedOn": "2026-01-20T14:38:14.000Z",
-          "wordCount": 3841,
-          "title": "January 20, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-11.png"
         }
       ]
     },
