@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-27T16:21:39.633Z</updated>
+    <updated>2026-01-27T19:22:04.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: January 26, 2026]]></title>
+        <id>6978e73c6d62f6000170d85c</id>
+        <link href="https://www.roseburgscanner.com/police-logs/police-log-january-26-2026/"/>
+        <updated>2026-01-27T16:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police handled a range of incidents Jan. 26, including multiple warrant arrests, probation and parole violations, DUII investigations, prohibited camping and burning cases, a stalking order violation, and several non-injury traffic crashes across the city.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Read and sip: A look behind the shelves of While Away Books]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/627f0f9b-f559-42aa-b043-3a57052e545d</id>
