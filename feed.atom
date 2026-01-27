@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-26T23:15:54.708Z</updated>
+    <updated>2026-01-27T03:42:20.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Workman Community Market Announces April 4 Opening Day for 2026 Season]]></title>
+        <id>69782ad86d62f6000170d69a</id>
+        <link href="https://www.roseburgscanner.com/workman-community-market-announces-april-4-opening-day-for-2026-season/"/>
+        <updated>2026-01-27T03:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Workman Community Market opens its 2026 season April 4 in Green with a family friendly celebration alongside the grand opening of Workman’s Bar and Smokehouse. The market will feature local vendors and weekly nonprofit spotlights throughout the season.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01.26.26]]></title>
         <id>https://kqennewsradio.com/?p=142799</id>
@@ -436,26 +446,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deputy’s Patrol Vehicle Struck During Late-Night Stop Attempt Near Riddle, Court Records Say]]></title>
-        <id>697390f96d62f6000170d329</id>
-        <link href="https://www.roseburgscanner.com/riddle-man-jailed-after-deputy-reports-duii-crash-and-failure-to-stop/"/>
-        <updated>2026-01-23T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Riddle man Damien Tobias Saltzman, 45, was jailed after deputies reported a late-night crash on Boyer Road, a short vehicle pursuit, and a collision with a sheriff’s vehicle. No injuries were reported. Charges include DUII and felony attempting to elude.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 23, 2026]]></title>
-        <id>697386a36d62f6000170d163</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/january-23-2026/"/>
-        <updated>2026-01-23T15:05:56.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweeney Todd: The Demon Barber of Fleet Street pays a visit to UACT]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/8b964a56-16ca-44fe-b64c-83e055348e86</id>
         <link href="https://www.nrtoday.com/a_and_e/sweeney-todd-the-demon-barber-of-fleet-street-pays-a-visit-to-uact/article_8b964a56-16ca-44fe-b64c-83e055348e86.html"/>
@@ -472,46 +462,6 @@
         <summary type="html"><![CDATA[The Pacific Power Foundation announced new grants to 63 arts and culture organizations across Oregon, Washington and northern California.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIR STAGNATION ADVISORY THROUGH 4:00 P.M. FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=142707</id>
-        <link href="https://kqennewsradio.com/2026/01/23/air-stagnation-advisory-through-400-p-m-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=air-stagnation-advisory-through-400-p-m-friday"/>
-        <updated>2026-01-23T12:09:42.000Z</updated>
-        <summary type="html"><![CDATA[January 23, 2026 4:10 a.m.  An Air Stagnation Advisory is in effect through 4:00 p.m. Friday within the valleys of Douglas County. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the inversion that has been in place for several days is expected to weaken. While the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MISSING REEDSPORT MAN LOCATED SAFE IN MISSOURI]]></title>
-        <id>https://kqennewsradio.com/?p=142704</id>
-        <link href="https://kqennewsradio.com/2026/01/23/missing-reedsport-man-located-safe-in-missouri/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=missing-reedsport-man-located-safe-in-missouri"/>
-        <updated>2026-01-23T11:43:38.000Z</updated>
-        <summary type="html"><![CDATA[January 23, 2026 4:00 a.m. Covering coastal Douglas County: A missing Reedsport man has been located safe. Thursday afternoon the Douglas County Sheriff’s Office reported that 70-year-old George Curtis Callaway had been reported missing. The man had last been seen on January 15th when he departed the Salmon Harbor RV Park in Reedsport, driving a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OREGON’S UNEMPLOYMENT RATE WAS 5.2 PERCENT IN DECEMBER]]></title>
-        <id>https://kqennewsradio.com/?p=142702</id>
-        <link href="https://kqennewsradio.com/2026/01/23/oregons-unemployment-rate-was-5-2-percent-in-december/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oregons-unemployment-rate-was-5-2-percent-in-december"/>
-        <updated>2026-01-23T11:29:11.000Z</updated>
-        <summary type="html"><![CDATA[January 23, 2026 3:50 a.m.   Oregon’s unemployment rate was 5.2 percent in both November and December. The U.S. unemployment rate was 4.5 percent in November and 4.4 percent in December. A State of Oregon Employment Department release said in December, Oregon’s seasonally adjusted nonfarm payroll employment dropped by 2,200 jobs, following a gain of 800...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UCC OPENS NEWLY RENOVATED ADVANCED MANUFACTURING/FORESTRY HUB]]></title>
-        <id>https://kqennewsradio.com/?p=142694</id>
-        <link href="https://kqennewsradio.com/2026/01/23/ucc-opens-newly-renovated-advanced-manufacturing-forestry-hub/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-opens-newly-renovated-advanced-manufacturing-forestry-hub"/>
-        <updated>2026-01-23T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[January 23, 2026 3:40 a.m. Wednesday evening, Umpqua Community College hosted a community open house to celebrate the opening of its newly renovated Advanced Manufacturing and Forestry Hub. A college release said the event showcased a reimagined learning space designed to support high-demand workforce training in advanced manufacturing, forestry and emerging technologies. The milestone represents...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

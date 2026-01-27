@@ -319,46 +319,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251118200646/Ed-Diehl-photo-hi-res-Bio-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142707",
-          "author": "Kyle Bailey",
-          "description": "January 23, 2026 4:10 a.m.  An Air Stagnation Advisory is in effect through 4:00 p.m. Friday within the valleys of Douglas County. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the inversion that has been in place for several days is expected to weaken. While the...",
-          "link": "https://kqennewsradio.com/2026/01/23/air-stagnation-advisory-through-400-p-m-friday/?utm_source=rss&utm_medium=rss&utm_campaign=air-stagnation-advisory-through-400-p-m-friday",
-          "publishedOn": "2026-01-23T12:09:42.000Z",
-          "wordCount": 1716,
-          "title": "AIR STAGNATION ADVISORY THROUGH 4:00 P.M. FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123110927/Fridayam-2.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142704",
-          "author": "Kyle Bailey",
-          "description": "January 23, 2026 4:00 a.m. Covering coastal Douglas County: A missing Reedsport man has been located safe. Thursday afternoon the Douglas County Sheriff’s Office reported that 70-year-old George Curtis Callaway had been reported missing. The man had last been seen on January 15th when he departed the Salmon Harbor RV Park in Reedsport, driving a...",
-          "link": "https://kqennewsradio.com/2026/01/23/missing-reedsport-man-located-safe-in-missouri/?utm_source=rss&utm_medium=rss&utm_campaign=missing-reedsport-man-located-safe-in-missouri",
-          "publishedOn": "2026-01-23T11:43:38.000Z",
-          "wordCount": 1708,
-          "title": "MISSING REEDSPORT MAN LOCATED SAFE IN MISSOURI",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123104324/Foiund.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142702",
-          "author": "Kyle Bailey",
-          "description": "January 23, 2026 3:50 a.m.   Oregon’s unemployment rate was 5.2 percent in both November and December. The U.S. unemployment rate was 4.5 percent in November and 4.4 percent in December. A State of Oregon Employment Department release said in December, Oregon’s seasonally adjusted nonfarm payroll employment dropped by 2,200 jobs, following a gain of 800...",
-          "link": "https://kqennewsradio.com/2026/01/23/oregons-unemployment-rate-was-5-2-percent-in-december/?utm_source=rss&utm_medium=rss&utm_campaign=oregons-unemployment-rate-was-5-2-percent-in-december",
-          "publishedOn": "2026-01-23T11:29:11.000Z",
-          "wordCount": 1859,
-          "title": "OREGON’S UNEMPLOYMENT RATE WAS 5.2 PERCENT IN DECEMBER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221940/OED_hrz_clr.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142694",
-          "author": "Kyle Bailey",
-          "description": "January 23, 2026 3:40 a.m. Wednesday evening, Umpqua Community College hosted a community open house to celebrate the opening of its newly renovated Advanced Manufacturing and Forestry Hub. A college release said the event showcased a reimagined learning space designed to support high-demand workforce training in advanced manufacturing, forestry and emerging technologies. The milestone represents...",
-          "link": "https://kqennewsradio.com/2026/01/23/ucc-opens-newly-renovated-advanced-manufacturing-forestry-hub/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-opens-newly-renovated-advanced-manufacturing-forestry-hub",
-          "publishedOn": "2026-01-23T11:26:00.000Z",
-          "wordCount": 1891,
-          "title": "UCC OPENS NEWLY RENOVATED ADVANCED MANUFACTURING/FORESTRY HUB",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260123102507/UCC4-1.jpg"
         }
       ]
     },
@@ -527,6 +487,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "69782ad86d62f6000170d69a",
+          "author": "Joseph Ziegler",
+          "description": "Workman Community Market opens its 2026 season April 4 in Green with a family friendly celebration alongside the grand opening of Workman’s Bar and Smokehouse. The market will feature local vendors and weekly nonprofit spotlights throughout the season.",
+          "link": "https://www.roseburgscanner.com/workman-community-market-announces-april-4-opening-day-for-2026-season/",
+          "publishedOn": "2026-01-27T03:03:23.000Z",
+          "wordCount": 2228,
+          "title": "Workman Community Market Announces April 4 Opening Day for 2026 Season",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/workmans_market-1.jpg"
+        },
+        {
           "id": "697799176d62f6000170d645",
           "author": "Joseph Ziegler",
           "description": "Warrants and DUII arrests led Roseburg Police logs Jan. 23 to 26, along with a reported burglary, a park dispute involving a handgun, a reported sexual assault case, and multiple disorderly conduct and camping related incidents.",
@@ -565,26 +535,6 @@
           "wordCount": 3553,
           "title": "Police Log: January 22, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2-6.jpg"
-        },
-        {
-          "id": "697390f96d62f6000170d329",
-          "author": "Joseph Ziegler",
-          "description": "Riddle man Damien Tobias Saltzman, 45, was jailed after deputies reported a late-night crash on Boyer Road, a short vehicle pursuit, and a collision with a sheriff’s vehicle. No injuries were reported. Charges include DUII and felony attempting to elude.",
-          "link": "https://www.roseburgscanner.com/riddle-man-jailed-after-deputy-reports-duii-crash-and-failure-to-stop/",
-          "publishedOn": "2026-01-23T15:18:04.000Z",
-          "wordCount": 2382,
-          "title": "Deputy’s Patrol Vehicle Struck During Late-Night Stop Attempt Near Riddle, Court Records Say",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_car-2.webp"
-        },
-        {
-          "id": "697386a36d62f6000170d163",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/january-23-2026/",
-          "publishedOn": "2026-01-23T15:05:56.000Z",
-          "wordCount": 7695,
-          "title": "January 23, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-14.png"
         }
       ]
     },
