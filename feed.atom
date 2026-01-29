@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-29T19:25:42.537Z</updated>
+    <updated>2026-01-29T23:19:41.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I-5 Temporarily Closed Near Roseburg After Reported Shooting; Suspect in Custody]]></title>
+        <id>697bd6f86d62f6000170dcc6</id>
+        <link href="https://www.roseburgscanner.com/i-5-temporarily-closed-near-roseburg-after-reported-shooting-suspect-in-custody/"/>
+        <updated>2026-01-29T21:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State Police says a suspect discharged a firearm along Interstate 5 north of Exit 127 in Roseburg, prompting a temporary closure. The suspect is in custody, no injuries were reported, and Oregon Department of Transportation confirmed the freeway has reopened.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 01.29.26]]></title>
+        <id>https://kqennewsradio.com/?p=142974</id>
+        <link href="https://kqennewsradio.com/2026/01/29/inside-douglas-county-01-29-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-01-29-26"/>
+        <updated>2026-01-29T21:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Governor, Chris Dudley talks about his vision for Oregon and the areas he would focus on if elected.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR DRIVING VIOLATIONS]]></title>
         <id>https://kqennewsradio.com/?p=142971</id>
@@ -972,26 +992,6 @@
         <link href="https://kqennewsradio.com/2026/01/26/county-parks-improve-safety-through-connectivity-infrastructure/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=county-parks-improve-safety-through-connectivity-infrastructure"/>
         <updated>2026-01-26T11:22:50.000Z</updated>
         <summary type="html"><![CDATA[January 26, 2026 3:20 a.m.  The Douglas County Board of Commissioners along with County Parks Director Mark Wall are highlighting ongoing safety and service upgrades across the park system. A county release said the improvements include Wi-Fi coverage, updated life vest stations and signage and the addition of a camera system at the boat ramp...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDLIFE SAFARI ANNOUNCES COMPLETION OF NEW LEMUR HOUSE]]></title>
-        <id>https://kqennewsradio.com/?p=142755</id>
-        <link href="https://kqennewsradio.com/2026/01/26/wildlife-safari-announces-completion-of-new-lemur-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wildlife-safari-announces-completion-of-new-lemur-house"/>
-        <updated>2026-01-26T11:17:53.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2026 3:05 a.m.  Wildlife Safari has announced the completion of the brand-new Lemur House, located in the parks free “Walk Thru Safari”. A Safari release said in October of 2025, the lemurs were temporarily relocated to an on-site holding area while demolition and reconstruction of their habitat began. After several months of construction,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SENATORS ANNOUNCE OVER $100 MILLION FOR CRITICAL COMMUNITY PROJECTS]]></title>
-        <id>https://kqennewsradio.com/?p=142753</id>
-        <link href="https://kqennewsradio.com/2026/01/26/senators-announce-over-100-million-for-critical-community-projects/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senators-announce-over-100-million-for-critical-community-projects"/>
-        <updated>2026-01-26T11:07:31.000Z</updated>
-        <summary type="html"><![CDATA[January 26, 2026 2:50 a.m.  On Friday, Oregon’s Senators Jeff Merkley and Ron Wyden announced they have secured over $100 million in federal investments for essential community-initiated projects in nearly every Oregon county in both Fiscal Year 2026 packages that have recently cleared Congress. Both senators hold a town hall in each Oregon county every...]]></summary>
         <author>
             <name>Kyle Bailey</name>
         </author>

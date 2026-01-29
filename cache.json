@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=142974",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Governor, Chris Dudley talks about his vision for Oregon and the areas he would focus on if elected.",
+          "link": "https://kqennewsradio.com/2026/01/29/inside-douglas-county-01-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-29-26",
+          "publishedOn": "2026-01-29T21:05:17.000Z",
+          "wordCount": 1642,
+          "title": "INSIDE DOUGLAS COUNTY 01.29.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260129200316/IDC-01-29-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260129200449/Dudley1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=142971",
           "author": "Kyle Bailey",
           "description": "January 29, 2026 10:50 a.m. Roseburg Police cited a woman for driving while suspended-violation and driving uninsured early Thursday morning. An RPD report said at 1:20 a.m. officers were already at a business in the 800 block of Northwest Garden Valley Boulevard regarding a separate incident when the 40-year-old drove into the parking lot and...",
@@ -699,26 +714,6 @@
           "wordCount": 1888,
           "title": "COUNTY PARKS IMPROVE SAFETY THROUGH CONNECTIVITY/INFRASTRUCTURE",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260126102158/Parks2-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142755",
-          "author": "Kyle Bailey",
-          "description": "January 26, 2026 3:05 a.m.  Wildlife Safari has announced the completion of the brand-new Lemur House, located in the parks free “Walk Thru Safari”. A Safari release said in October of 2025, the lemurs were temporarily relocated to an on-site holding area while demolition and reconstruction of their habitat began. After several months of construction,...",
-          "link": "https://kqennewsradio.com/2026/01/26/wildlife-safari-announces-completion-of-new-lemur-house/?utm_source=rss&utm_medium=rss&utm_campaign=wildlife-safari-announces-completion-of-new-lemur-house",
-          "publishedOn": "2026-01-26T11:17:53.000Z",
-          "wordCount": 1804,
-          "title": "WILDLIFE SAFARI ANNOUNCES COMPLETION OF NEW LEMUR HOUSE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260126101629/Before.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142753",
-          "author": "Kyle Bailey",
-          "description": "January 26, 2026 2:50 a.m.  On Friday, Oregon’s Senators Jeff Merkley and Ron Wyden announced they have secured over $100 million in federal investments for essential community-initiated projects in nearly every Oregon county in both Fiscal Year 2026 packages that have recently cleared Congress. Both senators hold a town hall in each Oregon county every...",
-          "link": "https://kqennewsradio.com/2026/01/26/senators-announce-over-100-million-for-critical-community-projects/?utm_source=rss&utm_medium=rss&utm_campaign=senators-announce-over-100-million-for-critical-community-projects",
-          "publishedOn": "2026-01-26T11:07:31.000Z",
-          "wordCount": 1909,
-          "title": "SENATORS ANNOUNCE OVER $100 MILLION FOR CRITICAL COMMUNITY PROJECTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260112104922/Merklely3-scaled-e1768218600992.jpg"
         }
       ]
     },
@@ -951,6 +946,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "697bd6f86d62f6000170dcc6",
+          "author": "Joseph Ziegler",
+          "description": "Oregon State Police says a suspect discharged a firearm along Interstate 5 north of Exit 127 in Roseburg, prompting a temporary closure. The suspect is in custody, no injuries were reported, and Oregon Department of Transportation confirmed the freeway has reopened.",
+          "link": "https://www.roseburgscanner.com/i-5-temporarily-closed-near-roseburg-after-reported-shooting-suspect-in-custody/",
+          "publishedOn": "2026-01-29T21:56:51.000Z",
+          "wordCount": 2154,
+          "title": "I-5 Temporarily Closed Near Roseburg After Reported Shooting; Suspect in Custody",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights-1.png"
+        },
         {
           "id": "697b99076d62f6000170dcad",
           "author": "Joseph Ziegler",
