@@ -947,6 +947,16 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "697c22846d62f6000170dce0",
+          "author": "Joseph Ziegler",
+          "description": "Students at Jo Lane Middle School are turning ideas into reality through robotics, gaining hands on experience in engineering, teamwork, and problem solving. From regional competitions to mentoring younger students, the program is helping build confidence, skills, and future opportunities.",
+          "link": "https://www.roseburgscanner.com/robotics-program-at-jo-lane-middle-school-inspires-creativity-teamwork-and-growth/",
+          "publishedOn": "2026-01-30T03:24:39.000Z",
+          "wordCount": 2349,
+          "title": "Robotics Program at Jo Lane Middle School Inspires Creativity, Teamwork, and Growth",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/robotics2.jpg"
+        },
+        {
           "id": "697bd6f86d62f6000170dcc6",
           "author": "Joseph Ziegler",
           "description": "Oregon State Police says a suspect discharged a firearm along Interstate 5 north of Exit 127 in Roseburg, prompting a temporary closure. The suspect is in custody, no injuries were reported, and Oregon Department of Transportation confirmed the freeway has reopened.",
@@ -1095,16 +1105,6 @@
           "wordCount": 4842,
           "title": "Police Log: January 23 - January 26, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2-7.jpg"
-        },
-        {
-          "id": "697704636d62f6000170d453",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/january-26-2026/",
-          "publishedOn": "2026-01-26T14:44:35.000Z",
-          "wordCount": 3725,
-          "title": "January 26, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-15.png"
         }
       ]
     },
@@ -1113,6 +1113,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/2440b443-2f7e-4d19-949c-ef2723c338f2",
+          "author": "News Staff",
+          "description": "A traffic stop near Roseburg on Sunday afternoon resulted in a significant drug bust, with Oregon State Police seizing cocaine and cash.",
+          "link": "https://www.kezi.com/news/national/roseburg-traffic-stop-uncovers-24k-cash-and-cocaine-stash/article_2440b443-2f7e-4d19-949c-ef2723c338f2.html",
+          "publishedOn": "2026-01-29T21:03:00.000Z",
+          "wordCount": 7969,
+          "title": "Roseburg traffic stop uncovers $24k cash and cocaine stash",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a3/4a3e274a-ed73-11ee-ab5c-0f2b415fdb77/6606261d78caa.image.jpg?resize=300%2C169",
+            "length": "55190",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a3/4a3e274a-ed73-11ee-ab5c-0f2b415fdb77/6606261d78caa.image.jpg?resize=300%2C169"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/41cfeb5d-54d6-458e-b8f5-1aa113df6414",
           "author": "News Staff",
@@ -1127,21 +1142,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/8c/e8c3084a-a125-4b80-83bf-c3030a23a86e/697a94decfa1d.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/f7b1fde0-39a8-4c59-ad72-d13ce67171f1",
-          "author": "Israel La Rue",
-          "description": "Ray's Food Place is the only grocery in Drain and it's now set to close next month. Residents say this is a huge issue because the next closest grocery store is 16 miles away.",
-          "link": "https://www.kezi.com/news/local/drains-only-grocery-store-rays-food-place-closing-in-february/article_f7b1fde0-39a8-4c59-ad72-d13ce67171f1.html",
-          "publishedOn": "2026-01-26T07:58:00.000Z",
-          "wordCount": 8462,
-          "title": "Drain's only grocery store, Ray's Food Place closing in February",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/88/088041b7-762c-4eda-806a-6e7f29460269/6977231f01188.image.png?resize=300%2C169",
-            "length": "868987",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/88/088041b7-762c-4eda-806a-6e7f29460269/6977231f01188.image.png?resize=300%2C169"
         }
       ]
     }

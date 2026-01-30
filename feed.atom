@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.roseburgscanner.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-01-29T23:19:41.132Z</updated>
+    <updated>2026-01-30T04:03:20.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.roseburgscanner.com/index.html"/>
     <link rel="self" href="https://news.roseburgscanner.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robotics Program at Jo Lane Middle School Inspires Creativity, Teamwork, and Growth]]></title>
+        <id>697c22846d62f6000170dce0</id>
+        <link href="https://www.roseburgscanner.com/robotics-program-at-jo-lane-middle-school-inspires-creativity-teamwork-and-growth/"/>
+        <updated>2026-01-30T03:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Students at Jo Lane Middle School are turning ideas into reality through robotics, gaining hands on experience in engineering, teamwork, and problem solving. From regional competitions to mentoring younger students, the program is helping build confidence, skills, and future opportunities.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I-5 Temporarily Closed Near Roseburg After Reported Shooting; Suspect in Custody]]></title>
         <id>697bd6f86d62f6000170dcc6</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[Republican candidate for Governor, Chris Dudley talks about his vision for Oregon and the areas he would focus on if elected.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg traffic stop uncovers $24k cash and cocaine stash]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/2440b443-2f7e-4d19-949c-ef2723c338f2</id>
+        <link href="https://www.kezi.com/news/national/roseburg-traffic-stop-uncovers-24k-cash-and-cocaine-stash/article_2440b443-2f7e-4d19-949c-ef2723c338f2.html"/>
+        <updated>2026-01-29T21:03:00.000Z</updated>
+        <summary type="html"><![CDATA[A traffic stop near Roseburg on Sunday afternoon resulted in a significant drug bust, with Oregon State Police seizing cocaine and cash.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -947,16 +967,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[January 26, 2026]]></title>
-        <id>697704636d62f6000170d453</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/january-26-2026/"/>
-        <updated>2026-01-26T14:44:35.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FRONTAL SYSTEM COULD BRING LIGHT RAIN TO THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=142770</id>
         <link href="https://kqennewsradio.com/2026/01/26/frontal-system-could-bring-light-rain-to-the-umpqua-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frontal-system-could-bring-light-rain-to-the-umpqua-valley"/>
@@ -994,16 +1004,6 @@
         <summary type="html"><![CDATA[January 26, 2026 3:20 a.m.  The Douglas County Board of Commissioners along with County Parks Director Mark Wall are highlighting ongoing safety and service upgrades across the park system. A county release said the improvements include Wi-Fi coverage, updated life vest stations and signage and the addition of a camera system at the boat ramp...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drain's only grocery store, Ray's Food Place closing in February]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/f7b1fde0-39a8-4c59-ad72-d13ce67171f1</id>
-        <link href="https://www.kezi.com/news/local/drains-only-grocery-store-rays-food-place-closing-in-february/article_f7b1fde0-39a8-4c59-ad72-d13ce67171f1.html"/>
-        <updated>2026-01-26T07:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Ray's Food Place is the only grocery in Drain and it's now set to close next month. Residents say this is a huge issue because the next closest grocery store is 16 miles away.]]></summary>
-        <author>
-            <name>Israel La Rue</name>
         </author>
     </entry>
 </feed>
