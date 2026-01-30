@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143034",
+          "author": "Kyle Bailey",
+          "description": "Live from Ford’s Pond west of Sutherlin, Friends of Ford’s Pond board members Jim and Beth Houseman and Andrew Chione give an update on what’s been happening at the pond and what is planned for this spring. They also provided information on how others can get involved as well.",
+          "link": "https://kqennewsradio.com/2026/01/30/inside-douglas-county-01-30-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-01-30-26",
+          "publishedOn": "2026-01-30T21:11:30.000Z",
+          "wordCount": 1665,
+          "title": "INSIDE DOUGLAS COUNTY 01.30.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260130200732/IDC-01-30-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260130201106/Ford1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143031",
           "author": "Kyle Bailey",
           "description": "January 30, 2026 10:50 a.m. Roseburg Police cited a man for prohibited camping early Friday morning. An RPD report said at approximately 2:15 a.m. officers contacted a 47-year-old man who was camping underneath multiple blankets near a business in the 1900 block of Northeast Diamond Lake Boulevard. The man also had a large wagon of...",
@@ -724,26 +739,6 @@
           "wordCount": 1805,
           "title": "CHI MERCY HEALTH/CENTENNIAL HOST THIRD ANNUAL HEART HEALTH FAIR",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260127101815/Mercyheart-e1769512713127.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142807",
-          "author": "Kyle Bailey",
-          "description": "January 27, 2026 3:05 a.m. The 14th annual Four Chaplains Service is happening on Saturday, February 7th at Westside Christian Church on West Harvard Avenue in Roseburg. The story of the Four Chaplains is a story of sacrifice, courage and love for others that organizers say must be told to every generation of Americans. Since...",
-          "link": "https://kqennewsradio.com/2026/01/27/14th-annual-four-chaplains-service-happening-february-7th/?utm_source=rss&utm_medium=rss&utm_campaign=14th-annual-four-chaplains-service-happening-february-7th",
-          "publishedOn": "2026-01-27T11:13:33.000Z",
-          "wordCount": 1666,
-          "title": "14TH ANNUAL FOUR CHAPLAINS SERVICE HAPPENING FEBRUARY 7TH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260112103037/FOUR-CHAPLAINS-CEREMONY-POSTER-2026-003.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=142805",
-          "author": "Kyle Bailey",
-          "description": "January 27, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: Umpqua Actors Community Theatre presents “Sweeney Todd: The Demon Barber of Fleet Street”, opening on Thursday night. Most dates are already sold out but some tickets remain for performances on Thursday nights and on Valentine’s evening. The production runs Thursday through Saturday nights at 7:00...",
-          "link": "https://kqennewsradio.com/2026/01/27/sweeney-todd-opens-this-thursday-at-uact/?utm_source=rss&utm_medium=rss&utm_campaign=sweeney-todd-opens-this-thursday-at-uact",
-          "publishedOn": "2026-01-27T11:03:23.000Z",
-          "wordCount": 1653,
-          "title": "SWEENEY TODD OPENS THIS THURSDAY AT UACT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260106101120/UACTSweeny-scaled-e1767697897608.jpg"
         }
       ]
     },
