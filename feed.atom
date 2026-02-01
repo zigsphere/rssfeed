@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-01T13:38:06.649Z</updated>
+    <updated>2026-02-01T16:21:01.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -364,16 +364,6 @@
         <summary type="html"><![CDATA[Data released Thursday morning by the Oregon Department of Education (ODE) showed graduation rates keep trending upwards for Oregon and Douglas County.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Child advocacy services resume in Douglas County with Aviva Health]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/41cfeb5d-54d6-458e-b8f5-1aa113df6414</id>
-        <link href="https://www.kezi.com/news/local/child-advocacy-services-resume-in-douglas-county-with-aviva-health/article_41cfeb5d-54d6-458e-b8f5-1aa113df6414.html"/>
-        <updated>2026-01-28T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Aviva Health has taken over child advocacy services in Douglas County following the closure of Douglas C.A.R.E.S. earlier this month, providing crucial trauma-informed care for children and families.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
