@@ -119,6 +119,183 @@
       "articles": []
     },
     {
+      "title": "www.nrtoday.com - RSS Results in news/local of type article",
+      "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
+      "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d24cc22f-f90b-4443-9228-76b09ffbdfb3",
+          "author": "Alicia Christiansen For The News-Review",
+          "description": "The holiday season is over. We’ve all taken down our decorations and disposed of those dried out Christmas trees that graced our homes throughout December. However, just because it’s the end of the holiday season, doesn’t mean we are done…",
+          "link": "https://www.nrtoday.com/news/local/planting-for-the-future-reforestation-in-western-oregon/article_d24cc22f-f90b-4443-9228-76b09ffbdfb3.html",
+          "publishedOn": "2026-01-30T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Planting for the future: Reforestation in Western Oregon",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/fd/2fdd0972-a095-4436-8ee8-6062e81df272/6979248a6e4f4.image.jpg?resize=300%2C225",
+            "length": "629240",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/fd/2fdd0972-a095-4436-8ee8-6062e81df272/6979248a6e4f4.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e4d5aca-0166-40b5-b5bc-bab67a48948a",
+          "author": "PAUL MORGAN For The News-Review",
+          "description": "February brings seven planets to the evening sky. As February opens, look to the southwestern sky to spot modest Saturn. Binocular observers can also spy Neptune about 1 degree from Saturn. Swing to the east and spy bright Jupiter. As…",
+          "link": "https://www.nrtoday.com/life/public-events-at-the-observatory-to-return-in-spring/article_5e4d5aca-0166-40b5-b5bc-bab67a48948a.html",
+          "publishedOn": "2026-01-30T17:49:00.000Z",
+          "wordCount": 13057,
+          "title": "Public events at the observatory to return in spring",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/48/c4809f98-6d4b-489e-870c-b515d88b810f/667fa4b434e0e.image.jpg?resize=300%2C200",
+            "length": "217619",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/48/c4809f98-6d4b-489e-870c-b515d88b810f/667fa4b434e0e.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0797d717-343f-476c-8d29-6c05f916bd5e",
+          "author": "Erica Reynolds The News-Review",
+          "description": "In an effort to improve safety and modernize local parks, Douglas County announced several new upgrades to parks across the county.",
+          "link": "https://www.nrtoday.com/news/government/safety-and-technology-advances-at-douglas-county-parks/article_0797d717-343f-476c-8d29-6c05f916bd5e.html",
+          "publishedOn": "2026-01-30T16:00:00.000Z",
+          "wordCount": 13845,
+          "title": "Safety and technology advances at Douglas County parks",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/25/c25ca28c-1b58-49e6-a9be-7ae374394b12/697916e3d984f.image.jpg?resize=300%2C169",
+            "length": "399158",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/25/c25ca28c-1b58-49e6-a9be-7ae374394b12/697916e3d984f.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c006a5f-188a-4172-9e7b-412474084ac4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINCHESTER — John Blakely said he owned an auto repair shop in Sutherlin for about 19 years, starting right out in the profession after attending Umpqua Community College. After he ended his career, he returned to the college and has…",
+          "link": "https://www.nrtoday.com/news/education/explore-what-umpqua-community-college-has-to-offer/article_8c006a5f-188a-4172-9e7b-412474084ac4.html",
+          "publishedOn": "2026-01-30T14:30:00.000Z",
+          "wordCount": 15605,
+          "title": "Explore what Umpqua Community College has to offer",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/0d/b0d88f6a-2b61-45a2-b14f-7550aa3570bc/697c8da71fa84.image.jpg?resize=300%2C200",
+            "length": "345420",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/0d/b0d88f6a-2b61-45a2-b14f-7550aa3570bc/697c8da71fa84.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9565ff25-5439-47f7-a03f-262d03965f9a",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "SUTHERLIN — Eastwood Elementary School fifth graders spent Thursday morning outside in the on-and-off rain, fishing and floating around Cooper Creek Reservoir.",
+          "link": "https://www.nrtoday.com/news/education/eastwood-elementary-students-fish-with-the-umpqua-fishery-enhancement-derby/article_9565ff25-5439-47f7-a03f-262d03965f9a.html",
+          "publishedOn": "2026-01-30T13:30:00.000Z",
+          "wordCount": 14014,
+          "title": "Eastwood Elementary students fish with the Umpqua Fishery Enhancement Derby",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/c7/bc7535ec-7432-48eb-8b8d-ac29c9a99586/697c640814d7d.image.jpg?resize=300%2C200",
+            "length": "385072",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/c7/bc7535ec-7432-48eb-8b8d-ac29c9a99586/697c640814d7d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea40c7cb-42fc-4c6d-9a48-d35d162853b8",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "CANYONVILLE — Peace at Home Advocacy Center has its 15th Annual Empower Dance & Vocals Performance 2026 happening at 5:30 p.m. Saturday, Feb. 28 at Seven Feathers Casino Resort in Canyonville.",
+          "link": "https://www.nrtoday.com/a_and_e/15th-annual-empower-dance-vocals-performance-set-for-feb-28/article_ea40c7cb-42fc-4c6d-9a48-d35d162853b8.html",
+          "publishedOn": "2026-01-29T20:09:00.000Z",
+          "wordCount": 12694,
+          "title": "15th Annual Empower Dance & Vocals Performance set for Feb. 28",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/18ff1892-9f04-4b36-8007-0ffb14c2ecc6",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Roseburg police jailed a man Friday for an alleged prior sexual assault incident.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-police-jail-man-for-alleged-prior-sexual-assault/article_18ff1892-9f04-4b36-8007-0ffb14c2ecc6.html",
+          "publishedOn": "2026-01-29T20:03:00.000Z",
+          "wordCount": 12643,
+          "title": "Roseburg police jail man for alleged prior sexual assault",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/694a61f9-a34e-4781-a7f6-03246e4cdafa",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SCOTTS VALLEY — A recent Oregon State Police (OSP) traffic stop in Douglas County led to the seizure of a large quantity of cocaine and cash.",
+          "link": "https://www.nrtoday.com/briefs/osp-k-9-team-seizes-illegal-drugs-following-county-traffic-stop/article_694a61f9-a34e-4781-a7f6-03246e4cdafa.html",
+          "publishedOn": "2026-01-29T19:56:00.000Z",
+          "wordCount": 12687,
+          "title": "OSP K-9 team seizes illegal drugs following county traffic stop",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6b9680a1-0e92-4efa-9762-469e8a016b36",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "SUTHERLIN — The Sutherlin School District Board of Directors has announced that two candidates have been selected for interviews for the superintendent position.",
+          "link": "https://www.nrtoday.com/briefs/sutherlin-school-district-announces-finalists-for-superintendent-interviews/article_6b9680a1-0e92-4efa-9762-469e8a016b36.html",
+          "publishedOn": "2026-01-29T19:48:00.000Z",
+          "wordCount": 12676,
+          "title": "Sutherlin School District announces finalists for superintendent interviews",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3cdca0dc-3440-45c2-8a93-04ff576c49a8",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Each January, the U.S. Department of Housing and Urban Development kicks off the Point-in-Time Count to tally how many Americans are experiencing homelessness on a single day.",
+          "link": "https://www.nrtoday.com/news/ucan-partners-with-local-organizations-for-2026-point-in-time-count/article_3cdca0dc-3440-45c2-8a93-04ff576c49a8.html",
+          "publishedOn": "2026-01-29T16:00:00.000Z",
+          "wordCount": 13456,
+          "title": "UCAN partners with local organizations for 2026 Point-in-Time Count",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/8a/a8ad637c-fb59-4c97-8323-16f82e865a14/697a71814318b.image.jpg?resize=300%2C200",
+            "length": "361867",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/8a/a8ad637c-fb59-4c97-8323-16f82e865a14/697a71814318b.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/38a0f7a3-3ed4-48e6-977c-03020d9568b9",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas County’s seasonally adjusted unemployment rate was unchanged at 6.4% in December, compared to the revised November rate.",
+          "link": "https://www.nrtoday.com/business/douglas-county-s-unemployment-rate-held-steady-in-december/article_38a0f7a3-3ed4-48e6-977c-03020d9568b9.html",
+          "publishedOn": "2026-01-29T15:00:00.000Z",
+          "wordCount": 13160,
+          "title": "Douglas County’s unemployment rate held steady in December",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f4d77ca4-5146-4fa9-ba16-cd555f511bf3",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "IDLEYLD PARK — Hunter Stephens is taking the forestry class at Roseburg High School, and on Wednesday he was a member of the group that went on a field trip to Rock Creek Recreation Site in Idleyld Park.",
+          "link": "https://www.nrtoday.com/news/environment/high-school-students-learn-about-outdoor-careers-with-the-umpqua-fisherman-enhancement-derby/article_f4d77ca4-5146-4fa9-ba16-cd555f511bf3.html",
+          "publishedOn": "2026-01-29T14:00:00.000Z",
+          "wordCount": 14624,
+          "title": "High school students learn about outdoor careers with the Umpqua Fisherman Enhancement Derby",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/96/f968a683-eb32-41aa-8e12-ec929fcc3adc/697b3b292edd6.image.jpg?resize=300%2C200",
+            "length": "409219",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/96/f968a683-eb32-41aa-8e12-ec929fcc3adc/697b3b292edd6.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d953f401-48ff-4593-a0de-6c876d88729f",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Data released Thursday morning by the Oregon Department of Education (ODE) showed graduation rates keep trending upwards for Oregon and Douglas County.",
+          "link": "https://www.nrtoday.com/news/education/oregon-douglas-county-graduation-rates-keep-improving/article_d953f401-48ff-4593-a0de-6c876d88729f.html",
+          "publishedOn": "2026-01-29T14:00:00.000Z",
+          "wordCount": 14736,
+          "title": "Oregon, Douglas County graduation rates keep improving",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/58/55801370-bd49-11ee-ac50-27875b959929/647bbc248b2dc.image.jpg?resize=300%2C226",
+            "length": "373400",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/58/55801370-bd49-11ee-ac50-27875b959929/647bbc248b2dc.image.jpg?resize=300%2C226"
+        }
+      ]
+    },
+    {
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
@@ -238,26 +415,6 @@
           "wordCount": 4773,
           "title": "January 29, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-18.png"
-        },
-        {
-          "id": "697aa94a6d62f6000170da96",
-          "author": "Joseph Ziegler",
-          "description": "Oregon State Police seized approximately 11 pounds of cocaine and $24,000 in cash during a traffic stop Sunday afternoon on Interstate 5 near Roseburg. The vehicle was stopped for a violation, and an OSP K-9 alerted during the investigation.",
-          "link": "https://www.roseburgscanner.com/osp-k-9-team-seizes-cocaine-and-cash-during-traffic-stop-in-douglas-county/",
-          "publishedOn": "2026-01-29T00:28:03.000Z",
-          "wordCount": 2186,
-          "title": "OSP K-9 Team Seizes Cocaine and Cash During Traffic Stop in Douglas County",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/3108.jpg"
-        },
-        {
-          "id": "697a44896d62f6000170da80",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police reported multiple arrests and enforcement actions Jan. 27–28, including several warrant arrests, prohibited camping and littering cases, a trespass arrest involving a restricted weapon, and a theft case tied to stolen bowling balls.",
-          "link": "https://www.roseburgscanner.com/police-logs/police-log-january-27-2026/",
-          "publishedOn": "2026-01-28T17:20:11.000Z",
-          "wordCount": 3101,
-          "title": "Police Log: January 27, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2-9.jpg"
         }
       ]
     },
