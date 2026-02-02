@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-01T23:18:01.526Z</updated>
+    <updated>2026-02-02T04:17:09.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County 4-H, Farmers Co-Op to Host Market Goat & Swine Seminar]]></title>
+        <id>697fed846d62f6000170dfcf</id>
+        <link href="https://www.roseburgscanner.com/douglas-county-4-h-farmers-co-op-to-host-market-goat-swine-seminar/"/>
+        <updated>2026-02-02T00:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County 4-H and Farmers Co-Op will host a free Market Goat and Market Swine Selection & Feed Planning seminar on March 11 at the Douglas County Extension Office. Open to 4-H and FFA youth and families. Registration required.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAD THE 10TH DRIEST JANUARY ON RECORD]]></title>
         <id>https://kqennewsradio.com/?p=143045</id>
@@ -364,16 +374,6 @@
         <summary type="html"><![CDATA[Douglas County’s seasonally adjusted unemployment rate was unchanged at 6.4% in December, compared to the revised November rate.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 29, 2026]]></title>
-        <id>697b6dad6d62f6000170dab2</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/january-29-2026/"/>
-        <updated>2026-01-29T14:45:06.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
