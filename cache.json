@@ -324,6 +324,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/25a21e81-626c-4eef-9005-ca04a75342ad",
+          "author": "The News-Review staff",
+          "description": "Each year, The News-Review celebrates its annual Readers’ Choice awards. It’s an opportunity for the community to vote on their favorite people, places and establishments located throughout Douglas County, from the Cascades to the Oregon Coast.",
+          "link": "https://www.nrtoday.com/life/readers-choice-awards-celebrates-25-years/article_25a21e81-626c-4eef-9005-ca04a75342ad.html",
+          "publishedOn": "2026-02-02T16:30:00.000Z",
+          "wordCount": 12979,
+          "title": "Readers' Choice awards celebrates 25 years",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/92/49217070-1b5b-4834-8621-bdc1fec9dec8/6980e25e442cf.image.jpg?resize=300%2C229",
+            "length": "458172",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/92/49217070-1b5b-4834-8621-bdc1fec9dec8/6980e25e442cf.image.jpg?resize=300%2C229"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d24cc22f-f90b-4443-9228-76b09ffbdfb3",
           "author": "Alicia Christiansen For The News-Review",
           "description": "The holiday season is over. We’ve all taken down our decorations and disposed of those dried out Christmas trees that graced our homes throughout December. However, just because it’s the end of the holiday season, doesn’t mean we are done…",
@@ -352,51 +367,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/48/c4809f98-6d4b-489e-870c-b515d88b810f/667fa4b434e0e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0797d717-343f-476c-8d29-6c05f916bd5e",
-          "author": "Erica Reynolds The News-Review",
-          "description": "In an effort to improve safety and modernize local parks, Douglas County announced several new upgrades to parks across the county.",
-          "link": "https://www.nrtoday.com/news/government/safety-and-technology-advances-at-douglas-county-parks/article_0797d717-343f-476c-8d29-6c05f916bd5e.html",
-          "publishedOn": "2026-01-30T16:00:00.000Z",
-          "wordCount": 13845,
-          "title": "Safety and technology advances at Douglas County parks",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/25/c25ca28c-1b58-49e6-a9be-7ae374394b12/697916e3d984f.image.jpg?resize=300%2C169",
-            "length": "399158",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/25/c25ca28c-1b58-49e6-a9be-7ae374394b12/697916e3d984f.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8c006a5f-188a-4172-9e7b-412474084ac4",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — John Blakely said he owned an auto repair shop in Sutherlin for about 19 years, starting right out in the profession after attending Umpqua Community College. After he ended his career, he returned to the college and has…",
-          "link": "https://www.nrtoday.com/news/education/explore-what-umpqua-community-college-has-to-offer/article_8c006a5f-188a-4172-9e7b-412474084ac4.html",
-          "publishedOn": "2026-01-30T14:30:00.000Z",
-          "wordCount": 15605,
-          "title": "Explore what Umpqua Community College has to offer",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/0d/b0d88f6a-2b61-45a2-b14f-7550aa3570bc/697c8da71fa84.image.jpg?resize=300%2C200",
-            "length": "345420",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/0d/b0d88f6a-2b61-45a2-b14f-7550aa3570bc/697c8da71fa84.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9565ff25-5439-47f7-a03f-262d03965f9a",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "SUTHERLIN — Eastwood Elementary School fifth graders spent Thursday morning outside in the on-and-off rain, fishing and floating around Cooper Creek Reservoir.",
-          "link": "https://www.nrtoday.com/news/education/eastwood-elementary-students-fish-with-the-umpqua-fishery-enhancement-derby/article_9565ff25-5439-47f7-a03f-262d03965f9a.html",
-          "publishedOn": "2026-01-30T13:30:00.000Z",
-          "wordCount": 14014,
-          "title": "Eastwood Elementary students fish with the Umpqua Fishery Enhancement Derby",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/c7/bc7535ec-7432-48eb-8b8d-ac29c9a99586/697c640814d7d.image.jpg?resize=300%2C200",
-            "length": "385072",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/c7/bc7535ec-7432-48eb-8b8d-ac29c9a99586/697c640814d7d.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -411,6 +381,26 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "698144546d62f6000170e295",
+          "author": "Joseph Ziegler",
+          "description": "A 19-year-old Wilbur man has been arrested following a Winston Police investigation into an alleged drive-by shooting reported in January. Officers executed search warrants, seized a firearm, and lodged the suspect in the Douglas County Jail on multiple charges.",
+          "link": "https://www.roseburgscanner.com/winston-police-arrest-19-year-old-in-connection-with-alleged-drive-by-shooting/",
+          "publishedOn": "2026-02-03T00:45:15.000Z",
+          "wordCount": 2206,
+          "title": "Winston Police Arrest 19-Year-Old in Connection With Alleged Drive-By Shooting",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/police-lights.png"
+        },
+        {
+          "id": "69813f246d62f6000170e256",
+          "author": "Joseph Ziegler",
+          "description": "Pre-K students from Looking Glass Elementary stepped into the kitchen at Domino’s in Winston on Jan. 28 for a hands-on pizza school. Owner Angelique Martinez taught kids about food, creativity, and how many paths can lead to success.",
+          "link": "https://www.roseburgscanner.com/winston-pre-k-students-learn-about-food-and-creativity-during-dominos-pizza-school/",
+          "publishedOn": "2026-02-03T00:28:47.000Z",
+          "wordCount": 2629,
+          "title": "Winston Pre-K Students Learn About Food and Creativity During Domino’s Pizza School",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/dominos-1.jpg"
+        },
         {
           "id": "697da7e86d62f6000170df6a",
           "author": "Joseph Ziegler",
@@ -500,26 +490,6 @@
           "wordCount": 2966,
           "title": "Police Log: January 29, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/police_lights2-11.jpg"
-        },
-        {
-          "id": "697c26b96d62f6000170dd01",
-          "author": "Joseph Ziegler",
-          "description": "Voted #1 Best Towing Company in Douglas County in the 2025 Readers’ Choice Awards, Roseburg Towing LLC has served the community since 1969 with 24/7 towing and roadside help. Family owned and locally trusted, the team is known for fast, professional, dependable service when drivers need it most.",
-          "link": "https://www.roseburgscanner.com/local-team-honored-roseburg-towing-named-best-towing-company-in-douglas-county/",
-          "publishedOn": "2026-01-30T15:03:28.000Z",
-          "wordCount": 2287,
-          "title": "Local Team Honored: Roseburg Towing Named Best Towing Company in Douglas County",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/roseburg_towing.jpg"
-        },
-        {
-          "id": "697cc03f6d62f6000170dd3c",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/january-30-2026/",
-          "publishedOn": "2026-01-30T14:53:12.000Z",
-          "wordCount": 5946,
-          "title": "January 30, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/01/The-Morning-Scoop-19.png"
         }
       ]
     },

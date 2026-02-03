@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-02T23:20:50.731Z</updated>
+    <updated>2026-02-03T04:08:39.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winston Police Arrest 19-Year-Old in Connection With Alleged Drive-By Shooting]]></title>
+        <id>698144546d62f6000170e295</id>
+        <link href="https://www.roseburgscanner.com/winston-police-arrest-19-year-old-in-connection-with-alleged-drive-by-shooting/"/>
+        <updated>2026-02-03T00:45:15.000Z</updated>
+        <summary type="html"><![CDATA[A 19-year-old Wilbur man has been arrested following a Winston Police investigation into an alleged drive-by shooting reported in January. Officers executed search warrants, seized a firearm, and lodged the suspect in the Douglas County Jail on multiple charges.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston Pre-K Students Learn About Food and Creativity During Domino’s Pizza School]]></title>
+        <id>69813f246d62f6000170e256</id>
+        <link href="https://www.roseburgscanner.com/winston-pre-k-students-learn-about-food-and-creativity-during-dominos-pizza-school/"/>
+        <updated>2026-02-03T00:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Pre-K students from Looking Glass Elementary stepped into the kitchen at Domino’s in Winston on Jan. 28 for a hands-on pizza school. Owner Angelique Martinez taught kids about food, creativity, and how many paths can lead to success.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New cashless system for Umpqua Forest recreation sites starts April]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/3973f232-9c4c-468a-95de-e8914ab092f4</id>
@@ -144,6 +164,16 @@
         <summary type="html"><![CDATA[Dr. Ahmad Damati and Elizabeth Banducci talk about the Heart Health Fair happening Friday at CHI Mercy Medical Center.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readers' Choice awards celebrates 25 years]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/25a21e81-626c-4eef-9005-ca04a75342ad</id>
+        <link href="https://www.nrtoday.com/life/readers-choice-awards-celebrates-25-years/article_25a21e81-626c-4eef-9005-ca04a75342ad.html"/>
+        <updated>2026-02-02T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Each year, The News-Review celebrates its annual Readers’ Choice awards. It’s an opportunity for the community to vote on their favorite people, places and establishments located throughout Douglas County, from the Cascades to the Oregon Coast.]]></summary>
+        <author>
+            <name>The News-Review staff</name>
         </author>
     </entry>
     <entry>
@@ -424,56 +454,6 @@
         <summary type="html"><![CDATA[Roseburg Police Log: Arson arrest tied to a Jan. 19 apartment incident, multiple warrant/prohibited camping arrests along the bike path, and citations from a rollover crash after an attempted “burnout,” plus littering and mischief cases.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safety and technology advances at Douglas County parks]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0797d717-343f-476c-8d29-6c05f916bd5e</id>
-        <link href="https://www.nrtoday.com/news/government/safety-and-technology-advances-at-douglas-county-parks/article_0797d717-343f-476c-8d29-6c05f916bd5e.html"/>
-        <updated>2026-01-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In an effort to improve safety and modernize local parks, Douglas County announced several new upgrades to parks across the county.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Team Honored: Roseburg Towing Named Best Towing Company in Douglas County]]></title>
-        <id>697c26b96d62f6000170dd01</id>
-        <link href="https://www.roseburgscanner.com/local-team-honored-roseburg-towing-named-best-towing-company-in-douglas-county/"/>
-        <updated>2026-01-30T15:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Voted #1 Best Towing Company in Douglas County in the 2025 Readers’ Choice Awards, Roseburg Towing LLC has served the community since 1969 with 24/7 towing and roadside help. Family owned and locally trusted, the team is known for fast, professional, dependable service when drivers need it most.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 30, 2026]]></title>
-        <id>697cc03f6d62f6000170dd3c</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/january-30-2026/"/>
-        <updated>2026-01-30T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explore what Umpqua Community College has to offer]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/8c006a5f-188a-4172-9e7b-412474084ac4</id>
-        <link href="https://www.nrtoday.com/news/education/explore-what-umpqua-community-college-has-to-offer/article_8c006a5f-188a-4172-9e7b-412474084ac4.html"/>
-        <updated>2026-01-30T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — John Blakely said he owned an auto repair shop in Sutherlin for about 19 years, starting right out in the profession after attending Umpqua Community College. After he ended his career, he returned to the college and has…]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eastwood Elementary students fish with the Umpqua Fishery Enhancement Derby]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/9565ff25-5439-47f7-a03f-262d03965f9a</id>
-        <link href="https://www.nrtoday.com/news/education/eastwood-elementary-students-fish-with-the-umpqua-fishery-enhancement-derby/article_9565ff25-5439-47f7-a03f-262d03965f9a.html"/>
-        <updated>2026-01-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SUTHERLIN — Eastwood Elementary School fifth graders spent Thursday morning outside in the on-and-off rain, fishing and floating around Cooper Creek Reservoir.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
         </author>
     </entry>
 </feed>
