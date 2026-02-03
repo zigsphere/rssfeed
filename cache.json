@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143139",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith has an update as the Short Session of the Oregon State Legislature is underway.",
+          "link": "https://kqennewsradio.com/2026/02/03/inside-douglas-county-02-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-02-03-26",
+          "publishedOn": "2026-02-03T21:07:49.000Z",
+          "wordCount": 1635,
+          "title": "INSIDE DOUGLAS COUNTY 02.03/26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260203200547/IDC-02-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143137",
           "author": "Kyle Bailey",
           "description": "February 3, 2026 10:40 a.m.  Roseburg Police cited a man for prohibited camping on Monday morning. An RPD report said at 10:45 a.m. the 63-year-old was contacted because he was camping in a restricted area and in a restricted manner, on the bicycle path in Gaddis Park in the 800 block of Northeast Highland Street....",
@@ -429,13 +444,34 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9162",
+          "author": "Jim Teece",
+          "description": "(Ashland, Ore.) — Southern Oregon University President Rick Bailey enacted immediate spending restrictions today and asked all faculty and staff members to focus on savings, following an often difficult discussion with the SOU Board of Trustees on Monday about a cash-flow shortage that is expected to exist until downsizing measures adopted as part of last summer’s…\nThe post SOU enacts spending restrictions amid cash-flow concerns appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/sou-enacts-spending-restrictions-amid-cash-flow-concerns/",
+          "publishedOn": "2026-02-03T23:04:40.000Z",
+          "wordCount": 3061,
+          "title": "SOU enacts spending restrictions amid cash-flow concerns",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/02/SOU-msg-from-President-Rick-Bailey.png"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "698257ba6d62f6000170e4b8",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua National Forest will switch to cashless fee collection at developed recreation sites beginning April 1, 2026. Visitors will need to use Scan & Pay or Recreation.gov, with cash and checks no longer accepted at Forest Service sites.",
+          "link": "https://www.roseburgscanner.com/umpqua-national-forest-moves-to-cashless-fees-at-recreation-sites-starting-april-1/",
+          "publishedOn": "2026-02-03T20:23:10.000Z",
+          "wordCount": 2419,
+          "title": "Umpqua National Forest Moves to Cashless Fees at Recreation Sites Starting April 1",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/umpqua.png"
+        },
         {
           "id": "698226366d62f6000170e49e",
           "author": "Joseph Ziegler",
