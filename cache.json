@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143163",
+          "author": "Kyle Bailey",
+          "description": "February 4, 2026 6:40 a.m.  A Coquille man has been charged with second-degree murder, following a shooting early Monday. A release from the Coos County Sheriff’s Office said North Coos 911 had received a call about a disturbance at a home near Highway 42 in Coquille. Deputies arrived and found that one person had been...",
+          "link": "https://kqennewsradio.com/2026/02/04/coquille-man-charged-with-second-degree-murder/?utm_source=rss&utm_medium=rss&utm_campaign=coquille-man-charged-with-second-degree-murder",
+          "publishedOn": "2026-02-04T14:39:56.000Z",
+          "wordCount": 1670,
+          "title": "COQUILLE MAN CHARGED WITH SECOND-DEGREE MURDER",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201605/CCSO.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143159",
           "author": "Kyle Bailey",
           "description": "February 4, 2026 3:50 a.m.  Roseburg had a near record high temperature for the date on Tuesday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 63 degrees at the Roseburg Regional Airport. The record high for February 3rd is 64 degrees, set in...",
@@ -602,6 +612,36 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "698372dc6d62f6000170e6cd",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported multiple arrests and citations on Feb. 3–4, including assaults, theft, warrants, prohibited camping enforcement, and driving while suspended cases. Several individuals were lodged at Corrections following incidents across the city.",
+          "link": "https://www.roseburgscanner.com/police-logs/police-log-february-3-2026/",
+          "publishedOn": "2026-02-04T16:28:01.000Z",
+          "wordCount": 3049,
+          "title": "Police Log: February 3, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/police_lights2-2.jpg"
+        },
+        {
+          "id": "69835d9e6d62f6000170e6a8",
+          "author": "Joseph Ziegler",
+          "description": "Ingram Content Group is expanding its Roseburg distribution center with a new on-site printing facility, allowing millions more book titles to be produced locally and delivered faster to publishers, retailers, and libraries across the western U.S.",
+          "link": "https://www.roseburgscanner.com/ingram-content-group-expands-roseburg-facility-with-new-printing-operations/",
+          "publishedOn": "2026-02-04T14:55:38.000Z",
+          "wordCount": 2307,
+          "title": "Ingram Content Group Expands Roseburg Facility with New Printing Operations",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/ingram.png"
+        },
+        {
+          "id": "6983568f6d62f6000170e50d",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.roseburgscanner.com/morning-scoop/february-4-2026/",
+          "publishedOn": "2026-02-04T14:43:11.000Z",
+          "wordCount": 4695,
+          "title": "February 4, 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/The-Morning-Scoop-2.png"
+        },
         {
           "id": "6982b3a06d62f6000170e4f0",
           "author": "Joseph Ziegler",

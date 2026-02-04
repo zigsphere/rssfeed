@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-04T13:58:22.416Z</updated>
+    <updated>2026-02-04T16:38:06.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: February 3, 2026]]></title>
+        <id>698372dc6d62f6000170e6cd</id>
+        <link href="https://www.roseburgscanner.com/police-logs/police-log-february-3-2026/"/>
+        <updated>2026-02-04T16:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported multiple arrests and citations on Feb. 3–4, including assaults, theft, warrants, prohibited camping enforcement, and driving while suspended cases. Several individuals were lodged at Corrections following incidents across the city.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ingram Content Group Expands Roseburg Facility with New Printing Operations]]></title>
+        <id>69835d9e6d62f6000170e6a8</id>
+        <link href="https://www.roseburgscanner.com/ingram-content-group-expands-roseburg-facility-with-new-printing-operations/"/>
+        <updated>2026-02-04T14:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Ingram Content Group is expanding its Roseburg distribution center with a new on-site printing facility, allowing millions more book titles to be produced locally and delivered faster to publishers, retailers, and libraries across the western U.S.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 4, 2026]]></title>
+        <id>6983568f6d62f6000170e50d</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-4-2026/"/>
+        <updated>2026-02-04T14:43:11.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COQUILLE MAN CHARGED WITH SECOND-DEGREE MURDER]]></title>
+        <id>https://kqennewsradio.com/?p=143163</id>
+        <link href="https://kqennewsradio.com/2026/02/04/coquille-man-charged-with-second-degree-murder/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coquille-man-charged-with-second-degree-murder"/>
+        <updated>2026-02-04T14:39:56.000Z</updated>
+        <summary type="html"><![CDATA[February 4, 2026 6:40 a.m.  A Coquille man has been charged with second-degree murder, following a shooting early Monday. A release from the Coos County Sheriff’s Office said North Coos 911 had received a call about a disturbance at a home near Highway 42 in Coquille. Deputies arrived and found that one person had been...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAS NEAR RECORD HIGH FOR THE DATE ON TUESDAY]]></title>
         <id>https://kqennewsradio.com/?p=143159</id>
