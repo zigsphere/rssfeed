@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143184",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Virgle Osbourne talks about the State Revenue Forecast, what the first few days of the session have been like, and what is ahead in the coming days.",
+          "link": "https://kqennewsradio.com/2026/02/04/inside-douglas-county-02-04-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-02-04-26",
+          "publishedOn": "2026-02-04T21:06:47.000Z",
+          "wordCount": 1650,
+          "title": "INSIDE DOUGLAS COUNTY 02.04.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260204200412/IDC-02-04-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143182",
           "author": "Kyle Bailey",
           "description": "February 4, 2026 10:55 a.m.  On Wednesday, Governor Tina Kotek issued a statement in response to the first quarter revenue forecast. Governor Kotek said, “Oregon’s economy continues to show signs of resilience, even though President Trump’s economic policies are exacerbating inflation pressures and cost of living challenges for Oregonians. My focus remains on driving solutions...",
@@ -736,6 +751,26 @@
       "siteUrl": "https://southernoregonbusiness.com/",
       "articles": [
         {
+          "id": "https://southernoregonbusiness.com/?p=9168",
+          "author": "Jim Teece",
+          "description": "February 3, 2026 – PBCO Financial Corporation (OTCPK: “PBCO”), the holding company (Company) of People’s Bank of Commerce (Bank), today announced that it has declared a cash dividend of $0.25 per share, approximately 15% of 2025 net income. The $0.25 dividend will be paid on March 5, 2026, to shareholders of record February 18, 2026.…\nThe post PBCO Announces Cash Dividend appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/pbco-announces-cash-dividend/",
+          "publishedOn": "2026-02-04T23:16:03.000Z",
+          "wordCount": 2740,
+          "title": "PBCO Announces Cash Dividend",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2020/11/PBOC-Logo-Featured-Image.png"
+        },
+        {
+          "id": "https://southernoregonbusiness.com/?p=9165",
+          "author": "Jim Teece",
+          "description": "MEDFORD, OR – Pacific Retirement Services (PRS), a powerhouse in the non-profit senior living sector, has announced the appointment of Sloan Bentley as its new President and Chief Executive Officer. The move brings a seasoned leader with over 40 years of experience to the helm of the Medford-based organization as it navigates a rapidly evolving…\nThe post Pacific Retirement Services Taps Industry Veteran Sloan Bentley as New CEO appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/pacific-retirement-services-taps-industry-veteran-sloan-bentley-as-new-ceo/",
+          "publishedOn": "2026-02-04T23:06:19.000Z",
+          "wordCount": 3036,
+          "title": "Pacific Retirement Services Taps Industry Veteran Sloan Bentley as New CEO",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/02/Sloan.jpeg"
+        },
+        {
           "id": "https://southernoregonbusiness.com/?p=9162",
           "author": "Jim Teece",
           "description": "(Ashland, Ore.) — Southern Oregon University President Rick Bailey enacted immediate spending restrictions today and asked all faculty and staff members to focus on savings, following an often difficult discussion with the SOU Board of Trustees on Monday about a cash-flow shortage that is expected to exist until downsizing measures adopted as part of last summer’s…\nThe post SOU enacts spending restrictions amid cash-flow concerns appeared first on Southern Oregon Business Journal.",
@@ -752,6 +787,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6983a12b6d62f6000170e6ef",
+          "author": "Joseph Ziegler",
+          "description": "H.O.P.E. Drug Court graduate Elizabeth Weist-Gray is leading a two-day Food for Hope drive in Roseburg to support the FISH Food Pantry. The event runs Feb. 7–8 at Grocery Outlet and aims to replenish shelves after winter demand.",
+          "link": "https://www.roseburgscanner.com/food-for-hope-project-led-by-h-o-p-e-drug-court-graduate-supports-fish-food-pantry/",
+          "publishedOn": "2026-02-04T19:45:57.000Z",
+          "wordCount": 2315,
+          "title": "Food for Hope Project Led by H.O.P.E. Drug Court Graduate Supports FISH Food Pantry",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/Screenshot-2026-02-04-at-11.46.41---AM.png"
+        },
         {
           "id": "698372dc6d62f6000170e6cd",
           "author": "Joseph Ziegler",
