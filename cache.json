@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143142",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/02/04/true-wealth-02-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-02-03-26",
+          "publishedOn": "2026-02-04T01:14:30.000Z",
+          "wordCount": 1622,
+          "title": "TRUE WEALTH 02.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260204000325/TWR-02-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143139",
           "author": "Kyle Bailey",
           "description": "Live from Salem, State Senator David Brock Smith has an update as the Short Session of the Oregon State Legislature is underway.",
@@ -409,6 +424,71 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0fd48fc7-4b3c-49f4-a733-93ecec69a852",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Zoe Vickers of Sutherlin was named on the fall 2025 dean's list at Pacific University.",
+          "link": "https://www.nrtoday.com/briefs/vickers-named-to-pacific-university-deans-list/article_0fd48fc7-4b3c-49f4-a733-93ecec69a852.html",
+          "publishedOn": "2026-02-03T21:24:00.000Z",
+          "wordCount": 12546,
+          "title": "Vickers named to Pacific University dean's list",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9b28014d-45e1-4b42-b2c1-cca702d0fb92",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Multiple Roseburg residents were named on the Eastern Oregon University dean's list for the 2025 fall term.",
+          "link": "https://www.nrtoday.com/briefs/eastern-oregon-university-announces-fall-2025-deans-list/article_9b28014d-45e1-4b42-b2c1-cca702d0fb92.html",
+          "publishedOn": "2026-02-03T20:53:00.000Z",
+          "wordCount": 13001,
+          "title": "Eastern Oregon University announces fall 2025 dean's list",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ddc1d3f0-f948-4d68-81cf-35c1f51889c4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Coffenberry Middle School announced the 2025-26 second quarter honor roll. Students with a grade point average (GPA) of 4.00 qualify for the principal's list while students between 3.86 and 3.50 maintain high honors.",
+          "link": "https://www.nrtoday.com/briefs/coffenberry-middle-school-announces-2nd-quarter-honor-roll/article_ddc1d3f0-f948-4d68-81cf-35c1f51889c4.html",
+          "publishedOn": "2026-02-03T20:48:00.000Z",
+          "wordCount": 12849,
+          "title": "Coffenberry Middle School announces 2nd quarter honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8dcc24f1-890e-4ea8-be24-425b2f35bdc8",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "All developed recreation sites operated by the Umpqua National Forest will transition to cashless fee collections through Scan and Pay or reservations on Recreation.gov beginning April 1.",
+          "link": "https://www.nrtoday.com/briefs/some-umpqua-national-forest-sites-move-to-cashless-on-april-1/article_8dcc24f1-890e-4ea8-be24-425b2f35bdc8.html",
+          "publishedOn": "2026-02-03T20:28:00.000Z",
+          "wordCount": 14332,
+          "title": "Some Umpqua National Forest sites move to cashless on April 1",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c4bcb9c2-9d1c-4a47-946d-3dbedf1c1601",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Roseburg Education Association (REA) will award two $1,500 scholarships to two graduating seniors.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-education-association-opens-scholarship-applications/article_c4bcb9c2-9d1c-4a47-946d-3dbedf1c1601.html",
+          "publishedOn": "2026-02-03T20:11:00.000Z",
+          "wordCount": 12930,
+          "title": "Roseburg Education Association opens scholarship applications",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/31a0bf29-18c8-45a4-a6c6-a77365096ab8",
+          "author": "Mateusz Perkowski Rogue Valley Times",
+          "description": "Environmental advocates claim the U.S. Bureau of Land Management unlawfully approved a Southern Oregon forest project that allows more than 6,000 acres of commercial thinning.",
+          "link": "https://www.nrtoday.com/news/lawsuit-targets-6-000-acres-of-thinning-in-southern-oregon/article_31a0bf29-18c8-45a4-a6c6-a77365096ab8.html",
+          "publishedOn": "2026-02-03T19:30:00.000Z",
+          "wordCount": 13000,
+          "title": "Lawsuit targets 6,000 acres of thinning in Southern Oregon",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/f2/5f2e75df-ac91-4504-881c-10ae2b503b14/681e97d27818e.image.jpg?resize=300%2C225",
+            "length": "591384",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/f2/5f2e75df-ac91-4504-881c-10ae2b503b14/681e97d27818e.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/daf0a10b-2858-4eda-a859-7f4da642856e",
           "author": "NATHAN A. MILLER The News-Review",
           "description": "Saturday was filled with energy and school spirit as Roseburg High School hosted the Orange and Black Cheer Challenge. Parking lots and the gymnasium were packed as more than 30 high schools competed in three disciplines — Traditional, Game Day…",
@@ -462,6 +542,16 @@
       "feedUrl": "https://www.roseburgscanner.com/rss/",
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
+        {
+          "id": "6982b3a06d62f6000170e4f0",
+          "author": "Joseph Ziegler",
+          "description": "Sunrise Enterprises has been named Best Secondhand Store in Douglas County for the fifth year in a row for the 2025 Readers' Choice Award. The recognition reflects decades of community support for a mission focused on inclusion, opportunity, and meaningful employment since 1969.",
+          "link": "https://www.roseburgscanner.com/five-years-in-a-row-sunrise-enterprises-recognized-as-best-secondhand-store-in-douglas-county/",
+          "publishedOn": "2026-02-04T02:54:53.000Z",
+          "wordCount": 2262,
+          "title": "Five Years in a Row: Sunrise Enterprises Recognized as Best Secondhand Store in Douglas County",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/sunrise_enterprises.jpg"
+        },
         {
           "id": "698257ba6d62f6000170e4b8",
           "author": "Joseph Ziegler",
@@ -593,21 +683,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/d8/5d87aece-e976-5107-b34f-1ddf9bde7b54/6737bb2219411.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/9afa6cfb-3baa-4e9b-ac2c-61c920a18900",
-          "author": "News Staff",
-          "description": "Authorities swiftly responded to reports of a firearm discharge on Interstate 5 in Douglas County on Thursday, according to the Oregon State Police.",
-          "link": "https://www.kezi.com/news/local/douglas-county-chaos-gunfire-on-i-5-leads-to-arrest/article_9afa6cfb-3baa-4e9b-ac2c-61c920a18900.html",
-          "publishedOn": "2026-01-30T23:46:00.000Z",
-          "wordCount": 8064,
-          "title": "Douglas County chaos: gunfire on I-5 leads to arrest",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/91/c91f4f66-8dc7-11ec-a7cd-171427961bd3/620aa60f4907d.image.jpg?resize=300%2C169",
-            "length": "43418",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/91/c91f4f66-8dc7-11ec-a7cd-171427961bd3/620aa60f4907d.image.jpg?resize=300%2C169"
         }
       ]
     }
