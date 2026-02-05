@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-05T14:00:57.313Z</updated>
+    <updated>2026-02-05T16:38:29.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DENSE FOG ADVISORY THROUGH 11:00 A.M. THURSDAY]]></title>
+        <id>https://kqennewsradio.com/?p=143217</id>
+        <link href="https://kqennewsradio.com/2026/02/05/dense-fog-advisory-through-1100-a-m-thursday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dense-fog-advisory-through-1100-a-m-thursday"/>
+        <updated>2026-02-05T16:19:38.000Z</updated>
+        <summary type="html"><![CDATA[February 5, 2026 8:00 a.m.  A Dense Fog Advisory is in effect through 11:00 a.m. Thursday. Forecasters at the National Weather Service in Medford said visibility of one quarter mile or less in dense fog is expected. The Advisory area includes central Douglas County, eastern Curry County and Josephine County. It applies to Roseburg, Grants...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 5, 2026]]></title>
+        <id>6984a9506d62f6000170e743</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-5-2026/"/>
+        <updated>2026-02-05T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG FOREST PRODUCTS REALIGNS, 146 POSITIONS CUT AT RIDDLE PLYWOOD FACILITY]]></title>
         <id>https://kqennewsradio.com/?p=143211</id>
