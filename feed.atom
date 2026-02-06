@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-06T13:57:03.746Z</updated>
+    <updated>2026-02-06T16:36:04.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[February 6, 2026]]></title>
+        <id>6985fb066d62f6000170e97a</id>
+        <link href="https://www.roseburgscanner.com/morning-scoop/february-6-2026/"/>
+        <updated>2026-02-06T14:43:15.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Douglas County February 2026 Recreation Report]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/99564730-218f-40b8-aead-9a7538330b98</id>
