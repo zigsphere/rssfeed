@@ -689,26 +689,6 @@
             "type": "audio/wav"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260202161759/Mercy-3.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143057",
-          "author": "Kyle Bailey",
-          "description": "February 2, 2026 3:50 a.m.  A mattress in the freeway lead to a crash on Saturday. An Oregon State Police report said at approximately 4:45 p.m. troopers responded after a caller said a sedan that hit the object on Interstate Five southbound just south of the Garden Valley Boulevard Exit 125 interchange. Troopers determined that...",
-          "link": "https://kqennewsradio.com/2026/02/02/mattress-in-freeway-leads-to-saturday-crash/?utm_source=rss&utm_medium=rss&utm_campaign=mattress-in-freeway-leads-to-saturday-crash",
-          "publishedOn": "2026-02-02T11:35:50.000Z",
-          "wordCount": 1685,
-          "title": "MATTRESS IN FREEWAY LEADS TO SATURDAY CRASH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143055",
-          "author": "Kyle Bailey",
-          "description": "February 2, 2026 3:40 a.m.  The Winston City Council meeting scheduled for Monday night has been canceled due to a lack of agenda items however the scheduled workshop will still take place. City Manager Thomas McIntosh said at 6:00 p.m. the council will be looking at the last five budget cycles and discussing the budgetary...",
-          "link": "https://kqennewsradio.com/2026/02/02/winston-city-council-meeting-canceled-but-workshop-happening/?utm_source=rss&utm_medium=rss&utm_campaign=winston-city-council-meeting-canceled-but-workshop-happening",
-          "publishedOn": "2026-02-02T11:25:48.000Z",
-          "wordCount": 1690,
-          "title": "WINSTON CITY COUNCIL MEETING CANCELED BUT WORKSHOP HAPPENING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223900/city-logo-white-e1593623854274.jpg"
         }
       ]
     },
@@ -973,6 +953,26 @@
       "siteUrl": "https://www.roseburgscanner.com/",
       "articles": [
         {
+          "id": "698536e76d62f6000170e908",
+          "author": "Joseph Ziegler",
+          "description": "Oregon CASA programs will receive $1.031 million in federal funding for FY2026 to support volunteers who advocate for children in foster care. Officials say the funding will help stabilize programs after 2025 budget challenges and expand support for children across the state.",
+          "link": "https://www.roseburgscanner.com/federal-funding-approved-for-oregon-casa-programs-to-support-children-in-foster-care/",
+          "publishedOn": "2026-02-06T00:36:05.000Z",
+          "wordCount": 2368,
+          "title": "Federal Funding Approved for Oregon CASA Programs to Support Children in Foster Care",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/CASALOGOColornew-336w.webp"
+        },
+        {
+          "id": "698532ba6d62f6000170e8ec",
+          "author": "Joseph Ziegler",
+          "description": "Riverbend Live in Winston is seeking new volunteer leadership to continue beyond 2026. Organizers say the 30-year concert and youth drama program can continue with new volunteers, but without them the long-running community tradition may end after the 2026 season.",
+          "link": "https://www.roseburgscanner.com/riverbend-live-seeks-new-volunteer-leadership-to-continue-beyond-2026/",
+          "publishedOn": "2026-02-06T00:17:37.000Z",
+          "wordCount": 2222,
+          "title": "Riverbend Live Seeks New Volunteer Leadership to Continue Beyond 2026",
+          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/RL_Logo.png"
+        },
+        {
           "id": "6984d1a36d62f6000170e8c7",
           "author": "Joseph Ziegler",
           "description": "Roseburg police reported multiple arrests and citations on Feb. 4–5, including theft, parole violations, warrant arrests, and public order offenses. Incidents occurred across the city at parks, businesses, and public areas, according to the department’s daily activity logs.",
@@ -1151,16 +1151,6 @@
           "wordCount": 4287,
           "title": "Police Log: January 30 - February 2, 2026",
           "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/police_lights2.jpg"
-        },
-        {
-          "id": "698033036d62f6000170dfea",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.roseburgscanner.com/morning-scoop/february-2-2026/",
-          "publishedOn": "2026-02-02T14:44:14.000Z",
-          "wordCount": 4628,
-          "title": "February 2, 2026",
-          "imageUrl": "https://www.roseburgscanner.com/content/images/2026/02/The-Morning-Scoop.png"
         }
       ]
     },

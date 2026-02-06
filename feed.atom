@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-05T23:17:44.674Z</updated>
+    <updated>2026-02-06T04:08:13.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Federal Funding Approved for Oregon CASA Programs to Support Children in Foster Care]]></title>
+        <id>698536e76d62f6000170e908</id>
+        <link href="https://www.roseburgscanner.com/federal-funding-approved-for-oregon-casa-programs-to-support-children-in-foster-care/"/>
+        <updated>2026-02-06T00:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Oregon CASA programs will receive $1.031 million in federal funding for FY2026 to support volunteers who advocate for children in foster care. Officials say the funding will help stabilize programs after 2025 budget challenges and expand support for children across the state.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riverbend Live Seeks New Volunteer Leadership to Continue Beyond 2026]]></title>
+        <id>698532ba6d62f6000170e8ec</id>
+        <link href="https://www.roseburgscanner.com/riverbend-live-seeks-new-volunteer-leadership-to-continue-beyond-2026/"/>
+        <updated>2026-02-06T00:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Riverbend Live in Winston is seeking new volunteer leadership to continue beyond 2026. Organizers say the 30-year concert and youth drama program can continue with new volunteers, but without them the long-running community tradition may end after the 2026 season.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR PAROLE VIOLATION]]></title>
         <id>https://kqennewsradio.com/?p=143244</id>
@@ -1038,36 +1058,6 @@ The post SOU enacts spending restrictions amid cash-flow concerns appeared first
         <summary type="html"><![CDATA[Each year, The News-Review celebrates its annual Readers’ Choice awards. It’s an opportunity for the community to vote on their favorite people, places and establishments located throughout Douglas County, from the Cascades to the Oregon Coast.]]></summary>
         <author>
             <name>The News-Review staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 2, 2026]]></title>
-        <id>698033036d62f6000170dfea</id>
-        <link href="https://www.roseburgscanner.com/morning-scoop/february-2-2026/"/>
-        <updated>2026-02-02T14:44:14.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATTRESS IN FREEWAY LEADS TO SATURDAY CRASH]]></title>
-        <id>https://kqennewsradio.com/?p=143057</id>
-        <link href="https://kqennewsradio.com/2026/02/02/mattress-in-freeway-leads-to-saturday-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mattress-in-freeway-leads-to-saturday-crash"/>
-        <updated>2026-02-02T11:35:50.000Z</updated>
-        <summary type="html"><![CDATA[February 2, 2026 3:50 a.m.  A mattress in the freeway lead to a crash on Saturday. An Oregon State Police report said at approximately 4:45 p.m. troopers responded after a caller said a sedan that hit the object on Interstate Five southbound just south of the Garden Valley Boulevard Exit 125 interchange. Troopers determined that...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINSTON CITY COUNCIL MEETING CANCELED BUT WORKSHOP HAPPENING]]></title>
-        <id>https://kqennewsradio.com/?p=143055</id>
-        <link href="https://kqennewsradio.com/2026/02/02/winston-city-council-meeting-canceled-but-workshop-happening/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-city-council-meeting-canceled-but-workshop-happening"/>
-        <updated>2026-02-02T11:25:48.000Z</updated>
-        <summary type="html"><![CDATA[February 2, 2026 3:40 a.m.  The Winston City Council meeting scheduled for Monday night has been canceled due to a lack of agenda items however the scheduled workshop will still take place. City Manager Thomas McIntosh said at 6:00 p.m. the council will be looking at the last five budget cycles and discussing the budgetary...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
