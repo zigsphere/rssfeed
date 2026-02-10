@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-10T19:56:18.394Z</updated>
+    <updated>2026-02-10T23:32:29.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 02.10.26]]></title>
+        <id>https://kqennewsradio.com/?p=143393</id>
+        <link href="https://kqennewsradio.com/2026/02/10/inside-douglas-county-02-10-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-02-10-26"/>
+        <updated>2026-02-10T21:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Valley Wine Growers Association Executive Director Ali Rodgers talks about the upcoming Greatest of the Grape event at Seven Feathers Casino Resort in Canyonville.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANT, UNLAWFUL POSSESSION OF METHAMPHETAMINE]]></title>
         <id>https://kqennewsradio.com/?p=143387</id>
