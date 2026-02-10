@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-10T14:18:42.616Z</updated>
+    <updated>2026-02-10T17:07:47.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: February 9, 2026]]></title>
+        <id>698b5f5f3934940001d596d3</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-february-9-2026/"/>
+        <updated>2026-02-10T16:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police Log (Feb. 6–8): Arrests included multiple warrant pickups, several DUII cases (including a crash), criminal trespass incidents, a reported sexual harassment arrest, and citations tied to prohibited camping and traffic crashes.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg High Theatre Students Bring Literacy Play to Douglas County Elementary Schools]]></title>
+        <id>698b5be83934940001d596af</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-high-theatre-students-bring-literacy-play-to-douglas-county-elementary-schools/"/>
+        <updated>2026-02-10T16:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg High School Theatre students and Altrusa presented the 26th annual Celebration of Literacy play Jan. 30, bringing an original student-created show about reading and storytelling to elementary students across Douglas County.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February 10, 2026]]></title>
+        <id>698b40f53934940001d59512</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/february-10-2026/"/>
+        <updated>2026-02-10T14:48:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GRANTS PASS POLICE/DEA PARTNER TO SEIZE 40 POUNDS OF METHAMPHETAMINE]]></title>
         <id>https://kqennewsradio.com/?p=143364</id>
