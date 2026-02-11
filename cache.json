@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143398",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/02/11/true-wealth-02-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-02-10-26",
+          "publishedOn": "2026-02-11T01:07:27.000Z",
+          "wordCount": 1629,
+          "title": "TRUE WEALTH 02.10.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260211000234/TWR-02-10-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143393",
           "author": "Kyle Bailey",
           "description": "Umpqua Valley Wine Growers Association Executive Director Ali Rodgers talks about the upcoming Greatest of the Grape event at Seven Feathers Casino Resort in Canyonville.",
@@ -364,16 +379,6 @@
           "wordCount": 1746,
           "title": "WOMAN DECEASED FOLLOWING OFFICER INVOLVED SHOOTING IN GRANTS PASS",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202504/Police_Seal-removebg-preview.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143300",
-          "author": "Kyle Bailey",
-          "description": "February 7, 2026 8:00 a.m.  Roseburg Police cited a man for a city ordinance violation on Thursday afternoon. An RPD report said at 2:30 p.m. officers contacted the 63-year-old at his camp at the bike jumps in Gaddis Park in the 800 block of Northwest Highland Street during the posting process. There was a medium...",
-          "link": "https://kqennewsradio.com/2026/02/07/roseburg-police-cite-man-for-ordinance-violation-2/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-man-for-ordinance-violation-2",
-          "publishedOn": "2026-02-07T15:56:36.000Z",
-          "wordCount": 1641,
-          "title": "ROSEBURG POLICE CITE MAN FOR ORDINANCE VIOLATION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
         }
       ]
     },
