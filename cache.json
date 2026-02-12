@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143491",
+          "author": "Kyle Bailey",
+          "description": "Oregon State University Extension Agent Logan Bennett with an update on current ag happenings in the county and a look at upcoming classes and other learning opportunities.",
+          "link": "https://kqennewsradio.com/2026/02/12/inside-douglas-county-02-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-02-12-26",
+          "publishedOn": "2026-02-12T21:12:18.000Z",
+          "wordCount": 1647,
+          "title": "INSIDE DOUGLAS COUNTY 02.12.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260212200822/IDC-02-12-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260212201203/Logan-7.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143487",
           "author": "Kyle Bailey",
           "description": "February 12, 2026 10:40 a.m.  A man evaded capture after the vehicle he was driving was located by a trooper with Oregon State Police on Wednesday afternoon. An OSP report said just after 4:30 p.m. the sports car was found on Signal Tree Road off of Highway 42, east of the Camas Valley area. The...",
@@ -664,26 +679,6 @@
           "wordCount": 1875,
           "title": "CASA PROGRAMS TO RECEIVE $1.031 MILLION IN FEDERAL FUNDING",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727211414/casa-v-roseburg-or-redblue-r-alt.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143309",
-          "author": "Kyle Bailey",
-          "description": "February 9, 2026 3:05 a.m.  A Douglas County H.O.P.E. Drug Court graduate phase participant is giving back to the community through Roxy’s Paws of Hope, a community project benefitting Saving Grace Humane Society. A Douglas County Circuit Court release said the project is focused on collecting cans of wet dog and cat food and regular...",
-          "link": "https://kqennewsradio.com/2026/02/09/roxys-paws-of-hope-supports-saving-grace-humane-society/?utm_source=rss&utm_medium=rss&utm_campaign=roxys-paws-of-hope-supports-saving-grace-humane-society",
-          "publishedOn": "2026-02-09T11:17:43.000Z",
-          "wordCount": 1856,
-          "title": "ROXY’S PAWS OF HOPE SUPPORTS SAVING GRACE HUMANE SOCIETY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260209101637/Roxys-Paws-of-Hope-Project-e1770635815905.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143304",
-          "author": "Kyle Bailey",
-          "description": "February 9, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: The winery at Umpqua Community College is hosting a For the Love of Wine event on February 13th and 14th from 11:00 a.m. to 5:00 p.m. Festivities will include barrel tours, glass painting, and case discounts in the tasting room. Barrel tours will be offered...",
-          "link": "https://kqennewsradio.com/2026/02/09/ucc-with-for-the-love-of-wine-event/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-with-for-the-love-of-wine-event",
-          "publishedOn": "2026-02-09T11:12:20.000Z",
-          "wordCount": 1775,
-          "title": "UCC WITH: FOR THE LOVE OF WINE EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260209101139/Winebarrel.jpg"
         }
       ]
     },
