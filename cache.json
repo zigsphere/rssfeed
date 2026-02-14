@@ -639,26 +639,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260210161040/Vince-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143364",
-          "author": "Kyle Bailey",
-          "description": "February 10, 2026 6:00 a.m.  The Grants Pass Police Department in partnership with the Drug Enforcement Administration seized approximately 40 pounds of methamphetamine over the weekend. A GPPD release said the agencies have worked together to counter drug activity in Grants Pass and around southern Oregon. As part of the partnership, GPPD provides a detective...",
-          "link": "https://kqennewsradio.com/2026/02/10/grants-pass-police-dea-partner-to-seize-40-pounds-of-methamphetamine/?utm_source=rss&utm_medium=rss&utm_campaign=grants-pass-police-dea-partner-to-seize-40-pounds-of-methamphetamine",
-          "publishedOn": "2026-02-10T14:10:27.000Z",
-          "wordCount": 1756,
-          "title": "GRANTS PASS POLICE/DEA PARTNER TO SEIZE 40 POUNDS OF METHAMPHETAMINE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260210130909/Bust-scaled-e1770732582888.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143359",
-          "author": "Kyle Bailey",
-          "description": "February 10, 2026 3:40 a.m.  On Sunday, Representative Val Hoyle announced that she has secured more than $16.6 million in federal funding for community projects in Oregon’s 4th Congressional District. The funds will support 15 projects in Douglas, Benton, Coos, Curry, Lane and Lincoln counties. Hoyle’s release said for Fiscal Year 2026, each member of...",
-          "link": "https://kqennewsradio.com/2026/02/10/representative-hoyle-announces-over-16-5-million-for-15-projects/?utm_source=rss&utm_medium=rss&utm_campaign=representative-hoyle-announces-over-16-5-million-for-15-projects",
-          "publishedOn": "2026-02-10T11:27:27.000Z",
-          "wordCount": 1832,
-          "title": "REPRESENTATIVE HOYLE ANNOUNCES OVER $16.5 MILLION FOR 15 PROJECTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240712132209/rep.-hoyle-headshot_or04.jpg"
         }
       ]
     },
@@ -673,6 +653,16 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0e660693-09e2-40bd-8197-3f23b99f1d4d",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — Canyonville School released the second quarter honor roll for the 2025-26 school year.",
+          "link": "https://www.nrtoday.com/briefs/canyonville-school-releases-2025-26-second-quarter-honor-roll/article_0e660693-09e2-40bd-8197-3f23b99f1d4d.html",
+          "publishedOn": "2026-02-13T19:27:00.000Z",
+          "wordCount": 12715,
+          "title": "Canyonville School releases 2025-26 second quarter honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/914ab410-25ed-4fe8-83b1-8379f5aed9b8",
           "author": "GLORIA COLEMAN The News-Review",
@@ -842,66 +832,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/95/895c279c-ffc4-11ef-a32e-2fb85034c6b4/67d260797ceba.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/0665bcdf-790c-4df4-be2c-da3fa2eaf689",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "Valentine's weekend is approaching, and establishments across Douglas County are preparing for the holiday with special events and get-togethers to celebrate the occasion. These are some of the highlights for what's available:",
-          "link": "https://www.nrtoday.com/news/planning-a-valentines-weekend-heres-whats-happening-in-douglas-county/article_0665bcdf-790c-4df4-be2c-da3fa2eaf689.html",
-          "publishedOn": "2026-02-10T16:00:00.000Z",
-          "wordCount": 13654,
-          "title": "Planning a Valentine's weekend? Here's what's happening in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/6f/f6fda8d6-f326-454a-aa0a-a5b3d4c0aceb/69549c7898e37.image.jpg?resize=300%2C200",
-            "length": "347717",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/6f/f6fda8d6-f326-454a-aa0a-a5b3d4c0aceb/69549c7898e37.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ab282a23-701e-44de-91e0-531a3ed13828",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "If there's one thing Dr. Roger Dreiling wants people to know about heart health, it's that a preventative mindset, promoting active efforts from individuals to better themselves, is crucial to maintaining health.",
-          "link": "https://www.nrtoday.com/news/chi-mercy-health-informs-and-engages-community-with-third-annual-heart-health-fair/article_ab282a23-701e-44de-91e0-531a3ed13828.html",
-          "publishedOn": "2026-02-10T16:00:00.000Z",
-          "wordCount": 13341,
-          "title": "CHI Mercy Health informs and engages community with Third Annual Heart Health Fair",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/ab/7aba71b3-8df9-490a-a4e6-8e02d6e093e7/69868fd08cac9.image.jpg?resize=300%2C200",
-            "length": "274551",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/ab/7aba71b3-8df9-490a-a4e6-8e02d6e093e7/69868fd08cac9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/31444ab2-2e3e-4b0c-a7e5-f1d63b0041a1",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "More than the exercise, more than the hunt, more than the thrill of finding a cache, the best part about geocaching for Ruth Hagemeister is a chance to see something new with family and friends.",
-          "link": "https://www.nrtoday.com/family/discover-roseburg-15-land-of-umpqua-geocache-series-kicks-off-in-roseburg/article_31444ab2-2e3e-4b0c-a7e5-f1d63b0041a1.html",
-          "publishedOn": "2026-02-10T16:00:00.000Z",
-          "wordCount": 13537,
-          "title": "Discover Roseburg 15 Land of Umpqua Geocache Series kicks off in Roseburg",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d8/cd8d7344-1056-495e-a6a0-b7b1bfe5aa7d/6987d209e947d.image.jpg?resize=300%2C200",
-            "length": "442964",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d8/cd8d7344-1056-495e-a6a0-b7b1bfe5aa7d/6987d209e947d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2341231d-23dc-40ad-b0b8-db05482b7789",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "The Sutherlin School District did not need to look far for the next person to lead the Bulldogs.",
-          "link": "https://www.nrtoday.com/news/education/sutherlin-school-board-chooses-martz-as-next-superintendent/article_2341231d-23dc-40ad-b0b8-db05482b7789.html",
-          "publishedOn": "2026-02-10T14:00:00.000Z",
-          "wordCount": 13339,
-          "title": "Sutherlin school board chooses Martz as next superintendent",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/07/1078b67c-b28e-42b7-9b03-e879a11fb8c7/69601d7458181.image.jpg?resize=300%2C363",
-            "length": "82295",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/07/1078b67c-b28e-42b7-9b03-e879a11fb8c7/69601d7458181.image.jpg?resize=300%2C363"
         }
       ]
     },
@@ -1075,16 +1005,6 @@
           "wordCount": 2637,
           "title": "Roseburg High Theatre Students Bring Literacy Play to Douglas County Elementary Schools",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/roseburg_theatre1.jpg"
-        },
-        {
-          "id": "698b40f53934940001d59512",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/february-10-2026/",
-          "publishedOn": "2026-02-10T14:48:55.000Z",
-          "wordCount": 4077,
-          "title": "February 10, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/The-Morning-Scoop-6.png"
         }
       ]
     },
@@ -1092,7 +1012,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/8a3bfae1-4fbd-4be9-8934-6a2584be3642",
+          "author": "News Staff",
+          "description": "Two instructional assistants from the Roseburg School District are facing charges after an investigation into injuries sustained by students at Fremont Middle School, according to the Douglas County Sheriff's Office.",
+          "link": "https://www.kezi.com/news/national/investigators-allege-roseburg-assistants-caused-student-injuries/article_8a3bfae1-4fbd-4be9-8934-6a2584be3642.html",
+          "publishedOn": "2026-02-13T23:17:00.000Z",
+          "wordCount": 7967,
+          "title": "Investigators allege Roseburg assistants caused student injuries",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
