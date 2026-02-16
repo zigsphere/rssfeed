@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-15T23:19:08.009Z</updated>
+    <updated>2026-02-16T04:17:57.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winter Weather Advisory, Storm Warning issued for Douglas County as snow levels drop this week]]></title>
+        <id>69928de93934940001d59d60</id>
+        <link href="https://www.theroseburgreceiver.com/winter-weather-advisory-storm-warning-issued-for-douglas-county-as-snow-levels-drop-this-week/"/>
+        <updated>2026-02-16T03:27:26.000Z</updated>
+        <summary type="html"><![CDATA[A Winter Weather Advisory and Winter Storm Warning are in effect for central Douglas County from late Monday through Thursday. Valley areas including Roseburg could see light snow, while higher elevations may get heavy accumulations. Travel impacts are likely, especially Tuesday.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY/WINTER STORM WARNING BEGINS MONDAY NIGHT]]></title>
         <id>https://kqennewsradio.com/?p=143542</id>
@@ -457,16 +467,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[February 12, 2026]]></title>
-        <id>698de2f83934940001d598ff</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/february-12-2026/"/>
-        <updated>2026-02-12T14:43:19.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Public comment section open for Cedar Creek Project proposal, planning]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/18df0a9c-5dfc-47f7-a9cb-05337be01cfb</id>
         <link href="https://www.nrtoday.com/news/public-comment-section-open-for-cedar-creek-project-proposal-planning/article_18df0a9c-5dfc-47f7-a9cb-05337be01cfb.html"/>
@@ -474,36 +474,6 @@
         <summary type="html"><![CDATA[UMPQUA NATIONAL FOREST — The North Umpqua Ranger District in the Umpqua National Forest is working on conducting the Cedar Creek project, a vegetation management project in the middle and upper Steamboat Creek subwatersheds about 40 miles east of Glide.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SENATOR BROCK SMITH CONDEMNS PASSAGE OF “CLIMATE SUPERFUND” BILL]]></title>
-        <id>https://kqennewsradio.com/?p=143466</id>
-        <link href="https://kqennewsradio.com/2026/02/12/senator-brock-smith-condemns-passage-of-climate-superfund-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senator-brock-smith-condemns-passage-of-climate-superfund-bill"/>
-        <updated>2026-02-12T11:45:24.000Z</updated>
-        <summary type="html"><![CDATA[February 12, 2026 3:50 a.m. On Wednesday, Republican State Senator David Brock Smith of Port Orford, vice-chair of the Senate Committee on Energy and Environment, condemned the passage of Senate Bill 1541, known as the “Climate Superfund” bill, warning that it will increase costs for working families across Oregon. The legislation passed out of committee...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WINTER 2026 CITY CONNECTION E-NEWSLETTER NOW ONLINE]]></title>
-        <id>https://kqennewsradio.com/?p=143464</id>
-        <link href="https://kqennewsradio.com/2026/02/12/winter-2026-city-connection-e-newsletter-now-online/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winter-2026-city-connection-e-newsletter-now-online"/>
-        <updated>2026-02-12T11:24:13.000Z</updated>
-        <summary type="html"><![CDATA[February 12, 2026 3:40 a.m.  Stay up to date on all that’s been happening at the City of Roseburg with the Winter 2026 City Connection e-newsletter, which is now available. A city release said the online newsletter shares the latest information from city departments – helping residents stay connected with their hometown. Inside, you can...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RHS FOUNDATION NAMES FUTURE FIRST CITIZEN SEMI-FINALISTS]]></title>
-        <id>https://kqennewsradio.com/?p=143461</id>
-        <link href="https://kqennewsradio.com/2026/02/12/rhs-foundation-names-future-first-citizen-semi-finalists/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rhs-foundation-names-future-first-citizen-semi-finalists"/>
-        <updated>2026-02-12T11:19:58.000Z</updated>
-        <summary type="html"><![CDATA[February 12, 2026 3:30 a.m.  Five Roseburg High School seniors have been chosen as the semi-finalists for the 2026 Future First Citizen Awards. A release from the Roseburg High School Foundation said the outstanding students will share $26,000 in scholarship money, with the winner earning $10,000 toward tuition at the college of their choice. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

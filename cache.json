@@ -294,36 +294,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201148/Official-Portrait-Congressman-Cliff-Bentz-OR-02-WEBSITE-e1682366937454.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143466",
-          "author": "Kyle Bailey",
-          "description": "February 12, 2026 3:50 a.m. On Wednesday, Republican State Senator David Brock Smith of Port Orford, vice-chair of the Senate Committee on Energy and Environment, condemned the passage of Senate Bill 1541, known as the “Climate Superfund” bill, warning that it will increase costs for working families across Oregon. The legislation passed out of committee...",
-          "link": "https://kqennewsradio.com/2026/02/12/senator-brock-smith-condemns-passage-of-climate-superfund-bill/?utm_source=rss&utm_medium=rss&utm_campaign=senator-brock-smith-condemns-passage-of-climate-superfund-bill",
-          "publishedOn": "2026-02-12T11:45:24.000Z",
-          "wordCount": 1889,
-          "title": "SENATOR BROCK SMITH CONDEMNS PASSAGE OF “CLIMATE SUPERFUND” BILL",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143464",
-          "author": "Kyle Bailey",
-          "description": "February 12, 2026 3:40 a.m.  Stay up to date on all that’s been happening at the City of Roseburg with the Winter 2026 City Connection e-newsletter, which is now available. A city release said the online newsletter shares the latest information from city departments – helping residents stay connected with their hometown. Inside, you can...",
-          "link": "https://kqennewsradio.com/2026/02/12/winter-2026-city-connection-e-newsletter-now-online/?utm_source=rss&utm_medium=rss&utm_campaign=winter-2026-city-connection-e-newsletter-now-online",
-          "publishedOn": "2026-02-12T11:24:13.000Z",
-          "wordCount": 1720,
-          "title": "WINTER 2026 CITY CONNECTION E-NEWSLETTER NOW ONLINE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20231218104044/Public-Safety-Ctr-3-9-20-23-scaled.webp"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143461",
-          "author": "Kyle Bailey",
-          "description": "February 12, 2026 3:30 a.m.  Five Roseburg High School seniors have been chosen as the semi-finalists for the 2026 Future First Citizen Awards. A release from the Roseburg High School Foundation said the outstanding students will share $26,000 in scholarship money, with the winner earning $10,000 toward tuition at the college of their choice. The...",
-          "link": "https://kqennewsradio.com/2026/02/12/rhs-foundation-names-future-first-citizen-semi-finalists/?utm_source=rss&utm_medium=rss&utm_campaign=rhs-foundation-names-future-first-citizen-semi-finalists",
-          "publishedOn": "2026-02-12T11:19:58.000Z",
-          "wordCount": 1750,
-          "title": "RHS FOUNDATION NAMES FUTURE FIRST CITIZEN SEMI-FINALISTS",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260212101921/RHSFFFCSavetheDate-e1770895177712.webp"
         }
       ]
     },
@@ -477,6 +447,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69928de93934940001d59d60",
+          "author": "Joseph Ziegler",
+          "description": "A Winter Weather Advisory and Winter Storm Warning are in effect for central Douglas County from late Monday through Thursday. Valley areas including Roseburg could see light snow, while higher elevations may get heavy accumulations. Travel impacts are likely, especially Tuesday.",
+          "link": "https://www.theroseburgreceiver.com/winter-weather-advisory-storm-warning-issued-for-douglas-county-as-snow-levels-drop-this-week/",
+          "publishedOn": "2026-02-16T03:27:26.000Z",
+          "wordCount": 2616,
+          "title": "Winter Weather Advisory, Storm Warning issued for Douglas County as snow levels drop this week",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/WeatherStory4--1-.png"
+        },
+        {
           "id": "698f5aa73934940001d59cf1",
           "author": "Joseph Ziegler",
           "description": "Roseburg police made multiple arrests Feb. 12–13 including DUII cases, several warrant arrests, harassment, and prohibited camping enforcement. Incidents ranged from traffic stops and disturbances to a parole absconding arrest at the VA, according to the latest city police logs.",
@@ -565,16 +545,6 @@
           "wordCount": 2756,
           "title": "Police Log: February 11, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/police_lights2-8.jpg"
-        },
-        {
-          "id": "698de2f83934940001d598ff",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/february-12-2026/",
-          "publishedOn": "2026-02-12T14:43:19.000Z",
-          "wordCount": 4027,
-          "title": "February 12, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/The-Morning-Scoop-8.png"
         }
       ]
     },
