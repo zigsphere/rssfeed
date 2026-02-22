@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-22T13:38:42.242Z</updated>
+    <updated>2026-02-22T16:21:05.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -497,6 +497,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Police Log: February 18, 2026]]></title>
+        <id>69973c6616611600017a19e7</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-february-18-2026/"/>
+        <updated>2026-02-19T16:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported multiple arrests and citations including warrants, trespass, probation and stalking order violations, a non-injury crash on NE Stephens Street, driving while suspended, and drinking in public, according to the latest department activity logs.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Police Log: February 19, 2026]]></title>
         <id>69973c6616611600017a19e7</id>
         <link href="https://www.theroseburgreceiver.com/police-logs/police-log-february-19-2026/"/>
@@ -624,16 +634,6 @@
         <summary type="html"><![CDATA[February 19, 2026 2:50 a.m.  A graduate phase participant in the H.O.P.E. Drug Court hopes to make a positive impact on the Roseburg community through a service initiative called Thriving for Growth. The project focuses on beautification, sustainability, and community wellness through hands-on volunteer efforts. A Douglas County Circuit Court release said as part of...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Both school defendants conditionally released]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/431a9efa-c7ed-4265-add8-0abcbb46cb65</id>
-        <link href="https://www.nrtoday.com/news/court/both-school-defendants-conditionally-released/article_431a9efa-c7ed-4265-add8-0abcbb46cb65.html"/>
-        <updated>2026-02-18T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Both employees of the Roseburg School District arrested last week were conditionally released Feb. 13 from the Douglas County Jail, after being arraigned in Douglas County Circuit Court by Presiding Judge Kathleen Johnson.]]></summary>
-        <author>
-            <name>PATRICK MOORE The News-Review</name>
         </author>
     </entry>
 </feed>
