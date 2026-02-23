@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143893",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Tim Freeman talks about changes from the Department of the Interior that will impact the O&C timberlands in the state, and how that will affect finances going to county governments.",
+          "link": "https://kqennewsradio.com/2026/02/23/inside-douglas-county-02-23-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-02-23-26",
+          "publishedOn": "2026-02-23T21:15:04.000Z",
+          "wordCount": 1648,
+          "title": "INSIDE DOUGLAS COUNTY 02.23.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260223202902/IDC-02-23-26-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260223201446/Freeman-3.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143889",
           "author": "Kyle Bailey",
           "description": "February 23, 2026 11:00 a.m. A Flood Watch is in effect from 10:00 p.m. Monday evening through 10:00 p.m. Wednesday evening for a wide area of southern Oregon. Forecasters at the National Weather Service in Medford said flooding caused by excessive rainfall and snowmelt is possible. The Watch area includes western and central Douglas County...",
@@ -369,36 +384,6 @@
           "wordCount": 1890,
           "title": "COMMISSIONERS CONGRATULATE KURTZ FOR FOUR CHAPLAINS AWARD",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260220103259/02-18-26KurtzwithFourChaplainWinners-scaled-e1771587194465.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143780",
-          "author": "Kyle Bailey",
-          "description": "February 20, 2026 3:05 a.m.  Roseburg Schools will host its third and final early childhood literacy event of the season on March 9th as part of the district’s grant-funded efforts intended to enhance literacy development across the community. A district release said all Roseburg-area families with children ages 2 to 4 are invited to sign...",
-          "link": "https://kqennewsradio.com/2026/02/20/roseburg-families-invited-to-final-early-literacy-event/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-families-invited-to-final-early-literacy-event",
-          "publishedOn": "2026-02-20T11:26:47.000Z",
-          "wordCount": 1705,
-          "title": "ROSEBURG FAMILIES INVITED TO FINAL EARLY LITERACY EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251222101120/NEW-Roseburg-Wide-logo-transparent-background-scaled-e1766401947697.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143777",
-          "author": "Kyle Bailey",
-          "description": "February 20, 2026 3:05 a.m.  The Celebration of Literacy 2026 is having its signature event on Saturday at Wildlife Safari. In its 25th year, the annual series of events is held to promote reading. It is presented by the Altrusa Club of Roseburg and the Umpqua Literacy Council. This year’s theme is: “Once Upon a...",
-          "link": "https://kqennewsradio.com/2026/02/20/celebrate-literacy-at-wilflife-safari-happening-on-saturday/?utm_source=rss&utm_medium=rss&utm_campaign=celebrate-literacy-at-wilflife-safari-happening-on-saturday",
-          "publishedOn": "2026-02-20T11:23:13.000Z",
-          "wordCount": 1687,
-          "title": "CELEBRATE LITERACY AT WILFLIFE SAFARI HAPPENING ON SATURDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260220102212/COLPoster-e1771586548730.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143774",
-          "author": "Kyle Bailey",
-          "description": "February 20, 2025 2:50 a.m.  A H.O.P.E. Drug Court graduate phase participant is giving back through the Fresh Start Project, hosting new dates for a community carwash to raise funds for local Oxford Housing, a vital resource for individuals rebuilding their lives in recovery. The carwashes will take place this Sunday, February 22nd, and Sunday,...",
-          "link": "https://kqennewsradio.com/2026/02/20/fresh-start-project-supports-oxford-housing-new-carwash-dates/?utm_source=rss&utm_medium=rss&utm_campaign=fresh-start-project-supports-oxford-housing-new-carwash-dates",
-          "publishedOn": "2026-02-20T11:16:05.000Z",
-          "wordCount": 1813,
-          "title": "FRESH START PROJECT SUPPORTS OXFORD HOUSING: NEW CARWASH DATES",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260220101533/Fresh-Start-Carwash-New-Dates-e1771586147373.jpg"
         }
       ]
     },
