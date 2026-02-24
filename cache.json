@@ -424,6 +424,56 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ffd06c09-64d8-4e51-a4cd-cedfdfe1281e",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "REEDSPORT — City of Reedsport staff were notified of a sewage spill from a manhole in the 1400 block of Hawthorne Avenue on Monday.",
+          "link": "https://www.nrtoday.com/briefs/reedsport-announces-sewage-spill/article_ffd06c09-64d8-4e51-a4cd-cedfdfe1281e.html",
+          "publishedOn": "2026-02-24T19:21:00.000Z",
+          "wordCount": 12513,
+          "title": "Reedsport announces sewage spill",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f36fd817-2074-4d60-8d5c-abbcb40a01b0",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For nearly 60 years, Sherm's Markets has been locally owned and operated by the Olsrud family. Now, the company's days as a family-owned affair may be coming to a close.",
+          "link": "https://www.nrtoday.com/business/sherms-markets-plans-sale-of-southern-oregon-grocery-stores/article_f36fd817-2074-4d60-8d5c-abbcb40a01b0.html",
+          "publishedOn": "2026-02-24T17:34:00.000Z",
+          "wordCount": 12917,
+          "title": "Sherm's Markets plans sale of Southern Oregon grocery stores",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ec/2ec6161d-8f34-47e6-88b0-6b0686a2cd07/5f90c9a987525.image.jpg?resize=300%2C209",
+            "length": "308545",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ec/2ec6161d-8f34-47e6-88b0-6b0686a2cd07/5f90c9a987525.image.jpg?resize=300%2C209"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e36aebdb-b637-48a0-a98d-b7edadedf5ab",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "A ribbon-cutting ceremony will be held next week for Roseburg’s new $2.5 million outdoor tennis and pickleball facility.",
+          "link": "https://www.nrtoday.com/news/local/grand-opening-set-for-tennis-pickleball-courts/article_e36aebdb-b637-48a0-a98d-b7edadedf5ab.html",
+          "publishedOn": "2026-02-24T17:30:00.000Z",
+          "wordCount": 12914,
+          "title": "Grand opening set for tennis, pickleball courts",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/05/e05a95c7-aa17-4dbb-a4d9-ec898c03da56/68f90de32faa7.image.jpg?resize=300%2C200",
+            "length": "406219",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/05/e05a95c7-aa17-4dbb-a4d9-ec898c03da56/68f90de32faa7.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/79239e24-715d-4aac-834b-cef1b575c873",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "CANYONVILLE — Oregon Department of Transportation announced that the Canyonville Driver and Motor Services (DMV) office will be closed Tuesday due to staffing.",
+          "link": "https://www.nrtoday.com/briefs/canyonville-dmv-closed-tuesday/article_79239e24-715d-4aac-834b-cef1b575c873.html",
+          "publishedOn": "2026-02-24T17:28:00.000Z",
+          "wordCount": 12486,
+          "title": "Canyonville DMV closed Tuesday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7bfaa7ba-fcb6-4053-8d50-e26a448e18b1",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "Just after coming out of a winter storm warning this weekend, Douglas County is now facing another potential bout of severe weather as the National Weather Service (NWS) has issued a flood watch advisory for parts of Southern Oregon.",
@@ -451,6 +501,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "699e0b5716611600017a20c3",
+          "author": "Joseph Ziegler",
+          "description": "Diamond Lake’s tubing hill will be closed this weekend after rain since Sunday created ponds at the bottom of the hill. Operators say it will take a significant snow event to reopen, and updates will be posted on their page.",
+          "link": "https://www.theroseburgreceiver.com/diamond-lake-tubing-hill-closes-for-the-weekend-after-rain/",
+          "publishedOn": "2026-02-24T20:38:33.000Z",
+          "wordCount": 2379,
+          "title": "Diamond Lake Tubing Hill Closes for the Weekend After Rain",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/diamond_lake_pic.jpg"
+        },
+        {
+          "id": "699e08c616611600017a20ad",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg High School Foundation will host Scholarship Night and Future First Citizen on Thursday, March 12, 2026, at RHS. Social hour starts at 5:30 p.m., followed by a 6:30 p.m. recognition program in the Rose Theater and a reception.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-high-school-foundation-sets-march-12-celebration-for-scholarships-future-first-citizen/",
+          "publishedOn": "2026-02-24T20:24:52.000Z",
+          "wordCount": 2476,
+          "title": "Roseburg High School Foundation Sets March 12 Celebration for Scholarships, Future First Citizen",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/Save_the_date.webp"
+        },
         {
           "id": "699ddd9516611600017a2095",
           "author": "Joseph Ziegler",
