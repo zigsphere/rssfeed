@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-23T23:28:48.354Z</updated>
+    <updated>2026-02-24T04:11:44.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CITY OF REEDSPORT ANNOUNCES SEWAGE SPILL]]></title>
+        <id>https://kqennewsradio.com/?p=143900</id>
+        <link href="https://kqennewsradio.com/2026/02/23/city-of-reedsport-announces-sewage-spill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-of-reedsport-announces-sewage-spill"/>
+        <updated>2026-02-24T00:01:35.000Z</updated>
+        <summary type="html"><![CDATA[February 23, 2026 4:00 p.m. Covering coastal Douglas County: City of Reedsport staff were notified of a sewage spill from a manhole in the 1400 block of Hawthorne Avenue on Monday. Public Works Director Kim Clardy said wastewater staff responded to investigate and determined the spill was highly diluted and caused by an excessive amount...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 02.23.26]]></title>
         <id>https://kqennewsradio.com/?p=143893</id>
@@ -467,16 +477,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FREEZING FOG ADVISORY THROUGH 9:00 A.M. FRIDAY]]></title>
-        <id>https://kqennewsradio.com/?p=143796</id>
-        <link href="https://kqennewsradio.com/2026/02/20/freezing-fog-advisory-through-900-a-m-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=freezing-fog-advisory-through-900-a-m-friday"/>
-        <updated>2026-02-20T16:01:51.000Z</updated>
-        <summary type="html"><![CDATA[February 20, 2026 8:00 a.m.  A Freezing Fog Advisory is in effect until 9:00 a.m. Friday morning for much of southern Oregon. Forecasters at the National Weather Service in Medford said visibility as low as one quarter mile in freezing fog is forecast. The Advisory area includes the Umpqua Basin, Illinois Valley, lower Rogue Valley...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thrilling reads for exciting times]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/5c57274d-b26d-4363-b689-7d3ed21de825</id>
         <link href="https://www.nrtoday.com/a_and_e/thrilling-reads-for-exciting-times/article_5c57274d-b26d-4363-b689-7d3ed21de825.html"/>
@@ -507,16 +507,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roseburg Schools To Host Final Early Literacy Night For Young Families March 9]]></title>
-        <id>6998741216611600017a1b9c</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-schools-to-host-final-early-literacy-night-for-young-families-march-9/"/>
-        <updated>2026-02-20T14:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Schools will host its final early literacy night March 9 at Rose Elementary for families with children ages 2–4. The free event includes storytelling, hands-on activities and take-home materials for early readers. Registration is required and space is limited.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Respected and beloved: the life of Terry Lea Deane]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/b36d12b0-67a7-440b-b17f-0feb517b8987</id>
         <link href="https://www.nrtoday.com/life/respected-and-beloved-the-life-of-terry-lea-deane/article_b36d12b0-67a7-440b-b17f-0feb517b8987.html"/>
@@ -524,56 +514,6 @@
         <summary type="html"><![CDATA[Terry Lea Deane, or “Grandma Terry” to her family, doted on her great-grandkids, was a jokester with a contagious laugh, and didn’t go anywhere without her lapdog Sadie.]]></summary>
         <author>
             <name>Scott Carroll The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 20, 2026]]></title>
-        <id>69986eaf16611600017a1a16</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/february-20-2026/"/>
-        <updated>2026-02-20T14:43:42.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORE TYPICAL WEATHER RETURNING TO THE UMPQUA VALLEY]]></title>
-        <id>https://kqennewsradio.com/?p=143792</id>
-        <link href="https://kqennewsradio.com/2026/02/20/more-typical-weather-returning-to-the-umpqua-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=more-typical-weather-returning-to-the-umpqua-valley"/>
-        <updated>2026-02-20T12:10:03.000Z</updated>
-        <summary type="html"><![CDATA[February 20, 2025 4:10 a.m.   More typical weather for this time of year is returning to the Umpqua Valley starting this weekend. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that means higher snow levels with wind picking up on Saturday. Rain is slated to return to...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MISSING PERSON LOCATED IN THE AZALEA AREA]]></title>
-        <id>https://kqennewsradio.com/?p=143790</id>
-        <link href="https://kqennewsradio.com/2026/02/20/missing-person-located-in-the-azalea-area/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=missing-person-located-in-the-azalea-area"/>
-        <updated>2026-02-20T11:50:40.000Z</updated>
-        <summary type="html"><![CDATA[February 20, 2026 3:50 a.m.  A missing Canyonville woman has been located. On Thursday, the Douglas County Sheriff’s Office announced that 22-year-old Hannah Elizabeth Olsen had been reported missing after her leaving her home on foot Wednesday evening.  Olsen had last been seen at her residence in the area of Northeast Canyon Drive at approximately...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOCC ENCOURAGED BY INTERIOR’S ACTION TO REVISE O&C RESOURCE PLAN]]></title>
-        <id>https://kqennewsradio.com/?p=143787</id>
-        <link href="https://kqennewsradio.com/2026/02/20/aocc-encouraged-by-interiors-action-to-revise-oc-resource-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aocc-encouraged-by-interiors-action-to-revise-oc-resource-plan"/>
-        <updated>2026-02-20T11:37:20.000Z</updated>
-        <summary type="html"><![CDATA[February 20, 2026 3:40 a.m.  The Association of O&C Counties President Tim Freeman is excited that the U.S. Department of the Interior has issued a “Notice of Intent” to initiate the development of a revised Bureau of Land Management Resource Management Plan governing the 2.5 million acres of O&C timberlands in western Oregon. Freeman said,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMISSIONERS CONGRATULATE KURTZ FOR FOUR CHAPLAINS AWARD]]></title>
-        <id>https://kqennewsradio.com/?p=143782</id>
-        <link href="https://kqennewsradio.com/2026/02/20/commissioners-congratulate-kurtz-for-four-chaplains-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commissioners-congratulate-kurtz-for-four-chaplains-award"/>
-        <updated>2026-02-20T11:33:43.000Z</updated>
-        <summary type="html"><![CDATA[February 20, 2026 3:30 a.m.  Douglas County Commissioners Tom Kress, Chris Boice, and Tim Freeman have congratulated Douglas County Human Resources Director Michael Kurtz as the latest recipient of the Four Chaplains Legion of Honor award. A county release said Kurtz was surprised with the award at a special presentation on Wednesday at the Board...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
     <entry>
