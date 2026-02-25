@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-25T19:45:50.679Z</updated>
+    <updated>2026-02-25T23:22:34.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 02.25.26]]></title>
+        <id>https://kqennewsradio.com/?p=144002</id>
+        <link href="https://kqennewsradio.com/2026/02/25/inside-douglas-county-02-25-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-02-25-26"/>
+        <updated>2026-02-25T21:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Representative Virgil Osborne has an update on current issues during the short session of the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL TWO PEOPLE AFTER ALLEGED DUII INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=144000</id>
