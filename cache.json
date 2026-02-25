@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=143951",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Emma Arndt have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/02/25/true-wealth-02-24-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-02-24-26",
+          "publishedOn": "2026-02-25T01:12:25.000Z",
+          "wordCount": 1633,
+          "title": "TRUE WEALTH 02.24.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260225000259/TWR-02-24-26-.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=143946",
           "author": "Kyle Bailey",
           "description": "February 24, 2026 10:55 a.m.  Tuesday mid-morning the National Weather Service in Medford pulled the Flood Watch which had been in place for a wide area of southern Oregon. Forecasters told News Radio 93-9 FM and 1240 KQEN that it appears the heaviest rain of the current storm system is over. Forecasters said just light...",
@@ -501,6 +516,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "699e5e4716611600017a211b",
+          "author": "Joseph Ziegler",
+          "description": "Sherm’s Thunderbird Markets confirmed plans to sell its four Southern Oregon grocery stores and a Medford warehouse as part of a succession plan. Leadership said the goal is to find a buyer who will keep stores operating as they have for years, and that it’s “business as usual” for now.",
+          "link": "https://www.theroseburgreceiver.com/sherms-thunderbird-markets-inc-family-confirms-plan-to-sell-four-stores-and-medford-warehouse/",
+          "publishedOn": "2026-02-25T02:32:05.000Z",
+          "wordCount": 2760,
+          "title": "Sherm’s Thunderbird Markets, Inc. Family Confirms Plan to Sell Four Stores and Medford Warehouse",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/02/sherms.png"
+        },
+        {
+          "id": "699e59f216611600017a2102",
+          "author": "Joseph Ziegler",
+          "description": "An Oregon State Police traffic stop on northbound I-5 near milepost 168 by Cottage Grove just before 11 a.m. Feb. 21 led to the seizure of 40.5 pounds of meth, found in 40 resealable bags inside a duffel bag in the trunk, police said.",
+          "link": "https://www.theroseburgreceiver.com/traffic-stop-near-cottage-grove-ends-with-40-5-pounds-of-meth-seized/",
+          "publishedOn": "2026-02-25T02:10:41.000Z",
+          "wordCount": 2432,
+          "title": "Traffic Stop Near Cottage Grove Ends With 40.5 Pounds of Meth Seized",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/meth.jpg"
+        },
+        {
+          "id": "699e553616611600017a20ec",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police arrested a 25-year-old man after a reported disturbance at the Idle Hour late Feb. 20. Officers said the victim had red marks on her neck and her Volkswagen Beetle was damaged. He was lodged at corrections on harassment and criminal mischief charges.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-police-arrest-man-after-reported-disturbance-at-idle-hour/",
+          "publishedOn": "2026-02-25T01:50:38.000Z",
+          "wordCount": 2421,
+          "title": "Man Grabbed Woman by the Neck Outside Idle Hour, Arrest Made",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/02/police_car-4.webp"
+        },
         {
           "id": "699e0b5716611600017a20c3",
           "author": "Joseph Ziegler",
