@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144048",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Ed Diehl talks about his campaign for Governor and why he wants to lead Oregon.",
+          "link": "https://kqennewsradio.com/2026/02/26/inside-douglas-county-02-26-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-02-26-26",
+          "publishedOn": "2026-02-26T21:04:00.000Z",
+          "wordCount": 1641,
+          "title": "INSIDE DOUGLAS COUNTY 02.26.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260226200229/IDC-02-26-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251118200646/Ed-Diehl-photo-hi-res-Bio-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144043",
           "author": "Kyle Bailey",
           "description": "February 26, 2026 11:00 a.m.  Roseburg Police cited a man for a reported DUII incident on Wednesday night. An RPD report said at 11:45 p.m. an officer stopped the 37-year-old man in the 2100 block of Northeast Vine Street when he consistently drifted within his lane after leaving a nearby establishment. At some point the...",
@@ -699,26 +714,6 @@
           "wordCount": 1746,
           "title": "PINE STREET WATER MAIN REPLACEMENT PROJECT CONTINUES",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20241008090958/sign-scaled.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143847",
-          "author": "Kyle Bailey",
-          "description": "February 23, 2026 3:05 a.m.  City of Roseburg Public Works crews began work last week to remove all parking meters and install new parking signs downtown. A city release said the project began on February 18th on Southeast Kane Street and is moving west across downtown to Southeast Sheridan Street. Street crews are taking out...",
-          "link": "https://kqennewsradio.com/2026/02/23/parking-meters-being-removed-new-parking-signs-going-in/?utm_source=rss&utm_medium=rss&utm_campaign=parking-meters-being-removed-new-parking-signs-going-in",
-          "publishedOn": "2026-02-23T11:17:01.000Z",
-          "wordCount": 1934,
-          "title": "PARKING METERS BEING REMOVED, NEW PARKING SIGNS GOING IN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260223101628/Gold-Hued-Lights-12-10-25-scaled-e1771845405856.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=143844",
-          "author": "Kyle Bailey",
-          "description": "February 23, 2026 2:50 a.m. Benefit Dinner. The event will be on Saturday, March 14th at the Douglas County Fairgrounds. Doors open at 4:30 p.m. The evening includes a social mixer, buffet dinner, and a dessert dash. There will also be live and silent auctions, inspiring stories and the return of the popular Golden Cork...",
-          "link": "https://kqennewsradio.com/2026/02/23/final-seats-remaining-for-12th-annual-taste-of-italy-benefit-dinner/?utm_source=rss&utm_medium=rss&utm_campaign=final-seats-remaining-for-12th-annual-taste-of-italy-benefit-dinner",
-          "publishedOn": "2026-02-23T11:05:08.000Z",
-          "wordCount": 1791,
-          "title": "FINAL SEATS REMAINING FOR 12TH ANNUAL TASTE OF ITALY BENEFIT DINNER",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260223100433/taste-of-italy-3-14-2026-invitation_orig-e1771844689900.png"
         }
       ]
     },
