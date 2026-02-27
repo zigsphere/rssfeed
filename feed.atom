@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-02-26T23:22:57.453Z</updated>
+    <updated>2026-02-27T04:06:45.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Showers possible Late Saturday, Early Sunday]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/691f8caf-479b-4a03-85d9-e7b663de9cd4</id>
+        <link href="https://www.kezi.com/news/showers-possible-late-saturday-early-sunday/article_691f8caf-479b-4a03-85d9-e7b663de9cd4.html"/>
+        <updated>2026-02-27T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Same low from last weekend is still hanging out in the Pacific- it will finally move inland and bring a few showers to areas between Eugene, Roseburg and Medford this weekend (2/28), but VERY HIGH snow levels up to 6,000-FT.]]></summary>
+        <author>
+            <name>Holden LeCroy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 02.26.26]]></title>
         <id>https://kqennewsradio.com/?p=144048</id>
@@ -914,96 +924,6 @@
         <summary type="html"><![CDATA[Multiple traffic crashes were reported along with several warrant and parole-violation arrests, multiple DUII cases including a reported hit-and-run, a harassment/criminal mischief arrest, a trespass arrest and several prohibited-camping citations, according to the latest Roseburg police logs.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Water Main Project On SE Pine Street To Resume Feb. 23]]></title>
-        <id>699c6baf16611600017a1e8f</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-water-main-project-on-se-pine-street-to-resume-feb-23/"/>
-        <updated>2026-02-23T15:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Work resumes Feb. 23 on a Roseburg water main upgrade along SE Pine Street between Oak and Sykes. Crews will replace aging pipe, install hydrants and update service lines. One lane will be closed during weekday work hours, with construction expected to continue into early summer.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheese & Thank You Campaign Returns to Douglas County, Serving Up Comfort Food for a Cause]]></title>
-        <id>699c6a7516611600017a1e76</id>
-        <link href="https://www.theroseburgreceiver.com/cheese-thank-you-campaign-returns-to-douglas-county-serving-up-comfort-food-for-a-cause/"/>
-        <updated>2026-02-23T14:57:34.000Z</updated>
-        <summary type="html"><![CDATA[UCAN’s Cheese & Thank You campaign returns this March, with local restaurants across Douglas County donating $2 from featured cheesy menu items to the UCAN Food Bank. A kickoff event with free grilled cheese is set for Feb. 28 in Roseburg to launch the month-long fundraiser.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FISH AND WILDLIFE COMMISSION DENIES CRAB PETITION]]></title>
-        <id>https://kqennewsradio.com/?p=143865</id>
-        <link href="https://kqennewsradio.com/2026/02/23/fish-and-wildlife-commission-denies-crab-petition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fish-and-wildlife-commission-denies-crab-petition"/>
-        <updated>2026-02-23T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[February 23, 2026 6:50 a.m.  On Friday the Oregon Fish and Wildlife Commission voted 6-1 to deny a petition that requested crab fishery rules be modified to further reduce the risk of whale entanglement, while urging the department to continue its planned rulemaking process and engagement with NOAA fisheries to obtain endangered species act coverage....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 23, 2026]]></title>
-        <id>699bce3716611600017a1c85</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/february-23-2026/"/>
-        <updated>2026-02-23T14:36:31.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEAVY RAIN POSSIBLE FOR REGION STARTING MONDAY AFTERNOON]]></title>
-        <id>https://kqennewsradio.com/?p=143860</id>
-        <link href="https://kqennewsradio.com/2026/02/23/heavy-rain-possible-for-region-starting-monday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=heavy-rain-possible-for-region-starting-monday-afternoon"/>
-        <updated>2026-02-23T11:59:08.000Z</updated>
-        <summary type="html"><![CDATA[February 23, 2026 3:50 a.m.  Heavy rain is possible for much of the region from Monday afternoon through Tuesday. A Hydrologic Outlook from the National Weather Service in Medford said a warm sourced atmospheric river, commonly referred to as a Pineapple Express, will likely bring periods of moderate to heavy rain. Forecasters said widespread amounts...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMISSIONERS ISSUE PROCLAMATION FOR SCOUTING AMERICA]]></title>
-        <id>https://kqennewsradio.com/?p=143856</id>
-        <link href="https://kqennewsradio.com/2026/02/23/commissioners-issue-proclamation-for-scouting-america/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commissioners-issue-proclamation-for-scouting-america"/>
-        <updated>2026-02-23T11:34:23.000Z</updated>
-        <summary type="html"><![CDATA[February 23, 2026 3:40 a.m.  Last Wednesday, Douglas County Commissioners Tom Kress, Chris Boice and Tim Freeman issued a proclamation at their weekly business meeting calling upon all citizens of the county to observe February 2026 as Scouting America Month. A county release said Scouting America, formerly known as the Boy Scouts of America, was...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITY COUNCIL TO CONSIDER AGREEMENT FOR SIGNAL IMPROVEMENT PROJECT]]></title>
-        <id>https://kqennewsradio.com/?p=143854</id>
-        <link href="https://kqennewsradio.com/2026/02/23/city-council-to-consider-agreement-for-signal-improvement-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=city-council-to-consider-agreement-for-signal-improvement-project"/>
-        <updated>2026-02-23T11:29:37.000Z</updated>
-        <summary type="html"><![CDATA[February 23, 2026 3:30 a.m.  The Roseburg City Council will consider authorizing the city manager to execute an agreement with the Oregon Department of Transportation for a signal improvement project as part of its meeting on Monday night. In October of 2023 the council authorized the city manager to enter into an IGA with ODOT...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINE STREET WATER MAIN REPLACEMENT PROJECT CONTINUES]]></title>
-        <id>https://kqennewsradio.com/?p=143852</id>
-        <link href="https://kqennewsradio.com/2026/02/23/pine-street-water-main-replacement-project-continues-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pine-street-water-main-replacement-project-continues-3"/>
-        <updated>2026-02-23T11:26:11.000Z</updated>
-        <summary type="html"><![CDATA[February 23, 2026 3:20 a.m.  A water main replacement project is resuming this week along Southeast Pine Street between Southeast Oak Avenue and Southeast Sykes Avenue in Roseburg. A city release said a project that began in September has resumed to replace about 3,200 linear feet of 6-inch-diameter water main with new 8-inch-diameter pipe. The...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fremont Middle School in spotlight over student injury claims]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/9e210c2b-b18d-4c63-baa3-5147d3aad2c4</id>
-        <link href="https://www.kezi.com/news/local/fremont-middle-school-in-spotlight-over-student-injury-claims/article_9e210c2b-b18d-4c63-baa3-5147d3aad2c4.html"/>
-        <updated>2026-02-23T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The criminal case involving injuries to two special needs students at Fremont Middle School, allegedly caused by instructional assistants, has been dropped, but parents remain concerned about transparency and are considering civil legal action against the Roseburg School District.]]></summary>
-        <author>
-            <name>Rachel McConaghie</name>
         </author>
     </entry>
 </feed>
