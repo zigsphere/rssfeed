@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-02T19:32:22.796Z</updated>
+    <updated>2026-03-02T23:19:23.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 03.02.26]]></title>
+        <id>https://kqennewsradio.com/?p=144157</id>
+        <link href="https://kqennewsradio.com/2026/03/02/inside-douglas-county-03-02-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-03-02-26"/>
+        <updated>2026-03-02T21:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Live from Salem, State Representative Court Boice with an update on legislation as the short session is in its final days.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Arrested After Reported Stick Assault At Stewart Park]]></title>
+        <id>69a5e5a716611600017a29c5</id>
+        <link href="https://www.theroseburgreceiver.com/man-arrested-after-reported-stick-assault-at-stewart-park/"/>
+        <updated>2026-03-02T19:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Man arrested after police said a man sleeping under the Stewart Park pavilion was struck in the head with a large stick. Officers reported the victim suffered a laceration and was transported to Mercy Medical Center. The suspect fled, was tased and lodged at corrections.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man presumed drowned after South Umpqua River rescue attempt]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/733aff11-6283-4d92-b19b-d9b1626323eb</id>
+        <link href="https://www.kezi.com/news/man-presumed-drowned-after-south-umpqua-river-rescue-attempt/article_733aff11-6283-4d92-b19b-d9b1626323eb.html"/>
+        <updated>2026-03-02T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[ROSEBURG, Ore. - A man is presumed drowned after an emergency incident in the South Umpqua River on Friday.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Police Log: February 27 - March 2, 2026]]></title>
         <id>69a5e0f916611600017a29b1</id>

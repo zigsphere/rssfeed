@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144157",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Court Boice with an update on legislation as the short session is in its final days.",
+          "link": "https://kqennewsradio.com/2026/03/02/inside-douglas-county-03-02-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-02-26",
+          "publishedOn": "2026-03-02T21:06:26.000Z",
+          "wordCount": 1636,
+          "title": "INSIDE DOUGLAS COUNTY 03.02.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260302200501/IDC-03-02-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144154",
           "author": "Kyle Bailey",
           "description": "March 2, 2026 11:00 a.m.  Roseburg Police charged a man with harassment on Sunday afternoon. An RPD report said at 2:40 p.m. officers responded to the 1000 block of Southeast Main Street after a caller said there had been a disturbance. During the investigation, it was determined that the 68-year-old had bit a victim on...",
@@ -517,6 +532,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69a5e5a716611600017a29c5",
+          "author": "Joseph Ziegler",
+          "description": "Man arrested after police said a man sleeping under the Stewart Park pavilion was struck in the head with a large stick. Officers reported the victim suffered a laceration and was transported to Mercy Medical Center. The suspect fled, was tased and lodged at corrections.",
+          "link": "https://www.theroseburgreceiver.com/man-arrested-after-reported-stick-assault-at-stewart-park/",
+          "publishedOn": "2026-03-02T19:35:09.000Z",
+          "wordCount": 2520,
+          "title": "Man Arrested After Reported Stick Assault At Stewart Park",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/police_car.webp"
+        },
+        {
           "id": "69a5e0f916611600017a29b1",
           "author": "Joseph Ziegler",
           "description": "Roseburg police reported arrests and citations Feb. 27–Mar. 2, including multiple DUII arrests, a Stewart Park assault, theft and trespass cases, warrants, and probation/parole violations, according to City of Roseburg Police Logs.",
@@ -583,6 +608,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/733aff11-6283-4d92-b19b-d9b1626323eb",
+          "author": "News Staff",
+          "description": "ROSEBURG, Ore. - A man is presumed drowned after an emergency incident in the South Umpqua River on Friday.",
+          "link": "https://www.kezi.com/news/man-presumed-drowned-after-south-umpqua-river-rescue-attempt/article_733aff11-6283-4d92-b19b-d9b1626323eb.html",
+          "publishedOn": "2026-03-02T19:28:00.000Z",
+          "wordCount": 7848,
+          "title": "Man presumed drowned after South Umpqua River rescue attempt",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/d6/fd64f36a-e43b-4efb-9eb5-812fcac6d059/69a5e88c49e94.image.jpg?resize=300%2C400",
+            "length": "251785",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/d6/fd64f36a-e43b-4efb-9eb5-812fcac6d059/69a5e88c49e94.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/b73ebc09-bede-4fd4-b435-8b55b8753f5d",
           "author": "Rachel McConaghie",
