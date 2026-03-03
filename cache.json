@@ -289,6 +289,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/04735634-25ca-4c36-b89c-aeeda95e4843",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "WINSTON — Boone Pearson said he began arm wrestling for fun when at bars, then he met people who showed him the technical side of the game and he got hooked.",
+          "link": "https://www.nrtoday.com/news/environment/roseburg-armwrestling-club-hosts-bronze-crown-first-in-triple-crown-series/article_04735634-25ca-4c36-b89c-aeeda95e4843.html",
+          "publishedOn": "2026-03-03T15:00:00.000Z",
+          "wordCount": 14039,
+          "title": "Roseburg Armwrestling Club hosts Bronze Crown, first in Triple Crown Series",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/c4/0c4091c8-1946-4446-a825-6d64528b4172/69a55c3614e8d.image.jpg?resize=300%2C200",
+            "length": "332079",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/c4/0c4091c8-1946-4446-a825-6d64528b4172/69a55c3614e8d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/61731186-e050-4025-936a-bddc624b4819",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "WINCHESTER — Rebecca Ngigi said she walked into the Miss Douglas County Scholarship program expecting to wear pretty dresses and dedicate her time to serving the community and as of Sunday she is even more involved.",
@@ -302,31 +317,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/70/e7017d17-e93d-4890-95b9-b31801979936/69a57573953d9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/4053e863-5f86-430c-bfcc-022d3612aef8",
-          "author": "PAUL MORGAN For The News-Review",
-          "description": "Twilight briefly beckons a gathering of four planets as March opens. Brilliant Venus is easy to spot low in the west. Next, scan up to the left to spy dimmer Saturn. Quickly sweep with your binoculars to try and find…",
-          "link": "https://www.nrtoday.com/life/prepare-for-a-total-lunar-eclipse-in-march/article_4053e863-5f86-430c-bfcc-022d3612aef8.html",
-          "publishedOn": "2026-02-27T17:49:00.000Z",
-          "wordCount": 13153,
-          "title": "Prepare for a total lunar eclipse in March",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/69bc6993-d2dd-41c8-84b2-ad14ca87e289",
-          "author": "Chris Rusch Master GardnerChris Rusch Master Gardner",
-          "description": "Question: My daffodils and crocus are blooming. I am so excited about getting my garden started. What are some ideas for early season planting? Answer: With spring just around the corner, it is time to get serious and get your…",
-          "link": "https://www.nrtoday.com/life/gardening-activities-for-march/article_69bc6993-d2dd-41c8-84b2-ad14ca87e289.html",
-          "publishedOn": "2026-02-27T17:30:00.000Z",
-          "wordCount": 14369,
-          "title": "Gardening activities for March",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/64/e64f09b1-7ac1-4234-8930-878866f4a599/699cc553ed223.image.jpg?resize=300%2C450",
-            "length": "261799",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/64/e64f09b1-7ac1-4234-8930-878866f4a599/699cc553ed223.image.jpg?resize=300%2C450"
         }
       ]
     },
@@ -341,6 +331,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69a6f05916611600017a2a0b",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-3-2026/",
+          "publishedOn": "2026-03-03T14:45:16.000Z",
+          "wordCount": 5223,
+          "title": "March 3, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-1.png"
+        },
         {
           "id": "69a5a92716611600017a297a",
           "author": "Joseph Ziegler",
