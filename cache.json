@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144215",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2026 3:15 p.m.  Divers from the Douglas County Sheriff’s Office Dive Team have recovered the body of the man who drowned in the South Umpqua River last Friday. A DCSO release said on Monday at approximately 8:00 a.m. deputies and Search and Rescue volunteers began conducting a follow-up search in the South Umpqua...",
+          "link": "https://kqennewsradio.com/2026/03/03/man-who-drowned-in-south-umpqua-river-recovered-and-identified/?utm_source=rss&utm_medium=rss&utm_campaign=man-who-drowned-in-south-umpqua-river-recovered-and-identified",
+          "publishedOn": "2026-03-03T23:16:32.000Z",
+          "wordCount": 1700,
+          "title": "MAN WHO DROWNED IN SOUTH UMPQUA RIVER RECOVERED AND IDENTIFIED",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260302172131/South_Umpqua_Search_2-scaled.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=144212",
+          "author": "Kyle Bailey",
+          "description": "March 3, 2026 1:50 p.m.  A structure fire in the Green District on Monday has been determined to be accidental. Central Douglas Fire & Rescue Fire Marshal Josh Waechter said shortly after 11:00 a.m. crews were dispatched to the fire on Apricot Lane in the Evergreen Village Mobile Home Park, just west of Interstate Five....",
+          "link": "https://kqennewsradio.com/2026/03/03/structure-fire-in-green-district-determined-to-be-accidental/?utm_source=rss&utm_medium=rss&utm_campaign=structure-fire-in-green-district-determined-to-be-accidental",
+          "publishedOn": "2026-03-03T21:50:38.000Z",
+          "wordCount": 1793,
+          "title": "STRUCTURE FIRE IN GREEN DISTRICT DETERMINED TO BE ACCIDENTAL",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303205003/Aprcot-e1772574623683.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=144209",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Governor, Christine Drazan talks about her campaign and why she believes she is the best candidate to replace incumbent Tina Kotek.",
+          "link": "https://kqennewsradio.com/2026/03/03/inside-douglas-county-03-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-03-26",
+          "publishedOn": "2026-03-03T21:08:49.000Z",
+          "wordCount": 1646,
+          "title": "INSIDE DOUGLAS COUNTY 03.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303200644/IDC-03-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251029190811/Newsdrazan-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144207",
           "author": "Kyle Bailey",
           "description": "March 3, 2026 11:00 a.m.  Roseburg Police jailed a man for warrants on Monday afternoon. An RPD report said just before 1:00 p.m. officers contacted the 38-year-old in the 200 block of Southeast Jackson Street. He was found to have two warrants for his arrest. The suspect admitted to having a user amount of fentanyl...",
@@ -411,6 +446,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69a75dc416611600017a2bf4",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg will flush fire hydrants citywide April 1 to June 30, 2026, weekdays from 8 a.m. to 5 p.m. Temporary low pressure or discolored water may occur. Water is safe to drink, but run it until clear before washing clothes or dishes.",
+          "link": "https://www.theroseburgreceiver.com/hydrant-flushing-scheduled-across-roseburg-city-limits-april-1-through-june-30/",
+          "publishedOn": "2026-03-03T22:17:21.000Z",
+          "wordCount": 2369,
+          "title": "Hydrant Flushing Scheduled Across Roseburg City Limits April 1 Through June 30",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Hydrant_Flushing.jpg"
+        },
+        {
+          "id": "69a75c9316611600017a2be0",
+          "author": "Joseph Ziegler",
+          "description": "Firefighters extinguished a structure fire in a single-wide home on Apricot Lane at Evergreen Village Mobile Home Park in Green within about 10 minutes of arrival. Central Douglas Fire & Rescue said the cause was accidental, likely improper cigarette disposal.",
+          "link": "https://www.theroseburgreceiver.com/accidental-cigarette-disposal-blamed-for-green-mobile-home-fire/",
+          "publishedOn": "2026-03-03T22:12:30.000Z",
+          "wordCount": 2486,
+          "title": "Accidental Cigarette Disposal Blamed For Green Mobile Home Fire",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/2601067-219ApricotLnPic-1.jpeg"
+        },
         {
           "id": "69a7153616611600017a2bbb",
           "author": "Joseph Ziegler",
