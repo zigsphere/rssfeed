@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-04T13:52:32.060Z</updated>
+    <updated>2026-03-04T16:34:44.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Earth Day and Energy Fair 2026 Planned in Downtown Roseburg]]></title>
+        <id>69a7965516611600017a2c3e</id>
+        <link href="https://www.theroseburgreceiver.com/earth-day-and-energy-fair-2026-planned-in-downtown-roseburg/"/>
+        <updated>2026-03-04T15:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Earth Day and Energy Fair 2026 is set for Saturday, April 18, 11 a.m. to 4 p.m. on SE Main Street in downtown Roseburg. The free public event will feature exhibits, info tables, kids activities, and sessions on energy, gardening, native plants and more.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 4, 2026]]></title>
+        <id>69a8410a16611600017a2c5f</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-4-2026/"/>
+        <updated>2026-03-04T14:45:05.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY IN EFFECT THROUGH 10:00 P.M. WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=144239</id>
