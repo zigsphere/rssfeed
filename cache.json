@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144264",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Virgle Osborne talks about what is happening during the final days of the short session of the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/03/04/inside-douglas-county-03-04-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-04-26",
+          "publishedOn": "2026-03-04T21:08:22.000Z",
+          "wordCount": 1639,
+          "title": "INSIDE DOUGLAS COUNTY 03.04.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260304200525/IDC-03-04-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144261",
           "author": "Kyle Bailey",
           "description": "March 4, 2026 10:50 a.m.  A Glendale man was jailed by the Douglas County Sheriff’s Office following an alleged escape and resist incident on Tuesday. A DCSO report said at approximately 1:40 p.m. deputies went into a business in the 400 block of Pacific Avenue in Glendale to contact the 52-year-old who another deputy had...",
@@ -661,6 +676,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69a8a82416611600017a2e08",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Forest Products restarted construction March 4, 2026 on its Dillard MDF plant, featuring a Siempelkamp continuous press to make MDF and HDF from wood residuals. The company expects 140+ jobs when operations begin in late 2028.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-reboots-dillard-mdf-project-plans-140-jobs-when-plant-opens/",
+          "publishedOn": "2026-03-04T21:48:14.000Z",
+          "wordCount": 2702,
+          "title": "Roseburg Forest Products Reboots Dillard MDF Project, Plans 140+ Jobs When Plant Opens",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/rfp.png"
+        },
         {
           "id": "69a85e3d16611600017a2deb",
           "author": "Joseph Ziegler",
