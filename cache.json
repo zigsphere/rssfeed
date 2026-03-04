@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144221",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/03/04/true-wealth-03-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-03-03-26",
+          "publishedOn": "2026-03-04T01:09:42.000Z",
+          "wordCount": 1626,
+          "title": "TRUE WEALTH 03.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260304000255/TWR-03-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=144217",
+          "author": "Kyle Bailey",
+          "description": "Roseburg High School theater instructor Troy Pennington talks about their production of, “You’re a Good Man, Charlie Brown”, which continues later this week.",
+          "link": "https://kqennewsradio.com/2026/03/03/morning-conversation-03-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-03-03-26",
+          "publishedOn": "2026-03-03T23:56:16.000Z",
+          "wordCount": 1634,
+          "title": "MORNING CONVERSATION 03.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303225217/AM-CONV-03-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260203101348/YAGMCB-Poster.jpg-e1770117587802.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144215",
           "author": "Kyle Bailey",
           "description": "March 3, 2026 3:15 p.m.  Divers from the Douglas County Sheriff’s Office Dive Team have recovered the body of the man who drowned in the South Umpqua River last Friday. A DCSO release said on Monday at approximately 8:00 a.m. deputies and Search and Rescue volunteers began conducting a follow-up search in the South Umpqua...",
@@ -404,6 +434,31 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6c440259-2a7c-4b4d-8191-e331817cfc5f",
+          "author": "Kalee Paxton and Logan Bennett For The News-Review",
+          "description": "When I was a kid, I loved trips to Kruz Farms. It was where we went every year for a tractor ride to pick out our pumpkins. Sometimes it was for U-picking strawberries or to get produce from the stand.…",
+          "link": "https://www.nrtoday.com/agriculture/you-me-and-the-bees/article_6c440259-2a7c-4b4d-8191-e331817cfc5f.html",
+          "publishedOn": "2026-03-03T18:20:00.000Z",
+          "wordCount": 12954,
+          "title": "You, me and the bees",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/0e/f0e7c1e9-a59d-4097-9321-3bf37f893af6/669199e8f2cd5.image.jpg?resize=300%2C200",
+            "length": "470849",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/0e/f0e7c1e9-a59d-4097-9321-3bf37f893af6/669199e8f2cd5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/194f216a-9d9e-4f9f-98d4-bd54301f4412",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "ROSEBURG — SMART Reading will host a pint night fundraiser on 6-8 p.m. Tuesday at Two Shy Brewing, 1308 NW Park St. in Roseburg.",
+          "link": "https://www.nrtoday.com/briefs/smart-reading-hosts-fundraiser-at-two-shy-brewing/article_194f216a-9d9e-4f9f-98d4-bd54301f4412.html",
+          "publishedOn": "2026-03-03T17:46:00.000Z",
+          "wordCount": 12168,
+          "title": "SMART Reading hosts fundraiser at Two Shy Brewing",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/04735634-25ca-4c36-b89c-aeeda95e4843",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "WINSTON — Boone Pearson said he began arm wrestling for fun when at bars, then he met people who showed him the technical side of the game and he got hooked.",
@@ -446,6 +501,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69a78ed016611600017a2c20",
+          "author": "Joseph Ziegler",
+          "description": "A free public screening of the documentary “HERE. IS. BETTER.” will be held Saturday, March 21, 2026, at noon at the Roseburg Public Library. The event includes a panel discussion moderated by Returning Veterans Project Executive Director Amy Almond-Schmid. Admission is free.",
+          "link": "https://www.theroseburgreceiver.com/free-veteran-mental-health-documentary-screening-set-for-march-21-in-roseburg/",
+          "publishedOn": "2026-03-04T01:49:48.000Z",
+          "wordCount": 2469,
+          "title": "Free Veteran Mental Health Documentary Screening Set For March 21 In Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/hereisbetter.png"
+        },
+        {
+          "id": "69a76cd316611600017a2c08",
+          "author": "Joseph Ziegler",
+          "description": "Body of a man who went under in the South Umpqua River near Portland Avenue on Feb. 27 was recovered March 2 by the Douglas County Sheriff’s Office Dive Team. He was identified as 46-year-old Johnathon Michael Laine of Roseburg. The case remains under investigation as a boating incident.",
+          "link": "https://www.theroseburgreceiver.com/body-recovered-man-identified-after-south-umpqua-river-drowning/",
+          "publishedOn": "2026-03-03T23:22:20.000Z",
+          "wordCount": 2623,
+          "title": "Body Recovered, Man Identified After South Umpqua River Drowning",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/South_Umpqua_Search_1-2.jpg"
+        },
         {
           "id": "69a75dc416611600017a2bf4",
           "author": "Joseph Ziegler",
