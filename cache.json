@@ -689,16 +689,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260302161019/Aki.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=144126",
-          "author": "Kyle Bailey",
-          "description": "March 2, 2026 6:10 a.m.  On Saturday, both of Oregon’s U.S. Senators responded to U.S. military action in Iran. Senator Ron Wyden said, “Donald Trump is unilaterally dragging us into another costly and deadly war in the Middle East that the American people don’t want”. Wyden said, “Trump and Hegseth are putting American lives on...",
-          "link": "https://kqennewsradio.com/2026/03/02/senators-respond-to-u-s-military-action-in-iran/?utm_source=rss&utm_medium=rss&utm_campaign=senators-respond-to-u-s-military-action-in-iran",
-          "publishedOn": "2026-03-02T14:13:20.000Z",
-          "wordCount": 1697,
-          "title": "SENATORS RESPOND TO U.S. MILITARY ACTION IN IRAN",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250819191341/SenatorWyden.jpg"
         }
       ]
     },
@@ -713,6 +703,76 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2ca47fb-9131-4390-93bb-0810118971fd",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "GREEN DISTRICT — A contractor working for the Oregon Department of Transportation (ODOT) has resumed work on the Oregon 42 Lookingglass Creek to I-5 Project.",
+          "link": "https://www.nrtoday.com/briefs/work-resumes-on-oregon-42-lookingglass-creek-to-i-5-project/article_e2ca47fb-9131-4390-93bb-0810118971fd.html",
+          "publishedOn": "2026-03-05T23:04:00.000Z",
+          "wordCount": 12232,
+          "title": "Work resumes on Oregon 42 Lookingglass Creek to I-5 Project",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e916736-5870-45ae-a26f-853306c14aae",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Roseburg Parks and Recreation has put out a call for treescape photos for its 2026 Arbor Day Photo Contest.",
+          "link": "https://www.nrtoday.com/a_and_e/roseburgs-2026-arbor-day-photo-contest-begins-march-12/article_7e916736-5870-45ae-a26f-853306c14aae.html",
+          "publishedOn": "2026-03-05T22:37:00.000Z",
+          "wordCount": 12533,
+          "title": "Roseburg's 2026 Arbor Day Photo Contest begins March 12",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f4/1f456c1b-cc77-41cb-9a51-8982cef746fa/69aa0aab4d6f3.image.jpg?resize=300%2C225",
+            "length": "559662",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/f4/1f456c1b-cc77-41cb-9a51-8982cef746fa/69aa0aab4d6f3.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a6457daf-61f6-425b-8c8e-f5c2cbd08c37",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINCHESTER — The Umpqua Symphony Association will present Fandango! in concert at 3 p.m. Saturday, March 14 at Centerstage Theater on the Umpqua Community College campus.",
+          "link": "https://www.nrtoday.com/a_and_e/umpqua-symphony-association-presents-fandango-on-march-14/article_a6457daf-61f6-425b-8c8e-f5c2cbd08c37.html",
+          "publishedOn": "2026-03-05T22:15:00.000Z",
+          "wordCount": 12201,
+          "title": "Umpqua Symphony Association presents Fandango! on March 14",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5f5eb902-8f1b-4d0c-87fc-78b75b4f051c",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "ROSEBURG — The Roseburg Fire Department will be flushing fire hydrants inside the city limits of Roseburg from April 1 through June 30.",
+          "link": "https://www.nrtoday.com/briefs/roseburg-fire-department-hydrant-flushing-to-begin-april-1/article_5f5eb902-8f1b-4d0c-87fc-78b75b4f051c.html",
+          "publishedOn": "2026-03-05T21:24:00.000Z",
+          "wordCount": 12231,
+          "title": "Roseburg Fire Department hydrant flushing to begin April 1",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6376c8eb-52bd-4dff-9084-397e3bf1ab82",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINSTON — The Bureau of Land Management is replacing a deteriorating culvert and will temporarily close a portion of Rice Creek Road, also known as BLM Road 29-7-24.0, starting on Friday.",
+          "link": "https://www.nrtoday.com/briefs/blm-closing-part-of-rice-creek-road-starting-friday/article_6376c8eb-52bd-4dff-9084-397e3bf1ab82.html",
+          "publishedOn": "2026-03-05T21:21:00.000Z",
+          "wordCount": 12284,
+          "title": "BLM closing part of Rice Creek Road starting Friday",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/27552bdd-7ce5-466b-956d-c5dc87efc73b",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Harvard Medical Park, a campus of medical offices located on West Harvard Avenue in Roseburg, is now under new ownership.",
+          "link": "https://www.nrtoday.com/business/harvard-medical-park-under-new-ownership/article_27552bdd-7ce5-466b-956d-c5dc87efc73b.html",
+          "publishedOn": "2026-03-05T20:38:00.000Z",
+          "wordCount": 12698,
+          "title": "Harvard Medical Park under new ownership",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3f/13f4deae-f674-40f6-a4bd-e4d1ca43e542/5e17c007682d6.image.jpg?resize=300%2C138",
+            "length": "220035",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/3f/13f4deae-f674-40f6-a4bd-e4d1ca43e542/5e17c007682d6.image.jpg?resize=300%2C138"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/402d8d77-98e3-4759-8d2a-7d092b7297c7",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -812,21 +872,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/c4/0c4091c8-1946-4446-a825-6d64528b4172/69a55c3614e8d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/61731186-e050-4025-936a-bddc624b4819",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINCHESTER — Rebecca Ngigi said she walked into the Miss Douglas County Scholarship program expecting to wear pretty dresses and dedicate her time to serving the community and as of Sunday she is even more involved.",
-          "link": "https://www.nrtoday.com/news/education/miss-douglas-county-scholarship-program-crowns-new-titleholders/article_61731186-e050-4025-936a-bddc624b4819.html",
-          "publishedOn": "2026-03-02T15:00:00.000Z",
-          "wordCount": 15211,
-          "title": "Miss Douglas County Scholarship program crowns new titleholders",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/70/e7017d17-e93d-4890-95b9-b31801979936/69a57573953d9.image.jpg?resize=300%2C200",
-            "length": "367559",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/70/e7017d17-e93d-4890-95b9-b31801979936/69a57573953d9.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -1020,16 +1065,6 @@
           "wordCount": 2511,
           "title": "Man Presumed Drowned After Being Swept Downstream In South Umpqua River",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/South_Umpqua_Search_1.jpg"
-        },
-        {
-          "id": "69a51a8016611600017a27ad",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-2-2026/",
-          "publishedOn": "2026-03-02T14:44:38.000Z",
-          "wordCount": 6216,
-          "title": "March 2, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop.png"
         }
       ]
     },
