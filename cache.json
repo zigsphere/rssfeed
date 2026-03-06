@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144380",
+          "author": "Kyle Bailey",
+          "description": "Live from Washington D.C., Second District Congressman Cliff Bentz talks about the situation in Iran, snowpack issues in Oregon, his O&C legislation, and more.",
+          "link": "https://kqennewsradio.com/2026/03/06/inside-douglas-county-03-06-62/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-06-62",
+          "publishedOn": "2026-03-06T21:14:46.000Z",
+          "wordCount": 1641,
+          "title": "INSIDE DOUGLAS COUNTY 03.06.62",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260306201251/IDC-03-06-62.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727201148/Official-Portrait-Congressman-Cliff-Bentz-OR-02-WEBSITE-e1682366937454.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144375",
           "author": "Kyle Bailey",
           "description": "March 6, 2026 10:50 a.m.  No one was hurt when a vehicle left the highway in the Scottsburg area on Thursday. An Oregon State Police report said just after 1:30 p.m. a sedan was westbound on Highway 38 near milepost 15. The driver claimed that a pickup had entered the westbound lane while going eastbound....",
@@ -729,36 +744,6 @@
           "wordCount": 1719,
           "title": "NEXTDOOR PLATFORMS SAYS HUCREST IS ROSEBURG’ FRIENDLIEST NEIGHBORHOOD",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303102414/Next.jpg-scaled.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=144168",
-          "author": "Kyle Bailey",
-          "description": "March 3, 2026 3:20 a.m.  In the KQEN Cultural Spotlight: Oregon’s oldest wine celebration is happening this Saturday. The Greatest of the Grape is presented by the Umpqua Valley Winegrowers Association. It will take place Saturday night from 6:00 p.m. to 9:0 pm. at Seven Feathers Casino Resort in Canyonville. The 55th annual event features...",
-          "link": "https://kqennewsradio.com/2026/03/03/greatest-of-the-grape-happening-this-saturday-night/?utm_source=rss&utm_medium=rss&utm_campaign=greatest-of-the-grape-happening-this-saturday-night",
-          "publishedOn": "2026-03-03T11:20:23.000Z",
-          "wordCount": 1749,
-          "title": "GREATEST OF THE GRAPE HAPPENING THIS SATURDAY NIGHT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303101936/GoG-logo_small-e1772536802437.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=144165",
-          "author": "Kyle Bailey",
-          "description": "March 3, 2026 3:05 a.m.  In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents the Roseburg Concert Chorale and Umpqua Chamber Orchestra in concert on Friday, March 13th at 7:00 p.m. and Sunday, March 15th at 3:00 p.m. in the Whipple Fine Arts Center on the UCC campus. The concert will...",
-          "link": "https://kqennewsradio.com/2026/03/03/roseburg-concert-chorale-and-umpqua-chamber-orchestra-in-concert/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-concert-chorale-and-umpqua-chamber-orchestra-in-concert",
-          "publishedOn": "2026-03-03T11:12:42.000Z",
-          "wordCount": 1670,
-          "title": "ROSEBURG CONCERT CHORALE AND UMPQUA CHAMBER ORCHESTRA IN CONCERT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260303101204/2026-Spring-Mass-in-G-e1772536337980.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=144163",
-          "author": "Kyle Bailey",
-          "description": "March 3, 2026 2:50 a.m.  An Elkton man was jailed after being found inside a shop on Sunday. A Douglas County Sheriff’s Office report said just after 12:00 p.m. deputies were advised that the 43-year-old man was at the property in the 800 block of Azalea Drive in Elkton. Units arrived and located the suspect...",
-          "link": "https://kqennewsradio.com/2026/03/03/elkton-man-jailed-after-being-found-inside-a-shop/?utm_source=rss&utm_medium=rss&utm_campaign=elkton-man-jailed-after-being-found-inside-a-shop",
-          "publishedOn": "2026-03-03T11:09:16.000Z",
-          "wordCount": 1663,
-          "title": "ELKTON MAN JAILED AFTER BEING FOUND INSIDE A SHOP",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
         }
       ]
     },
@@ -773,6 +758,91 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/28a068be-e0d8-4ee3-ac66-dd6ed410cf97",
+          "author": "The News-Review",
+          "description": "Douglas High School announced the honor roll for the 2025-26 first semester. These students qualified:",
+          "link": "https://www.nrtoday.com/news/education/douglas-high-school-2025-26-first-semester-honor-roll/article_28a068be-e0d8-4ee3-ac66-dd6ed410cf97.html",
+          "publishedOn": "2026-03-06T20:06:00.000Z",
+          "wordCount": 12063,
+          "title": "Douglas High School 2025-26 first semester honor roll",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ed1e374d-6df9-43b6-a910-39cb4bf230b9",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "",
+          "link": "https://www.nrtoday.com/business/local_biz/katys-cheesecake-company-expands-from-home-baking-to-brick-and-mortar-roseburg-shop/article_ed1e374d-6df9-43b6-a910-39cb4bf230b9.html",
+          "publishedOn": "2026-03-06T19:00:00.000Z",
+          "wordCount": 13062,
+          "title": "Katy's Cheesecake Company expands from home baking to brick-and-mortar Roseburg shop",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ed/8edd37ac-c80e-4fb8-b971-1228c9abf8b8/69aa17fe78c9d.image.jpg?resize=300%2C200",
+            "length": "345957",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ed/8edd37ac-c80e-4fb8-b971-1228c9abf8b8/69aa17fe78c9d.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cffbdd8d-e9e9-4354-82e8-3e5090590e11",
+          "author": "Kris Wiley For The News-Review",
+          "description": "Roseburg Public Library has more than 6,000 fiction titles on the shelves for junior readers, from early chapter books to big, world-building novels.",
+          "link": "https://www.nrtoday.com/a_and_e/fiction-for-junior-readers/article_cffbdd8d-e9e9-4354-82e8-3e5090590e11.html",
+          "publishedOn": "2026-03-06T17:00:00.000Z",
+          "wordCount": 12640,
+          "title": "Fiction for junior readers",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9cf2a33c-677d-4a41-b811-3bb429da784f",
+          "author": "JAKE TRANTER The News-Review",
+          "description": "The creativity and voices of local youth will take to the big screen March 11 as the Student Creator Project premieres a series of original public service announcements created by Douglas County teens.",
+          "link": "https://www.nrtoday.com/a_and_e/student-creator-project-to-premiere-teen-made-psas-at-roseburg-cinema/article_9cf2a33c-677d-4a41-b811-3bb429da784f.html",
+          "publishedOn": "2026-03-06T16:30:00.000Z",
+          "wordCount": 12768,
+          "title": "Student Creator Project to premiere teen-made PSAs at Roseburg Cinema",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/64/d6409fd2-a83b-43c9-a704-706ce81d95d2/69a88ca31da45.image.jpg?resize=300%2C225",
+            "length": "349830",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/64/d6409fd2-a83b-43c9-a704-706ce81d95d2/69a88ca31da45.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f9a55e70-3e8d-4e47-aef8-186df23eb225",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "First time customers of Atlantis Pet Shop may walk in expecting to find a brand new cat or dog. Instead, they’re met with a jungle.",
+          "link": "https://www.nrtoday.com/business/from-hobby-to-career-inside-atlantis-pet-store/article_f9a55e70-3e8d-4e47-aef8-186df23eb225.html",
+          "publishedOn": "2026-03-06T15:45:00.000Z",
+          "wordCount": 12998,
+          "title": "From hobby to career; inside Atlantis Pet Store",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/73/373f78da-ef75-42c2-9efc-731396ef23ac/69a909fab4db2.image.jpg?resize=300%2C200",
+            "length": "298301",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/73/373f78da-ef75-42c2-9efc-731396ef23ac/69a909fab4db2.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/fd97761d-4ecf-4ed4-a76d-77fe0f36dd25",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Nadine DeVaney worked hard for months to create a new experience for the students they help.",
+          "link": "https://www.nrtoday.com/family/smart-reading-volunteer-prepares-for-county-wide-whale-tour/article_fd97761d-4ecf-4ed4-a76d-77fe0f36dd25.html",
+          "publishedOn": "2026-03-06T15:00:00.000Z",
+          "wordCount": 13083,
+          "title": "SMART Reading volunteer prepares for county-wide Whale Tour",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/a2/7a222770-d23f-4848-9483-47dff1f18725/69a89928e1b82.image.jpg?resize=300%2C400",
+            "length": "723449",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/a2/7a222770-d23f-4848-9483-47dff1f18725/69a89928e1b82.image.jpg?resize=300%2C400"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e2ca47fb-9131-4390-93bb-0810118971fd",
           "author": "Kyle Bailey For The News-Review",
@@ -956,6 +1026,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69aa530116611600017a301f",
+          "author": "Joseph Ziegler",
+          "description": "The original cruise route is back for the 2026 Winston Summer Nite Cruise. The restored layout returns cruisers to Abraham and Douglas Boulevard past longtime Winston landmarks. The event is July 11, with registration at Grocery Outlet.",
+          "link": "https://www.theroseburgreceiver.com/original-winston-summer-nite-cruise-route-restored-for-2026-event/",
+          "publishedOn": "2026-03-06T22:46:22.000Z",
+          "wordCount": 2499,
+          "title": "Original Winston Summer Nite Cruise Route Restored For 2026 Event",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/Winston_summer_niite_cruise.png"
+        },
         {
           "id": "69ab025116611600017a320f",
           "author": "Joseph Ziegler",
