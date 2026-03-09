@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-09T13:24:45.168Z</updated>
+    <updated>2026-03-09T14:01:06.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drain Man Killed In Crash Near Yoncalla]]></title>
+        <id>69aece0916611600017a347d</id>
+        <link href="https://www.theroseburgreceiver.com/drain-man-killed-in-crash-near-yoncalla/"/>
+        <updated>2026-03-09T13:42:25.000Z</updated>
+        <summary type="html"><![CDATA[A 33-year-old Drain man died Friday afternoon after a single-vehicle crash near Yoncalla. Deputies said Nicholas Rex Snyder was found ejected from a white 2009 Kia Rio in a field off Elkhead Road after the crash was discovered by a FedEx driver.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 9, 2026]]></title>
+        <id>69ae46de16611600017a3291</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-9-2026/"/>
+        <updated>2026-03-09T13:37:50.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAD WARM WEEKEND, LIGHT SHOWERS ARE AHEAD]]></title>
         <id>https://kqennewsradio.com/?p=144417</id>
@@ -423,66 +443,6 @@
         <summary type="html"><![CDATA[March 6, 2026 2:50 a.m.   In the KQEN Cultural Spotlight: The Umpqua Valley Winegrowers Association has its 55th annual Greatest of the Grape on Saturday at Seven Feathers Casino Resort in Canyonville and tickets are still available. Oregon’s oldest yearly celebration of wine will take place from 6:00 p.m. to 9:00 p.m. Nineteen wineries are...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work resumes on Oregon 42 Lookingglass Creek to I-5 Project]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e2ca47fb-9131-4390-93bb-0810118971fd</id>
-        <link href="https://www.nrtoday.com/briefs/work-resumes-on-oregon-42-lookingglass-creek-to-i-5-project/article_e2ca47fb-9131-4390-93bb-0810118971fd.html"/>
-        <updated>2026-03-05T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[GREEN DISTRICT — A contractor working for the Oregon Department of Transportation (ODOT) has resumed work on the Oregon 42 Lookingglass Creek to I-5 Project.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg's 2026 Arbor Day Photo Contest begins March 12]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7e916736-5870-45ae-a26f-853306c14aae</id>
-        <link href="https://www.nrtoday.com/a_and_e/roseburgs-2026-arbor-day-photo-contest-begins-march-12/article_7e916736-5870-45ae-a26f-853306c14aae.html"/>
-        <updated>2026-03-05T22:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Parks and Recreation has put out a call for treescape photos for its 2026 Arbor Day Photo Contest.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Symphony Association presents Fandango! on March 14]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/a6457daf-61f6-425b-8c8e-f5c2cbd08c37</id>
-        <link href="https://www.nrtoday.com/a_and_e/umpqua-symphony-association-presents-fandango-on-march-14/article_a6457daf-61f6-425b-8c8e-f5c2cbd08c37.html"/>
-        <updated>2026-03-05T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[WINCHESTER — The Umpqua Symphony Association will present Fandango! in concert at 3 p.m. Saturday, March 14 at Centerstage Theater on the Umpqua Community College campus.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Fire Department hydrant flushing to begin April 1]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5f5eb902-8f1b-4d0c-87fc-78b75b4f051c</id>
-        <link href="https://www.nrtoday.com/briefs/roseburg-fire-department-hydrant-flushing-to-begin-april-1/article_5f5eb902-8f1b-4d0c-87fc-78b75b4f051c.html"/>
-        <updated>2026-03-05T21:24:00.000Z</updated>
-        <summary type="html"><![CDATA[ROSEBURG — The Roseburg Fire Department will be flushing fire hydrants inside the city limits of Roseburg from April 1 through June 30.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLM closing part of Rice Creek Road starting Friday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/6376c8eb-52bd-4dff-9084-397e3bf1ab82</id>
-        <link href="https://www.nrtoday.com/briefs/blm-closing-part-of-rice-creek-road-starting-friday/article_6376c8eb-52bd-4dff-9084-397e3bf1ab82.html"/>
-        <updated>2026-03-05T21:21:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — The Bureau of Land Management is replacing a deteriorating culvert and will temporarily close a portion of Rice Creek Road, also known as BLM Road 29-7-24.0, starting on Friday.]]></summary>
-        <author>
-            <name>Kyle Bailey For The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard Medical Park under new ownership]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/27552bdd-7ce5-466b-956d-c5dc87efc73b</id>
-        <link href="https://www.nrtoday.com/business/harvard-medical-park-under-new-ownership/article_27552bdd-7ce5-466b-956d-c5dc87efc73b.html"/>
-        <updated>2026-03-05T20:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Harvard Medical Park, a campus of medical offices located on West Harvard Avenue in Roseburg, is now under new ownership.]]></summary>
-        <author>
-            <name>Erica Reynolds The News-Review</name>
         </author>
     </entry>
 </feed>
