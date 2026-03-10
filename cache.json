@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144524",
+          "author": "Kyle Bailey",
+          "description": "March 10, 2026 3:00 p.m.  Crews with the Roseburg Fire Department responded to two fires near the Disc Golf Course, adjacent to the bike path, just south of the Roseburg VA Medical Center, early Tuesday morning. According to Administrative Battalion Chief Chris Galligan, crews were dispatched just before 7:15 a.m. to the fires which were...",
+          "link": "https://kqennewsradio.com/2026/03/10/roseburg-fire-department-responds-to-fires-near-the-disc-golf-course/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-fire-department-responds-to-fires-near-the-disc-golf-course",
+          "publishedOn": "2026-03-10T21:56:06.000Z",
+          "wordCount": 1694,
+          "title": "ROSEBURG FIRE DEPARTMENT RESPONDS TO FIRES NEAR THE DISC GOLF COURSE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727214304/fire-logo.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=144521",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Senator David Brock Smith talks about the positives and negatives of the Special Session of the legislature, and his recently announced campaign for U.S. Senate, hoping to challenge Senator Jeff Merkley.",
+          "link": "https://kqennewsradio.com/2026/03/10/inside-douglas-county-03-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-10-26",
+          "publishedOn": "2026-03-10T20:05:32.000Z",
+          "wordCount": 1658,
+          "title": "INSIDE DOUGLAS COUNTY 03.10.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260310190312/IDC-03-10-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202701/David-Brock-Smith-e1673629605342.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144518",
           "author": "Kyle Bailey",
           "description": "March 10, 2026 10:50 a.m.  Roseburg Police cited a woman for prohibited camping on Monday. An RPD report said at 12:20 p.m. the 46-year-old was contacted at a camp near Templin Beach, in the 100 block of Southeast Templin Drive. It was in violation of time, place, and manner restrictions. When contacted, the woman packed...",
@@ -419,6 +444,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/44d2fc10-9669-4390-af4f-70b255b53727",
+          "author": "The News-Review staff",
+          "description": "WINSTON — A drinking water warning is in effect for the next 24 hours in Winston following a loss of water pressure in the distribution system Monday. A notice from the Winston Dillard Water District states potentially harmful bacteria could…",
+          "link": "https://www.nrtoday.com/news/drinking-water-warning-in-effect-in-winston/article_44d2fc10-9669-4390-af4f-70b255b53727.html",
+          "publishedOn": "2026-03-10T17:03:00.000Z",
+          "wordCount": 12137,
+          "title": "Drinking water warning in effect in Winston",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/f6/7f6ae744-ebd1-46ce-ae66-0b6c9185039e/69b052352871b.image.jpg?resize=300%2C225",
+            "length": "34468",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/f6/7f6ae744-ebd1-46ce-ae66-0b6c9185039e/69b052352871b.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a90fde79-0c4f-49ad-8722-a32c20dd4764",
           "author": "GLORIA COLEMAN The News-Review",
           "description": "CANYONVILLE — Abacela Winery, HillCrest Winery, Trella Vineyards and Freed Estate Winery came away with awards Saturday night when the Umpqua Valley Winegrowers Association held the Greatest of the Grape at Seven Feathers Casino Resort in Canyonville.",
@@ -516,6 +556,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69b0788116611600017a3729",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man faces multiple charges after authorities say he fired at vehicles on Interstate 5 Saturday night before leading police into Winston, where deputies used a spike strip to stop him. One driver reported a bullet shattered his truck’s back window.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-accused-of-firing-at-vehicles-on-interstate-5-leading-deputies-on-pursuit-into-winston/",
+          "publishedOn": "2026-03-10T20:02:34.000Z",
+          "wordCount": 2478,
+          "title": "Roseburg man accused of firing at vehicles on Interstate 5, leading deputies on pursuit into Winston",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights.jpg"
+        },
         {
           "id": "69b03f3816611600017a3713",
           "author": "Joseph Ziegler",
