@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-10T13:34:51.985Z</updated>
+    <updated>2026-03-10T13:56:51.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 10, 2026]]></title>
+        <id>69b01c5316611600017a357e</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-10-2026/"/>
+        <updated>2026-03-10T13:48:12.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VERY LIGHT RAIN AMOUNTS EXPECTED THIS WEEK]]></title>
         <id>https://kqennewsradio.com/?p=144488</id>
@@ -424,16 +434,6 @@
         <summary type="html"><![CDATA[Roseburg’s new $2.53 million outdoor tennis and pickleball courts are now open, quickly becoming a hub for community sports and inclusion, with strong support from local leaders and Special Olympics participants.]]></summary>
         <author>
             <name>Rachel McConaghie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Woofstock Expands Mission With New Spring Fair in Sutherlin]]></title>
-        <id>69ab80cd16611600017a3235</id>
-        <link href="https://www.theroseburgreceiver.com/umpqua-woofstock-expands-mission-with-new-spring-fair-in-sutherlin/"/>
-        <updated>2026-03-07T01:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Umpqua Woofstock will host its first Spring Fair April 24-26 at Oak Hills Golf Club in Sutherlin. The new event reflects the nonprofit’s continued growth from a local pet festival into a year round effort supporting pets and families across the Umpqua Valley.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>

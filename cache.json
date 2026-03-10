@@ -382,6 +382,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69b01c5316611600017a357e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-10-2026/",
+          "publishedOn": "2026-03-10T13:48:12.000Z",
+          "wordCount": 7395,
+          "title": "March 10, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-6.png"
+        },
+        {
           "id": "69aee03916611600017a34a9",
           "author": "Joseph Ziegler",
           "description": "KQUA is expanding community radio across much of Douglas County with its new 90.5 FM signal. A public soft-launch celebration is set for March 12 in downtown Roseburg, where organizers hope listeners, volunteers and future hosts will help shape the station’s future.",
@@ -470,16 +480,6 @@
           "wordCount": 6421,
           "title": "March 9, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-5.png"
-        },
-        {
-          "id": "69ab80cd16611600017a3235",
-          "author": "Joseph Ziegler",
-          "description": "Umpqua Woofstock will host its first Spring Fair April 24-26 at Oak Hills Golf Club in Sutherlin. The new event reflects the nonprofit’s continued growth from a local pet festival into a year round effort supporting pets and families across the Umpqua Valley.",
-          "link": "https://www.theroseburgreceiver.com/umpqua-woofstock-expands-mission-with-new-spring-fair-in-sutherlin/",
-          "publishedOn": "2026-03-07T01:46:41.000Z",
-          "wordCount": 2695,
-          "title": "Umpqua Woofstock Expands Mission With New Spring Fair in Sutherlin",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/woofstock.png"
         }
       ]
     },
