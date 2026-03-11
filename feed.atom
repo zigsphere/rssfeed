@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-10T23:20:57.064Z</updated>
+    <updated>2026-03-11T04:03:36.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Express on the way for the end of the Week]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/691f8caf-479b-4a03-85d9-e7b663de9cd4</id>
+        <link href="https://www.kezi.com/news/pineapple-express-on-the-way-for-the-end-of-the-week/article_691f8caf-479b-4a03-85d9-e7b663de9cd4.html"/>
+        <updated>2026-03-10T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[#PineappleExpress developing. Minor flooding issues will likely develop by FRIDAY for areas of the northern Willamette Valley and Northern Coast. Temps will also be warming with rising snow levels up to 7,000-FT on THURSDAY.Heaviest rain start times- Portland area WEDNESDAY,…]]></summary>
+        <author>
+            <name>Holden LeCroy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG FIRE DEPARTMENT RESPONDS TO FIRES NEAR THE DISC GOLF COURSE]]></title>
         <id>https://kqennewsradio.com/?p=144524</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[A Roseburg man faces multiple charges after authorities say he fired at vehicles on Interstate 5 Saturday night before leading police into Winston, where deputies used a spike strip to stop him. One driver reported a bullet shattered his truck’s back window.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man charged for shooting cars on I-5 in Winston chase]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/90c5b58c-6099-4e0e-8b60-38751958eeed</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-charged-for-shooting-cars-on-i-5-in-winston-chase/article_90c5b58c-6099-4e0e-8b60-38751958eeed.html"/>
+        <updated>2026-03-10T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[A man from Roseburg faces serious charges after allegedly shooting at cars on Interstate 5.]]></summary>
+        <author>
+            <name>Chelsea Deffenbacher</name>
         </author>
     </entry>
     <entry>

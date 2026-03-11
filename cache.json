@@ -684,6 +684,31 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/691f8caf-479b-4a03-85d9-e7b663de9cd4",
+          "author": "Holden LeCroy",
+          "description": "#PineappleExpress developing. Minor flooding issues will likely develop by FRIDAY for areas of the northern Willamette Valley and Northern Coast. Temps will also be warming with rising snow levels up to 7,000-FT on THURSDAY.Heaviest rain start times- Portland area WEDNESDAY,…",
+          "link": "https://www.kezi.com/news/pineapple-express-on-the-way-for-the-end-of-the-week/article_691f8caf-479b-4a03-85d9-e7b663de9cd4.html",
+          "publishedOn": "2026-03-10T23:32:00.000Z",
+          "wordCount": 7815,
+          "title": "Pineapple Express on the way for the end of the Week",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/custom/image/8669ec34-4408-11ec-8535-9377ced27e8c.png?resize=600%2C315"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/90c5b58c-6099-4e0e-8b60-38751958eeed",
+          "author": "Chelsea Deffenbacher",
+          "description": "A man from Roseburg faces serious charges after allegedly shooting at cars on Interstate 5.",
+          "link": "https://www.kezi.com/news/local/roseburg-man-charged-for-shooting-cars-on-i-5-in-winston-chase/article_90c5b58c-6099-4e0e-8b60-38751958eeed.html",
+          "publishedOn": "2026-03-10T18:04:00.000Z",
+          "wordCount": 8048,
+          "title": "Roseburg man charged for shooting cars on I-5 in Winston chase",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169",
+            "length": "106754",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/06b926da-2a20-4bf5-9183-28e799bd52ee",
           "author": "Rachel McConaghie",
           "description": "Roseburg’s new $2.53 million outdoor tennis and pickleball courts are now open, quickly becoming a hub for community sports and inclusion, with strong support from local leaders and Special Olympics participants.",
