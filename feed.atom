@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-12T13:38:22.670Z</updated>
+    <updated>2026-03-12T14:04:09.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[$450,000 Allocated To Support Glide Revitalization Center Project]]></title>
+        <id>69b2c4bd16611600017a3b62</id>
+        <link href="https://www.theroseburgreceiver.com/450-000-allocated-to-support-glide-revitalization-center-project/"/>
+        <updated>2026-03-12T13:52:42.000Z</updated>
+        <summary type="html"><![CDATA[A $450,000 state funding allocation will support renovations at the Glide Revitalization Center, expanding access to child care, community space, library resources, social services and other programs intended to serve rural residents in and around Glide.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 12, 2026]]></title>
+        <id>69b2bfcf16611600017a39e0</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-12-2026/"/>
+        <updated>2026-03-12T13:46:08.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAYS CREEK SCHOOL DISTRICT SUPERINTENDENT CONFIRMS RETIREMENT]]></title>
         <id>https://kqennewsradio.com/?p=144599</id>
