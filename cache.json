@@ -704,6 +704,26 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a8413c8f-fe80-4e94-92bc-39f464838a84",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "WINSTON — The Winston Dillard Water District has lifted the boil water notice issued late Monday afternoon.",
+          "link": "https://www.nrtoday.com/briefs/winston-dillard-water-district-lifts-boil-water-notice/article_a8413c8f-fe80-4e94-92bc-39f464838a84.html",
+          "publishedOn": "2026-03-12T20:16:00.000Z",
+          "wordCount": 12133,
+          "title": "Winston Dillard Water District lifts boil water notice",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/eda5270a-61e4-49e2-b45c-9af12ea53314",
+          "author": "Erica Reynolds The News-Review",
+          "description": "DOUGLAS COUNTY — Douglas County Senior Services has begun a countywide Senior Resource Series aimed at connecting older adults, caregivers and families with locally available services and supports.",
+          "link": "https://www.nrtoday.com/briefs/douglas-county-senior-services-to-hold-informational-series-events-across-the-county/article_eda5270a-61e4-49e2-b45c-9af12ea53314.html",
+          "publishedOn": "2026-03-12T19:49:00.000Z",
+          "wordCount": 12209,
+          "title": "Douglas County Senior Services to hold informational series events across the county",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fedd599b-a904-43f3-b306-13debefed4d3",
           "author": "Kyle Bailey For The News-Review",
           "description": "The Cow Creek Band of Umpqua Tribe of Indians celebrated a milestone in community health care Wednesday with a ribbon-cutting ceremony at the new Cow Creek Health & Wellness Pharmacy in Roseburg.",
@@ -872,51 +892,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/f9/ef932cd7-cab8-438e-9cab-73e5f6eb2018/67367f9fb4115.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/cd717e09-9b77-42a0-8fe3-4c3700cb8299",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "GLIDE — Since 1960, it’s been an annual tradition in Glide to recognize those who embody the best of the community as First Citizen. Over the weekend, two more joined the long list of those who have claimed the title.",
-          "link": "https://www.nrtoday.com/news/2025-glide-first-citizen-award-celebration-honors-impactful-community-members/article_cd717e09-9b77-42a0-8fe3-4c3700cb8299.html",
-          "publishedOn": "2026-03-09T15:00:00.000Z",
-          "wordCount": 12910,
-          "title": "2025 Glide First Citizen Award Celebration honors impactful community members",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b3/fb3df32d-116d-4f2e-a311-f43ffabeb251/69acbf0b57fb9.image.jpg?resize=300%2C200",
-            "length": "328518",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/b3/fb3df32d-116d-4f2e-a311-f43ffabeb251/69acbf0b57fb9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/41d6a404-e9f4-4f73-adc7-8f1a64b8efbc",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "{div style=”position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;”}{iframe style=”position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;” title=”YouTube video player” src=”https://www.youtube.com/embed/KKBiKrWA3D0” width=”320” height=”240”}{/iframe}{/div}WINCHESTER — If there’s one thing Douglas County is known for, it’s…",
-          "link": "https://www.nrtoday.com/news/future-natural-resource-leaders-development-event-brings-schools-to-ucc-for-competition/article_41d6a404-e9f4-4f73-adc7-8f1a64b8efbc.html",
-          "publishedOn": "2026-03-09T14:30:00.000Z",
-          "wordCount": null,
-          "title": "Future Natural Resource Leaders Development Event brings schools to UCC for competition",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d0/2d0f7364-c271-4d28-9ec7-72ab874a279d/69acbf390106d.image.jpg?resize=300%2C200",
-            "length": "757410",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d0/2d0f7364-c271-4d28-9ec7-72ab874a279d/69acbf390106d.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/96b9178b-53d7-4e0b-9c30-0963c66ea407",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "ELKTON — The small robot showed scratches in the red paint and dents to the sidewalls, damage that was well worth the Cybernetic Elks’ performance at the Oregon FIRST Tech Challenge Championship Tournament.",
-          "link": "https://www.nrtoday.com/news/education/cybernetic-elks-get-ready-for-worlds/article_96b9178b-53d7-4e0b-9c30-0963c66ea407.html",
-          "publishedOn": "2026-03-09T14:15:00.000Z",
-          "wordCount": 13619,
-          "title": "Cybernetic Elks get ready for Worlds",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4e/94e8978a-8717-430d-ba6c-9f945f46f058/69ab39a557ab6.image.jpg?resize=300%2C284",
-            "length": "312153",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/4e/94e8978a-8717-430d-ba6c-9f945f46f058/69ab39a557ab6.image.jpg?resize=300%2C284"
         }
       ]
     },
@@ -1130,66 +1105,6 @@
           "wordCount": 6276,
           "title": "Police Log: March 6 - March 9, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-5.jpg"
-        },
-        {
-          "id": "69aee21316611600017a34b9",
-          "author": "Joseph Ziegler",
-          "description": "BLM timber sales in Oregon brought in more than $8.3 million from 27.6 million board feet sold across 1,255 acres. The Roseburg District’s Muley Mount tract accounted for 5 million board feet and sold to Scott Timber Company of Roseburg.",
-          "link": "https://www.theroseburgreceiver.com/blm-timber-sales-in-oregon-top-8-3-million-with-roseburg-tract-included/",
-          "publishedOn": "2026-03-09T15:09:17.000Z",
-          "wordCount": 2584,
-          "title": "BLM Timber Sales In Oregon Top $8.3 Million, With Roseburg Tract Included",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/PXL_20250101_223028369.jpg"
-        },
-        {
-          "id": "69aedd6d16611600017a3493",
-          "author": "Joseph Ziegler",
-          "description": "Safe Haven’s March Blessing Bag Giveaway is set for March 13-14 at the Meyer Activity Center in Roseburg. Free clothing, diapers, formula, baby equipment, maternity clothes, blankets and more will be available. Bring your own bags. Saturday continues while supplies last.",
-          "link": "https://www.theroseburgreceiver.com/safe-haven-announces-march-blessing-bag-giveaway-in-roseburg/",
-          "publishedOn": "2026-03-09T14:49:24.000Z",
-          "wordCount": 2470,
-          "title": "Safe Haven Announces March Blessing Bag Giveaway In Roseburg",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/safe_haven.png"
-        },
-        {
-          "id": "69ad02a116611600017a3254",
-          "author": "Joseph Ziegler",
-          "description": "The Glide community honored 2025 First Citizens Bill DeGroot and Kara Weber on Saturday during the annual First Citizens luncheon, a tradition dating back to 1960 that celebrates service, leadership and the people who help shape the Glide community.",
-          "link": "https://www.theroseburgreceiver.com/glide-honors-2025-first-citizens-while-celebrating-a-tradition-dating-back-to-1960/",
-          "publishedOn": "2026-03-09T14:01:45.000Z",
-          "wordCount": 3656,
-          "title": "Glide Honors 2025 First Citizens While Celebrating a Tradition Dating Back to 1960",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/PXL_20260307_220314248.TS-000.jpg"
-        },
-        {
-          "id": "69ad02a116611600017a3254",
-          "author": "Joseph Ziegler",
-          "description": "The Glide community honored 2025 First Citizens Bill DeGroot and Kara Beber on Saturday during the annual First Citizens luncheon, a tradition dating back to 1950 that celebrates service, leadership and the people who help shape the Glide community.",
-          "link": "https://www.theroseburgreceiver.com/glide-honors-2025-first-citizens-while-celebrating-a-tradition-dating-back-to-1950/",
-          "publishedOn": "2026-03-09T14:01:45.000Z",
-          "wordCount": 3650,
-          "title": "Glide Honors 2025 First Citizens While Celebrating a Tradition Dating Back to 1950",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/PXL_20260307_220314248.TS-000.jpg"
-        },
-        {
-          "id": "69aece0916611600017a347d",
-          "author": "Joseph Ziegler",
-          "description": "A 33-year-old Drain man died Friday afternoon after a single-vehicle crash near Yoncalla. Deputies said Nicholas Rex Snyder was found ejected from a white 2009 Kia Rio in a field off Elkhead Road after the crash was discovered by a FedEx driver.",
-          "link": "https://www.theroseburgreceiver.com/drain-man-killed-in-crash-near-yoncalla/",
-          "publishedOn": "2026-03-09T13:42:25.000Z",
-          "wordCount": 2431,
-          "title": "Drain Man Killed In Crash Near Yoncalla",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Sheriff-seal-web-1.jpg"
-        },
-        {
-          "id": "69ae46de16611600017a3291",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-9-2026/",
-          "publishedOn": "2026-03-09T13:37:50.000Z",
-          "wordCount": 6421,
-          "title": "March 9, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-5.png"
         }
       ]
     },
