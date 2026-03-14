@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-14T16:34:06.307Z</updated>
+    <updated>2026-03-14T19:28:25.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DEPUTIES CAPTURE MAN WHO FLED CUSTODY DURING ARREST]]></title>
+        <id>https://kqennewsradio.com/?p=144699</id>
+        <link href="https://kqennewsradio.com/2026/03/14/deputies-capture-man-who-fled-custody-during-arrest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=deputies-capture-man-who-fled-custody-during-arrest"/>
+        <updated>2026-03-14T18:52:51.000Z</updated>
+        <summary type="html"><![CDATA[March 14, 2026 11;50 a.m.  Deputies with the Douglas County Sheriff’s Office captured a man who fled custody during a warrant arrest on Wednesday morning. A DCSO report released on Saturday, said at approximately 10:00 a.m. a deputy contacted a male in the woods in the area known as Long’s Ranch near Melqua Road. The...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOMAN JAILED FOR WARRANTS, CITED FOR DRUG CHARGES, FOLLOWING OVERNIGHT FREEWAY STOP]]></title>
+        <id>https://kqennewsradio.com/?p=144694</id>
+        <link href="https://kqennewsradio.com/2026/03/14/woman-jailed-for-warrants-cited-for-drug-charges-following-overnight-freeway-stop/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=woman-jailed-for-warrants-cited-for-drug-charges-following-overnight-freeway-stop"/>
+        <updated>2026-03-14T18:27:21.000Z</updated>
+        <summary type="html"><![CDATA[March 14, 2026 11:30 a.m.  A Roseburg woman was jailed for warrants, and cited for drug charges, following a freeway stop early Saturday morning. A Douglas County Sheriff’s Office report said at 1:30 a.m. a deputy observed a vehicle committing a traffic violation on Goodrich Highway in the Oakland area. The sedan then got onto...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RHS FOUNDATION NAMES EMILY RETHWILL FUTURE FIRST CITIZEN]]></title>
         <id>https://kqennewsradio.com/?p=144686</id>
@@ -905,36 +925,6 @@ The post Business Oregon’s Credit Enhancement Fund becomes easier to access ap
         <summary type="html"><![CDATA[March 11, 2026 3:20 a.m. In the KQEN Cultural Spotlight: Tickets are now on sale for The Revolutionists at Umpqua Actors Community Theatre in Roseburg. The Revolutionists is a new play about four very real women who lived boldly in France during the Reign of Terror of the French Revolution. Described as a “grand and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge Upholds $77,767 In Winchester Dam Repair Penalties]]></title>
-        <id>69b0f2b316611600017a3743</id>
-        <link href="https://www.theroseburgreceiver.com/judge-upholds-77-767-in-winchester-dam-repair-penalties/"/>
-        <updated>2026-03-11T04:50:43.000Z</updated>
-        <summary type="html"><![CDATA[A judge upheld $77,767 in penalties against the Winchester Water Control District over water quality violations tied to 2023 repair work at Winchester Dam on the North Umpqua River, according to a final order issued March 6.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua, Chemeketa community colleges initiate pathway with Pacific University for pharmacy degree]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/06905670-6b43-48bf-be04-d072d6ec037b</id>
-        <link href="https://www.nrtoday.com/news/education/umpqua-chemeketa-community-colleges-initiate-pathway-with-pacific-university-for-pharmacy-degree/article_06905670-6b43-48bf-be04-d072d6ec037b.html"/>
-        <updated>2026-03-10T18:53:00.000Z</updated>
-        <summary type="html"><![CDATA[A new agreement will allow Umpqua Community College students to pursue a career in the pharmacy through a partnership with Pacific University.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drinking water warning in effect in Winston]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/44d2fc10-9669-4390-af4f-70b255b53727</id>
-        <link href="https://www.nrtoday.com/news/drinking-water-warning-in-effect-in-winston/article_44d2fc10-9669-4390-af4f-70b255b53727.html"/>
-        <updated>2026-03-10T17:03:00.000Z</updated>
-        <summary type="html"><![CDATA[WINSTON — A drinking water warning is in effect for the next 24 hours in Winston following a loss of water pressure in the distribution system Monday. A notice from the Winston Dillard Water District states potentially harmful bacteria could…]]></summary>
-        <author>
-            <name>The News-Review staff</name>
         </author>
     </entry>
 </feed>
