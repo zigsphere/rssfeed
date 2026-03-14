@@ -779,6 +779,21 @@
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/14/314d4099-30b0-460a-b4e7-18a4c45cbadb/69b348e1788fd.image.jpg?resize=300%2C200"
         },
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b6df0ce5-426f-4d1c-b61d-ef425fbada46",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Five Roseburg High School (RHS) seniors sat on the stage of the Rose Theater in front of the friends, family and other attendees Thursday and waited for RHS Foundation President Jason Pargeter to announce which of them would be the…",
+          "link": "https://www.nrtoday.com/news/education/emma-rethwill-is-the-rhs-foundations-2026-future-first-citizen/article_b6df0ce5-426f-4d1c-b61d-ef425fbada46.html",
+          "publishedOn": "2026-03-13T13:30:00.000Z",
+          "wordCount": 13715,
+          "title": "Emma Rethwill is the RHS Foundation's 2026 Future First Citizen",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/8c/38cc7cc8-11ae-466f-bd91-c935b48fcaae/69b38c6a8f7ee.image.jpg?resize=300%2C200",
+            "length": "356952",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/8c/38cc7cc8-11ae-466f-bd91-c935b48fcaae/69b38c6a8f7ee.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a8413c8f-fe80-4e94-92bc-39f464838a84",
           "author": "Kyle Bailey For The News-Review",
           "description": "WINSTON — The Winston Dillard Water District has lifted the boil water notice issued late Monday afternoon.",
@@ -937,36 +952,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/f6/7f6ae744-ebd1-46ce-ae66-0b6c9185039e/69b052352871b.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a90fde79-0c4f-49ad-8722-a32c20dd4764",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "CANYONVILLE — Abacela Winery, HillCrest Winery, Trella Vineyards and Freed Estate Winery came away with awards Saturday night when the Umpqua Valley Winegrowers Association held the Greatest of the Grape at Seven Feathers Casino Resort in Canyonville.",
-          "link": "https://www.nrtoday.com/news/local/abacela-winerys-2025-grenache-ros-is-the-greatest-of-the-grape/article_a90fde79-0c4f-49ad-8722-a32c20dd4764.html",
-          "publishedOn": "2026-03-10T14:45:00.000Z",
-          "wordCount": 13877,
-          "title": "Abacela Winery's 2025 Grenache Rosé is the Greatest of the Grape",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/00/4003a1cd-1171-4044-8c82-93782c31d76f/69ae2ab01a682.image.jpg?resize=300%2C200",
-            "length": "252798",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/00/4003a1cd-1171-4044-8c82-93782c31d76f/69ae2ab01a682.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/311d9944-2c81-4175-ad59-8ade4fdf2d35",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "For over 30 years, Patrick Hull has served in the health care industry, providing leadership and management to health care projects and organizations across the country. This month, he has retired from his most recent position: executive director of the…",
-          "link": "https://www.nrtoday.com/news/roseburg-va-health-care-system-executive-director-patrick-hull-retires/article_311d9944-2c81-4175-ad59-8ade4fdf2d35.html",
-          "publishedOn": "2026-03-10T14:00:00.000Z",
-          "wordCount": 12922,
-          "title": "Roseburg VA Health Care System Executive Director Patrick Hull retires",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/f9/ef932cd7-cab8-438e-9cab-73e5f6eb2018/67367f9fb4115.image.jpg?resize=300%2C200",
-            "length": "309324",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/f9/ef932cd7-cab8-438e-9cab-73e5f6eb2018/67367f9fb4115.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -992,6 +977,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69b4b37f16611600017a3d8b",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Schools will deliver free breakfast-and-lunch meal sacks to children ages 1-18 during Spring Break, March 23-27, through its Lunchbox Express program. Meals are open to all children, and kids must be present at pickup.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-schools-to-offer-free-lunchbox-express-meals-during-spring-break/",
+          "publishedOn": "2026-03-14T01:02:41.000Z",
+          "wordCount": 2432,
+          "title": "Roseburg Schools To Offer Free Lunchbox Express Meals During Spring Break",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Lunch-Box-Express-Van-1.png"
+        },
+        {
+          "id": "69b4b1ae16611600017a3d6d",
+          "author": "Joseph Ziegler",
+          "description": "Oregon has received a $224,994 federal grant to help workers affected by the 2025 closure of Roseburg Forest Products’ Dillard facility. The funding will support retraining and employment services in Douglas County for 107 laid-off workers.",
+          "link": "https://www.theroseburgreceiver.com/oregon-receives-224-994-federal-grant-to-support-roseburg-forest-products-workers/",
+          "publishedOn": "2026-03-14T00:55:18.000Z",
+          "wordCount": 2430,
+          "title": "Oregon Receives $224,994 Federal Grant To Support Roseburg Forest Products Workers",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/rfp_hq-EDIT.jpg"
+        },
         {
           "id": "69b4625a16611600017a3d4d",
           "author": "Joseph Ziegler",
@@ -1171,16 +1176,6 @@
           "wordCount": 3083,
           "title": "Police Log: March 9, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-6.jpg"
-        },
-        {
-          "id": "69b01c5316611600017a357e",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-10-2026/",
-          "publishedOn": "2026-03-10T13:48:12.000Z",
-          "wordCount": 7395,
-          "title": "March 10, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-6.png"
         }
       ]
     },
