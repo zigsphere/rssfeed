@@ -534,16 +534,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260311151027/Jasman.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=144548",
-          "author": "Kyle Bailey",
-          "description": "March 11, 2026 6:20 a.m.  Near record high temperatures are possible in the Umpqua Valley early next week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the Roseburg will be on the south end of a warm front next Monday through Wednesday. High temperatures of 73...",
-          "link": "https://kqennewsradio.com/2026/03/11/near-record-high-temperatures-possible-early-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=near-record-high-temperatures-possible-early-next-week",
-          "publishedOn": "2026-03-11T13:20:29.000Z",
-          "wordCount": 1695,
-          "title": "NEAR RECORD HIGH TEMPERATURES POSSIBLE EARLY NEXT WEEK",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
         }
       ]
     },
@@ -798,6 +788,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69b60b9816611600017a3da8",
+          "author": "Joseph Ziegler",
+          "description": "Tractor Supply is expected to open next week in Roseburg, with a soft opening planned for March 21 at the former Big Lots location in North Roseburg Plaza. The store appears nearly ready, with signage up, equipment outside and shelves stocked inside.",
+          "link": "https://www.theroseburgreceiver.com/tractor-supply-expected-to-open-next-week-in-roseburg/",
+          "publishedOn": "2026-03-15T01:40:57.000Z",
+          "wordCount": 2464,
+          "title": "Tractor Supply Expected To Open Next Week In Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/tractor_supply--1-.jpg"
+        },
+        {
           "id": "69b4b37f16611600017a3d8b",
           "author": "Joseph Ziegler",
           "description": "Roseburg Schools will deliver free breakfast-and-lunch meal sacks to children ages 1-18 during Spring Break, March 23-27, through its Lunchbox Express program. Meals are open to all children, and kids must be present at pickup.",
@@ -916,56 +916,6 @@
           "wordCount": 2475,
           "title": "Roseburg Man Jailed After Police Recover Reported Stolen Pickup",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/police_car-1.webp"
-        },
-        {
-          "id": "69b18d2e16611600017a3950",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg Police’s March 10 log included a recovered stolen truck, a DUII case, camping and burn citations, a trespass arrest, and a theft case involving seven puppies and their mother, according to the daily police log.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-march-10-2026/",
-          "publishedOn": "2026-03-11T15:44:31.000Z",
-          "wordCount": 3857,
-          "title": "Police Log: March 10, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-7.jpg"
-        },
-        {
-          "id": "69b17a4616611600017a392d",
-          "author": "Joseph Ziegler",
-          "description": "The Oregon Naturalist Southwest Oregon field experience will take participants across the Umpqua Basin and Klamath-Siskiyou region from April through September, offering expert-led excursions focused on ecology, wildlife, geology and natural history.",
-          "link": "https://www.theroseburgreceiver.com/oregon-naturalist-field-program-to-explore-southwest-oregon-landscapes/",
-          "publishedOn": "2026-03-11T14:23:21.000Z",
-          "wordCount": 2566,
-          "title": "Oregon Naturalist Field Program To Explore Southwest Oregon Landscapes",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Screenshot-2026-03-11-at-7.25.53---AM.png"
-        },
-        {
-          "id": "69b178a016611600017a3915",
-          "author": "Joseph Ziegler",
-          "description": "March is Red Cross Month, and the American Red Cross is encouraging people in Southwest Oregon to volunteer. Open roles include disaster response, shelter support, blood donor ambassador and home fire campaign team member positions.",
-          "link": "https://www.theroseburgreceiver.com/american-red-cross-highlights-volunteer-opportunities-during-red-cross-month/",
-          "publishedOn": "2026-03-11T14:16:12.000Z",
-          "wordCount": 2491,
-          "title": "American Red Cross Highlights Volunteer Opportunities During Red Cross Month",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Screenshot-2026-03-11-at-7.17.08---AM.png"
-        },
-        {
-          "id": "69b1741816611600017a38fa",
-          "author": "Joseph Ziegler",
-          "description": "A community garden work day is planned for Friday, March 13, in Roseburg. Volunteers are invited to help restore the garden from 3 p.m. to 6 p.m. at 1450 SE Mill St. Organizers said tools and supplies will be provided, and all ages and abilities are welcome.",
-          "link": "https://www.theroseburgreceiver.com/community-garden-work-day-planned-march-13-in-roseburg/",
-          "publishedOn": "2026-03-11T13:57:15.000Z",
-          "wordCount": 2395,
-          "title": "Community Garden Work Day Planned March 13 In Roseburg",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Screenshot-2026-03-11-at-6.55.43---AM.png"
-        },
-        {
-          "id": "69b16e8616611600017a377a",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-11-2026/",
-          "publishedOn": "2026-03-11T13:49:47.000Z",
-          "wordCount": 5851,
-          "title": "March 11, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-7.png"
         }
       ]
     },
