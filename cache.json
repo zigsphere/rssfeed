@@ -489,18 +489,7 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": [
-        {
-          "id": "https://southernoregonbusiness.com/?p=9190",
-          "author": "Jim Teece",
-          "description": "Business Oregon’s Credit Enhancement Fund (”CEF”) program. CEF is a loan guarantee program that provides insurance for up to 80% of a commercial loan to help businesses get access to capital for efforts like: commercial real estate and equipment acquisition, day-to-day working capital financing (accounts receivable and inventory), and commercial construction. Business Oregon has announced that they have lowered most of…\nThe post Business Oregon’s Credit Enhancement Fund becomes easier to access appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/business-oregons-credit-enhancement-fund-becomes-easier-to-access/",
-          "publishedOn": "2026-03-13T13:33:46.000Z",
-          "wordCount": 2643,
-          "title": "Business Oregon’s Credit Enhancement Fund becomes easier to access",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Roseburg Receiver",
@@ -616,16 +605,6 @@
           "wordCount": 4823,
           "title": "Police Log: March 12, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-9.jpg"
-        },
-        {
-          "id": "69b411a016611600017a3bb9",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-13-2026/",
-          "publishedOn": "2026-03-13T13:46:04.000Z",
-          "wordCount": 5534,
-          "title": "March 13, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-9.png"
         }
       ]
     },
@@ -635,34 +614,19 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.kezi.com/tncms/asset/editorial/dcb46d69-31eb-4533-ba59-5c4e6f0a0b01",
+          "id": "http://www.kezi.com/tncms/asset/editorial/816a3ad6-7dd8-4ea7-91b3-fc0137bf855b",
           "author": "News Staff",
-          "description": "Amid a wave of pharmacy closures in the state, a new facility is opening its doors in Roseburg, offering much-needed services to the community.",
-          "link": "https://www.kezi.com/news/local/tribal-owned-pharmacy-in-roseburg-offers-care-for-all-locals/article_dcb46d69-31eb-4533-ba59-5c4e6f0a0b01.html",
-          "publishedOn": "2026-03-12T18:24:00.000Z",
-          "wordCount": 8008,
-          "title": "Tribal-owned pharmacy in Roseburg offers care for all locals",
+          "description": "Jared Scott Jeremy Stoller has been charged with first-degree murder and second-degree abuse of a corpse after confessing to the intentional killing of his 11-month-old son, Jackson Stoller, whose body was recovered from the South Umpqua River in Douglas County,…",
+          "link": "https://www.kezi.com/news/local/roseburg-father-admits-to-killing-son-body-found-in-umpqua-river/article_816a3ad6-7dd8-4ea7-91b3-fc0137bf855b.html",
+          "publishedOn": "2026-03-16T17:04:00.000Z",
+          "wordCount": 8092,
+          "title": "Roseburg father admits to killing son, body found in Umpqua River",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/a7/da7cae4b-b8c8-4353-b8e9-f6b954a154f3/69b3065e74d26.image.jpg?resize=300%2C167",
-            "length": "45640",
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/a7/da7cae4b-b8c8-4353-b8e9-f6b954a154f3/69b3065e74d26.image.jpg?resize=300%2C167"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/3e013271-5939-4f71-84f9-7b784779041e",
-          "author": "Chelsea Deffenbacher",
-          "description": "A Douglas County woman is in legal trouble after being charged with stealing seven 12-day-old puppies and their mother.",
-          "link": "https://www.kezi.com/news/local/douglas-county-woman-charged-for-stealing-puppies-from-camp/article_3e013271-5939-4f71-84f9-7b784779041e.html",
-          "publishedOn": "2026-03-12T16:58:00.000Z",
-          "wordCount": 8025,
-          "title": "Douglas County woman charged for stealing puppies from camp",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/77/077c2c1e-bac8-532f-a126-89637242233e/61a92ae312b7d.image.jpg?resize=300%2C169",
-            "length": "37823",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/77/077c2c1e-bac8-532f-a126-89637242233e/61a92ae312b7d.image.jpg?resize=300%2C169"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
         }
       ]
     }
