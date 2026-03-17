@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-17T19:47:12.052Z</updated>
+    <updated>2026-03-17T23:21:47.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CHI Mercy Health in Roseburg shines as top rural hospital]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/eaf17772-15b3-426e-9cc1-0d491665def7</id>
+        <link href="https://www.kezi.com/news/local/chi-mercy-health-in-roseburg-shines-as-top-rural-hospital/article_eaf17772-15b3-426e-9cc1-0d491665def7.html"/>
+        <updated>2026-03-17T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CHI Mercy Health Mercy Medical Center has been named one of the top 20 rural and community hospitals in the United States.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 03.17.26]]></title>
+        <id>https://kqennewsradio.com/?p=144812</id>
+        <link href="https://kqennewsradio.com/2026/03/17/inside-douglas-county-03-17-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-03-17-26"/>
+        <updated>2026-03-17T20:07:26.000Z</updated>
+        <summary type="html"><![CDATA[State Representative E. Werner Reschke of Klamath County is one of the Oregon House Deputy Republican leaders.  He shares his thoughts from the short session of the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN FOR REPORTED ROBBERY]]></title>
         <id>https://kqennewsradio.com/?p=144807</id>

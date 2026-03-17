@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144812",
+          "author": "Kyle Bailey",
+          "description": "State Representative E. Werner Reschke of Klamath County is one of the Oregon House Deputy Republican leaders.  He shares his thoughts from the short session of the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/03/17/inside-douglas-county-03-17-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-17-26",
+          "publishedOn": "2026-03-17T20:07:26.000Z",
+          "wordCount": 1648,
+          "title": "INSIDE DOUGLAS COUNTY 03.17.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260317185959/IDC-03-17-26.wav",
+            "length": "0",
+            "type": "audio/wav"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260317190654/Werner2.jpg-scaled.jpeg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144807",
           "author": "Kyle Bailey",
           "description": "March 17, 2026 11:00 a.m.  Sutherlin Police jailed a man for a reported robbery late Monday night. Captain Ben Woodward said shortly after 11:00 p.m. officers responded to the Kwik Pik Market in the 500 block of West Central Avenue. Woodward said a store employee advised that a male suspect had left the store and...",
@@ -623,6 +638,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/eaf17772-15b3-426e-9cc1-0d491665def7",
+          "author": "News Staff",
+          "description": "CHI Mercy Health Mercy Medical Center has been named one of the top 20 rural and community hospitals in the United States.",
+          "link": "https://www.kezi.com/news/local/chi-mercy-health-in-roseburg-shines-as-top-rural-hospital/article_eaf17772-15b3-426e-9cc1-0d491665def7.html",
+          "publishedOn": "2026-03-17T22:00:00.000Z",
+          "wordCount": 7916,
+          "title": "CHI Mercy Health in Roseburg shines as top rural hospital",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/86/d86a97c7-aede-439b-8ff8-f6c69599fc12/69b9d0b1a2a89.image.jpg?resize=300%2C225",
+            "length": "156969",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/86/d86a97c7-aede-439b-8ff8-f6c69599fc12/69b9d0b1a2a89.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/a3704350-06ad-41d2-942a-7d5c1441cb86",
           "author": "Chelsea Deffenbacher",
