@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144886",
+          "author": "Kyle Bailey",
+          "description": "Live from Gold Beach, First-District State Representative Court Boice looks back at the short session of the legislature and talks about his future plans.",
+          "link": "https://kqennewsradio.com/2026/03/18/inside-douglas-county-03-18-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-03-18-26",
+          "publishedOn": "2026-03-18T20:09:46.000Z",
+          "wordCount": 1644,
+          "title": "INSIDE DOUGLAS COUNTY 03.18.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260318190756/IDC-03-18-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202331/Court-Boice-Headshot-e1675857798718.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144881",
           "author": "Kyle Bailey",
           "description": "March 18, 2026 10:50 a.m.  Roseburg Police cited three people for prohibited camping on Tuesday afternoon. An RPD report said at 12:10 p.m. officers contacted the group at Deer Creek Park in the 200 block of Southeast Pine Street, under the Jackson Street Bridge. Camping is never allowed at this location due to its proximity...",
@@ -578,6 +593,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5efbf475-f8bc-4087-a397-cf9c0265e529",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Along with livestock, thrill rides and carnival food, The Douglas County Fairgrounds is known for its slate of headlining artists, bringing in new artists to perform for Douglas County each year. On Tuesday, the entertainment lineup for the 2026 Douglas…",
+          "link": "https://www.nrtoday.com/a_and_e/music/douglas-county-fairgrounds-announces-concert-lineup-for-2026/article_5efbf475-f8bc-4087-a397-cf9c0265e529.html",
+          "publishedOn": "2026-03-18T15:00:00.000Z",
+          "wordCount": 12574,
+          "title": "Douglas County Fairgrounds announces concert lineup for 2026",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ba/dba8e4dd-dd32-4d5b-af3d-75f292795f6f/69b9d80d442d8.image.jpg?resize=300%2C200",
+            "length": "272272",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/ba/dba8e4dd-dd32-4d5b-af3d-75f292795f6f/69b9d80d442d8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6eb98e64-856d-4ccd-a07c-89c991c6a69f",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On Feb. 18, the Oregon State Board of Nursing (OSBN) held a meeting in which they took final disciplinary action against a number of Oregon nurses. Among that group were two nurses from Douglas County.",
+          "link": "https://www.nrtoday.com/news/oregon-state-board-of-nursing-takes-disciplinary-action-against-douglas-county-nurses/article_6eb98e64-856d-4ccd-a07c-89c991c6a69f.html",
+          "publishedOn": "2026-03-18T15:00:00.000Z",
+          "wordCount": 12563,
+          "title": "Oregon State Board of Nursing takes disciplinary action against Douglas County nurses",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/52/a52e73ac-66db-4380-b752-82c11b2533db/69b84291a1f0e.image.jpg?resize=300%2C200",
+            "length": "586811",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/52/a52e73ac-66db-4380-b752-82c11b2533db/69b84291a1f0e.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/790b4e5e-e7f4-4aa9-868f-f59eb56503dd",
           "author": "ANDREW GRIFFIN The News-Review",

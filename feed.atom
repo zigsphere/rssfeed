@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-18T19:40:57.872Z</updated>
+    <updated>2026-03-18T23:21:45.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 03.18.26]]></title>
+        <id>https://kqennewsradio.com/?p=144886</id>
+        <link href="https://kqennewsradio.com/2026/03/18/inside-douglas-county-03-18-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-03-18-26"/>
+        <updated>2026-03-18T20:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Live from Gold Beach, First-District State Representative Court Boice looks back at the short session of the legislature and talks about his future plans.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE THREE PEOPLE FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=144881</id>
@@ -104,6 +114,26 @@
         <summary type="html"><![CDATA[Roseburg police logs for March 17 through early March 18 show multiple camping citations, several warrant arrests, a DUII case, an injury crash at Stephens and Diamond Lake, a disorderly conduct arrest at a mini mart, and drug-related citations, according to RPD.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fairgrounds announces concert lineup for 2026]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5efbf475-f8bc-4087-a397-cf9c0265e529</id>
+        <link href="https://www.nrtoday.com/a_and_e/music/douglas-county-fairgrounds-announces-concert-lineup-for-2026/article_5efbf475-f8bc-4087-a397-cf9c0265e529.html"/>
+        <updated>2026-03-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Along with livestock, thrill rides and carnival food, The Douglas County Fairgrounds is known for its slate of headlining artists, bringing in new artists to perform for Douglas County each year. On Tuesday, the entertainment lineup for the 2026 Douglas…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon State Board of Nursing takes disciplinary action against Douglas County nurses]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6eb98e64-856d-4ccd-a07c-89c991c6a69f</id>
+        <link href="https://www.nrtoday.com/news/oregon-state-board-of-nursing-takes-disciplinary-action-against-douglas-county-nurses/article_6eb98e64-856d-4ccd-a07c-89c991c6a69f.html"/>
+        <updated>2026-03-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On Feb. 18, the Oregon State Board of Nursing (OSBN) held a meeting in which they took final disciplinary action against a number of Oregon nurses. Among that group were two nurses from Douglas County.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
