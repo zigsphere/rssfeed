@@ -557,6 +557,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69baa8ff16611600017a43e5",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-18-2026/",
+          "publishedOn": "2026-03-18T13:51:55.000Z",
+          "wordCount": 6238,
+          "title": "March 18, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-12.png"
+        },
+        {
           "id": "69ba319116611600017a4394",
           "author": "Joseph Ziegler",
           "description": "The 2026 Douglas County Fair will bring four nights of entertainment to Roseburg, with bull riding on Aug. 5 followed by Aaron Lewis, Tone Lōc and Niko Moon on Aug. 6-8. Concert tickets go on sale March 20 through the fairgrounds website.",
@@ -695,16 +705,6 @@
           "wordCount": 2625,
           "title": "Roseburg Man Charged With Murder Of 11-Month-Old Son",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/Document.gif"
-        },
-        {
-          "id": "69b60b9816611600017a3da8",
-          "author": "Joseph Ziegler",
-          "description": "Tractor Supply is expected to open next week in Roseburg, with a soft opening planned for March 21 at the former Big Lots location in North Roseburg Plaza. The store appears nearly ready, with signage up, equipment outside and shelves stocked inside.",
-          "link": "https://www.theroseburgreceiver.com/tractor-supply-expected-to-open-next-week-in-roseburg/",
-          "publishedOn": "2026-03-15T01:40:57.000Z",
-          "wordCount": 2464,
-          "title": "Tractor Supply Expected To Open Next Week In Roseburg",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/tractor_supply--1-.jpg"
         }
       ]
     },

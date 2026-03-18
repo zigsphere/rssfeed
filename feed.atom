@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-18T12:41:59.127Z</updated>
+    <updated>2026-03-18T14:14:25.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 18, 2026]]></title>
+        <id>69baa8ff16611600017a43e5</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-18-2026/"/>
+        <updated>2026-03-18T13:51:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEPUTIES JAIL WOMAN FOR THEFT OF SANDWICH]]></title>
         <id>https://kqennewsradio.com/?p=144853</id>
@@ -662,16 +672,6 @@
         <link href="https://www.theroseburgreceiver.com/roseburg-man-charged-with-murder-of-11-month-old-son/"/>
         <updated>2026-03-16T05:04:05.000Z</updated>
         <summary type="html"><![CDATA[Roseburg man Jared Scott Jeremy Stoller, 27, is charged with first-degree murder and abuse of a corpse after investigators say he confessed to killing his 11-month-old son, Jaxson, and disposing of the child’s body in the South Umpqua River.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tractor Supply Expected To Open Next Week In Roseburg]]></title>
-        <id>69b60b9816611600017a3da8</id>
-        <link href="https://www.theroseburgreceiver.com/tractor-supply-expected-to-open-next-week-in-roseburg/"/>
-        <updated>2026-03-15T01:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Tractor Supply is expected to open next week in Roseburg, with a soft opening planned for March 21 at the former Big Lots location in North Roseburg Plaza. The store appears nearly ready, with signage up, equipment outside and shelves stocked inside.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
         </author>
