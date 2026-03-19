@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-19T12:36:00.563Z</updated>
+    <updated>2026-03-19T14:02:00.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 19, 2026]]></title>
+        <id>69bbfbf416611600017a45eb</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-19-2026/"/>
+        <updated>2026-03-19T13:56:45.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPRING WHALE WATCH WEEK RETURNS TO OREGON COAST]]></title>
+        <id>https://kqennewsradio.com/?p=144910</id>
+        <link href="https://kqennewsradio.com/2026/03/19/spring-whale-watch-week-returns-to-oregon-coast-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spring-whale-watch-week-returns-to-oregon-coast-2"/>
+        <updated>2026-03-19T13:09:20.000Z</updated>
+        <summary type="html"><![CDATA[March 19, 2026 6:10 a.m.  Oregon State Parks will host Spring Whale Watch Week along the Oregon Coast from Saturday, March 21st to Sunday, March 29th. An Oregon Parks and Recreation Department release said trained volunteers and park rangers will be stationed at 15 sites along the coast to help visitors spot whales and their...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NO ONE HURT WHEN SEMI-TRUCK OVERTURNS ON HIGHWAY 230]]></title>
+        <id>https://kqennewsradio.com/?p=144908</id>
+        <link href="https://kqennewsradio.com/2026/03/19/no-one-hurt-when-semi-truck-overturns-on-highway-230/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=no-one-hurt-when-semi-truck-overturns-on-highway-230"/>
+        <updated>2026-03-19T12:52:43.000Z</updated>
+        <summary type="html"><![CDATA[March 19, 2026 5:50 a.m.  No one was hurt when a semi-truck overturned on Highway 230 near milepost 9 in rural Douglas County on Tuesday afternoon. An Oregon State Police report said troopers responded to the wreck at 4:50 p.m. The vehicle was blocking all lanes and was loaded with boxes of bees, which slowed...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOTTEST DAY OF 2026 SO FAR ON WEDNESDAY, NEW RECORD HIGH FOR DATE]]></title>
         <id>https://kqennewsradio.com/?p=144905</id>
