@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=144976",
+          "author": "Kyle Bailey",
+          "description": "Jeannie Haacke of the Mary Gilbert at Keller Williams Southern Oregon has our weekly local look at real estate:",
+          "link": "https://kqennewsradio.com/2026/03/20/local-real-estate-today-03-20-26/?utm_source=rss&utm_medium=rss&utm_campaign=local-real-estate-today-03-20-26",
+          "publishedOn": "2026-03-20T16:24:56.000Z",
+          "wordCount": 1637,
+          "title": "LOCAL REAL ESTATE TODAY 03.20.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260320151550/LRET-03-20-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260320151826/jEANNIE-4.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=144970",
+          "author": "Kyle Bailey",
+          "description": "Ali Shaver of Wildlife Safari talks about Spring Break happenings at Wildlife Safari.",
+          "link": "https://kqennewsradio.com/2026/03/20/morning-conversation-03-20-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-03-20-26",
+          "publishedOn": "2026-03-20T16:19:00.000Z",
+          "wordCount": 1627,
+          "title": "MORNING CONVERSATION 03.20.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260320151518/AM-CONV-03-20-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260320151817/Ali-7.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=144965",
           "author": "Kyle Bailey",
           "description": "March 20, 2026 6:30 a.m.   The Bureau of Land Management is seeking seasonal volunteer hosts for several recreation sites in Oregon and Washington. A BLM release said hosts will help connect visitors to public lands during a milestone year as the nation celebrates its 250th anniversary, and the BLM celebrates its 80th anniversary. Campground hosts...",
@@ -674,6 +704,66 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2fc02306-ce97-47b5-a8d7-7e30fe184798",
+          "author": "Kris Wiley For The News-Review",
+          "description": "The In-N-Out Burger reading program is back for a third year at Roseburg Public Library.",
+          "link": "https://www.nrtoday.com/a_and_e/kids-invited-to-read-for-in-n-out-burgers/article_2fc02306-ce97-47b5-a8d7-7e30fe184798.html",
+          "publishedOn": "2026-03-20T16:00:00.000Z",
+          "wordCount": 12368,
+          "title": "Kids invited to read for In-N-Out Burgers",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227",
+            "length": "188004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/e9/be95c130-c7a1-11ef-9046-ff99053450ac/6774324947ab3.image.jpg?resize=300%2C227"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/26d3003d-98dd-4550-94d1-ea386685ac77",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "The Douglas County Board of Commissioners held a public hearing Wednesday in which citizens came forward to share their thoughts and concerns for an amended plan to allow 20-acre parcels on rural county lands. After the public hearing, the board…",
+          "link": "https://www.nrtoday.com/news/douglas-county-board-of-commissioners-hold-public-hearing-on-rt-20-zone-designation/article_26d3003d-98dd-4550-94d1-ea386685ac77.html",
+          "publishedOn": "2026-03-20T15:00:00.000Z",
+          "wordCount": 13160,
+          "title": "Douglas County Board of Commissioners hold public hearing on RT-20 Zone Designation",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/84/584b58ba-d628-47c6-aa3c-66dba9c91375/69bb10d48a6f9.image.jpg?resize=300%2C200",
+            "length": "434661",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/84/584b58ba-d628-47c6-aa3c-66dba9c91375/69bb10d48a6f9.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9175e9ab-df81-46b6-8149-0c4e1127a56a",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "There are plenty of people that never set foot in Umpqua Valley, but that doesn’t mean it hasn’t come to them. In dairy aisles and freezer boxes across the Western U.S., the region’s namesake is there, printed on the sides…",
+          "link": "https://www.nrtoday.com/business/a-local-legacy-inside-umpqua-dairy/article_9175e9ab-df81-46b6-8149-0c4e1127a56a.html",
+          "publishedOn": "2026-03-20T15:00:00.000Z",
+          "wordCount": 13573,
+          "title": "A local legacy: Inside Umpqua Dairy",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/82/382383d6-6b19-4342-9c85-c915dd31908b/69b838da1f443.image.jpg?resize=300%2C200",
+            "length": "372534",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/82/382383d6-6b19-4342-9c85-c915dd31908b/69b838da1f443.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/7e471cd6-35f5-4344-bcca-373c5e228fb9",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Oregon State University Extension Service, along with community partners, has opened registration for the Southwest Oregon Field Experience. The tour explores ecology, landscape and natural history in the Umpqua Basin and Klamath-Siskiyou Mountains.",
+          "link": "https://www.nrtoday.com/news/education/southwest-oregon-field-experience-registration-is-open/article_7e471cd6-35f5-4344-bcca-373c5e228fb9.html",
+          "publishedOn": "2026-03-20T13:00:00.000Z",
+          "wordCount": 12690,
+          "title": "Southwest Oregon Field Experience registration is open",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71cc9753-02d9-45fd-8c27-ab1a5695b399/69bce6bd92a84.image.jpg?resize=300%2C225",
+            "length": "635406",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/1c/71cc9753-02d9-45fd-8c27-ab1a5695b399/69bce6bd92a84.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0a7e147b-7972-413e-b9e1-4f1a053a16f1",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "SUTHERLIN — For some, getting their first tattoo can be a daunting experience, even more so if they feel they're in a judgmental, uncomfortable environment. This experience is what Rose Ink's body artists are working to challenge.",
@@ -791,6 +881,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69bd6c7716611600017a4983",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported arrests and citations Thursday and early Friday, including multiple warrant cases, prohibited camping citations, two non-injury crashes, a suspended-driver stop, a trespass and parole case, and a warrant arrest that included meth possession.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-march-19-2026/",
+          "publishedOn": "2026-03-20T15:53:56.000Z",
+          "wordCount": 3477,
+          "title": "Police Log: March 19, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-14.jpg"
+        },
+        {
+          "id": "69bd4f6a16611600017a47ed",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-20-2026/",
+          "publishedOn": "2026-03-20T14:01:31.000Z",
+          "wordCount": 5896,
+          "title": "March 20, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-14.png"
+        },
         {
           "id": "69bc230216611600017a47d7",
           "author": "Joseph Ziegler",
