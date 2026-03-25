@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-25T12:39:23.566Z</updated>
+    <updated>2026-03-25T14:10:28.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[March 25, 2026]]></title>
+        <id>69c3e0ad16611600017a4f9f</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-25-2026/"/>
+        <updated>2026-03-25T13:36:27.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FROST POSSIBLE EARLY THURSDAY AND FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=145143</id>
+        <link href="https://kqennewsradio.com/2026/03/25/frost-possible-early-thursday-and-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frost-possible-early-thursday-and-friday"/>
+        <updated>2026-03-25T12:53:58.000Z</updated>
+        <summary type="html"><![CDATA[March 25, 2026 5:50 a.m.  Frost is possible early Thursday and Friday in the Umpqua Valley with a wide swing between early morning and afternoon temperatures. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that this is another example of the unusual weather seen in recent months....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAYOR RICH ANNOUNCES CITY MANAGER’S PLANNED RETIREMENT]]></title>
         <id>https://kqennewsradio.com/?p=145140</id>
@@ -720,16 +740,6 @@ The post Rentec Direct Marks 10 Years of Investing in Oregon’s Tech Workforce 
 The post Oregon’s Business Climate is “frustrating” appeared first on Southern Oregon Business Journal.]]></summary>
         <author>
             <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Daily Bus Route Will Connect Roseburg To Eugene, Medford Starting In April]]></title>
-        <id>69bf41e416611600017a49fd</id>
-        <link href="https://www.theroseburgreceiver.com/new-daily-bus-route-will-connect-roseburg-to-eugene-medford-starting-in-april/"/>
-        <updated>2026-03-22T01:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg travelers will soon have a new way to get between Eugene and Medford. Pacific Crest Bus Lines plans to launch daily service in April, with stops in Roseburg, Sutherlin, Seven Feathers, Grants Pass and more.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
