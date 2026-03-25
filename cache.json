@@ -6,6 +6,51 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145160",
+          "author": "Kyle Bailey",
+          "description": "March 25, 2026 9:50 a.m.  Roseburg Police jailed a fugitive early Wednesday morning. An RPD report said on March 16th, officers attempted a traffic stop on the 48-year-old after he committed a violation on a bicycle. The man fled from the scene and officers could not contact him. Wednesday at 1:30 a.m. officers again tried...",
+          "link": "https://kqennewsradio.com/2026/03/25/roseburg-police-jail-fugitive-early-wednesday-3/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-fugitive-early-wednesday-3",
+          "publishedOn": "2026-03-25T16:52:53.000Z",
+          "wordCount": 1689,
+          "title": "ROSEBURG POLICE JAIL FUGITIVE EARLY WEDNESDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145158",
+          "author": "Kyle Bailey",
+          "description": "March 25, 2026 9:30 a.m.  Roseburg Police jailed a woman for a reported trespass incident on Tuesday night. An RPD report said at 11:20 p.m. officers arrested the 33-year-old for trespassing at a facility on the Roseburg VA campus, after she returned following previously being trespassed from the location. The woman was charged with second-degree...",
+          "link": "https://kqennewsradio.com/2026/03/25/roseburg-police-jail-woman-for-reported-trespass-incident-9/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-woman-for-reported-trespass-incident-9",
+          "publishedOn": "2026-03-25T16:40:19.000Z",
+          "wordCount": 1626,
+          "title": "ROSEBURG POLICE JAIL WOMAN FOR REPORTED TRESPASS INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145156",
+          "author": "Kyle Bailey",
+          "description": "March 25, 2026 9:20 a.m.   Roseburg Police jailed two people following an alleged assault incident on Tuesday. An RPD report said at 2:00 p.m. a disturbance was called near an Adapt Integrated Health Care building in the 400 block of Northeast Winchester Street. The report said one man was possibly possessing a firearm. Two people...",
+          "link": "https://kqennewsradio.com/2026/03/25/roseburg-police-jail-two-people-following-alleged-assault-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-two-people-following-alleged-assault-incident",
+          "publishedOn": "2026-03-25T16:33:44.000Z",
+          "wordCount": 1690,
+          "title": "ROSEBURG POLICE JAIL TWO PEOPLE FOLLOWING ALLEGED ASSAULT INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145153",
+          "author": "Kyle Bailey",
+          "description": "Spring Fair organizer Louis Montano talks about the 49th annual event happening Friday through Sunday at the Douglas County Fairgrounds.",
+          "link": "https://kqennewsradio.com/2026/03/25/morning-conversation-03-25-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-03-25-26",
+          "publishedOn": "2026-03-25T16:12:56.000Z",
+          "wordCount": 1641,
+          "title": "MORNING CONVERSATION 03.25.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260325151049/AM-CONV-03-25-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260320091637/Springfair.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145143",
           "author": "Kyle Bailey",
           "description": "March 25, 2026 5:50 a.m.  Frost is possible early Thursday and Friday in the Umpqua Valley with a wide swing between early morning and afternoon temperatures. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that this is another example of the unusual weather seen in recent months....",
@@ -574,74 +619,23 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": [
-        {
-          "id": "https://southernoregonbusiness.com/?p=9210",
-          "author": "Jim Teece",
-          "description": "Why LLMs Failed Me Debugging a Design and What That Says About Their Limits by Vinnie Moscaritolo – Reprinted with permission by the author – Original post User: Is this mushroom edible? LLM: Yes, that mushroom is edible. User: I just ate it and now I’m vomiting. LLM: Thank you for pointing that out. That mushroom is actually poisonous.…\nThe post The Illusion of AI Wisdom appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/the-illusion-of-ai-wisdom/",
-          "publishedOn": "2026-03-22T04:04:28.000Z",
-          "wordCount": 5635,
-          "title": "The Illusion of AI Wisdom",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/03/vinnie-ai-story-image.webp"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9204",
-          "author": "Jim Teece",
-          "description": "(Ashland, Ore.) — Build a better mousetrap, and the world will beat a path to your door. Build a better beer cooler, and you just may save lives. Mark Morrison set out to do that – build a tech-heavy, personal-use cooler to keep a beverage cold – when he realized that his invention may have…\nThe post SOU grad’s beverage cooler idea pivots toward humanitarian use appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/sou-grads-beverage-cooler-idea-pivots-toward-humanitarian-use/",
-          "publishedOn": "2026-03-22T03:44:32.000Z",
-          "wordCount": 3388,
-          "title": "SOU grad’s beverage cooler idea pivots toward humanitarian use",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/03/InventOR2-Mark-Morrison-1030x579-1.jpg"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9201",
-          "author": "Jim Teece",
-          "description": "February 17, 2026/in Campus News, Press Releases (Ashland, Ore.) – Two new and four continuing members have been appointed by Gov. Tina Kotek and confirmed today by the Oregon Senate to serve on the Board of Trustees of Southern Oregon University. The new trustees are former Oregon State Rep. Peter Buckley and Christopher Geryak, an SOU junior…\nThe post Six trustees appointed and confirmed to SOU Board appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/six-trustees-appointed-and-confirmed-to-sou-board/",
-          "publishedOn": "2026-03-22T03:42:31.000Z",
-          "wordCount": 3177,
-          "title": "Six trustees appointed and confirmed to SOU Board",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/03/buckley-geryak-BOT-1030x579-1.jpg"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9197",
-          "author": "Jim Teece",
-          "description": "Grants Pass tech company, Rentec Direct, earns third consecutive recognition from Oregon Business Magazine GRANTS PASS, Ore., March 12, 2026 /PRNewswire-PRWeb/ — With half of U.S. companies expecting employee turnover to rise this year—at an average cost of $45,000 per employee—stability has become a competitive advantage. At Rentec Direct, that advantage is measurable: the Southern Oregon-based tech company has…\nThe post Small Team, Big Impact: Rentec Direct Named One of Oregon’s Best Workplaces appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/small-team-big-impact-rentec-direct-named-one-of-oregons-best-workplaces/",
-          "publishedOn": "2026-03-22T03:36:03.000Z",
-          "wordCount": 3093,
-          "title": "Small Team, Big Impact: Rentec Direct Named One of Oregon’s Best Workplaces",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/03/Screenshot-2026-03-21-at-9.43.32-PM.png"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9195",
-          "author": "Jim Teece",
-          "description": "Grants Pass software company, Rentec Direct, celebrates the anniversary of its Tech Mastery Scholarship as demand for skilled tech talent grows statewide GRANTS PASS, Ore., Feb. 18, 2026 /PRNewswire-PRWeb/ — Rentec Direct, an Oregon-based property management software company serving clients nationwide, is celebrating the 10th anniversary of its Tech Mastery Scholarship. Launched in 2016, the initiative supports Oregon college…\nThe post Rentec Direct Marks 10 Years of Investing in Oregon’s Tech Workforce appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/rentec-direct-marks-10-years-of-investing-in-oregons-tech-workforce/",
-          "publishedOn": "2026-03-22T03:34:26.000Z",
-          "wordCount": 3197,
-          "title": "Rentec Direct Marks 10 Years of Investing in Oregon’s Tech Workforce",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
-        },
-        {
-          "id": "https://southernoregonbusiness.com/?p=9193",
-          "author": "Jim Teece",
-          "description": "I was doing a search for recent news about business in Oregon, looking for stories to publish this month in the journal, and Google gave me the following AI overview: Oregon’s business landscape is facing significant challenges, with business bankruptcies hitting a 12-year high, rising 25% over the past year due to high interest rates and…\nThe post Oregon’s Business Climate is “frustrating” appeared first on Southern Oregon Business Journal.",
-          "link": "https://southernoregonbusiness.com/oregons-business-climate-is-frustrating/",
-          "publishedOn": "2026-03-22T03:29:36.000Z",
-          "wordCount": 3221,
-          "title": "Oregon’s Business Climate is “frustrating”",
-          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2024/09/SOBJ-OG.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69c4036e16611600017a513c",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported a busy March 24 and early March 25, with arrests and citations tied to prohibited camping, vehicle break-ins, trespassing, assault, warrants and drug possession. Several suspects were lodged at Douglas County Corrections.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-march-24-2026/",
+          "publishedOn": "2026-03-25T15:50:00.000Z",
+          "wordCount": 3685,
+          "title": "Police Log: March 24, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-17.jpg"
+        },
         {
           "id": "69c3e0ad16611600017a4f9f",
           "author": "Joseph Ziegler",
@@ -818,7 +812,38 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/8b532589-52c9-49ab-b764-692b27ddfb07",
+          "author": "News Staff",
+          "description": "DOUGLAS COUNTY, Ore. - Connecting Point, a mobile navigation program serving communities throughout Douglas County, continues to expand access to life-saving resources through a harm reduction-focused approach and is inviting additional agencies and organizations to join its growing network of…",
+          "link": "https://www.kezi.com/news/local/connecting-point-expands-harm-reduction-services-across-douglas-county/article_8b532589-52c9-49ab-b764-692b27ddfb07.html",
+          "publishedOn": "2026-03-24T22:35:00.000Z",
+          "wordCount": 8143,
+          "title": "Connecting Point expands harm reduction services across Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/7/9c/79c7b8e6-888f-4dfb-b4ae-5cebbbf371b3/69c3144d93392.image.jpg?resize=300%2C225",
+            "length": "203562",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/7/9c/79c7b8e6-888f-4dfb-b4ae-5cebbbf371b3/69c3144d93392.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/74b230ba-36b3-46cf-8259-511338dabd00",
+          "author": "Chelsea Deffenbacher",
+          "description": "An Albany man is accused of luring a minor to a motel room and engaging in sexual contact in exchange for money she needed to care for her infant.",
+          "link": "https://www.kezi.com/news/local/albany-man-charged-in-douglas-county-for-luring-minor-to-motel/article_74b230ba-36b3-46cf-8259-511338dabd00.html",
+          "publishedOn": "2026-03-24T17:08:00.000Z",
+          "wordCount": 8181,
+          "title": "Albany man charged in Douglas County for luring minor to motel",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/dc/3dcb325f-a46e-519f-a923-e1509c9088a2/61def96a4e4fb.image.jpg?resize=300%2C169",
+            "length": "37823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/dc/3dcb325f-a46e-519f-a923-e1509c9088a2/61def96a4e4fb.image.jpg?resize=300%2C169"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
