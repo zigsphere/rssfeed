@@ -792,6 +792,46 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69c68a5916611600017a55c0",
+          "author": "Joseph Ziegler",
+          "description": "Warmer weather is settling into Roseburg through Sunday, with sunny skies, mild afternoons in the mid-60s, and cool nights. Rain chances return late Sunday night as a colder, wetter pattern begins to move back into the area.",
+          "link": "https://www.theroseburgreceiver.com/warmer-weekend-ahead-for-roseburg-rain-returns-late-sunday/",
+          "publishedOn": "2026-03-27T13:48:59.000Z",
+          "wordCount": 2938,
+          "title": "Warmer Weekend Ahead for Roseburg, Rain Returns Late Sunday",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/sunny.jpg"
+        },
+        {
+          "id": "69c6886116611600017a55aa",
+          "author": "Joseph Ziegler",
+          "description": "The 49th Annual Spring Fair returns to the Douglas County Fairgrounds this weekend with more than 125 booths, handmade goods, live entertainment, food and family-friendly fun. The three-day event runs Friday through Sunday in Douglas Hall.",
+          "link": "https://www.theroseburgreceiver.com/douglas-county-spring-fair-returns-this-weekend-with-crafts-food-and-live-entertainment/",
+          "publishedOn": "2026-03-27T13:40:16.000Z",
+          "wordCount": 2924,
+          "title": "Douglas County Spring Fair Returns This Weekend With Crafts, Food and Live Entertainment",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Springfair-1.jpg"
+        },
+        {
+          "id": "69c6863616611600017a558b",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Skate Park has new upgrades just in time for warmer weather, including a pavilion, drinking fountain, bottle filling station and dog bowl. Picnic tables are also on the way as the city prepares the park for a busy spring and summer season.",
+          "link": "https://www.theroseburgreceiver.com/new-pavilion-water-station-added-at-roseburg-skate-park-ahead-of-summer/",
+          "publishedOn": "2026-03-27T13:33:17.000Z",
+          "wordCount": 3120,
+          "title": "New Pavilion, Water Station Added at Roseburg Skate Park Ahead of Summer",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/Skate-Park-Pavilion.jpg"
+        },
+        {
+          "id": "69c6814816611600017a53f9",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-27-2026/",
+          "publishedOn": "2026-03-27T13:25:42.000Z",
+          "wordCount": 5982,
+          "title": "March 27, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-19.png"
+        },
+        {
           "id": "69c566ce16611600017a53be",
           "author": "Joseph Ziegler",
           "description": "Roseburg police reported six incidents in the latest log, including arrests for criminal prohibited camping, harassment, trespass and warrants, along with a prohibited-camping citation early Thursday.",
@@ -920,36 +960,6 @@
           "wordCount": 7113,
           "title": "March 24, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-16.png"
-        },
-        {
-          "id": "69c1ed0916611600017a4d4c",
-          "author": "Joseph Ziegler",
-          "description": "ODOT plans major repairs on the I-5 Winchester bridges near Roseburg, with work expected to begin this spring. Drivers should expect nighttime lane closures, width restrictions and ramp impacts near Exit 129 as construction continues through Sept. 15.",
-          "link": "https://www.theroseburgreceiver.com/odot-plans-i-5-winchester-bridge-repairs-near-roseburg/",
-          "publishedOn": "2026-03-24T01:54:24.000Z",
-          "wordCount": 3097,
-          "title": "ODOT Plans I-5 Winchester Bridge Repairs Near Roseburg",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/bridge_winchester.png"
-        },
-        {
-          "id": "69c1e00b16611600017a4d30",
-          "author": "Joseph Ziegler",
-          "description": "Several U-Trans passengers were taken to Mercy Medical Center with minor injuries after police said a semi-truck trailer struck a stopped bus Friday morning at Northeast Garden Valley Boulevard and Northeast Airport Road in Roseburg.",
-          "link": "https://www.theroseburgreceiver.com/semi-truck-trailer-strikes-u-trans-bus-in-roseburg-several-passengers-report-minor-injuries/",
-          "publishedOn": "2026-03-24T01:00:08.000Z",
-          "wordCount": 2780,
-          "title": "Semi-Truck Trailer Strikes U-Trans Bus In Roseburg, Several Passengers Report Minor Injuries",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/semi_utrans.png"
-        },
-        {
-          "id": "69c1df6416611600017a4d1a",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police said a 31-year-old man was arrested Friday morning after allegedly stealing candy and donuts from R Mart on West Harvard Avenue, then fleeing officers on a bicycle before being caught and taken into custody.",
-          "link": "https://www.theroseburgreceiver.com/man-arrested-after-donut-theft-and-chase-in-roseburg/",
-          "publishedOn": "2026-03-24T00:49:41.000Z",
-          "wordCount": 2773,
-          "title": "Man Arrested After Donut Theft And Chase In Roseburg",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/police_car-3.webp"
         }
       ]
     },

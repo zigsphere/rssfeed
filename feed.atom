@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-03-27T12:37:37.049Z</updated>
+    <updated>2026-03-27T14:03:32.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warmer Weekend Ahead for Roseburg, Rain Returns Late Sunday]]></title>
+        <id>69c68a5916611600017a55c0</id>
+        <link href="https://www.theroseburgreceiver.com/warmer-weekend-ahead-for-roseburg-rain-returns-late-sunday/"/>
+        <updated>2026-03-27T13:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Warmer weather is settling into Roseburg through Sunday, with sunny skies, mild afternoons in the mid-60s, and cool nights. Rain chances return late Sunday night as a colder, wetter pattern begins to move back into the area.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Spring Fair Returns This Weekend With Crafts, Food and Live Entertainment]]></title>
+        <id>69c6886116611600017a55aa</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-spring-fair-returns-this-weekend-with-crafts-food-and-live-entertainment/"/>
+        <updated>2026-03-27T13:40:16.000Z</updated>
+        <summary type="html"><![CDATA[The 49th Annual Spring Fair returns to the Douglas County Fairgrounds this weekend with more than 125 booths, handmade goods, live entertainment, food and family-friendly fun. The three-day event runs Friday through Sunday in Douglas Hall.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Pavilion, Water Station Added at Roseburg Skate Park Ahead of Summer]]></title>
+        <id>69c6863616611600017a558b</id>
+        <link href="https://www.theroseburgreceiver.com/new-pavilion-water-station-added-at-roseburg-skate-park-ahead-of-summer/"/>
+        <updated>2026-03-27T13:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Skate Park has new upgrades just in time for warmer weather, including a pavilion, drinking fountain, bottle filling station and dog bowl. Picnic tables are also on the way as the city prepares the park for a busy spring and summer season.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March 27, 2026]]></title>
+        <id>69c6814816611600017a53f9</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-27-2026/"/>
+        <updated>2026-03-27T13:25:42.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Farmstand, owned by Lehne Farms, offers fresh food]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/b3254cba-233f-4037-9024-ba7362dcd11e</id>
@@ -844,36 +884,6 @@
         <summary type="html"><![CDATA[March 24, 2026 2:50 a.m. Summer camp registration is officially open at the Boys & Girls Club of the Umpqua Valley. A club release said this year’s camp features a dynamic mix of STEAM and sports experiences, designed to keep youth engaged, active, and learning throughout the summer. Due to strong partnerships with local organizations...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODOT Plans I-5 Winchester Bridge Repairs Near Roseburg]]></title>
-        <id>69c1ed0916611600017a4d4c</id>
-        <link href="https://www.theroseburgreceiver.com/odot-plans-i-5-winchester-bridge-repairs-near-roseburg/"/>
-        <updated>2026-03-24T01:54:24.000Z</updated>
-        <summary type="html"><![CDATA[ODOT plans major repairs on the I-5 Winchester bridges near Roseburg, with work expected to begin this spring. Drivers should expect nighttime lane closures, width restrictions and ramp impacts near Exit 129 as construction continues through Sept. 15.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semi-Truck Trailer Strikes U-Trans Bus In Roseburg, Several Passengers Report Minor Injuries]]></title>
-        <id>69c1e00b16611600017a4d30</id>
-        <link href="https://www.theroseburgreceiver.com/semi-truck-trailer-strikes-u-trans-bus-in-roseburg-several-passengers-report-minor-injuries/"/>
-        <updated>2026-03-24T01:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Several U-Trans passengers were taken to Mercy Medical Center with minor injuries after police said a semi-truck trailer struck a stopped bus Friday morning at Northeast Garden Valley Boulevard and Northeast Airport Road in Roseburg.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Arrested After Donut Theft And Chase In Roseburg]]></title>
-        <id>69c1df6416611600017a4d1a</id>
-        <link href="https://www.theroseburgreceiver.com/man-arrested-after-donut-theft-and-chase-in-roseburg/"/>
-        <updated>2026-03-24T00:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police said a 31-year-old man was arrested Friday morning after allegedly stealing candy and donuts from R Mart on West Harvard Avenue, then fleeing officers on a bicycle before being caught and taken into custody.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
