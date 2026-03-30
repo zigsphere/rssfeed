@@ -294,6 +294,51 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/df41967e-a59a-4f80-9544-87254a1ac291",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "On March 25, the Oregon Department of Forestry (ODF) announced $3 million in awards to fund planning assistance for federal projects. Among the recipients is a project in the Umpqua National Forest to reduce wildfire risk and create timber opportunities.",
+          "link": "https://www.nrtoday.com/news/odf-announces-650-000-in-planning-assistance-funding-for-umpqua-national-forest-project/article_df41967e-a59a-4f80-9544-87254a1ac291.html",
+          "publishedOn": "2026-03-30T14:00:00.000Z",
+          "wordCount": 12479,
+          "title": "ODF announces $650,000 in planning assistance funding for Umpqua National Forest project",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ab/3abaf7ae-f674-11ed-a22c-c36cb9d6ca90/6467c1f209060.image.jpg?resize=300%2C225",
+            "length": "559774",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ab/3abaf7ae-f674-11ed-a22c-c36cb9d6ca90/6467c1f209060.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ce635339-c0bc-45ca-bd78-b9d2f9a7b0d0",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "Ashlee Reicherts of Sutherlin stood behind her booth Saturday, pointing out and describing her wares as Spring Fair attendees walked past.",
+          "link": "https://www.nrtoday.com/news/local/spring-fair-keeps-bringing-people-back-to-sell-winter-crafts/article_ce635339-c0bc-45ca-bd78-b9d2f9a7b0d0.html",
+          "publishedOn": "2026-03-30T13:30:00.000Z",
+          "wordCount": 12953,
+          "title": "Spring Fair keeps bringing people back to sell winter crafts",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/62/6622193a-5a70-48f0-a811-1112c978c149/69c88ace92fbb.image.jpg?resize=300%2C200",
+            "length": "409621",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/62/6622193a-5a70-48f0-a811-1112c978c149/69c88ace92fbb.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8024697f-66ca-4aa5-8a42-86ed18453a82",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "People were packed on the sidewalk along Stewart Parkway stretching from the front of the Community Cancer Center all the way to the corner occupied by the Human Bean, holding signs and waving in Roseburg's No Kings protest Saturday.",
+          "link": "https://www.nrtoday.com/news/government/no-kings-protest-in-roseburg-draws-over-2-000-people/article_8024697f-66ca-4aa5-8a42-86ed18453a82.html",
+          "publishedOn": "2026-03-30T13:00:00.000Z",
+          "wordCount": 12944,
+          "title": "No Kings protest in Roseburg draws over 2,000 people",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fa/afa299cb-8cd2-4078-a7be-680c60c3024f/69c8a24a8505e.image.jpg?resize=300%2C200",
+            "length": "244242",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fa/afa299cb-8cd2-4078-a7be-680c60c3024f/69c8a24a8505e.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/348783ec-d5a1-4314-9697-d2987892ba58",
           "author": "PAUL MORGAN For The News-Review",
           "description": "Venus rules the evening skies. Each night this month brilliant Venus gains a bit of altitude. Look to the west-northwest just after the sunset fades a little to spot a star. That’s Venus. Telescope observers will notice that Venus exhibits…",
@@ -501,6 +546,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69ca83a816611600017a5880",
+          "author": "Joseph Ziegler",
+          "description": "Showers are expected to return to Roseburg this week, with the heaviest rain likely Wednesday and a chance of thunderstorms by evening. Drier, warmer weather is expected to return by Friday, with highs climbing back into the low 70s by the weekend.",
+          "link": "https://www.theroseburgreceiver.com/showers-return-to-roseburg-this-week-with-heavier-rain-midweek/",
+          "publishedOn": "2026-03-30T14:11:48.000Z",
+          "wordCount": 3033,
+          "title": "Showers Return To Roseburg This Week, With Heavier Rain Midweek",
+          "imageUrl": "https://images.unsplash.com/photo-1527766833261-b09c3163a791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHJhaW58ZW58MHx8fHwxNzc0ODc5NzA5fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69c9f5ab16611600017a567e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-30-2026/",
+          "publishedOn": "2026-03-30T13:42:16.000Z",
+          "wordCount": 6833,
+          "title": "March 30, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-20.png"
+        },
         {
           "id": "69c8b1cd16611600017a5669",
           "author": "Joseph Ziegler",
