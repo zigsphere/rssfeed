@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145341",
+          "author": "Kyle Bailey",
+          "description": "March 30, 2026 9:20 a.m.   Roseburg Police jailed a man Sunday evening for a prior strangulation incident. An RPD report on Thursday, the 27-year-old allegedly grabbed a victim by the throat, restricting her normal breathing pattern. The incident was witnessed by a mutual friend and reportedly took place in the 2000 block of Northwest Stewart...",
+          "link": "https://kqennewsradio.com/2026/03/30/roseburg-police-jail-man-for-prior-strangulation-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-prior-strangulation-incident",
+          "publishedOn": "2026-03-30T16:34:05.000Z",
+          "wordCount": 1667,
+          "title": "ROSEBURG POLICE JAIL MAN FOR PRIOR STRANGULATION INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145336",
+          "author": "Kyle Bailey",
+          "description": "YMCA of Douglas County Youth and Family Director Micki Pargeter and Recruit HIPPO Program Manager TJ Cooper talk about a new YMCA Teen Workforce Development Program.",
+          "link": "https://kqennewsradio.com/2026/03/30/morning-conversation-03-30-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-03-30-26",
+          "publishedOn": "2026-03-30T16:15:02.000Z",
+          "wordCount": 1654,
+          "title": "MORNING CONVERSATION 03.30.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260330150747/AM-CONV-03-30-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260330151424/Micki.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145330",
           "author": "Kyle Bailey",
           "description": "March 30, 2026 4:00 a.m.    Light showers are expected to begin the work week in the Umpqua Valley with more rain coming later in the week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs on Monday and Tuesday will be in the upper 50s...",
@@ -546,6 +571,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69ca9f2516611600017a58cc",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported a busy March 27-29 with multiple DUII arrests, thefts, trespass cases, warrants, parole and probation violations, a hit-and-run arrest, and a strangulation case, according to the latest City of Roseburg police log.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-march-27-march-29-2026/",
+          "publishedOn": "2026-03-30T16:06:59.000Z",
+          "wordCount": 6199,
+          "title": "Police Log: March 27 - March 29, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/police_lights2-19.jpg"
+        },
+        {
+          "id": "69ca919a16611600017a58a5",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua National Forest and the National Forest Foundation planted 429,500 seedlings across 2,255 acres this winter, including helicopter-supported planting in hard-to-reach areas burned by the Jack, Little Bend, Chaos and Archie Creek fires.",
+          "link": "https://www.theroseburgreceiver.com/umpqua-national-forest-national-forest-foundation-plant-429-500-seedlings-across-burn-areas/",
+          "publishedOn": "2026-03-30T15:11:11.000Z",
+          "wordCount": 2883,
+          "title": "Umpqua National Forest, National Forest Foundation Plant 429,500 Seedlings Across Burn Areas",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/trees.jpg"
+        },
         {
           "id": "69ca83a816611600017a5880",
           "author": "Joseph Ziegler",
