@@ -368,6 +368,46 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69cbd5ff16611600017a5b21",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Public Library is asking the community to help shape its 2026 Summer Reading Program. Residents can take the “2026 SRP Survey” at RoseburgPublicLibrary.org, email feedback, or pick up a paper copy at the library. Responses are due by Saturday, April 11.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-library-seeks-community-input-as-summer-reading-plans-take-shape/",
+          "publishedOn": "2026-03-31T14:14:32.000Z",
+          "wordCount": 2931,
+          "title": "Roseburg Library Seeks Community Input As Summer Reading Plans Take Shape",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/Kids-Read-Books.jpg"
+        },
+        {
+          "id": "69cbd3f116611600017a5b04",
+          "author": "Joseph Ziegler",
+          "description": "The Oregon 42 improvement project in Winston is continuing, with ODOT announcing overnight road work through early April. Drivers should expect intermittent lane closures at night as crews complete utility adjustments and pavement repairs.",
+          "link": "https://www.theroseburgreceiver.com/odot-oregon-42-project-in-winston-continues-with-night-work-in-early-april/",
+          "publishedOn": "2026-03-31T14:05:19.000Z",
+          "wordCount": 2884,
+          "title": "ODOT: Oregon 42 Project In Winston Continues With Night Work In Early April",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/03/R3-Winston42-MAP.jpg"
+        },
+        {
+          "id": "69cbd33716611600017a5af0",
+          "author": "Joseph Ziegler",
+          "description": "A Winter Storm Watch remains in effect from late Tuesday night through Thursday afternoon for parts of the southern Oregon Cascades and eastern Douglas County foothills, where 10 to 20 inches of snow and wind gusts up to 40 mph are possible.",
+          "link": "https://www.theroseburgreceiver.com/winter-storm-watch-issued-for-cascades-eastern-douglas-county-foothills/",
+          "publishedOn": "2026-03-31T13:59:53.000Z",
+          "wordCount": 2831,
+          "title": "Winter Storm Watch Issued For Cascades, Eastern Douglas County Foothills",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/winter_storm_watch-1.png"
+        },
+        {
+          "id": "69cbcd0616611600017a5931",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/march-31-2026/",
+          "publishedOn": "2026-03-31T13:53:26.000Z",
+          "wordCount": 6570,
+          "title": "March 31, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/03/The-Morning-Scoop-21.png"
+        },
+        {
           "id": "69cb0e2e16611600017a58fd",
           "author": "Joseph Ziegler",
           "description": "Adapt Integrated Health Care honored Q1 2026 employees with a March 19 recognition luncheon celebrating 110 combined years of service. Leaders praised the honorees’ dedication, compassion and long-term impact on the organization and the communities it serves.",
@@ -475,49 +515,19 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.kezi.com/tncms/asset/editorial/2dea92dd-e0af-4828-b75a-d41a9fcabb8b",
+          "id": "http://www.kezi.com/tncms/asset/editorial/5913e121-b8fa-4bf8-94f7-db2dd3cf0a28",
           "author": "News Staff",
-          "description": "Douglas Education Service District will host an open house for people interested in becoming a Speech-Language Pathology Assistant on Monday, March 30 from 4 to 5:30 p.m.",
-          "link": "https://www.kezi.com/news/local/douglas-esd-hosting-open-house-for-aspiring-speech-assistants/article_2dea92dd-e0af-4828-b75a-d41a9fcabb8b.html",
-          "publishedOn": "2026-03-27T23:01:00.000Z",
-          "wordCount": 7903,
-          "title": "Douglas ESD hosting open house for aspiring speech assistants",
+          "description": "Kids 10 and under can hunt for colorful eggs dropped from a fire truck ladder at Fir Grove Park on Saturday, April 4.",
+          "link": "https://www.kezi.com/news/local/roseburgs-easter-egg-drop-offers-prizes-bunny-photos/article_5913e121-b8fa-4bf8-94f7-db2dd3cf0a28.html",
+          "publishedOn": "2026-03-30T22:14:00.000Z",
+          "wordCount": 8031,
+          "title": "Roseburg's Easter Egg Drop offers prizes, bunny photos",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/d6/9d6a99bb-528d-43a1-9901-f51c7c5b8b90/69c70d2a6ea42.image.jpg?resize=300%2C214",
-            "length": "257903",
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/56/3569db01-d528-4ae0-9b51-f1c7d5bd7741/69caf6e2d51d5.image.jpg?resize=300%2C227",
+            "length": "315496",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/d6/9d6a99bb-528d-43a1-9901-f51c7c5b8b90/69c70d2a6ea42.image.jpg?resize=300%2C214"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/dd5b46b1-fa57-434f-81e7-3665e95aefa3",
-          "author": "News Staff",
-          "description": "Roseburg Skate Park now has multiple installed improvements after a community grant-funded project wrapped up this week.",
-          "link": "https://www.kezi.com/news/local/roseburg-skate-park-unveils-new-pavilion-amenities/article_dd5b46b1-fa57-434f-81e7-3665e95aefa3.html",
-          "publishedOn": "2026-03-27T19:19:00.000Z",
-          "wordCount": 8170,
-          "title": "Roseburg skate park unveils new pavilion, amenities",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/88/488fe244-954b-4dad-8102-442370515c3d/69c6d90229cfe.image.jpg?resize=300%2C225",
-            "length": "401986",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/88/488fe244-954b-4dad-8102-442370515c3d/69c6d90229cfe.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/987b4cab-191c-46d9-a1c1-dc8aef1a7592",
-          "author": "News Staff",
-          "description": "More than 3,000 \"No Kings\" demonstrations are happening across the country, with events planned for Saturday in communities throughout Southwest Oregon and Northern California.",
-          "link": "https://www.kezi.com/news/local/no-kings-protests-planned-statewide-for-saturday/article_987b4cab-191c-46d9-a1c1-dc8aef1a7592.html",
-          "publishedOn": "2026-03-27T18:03:00.000Z",
-          "wordCount": 7929,
-          "title": "'No Kings' protests planned statewide for Saturday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/1f/21ffd98b-9f03-48a0-9458-d2c3e67900c3/69c6c7f0cb6d2.image.jpg?resize=300%2C170",
-            "length": "59056",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/1f/21ffd98b-9f03-48a0-9458-d2c3e67900c3/69c6c7f0cb6d2.image.jpg?resize=300%2C170"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/56/3569db01-d528-4ae0-9b51-f1c7d5bd7741/69caf6e2d51d5.image.jpg?resize=300%2C227"
         }
       ]
     }
