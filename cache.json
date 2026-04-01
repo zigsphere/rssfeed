@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145454",
+          "author": "Kyle Bailey",
+          "description": "April 1, 2026 9:20 a.m.     Roseburg Police jailed a woman following a reported theft incident on Tuesday. An RPD report said at 9:30 a.m. an officer saw the 49-year-old pushing the Walmart shopping cart in the downtown area but was unable to stop the woman at that time and unable to locate her after...",
+          "link": "https://kqennewsradio.com/2026/04/01/roseburg-police-jail-woman-following-reported-theft-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-woman-following-reported-theft-incident",
+          "publishedOn": "2026-04-01T16:34:04.000Z",
+          "wordCount": 1724,
+          "title": "ROSEBURG POLICE JAIL WOMAN FOLLOWING REPORTED THEFT INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145451",
+          "author": "Kyle Bailey",
+          "description": "Jeff Twibell of Thrive Umpqua joins us live from Ford’s Pond in Sutherlin and talks about National Walking Day and the event happening this morning at the park.",
+          "link": "https://kqennewsradio.com/2026/04/01/morning-conversation-04-01-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-04-01-26",
+          "publishedOn": "2026-04-01T16:06:44.000Z",
+          "wordCount": 1655,
+          "title": "MORNING CONVERSATION 04.01.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260401150315/AM-CONV-04-01-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260324092309/Celebrate-National-walking-day-at-Fords-Pond-e1774347808368.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145446",
           "author": "Kyle Bailey",
           "description": "April 1, 2026 6:00 a.m.  On Tuesday, Oregon Governor Tina Kotek declared a drought in Baker, Deschutes, and Umatilla counties through an Executive Order and director state agencies to coordinate and prioritize assistance to the region. A release from the Governor’s Office said according to the U.S. Drought Monitor, there has been persistent moderate drought...",
@@ -587,6 +612,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69cd3b3916611600017a5e50",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported multiple arrests and citations Tuesday, including warrant cases, several trespass incidents, a parole detainer, and a probation violation tied to reported drug use and disorderly behavior.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-march-31-2026/",
+          "publishedOn": "2026-04-01T15:37:57.000Z",
+          "wordCount": 3648,
+          "title": "Police Log: March 31, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/police_lights2.jpg"
+        },
         {
           "id": "69cd261d16611600017a5e1e",
           "author": "Joseph Ziegler",
