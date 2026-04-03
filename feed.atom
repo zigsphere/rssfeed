@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-03T13:55:54.059Z</updated>
+    <updated>2026-04-03T16:27:09.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 04.03.26]]></title>
+        <id>https://kqennewsradio.com/?p=145561</id>
+        <link href="https://kqennewsradio.com/2026/04/03/local-real-estate-today-04-03-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-04-03-26"/>
+        <updated>2026-04-03T16:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg To Celebrate Arbor Month With Tree Plantings, Photo Contest And Family Activities]]></title>
+        <id>69cfd8e916611600017a6328</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-to-celebrate-arbor-month-with-tree-plantings-photo-contest-and-family-activities/"/>
+        <updated>2026-04-03T15:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Parks and Recreation is celebrating Arbor Month in April with tree care tips, a photo contest, family activity booklets and a volunteer tree-planting event on Arbor Day. Roseburg is also marking 10 years as a Tree City USA community.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[April 3, 2026]]></title>
         <id>69cfbfc516611600017a617f</id>
@@ -1055,16 +1075,6 @@ The post What a 1980s Pizza Parlor Taught Me About Industrial Chaos appeared fir
         <summary type="html"><![CDATA[March 31, 2026 2:50 a.m.   The Roseburg Umpqua Lions Club is now selling See’s Candy for Easter to raise funds to benefit the club’s various community projects. Candy sales will continue through this Saturday, or until the candy sells out. The Lion’s bright yellow candy trailer is located in the northwest corner of Sherm’s Thunderbird...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg's Easter Egg Drop offers prizes, bunny photos]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/5913e121-b8fa-4bf8-94f7-db2dd3cf0a28</id>
-        <link href="https://www.kezi.com/news/local/roseburgs-easter-egg-drop-offers-prizes-bunny-photos/article_5913e121-b8fa-4bf8-94f7-db2dd3cf0a28.html"/>
-        <updated>2026-03-30T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Kids 10 and under can hunt for colorful eggs dropped from a fire truck ladder at Fir Grove Park on Saturday, April 4.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145561",
+          "author": "Kyle Bailey",
+          "description": "Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.",
+          "link": "https://kqennewsradio.com/2026/04/03/local-real-estate-today-04-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=local-real-estate-today-04-03-26",
+          "publishedOn": "2026-04-03T16:21:14.000Z",
+          "wordCount": 1645,
+          "title": "LOCAL REAL ESTATE TODAY 04.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260403151024/LRET-04-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240112161615/mary-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145558",
           "author": "Kyle Bailey",
           "description": "April 3, 2026 6:30 a.m.  A big dose of high pressure is moving into the Umpqua Valley Friday, bringing sunshine and warm weather for Easter weekend, with afternoon high temperatures well above normal. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that high temperatures will be in...",
@@ -843,6 +858,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69cfd8e916611600017a6328",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Parks and Recreation is celebrating Arbor Month in April with tree care tips, a photo contest, family activity booklets and a volunteer tree-planting event on Arbor Day. Roseburg is also marking 10 years as a Tree City USA community.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-to-celebrate-arbor-month-with-tree-plantings-photo-contest-and-family-activities/",
+          "publishedOn": "2026-04-03T15:14:50.000Z",
+          "wordCount": 3300,
+          "title": "Roseburg To Celebrate Arbor Month With Tree Plantings, Photo Contest And Family Activities",
+          "imageUrl": "https://images.unsplash.com/photo-1688394103919-a6dec2ca22bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyM3x8dHJlZSUyMGJsb29taW5nfGVufDB8fHx8MTc3NTIyOTI1NXww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "69cfbfc516611600017a617f",
           "author": "Joseph Ziegler",
           "description": "The Roseburg Receiver Morning Scoop",
@@ -1178,21 +1203,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f7/9f7f6b1f-9df2-4b86-b234-a139f1e2ff9c/68dc66f5c2108.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/5913e121-b8fa-4bf8-94f7-db2dd3cf0a28",
-          "author": "News Staff",
-          "description": "Kids 10 and under can hunt for colorful eggs dropped from a fire truck ladder at Fir Grove Park on Saturday, April 4.",
-          "link": "https://www.kezi.com/news/local/roseburgs-easter-egg-drop-offers-prizes-bunny-photos/article_5913e121-b8fa-4bf8-94f7-db2dd3cf0a28.html",
-          "publishedOn": "2026-03-30T22:14:00.000Z",
-          "wordCount": 8031,
-          "title": "Roseburg's Easter Egg Drop offers prizes, bunny photos",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/56/3569db01-d528-4ae0-9b51-f1c7d5bd7741/69caf6e2d51d5.image.jpg?resize=300%2C227",
-            "length": "315496",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/56/3569db01-d528-4ae0-9b51-f1c7d5bd7741/69caf6e2d51d5.image.jpg?resize=300%2C227"
         }
       ]
     }
