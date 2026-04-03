@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-03T12:36:32.011Z</updated>
+    <updated>2026-04-03T13:55:54.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 3, 2026]]></title>
+        <id>69cfbfc516611600017a617f</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-3-2026/"/>
+        <updated>2026-04-03T13:48:41.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIGH PRESSURE BRINGING WARM EASTER WEEKEND WEATHER]]></title>
+        <id>https://kqennewsradio.com/?p=145558</id>
+        <link href="https://kqennewsradio.com/2026/04/03/high-pressure-bringing-warm-easter-weekend-weather/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=high-pressure-bringing-warm-easter-weekend-weather"/>
+        <updated>2026-04-03T13:36:13.000Z</updated>
+        <summary type="html"><![CDATA[April 3, 2026 6:30 a.m.  A big dose of high pressure is moving into the Umpqua Valley Friday, bringing sunshine and warm weather for Easter weekend, with afternoon high temperatures well above normal. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that high temperatures will be in...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FROST ADVISORY REMAINS THROUGH 9:00 A.M. FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=145552</id>
