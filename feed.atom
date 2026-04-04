@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-03T23:23:32.982Z</updated>
+    <updated>2026-04-04T12:29:18.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Salem Woman Killed In Single-Vehicle Crash On I-5 Near Canyonville]]></title>
+        <id>69d066bc16611600017a635d</id>
+        <link href="https://www.theroseburgreceiver.com/salem-woman-killed-in-single-vehicle-crash-on-i-5-near-canyonville/"/>
+        <updated>2026-04-04T01:19:33.000Z</updated>
+        <summary type="html"><![CDATA[A Salem woman was killed Thursday evening in a single-vehicle crash on Interstate 5 near Canyonville, according to Oregon State Police. The vehicle left the roadway near milepost 95, struck a tree, went down a riverbank and caught fire.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SALEM WOMAN DIES IN FREEWAY ACCIDENT ON THURSDAY NIGHT]]></title>
+        <id>https://kqennewsradio.com/?p=145596</id>
+        <link href="https://kqennewsradio.com/2026/04/03/salem-woman-dies-in-freeway-accident-on-thursday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=salem-woman-dies-in-freeway-accident-on-thursday-night"/>
+        <updated>2026-04-03T23:43:51.000Z</updated>
+        <summary type="html"><![CDATA[May 3, 2026 4:50 p.m.  A Salem woman died in a freeway accident on Thursday night. An Oregon State Police report said just after 6:00 p.m. troopers responded to the wreck on Interstate Five near Milepost 95 in the Canyon Creek area. The preliminary investigation revealed that a sports car operated by 26-year-old Siayrah Jade...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Log: April 2, 2026]]></title>
+        <id>69d04de916611600017a6349</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-april-2-2026/"/>
+        <updated>2026-04-03T23:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported four incidents Thursday, including two arrests, a dog-related citation at the Umpqua Greenway and a theft citation tied to stolen clothing at Roseburg Laundry.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 04.03.26]]></title>
         <id>https://kqennewsradio.com/?p=145591</id>
@@ -948,16 +978,6 @@ The post What a 1980s Pizza Parlor Taught Me About Industrial Chaos appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 03.31.26]]></title>
-        <id>https://kqennewsradio.com/?p=145422</id>
-        <link href="https://kqennewsradio.com/2026/03/31/true-wealth-03-31-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-03-31-26"/>
-        <updated>2026-04-01T00:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn, Justin Bruggeman and Emma Arndt have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Myrtle Creek man jailed for alleged porch theft caught on home camera]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/2c12dde5-1b77-453c-8e61-61d31ed482de</id>
         <link href="https://www.kezi.com/news/local/myrtle-creek-man-jailed-for-alleged-porch-theft-caught-on-home-camera/article_2c12dde5-1b77-453c-8e61-61d31ed482de.html"/>
@@ -978,16 +998,6 @@ The post What a 1980s Pizza Parlor Taught Me About Industrial Chaos appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PORCH PIRATE  CAUGHT ON CAMERA, ARRESTED IN MYRTLE CREEK]]></title>
-        <id>https://kqennewsradio.com/?p=145418</id>
-        <link href="https://kqennewsradio.com/2026/03/31/porch-pirate-caught-on-camera-arrested-in-myrtle-creek/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=porch-pirate-caught-on-camera-arrested-in-myrtle-creek"/>
-        <updated>2026-03-31T21:10:46.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 2:00 p.m.  A Myrtle Creek man who was allegedly caught on home surveillance committing a package theft was arrested at his home on Monday evening. A Douglas County Sheriff’s Office report said on Monday, a homeowner in the 100 block of Othello Avenue in the Green District reported the theft of a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roseburg library seeks input on summer reading program]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/70ae33ad-4541-4068-8986-b929d8c55032</id>
         <link href="https://www.kezi.com/news/local/roseburg-library-seeks-input-on-summer-reading-program/article_70ae33ad-4541-4068-8986-b929d8c55032.html"/>
@@ -998,146 +1008,6 @@ The post What a 1980s Pizza Parlor Taught Me About Industrial Chaos appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 03.31.26]]></title>
-        <id>https://kqennewsradio.com/?p=145415</id>
-        <link href="https://kqennewsradio.com/2026/03/31/inside-douglas-county-03-31-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-03-31-26"/>
-        <updated>2026-03-31T20:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Douglas Timber Operators Executive Director Matt Hill has a look at the timber industry, locally and beyond in this encore program that originally aired on February 18th.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golf Oregon Specialty Plate Coming To Oregon DMV April 28]]></title>
-        <id>69cc150e16611600017a5b83</id>
-        <link href="https://www.theroseburgreceiver.com/golf-oregon-specialty-plate-coming-to-oregon-dmv-april-28/"/>
-        <updated>2026-03-31T18:55:32.000Z</updated>
-        <summary type="html"><![CDATA[The new Golf Oregon specialty plate will be available through Oregon DMV starting April 28. The plate carries a $40 surcharge, with about $35 supporting the Junior Golf Fund. Applications will be accepted by mail, at DMV offices, through dealers and online for some transactions.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN FOR UNLAWFUL POSSESSION OF INHALANTS]]></title>
-        <id>https://kqennewsradio.com/?p=145409</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-cite-man-for-unlawful-possession-of-inhalants-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-man-for-unlawful-possession-of-inhalants-4"/>
-        <updated>2026-03-31T17:46:56.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 10:45 a.m.  Roseburg Police cited a man for unlawful possession of inhalants on Tuesday morning. An RPD report said just after 2:30 a.m. officers contacted the 22-year-old after he was called in as a potential DUII in the parking lot of a motel in the 3100 block of Northwest Aviation Drive. During...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE MAN ON DRUG CHARGE MONDAY]]></title>
-        <id>https://kqennewsradio.com/?p=145407</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-cite-man-on-drug-charge-monday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-man-on-drug-charge-monday"/>
-        <updated>2026-03-31T17:37:42.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 10:30 a.m.   Roseburg Police cited a man on a drug charge on Monday morning. An RPD report said at 9:00 a.m. officer observed the 30-year-old who appeared to be starting to use illicit drugs in the 900 block of Northeast Rowe Street. The suspect reportedly had obvious paraphernalia in his hand. He...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING REPORTED STORE TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145405</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-man-following-reported-store-trespass-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-reported-store-trespass-incident"/>
-        <updated>2026-03-31T17:24:23.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 10:20 a.m.   Roseburg Police jailed a man following a reported store trespass incident early Tuesday morning. An RPD report said at 3:30 a.m. the officers arrested the 68-year-old after he returned to a store in the 2700 block of Northwest Stewart Parkway after being previously trespassed. He was charged with second-degree criminal...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR CRIMINAL MISCHIEF AND LITTERING]]></title>
-        <id>https://kqennewsradio.com/?p=145403</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-man-for-criminal-mischief-and-littering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-criminal-mischief-and-littering"/>
-        <updated>2026-03-31T17:10:29.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 10:10 a.m.   Roseburg Police charged a man with third-degree criminal mischief and offensive littering early Tuesday morning. An RPD report said at 4:30 a.m. officers contacted the 40-year-old outside a store in the 1500 block of West Harvard Avenue. The man had reportedly taken all the cardboard out of a trash bin...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR REPORTED DISORDERLY CONDUCT]]></title>
-        <id>https://kqennewsradio.com/?p=145401</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-woman-for-reported-disorderly-conduct-9/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-reported-disorderly-conduct-9"/>
-        <updated>2026-03-31T16:52:57.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 9:50 a.m.  Roseburg Police jailed a woman for a reported disorderly conduct incident on Monday afternoon. An RPD report said at 3:00 p.m. officers arrested the 35-year-old after she was allegedly observed attacking people and throwing traffic cones at passing traffic in 2200 block of Northeast Diamond Lake Boulevard. During her arrest,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR PAROLE VIOLATION]]></title>
-        <id>https://kqennewsradio.com/?p=145399</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-woman-for-parole-violation-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-parole-violation-8"/>
-        <updated>2026-03-31T16:44:35.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 9:40 a.m.  Roseburg Police jailed a woman for a parole violation on Monday. An RPD report said at 9:40 a.m. the 42-year-old was seen by a parole officer in the 500 block of Northeast Winchester Street with a male whom she is not allowed to have contact with. A detainer was issued...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR WARRANT]]></title>
-        <id>https://kqennewsradio.com/?p=145395</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-man-for-warrant-65/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-warrant-65"/>
-        <updated>2026-03-31T16:27:33.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 9:30 a.m.   Roseburg Police jailed a man for a warrant on Roseburg morning. An RPD report said just after 8:30 am. officers contacted the 34-year-old near the intersection of Northeast Stephens Street and Northeast Winchester Street, knowing the man had a warrant for his arrest. It was confirmed and he was taken...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED DUII CRASH]]></title>
-        <id>https://kqennewsradio.com/?p=145393</id>
-        <link href="https://kqennewsradio.com/2026/03/31/roseburg-police-jail-man-following-alleged-duii-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-alleged-duii-crash"/>
-        <updated>2026-03-31T16:21:08.000Z</updated>
-        <summary type="html"><![CDATA[March 31, 2026 9:20 a.m.   Roseburg Police jailed a man following an alleged DUII crash on Monday night. An RPD report said at 10:45 p.m. the 26-year-old crashed his vehicle into a fence and another vehicle near the intersection of Northeast Winchester Street and Northeast Polk Avenue. The man had a passenger in the vehicle...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Police Log: March 30, 2026]]></title>
-        <id>69cbe70d16611600017a5b5c</id>
-        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-march-30-2026/"/>
-        <updated>2026-03-31T15:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police reported 10 incidents Monday and early Tuesday, including multiple warrant arrests, a disorderly conduct arrest, a DUII crash, a trespass at WinCo, a littering arrest at T Mart, and citations for drug possession, inhalants and prohibited camping.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redbarn Opens Winston’s First Dispensary Within City Limits; Grand Opening Near]]></title>
-        <id>69cbe44916611600017a5b44</id>
-        <link href="https://www.theroseburgreceiver.com/redbarn-opens-winstons-first-dispensary-within-city-limits-grand-opening-near/"/>
-        <updated>2026-03-31T15:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Redbarn Dispensary has opened at 161 N. Main St., becoming the first marijuana dispensary within Winston city limits. The opening follows Winston’s 2025 ordinance change allowing recreational marijuana facilities after years of local debate.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Library Seeks Community Input As Summer Reading Plans Take Shape]]></title>
-        <id>69cbd5ff16611600017a5b21</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-library-seeks-community-input-as-summer-reading-plans-take-shape/"/>
-        <updated>2026-03-31T14:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library is asking the community to help shape its 2026 Summer Reading Program. Residents can take the “2026 SRP Survey” at RoseburgPublicLibrary.org, email feedback, or pick up a paper copy at the library. Responses are due by Saturday, April 11.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODOT: Oregon 42 Project In Winston Continues With Night Work In Early April]]></title>
-        <id>69cbd3f116611600017a5b04</id>
-        <link href="https://www.theroseburgreceiver.com/odot-oregon-42-project-in-winston-continues-with-night-work-in-early-april/"/>
-        <updated>2026-03-31T14:05:19.000Z</updated>
-        <summary type="html"><![CDATA[The Oregon 42 improvement project in Winston is continuing, with ODOT announcing overnight road work through early April. Drivers should expect intermittent lane closures at night as crews complete utility adjustments and pavement repairs.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redbarn Dispensary, Winston's first ever cannabis shop, to hold grand opening celebration]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/e3866094-a37c-4ad0-839a-090506a1fd49</id>
         <link href="https://www.nrtoday.com/business/redbarn-dispensary-winstons-first-ever-cannabis-shop-to-hold-grand-opening-celebration/article_e3866094-a37c-4ad0-839a-090506a1fd49.html"/>
@@ -1145,26 +1015,6 @@ The post What a 1980s Pizza Parlor Taught Me About Industrial Chaos appeared fir
         <summary type="html"><![CDATA[WINSTON — Since recreational marijuana was legalized in Oregon, the town of Winston has not had a marijuana dispensary open within city limits. Last week, as pipes, bongs and jars of cured cannabis flower buds were set up in a…]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Storm Watch Issued For Cascades, Eastern Douglas County Foothills]]></title>
-        <id>69cbd33716611600017a5af0</id>
-        <link href="https://www.theroseburgreceiver.com/winter-storm-watch-issued-for-cascades-eastern-douglas-county-foothills/"/>
-        <updated>2026-03-31T13:59:53.000Z</updated>
-        <summary type="html"><![CDATA[A Winter Storm Watch remains in effect from late Tuesday night through Thursday afternoon for parts of the southern Oregon Cascades and eastern Douglas County foothills, where 10 to 20 inches of snow and wind gusts up to 40 mph are possible.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March 31, 2026]]></title>
-        <id>69cbcd0616611600017a5931</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/march-31-2026/"/>
-        <updated>2026-03-31T13:53:26.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
