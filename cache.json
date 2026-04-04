@@ -614,6 +614,16 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e2b1fe40-5f75-4d6c-85fa-765a6177fb4e",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "FISHING REPORT",
+          "link": "https://www.nrtoday.com/news/local/douglas-county-april-2026-recreation-report/article_e2b1fe40-5f75-4d6c-85fa-765a6177fb4e.html",
+          "publishedOn": "2026-04-04T02:00:00.000Z",
+          "wordCount": 15665,
+          "title": "Douglas County April 2026 Recreation Report",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8c1cb579-0c89-49e1-968f-382eb063911b",
           "author": "Chris Rusch Master Gardner",
           "description": "Question: I am enjoying the many fragrant spring flowers in my garden like hyacinth, narcissus and freesias. How can I keep wonderful scents in my garden and patio throughout the summer?",
@@ -832,36 +842,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/21/12188ab3-af10-4bbe-ad25-1b4c029febee/69cda3a20766e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/e3866094-a37c-4ad0-839a-090506a1fd49",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "WINSTON — Since recreational marijuana was legalized in Oregon, the town of Winston has not had a marijuana dispensary open within city limits. Last week, as pipes, bongs and jars of cured cannabis flower buds were set up in a…",
-          "link": "https://www.nrtoday.com/business/redbarn-dispensary-winstons-first-ever-cannabis-shop-to-hold-grand-opening-celebration/article_e3866094-a37c-4ad0-839a-090506a1fd49.html",
-          "publishedOn": "2026-03-31T14:00:00.000Z",
-          "wordCount": 13087,
-          "title": "Redbarn Dispensary, Winston's first ever cannabis shop, to hold grand opening celebration",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/5d/25d1cee3-6c91-442b-8997-d7cc8ad620bf/69cadce970b40.image.jpg?resize=300%2C200",
-            "length": "367543",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/5d/25d1cee3-6c91-442b-8997-d7cc8ad620bf/69cadce970b40.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6066fa41-f972-43ba-836d-421737715b08",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "A major ongoing project by the Oregon Department of Transportation (ODOT) to repave and install safety improvements on Oregon Route 42 between Winston and Interstate 5 is entering its next phase this April.",
-          "link": "https://www.nrtoday.com/news/odot-kicks-off-spring-construction-work-for-oregon-route-42-safety-improvement-project/article_6066fa41-f972-43ba-836d-421737715b08.html",
-          "publishedOn": "2026-03-31T13:45:00.000Z",
-          "wordCount": 12657,
-          "title": "ODOT kicks off Spring construction work for Oregon Route 42 safety improvement project",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/31/f318d326-2782-43fc-aea3-eef5f614e787/69152fe75c611.image.jpg?resize=300%2C159",
-            "length": "175320",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/31/f318d326-2782-43fc-aea3-eef5f614e787/69152fe75c611.image.jpg?resize=300%2C159"
         }
       ]
     },
@@ -1066,26 +1046,6 @@
           "wordCount": 6977,
           "title": "April 1, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/The-Morning-Scoop.png"
-        },
-        {
-          "id": "69cc8dc616611600017a5c1c",
-          "author": "Joseph Ziegler",
-          "description": "Music on the Half Shell says unaccompanied minors will be allowed at Tuesday night concerts during the 2026 season, reversing last year’s restriction. Organizers said the rule could be reinstated if problems involving unsupervised youth arise again.",
-          "link": "https://www.theroseburgreceiver.com/music-on-the-half-shell-to-allow-unaccompanied-minors-at-2026-concerts/",
-          "publishedOn": "2026-04-01T03:19:10.000Z",
-          "wordCount": 2853,
-          "title": "Music On The Half Shell To Allow Unaccompanied Minors At 2026 Concerts",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/half_shell.png"
-        },
-        {
-          "id": "69cc82a616611600017a5c02",
-          "author": "Joseph Ziegler",
-          "description": "Free wildfire preparedness webinar set for May 6. The online event will cover home preparation, evacuation planning, wildfire risk reduction, local resources and burn restrictions, with speakers from the sheriff’s office, OSFM, DFPA and OSU Extension.",
-          "link": "https://www.theroseburgreceiver.com/free-wildfire-safety-webinar-set-for-may-6/",
-          "publishedOn": "2026-04-01T02:31:01.000Z",
-          "wordCount": 2833,
-          "title": "Free Wildfire Safety Webinar Set For May 6",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/wildfire_safety.jpg"
         }
       ]
     },
@@ -1108,51 +1068,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/f0/5f0b5651-21c7-4a70-92b7-b214292cfb2b/69cec484436d2.image.jpg?resize=300%2C211"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/2c12dde5-1b77-453c-8e61-61d31ed482de",
-          "author": "News Staff",
-          "description": "A Myrtle Creek man was caught Monday on camera stealing a package from a front porch and arrested at his home the same day, according to the Douglas County Sheriff's Office.",
-          "link": "https://www.kezi.com/news/local/myrtle-creek-man-jailed-for-alleged-porch-theft-caught-on-home-camera/article_2c12dde5-1b77-453c-8e61-61d31ed482de.html",
-          "publishedOn": "2026-03-31T22:57:00.000Z",
-          "wordCount": 7873,
-          "title": "Myrtle Creek man jailed for alleged porch theft caught on home camera",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
-            "length": "41465",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/5b653f14-f1c5-4868-aaa3-1f4bd49e447f",
-          "author": "News Staff",
-          "description": "The Roseburg Fire Department will flush fire hydrants inside the city limits from April 1 through June 30.",
-          "link": "https://www.kezi.com/news/local/roseburg-residents-may-see-discolored-water-during-hydrant-flushing-program/article_5b653f14-f1c5-4868-aaa3-1f4bd49e447f.html",
-          "publishedOn": "2026-03-31T21:33:00.000Z",
-          "wordCount": 7843,
-          "title": "Roseburg residents may see discolored water during hydrant flushing program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/b0/bb09a217-2d0c-45b2-9e2c-a95b0581d3ea/69cc3ed2514e1.image.jpg?resize=300%2C162",
-            "length": "331902",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/b0/bb09a217-2d0c-45b2-9e2c-a95b0581d3ea/69cc3ed2514e1.image.jpg?resize=300%2C162"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/70ae33ad-4541-4068-8986-b929d8c55032",
-          "author": "News Staff",
-          "description": "Roseburg Public Library is asking readers to help shape this year's Summer Reading Program by completing a survey.",
-          "link": "https://www.kezi.com/news/local/roseburg-library-seeks-input-on-summer-reading-program/article_70ae33ad-4541-4068-8986-b929d8c55032.html",
-          "publishedOn": "2026-03-31T20:10:00.000Z",
-          "wordCount": 8040,
-          "title": "Roseburg library seeks input on summer reading program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f7/9f7f6b1f-9df2-4b86-b234-a139f1e2ff9c/68dc66f5c2108.image.jpg?resize=300%2C225",
-            "length": "290939",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/f7/9f7f6b1f-9df2-4b86-b234-a139f1e2ff9c/68dc66f5c2108.image.jpg?resize=300%2C225"
         }
       ]
     }
