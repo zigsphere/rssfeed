@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145695",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith talks about his reasons for running for U.S. Senate and hopes for challenging Senator Jeff Merkley in November.",
+          "link": "https://kqennewsradio.com/2026/04/07/inside-douglas-county-04-07-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-04-07-26",
+          "publishedOn": "2026-04-07T20:07:37.000Z",
+          "wordCount": 1647,
+          "title": "INSIDE DOUGLAS COUNTY 04.07.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260407190537/IDC-04-07-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260304103805/BrockSmithcamp-scaled-e1772624319546.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145692",
           "author": "Kyle Bailey",
           "description": "April 7, 2026 10:50 a.m.   Roseburg Police cited two people for prohibited camping on Monday. An RPD report said at 11:50 a.m. officers contacted a 36-year-old woman and 33-year-old man at their camp which was set up along the bank of the South Umpqua River in Riverside Park, in the 400 block of Southeast Spruce...",
@@ -449,7 +464,18 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9228",
+          "author": "Jim Teece",
+          "description": "In the high-stakes world of Property Technology (PropTech), the narrative of the last decade has been written in venture capital checks. The industry standard for “success” has typically followed a predictable script: raise nine figures in capital, burn cash to acquire market share, and race toward a liquidity event before the funding dries up. It…\nThe post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC Funded Competitors appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/southern-oregons-rentec-direct-becomes-industry-giant-in-a-sea-of-vc-funded-competitors/",
+          "publishedOn": "2026-04-07T22:22:02.000Z",
+          "wordCount": 4186,
+          "title": "Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC Funded Competitors",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-3.20.15-PM.png"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
