@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-07T12:53:32.795Z</updated>
+    <updated>2026-04-07T14:25:37.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April 7, 2026]]></title>
+        <id>69d5017316611600017a66fb</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-7-2026/"/>
+        <updated>2026-04-07T13:29:20.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED CRIMINAL MISCHIEF]]></title>
+        <id>https://kqennewsradio.com/?p=145665</id>
+        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-reported-criminal-mischief-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-reported-criminal-mischief-8"/>
+        <updated>2026-04-07T13:23:29.000Z</updated>
+        <summary type="html"><![CDATA[April 7, 2026 6:20 a.m.  Roseburg Police jailed a man for reported criminal mischief early Sunday morning. An RPD report said shortly before 2:15 a.m. officers contacted the 42-year-old after a caller said he was damaging the trash compactor at a business in the 2100 block of Northwest Stewart Parkway. During the contact with the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG HAS NEAR RECORD HIGH, TIES FOR 2ND HOTTEST DAY OF 2026]]></title>
         <id>https://kqennewsradio.com/?p=145660</id>
@@ -364,16 +384,6 @@
         <summary type="html"><![CDATA[FISHING REPORT]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salem Woman Killed In Single-Vehicle Crash On I-5 Near Canyonville]]></title>
-        <id>69d066bc16611600017a635d</id>
-        <link href="https://www.theroseburgreceiver.com/salem-woman-killed-in-single-vehicle-crash-on-i-5-near-canyonville/"/>
-        <updated>2026-04-04T01:19:33.000Z</updated>
-        <summary type="html"><![CDATA[A Salem woman was killed Thursday evening in a single-vehicle crash on Interstate 5 near Canyonville, according to Oregon State Police. The vehicle left the roadway near milepost 95, struck a tree, went down a riverbank and caught fire.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
