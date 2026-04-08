@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=145748",
+          "author": "Kyle Bailey",
+          "description": "April 9, 2026 4:00 p.m.   The Myrtle Creek Police have released the names of the two people found deceased at a house fire on Monday night in the 800 block of Thomas Street. Following next of kind notification, the deceased have been identified as 64-year-old Chris Howard and 55-year-old Lori Lansberry. The Oregon State Fire...",
+          "link": "https://kqennewsradio.com/2026/04/08/myrtle-creek-police-release-names-of-deceased-from-fire/?utm_source=rss&utm_medium=rss&utm_campaign=myrtle-creek-police-release-names-of-deceased-from-fire",
+          "publishedOn": "2026-04-08T23:11:40.000Z",
+          "wordCount": 1639,
+          "title": "MYRTLE CREEK POLICE RELEASE NAMES OF DECEASED FROM FIRE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727221434/mcpd2-e1609413984764.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=145745",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osborne covers a number of current legislative topics, talks about the coming elections, and shares his plans for the next session of the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/04/08/inside-douglas-county-04-08-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-04-08-26",
+          "publishedOn": "2026-04-08T20:12:20.000Z",
+          "wordCount": 1653,
+          "title": "INSIDE DOUGLAS COUNTY 04.08.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260408191018/IDC-04-08-25.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=145741",
           "author": "Kyle Bailey",
           "description": "April 8, 2026 10:50 a.m.  Roseburg Police cited a woman for driving while suspended on Tuesday. An RPD report said just before 10:00 p.m. officers contacted the 54-year-old inside her vehicle in the 100 block of Southeast Templin Avenue. She was found to have a suspended license at the misdemeanor level. She admitted to driving...",
@@ -549,6 +574,121 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/51b7226c-d27f-40c2-8b52-9720dba1e34d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas County’s seasonally adjusted unemployment rate was unchanged at 6.4% in January compared with the revised December rate.",
+          "link": "https://www.nrtoday.com/business/local-state-unemployment-rates-hold-steady-in-january/article_51b7226c-d27f-40c2-8b52-9720dba1e34d.html",
+          "publishedOn": "2026-04-08T19:41:00.000Z",
+          "wordCount": 12632,
+          "title": "Local, state unemployment rates hold steady in January",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/7b/27b153da-5cf4-4049-9251-01fb9330dafc/69d6b3e57306c.image.jpg?resize=300%2C200",
+            "length": "74254",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/7b/27b153da-5cf4-4049-9251-01fb9330dafc/69d6b3e57306c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c35e6a07-6706-484d-94b7-7552c7a84ff4",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Central Douglas Fire & Rescue will conduct hydrant flushing and testing across its service area beginning May 4.",
+          "link": "https://www.nrtoday.com/news/local/hydrant-flushing-and-testing-being-held-across-the-county/article_c35e6a07-6706-484d-94b7-7552c7a84ff4.html",
+          "publishedOn": "2026-04-08T16:37:00.000Z",
+          "wordCount": 12299,
+          "title": "Hydrant flushing and testing being held across the county",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3c/73ca0e42-e723-42c6-a2ec-d5da687a54fb/5c9e4a1a907a1.image.jpg?resize=300%2C167",
+            "length": "270881",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/3c/73ca0e42-e723-42c6-a2ec-d5da687a54fb/5c9e4a1a907a1.image.jpg?resize=300%2C167"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c66fa1ab-b20f-41c8-a911-7e11d3014215",
+          "author": "Erica Reynolds The News-Review",
+          "description": "A release from the Oregon Department of Transportation (ODOT) states construction related to the I-5 Southern Oregon Wrong Way Driver Mitigation project will lead to short nighttime closures of more than 40 Interstate Five off-ramps in Douglas County through the…",
+          "link": "https://www.nrtoday.com/news/local/night-work-closes-i-5-off-ramps-throughout-douglas-county/article_c66fa1ab-b20f-41c8-a911-7e11d3014215.html",
+          "publishedOn": "2026-04-08T15:52:00.000Z",
+          "wordCount": 12606,
+          "title": "Night work closes I-5 off-ramps throughout Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/50/3508be86-fe50-4783-a3d9-3a5cf0046926/69d680272a85c.image.jpg?resize=300%2C200",
+            "length": "477602",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/50/3508be86-fe50-4783-a3d9-3a5cf0046926/69d680272a85c.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/2a6f3e77-6dd0-4dd5-a7d8-7fc7584c739d",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "The Roseburg Regional Airport is among over two dozen airports in Oregon set to receive a combined federal investment of more than $27 million.",
+          "link": "https://www.nrtoday.com/news/local/roseburg-airport-among-those-getting-federal-investment/article_2a6f3e77-6dd0-4dd5-a7d8-7fc7584c739d.html",
+          "publishedOn": "2026-04-08T15:08:00.000Z",
+          "wordCount": 12257,
+          "title": "Roseburg airport among those getting federal investment",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/df/1dfc2f19-746a-4933-bd03-663ee6b653c5/68249a966210c.image.jpg?resize=300%2C225",
+            "length": "331816",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/df/1dfc2f19-746a-4933-bd03-663ee6b653c5/68249a966210c.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/985019c8-77e3-4250-901f-839e377c0747",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "MYRTLE CREEK — Two people and several animals died in a house fire which began late Monday night in Myrtle Creek.",
+          "link": "https://www.nrtoday.com/briefs/two-people-several-animals-die-in-myrtle-creek-house-fire/article_985019c8-77e3-4250-901f-839e377c0747.html",
+          "publishedOn": "2026-04-08T15:06:00.000Z",
+          "wordCount": 12191,
+          "title": "Two people, several animals die in Myrtle Creek house fire",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3ae4192a-6065-47be-813a-a02f86e3a840",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "When former Umpqua Valley Winegrower’s Association (UVWA) Executive Director Ali Rodgers stepped down from the role to relocate with her family, the position was left vacant. Now, the UWVA has found a successor.",
+          "link": "https://www.nrtoday.com/agriculture/umpqua-valley-winegrowers-association-appoints-new-executive-director/article_3ae4192a-6065-47be-813a-a02f86e3a840.html",
+          "publishedOn": "2026-04-08T15:00:00.000Z",
+          "wordCount": 12659,
+          "title": "Umpqua Valley Winegrowers Association appoints new executive director",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/44/a447b80d-7ccc-4bb1-ae18-cdc1f1be737f/69d5530c81380.image.png?resize=300%2C215",
+            "length": "2171946",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/44/a447b80d-7ccc-4bb1-ae18-cdc1f1be737f/69d5530c81380.image.png?resize=300%2C215"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c24bae57-f0df-4944-a864-04fb21425171",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "A few Douglas County organizations received state grants in the third round of the Child Care Infrastructure Program grants from Business Oregon, the Department of Early Learning and Care and other state agencies, announced last week.",
+          "link": "https://www.nrtoday.com/news/education/douglas-county-receives-state-grants-for-child-care-construction/article_c24bae57-f0df-4944-a864-04fb21425171.html",
+          "publishedOn": "2026-04-08T14:45:00.000Z",
+          "wordCount": 13392,
+          "title": "Douglas County receives state grants for child care construction",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/7c/27c9f8bb-74ce-4479-bb9b-d8574f9bb7a8/6944b1e744603.image.jpg?resize=300%2C225",
+            "length": "113392",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/7c/27c9f8bb-74ce-4479-bb9b-d8574f9bb7a8/6944b1e744603.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/31691480-9314-4909-9b79-0a81f25a4a1a",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "For three decades, Riverbend Live! has brought free concerts to Winston, inviting entertainers from near and far to provide live entertainment throughout the summer. On Monday, it announced the lineup for its 2026 concert series.",
+          "link": "https://www.nrtoday.com/a_and_e/music/riverbend-live-announces-2026-free-summer-concert-lineup/article_31691480-9314-4909-9b79-0a81f25a4a1a.html",
+          "publishedOn": "2026-04-08T14:00:00.000Z",
+          "wordCount": 12947,
+          "title": "Riverbend Live! announces 2026 free summer concert lineup",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/70/a705636f-d8fc-4279-a04d-384176eb2b25/69d6655ead3a1.image.webp?resize=300%2C169",
+            "length": "63534",
+            "type": "application/octet-stream"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/70/a705636f-d8fc-4279-a04d-384176eb2b25/69d6655ead3a1.image.webp?crop=1536%2C806%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/c8e9845e-c612-4351-8b8f-51cfcf4bbf3f",
           "author": "Kyle Bailey For The News-Review",
           "description": "A former employee of a Roseburg-area construction company has been arrested following an alleged credit card fraud investigation.",
@@ -562,6 +702,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/0f/c0ff6f43-21a4-4695-8ec1-b913ec58d9d2/69b79cff421d5.image.jpg?resize=300%2C301"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d5b414f9-5dd6-4c5a-8fd5-a312bf9cec65",
+          "author": "Erica Reynolds The News-Review",
+          "description": "Brown Park, one of Roseburg’s oldest parks, is currently under renovation.",
+          "link": "https://www.nrtoday.com/family/brown-park-renovations-focus-on-accessibility-and-incorporation-of-natural-themes/article_d5b414f9-5dd6-4c5a-8fd5-a312bf9cec65.html",
+          "publishedOn": "2026-04-07T17:58:00.000Z",
+          "wordCount": 13182,
+          "title": "Brown Park renovations focus on accessibility and incorporation of natural themes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/6b/d6b4ca5e-1bfe-405b-beae-fa9538081dc4/69d54ebaf0a5e.image.jpg?resize=300%2C225",
+            "length": "373562",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/6b/d6b4ca5e-1bfe-405b-beae-fa9538081dc4/69d54ebaf0a5e.image.jpg?resize=300%2C225"
         },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/324dc1e9-7a15-44cb-95f9-d81df3fb7cf6",
@@ -859,6 +1014,36 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/179906f4-17e5-498d-90fd-57fde7f122d0",
+          "author": "News Staff",
+          "description": "The Douglas Interagency Narcotics Team wrapped up its first round of targeted enforcement patrols in Roseburg after community members and local businesses raised concerns about criminal activity downtown and in public parks.",
+          "link": "https://www.kezi.com/news/local/douglas-county-narcotics-team-cracks-down-on-downtown-roseburg-crime/article_179906f4-17e5-498d-90fd-57fde7f122d0.html",
+          "publishedOn": "2026-04-08T23:03:00.000Z",
+          "wordCount": 8066,
+          "title": "Douglas County narcotics team cracks down on downtown Roseburg crime",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/14/b14db3ff-7860-5ec6-b152-9b74373cd1c6/61def919bd297.image.jpg?resize=300%2C169",
+            "length": "37823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/14/b14db3ff-7860-5ec6-b152-9b74373cd1c6/61def919bd297.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/faf567e7-1f3b-44dd-9c46-3e45c00ebb13",
+          "author": "News Staff",
+          "description": "The City of Roseburg Fire Department will issue residential burn permits from April 15 through May 15.",
+          "link": "https://www.kezi.com/news/local/roseburg-to-issue-yard-waste-burn-permits-starting-april-15/article_faf567e7-1f3b-44dd-9c46-3e45c00ebb13.html",
+          "publishedOn": "2026-04-08T22:08:00.000Z",
+          "wordCount": 7973,
+          "title": "Roseburg to issue yard waste burn permits starting April 15",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/2b/d2ba8682-5970-11ee-b581-0f8cfae91193/650dd47e93d0c.image.png?resize=300%2C162",
+            "length": "767855",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/2b/d2ba8682-5970-11ee-b581-0f8cfae91193/650dd47e93d0c.image.png?resize=300%2C162"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/d3136cea-8742-5f26-a7ae-0b62bea3df07",
           "author": "Kaleb Clark",

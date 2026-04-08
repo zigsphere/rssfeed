@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-08T19:53:25.956Z</updated>
+    <updated>2026-04-08T23:29:16.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MYRTLE CREEK POLICE RELEASE NAMES OF DECEASED FROM FIRE]]></title>
+        <id>https://kqennewsradio.com/?p=145748</id>
+        <link href="https://kqennewsradio.com/2026/04/08/myrtle-creek-police-release-names-of-deceased-from-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=myrtle-creek-police-release-names-of-deceased-from-fire"/>
+        <updated>2026-04-08T23:11:40.000Z</updated>
+        <summary type="html"><![CDATA[April 9, 2026 4:00 p.m.   The Myrtle Creek Police have released the names of the two people found deceased at a house fire on Monday night in the 800 block of Thomas Street. Following next of kind notification, the deceased have been identified as 64-year-old Chris Howard and 55-year-old Lori Lansberry. The Oregon State Fire...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County narcotics team cracks down on downtown Roseburg crime]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/179906f4-17e5-498d-90fd-57fde7f122d0</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-narcotics-team-cracks-down-on-downtown-roseburg-crime/article_179906f4-17e5-498d-90fd-57fde7f122d0.html"/>
+        <updated>2026-04-08T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Interagency Narcotics Team wrapped up its first round of targeted enforcement patrols in Roseburg after community members and local businesses raised concerns about criminal activity downtown and in public parks.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg to issue yard waste burn permits starting April 15]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/faf567e7-1f3b-44dd-9c46-3e45c00ebb13</id>
+        <link href="https://www.kezi.com/news/local/roseburg-to-issue-yard-waste-burn-permits-starting-april-15/article_faf567e7-1f3b-44dd-9c46-3e45c00ebb13.html"/>
+        <updated>2026-04-08T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The City of Roseburg Fire Department will issue residential burn permits from April 15 through May 15.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 04.08.26]]></title>
+        <id>https://kqennewsradio.com/?p=145745</id>
+        <link href="https://kqennewsradio.com/2026/04/08/inside-douglas-county-04-08-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-04-08-26"/>
+        <updated>2026-04-08T20:12:20.000Z</updated>
+        <summary type="html"><![CDATA[State Representative Virgle Osborne covers a number of current legislative topics, talks about the coming elections, and shares his plans for the next session of the Oregon State Legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local, state unemployment rates hold steady in January]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/51b7226c-d27f-40c2-8b52-9720dba1e34d</id>
+        <link href="https://www.nrtoday.com/business/local-state-unemployment-rates-hold-steady-in-january/article_51b7226c-d27f-40c2-8b52-9720dba1e34d.html"/>
+        <updated>2026-04-08T19:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County’s seasonally adjusted unemployment rate was unchanged at 6.4% in January compared with the revised December rate.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR DRIVING WHILE SUSPENDED]]></title>
         <id>https://kqennewsradio.com/?p=145741</id>
@@ -87,6 +137,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hydrant flushing and testing being held across the county]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c35e6a07-6706-484d-94b7-7552c7a84ff4</id>
+        <link href="https://www.nrtoday.com/news/local/hydrant-flushing-and-testing-being-held-across-the-county/article_c35e6a07-6706-484d-94b7-7552c7a84ff4.html"/>
+        <updated>2026-04-08T16:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Central Douglas Fire & Rescue will conduct hydrant flushing and testing across its service area beginning May 4.]]></summary>
+        <author>
+            <name>Erica Reynolds The News-Review</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['Stand Up for Children' Event Scheduled Saturday in Roseburg]]></title>
         <id>69d6820916611600017a6ba8</id>
         <link href="https://www.theroseburgreceiver.com/stand-up-for-children-event-scheduled-saturday-in-roseburg/"/>
@@ -104,6 +164,66 @@
         <summary type="html"><![CDATA[Riverbend Bend Live! Board President Ellen Porter talks about this summer’s concert lineup as the series celebrates its 30th anniversary.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Night work closes I-5 off-ramps throughout Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c66fa1ab-b20f-41c8-a911-7e11d3014215</id>
+        <link href="https://www.nrtoday.com/news/local/night-work-closes-i-5-off-ramps-throughout-douglas-county/article_c66fa1ab-b20f-41c8-a911-7e11d3014215.html"/>
+        <updated>2026-04-08T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A release from the Oregon Department of Transportation (ODOT) states construction related to the I-5 Southern Oregon Wrong Way Driver Mitigation project will lead to short nighttime closures of more than 40 Interstate Five off-ramps in Douglas County through the…]]></summary>
+        <author>
+            <name>Erica Reynolds The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg airport among those getting federal investment]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/2a6f3e77-6dd0-4dd5-a7d8-7fc7584c739d</id>
+        <link href="https://www.nrtoday.com/news/local/roseburg-airport-among-those-getting-federal-investment/article_2a6f3e77-6dd0-4dd5-a7d8-7fc7584c739d.html"/>
+        <updated>2026-04-08T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Regional Airport is among over two dozen airports in Oregon set to receive a combined federal investment of more than $27 million.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two people, several animals die in Myrtle Creek house fire]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/985019c8-77e3-4250-901f-839e377c0747</id>
+        <link href="https://www.nrtoday.com/briefs/two-people-several-animals-die-in-myrtle-creek-house-fire/article_985019c8-77e3-4250-901f-839e377c0747.html"/>
+        <updated>2026-04-08T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[MYRTLE CREEK — Two people and several animals died in a house fire which began late Monday night in Myrtle Creek.]]></summary>
+        <author>
+            <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Valley Winegrowers Association appoints new executive director]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/3ae4192a-6065-47be-813a-a02f86e3a840</id>
+        <link href="https://www.nrtoday.com/agriculture/umpqua-valley-winegrowers-association-appoints-new-executive-director/article_3ae4192a-6065-47be-813a-a02f86e3a840.html"/>
+        <updated>2026-04-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When former Umpqua Valley Winegrower’s Association (UVWA) Executive Director Ali Rodgers stepped down from the role to relocate with her family, the position was left vacant. Now, the UWVA has found a successor.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County receives state grants for child care construction]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c24bae57-f0df-4944-a864-04fb21425171</id>
+        <link href="https://www.nrtoday.com/news/education/douglas-county-receives-state-grants-for-child-care-construction/article_c24bae57-f0df-4944-a864-04fb21425171.html"/>
+        <updated>2026-04-08T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A few Douglas County organizations received state grants in the third round of the Child Care Infrastructure Program grants from Business Oregon, the Department of Early Learning and Care and other state agencies, announced last week.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riverbend Live! announces 2026 free summer concert lineup]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/31691480-9314-4909-9b79-0a81f25a4a1a</id>
+        <link href="https://www.nrtoday.com/a_and_e/music/riverbend-live-announces-2026-free-summer-concert-lineup/article_31691480-9314-4909-9b79-0a81f25a4a1a.html"/>
+        <updated>2026-04-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For three decades, Riverbend Live! has brought free concerts to Winston, inviting entertainers from near and far to provide live entertainment throughout the summer. On Monday, it announced the lineup for its 2026 concert series.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
     <entry>
@@ -265,6 +385,16 @@ The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC
         <summary type="html"><![CDATA[A former employee of a Roseburg-area construction company has been arrested following an alleged credit card fraud investigation.]]></summary>
         <author>
             <name>Kyle Bailey For The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brown Park renovations focus on accessibility and incorporation of natural themes]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/d5b414f9-5dd6-4c5a-8fd5-a312bf9cec65</id>
+        <link href="https://www.nrtoday.com/family/brown-park-renovations-focus-on-accessibility-and-incorporation-of-natural-themes/article_d5b414f9-5dd6-4c5a-8fd5-a312bf9cec65.html"/>
+        <updated>2026-04-07T17:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Brown Park, one of Roseburg’s oldest parks, is currently under renovation.]]></summary>
+        <author>
+            <name>Erica Reynolds The News-Review</name>
         </author>
     </entry>
     <entry>
