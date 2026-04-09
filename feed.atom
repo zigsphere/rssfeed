@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-09T12:56:04.544Z</updated>
+    <updated>2026-04-09T14:50:24.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Central Douglas Fire & Rescue to Begin Hydrant Flushing Across Service Area May 4]]></title>
+        <id>69d7b0a216611600017a6df6</id>
+        <link href="https://www.theroseburgreceiver.com/central-douglas-fire-rescue-to-begin-hydrant-flushing-across-service-area-may-4/"/>
+        <updated>2026-04-09T13:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Central Douglas Fire & Rescue will begin hydrant flushing May 4 across its service area, including Winston, Winchester, Green and nearby communities. Temporary water discoloration may occur, but officials said the water remains safe to drink unless a boil alert is issued.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderstorms, Heavy Rain Possible Near Roseburg as Unsettled Weather Settles In]]></title>
+        <id>69d7b03d16611600017a6de0</id>
+        <link href="https://www.theroseburgreceiver.com/thunderstorms-heavy-rain-possible-near-roseburg-as-unsettled-weather-settles-in/"/>
+        <updated>2026-04-09T13:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Showers and thunderstorms are expected around Roseburg through the weekend, with heavy rain possible at times, cooler temperatures on the way, and wet conditions likely to linger into early next week.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 9, 2026]]></title>
+        <id>69d7a98d16611600017a6c46</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-9-2026/"/>
+        <updated>2026-04-09T13:55:37.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG WITH NEAR RECORD HIGH ON WEDNESDAY, CONDITIONS QUICKLY CHANGING]]></title>
         <id>https://kqennewsradio.com/?p=145763</id>
@@ -294,6 +324,16 @@
         <summary type="html"><![CDATA[A few Douglas County organizations received state grants in the third round of the Child Care Infrastructure Program grants from Business Oregon, the Department of Early Learning and Care and other state agencies, announced last week.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Log: April 7, 2026]]></title>
+        <id>69d7b7da16611600017a6e21</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-april-7-2026/"/>
+        <updated>2026-04-08T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported a mix of warrant arrests, camping and trespass cases, a crash citation, and other overnight incidents in the latest daily log, including several entries that carried into early April 8.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
