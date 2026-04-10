@@ -619,16 +619,6 @@
           "wordCount": 1645,
           "title": "TIMBER OPERATORS TO HEAR FROM UCC ASSISTANT PROFESSOR",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727212707/dto.jpg-e1642022470701.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=145636",
-          "author": "Kyle Bailey",
-          "description": "April 6, 2026 6:40 p.m.  In the KQEN Cultural Spotlight: The Riverbend Live! summer concert series returns to Winston to celebrate its 30th anniversary season. For three decades, the non-profit organization has brought free to the audience, high quality live entertainment to the Riverbend Park amphitheater, creating a summer tradition for residents of Douglas County...",
-          "link": "https://kqennewsradio.com/2026/04/07/riverbend-live-marks-30th-anniversary-season-star-studded-lineup-announced/?utm_source=rss&utm_medium=rss&utm_campaign=riverbend-live-marks-30th-anniversary-season-star-studded-lineup-announced",
-          "publishedOn": "2026-04-07T01:41:35.000Z",
-          "wordCount": 1820,
-          "title": "RIVERBEND LIVE! MARKS 30TH ANNIVERSARY SEASON: STAR-STUDDED LINEUP ANNOUNCED",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250501093459/Newriverbend.jpjg_.png"
         }
       ]
     },
@@ -643,6 +633,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b60f98f4-9e3e-47c1-ac44-cc3e8dea506a",
+          "author": "Kyle Bailey For The News-Review",
+          "description": "Douglas Interagency Narcotics Team (DINT) has completed its first found of targeted enforcement patrols in the city of Roseburg, following concerns about criminal activity in key areas of the city.",
+          "link": "https://www.nrtoday.com/news/crime/dint-completes-first-round-of-target-patrols-in-roseburg/article_b60f98f4-9e3e-47c1-ac44-cc3e8dea506a.html",
+          "publishedOn": "2026-04-10T13:31:00.000Z",
+          "wordCount": 12503,
+          "title": "DINT completes first round of target patrols in Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/4d/04d6df27-be51-4a6f-8f11-18953dc9ac0c/6983d05f1a1a5.image.jpg?resize=300%2C377",
+            "length": "263957",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/4d/04d6df27-be51-4a6f-8f11-18953dc9ac0c/6983d05f1a1a5.image.jpg?resize=300%2C377"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/45b1ceb5-e96f-4d64-a282-9b11257d648a",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "Clothing, shoes, toys, bottles, books, breast pumps, bottle sterilizers, carriers and cribs: For the past five years, Peppypotamus has provided parents with these supplies and more.",
+          "link": "https://www.nrtoday.com/business/roseburg-peppypotamus-location-to-close-this-spring/article_45b1ceb5-e96f-4d64-a282-9b11257d648a.html",
+          "publishedOn": "2026-04-09T21:02:00.000Z",
+          "wordCount": 12724,
+          "title": "Roseburg Peppypotamus location to close this Spring",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f602dd77-2096-447e-ac0c-d72d45c242c9/69d90291b9cf8.image.jpg?resize=300%2C200",
+            "length": "135431",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/60/f602dd77-2096-447e-ac0c-d72d45c242c9/69d90291b9cf8.image.jpg?resize=300%2C200"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e510352b-dc3e-43ed-bb12-d89165f3bda7",
           "author": "ANDREW GRIFFIN The News-Review",
@@ -908,6 +928,26 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69d8fecd16611600017a70ad",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg could see showers and thunderstorms Friday afternoon, with the best chance for storm activity from 1 to 6 p.m. Gusty winds, brief downpours, and small hail are possible. Unsettled weather is expected to continue into the weekend.",
+          "link": "https://www.theroseburgreceiver.com/thunderstorms-showers-expected-in-roseburg-area-friday-afternoon/",
+          "publishedOn": "2026-04-10T13:45:52.000Z",
+          "wordCount": 2906,
+          "title": "Thunderstorms, Showers Expected in Roseburg Area Friday Afternoon",
+          "imageUrl": "https://images.unsplash.com/photo-1504670099063-56059b8c0c7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIzfHx0aHVuZGVyc3Rvcm1zfGVufDB8fHx8MTc3NTgyODE3M3ww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "69d8f9e116611600017a6efc",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/april-10-2026/",
+          "publishedOn": "2026-04-10T13:42:01.000Z",
+          "wordCount": 7575,
+          "title": "April 10, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/The-Morning-Scoop-7.png"
+        },
+        {
           "id": "69d86d2616611600017a6edf",
           "author": "Joseph Ziegler",
           "description": "Winston residents planning a yard sale during Trader Days on June 6 can now submit their addresses for inclusion on a citywide garage sale map. Organizers say the map is intended to help shoppers find more sales throughout the community.",
@@ -1156,16 +1196,6 @@
           "wordCount": 3921,
           "title": "Riverbend Live Unveils 2026 Lineup For 30th Anniversary Season In Winston",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/RL_Logo.png"
-        },
-        {
-          "id": "69d45ee916611600017a6658",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police logs from April 3-5 show multiple arrests and citations involving trespass, prohibited camping, theft, warrant arrests, DUII, a domestic violence case, and other calls. The log page also includes one early April 6 probation violation arrest.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-april-3-april-5-2026/",
-          "publishedOn": "2026-04-07T01:37:30.000Z",
-          "wordCount": 5289,
-          "title": "Police Log: April 3 - April 5, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/police_lights2-3.jpg"
         }
       ]
     },
