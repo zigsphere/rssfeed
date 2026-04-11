@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-10T23:25:16.279Z</updated>
+    <updated>2026-04-11T12:32:02.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: April 9, 2026]]></title>
+        <id>69d9a5a516611600017a7184</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-april-9-2026/"/>
+        <updated>2026-04-11T01:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police logged multiple arrests and citations April 9 into early April 10, including theft, assault, DUII, probation and parole violations, warrant arrests, disorderly conduct, trespassing, and prohibited camping cases across the city.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefighters battle 3 blazes in Douglas County Thursday]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/80edfe58-714e-4988-bce7-aa1454443e5a</id>
@@ -967,57 +977,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teen Killed, Three Others Injured in Fiery I-5 Crash Near Canyonville; Truck Driver Arrested]]></title>
-        <id>69d5a1b316611600017a6901</id>
-        <link href="https://www.theroseburgreceiver.com/teen-killed-three-others-injured-in-fiery-i-5-crash-near-canyonville-truck-driver-arrested/"/>
-        <updated>2026-04-08T00:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Teen killed, three others were injured Monday afternoon in a fiery crash on Interstate 5 near Canyonville after a stalled commercial truck was struck from behind, according to Oregon State Police. The truck driver was arrested on DUII and manslaughter charges.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt Highlights Recovery, Prevention During Alcohol Awareness Month]]></title>
-        <id>69d59f1116611600017a68e0</id>
-        <link href="https://www.theroseburgreceiver.com/adapt-highlights-recovery-prevention-during-alcohol-awareness-month/"/>
-        <updated>2026-04-08T00:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Adapt Integrated Health Care is using Alcohol Awareness Month to promote prevention, education and recovery resources, while encouraging open conversations about alcohol misuse and support options for individuals and families in the community.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 04.07.26]]></title>
-        <id>https://kqennewsradio.com/?p=145701</id>
-        <link href="https://kqennewsradio.com/2026/04/07/true-wealth-04-07-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-04-07-26"/>
-        <updated>2026-04-08T00:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, Justin Bruggeman and Emma Arndt have our weekly local financial program.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC Funded Competitors]]></title>
-        <id>https://southernoregonbusiness.com/?p=9228</id>
-        <link href="https://southernoregonbusiness.com/southern-oregons-rentec-direct-becomes-industry-giant-in-a-sea-of-vc-funded-competitors/"/>
-        <updated>2026-04-07T22:22:02.000Z</updated>
-        <summary type="html"><![CDATA[In the high-stakes world of Property Technology (PropTech), the narrative of the last decade has been written in venture capital checks. The industry standard for “success” has typically followed a predictable script: raise nine figures in capital, burn cash to acquire market share, and race toward a liquidity event before the funding dries up. It…
-The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC Funded Competitors appeared first on Southern Oregon Business Journal.]]></summary>
-        <author>
-            <name>Jim Teece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 04.07.26]]></title>
-        <id>https://kqennewsradio.com/?p=145695</id>
-        <link href="https://kqennewsradio.com/2026/04/07/inside-douglas-county-04-07-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-04-07-26"/>
-        <updated>2026-04-07T20:07:37.000Z</updated>
-        <summary type="html"><![CDATA[State Senator David Brock Smith talks about his reasons for running for U.S. Senate and hopes for challenging Senator Jeff Merkley in November.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Former employee arrested in credit card fraud investigation]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/c8e9845e-c612-4351-8b8f-51cfcf4bbf3f</id>
         <link href="https://www.nrtoday.com/news/former-employee-arrested-in-credit-card-fraud-investigation/article_c8e9845e-c612-4351-8b8f-51cfcf4bbf3f.html"/>
@@ -1038,66 +997,6 @@ The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE CITE TWO PEOPLE FOR PROHBITED CAMPING]]></title>
-        <id>https://kqennewsradio.com/?p=145692</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-cite-two-people-for-prohbited-camping/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-two-people-for-prohbited-camping"/>
-        <updated>2026-04-07T17:53:19.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:50 a.m.   Roseburg Police cited two people for prohibited camping on Monday. An RPD report said at 11:50 a.m. officers contacted a 36-year-old woman and 33-year-old man at their camp which was set up along the bank of the South Umpqua River in Riverside Park, in the 400 block of Southeast Spruce...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR PROBATION VIOLATION]]></title>
-        <id>https://kqennewsradio.com/?p=145690</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-probation-violation-15/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-probation-violation-15"/>
-        <updated>2026-04-07T17:43:29.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:40 a.m.   Roseburg Police jailed a man for a probation violation on Monday. An RPD report said at 9:00 a.m. officers knew the 49-year-old was wanted by his probation officer for absconding and contacted him at his residence in the 2700 block of Northeast Douglas Avenue. A detainer was authorized and the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANT]]></title>
-        <id>https://kqennewsradio.com/?p=145688</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-woman-for-warrant-29/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-warrant-29"/>
-        <updated>2026-04-07T17:35:52.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:30 a.m.  Roseburg Police jailed a woman for a warrant on Monday night. An RPD report said shortly after 9:30 p.m. officers responded to the 2000 block of Stewart Park Drive to assist Adapt with a female that was allegedly being uncooperative. Officers contacted the 42-year-old from Canyonville and she returned with...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR ALLEGED THEFT INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145686</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-alleged-theft-incident-23/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-alleged-theft-incident-23"/>
-        <updated>2026-04-07T17:24:08.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:20 a.m.  Roseburg Police jailed a man for an alleged theft incident on Monday evening. An RPD report said at 7:00 p.m. the 40-year-old was contacted after he allegedly agreed to sell a stolen disc gold bag full of discs in the 400 block of Northeast Stephens Street. The man denied knowing...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two People Found Deceased After Myrtle Creek House Fire Late Monday Night]]></title>
-        <id>69d53c7616611600017a68c6</id>
-        <link href="https://www.theroseburgreceiver.com/two-people-found-deceased-after-myrtle-creek-house-fire-late-monday-night/"/>
-        <updated>2026-04-07T17:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Two people were found deceased after a house fire late Monday night in Myrtle Creek. Fire crews from four departments responded to the home on Thomas Street, where responders also found several animals deceased. The fire remains under investigation.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR CRIMINAL MISCHIEF/TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145684</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-criminal-mischief-trespass-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-criminal-mischief-trespass-incident"/>
-        <updated>2026-04-07T17:16:43.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:10 a.m.  Roseburg Police charged a man with second-degree counts of criminal mischief and criminal trespass following an incident early Tuesday morning. An RPD report said just after 1:15 a.m. officers contacted the 68-year-old in the parking lot of a motel in the 300 block of West Harvard Avenue after an employee...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Canyonville School announces 2025-26 third quarter honor roll]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/324dc1e9-7a15-44cb-95f9-d81df3fb7cf6</id>
         <link href="https://www.nrtoday.com/news/education/canyonville-school-announces-2025-26-third-quarter-honor-roll/article_324dc1e9-7a15-44cb-95f9-d81df3fb7cf6.html"/>
@@ -1108,16 +1007,6 @@ The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR TRESPASS AND HARASSMENT INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145682</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-trespass-and-harassment-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-trespass-and-harassment-incident"/>
-        <updated>2026-04-07T17:03:51.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 10:00 a.m.  Roseburg Police jailed a man for an alleged trespass and harassment incident on Monday afternoon. An RPD report said just before 4:00 p.m. officers contacted 45-year-old Joshua Phegley at a business in the 200 block of Northeast Garden Valley Boulevard. Officers contacted Phegley and took him into custody without incident....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Days Creek Charter School announces third quarter honor roll]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/ededfd9a-cf22-4893-a23e-dd32687c8f6f</id>
         <link href="https://www.nrtoday.com/news/education/days-creek-charter-school-announces-third-quarter-honor-roll/article_ededfd9a-cf22-4893-a23e-dd32687c8f6f.html"/>
@@ -1125,56 +1014,6 @@ The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC
         <summary type="html"><![CDATA[DAYS CREEK — Days Creek Charter School announced all the middle and high school students who qualified for the third quarter honor roll in 2025-26.]]></summary>
         <author>
             <name>GLORIA COLEMAN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING REPORTED TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145680</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-following-reported-trespass-incident-7/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-reported-trespass-incident-7"/>
-        <updated>2026-04-07T16:50:45.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 9:40 a.m.  Roseburg Police jailed a man following a reported trespass incident on Monday afternoon. An RPD report said just before 12:30 p.m. 43-year-old Andrew Atterbury returned to a business in the 1400 block of Northwest Garden Valley Boulevard after being trespassed multiple times. Officers told Atterbury that he was under arrest...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PICKUP CRASHES INTO POWER POLE ON MONDAY AFTERNOON]]></title>
-        <id>https://kqennewsradio.com/?p=145678</id>
-        <link href="https://kqennewsradio.com/2026/04/07/pickup-crashes-into-power-pole-on-monday-afternoon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pickup-crashes-into-power-pole-on-monday-afternoon"/>
-        <updated>2026-04-07T16:40:05.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 9:30 a.m.  A pickup crashed into a power pole in the Elkton area on Monday afternoon. A Douglas County Sheriff’s Office report said at 5:20 p.m. a deputy responded to the wreck in the 600 block of Rover Road. The deputy learned that the driver, a Eugene man, was having a medical...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWO PEOPLE, SEVERAL ANIMALS DIE IN MYRTLE CREEK HOUSE FIRE]]></title>
-        <id>https://kqennewsradio.com/?p=145676</id>
-        <link href="https://kqennewsradio.com/2026/04/07/two-people-several-animals-die-in-myrtle-creek-house-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-people-several-animals-die-in-myrtle-creek-house-fire"/>
-        <updated>2026-04-07T16:32:59.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 9:20 a.m.  Two people and several animals died in a house fire which began late Monday night in Myrtle Creek. Chief Jonathan Brewster of the Myrtle Creek Police Department said at approximately 11:10 p.m. Douglas County Emergency Communications received a 911 call from a resident in the 800 block of Thomas Street...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION 04.07.26]]></title>
-        <id>https://kqennewsradio.com/?p=145672</id>
-        <link href="https://kqennewsradio.com/2026/04/07/morning-conversation-04-07-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-04-07-26"/>
-        <updated>2026-04-07T16:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Jason Jakubos from the Umpqua Gem and Mineral Club talks about the Rock & Gem Show, happening on May 2nd and 3rd at the Douglas County Fairgrounds.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Police Log: April 6, 2026]]></title>
-        <id>69d52c0916611600017a68a3</id>
-        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-april-6-2026/"/>
-        <updated>2026-04-07T16:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police reported multiple arrests and citations Monday, including trespass and warrant cases, probation and parole violations, a theft arrest tied to stolen disc golf gear, a crash citation, and several prohibited camping cases.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
@@ -1195,26 +1034,6 @@ The post Southern Oregon’s Rentec Direct Becomes Industry Giant in a Sea of VC
         <summary type="html"><![CDATA[On Monday, Sutherlin's Music Off Central became the first free concert series in Douglas County to announce its lineup of summer entertainment. Featured in the town's Central Park, the series is intended to bring entertainment and inspire the music community…]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 7, 2026]]></title>
-        <id>69d5017316611600017a66fb</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-7-2026/"/>
-        <updated>2026-04-07T13:29:20.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED CRIMINAL MISCHIEF]]></title>
-        <id>https://kqennewsradio.com/?p=145665</id>
-        <link href="https://kqennewsradio.com/2026/04/07/roseburg-police-jail-man-for-reported-criminal-mischief-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-reported-criminal-mischief-8"/>
-        <updated>2026-04-07T13:23:29.000Z</updated>
-        <summary type="html"><![CDATA[April 7, 2026 6:20 a.m.  Roseburg Police jailed a man for reported criminal mischief early Sunday morning. An RPD report said shortly before 2:15 a.m. officers contacted the 42-year-old after a caller said he was damaging the trash compactor at a business in the 2100 block of Northwest Stewart Parkway. During the contact with the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
