@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-12T13:52:55.188Z</updated>
+    <updated>2026-04-12T16:25:33.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE CITE AND RELEASE A MAN FOR TWO INCIDENTS]]></title>
+        <id>https://kqennewsradio.com/?p=145865</id>
+        <link href="https://kqennewsradio.com/2026/04/12/roseburg-police-cite-and-release-a-man-for-two-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-and-release-a-man-for-two-incidents"/>
+        <updated>2026-04-12T13:55:04.000Z</updated>
+        <summary type="html"><![CDATA[April 12, 2026 7:00 a.m.   Roseburg Police cited and released a man for two incidents that occurred in a three-day period. An RPD report said April 7th, the 68-year-old had allegedly stolen a motorized shopping cart from a store in the 900 block of Northwest Garden Valley Boulevard and had driven it to the Interstate...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sutherlin’s First Unified Comic Con Draws Strong Turnout, Builds Momentum for Future Events]]></title>
         <id>69dafa0116611600017a71b1</id>
@@ -674,16 +684,6 @@
         <summary type="html"><![CDATA[April 9, 2026 2:50 a.m.  Roseburg Sister Cities will present their 2026 Obon Fundraising series. It will be a collection of community-centered events designed to celebrate culture, connection and shared experience. Participants are invited to engage in Japanese activities and learn more about Roseburg’s long-standing relationship with Kiki City, Japan. Funds raised through these events...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Commissioners Recognize Child Abuse Prevention Month]]></title>
-        <id>69d7188116611600017a6bfc</id>
-        <link href="https://www.theroseburgreceiver.com/douglas-county-commissioners-recognize-child-abuse-prevention-month/"/>
-        <updated>2026-04-09T03:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County commissioners proclaimed April 2026 as Child Abuse Prevention Month on Wednesday, joined by local agencies and community partners who gathered at the courthouse for a pinwheel display and a public call to support children and families.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
