@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-13T12:57:50.205Z</updated>
+    <updated>2026-04-13T14:44:34.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rain, Mountain Snow Expected This Week As Another Spring Storm Moves Into Southern Oregon]]></title>
+        <id>69dcfa1e16611600017a747c</id>
+        <link href="https://www.theroseburgreceiver.com/rain-mountain-snow-expected-this-week-as-another-spring-storm-moves-into-southern-oregon/"/>
+        <updated>2026-04-13T14:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Rain, mountain snow and gusty winds are expected to return to Southern Oregon by midweek after a brief break Tuesday. Forecasters say the Cascades could see heavy snow Wednesday, while inland valleys including Douglas County are expected to get light to moderate rain.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 13, 2026]]></title>
+        <id>69dc6e6c16611600017a7285</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-13-2026/"/>
+        <updated>2026-04-13T13:41:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COOLER WEATHER COMING TO THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=145881</id>
@@ -472,26 +492,6 @@
         <link href="https://www.theroseburgreceiver.com/winston-residents-invited-to-add-yard-sales-to-trader-days-map-ahead-of-june-6-event/"/>
         <updated>2026-04-10T03:28:04.000Z</updated>
         <summary type="html"><![CDATA[Winston residents planning a yard sale during Trader Days on June 6 can now submit their addresses for inclusion on a citywide garage sale map. Organizers say the map is intended to help shoppers find more sales throughout the community.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverie Record Shop to Celebrate Record Store Day in Downtown Roseburg]]></title>
-        <id>69d861ba16611600017a6ec4</id>
-        <link href="https://www.theroseburgreceiver.com/reverie-record-shop-to-celebrate-record-store-day-in-downtown-roseburg/"/>
-        <updated>2026-04-10T02:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Reverie Record Shop, Roseburg’s vinyl-only record store and listening lounge, will host its official 2026 Record Store Day celebration on April 18 at 642 SE Jackson St. Doors open at 9 a.m., with limited releases, new and used vinyl, and early lines expected.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA Reports Two Fires Near Roseburg and Umpqua, No Threat to Structures]]></title>
-        <id>69d84f0016611600017a6eae</id>
-        <link href="https://www.theroseburgreceiver.com/dfpa-reports-two-fires-near-roseburg-and-umpqua-no-threat-to-structures/"/>
-        <updated>2026-04-10T01:15:50.000Z</updated>
-        <summary type="html"><![CDATA[DFPA crews were working two fires Thursday near Roseburg and Umpqua, including the 12 to 15 acre Hubbard / Bear Fire near Callahan Road and a 2 acre fire on Tyee Road. Officials said weather conditions are helping and no homes or structures are threatened.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
         </author>
