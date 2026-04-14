@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-14T12:57:35.819Z</updated>
+    <updated>2026-04-14T14:47:36.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Southern Oregon Goodwill Plans Roseburg Move To Former Rite Aid Site]]></title>
+        <id>69de497616611600017a7735</id>
+        <link href="https://www.theroseburgreceiver.com/southern-oregon-goodwill-plans-roseburg-move-to-former-rite-aid-site/"/>
+        <updated>2026-04-14T14:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Southern Oregon Goodwill says its Roseburg store is moving later this year to the former Rite Aid site at 1430 NW Garden Valley Blvd. The organization said the store is not closing, but relocating to a larger space.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 14, 2026]]></title>
+        <id>69de41dd16611600017a7564</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-14-2026/"/>
+        <updated>2026-04-14T14:02:02.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY TUESDAY NIGHT TO THURSDAY MORNING]]></title>
         <id>https://kqennewsradio.com/?p=145942</id>
@@ -394,26 +414,6 @@
         <summary type="html"><![CDATA[April 13, 2026 9:20 a.m.   Detectives with the Douglas Interagency Narcotics Team charged a Dillard man with drug crimes on Thursday. DINT Commander Lieutenant Nick Hansen said at about 12:00 p.m. the Roseburg Police Department conducted a traffic stop on a vehicle in the 1100 block of Northwest Garden Valley Boulevard. Hansen said DINT responded...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Police Log: April 9, 2026]]></title>
-        <id>69d9a5a516611600017a7184</id>
-        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-april-9-2026/"/>
-        <updated>2026-04-11T01:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police logged multiple arrests and citations April 9 into early April 10, including theft, assault, DUII, probation and parole violations, warrant arrests, disorderly conduct, trespassing, and prohibited camping cases across the city.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefighters battle 3 blazes in Douglas County Thursday]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/80edfe58-714e-4988-bce7-aa1454443e5a</id>
-        <link href="https://www.kezi.com/news/national/firefighters-battle-3-blazes-in-douglas-county-thursday/article_80edfe58-714e-4988-bce7-aa1454443e5a.html"/>
-        <updated>2026-04-10T22:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters responded to three separate fires across Douglas County on Thursday, according to the Oregon Department of Forestry.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

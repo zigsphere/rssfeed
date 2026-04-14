@@ -347,6 +347,26 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "69de497616611600017a7735",
+          "author": "Joseph Ziegler",
+          "description": "Southern Oregon Goodwill says its Roseburg store is moving later this year to the former Rite Aid site at 1430 NW Garden Valley Blvd. The organization said the store is not closing, but relocating to a larger space.",
+          "link": "https://www.theroseburgreceiver.com/southern-oregon-goodwill-plans-roseburg-move-to-former-rite-aid-site/",
+          "publishedOn": "2026-04-14T14:11:39.000Z",
+          "wordCount": 2818,
+          "title": "Southern Oregon Goodwill Plans Roseburg Move To Former Rite Aid Site",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/rite_aid.png"
+        },
+        {
+          "id": "69de41dd16611600017a7564",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/april-14-2026/",
+          "publishedOn": "2026-04-14T14:02:02.000Z",
+          "wordCount": 6666,
+          "title": "April 14, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/The-Morning-Scoop-9.png"
+        },
+        {
           "id": "69dda71a16611600017a751b",
           "author": "Joseph Ziegler",
           "description": "Douglas County Cheer is preparing for its 10th anniversary season, with registration and a parent information meeting set for April 16 in Winston. The non-competitive youth program focuses on inclusivity, affordability, community involvement, and helping local kids grow in confidence.",
@@ -435,16 +455,6 @@
           "wordCount": 3293,
           "title": "Sutherlin’s First Unified Comic Con Draws Strong Turnout, Builds Momentum for Future Events",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/char9.jpg"
-        },
-        {
-          "id": "69d9a5a516611600017a7184",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police logged multiple arrests and citations April 9 into early April 10, including theft, assault, DUII, probation and parole violations, warrant arrests, disorderly conduct, trespassing, and prohibited camping cases across the city.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-april-9-2026/",
-          "publishedOn": "2026-04-11T01:38:40.000Z",
-          "wordCount": 4066,
-          "title": "Police Log: April 9, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/police_lights2-7.jpg"
         }
       ]
     },
@@ -452,23 +462,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/80edfe58-714e-4988-bce7-aa1454443e5a",
-          "author": "News Staff",
-          "description": "Firefighters responded to three separate fires across Douglas County on Thursday, according to the Oregon Department of Forestry.",
-          "link": "https://www.kezi.com/news/national/firefighters-battle-3-blazes-in-douglas-county-thursday/article_80edfe58-714e-4988-bce7-aa1454443e5a.html",
-          "publishedOn": "2026-04-10T22:23:00.000Z",
-          "wordCount": 8308,
-          "title": "Firefighters battle 3 blazes in Douglas County Thursday",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/a9/2a90bad2-acba-4346-a5d3-502eb0082b21/69d979131489d.image.jpg?resize=300%2C169",
-            "length": "548481",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/a9/2a90bad2-acba-4346-a5d3-502eb0082b21/69d979131489d.image.jpg?resize=300%2C169"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
