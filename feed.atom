@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-15T12:56:25.012Z</updated>
+    <updated>2026-04-15T14:26:49.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Heavy Rain, Cascade Snow Expected Across Southern Oregon Wednesday]]></title>
+        <id>69df9a4216611600017a79aa</id>
+        <link href="https://www.theroseburgreceiver.com/heavy-rain-cascade-snow-expected-across-southern-oregon-wednesday/"/>
+        <updated>2026-04-15T14:03:50.000Z</updated>
+        <summary type="html"><![CDATA[A cold front is bringing rain, Cascade snow and gusty winds to Southern Oregon on Wednesday, with heavier rain possible in the Umpqua Valley and hazardous travel in higher elevations through Thursday morning.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 15, 2026]]></title>
+        <id>69df92a416611600017a77f7</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-15-2026/"/>
+        <updated>2026-04-15T13:46:16.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WINTER WEATHER ADVISORY CONTINUES FOR MOUNTAIN AREAS]]></title>
         <id>https://kqennewsradio.com/?p=145999</id>
