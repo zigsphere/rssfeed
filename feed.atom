@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-17T12:53:01.015Z</updated>
+    <updated>2026-04-17T14:15:20.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cold Start In Roseburg Gives Way To Weekend Warmup, Then Rain Returns Early Next Week]]></title>
+        <id>69e23d1a16611600017a7e7d</id>
+        <link href="https://www.theroseburgreceiver.com/cold-start-in-roseburg-gives-way-to-weekend-warmup-then-rain-returns-early-next-week/"/>
+        <updated>2026-04-17T14:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg is expected to warm from a frosty Friday morning into a mild weekend, with highs reaching the 70s before rain chances increase Sunday night. Wetter weather is expected Monday through Wednesday, with cooler temperatures returning by midweek.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 17, 2026]]></title>
+        <id>69e2369516611600017a7ca9</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-17-2026/"/>
+        <updated>2026-04-17T13:59:05.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COQUILLE WOMAN DIES IN A TWO-VEHICLE HIGHWAY CRASH]]></title>
+        <id>https://kqennewsradio.com/?p=146116</id>
+        <link href="https://kqennewsradio.com/2026/04/17/coquille-woman-dies-in-a-two-vehicle-highway-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coquille-woman-dies-in-a-two-vehicle-highway-crash"/>
+        <updated>2026-04-17T13:11:43.000Z</updated>
+        <summary type="html"><![CDATA[April 17, 2026 6:10 a.m.  A Coquille woman died in a two-vehicle crash on Highway 101 in Bandon on Wednesday. An Oregon State Police report said troopers responded at about 2:50 p.m. The preliminary investigation indicated that vehicle operated by 78-year-old Bernard Cooley of Bandon, was traveling northbound in the southbound lane when it nearly...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGH CLOUDS FRIDAY/SATURDAY WITH LOW PRESSURE COMING ON SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=146111</id>
