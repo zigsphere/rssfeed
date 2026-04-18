@@ -945,36 +945,6 @@
           "wordCount": 6099,
           "title": "April 15, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/The-Morning-Scoop-10.png"
-        },
-        {
-          "id": "69df0ecb16611600017a77df",
-          "author": "Joseph Ziegler",
-          "description": "ATRIO Health Plans has been placed under state supervision after Oregon regulators cited heavy operating losses, unpaid provider claims, and inadequate capital. The action affects about 35,340 Medicare Advantage members statewide, including some in Douglas County.",
-          "link": "https://www.theroseburgreceiver.com/state-places-atrio-health-plans-under-supervision-over-financial-concerns/",
-          "publishedOn": "2026-04-15T04:09:38.000Z",
-          "wordCount": 2934,
-          "title": "State Places ATRIO Health Plans Under Supervision Over Financial Concerns",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/atrio2.jpg"
-        },
-        {
-          "id": "69df053216611600017a77c2",
-          "author": "Joseph Ziegler",
-          "description": "The Umpqua Fishery Enhancement Derby and Powerhouse Electric helped fund a permanent backup generator for Rock Creek Hatchery, a project aimed at improving fish survival, reducing costs, and supporting long-term fishery enhancement in the Umpqua Basin.",
-          "link": "https://www.theroseburgreceiver.com/umpqua-fishery-enhancement-derby-helps-fund-backup-generator-for-rock-creek-hatchery/",
-          "publishedOn": "2026-04-15T03:29:38.000Z",
-          "wordCount": 2893,
-          "title": "Umpqua Fishery Enhancement Derby Helps Fund Backup Generator For Rock Creek Hatchery",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/04/umpqua_fish.jpg"
-        },
-        {
-          "id": "69df023716611600017a77ac",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police logged multiple arrests Monday, including assault, theft, trespassing and warrant cases, with additional camping and city ordinance citations reported into early Tuesday, according to the City of Roseburg police log.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-april-13-2026/",
-          "publishedOn": "2026-04-15T03:14:03.000Z",
-          "wordCount": 4020,
-          "title": "Police Log: April 13, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/police_lights2-9.jpg"
         }
       ]
     },
@@ -983,6 +953,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/ffaf75f5-8552-4b14-8c77-ec98ad2be105",
+          "author": "News Staff",
+          "description": "A Reedsport woman is in jail on murder charges after a house fire killed two people Thursday night, according to the Douglas County Sheriff's Office.",
+          "link": "https://www.kezi.com/news/local/woman-arrested-for-murder-after-deadly-house-fire-in-reedsport/article_ffaf75f5-8552-4b14-8c77-ec98ad2be105.html",
+          "publishedOn": "2026-04-17T23:12:00.000Z",
+          "wordCount": 8029,
+          "title": "Woman arrested for murder after deadly house fire in Reedsport",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165",
+            "length": "41465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/74/874df100-7aee-11ec-869c-7f9d901acd05/61eb067562dbe.image.jpg?resize=300%2C165"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/ef219773-1e1a-482a-bf0d-7840bae57807",
           "author": "News Staff",
@@ -997,21 +982,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/60/b60ea895-6199-4b49-92b3-017dd6708286/69e28747760bf.image.jpg?resize=300%2C152"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/ca1515fe-8cc2-434b-b76e-249647d4d019",
-          "author": "News Staff",
-          "description": "Roseburg Schools opened online enrollment for the 2026-27 school year.",
-          "link": "https://www.kezi.com/news/local/roseburg-opens-2026-27-enrollment-with-expanded-career-pathways/article_ca1515fe-8cc2-434b-b76e-249647d4d019.html",
-          "publishedOn": "2026-04-14T18:44:00.000Z",
-          "wordCount": 8080,
-          "title": "Roseburg opens 2026-27 enrollment with expanded career pathways",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169",
-            "length": "241181",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169"
         }
       ]
     }
