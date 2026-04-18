@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-17T23:29:46.245Z</updated>
+    <updated>2026-04-18T12:35:30.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lookingglass Elementary TAPS Program To Hold Bingo Night And Silent Auction Fundraiser]]></title>
+        <id>69e2e3e416611600017a7f60</id>
+        <link href="https://www.theroseburgreceiver.com/lookingglass-elementary-taps-program-to-hold-bingo-night-and-silent-auction-fundraiser/"/>
+        <updated>2026-04-18T01:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Lookingglass Elementary’s TAPS program will host a Bingo Night and Silent Auction fundraiser April 25 at the school gym. Proceeds will help support supplies, field trips, classroom materials, testing needs, and other student opportunities throughout the year.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas ESD Peer2Peer Program Earns Statewide Honor For Student Transition Work]]></title>
+        <id>69e2d5d316611600017a7f39</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-esd-peer2peer-program-earns-statewide-honor-for-student-transition-work/"/>
+        <updated>2026-04-18T00:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Douglas ESD’s Peer2Peer program has received the 2026 Exceptional Program Award, recognizing its work helping students build job skills, confidence, and workplace experience through paid summer placements and peer mentorship.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWO DEAD IN REEDSPORT HOUSE FIRE, SUSPECT ARRESTED FOR MURDER]]></title>
+        <id>https://kqennewsradio.com/?p=146153</id>
+        <link href="https://kqennewsradio.com/2026/04/17/two-dead-in-reedsport-house-fire-suspect-arrested-for-murder/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-dead-in-reedsport-house-fire-suspect-arrested-for-murder"/>
+        <updated>2026-04-17T23:33:08.000Z</updated>
+        <summary type="html"><![CDATA[April 20, 2026 4:30 p.m.  A Reedsport woman is in custody on murder charges following a residential fire that claimed two lives on Thursday night. A Douglas County Sheriff’s Office release said shortly before 11:00 p.m. dispatchers received a call about a structure fire in the 27000 block of Lower Smith River Road. Callers reported...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Dead In Reedsport House Fire; Woman Jailed On Murder Charges]]></title>
         <id>69e2bf4216611600017a7ee6</id>
@@ -847,36 +877,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TRUE WEALTH 4.14.26]]></title>
-        <id>https://kqennewsradio.com/?p=145977</id>
-        <link href="https://kqennewsradio.com/2026/04/14/true-wealth-4-14-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-4-14-26"/>
-        <updated>2026-04-15T00:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Presented by Littlejohn Financial Services, David Littlejohn and Matt Dixon have our weekly local look at finances.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR UNLAWFUL ENTRY INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145972</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-for-unlawful-entry-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-unlawful-entry-incident"/>
-        <updated>2026-04-14T20:25:39.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 1:20 p.m.    Roseburg Police jailed a man for an unlawful entry incident on Monday. An RPD report said 8:35 a.m. 52-year-old Michael Rushing was allegedly seen on camera attempting to enter the front door of a residence in the 1700 block of Northwest Goetz Street. Rushing then reportedly entered the front...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 04.14.26]]></title>
-        <id>https://kqennewsradio.com/?p=145968</id>
-        <link href="https://kqennewsradio.com/2026/04/14/inside-douglas-county-04-14-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-04-14-26"/>
-        <updated>2026-04-14T20:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Creating Community Resilience Program Manager Mckenzy Schultz talks about child abuse prevention and things the community should know about the issue.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roseburg opens 2026-27 enrollment with expanded career pathways]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/ca1515fe-8cc2-434b-b76e-249647d4d019</id>
         <link href="https://www.kezi.com/news/local/roseburg-opens-2026-27-enrollment-with-expanded-career-pathways/article_ca1515fe-8cc2-434b-b76e-249647d4d019.html"/>
@@ -884,96 +884,6 @@
         <summary type="html"><![CDATA[Roseburg Schools opened online enrollment for the 2026-27 school year.]]></summary>
         <author>
             <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE DETAIN MAN FOR WARRANT, LITTERING]]></title>
-        <id>https://kqennewsradio.com/?p=145966</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-detain-man-for-warrant-littering/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-detain-man-for-warrant-littering"/>
-        <updated>2026-04-14T18:01:25.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 11:00 a.m.  Roseburg Police detained a man for a warrant and littering on Monday. An RPD report said at 10:50 a.m. the 45-year-old was contacted as his camp in the 2100 block of Northwest Aviation Drive, just north of the Roseburg Regional Airport. Camping is never allowed at this location. The man...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR REPORTED THEFT]]></title>
-        <id>https://kqennewsradio.com/?p=145964</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-for-reported-theft-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-reported-theft-4"/>
-        <updated>2026-04-14T17:50:51.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 10:50 a.m.  Roseburg Police jailed a man for a reported theft incident on Monday. An RPD report said shortly after 8:00 a.m. a victim responded to the Bottle Drop in the 700 block of Northeast Garden Valley Boulevard after he had a theft of cans from his home the past two days....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANT]]></title>
-        <id>https://kqennewsradio.com/?p=145962</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-woman-for-warrant-30/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-warrant-30"/>
-        <updated>2026-04-14T17:41:26.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 10:40 a.m.  Roseburg Police jailed a woman for a warrant on Monday night. An RPD report said at 6:40 p.m. officers contacted the 38-year-old in the 500 block of West Umpqua Street and knew she had the warrant out of Douglas County Circuit Court. The woman was detained and dispatch confirmed the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING REPORTED DISTURBANCE]]></title>
-        <id>https://kqennewsradio.com/?p=145959</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-following-reported-disturbance-9/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-reported-disturbance-9"/>
-        <updated>2026-04-14T17:18:44.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 10: 00 a.m.   Roseburg Police jailed a man for a reported disturbance on Monday afternoon. An RPD report said at 1:40 p.m. officers responded to a disturbance in the 700 block of Southeast Spruce Street. Officers determined that 32-year-old Zachary Sullivan had attacked the victim, causing injuries to his lip and chin....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED PRIOR ASSAULT INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145957</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-following-alleged-prior-assault-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-alleged-prior-assault-incident"/>
-        <updated>2026-04-14T16:59:17.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 9:50 a.m.  Roseburg Police jailed a man Monday following an alleged prior assault incident. An RPD report said 41-year-old Orion Davids was developed as a suspect in an assault that was captured on camera on Sunday, between Davids and a victim. Just after 7:30 a.m. officers contacted Davids in the 200 block...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING REPORTED TRESPASS INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145955</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-following-reported-trespass-incident-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-reported-trespass-incident-8"/>
-        <updated>2026-04-14T16:48:17.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 9:40 a.m.   Roseburg Police jailed a man following a trespass incident at Garden Valley Church of Christ on Monday morning. An RPD report said at 8:50 a.m. officers responded to the 1300 block of Northwest Garden Valley Boulevard after information came in that a man was refusing to leave the property. Officers...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOLLOWING ALLEGED HARASSMENT INCIDENT]]></title>
-        <id>https://kqennewsradio.com/?p=145953</id>
-        <link href="https://kqennewsradio.com/2026/04/14/roseburg-police-jail-man-following-alleged-harassment-incident-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-following-alleged-harassment-incident-5"/>
-        <updated>2026-04-14T16:35:04.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 9:30 a.m.  Roseburg Police jailed a man following an alleged harassment incident on Sunday night. An RPD report said just after 6:30 p.m. officers responded to the Roseburg Rescue Mission in the 500 block of Southeast Lane Avenue after a 39-year-old was told to leave the property and refused. When officers arrived,...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VEHICLE HYDROPLANES AND CRASHES FRIDAY NIGHT]]></title>
-        <id>https://kqennewsradio.com/?p=145951</id>
-        <link href="https://kqennewsradio.com/2026/04/14/vehicle-hydroplanes-and-crashes-friday-night/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vehicle-hydroplanes-and-crashes-friday-night"/>
-        <updated>2026-04-14T16:23:37.000Z</updated>
-        <summary type="html"><![CDATA[April 14, 2026 9:15 a.m.  A vehicle hydroplaned and crashed on Interstate Five Friday night. An Oregon State Police report said at 8:20 p.m. troopers responded to the single-vehicle accident in the northbound lanes of the freeway near the Edenbower milepost 126 interchange in north Roseburg. The large SUV left the roadway and struck a...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MORNING CONVERSATION  4.14.26]]></title>
-        <id>https://kqennewsradio.com/?p=145948</id>
-        <link href="https://kqennewsradio.com/2026/04/14/morning-conversation-4-14-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-4-14-26"/>
-        <updated>2026-04-14T16:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Janice Wimberly talks about the Glide Wildflower Show which is happening on Saturday and Sunday April 25th and 26th.]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
     <entry>
@@ -994,26 +904,6 @@
         <summary type="html"><![CDATA[When Roseburg Beauty College closed nearly a decade ago, prospective cosmetologists were left without a local avenue for education. This year, a new business plans to change that.]]></summary>
         <author>
             <name>ANDREW GRIFFIN The News-Review</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southern Oregon Goodwill Plans Roseburg Move To Former Rite Aid Site]]></title>
-        <id>69de497616611600017a7735</id>
-        <link href="https://www.theroseburgreceiver.com/southern-oregon-goodwill-plans-roseburg-move-to-former-rite-aid-site/"/>
-        <updated>2026-04-14T14:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Southern Oregon Goodwill says its Roseburg store is moving later this year to the former Rite Aid site at 1430 NW Garden Valley Blvd. The organization said the store is not closing, but relocating to a larger space.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April 14, 2026]]></title>
-        <id>69de41dd16611600017a7564</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/april-14-2026/"/>
-        <updated>2026-04-14T14:02:02.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
