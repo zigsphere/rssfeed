@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-22T19:59:46.678Z</updated>
+    <updated>2026-04-22T23:37:26.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 04.22.26]]></title>
+        <id>https://kqennewsradio.com/?p=146305</id>
+        <link href="https://kqennewsradio.com/2026/04/22/inside-douglas-county-04-22-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-04-22-26"/>
+        <updated>2026-04-22T20:34:41.000Z</updated>
+        <summary type="html"><![CDATA[On Earth Day, Logan Bennett of the Oregon State University Extension Service talks about current agricultural topics and share information on classes and events that are coming up.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE TWO PEOPLE FOR PROHIBITED CAMPING]]></title>
         <id>https://kqennewsradio.com/?p=146300</id>
