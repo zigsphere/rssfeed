@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-24T14:28:04.359Z</updated>
+    <updated>2026-04-24T16:43:25.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BICYCLIST TAKEN TO HOSPITAL AFTER BEING STRUCK BY A VEHICLE]]></title>
+        <id>https://kqennewsradio.com/?p=146400</id>
+        <link href="https://kqennewsradio.com/2026/04/24/bicyclist-taken-to-hospital-after-being-struck-by-a-vehicle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bicyclist-taken-to-hospital-after-being-struck-by-a-vehicle"/>
+        <updated>2026-04-24T16:29:55.000Z</updated>
+        <summary type="html"><![CDATA[April 24, 2026 9:20 a.m.  A bicyclist was taken to the hospital after being struck by a vehicle on Thursday night. An Oregon State Police report said at 6:50 p.m. troopers responded to the accident on the Interstate Five northbound on ramp at the Exit 124 interchange with West Harvard Avenue. A bicyclist was in...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 04.24.26]]></title>
+        <id>https://kqennewsradio.com/?p=146391</id>
+        <link href="https://kqennewsradio.com/2026/04/24/local-real-estate-today-04-24-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-04-24-26"/>
+        <updated>2026-04-24T16:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group of Keller Williams Southern Oregon has our weekly look at real estate in the Umpqua Valley]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 04.24.26]]></title>
+        <id>https://kqennewsradio.com/?p=146395</id>
+        <link href="https://kqennewsradio.com/2026/04/24/morning-conversation-04-24-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-04-24-26"/>
+        <updated>2026-04-24T16:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Pharmacist Kristin Horton of the Roseburg V.A. Medical Center talks about the Drug Take Back Day event that is happening on Saturday from 10:00 a.m. to 2:00 p.m.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warming Trend Continues With Slight Chance of Weekend Storms]]></title>
         <id>69eb7c1416611600017a8c2a</id>
