@@ -604,6 +604,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c2e044e6-5f5c-4949-84dc-5ef0c8c4e1b4",
+          "author": "GLORIA COLEMAN The News-Review",
+          "description": "The Thundering Water: Upstream Healthcare WOWtruck is newly organized, filled with games and activities and ready for the upcoming busy months as the schedule fills out for the rest of the year.",
+          "link": "https://www.nrtoday.com/news/education/thundering-water-staff-prepares-for-wowtruck-events-this-summer/article_c2e044e6-5f5c-4949-84dc-5ef0c8c4e1b4.html",
+          "publishedOn": "2026-04-24T12:30:00.000Z",
+          "wordCount": 12621,
+          "title": "Thundering Water staff prepares for WOWTruck events this summer",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/6e/96ec1932-5bed-44a4-bace-8edf3e2c2771/68ebf340cf73e.image.jpg?resize=300%2C225",
+            "length": "359320",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/9/6e/96ec1932-5bed-44a4-bace-8edf3e2c2771/68ebf340cf73e.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4a8d759a-6d23-4229-9a40-7c44fd67ea95",
           "author": "ANDREW GRIFFIN The News-Review",
           "description": "On Wednesday, the Douglas County Board of Commissioners issued a proclamation on child care appreciation, approved agreements and purchases and more during a regular meeting.",
@@ -662,36 +677,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/6d/56d51189-e5bd-4418-b625-4748e6f12a4c/686067c03bd8c.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/f76e344c-fecd-44e8-84fe-4fa6f8bc506a",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "From Cougar to Wolf.",
-          "link": "https://www.nrtoday.com/news/education/daye-stone-will-lead-days-creek-charter-school-next-year/article_f76e344c-fecd-44e8-84fe-4fa6f8bc506a.html",
-          "publishedOn": "2026-04-21T13:00:00.000Z",
-          "wordCount": 13101,
-          "title": "Daye Stone will lead Days Creek Charter School next year",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/33/d330bf52-2cd4-416d-9bec-52ff0756ea56/69e70c4181dca.image.jpg?resize=300%2C450",
-            "length": "114564",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/33/d330bf52-2cd4-416d-9bec-52ff0756ea56/69e70c4181dca.image.jpg?resize=300%2C450"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/2596338b-79f2-457f-ad80-bb82aeed8801",
-          "author": "GLORIA COLEMAN The News-Review",
-          "description": "WINSTON — Ian Markert said he has been arm wrestling his dad since he was little, and he arm wrestles with other children at his school. When he heard about the Roseburg Arm Wrestling Club about two months ago, he…",
-          "link": "https://www.nrtoday.com/news/local/local-visiting-arm-wrestlers-compete-in-silver-crown/article_2596338b-79f2-457f-ad80-bb82aeed8801.html",
-          "publishedOn": "2026-04-20T14:30:00.000Z",
-          "wordCount": 13893,
-          "title": "Local, visiting arm wrestlers compete in Silver Crown",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/fa/ffaf183c-d892-4d40-bc63-9068c2903e33/69e7a388ea23d.image.jpg?resize=300%2C200",
-            "length": "233124",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/fa/ffaf183c-d892-4d40-bc63-9068c2903e33/69e7a388ea23d.image.jpg?resize=300%2C200"
         }
       ]
     },
