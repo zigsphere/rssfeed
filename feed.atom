@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-25T16:29:08.967Z</updated>
+    <updated>2026-04-25T19:36:59.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Occupant Rescued From Apartment Fire On West Harvard Avenue In Roseburg]]></title>
+        <id>69ed0df216611600017a8c93</id>
+        <link href="https://www.theroseburgreceiver.com/occupant-rescued-from-apartment-fire-on-west-harvard-avenue-in-roseburg/"/>
+        <updated>2026-04-25T18:55:47.000Z</updated>
+        <summary type="html"><![CDATA[One person was rescued and taken to a hospital Friday after a fire broke out in an apartment on W. Harvard Avenue in Roseburg. Firefighters quickly extinguished the blaze and prevented it from spreading to three other apartments.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE TAKEN TO HOSPITAL FOLLOWING STRUCTURE FIRE FRIDAY]]></title>
+        <id>https://kqennewsradio.com/?p=146433</id>
+        <link href="https://kqennewsradio.com/2026/04/25/one-taken-to-hospital-following-structure-fire-friday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-taken-to-hospital-following-structure-fire-friday"/>
+        <updated>2026-04-25T17:50:45.000Z</updated>
+        <summary type="html"><![CDATA[April, 25 10:50 a.m.  One person was taken to the hospital following a structure fire on Friday afternoon. A Roseburg Fire Department report said just after 3:20 p.m. personnel responded to the fire in the 2400 block of West Harvard Avenue after callers said there was black smoke showing from a four-plex and some residents...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WING STOP TO OPEN IN ROSEBURG]]></title>
+        <id>https://kqennewsradio.com/?p=146425</id>
+        <link href="https://kqennewsradio.com/2026/04/25/wing-stop-to-open-in-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wing-stop-to-open-in-roseburg"/>
+        <updated>2026-04-25T17:25:51.000Z</updated>
+        <summary type="html"><![CDATA[April 25, 2026 10:20 a.m.   In the KQEN Business Spotlight: Wing Stop is getting ready to open in Roseburg, though few details are available. The fast-growing company is known for cooked-to-order classic and boneless chicken wings, crispy tenders and chicken sandwiches which feature around a dozen distinct sauces and rubs. Founded in Garland, Texas in...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRIVER TAKEN TO HOSPITAL FOLLOWING SINGLE VEHICLE CRASH]]></title>
         <id>https://kqennewsradio.com/?p=146421</id>
@@ -764,16 +794,6 @@
         <summary type="html"><![CDATA[April 22, 2026 2:50 a.m.  Douglas County Gardeners will host the largest one-day plant sale in southern Oregon, on Saturday May 2nd. It will take place from 9:00 a.m. to 4:00 p.m. in the Exhibit Building at the Douglas County Fairgrounds. Oregon State University Extension Agent Logan Bennett said this year’s event will offer an...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacific Crest Bus Lines Sets May 1 Launch For Eugene-Medford Route Serving Roseburg]]></title>
-        <id>69e855ca16611600017a84e2</id>
-        <link href="https://www.theroseburgreceiver.com/pacific-crest-bus-lines-sets-may-1-launch-for-eugene-medford-route-serving-roseburg/"/>
-        <updated>2026-04-22T05:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Pacific Crest Bus Lines says its new Eugene-to-Medford route serving Roseburg will launch May 1. Tickets are now available, with fares from Roseburg listed at $18 to Eugene Amtrak, $22 to Grants Pass, and $27 to Medford.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
