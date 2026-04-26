@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-04-26T16:29:45.768Z</updated>
+    <updated>2026-04-26T19:37:58.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Woofstock Hosts First-Ever Spring Fair In Sutherlin]]></title>
+        <id>69ed8b4816611600017a8cba</id>
+        <link href="https://www.theroseburgreceiver.com/umpqua-woofstock-hosts-first-ever-spring-fair-in-sutherlin/"/>
+        <updated>2026-04-26T18:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Woofstock hosted its first-ever Spring Fair in Sutherlin, bringing vendors, shoppers, and animal lovers together to support discounted vaccine clinics and pet-focused assistance programs.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Occupant Rescued From Apartment Fire On West Harvard Avenue In Roseburg]]></title>
         <id>69ed0df216611600017a8c93</id>
