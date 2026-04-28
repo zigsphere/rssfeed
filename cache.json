@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=146548",
+          "author": "Kyle Bailey",
+          "description": "The Ford Foundation President and CEO Kara Carlisle and Vice President of Program Keavy Cook talk about the new Hometown Fund, which was unveiled Tuesday.",
+          "link": "https://kqennewsradio.com/2026/04/28/inside-douglas-county-04-27-26-2/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-04-27-26-2",
+          "publishedOn": "2026-04-28T20:31:26.000Z",
+          "wordCount": 1606,
+          "title": "INSIDE DOUGLAS COUNTY 04.27.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260428192420/IDC-04-28-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260428193101/KaraKeavey.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=146539",
           "author": "Kyle Bailey",
           "description": "April 28, 2026 10:45 a.m.  Roseburg Police jailed a fugitive from Washington State on Monday morning. An RPD report said at 9:15 a.m. officers contacted the 30-year-old in the 200 block of Southeast Pine Street, believing he had a warrant out of the Spokane Police Department. The warrant was confirmed and the man was taken...",
@@ -405,6 +420,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69f0349c16611600017a8f98",
+          "author": "Joseph Ziegler",
+          "description": "Optimum Tech, a new Roseburg-based technology support service owned by Sean Crouch, has launched to help Douglas County residents troubleshoot, optimize, and better understand their home and office technology.",
+          "link": "https://www.theroseburgreceiver.com/community-highlight-optimum-tech-launches-in-roseburg-to-offer-local-people-first-technology-support/",
+          "publishedOn": "2026-04-28T22:36:55.000Z",
+          "wordCount": 3122,
+          "title": "Community Highlight: Optimum Tech Launches In Roseburg To Offer Local, People-First Technology Support",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/04/optimum2.jpeg"
+        },
         {
           "id": "69f106b516611600017a925b",
           "author": "Joseph Ziegler",
