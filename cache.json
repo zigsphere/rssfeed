@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=146600",
+          "author": "Kyle Bailey",
+          "description": "April 29, 2026 1:50 p.m. The Douglas Interagency Narcotics Team has conducted another round of targeted enforcement patrols in the City of Roseburg. DINT Commander Lieutenant Nick Hansen said this enforcement is in response to community and business concerns that were brought to the Douglas County Board of Commissioners regarding criminal activity occurring in the...",
+          "link": "https://kqennewsradio.com/2026/04/29/dint-conducts-second-round-of-targeted-patrols-in-roseburg/?utm_source=rss&utm_medium=rss&utm_campaign=dint-conducts-second-round-of-targeted-patrols-in-roseburg",
+          "publishedOn": "2026-04-29T20:53:37.000Z",
+          "wordCount": 1769,
+          "title": "DINT CONDUCTS SECOND ROUND OF TARGETED PATROLS IN ROSEBURG",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=146597",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Oregon Governor Ed Diehl talks about his campaign and what he would focus on if he wins the GOP primary and, and the election in November.",
+          "link": "https://kqennewsradio.com/2026/04/29/inside-douglas-county-04-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-04-29-26",
+          "publishedOn": "2026-04-29T20:08:07.000Z",
+          "wordCount": 1608,
+          "title": "INSIDE DOUGLAS COUNTY 04.29.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260429190518/IDC-04-29-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251118200646/Ed-Diehl-photo-hi-res-Bio-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=146593",
           "author": "Kyle Bailey",
           "description": "April 29, 2026 10:50 a.m.  Roseburg Police jailed a man for warrants on Tuesday morning. An RPD report said at 8:40 a.m. officers contacted the 36-year-old in the 900 block of Southeast Douglas Avenue, knowing that he had the warrants out of RPD. The warrants were confirmed and the man was taken into custody. Bail...",
@@ -631,6 +656,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69f2860b16611600017a9543",
+          "author": "Joseph Ziegler",
+          "description": "Drone use will be restricted at most Oregon state parks and coastal beaches beginning May 1. New Oregon Parks and Recreation Department rules limit drone takeoffs and landings to designated areas, with permits or passes required in some cases.",
+          "link": "https://www.theroseburgreceiver.com/drone-use-to-be-restricted-at-most-oregon-state-parks-and-coastal-beaches-beginning-may-1/",
+          "publishedOn": "2026-04-29T22:37:47.000Z",
+          "wordCount": 3528,
+          "title": "Drone Use To Be Restricted At Most Oregon State Parks And Coastal Beaches Beginning May 1",
+          "imageUrl": "https://images.unsplash.com/photo-1713705320911-408b52c94c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGRyb25lJTIwYmFufGVufDB8fHx8MTc3NzUwMTcyMnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "69f25a1516611600017a9523",
           "author": "Joseph Ziegler",
