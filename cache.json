@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=146763",
+          "author": "Kyle Bailey",
+          "description": "May 4, 2026 10:40 a.m.   A Roseburg man was jailed after a high-speed freeway incident early Saturday morning. An OSP report said just after 12:00 a.m. troopers responded to a two-vehicle injury accident on Interstate Five northbound near the Garden Valley Boulevard Exit 125. A sedan traveling at a high rate of speed, allegedly side-swiped...",
+          "link": "https://kqennewsradio.com/2026/05/04/roseburg-man-jailed-after-high-speed-freeway-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-man-jailed-after-high-speed-freeway-incident",
+          "publishedOn": "2026-05-04T17:47:48.000Z",
+          "wordCount": 1675,
+          "title": "ROSEBURG MAN JAILED AFTER HIGH-SPEED FREEWAY INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=146761",
+          "author": "Kyle Bailey",
+          "description": "May 4, 2026 10:20 a.m.     Roseburg Police jailed a man for an alleged burglary on Sunday night. An RPD report said just after 810 p.m. officers responded to the incident in the 100 block of Northwest Walter Court. During the investigation, officers learned that a compact car was allegedly involved in the incident. Officers...",
+          "link": "https://kqennewsradio.com/2026/05/04/roseburg-police-jail-man-for-alleged-burglary-sunday-night/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-alleged-burglary-sunday-night",
+          "publishedOn": "2026-05-04T17:29:18.000Z",
+          "wordCount": 1622,
+          "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED BURGLARY SUNDAY NIGHT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=146759",
           "author": "Kyle Bailey",
           "description": "May 4, 2026 10:10 a.m.   Roseburg Police jailed a woman for warrants and a drug charge early Sunday morning. An RPD report said at 12:30 a.m. officers contacted the 36-year-old at the duck pond in the 1000 block of Northwest Garden Valley Boulevard regarding an unworked warrant from the Roseburg Police Department. Officers learned the...",
@@ -573,23 +593,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/a790f04b-aeac-4996-90b6-0c4f60a76b8a",
-          "author": "News Staff",
-          "description": "Umpqua Valley Tennis Center will host a grand opening party for Roseburg's new $2.53 million outdoor tennis and pickleball courts on May 9.",
-          "link": "https://www.kezi.com/news/local/free-play-bbq-at-roseburgs-new-outdoor-courts-may-9/article_a790f04b-aeac-4996-90b6-0c4f60a76b8a.html",
-          "publishedOn": "2026-04-30T21:50:00.000Z",
-          "wordCount": 8140,
-          "title": "Free play, BBQ at Roseburg's new outdoor courts May 9",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a4/4a43faf7-5e36-4148-a6c0-23a7bd0d073a/69a87f11c22d2.image.jpg?resize=300%2C225",
-            "length": "261674",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/4/a4/4a43faf7-5e36-4148-a6c0-23a7bd0d073a/69a87f11c22d2.image.jpg?resize=300%2C225"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
