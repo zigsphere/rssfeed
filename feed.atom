@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-05T20:01:34.748Z</updated>
+    <updated>2026-05-05T23:38:20.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DFPA Urges Caution With Yard Debris Burning As Warmer Weather Arrives]]></title>
+        <id>69fa5b8616611600017aa040</id>
+        <link href="https://www.theroseburgreceiver.com/dfpa-urges-caution-with-yard-debris-burning-as-warmer-weather-arrives/"/>
+        <updated>2026-05-05T21:07:40.000Z</updated>
+        <summary type="html"><![CDATA[DFPA is urging Douglas County residents to use caution with yard debris burning as warmer weather arrives, warning that escaped debris burns remain a leading cause of preventable fires outside fire season.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 05.05.26]]></title>
+        <id>https://kqennewsradio.com/?p=146815</id>
+        <link href="https://kqennewsradio.com/2026/05/05/inside-douglas-county-05-05-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-05-05-26"/>
+        <updated>2026-05-05T20:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Congress Monique DeSpain shares her views on a number of topics and talks about how her campaign is going.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Douglas County Fire Agencies Receive Wildfire Season Staffing Grants]]></title>
         <id>69fa440716611600017aa020</id>
