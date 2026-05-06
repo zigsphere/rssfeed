@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=146876",
+          "author": "Kyle Bailey",
+          "description": "May 6, 2026 10:30 a.m.  A semi-truck crashed on Interstate Five northbound early Tuesday morning. An Oregon State Police report said shortly before 5:00 a.m. the driver was near milepost 152, about a mile and a half north of the Drain and Yoncalla exit when his vehicle left the roadway and crashed into the cable...",
+          "link": "https://kqennewsradio.com/2026/05/06/semi-truck-crashes-forces-vehicle-off-roadway/?utm_source=rss&utm_medium=rss&utm_campaign=semi-truck-crashes-forces-vehicle-off-roadway",
+          "publishedOn": "2026-05-06T17:34:29.000Z",
+          "wordCount": 1602,
+          "title": "SEMI-TRUCK CRASHES, FORCES VEHICLE OFF ROADWAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=146873",
           "author": "Kyle Bailey",
           "description": "May 6, 2026 10:20 a.m.  Roseburg Police cited a man for a reported theft incident on Tuesday An RPD report said at 6:00 p.m. the 43-year-old from Glide allegedly stole a par of jeans and a hat from a store in the 3100 block of Northeast Stephens Street. He was contacted nearby and was cited...",
@@ -499,6 +509,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ae503b02-f1cc-4573-9285-848690b01377",
+          "author": "ANDREW GRIFFIN The News-Review",
+          "description": "There are over 980,000 acres of wilderness in the Umpqua Valley. This week, students from schools across Douglas County get an up-close, hands-on look at what it has to offer with Eastwood Nature Days.",
+          "link": "https://www.nrtoday.com/news/douglas-county-third-graders-discover-the-outdoors-at-eastwood-nature-days/article_ae503b02-f1cc-4573-9285-848690b01377.html",
+          "publishedOn": "2026-05-06T15:00:00.000Z",
+          "wordCount": 13086,
+          "title": "Douglas County third graders discover the outdoors at Eastwood Nature Days",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/aa/caa84624-57b0-41b8-a4f7-f8a54e106c4f/69fa7af7151d8.image.jpg?resize=300%2C200",
+            "length": "333477",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/aa/caa84624-57b0-41b8-a4f7-f8a54e106c4f/69fa7af7151d8.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e36a0fd7-7fe3-4efe-b0e0-3b6b5ac89223",
           "author": "Zebadiah Davis NR Today",
           "description": "The Douglas County Board of Commissioners will meet May 6 at 9 a.m. at the courthouse in Roseburg.",
@@ -592,6 +617,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "69fb9de216611600017aa354",
+          "author": "Joseph Ziegler",
+          "description": "Brockway Elementary and other Winston-Dillard schools briefly went into a secure action Wedneday after an anonymous threatening call. District officials said the threat was investigated, found to pose no danger, and normal operations resumed about an hour later.",
+          "link": "https://www.theroseburgreceiver.com/threatening-call-prompts-brief-secure-action-at-brockway-elementary/",
+          "publishedOn": "2026-05-06T20:05:27.000Z",
+          "wordCount": 2875,
+          "title": "Threatening Call Prompts Brief Secure Action At Brockway Elementary",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/winston.jpg"
+        },
         {
           "id": "69fb620016611600017aa326",
           "author": "Joseph Ziegler",
