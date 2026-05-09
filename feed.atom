@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-09T12:49:55.622Z</updated>
+    <updated>2026-05-09T14:12:09.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TENNIS CENTER HOSTING GRAND OPENING PART FOR TENNIS/PICKLEBALL COURTS SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=146993</id>
+        <link href="https://kqennewsradio.com/2026/05/09/tennis-center-hosting-grand-opening-part-for-tennis-pickleball-courts-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tennis-center-hosting-grand-opening-part-for-tennis-pickleball-courts-saturday"/>
+        <updated>2026-05-09T14:11:45.000Z</updated>
+        <summary type="html"><![CDATA[May 9, 2026 7:00 a.m.  Umpqua Valley Tennis Center will host an official grand opening party to introduce local residents to Roseburg’s new $2.53 million outdoor tennis and pickleball courts this Saturday. A City of Roseburg release said the community is invited to come play for free on the newly renovated courts from 12:00 p.m....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umpqua Valley Tennis Center To Celebrate New Tennis And Pickleball Courts Saturday]]></title>
         <id>69feb27516611600017aaa6c</id>
@@ -864,36 +874,6 @@
         <summary type="html"><![CDATA[May 6, 2026 2:50 a.m.   Umpqua Valley Habitat for Humanity will have a Grand Opening Bash for its new ReStore on Saturday. A release from the non-profit organization said it will be a full day of festivities, special guests and community fun. Roseburg Mayor Larry Rich will lead a ribbon cutting ceremony, dedication and proclamation...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umpqua Valley Farmers Market To Expand Onto Additional Downtown Roseburg Block]]></title>
-        <id>69fa8a0516611600017aa093</id>
-        <link href="https://www.theroseburgreceiver.com/umpqua-valley-farmers-market-to-expand-onto-additional-downtown-roseburg-block/"/>
-        <updated>2026-05-06T01:02:48.000Z</updated>
-        <summary type="html"><![CDATA[The Umpqua Valley Farmers Market will expand onto the 600 block of SE Jackson Street starting May 23, adding more room for local growers, makers, foods, crafts, and vendors during its busy season.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County commissioners to fill EMS vacancy, issue nurse proclamation at May 6 meeting]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e36a0fd7-7fe3-4efe-b0e0-3b6b5ac89223</id>
-        <link href="https://www.nrtoday.com/news/douglas-county-commissioners-to-fill-ems-vacancy-issue-nurse-proclamation-at-may-6-meeting/article_e36a0fd7-7fe3-4efe-b0e0-3b6b5ac89223.html"/>
-        <updated>2026-05-05T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas County Board of Commissioners will meet May 6 at 9 a.m. at the courthouse in Roseburg.]]></summary>
-        <author>
-            <name>Zebadiah Davis NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jime's Hotdogs supports community with sausages]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/e9ab4cea-f1ff-44f3-8e52-7b00d03410b5</id>
-        <link href="https://www.nrtoday.com/business/jimes-hotdogs-supports-community-with-sausages/article_e9ab4cea-f1ff-44f3-8e52-7b00d03410b5.html"/>
-        <updated>2026-05-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It was a rough Monday morning for Jime Amaro. Before noon, his van had a flat tire, he had forgotten a grease catcher at home, and his computer had accidentally wiped hours of work. But he had something to look…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN The News-Review</name>
         </author>
     </entry>
 </feed>
