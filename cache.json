@@ -424,6 +424,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/291be359-6c4a-4503-bd63-dd370ef152f0",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "On April 30, The News-Review received copy of a letter by Oregon Secretary of State (SOS) Campaign Finance Investigations Lead Swan Lubbers. He wrote an investigation was opened into a request regarding allegations of Steve Hammerson and his committee, We…",
+          "link": "https://www.nrtoday.com/news/oregon-secretary-of-state-investigates-campaign-finance-transaction-filing-for-hammerson-campaign/article_291be359-6c4a-4503-bd63-dd370ef152f0.html",
+          "publishedOn": "2026-05-09T19:13:00.000Z",
+          "wordCount": 12628,
+          "title": "Oregon Secretary of State investigates campaign finance transaction filing for Hammerson campaign",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10cc9614-da74-4fee-ba15-a32d6d490831/69ff8b738fad3.image.jpg?resize=300%2C200",
+            "length": "451912",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10cc9614-da74-4fee-ba15-a32d6d490831/69ff8b738fad3.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/d178f040-c212-41a5-acb3-82fa6489219d",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "The Roseburg Area Chamber of Commerce's (RACC) vision statement is \"to advocate for and be the voice of the business community in the greater Roseburg area.\"",
@@ -527,21 +542,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/5f/c5f65ccb-5605-4366-8d73-2df515c6c1c7/69fbe24bd12fc.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ae503b02-f1cc-4573-9285-848690b01377",
-          "author": "ANDREW GRIFFIN The News-Review",
-          "description": "There are over 980,000 acres of wilderness in the Umpqua Valley. This week, students from schools across Douglas County get an up-close, hands-on look at what it has to offer with Eastwood Nature Days.",
-          "link": "https://www.nrtoday.com/news/douglas-county-third-graders-discover-the-outdoors-at-eastwood-nature-days/article_ae503b02-f1cc-4573-9285-848690b01377.html",
-          "publishedOn": "2026-05-06T15:00:00.000Z",
-          "wordCount": 13086,
-          "title": "Douglas County third graders discover the outdoors at Eastwood Nature Days",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/aa/caa84624-57b0-41b8-a4f7-f8a54e106c4f/69fa7af7151d8.image.jpg?resize=300%2C200",
-            "length": "333477",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/aa/caa84624-57b0-41b8-a4f7-f8a54e106c4f/69fa7af7151d8.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -765,16 +765,6 @@
           "wordCount": 6302,
           "title": "May 7, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/The-Morning-Scoop-4.png"
-        },
-        {
-          "id": "69fbe7f416611600017aa3d1",
-          "author": "Joseph Ziegler",
-          "description": "Umpqua Valley Tennis Center has hired Nathan Miller as its new General Manager. Miller brings experience in journalism, community outreach, and photography, along with strong ties to the local tennis and pickleball community.",
-          "link": "https://www.theroseburgreceiver.com/umpqua-valley-tennis-center-names-nathan-miller-as-new-general-manager/",
-          "publishedOn": "2026-05-07T02:12:44.000Z",
-          "wordCount": 2838,
-          "title": "Umpqua Valley Tennis Center Names Nathan Miller As New General Manager",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/nathan_wife-1.jpeg"
         }
       ]
     },
