@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-11T17:47:58.154Z</updated>
+    <updated>2026-05-11T20:25:25.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 05.11.26]]></title>
+        <id>https://kqennewsradio.com/?p=147039</id>
+        <link href="https://kqennewsradio.com/2026/05/11/inside-douglas-county-05-11-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-05-11-26"/>
+        <updated>2026-05-11T20:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Aviva Health Interim Chief Executive Officer Patrick Hull talks about his new role and his enthusiasm for the organization.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunsbury Fire Near Glendale Reaches 85 Percent Mop-Up]]></title>
+        <id>6a0223de16611600017aad49</id>
+        <link href="https://www.theroseburgreceiver.com/lunsbury-fire-near-glendale-reaches-85-percent-mop-up/"/>
+        <updated>2026-05-11T18:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters have the Lunsbury Fire near Glendale at 85% mop-up after the wind-driven slash fire grew to 11.9 acres. DFPA says no homes were threatened, contracted crews have been released, and the cause remains under investigation.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR THREE ACTIVE WARRANTS]]></title>
         <id>https://kqennewsradio.com/?p=147035</id>

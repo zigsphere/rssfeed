@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147039",
+          "author": "Kyle Bailey",
+          "description": "Aviva Health Interim Chief Executive Officer Patrick Hull talks about his new role and his enthusiasm for the organization.",
+          "link": "https://kqennewsradio.com/2026/05/11/inside-douglas-county-05-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-11-26",
+          "publishedOn": "2026-05-11T20:19:48.000Z",
+          "wordCount": 1596,
+          "title": "INSIDE DOUGLAS COUNTY 05.11.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260511191427/IDC-05-11-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260511191914/Hull.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147035",
           "author": "Kyle Bailey",
           "description": "April 11, 2026 10:40 a.m.   Roseburg Police jailed a man for warrants on Saturday afternoon. An RPD report said at 5:00 p.m. officers contacted the 34-year-old while he was walking near the intersection of Southeast Lane Avenue and Southeast Pine Street, knowing he had three active warrants for his arrest. The warrants were from Douglas...",
@@ -506,6 +521,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a0223de16611600017aad49",
+          "author": "The Roseburg Receiver",
+          "description": "Firefighters have the Lunsbury Fire near Glendale at 85% mop-up after the wind-driven slash fire grew to 11.9 acres. DFPA says no homes were threatened, contracted crews have been released, and the cause remains under investigation.",
+          "link": "https://www.theroseburgreceiver.com/lunsbury-fire-near-glendale-reaches-85-percent-mop-up/",
+          "publishedOn": "2026-05-11T18:47:13.000Z",
+          "wordCount": 3105,
+          "title": "Lunsbury Fire Near Glendale Reaches 85 Percent Mop-Up",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/dfpa-2.webp"
+        },
         {
           "id": "6a01ffb916611600017aad2f",
           "author": "Joseph Ziegler",
