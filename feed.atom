@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-11T13:31:53.328Z</updated>
+    <updated>2026-05-11T14:20:58.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Council To Consider Ordinance On Oregon Sanctuary Law Compliance]]></title>
+        <id>6a01e39016611600017aaceb</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-council-to-consider-ordinance-on-oregon-sanctuary-law-compliance/"/>
+        <updated>2026-05-11T14:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg City Council will hold a first reading Monday on a proposed ordinance adding compliance with Oregon’s sanctuary laws to city code, reflecting existing state requirements for local resources and immigration enforcement.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg City Council To Consider Homeless Commission Resignation]]></title>
+        <id>6a01e12916611600017aacd3</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-city-council-to-consider-homeless-commission-resignation/"/>
+        <updated>2026-05-11T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg City Council is scheduled Monday to consider accepting Homeless Commission member Betty Hiatt’s resignation after she cited possible conflicts with her current position and personal life.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 11, 2026]]></title>
+        <id>6a0154b216611600017aaa9c</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-11-2026/"/>
+        <updated>2026-05-11T13:42:42.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWO MORE HOT DAYS BEFORE COOLING COMES TO THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=147015</id>
