@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147098",
+          "author": "Kyle Bailey",
+          "description": "Republican primary candidate for the U.S. Senate Jo Rae Perkins talks about her campaign and attempt to take on Senator Jeff Merkley this fall.",
+          "link": "https://kqennewsradio.com/2026/05/12/inside-douglas-county-05-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-12-26",
+          "publishedOn": "2026-05-12T20:13:07.000Z",
+          "wordCount": 1602,
+          "title": "INSIDE DOUGLAS COUNTY 05.12.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260512190652/IDC-05-12-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260512191212/Perkins-scaled-e1778616755794.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147095",
           "author": "Kyle Bailey",
           "description": "May 12, 2026 10:40 a.m.  Roseburg Police cited a woman for depositing trash within 100 yards of water or in water and for prohibited camping early Tuesday morning. An RPD report said just after 12:00 a.m. officers contacted the 68-year-old at the duck pond in the 1000 block of Northwest Garden Valley Boulevard where she...",
@@ -526,6 +541,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a037a5516611600017ab060",
+          "author": "Joseph Ziegler",
+          "description": "Brix Grill’s seasonal rooftop reopens Friday, May 15, with a grand opening from 4 to 9 p.m. The 21-and-over lounge-side space will be open Thursday through Saturday with cocktails, food, music and rooftop views.",
+          "link": "https://www.theroseburgreceiver.com/brix-grill-rooftop-reopens-friday-for-seasonal-grand-opening/",
+          "publishedOn": "2026-05-12T19:19:37.000Z",
+          "wordCount": 2896,
+          "title": "Brix Grill Rooftop Reopens Friday For Seasonal Grand Opening",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/brix.jpg"
+        },
         {
           "id": "6a035b6f16611600017ab041",
           "author": "Joseph Ziegler",
