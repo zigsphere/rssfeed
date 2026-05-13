@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-13T20:26:10.899Z</updated>
+    <updated>2026-05-13T23:47:53.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: May 12, 2026]]></title>
+        <id>6a04deb116611600017ab314</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-may-12-2026/"/>
+        <updated>2026-05-13T20:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police reported several incidents in the May 12 log, including warrant arrests, camping and littering citations, a robbery investigation, disorderly conduct, and a burglary/theft case.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 05.13.26]]></title>
         <id>https://kqennewsradio.com/?p=147152</id>
