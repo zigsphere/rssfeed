@@ -454,6 +454,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6aa53c2d-d85d-47fe-a9f1-2500eaf1d294",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "At most outdoor events in Douglas County, dogs are allowed but not the focus. On Saturday, dogs got their day of recognition with an event specifically for them with Barks & Recreation.",
+          "link": "https://www.nrtoday.com/news/douglas-county-dog-owners-head-to-roseburg-for-barks-recreation/article_6aa53c2d-d85d-47fe-a9f1-2500eaf1d294.html",
+          "publishedOn": "2026-05-16T22:23:00.000Z",
+          "wordCount": 12892,
+          "title": "Douglas County dog owners head to Roseburg for Barks & Recreation",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b8/cb802f17-4319-4931-a7aa-261a54e0bbb5/6a08f6a44a1f6.image.jpg?resize=300%2C200",
+            "length": "392543",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b8/cb802f17-4319-4931-a7aa-261a54e0bbb5/6a08f6a44a1f6.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/965d6fd3-401b-42aa-8fc3-2b68567bc9f9",
           "author": "Jake Tranter | NR Today",
           "description": "A fundraiser and community car meet will be held May 17 in Roseburg to support Jarod Clark and his family as he continues a battle with terminal cancer.",
