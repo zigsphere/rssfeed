@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-17T12:51:58.876Z</updated>
+    <updated>2026-05-17T14:19:55.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JUST OVER 22 PERCENT OF BALLOTS TURNED IN FOR MAY PRIMARY ELECTION]]></title>
+        <id>https://kqennewsradio.com/?p=147278</id>
+        <link href="https://kqennewsradio.com/2026/05/17/just-over-22-percent-of-ballots-turned-in-for-may-primary-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=just-over-22-percent-of-ballots-turned-in-for-may-primary-election"/>
+        <updated>2026-05-17T13:19:49.000Z</updated>
+        <summary type="html"><![CDATA[May 17, 2026 6:20 a.m.    Just over 22 percent of ballots have been turned in for the Douglas County May Primary Election. County Clerk Daniel Loomis said 22.26 percent, or 20,097 ballots, had been received as of late Friday afternoon. Lomis said that is 0.81 percent ahead of the participation rate for the same...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Police K9s show off skills at Roseburg speedway event May 17]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/01a60abe-dd0c-42fe-9b4a-623d4477069a</id>
@@ -614,16 +624,6 @@
         <summary type="html"><![CDATA[May 14, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: Umpqua Community College Theater Arts presents “Almost Maine” on stage through May 24th. The romantic comedy in two acts features the Umpqua Singers and original songs composed by Dr. Jason Heald. Shows are on Thursday through Saturday nights at 7:00 p.m. with matinees on Saturdays...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County Sheriff’s Office To Honor Fallen Law Enforcement Officers At Peace Officer Memorial Ceremony]]></title>
-        <id>6a0527ab16611600017ab343</id>
-        <link href="https://www.theroseburgreceiver.com/douglas-county-sheriffs-office-to-honor-fallen-law-enforcement-officers-at-peace-officer-memorial-ceremony/"/>
-        <updated>2026-05-14T01:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Douglas County will gather May 14 for a Peace Officer Memorial Ceremony honoring six local law enforcement officers who died in the line of duty.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
