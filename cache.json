@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147317",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Governor Christine Drazan talks about the Primary Election and the issues she is focused on.",
+          "link": "https://kqennewsradio.com/2026/05/18/inside-douglas-county-05-18-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-18-26",
+          "publishedOn": "2026-05-18T20:11:37.000Z",
+          "wordCount": 1597,
+          "title": "INSIDE DOUGLAS COUNTY 05.18.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260518190902/IDC-05-18-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251029190811/Newsdrazan-scaled.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147313",
+          "author": "Kyle Bailey",
+          "description": "May 18. 2026 11:00 a.m.  Roseburg Police jailed a man for unauthorized use of a motor vehicle early Sunday morning. An RPD report said at 2:00 a.m. officers responded after a caller said there had been vehicle theft in the 1400 block of Northwest Troost Street. 36-year-old Christopher Kerns was identified as the suspect. Troopers...",
+          "link": "https://kqennewsradio.com/2026/05/18/roseburg-police-jail-man-for-unauthorized-use-of-a-motor-vehicle/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-unauthorized-use-of-a-motor-vehicle",
+          "publishedOn": "2026-05-18T18:02:16.000Z",
+          "wordCount": 1650,
+          "title": "ROSEBURG POLICE JAIL MAN FOR UNAUTHORIZED USE OF A MOTOR VEHICLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147311",
           "author": "Kyle Bailey",
           "description": "May 18, 2026 10:40 a.m.  A driver was taken to the hospital following a crash early Saturday morning. An Oregon State Police report said just after 1:30 a.m. troopers responded to the wreck on Interstate Five northbound near milepost 91, approximately a mile north of the Canyon Creek summit. A vehicle was found on its...",
@@ -451,6 +476,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a0b5b0716611600017abb8f",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Police reported several incidents from May 15-18, including warrant arrests, camping violations, theft, DUII, assault, trespass, drug possession and other cases.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-may-15-may-18-2026/",
+          "publishedOn": "2026-05-18T18:38:30.000Z",
+          "wordCount": 5172,
+          "title": "Police Log: May 15 - May 18, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/police_lights2-11.jpg"
+        },
         {
           "id": "6a0b1d3616611600017abb6c",
           "author": "Joseph Ziegler",
