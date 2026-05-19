@@ -314,6 +314,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/e6955752-a95e-4ecc-95e7-14caeac3338a",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Anthony Bourdain once said \"Barbecue may not be the road to world peace, but it's a start.\" Over the weekend, a horde of visitors from Douglas County and beyond got to experience that sense of community grilled and smoked meats…",
+          "link": "https://www.nrtoday.com/news/myrtle-creek-pigs-out-on-meats-at-fly-in-pig-barbecue-competition-chili-cookoff/article_e6955752-a95e-4ecc-95e7-14caeac3338a.html",
+          "publishedOn": "2026-05-18T15:00:00.000Z",
+          "wordCount": 13067,
+          "title": "Myrtle Creek pigs out on meats at Fly-In Pig Barbecue Competition & Chili Cookoff",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/bb/3bbc1294-368f-4f44-8e2c-9185223b3814/6a08f46832027.image.jpg?resize=300%2C200",
+            "length": "321015",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/bb/3bbc1294-368f-4f44-8e2c-9185223b3814/6a08f46832027.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6aa53c2d-d85d-47fe-a9f1-2500eaf1d294",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "At most outdoor events in Douglas County, dogs are allowed but not the focus. On Saturday, dogs got their day of recognition with an event specifically for them with Barks & Recreation.",
@@ -327,51 +342,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b8/cb802f17-4319-4931-a7aa-261a54e0bbb5/6a08f6a44a1f6.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/965d6fd3-401b-42aa-8fc3-2b68567bc9f9",
-          "author": "Jake Tranter | NR Today",
-          "description": "A fundraiser and community car meet will be held May 17 in Roseburg to support Jarod Clark and his family as he continues a battle with terminal cancer.",
-          "link": "https://www.nrtoday.com/news/local/carmunity-for-a-cause-fundraiser-to-benefit-jarod-clark-family-during-cancer-battle/article_965d6fd3-401b-42aa-8fc3-2b68567bc9f9.html",
-          "publishedOn": "2026-05-15T16:52:00.000Z",
-          "wordCount": 12439,
-          "title": "“Carmunity for a Cause” fundraiser to benefit Jarod Clark family during cancer battle",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/db/2db86689-adb2-4b98-b0a1-29851c3547dc/6a075231c1375.image.webp?resize=300%2C169",
-            "length": "56194",
-            "type": "application/octet-stream"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/db/2db86689-adb2-4b98-b0a1-29851c3547dc/6a075231c1375.image.webp?crop=720%2C378%2C0%2C13"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/bef2543e-5783-43ee-ac02-6e05c7cc8d76",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Since its founding over 50 years ago, The FISH of Roseburg has grown to serve over 1000 families each month through food pantry services. To celebrate their history and future, the organization held a 55th anniversary celebration, complete with the…",
-          "link": "https://www.nrtoday.com/news/the-fish-of-roseburg-celebrates-55th-anniversary-arrival-of-new-refrigerated-van/article_bef2543e-5783-43ee-ac02-6e05c7cc8d76.html",
-          "publishedOn": "2026-05-15T16:47:00.000Z",
-          "wordCount": 12958,
-          "title": "The FISH of Roseburg celebrates 55th anniversary, arrival of new refrigerated van",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/15/a156c498-15d0-4f16-b8fb-d20f3e03ac28/6a07b3fc2e7f9.image.jpg?resize=300%2C200",
-            "length": "522864",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/15/a156c498-15d0-4f16-b8fb-d20f3e03ac28/6a07b3fc2e7f9.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2a89f41-5db3-4bb6-9e52-0f23e4af21d6",
-          "author": "Kyle Bailey NR Today",
-          "description": "Nearly 20 percent of ballots have been turned in for the 2026 Douglas County May Primary Election.",
-          "link": "https://www.nrtoday.com/news/nearly-20-percent-of-ballots-turned-in-for-may-primary-election/article_b2a89f41-5db3-4bb6-9e52-0f23e4af21d6.html",
-          "publishedOn": "2026-05-15T15:04:00.000Z",
-          "wordCount": 12348,
-          "title": "Nearly 20 Percent of Ballots Turned in For May Primary Election",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ef/2efc5bcb-1f3f-4c6e-8e4d-89f2410d6761/69fa129d6fdc5.image.jpg?resize=300%2C300",
-            "length": "115952",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/ef/2efc5bcb-1f3f-4c6e-8e4d-89f2410d6761/69fa129d6fdc5.image.jpg?resize=300%2C300"
         }
       ]
     },
@@ -382,10 +352,30 @@
       "articles": []
     },
     {
-      "title": "The Roseburg Receiver",
+      "title": "The Roseburg Receiver - Latest news in Douglas County, Oregon",
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a0bc53616611600017abbbc",
+          "author": "Joseph Ziegler",
+          "description": "The City of Roseburg is accepting applications for vacancies on the Homeless Commission and Planning Commission. Community members interested in volunteering can apply through the city’s website or at City Hall.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-seeks-volunteers-for-homeless-commission-and-planning-commission/",
+          "publishedOn": "2026-05-19T02:06:49.000Z",
+          "wordCount": 3168,
+          "title": "Roseburg Seeks Volunteers For Homeless Commission And Planning Commission",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/City-of-Roseburg-Logo-5.jpg"
+        },
+        {
+          "id": "6a0bc3c516611600017abba4",
+          "author": "Joseph Ziegler",
+          "description": "Friends of the Roseburg Public Library will hold its Summer Book Sale June 4–6 at the Roseburg Public Library, featuring affordable books, children’s books, art books, handcrafted book bags and a half-price day Saturday.",
+          "link": "https://www.theroseburgreceiver.com/friends-of-the-roseburg-public-library-to-hold-summer-book-sale-june-4-6/",
+          "publishedOn": "2026-05-19T02:00:24.000Z",
+          "wordCount": 3723,
+          "title": "Friends Of The Roseburg Public Library To Hold Summer Book Sale June 4–6",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/book_sale.jpg"
+        },
         {
           "id": "6a0b5b0716611600017abb8f",
           "author": "Joseph Ziegler",
@@ -445,66 +435,6 @@
           "wordCount": 7471,
           "title": "May 18, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/The-Morning-Scoop-11.png"
-        },
-        {
-          "id": "6a0743ae16611600017ab8b6",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg Police reported several incidents in the May 14 log, including warrants, trespassing, prohibited camping, drinking in public, a restraining order violation and a sexual abuse investigation.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-may-14-2026/",
-          "publishedOn": "2026-05-15T16:04:22.000Z",
-          "wordCount": 4375,
-          "title": "Police Log: May 14, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/police_lights2-10.jpg"
-        },
-        {
-          "id": "6a0729ea16611600017ab877",
-          "author": "Joseph Ziegler",
-          "description": "Douglas County’s 3rd Annual Longest Table is set for September 13, 2026, inviting residents and visitors to gather for an evening centered on community, connection and shared ideas.",
-          "link": "https://www.theroseburgreceiver.com/douglas-countys-longest-table-returns-september-13-2026/",
-          "publishedOn": "2026-05-15T14:15:29.000Z",
-          "wordCount": 3722,
-          "title": "Douglas County’s Longest Table Returns September 13, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/longest-table-3-1.jpg"
-        },
-        {
-          "id": "6a0726af16611600017ab855",
-          "author": "Joseph Ziegler",
-          "description": "Douglas County officials, law enforcement agencies, families and community members gathered Thursday to honor six fallen officers during the annual Peace Officer Memorial Day Ceremony at the courthouse.",
-          "link": "https://www.theroseburgreceiver.com/douglas-county-honors-fallen-officers-during-peace-officer-memorial-ceremony/",
-          "publishedOn": "2026-05-15T14:00:43.000Z",
-          "wordCount": 3841,
-          "title": "Douglas County Honors Fallen Officers During Peace Officer Memorial Ceremony",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/peace_officer-1.png"
-        },
-        {
-          "id": "6a07256316611600017ab836",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg will see mild weather Friday before light rain chances return late tonight into Saturday morning. Saturday will be cooler, with highs near 59, before dry and warmer weather builds next week. Highs are expected to climb into the 70s by Monday through Thursday.",
-          "link": "https://www.theroseburgreceiver.com/rain-chances-return-saturday-before-warmer-weather-builds-next-week/",
-          "publishedOn": "2026-05-15T13:55:55.000Z",
-          "wordCount": 3828,
-          "title": "Rain Chances Return Saturday Before Warmer Weather Builds Next Week",
-          "imageUrl": "https://images.unsplash.com/photo-1623362850497-27d68e5953fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMyfHxyYWluJTIwdHJlZXN8ZW58MHx8fHwxNzc4ODUyMzc3fDA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6a0723bb16611600017ab815",
-          "author": "Joseph Ziegler",
-          "description": "Firefighters responded late Thursday night to a commercial fire at Douglas County Forest Products. Officials said the fire was contained to the facility’s bag house and did not spread to nearby structures.",
-          "link": "https://www.theroseburgreceiver.com/fire-crews-respond-to-bag-house-fire-at-douglas-county-forest-products/",
-          "publishedOn": "2026-05-15T13:52:24.000Z",
-          "wordCount": 3374,
-          "title": "Fire Crews Respond To Bag House Fire At Douglas County Forest Products",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/fire_forest_products2-1.jpg"
-        },
-        {
-          "id": "6a06a63116611600017ab613",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/may-15-2026/",
-          "publishedOn": "2026-05-15T13:43:14.000Z",
-          "wordCount": 7286,
-          "title": "May 15, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/The-Morning-Scoop-10.png"
         }
       ]
     },
@@ -542,21 +472,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/a4/5a41ea04-7dff-11ec-864e-5f39ee566014/61f02bc24465e.image.jpg?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/01a60abe-dd0c-42fe-9b4a-623d4477069a",
-          "author": null,
-          "description": "Police K9 teams from across the region will show off their skills in live demonstrations at the Douglas County Speedway on Sunday, May 17 at 2 p.m.",
-          "link": "https://www.kezi.com/news/local/police-k9s-show-off-skills-at-roseburg-speedway-event-may-17/article_01a60abe-dd0c-42fe-9b4a-623d4477069a.html",
-          "publishedOn": "2026-05-15T21:40:00.000Z",
-          "wordCount": 8033,
-          "title": "Police K9s show off skills at Roseburg speedway event May 17",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/14/11484076-156c-4128-967c-ff0df4955f30/6a0795d713706.image.jpg?resize=300%2C216",
-            "length": "161370",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/14/11484076-156c-4128-967c-ff0df4955f30/6a0795d713706.image.jpg?resize=300%2C216"
         }
       ]
     }
