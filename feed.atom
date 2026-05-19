@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-19T13:30:54.234Z</updated>
+    <updated>2026-05-19T14:31:00.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today Is The Last Day To Vote In Oregon’s May 19 Election]]></title>
+        <id>6a0c6c2b16611600017abe33</id>
+        <link href="https://www.theroseburgreceiver.com/today-is-the-last-day-to-vote-in-oregons-may-19-election/"/>
+        <updated>2026-05-19T14:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Today is the final day to vote in Oregon’s May 19 Primary Election. Douglas County voters must return ballots by 8 p.m. tonight. As of the latest unofficial report, about 28% of eligible Douglas County ballots had been received.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon Employment Department Releases 2026 Careers Magazine]]></title>
+        <id>6a0c698616611600017abe1d</id>
+        <link href="https://www.theroseburgreceiver.com/oregon-employment-department-releases-2026-careers-magazine/"/>
+        <updated>2026-05-19T13:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Oregon’s 2026 Careers magazine is now available for free in English and Spanish, offering students, job seekers and career changers guidance on training, interviews, job searches and in-demand occupations across the state.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 19, 2026]]></title>
+        <id>6a0be53e16611600017abbe1</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-19-2026/"/>
+        <updated>2026-05-19T13:38:47.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COUNTY VOTERS CONSIDER COMMISSIONER’S RACES, LOCAL MEASURES]]></title>
         <id>https://kqennewsradio.com/?p=147338</id>
