@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147427",
+          "author": "Kyle Bailey",
+          "description": "Our monthly update on agricultural in Douglas County with Logan Bennett of the Oregon State University Extension Service.",
+          "link": "https://kqennewsradio.com/2026/05/20/inside-douglas-county-05-20-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-20-26",
+          "publishedOn": "2026-05-20T20:20:03.000Z",
+          "wordCount": 1597,
+          "title": "INSIDE DOUGLAS COUNTY 05.20.26",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260520191945/Logan-10.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147422",
           "author": "Kyle Bailey",
           "description": "May 20, 2026 10:45 a.m.  Roseburg Police jailed a man for prohibited camping and a dog leash law violation on Tuesday afternoon. An RPD report said at 3:45 p.m. the 37-year-old was contacted at his camp at Templin Beach Park in the 100 block of Southeast Templin Avenue. Camping is never allowed at this location....",
@@ -549,6 +559,81 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/d3ca3457-526e-4942-916e-21105c5d3fe9",
+          "author": "NRToday",
+          "description": "The unofficial results for U.S. and state representatives in the May 19 primary election were counted and released as of 10 p.m. Tuesday evening.",
+          "link": "https://www.nrtoday.com/news/unofficial-results-for-u-s-and-state-positions-show-david-brock-smith-monique-despain-leads/article_d3ca3457-526e-4942-916e-21105c5d3fe9.html",
+          "publishedOn": "2026-05-20T05:30:00.000Z",
+          "wordCount": 12964,
+          "title": "Unofficial results for U.S. and State positions show David Brock Smith, Monique DeSpain leads",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10cc9614-da74-4fee-ba15-a32d6d490831/69ff8b738fad3.image.jpg?resize=300%2C200",
+            "length": "451912",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0c/10cc9614-da74-4fee-ba15-a32d6d490831/69ff8b738fad3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9baf4375-51ae-4f8c-a854-96dacd2555ec",
+          "author": "NRToday",
+          "description": "A potential repeal of Sutherlin’s public safety fee has the early lead in the polls Tuesday night. With 2,291 votes counted, the repeal has a 373-vote lead, according to unofficial results from the Douglas County Clerk at 10 p.m.",
+          "link": "https://www.nrtoday.com/news/elections/sutherlins-public-safety-fee-is-trailing/article_9baf4375-51ae-4f8c-a854-96dacd2555ec.html",
+          "publishedOn": "2026-05-20T05:15:00.000Z",
+          "wordCount": 12626,
+          "title": "Sutherlin's public safety fee is trailing",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/8f/08f26002-8202-4349-92ba-df614bd16330/691f8cd6cc878.image.jpg?resize=300%2C200",
+            "length": "277621",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/8f/08f26002-8202-4349-92ba-df614bd16330/691f8cd6cc878.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ea47869d-5a17-480f-8673-2d3b1db55393",
+          "author": "NRToday",
+          "description": "The first count of unofficial results for Douglas County Commissioner races in the May 19 primary election were counted and released as of 8 p.m. Tuesday evening, then updated at 10:00 p.m.",
+          "link": "https://www.nrtoday.com/news/boice-hammerson-could-be-heading-to-the-november-ballot/article_ea47869d-5a17-480f-8673-2d3b1db55393.html",
+          "publishedOn": "2026-05-20T05:00:00.000Z",
+          "wordCount": 14261,
+          "title": "Boice, Hammerson could be heading to the November ballot",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/84/884ff155-3191-4c51-a91e-96f635f625ad/6a0360f660c83.image.jpg?resize=300%2C199",
+            "length": "348326",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/84/884ff155-3191-4c51-a91e-96f635f625ad/6a0360f660c83.image.jpg?resize=300%2C199"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b53d1a19-52e7-4fb9-839c-28cb83b685cd",
+          "author": "NRToday",
+          "description": "The unofficial results are in — Douglas County voters do not want more taxes.",
+          "link": "https://www.nrtoday.com/news/douglas-county-says-no-to-gas-tax/article_b53d1a19-52e7-4fb9-839c-28cb83b685cd.html",
+          "publishedOn": "2026-05-20T03:15:00.000Z",
+          "wordCount": 12439,
+          "title": "Douglas County says no to gas tax",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ae/8ae00af1-ef6e-4549-b583-b21e4b02b867/69321ecd92dd5.image.jpg?resize=300%2C200",
+            "length": "239876",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/ae/8ae00af1-ef6e-4549-b583-b21e4b02b867/69321ecd92dd5.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ab04d0a0-d969-46de-9199-228bdb00ba98",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "On Tuesday, the Music on the Half Shell (MOTHS) committee gathered in the center of Stewart Park to announce the lineup of this year's performances. It is the 34th year the free concert series has provided live music to Roseburg.",
+          "link": "https://www.nrtoday.com/news/lineup-announced-for-music-on-the-half-shell-2026-program/article_ab04d0a0-d969-46de-9199-228bdb00ba98.html",
+          "publishedOn": "2026-05-18T17:35:00.000Z",
+          "wordCount": 13226,
+          "title": "Lineup announced for Music on the Half Shell 2026 program",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/5a/f5a015f1-1f33-40c1-985e-6eec8bf005c9/6a0ca47b57adc.image.jpg?resize=300%2C200",
+            "length": "387929",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/5a/f5a015f1-1f33-40c1-985e-6eec8bf005c9/6a0ca47b57adc.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e6955752-a95e-4ecc-95e7-14caeac3338a",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Anthony Bourdain once said \"Barbecue may not be the road to world peace, but it's a start.\" Over the weekend, a horde of visitors from Douglas County and beyond got to experience that sense of community grilled and smoked meats…",
@@ -562,21 +647,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/bb/3bbc1294-368f-4f44-8e2c-9185223b3814/6a08f46832027.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/6aa53c2d-d85d-47fe-a9f1-2500eaf1d294",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "At most outdoor events in Douglas County, dogs are allowed but not the focus. On Saturday, dogs got their day of recognition with an event specifically for them with Barks & Recreation.",
-          "link": "https://www.nrtoday.com/news/douglas-county-dog-owners-head-to-roseburg-for-barks-recreation/article_6aa53c2d-d85d-47fe-a9f1-2500eaf1d294.html",
-          "publishedOn": "2026-05-16T22:23:00.000Z",
-          "wordCount": 12892,
-          "title": "Douglas County dog owners head to Roseburg for Barks & Recreation",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b8/cb802f17-4319-4931-a7aa-261a54e0bbb5/6a08f6a44a1f6.image.jpg?resize=300%2C200",
-            "length": "392543",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/b8/cb802f17-4319-4931-a7aa-261a54e0bbb5/6a08f6a44a1f6.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -798,6 +868,21 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/a4ea7949-ad23-40c3-975a-bac37e677429",
+          "author": "News Staff",
+          "description": "The Oregon Opioid Settlement Prevention, Treatment and Recovery Board allocated more than $90 million statewide for substance use prevention, treatment and recovery services over the last two years.",
+          "link": "https://www.kezi.com/news/local/opioid-settlement-brings-90m-to-oregon-treatment-services/article_a4ea7949-ad23-40c3-975a-bac37e677429.html",
+          "publishedOn": "2026-05-19T23:55:00.000Z",
+          "wordCount": 8267,
+          "title": "Opioid settlement brings $90M to Oregon treatment services",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/0e/a0e7b8e4-3c0e-11ed-b440-334cef5977d6/632f09187cbf8.image.jpg?resize=300%2C169",
+            "length": "118214",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/0e/a0e7b8e4-3c0e-11ed-b440-334cef5977d6/632f09187cbf8.image.jpg?resize=300%2C169"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/0029b8bb-7e70-4764-a41b-4c98de32948a",
           "author": "News Staff",
