@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-20T13:29:31.436Z</updated>
+    <updated>2026-05-20T14:30:24.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UCC To Host Open House For Downtown Woolley Center And SBDC Relocation]]></title>
+        <id>6a0dc14b16611600017ac155</id>
+        <link href="https://www.theroseburgreceiver.com/ucc-to-host-open-house-for-downtown-woolley-center-and-sbdc-relocation/"/>
+        <updated>2026-05-20T14:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Community College will host an open house Wednesday, May 20, for the newly relocated and renovated Woolley Center and Small Business Development Center in downtown Roseburg. The event runs from 4 to 6 p.m. at 729 SE Jackson Street.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 20, 2026]]></title>
+        <id>6a0d3d9b16611600017abf28</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-20-2026/"/>
+        <updated>2026-05-20T13:43:43.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BROCK SMITH LEADING, HOPES TO CHALLENGE MERKLEY FOR U.S. SENATE]]></title>
         <id>https://kqennewsradio.com/?p=147396</id>
