@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-21T13:29:25.287Z</updated>
+    <updated>2026-05-21T14:36:30.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bat Tests Positive For Rabies In Douglas County]]></title>
+        <id>6a0f14e616611600017ac404</id>
+        <link href="https://www.theroseburgreceiver.com/bat-tests-positive-for-rabies-in-douglas-county/"/>
+        <updated>2026-05-21T14:24:10.000Z</updated>
+        <summary type="html"><![CDATA[A bat found in Douglas County has tested positive for rabies, marking the county’s first confirmed animal rabies case of 2026. Health officials are reminding residents to avoid contact with bats and sick wildlife.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 21, 2026]]></title>
+        <id>6a0e8d0b16611600017ac1eb</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-21-2026/"/>
+        <updated>2026-05-21T13:39:01.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UMPQUA VALLEY HIGH TEMPERATURES 10 DEGREES ABOVE NORMAL THROUGH SUNDAY]]></title>
         <id>https://kqennewsradio.com/?p=147448</id>
