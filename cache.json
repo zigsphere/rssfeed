@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147478",
+          "author": "Kyle Bailey",
+          "description": "State Representative Virgle Osborn shares his thoughts following the May primary election in Oregon.",
+          "link": "https://kqennewsradio.com/2026/05/21/inside-douglas-county-05-21-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-21-26",
+          "publishedOn": "2026-05-21T20:18:59.000Z",
+          "wordCount": 1589,
+          "title": "INSIDE DOUGLAS COUNTY 05.21.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260521191434/IDC-05-21-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260521191801/NewOsbourne.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147474",
+          "author": "Kyle Bailey",
+          "description": "May 21, 2026 10:50 a.m. In the KQEN Cultural Spotlight: The Umpqua Community College Theater Arts production of “Almost Maine”, continues through Sunday. The romantic comedy in two acts features the Umpqua Singers. Performances are on Thursday through Saturday night at 7:00 p.m. and Saturday and Sunday afternoon at 2:00 p.m. It is being held...",
+          "link": "https://kqennewsradio.com/2026/05/21/almost-maine-continues-on-stage-through-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=almost-maine-continues-on-stage-through-sunday",
+          "publishedOn": "2026-05-21T17:56:50.000Z",
+          "wordCount": 1597,
+          "title": "ALMOST MAINE CONTINUES ON STAGE THROUGH SUNDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260501151316/Almost-Maine_Poster-e1777652010960.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147472",
           "author": "Kyle Bailey",
           "description": "May 21, 2026 10:30 a.m.   The Roseburg Fire Department will continue flushing fire hydrants inside the city limits through June 30th. Hydrant flushing is being conducted weekdays from 8:00 a.m. to 5:00 p.m. An RFD release said the fire department realizes that hydrant flushing may cause some inconvenience, however the flushing program is necessary to...",
@@ -786,6 +811,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a0dd49716611600017ac17c",
+          "author": "Joseph Ziegler",
+          "description": "Dark Disco returns to The Rosebud Theatre on May 30, bringing goth, post-punk, darkwave, industrial and alternative music culture to downtown Roseburg with Le Mal, Graveyard Gossip and DJ sets by Eric Yōkai and Chase Bats.",
+          "link": "https://www.theroseburgreceiver.com/dark-disco-returns-to-downtown-roseburg-may-30/",
+          "publishedOn": "2026-05-21T20:26:07.000Z",
+          "wordCount": 3511,
+          "title": "Dark Disco Returns To Downtown Roseburg May 30",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/dark_disco-2-1.jpeg"
+        },
+        {
+          "id": "6a0f49da16611600017ac41e",
+          "author": "Joseph Ziegler",
+          "description": "Firefighters stopped a 2-acre fire southeast of Tiller after DFPA cameras spotted smoke Wednesday. No homes were threatened. DFPA is urging caution over Memorial Day weekend as warmer, drier weather increases wildfire risk.",
+          "link": "https://www.theroseburgreceiver.com/shed-camp-fire-stopped-southeast-of-tiller-as-dfpa-urges-holiday-weekend-fire-safety/",
+          "publishedOn": "2026-05-21T18:11:56.000Z",
+          "wordCount": 3461,
+          "title": "Shed Camp Fire Stopped Southeast Of Tiller As DFPA Urges Holiday Weekend Fire Safety",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/smoke.jpg"
+        },
         {
           "id": "6a0f14e616611600017ac404",
           "author": "Joseph Ziegler",
