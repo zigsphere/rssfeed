@@ -6,6 +6,46 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147547",
+          "author": "Kyle Bailey",
+          "description": "Peg Long joins us live from The Winery at Umpqua Community College to talk about their Luau event happening on Saturday. Tickets are still available.",
+          "link": "https://kqennewsradio.com/2026/05/22/inside-douglas-county2-05-22-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county2-05-22-26",
+          "publishedOn": "2026-05-22T20:19:20.000Z",
+          "wordCount": 1605,
+          "title": "INSIDE DOUGLAS COUNTY2 05 22 26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260522191657/IDC3-05-22-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260519092210/Island-Escape-post-Instagram.jpg.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147543",
+          "author": "Kyle Bailey",
+          "description": "Professor Bart McHenry, and actors Bethany Lander and Lakota Blackwell talk about the production of “Almost Maine”, happening now through Sunday at Umpqua Community College.",
+          "link": "https://kqennewsradio.com/2026/05/22/inside-douglas-county1-05-22-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county1-05-22-26",
+          "publishedOn": "2026-05-22T20:13:38.000Z",
+          "wordCount": 1605,
+          "title": "INSIDE DOUGLAS COUNTY1 05 22 26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260522190638/IDC2-05-22-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260522191321/UCCPlay.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147538",
+          "author": "Kyle Bailey",
+          "description": "May 22, 2026 Roseburg Police cited a woman for reported animal nuisance on Thursday afternoon. An RPD report said just after 2:10 p.m. officers responded to a residence in the 1500 block of Northwest Randall Court after a caller said there had been a dog bite. Officers learned that the 29-year-olds dog had gotten loose...",
+          "link": "https://kqennewsradio.com/2026/05/22/roseburg-police-cite-woman-for-reported-animal-nuisance/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-cite-woman-for-reported-animal-nuisance",
+          "publishedOn": "2026-05-22T17:45:44.000Z",
+          "wordCount": 1594,
+          "title": "ROSEBURG POLICE CITE WOMAN FOR REPORTED ANIMAL NUISANCE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147536",
           "author": "Kyle Bailey",
           "description": "May 22, 2026 10:30 a.m.   Roseburg Police jailed a woman for a warrant on Thursday morning. An RPD report said at 10:40 a.m. the 39-year-old was contacted along the bike path at the bike jumps in Gaddis Park in the 800 block of Northwest Highland Street. There was an unworked RPD warrant for the woman’s...",
@@ -856,6 +896,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a10a9a016611600017ac6e1",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported several incidents Thursday, including harassment, warrant arrests, disorderly conduct, criminal mischief and city ordinance violations, according to the City of Roseburg Police Logs.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-may-21-2026/",
+          "publishedOn": "2026-05-22T19:23:25.000Z",
+          "wordCount": 4018,
+          "title": "Police Log: May 21, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/police_lights2-15.jpg"
+        },
+        {
+          "id": "6a10a6f016611600017ac6c6",
+          "author": "Joseph Ziegler",
+          "description": "Diamond Lake Campground opened today at 1 p.m., with first-come, first-served sites available until reservations begin June 12. Forest-operated sites now require Recreation.gov Scan and Pay instead of cash or checks.",
+          "link": "https://www.theroseburgreceiver.com/diamond-lake-campground-opens-for-season-new-scan-and-pay-rules-in-place/",
+          "publishedOn": "2026-05-22T19:01:28.000Z",
+          "wordCount": 3448,
+          "title": "Diamond Lake Campground Opens For Season, New Scan And Pay Rules In Place",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/usfs-1.jpg"
+        },
         {
           "id": "6a105bf416611600017ac67c",
           "author": "Joseph Ziegler",
