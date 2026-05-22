@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-22T13:27:02.148Z</updated>
+    <updated>2026-05-22T14:11:56.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg To See Warm Weekend Before Memorial Day Cooldown]]></title>
+        <id>6a105bf416611600017ac67c</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-to-see-warm-weekend-before-memorial-day-cooldown/"/>
+        <updated>2026-05-22T13:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg and the Umpqua Valley will stay warm and mostly dry through Sunday, with highs in the low to mid 80s. A cold front is expected Monday, bringing cooler temperatures and a chance of rain from Memorial Day afternoon into midweek.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 22, 2026]]></title>
+        <id>6a0fe57016611600017ac487</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-22-2026/"/>
+        <updated>2026-05-22T13:32:54.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABOVE NORMAL HIGH TEMPERATURES CONTINUE, THURSDAY TIES FOR HOTTEST DAY OF 2026]]></title>
         <id>https://kqennewsradio.com/?p=147509</id>
@@ -864,26 +884,6 @@
         <summary type="html"><![CDATA[May 19, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: Tickets are now on sale for the Umpqua Actors Community Theatre production of The Cuckoo Clock. A synopsis said the production is a heartfelt and poignant exploration of family bonds, loss, and the complexities of growing up amid adversity. The play centers on Ethel, a...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Seeks Volunteers For Homeless Commission And Planning Commission]]></title>
-        <id>6a0bc53616611600017abbbc</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-seeks-volunteers-for-homeless-commission-and-planning-commission/"/>
-        <updated>2026-05-19T02:06:49.000Z</updated>
-        <summary type="html"><![CDATA[The City of Roseburg is accepting applications for vacancies on the Homeless Commission and Planning Commission. Community members interested in volunteering can apply through the city’s website or at City Hall.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friends Of The Roseburg Public Library To Hold Summer Book Sale June 4–6]]></title>
-        <id>6a0bc3c516611600017abba4</id>
-        <link href="https://www.theroseburgreceiver.com/friends-of-the-roseburg-public-library-to-hold-summer-book-sale-june-4-6/"/>
-        <updated>2026-05-19T02:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Friends of the Roseburg Public Library will hold its Summer Book Sale June 4–6 at the Roseburg Public Library, featuring affordable books, children’s books, art books, handcrafted book bags and a half-price day Saturday.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
