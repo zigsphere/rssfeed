@@ -587,38 +587,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/e677fba4-6c86-4a56-944b-56acac0c80fa",
-          "author": "News Staff",
-          "description": "A bat found in Douglas County has tested positive for rabies, marking the first case in the county this year and the fourth reported in Oregon in 2026.",
-          "link": "https://www.kezi.com/news/local/douglas-county-reports-rabies-in-bat-urges-caution/article_e677fba4-6c86-4a56-944b-56acac0c80fa.html",
-          "publishedOn": "2026-05-20T23:37:00.000Z",
-          "wordCount": 8293,
-          "title": "Douglas County reports rabies in bat, urges caution",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/62/862f402d-7c17-4123-8a56-f0937e9f68b0/6a0e4709c2fb3.image.jpg?resize=300%2C225",
-            "length": "113670",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/62/862f402d-7c17-4123-8a56-f0937e9f68b0/6a0e4709c2fb3.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/a4ea7949-ad23-40c3-975a-bac37e677429",
-          "author": "News Staff",
-          "description": "The Oregon Opioid Settlement Prevention, Treatment and Recovery Board allocated more than $90 million statewide for substance use prevention, treatment and recovery services over the last two years.",
-          "link": "https://www.kezi.com/news/local/opioid-settlement-brings-90m-to-oregon-treatment-services/article_a4ea7949-ad23-40c3-975a-bac37e677429.html",
-          "publishedOn": "2026-05-19T23:55:00.000Z",
-          "wordCount": 8267,
-          "title": "Opioid settlement brings $90M to Oregon treatment services",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/0e/a0e7b8e4-3c0e-11ed-b440-334cef5977d6/632f09187cbf8.image.jpg?resize=300%2C169",
-            "length": "118214",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/a/0e/a0e7b8e4-3c0e-11ed-b440-334cef5977d6/632f09187cbf8.image.jpg?resize=300%2C169"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

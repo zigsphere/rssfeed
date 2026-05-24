@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-24T16:50:08.943Z</updated>
+    <updated>2026-05-24T19:58:57.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -514,26 +514,6 @@
         <summary type="html"><![CDATA[May 21, 2026 2:50 a.m.   In the KQEN Cultural Spotlight: The Umpqua Community College Performing and Visual Arts presents the Umpqua Chamber Orchestra in concert on June 2nd at 7:00 p.m. at Centerstage Theatre on the UCC campus. Guest conductor and pianist Andrei Andreev will lead a performance which includes Franz Joseph Haydn’s Piano Concerto...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County reports rabies in bat, urges caution]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/e677fba4-6c86-4a56-944b-56acac0c80fa</id>
-        <link href="https://www.kezi.com/news/local/douglas-county-reports-rabies-in-bat-urges-caution/article_e677fba4-6c86-4a56-944b-56acac0c80fa.html"/>
-        <updated>2026-05-20T23:37:00.000Z</updated>
-        <summary type="html"><![CDATA[A bat found in Douglas County has tested positive for rabies, marking the first case in the county this year and the fourth reported in Oregon in 2026.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opioid settlement brings $90M to Oregon treatment services]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/a4ea7949-ad23-40c3-975a-bac37e677429</id>
-        <link href="https://www.kezi.com/news/local/opioid-settlement-brings-90m-to-oregon-treatment-services/article_a4ea7949-ad23-40c3-975a-bac37e677429.html"/>
-        <updated>2026-05-19T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The Oregon Opioid Settlement Prevention, Treatment and Recovery Board allocated more than $90 million statewide for substance use prevention, treatment and recovery services over the last two years.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
