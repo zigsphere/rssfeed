@@ -287,23 +287,7 @@
       "title": "www.nrtoday.com - RSS Results in news/local of type article",
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/dfaae118-9a9f-469d-b40a-f2bd1713c446",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "On Wednesday, a joint press release from Douglas County-based health and public safety organizations revealed a bat has tested positive for rabies.",
-          "link": "https://www.nrtoday.com/news/bat-tests-positive-for-rabies-in-first-case-of-the-year-for-douglas-county/article_dfaae118-9a9f-469d-b40a-f2bd1713c446.html",
-          "publishedOn": "2026-05-21T17:29:00.000Z",
-          "wordCount": 12795,
-          "title": "Bat tests positive for rabies in first case of the year for Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fd/afd9e8b2-fb73-4bd4-ae45-fa97eb22d4bf/671bc3ca21227.image.jpg?resize=300%2C275",
-            "length": "79026",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fd/afd9e8b2-fb73-4bd4-ae45-fa97eb22d4bf/671bc3ca21227.image.jpg?resize=300%2C275"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Southern Oregon Business Journal",
