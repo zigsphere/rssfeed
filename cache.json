@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147684",
+          "author": "Kyle Bailey",
+          "description": "May 28, 2026 3:40 p.m.  The Douglas Forest Protective Association has announced that the 2026 fire season will officially begin this Saturday, May 30th. A DFPA release said all private, county, state, and Bureau of Indian Affairs land within the Douglas District are included in the fire season declaration. On private, county, state and BIA...",
+          "link": "https://kqennewsradio.com/2026/05/27/dfpa-begins-fire-season-on-saturday-may-30th/?utm_source=rss&utm_medium=rss&utm_campaign=dfpa-begins-fire-season-on-saturday-may-30th",
+          "publishedOn": "2026-05-27T22:38:12.000Z",
+          "wordCount": 1677,
+          "title": "DFPA BEGINS FIRE SEASON ON SATURDAY MAY 30TH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260527213757/052726-FS-DFPA.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147681",
           "author": "Kyle Bailey",
           "description": "Joni Kimoto talks about her experience being interned as a young child at Minidoka in Idaho, during World War II. This is an encore program from April of this year.",
@@ -462,6 +472,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a176ee316611600017acd41",
+          "author": "Joseph Ziegler",
+          "description": "DFPA’s 2026 fire season begins Saturday, May 30, bringing LOW public use restrictions to private, county, state and BIA lands in the Douglas District. Debris burning, most open fires, fireworks and certain off-road vehicle use will be restricted.",
+          "link": "https://www.theroseburgreceiver.com/fire-season-begins-saturday-across-dfpa-protected-lands-in-douglas-district/",
+          "publishedOn": "2026-05-27T22:24:35.000Z",
+          "wordCount": 3781,
+          "title": "Fire Season Begins Saturday Across DFPA-Protected Lands In Douglas District",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/052726-FS-DFPA.png"
+        },
+        {
           "id": "6a173ffe16611600017acd29",
           "author": "Joseph Ziegler",
           "description": "Sutherlin Police are investigating an early morning disturbance involving a firearm and knife that left two people stabbed. Police said a suspect was later taken into custody in Oakland after a brief standoff.",
@@ -617,7 +637,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/fd3d5907-b718-4638-b0f8-d79e83c69a42",
+          "author": "News Staff",
+          "description": "The filing period opens June 3 for candidates who want to run for Roseburg mayor and city council seats in the Nov. 3 general election.",
+          "link": "https://www.kezi.com/news/local/roseburg-mayor-council-seats-open-for-filing-june-3/article_fd3d5907-b718-4638-b0f8-d79e83c69a42.html",
+          "publishedOn": "2026-05-27T22:46:00.000Z",
+          "wordCount": 8010,
+          "title": "Roseburg mayor, council seats open for filing June 3",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/06/b06c5348-c807-460c-9c47-0ba2585a4ecc/6a1775008b571.image.jpg?resize=300%2C225",
+            "length": "297984",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/06/b06c5348-c807-460c-9c47-0ba2585a4ecc/6a1775008b571.image.jpg?resize=300%2C225"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
