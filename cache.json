@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147681",
+          "author": "Kyle Bailey",
+          "description": "Joni Kimoto talks about her experience being interned as a young child at Minidoka in Idaho, during World War II. This is an encore program from April of this year.",
+          "link": "https://kqennewsradio.com/2026/05/27/inside-douglas-county-05-27-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-05-27-26",
+          "publishedOn": "2026-05-27T20:03:39.000Z",
+          "wordCount": 1607,
+          "title": "INSIDE DOUGLAS COUNTY 05.27.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260527185121/IDC-04-20-26-1.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260417090717/Joni-e1776420474486.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147679",
+          "author": "Kyle Bailey",
+          "description": "May 27, 2026 12:50 p.m.  Roseburg Police charged a man for fourth-degree assault on Sunday night. An RPD report said at 10:30 p.m. officers responded to the 1400 block of Northwest Valley View Drive after a caller said there was a disturbance at that location. Upon arrival, officers learned the 22-year-old had arrived at a...",
+          "link": "https://kqennewsradio.com/2026/05/27/roseburg-police-charge-man-with-fourth-degree-assault-5/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-charge-man-with-fourth-degree-assault-5",
+          "publishedOn": "2026-05-27T19:48:25.000Z",
+          "wordCount": 1622,
+          "title": "ROSEBURG POLICE CHARGE MAN WITH FOURTH-DEGREE ASSAULT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147676",
           "author": "Kyle Bailey",
           "description": "May 27, 2026 10:30 a.m.    Roseburg Police jailed a man for a reported trespass incident on Monday morning. An RPD report said at 7:50 a.m. officers responded to a business in the 1100 block of Northwest Garden Valley Boulevard. Staff reported that a 34-year-old had returned after being trespassed and was harassing employees and...",
@@ -436,6 +461,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a173ffe16611600017acd29",
+          "author": "Joseph Ziegler",
+          "description": "Sutherlin Police are investigating an early morning disturbance involving a firearm and knife that left two people stabbed. Police said a suspect was later taken into custody in Oakland after a brief standoff.",
+          "link": "https://www.theroseburgreceiver.com/sutherlin-police-investigate-early-morning-assault-and-weapon-incident/",
+          "publishedOn": "2026-05-27T19:04:32.000Z",
+          "wordCount": 3448,
+          "title": "Sutherlin Police Investigate Early Morning Assault And Weapon Incident",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/police_lights-1.jpg"
+        },
         {
           "id": "6a16f75516611600017acd02",
           "author": "Joseph Ziegler",
