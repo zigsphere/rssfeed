@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-27T13:25:51.603Z</updated>
+    <updated>2026-05-27T14:50:59.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hope for Kids in Crisis Donation Effort Supports Local Children And Families]]></title>
+        <id>6a16f75516611600017acd02</id>
+        <link href="https://www.theroseburgreceiver.com/hope-for-kids-in-crisis-donation-effort-supports-local-children-and-families/"/>
+        <updated>2026-05-27T13:55:18.000Z</updated>
+        <summary type="html"><![CDATA[A Douglas County H.O.P.E. Drug Court participant is leading Hope for Kids in Crisis, a donation effort collecting new essentials for local children and families served by ODHS Child Welfare. Donations are due by June 7.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 27, 2026]]></title>
+        <id>6a16745e16611600017acac4</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-27-2026/"/>
+        <updated>2026-05-27T13:38:24.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOVIES IN THE PARK RETURNS NEXT FRIDAY, JUNE 5TH]]></title>
         <id>https://kqennewsradio.com/?p=147655</id>
