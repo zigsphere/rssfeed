@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-28T13:38:54.465Z</updated>
+    <updated>2026-05-28T15:22:50.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon Regulators Reject PacifiCorp Request For Temporary Rate Increase]]></title>
+        <id>6a184aa316611600017acfb1</id>
+        <link href="https://www.theroseburgreceiver.com/oregon-regulators-reject-pacificorp-request-for-temporary-rate-increase/"/>
+        <updated>2026-05-28T14:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Oregon regulators denied PacifiCorp’s request for a temporary 2.8% rate increase while the utility’s larger $170.7 million rate case remains under review. A final decision is expected in March 2027.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon State Parks To Offer Free Day-Use Parking June 6 For State Parks Day]]></title>
+        <id>6a18487f16611600017acf91</id>
+        <link href="https://www.theroseburgreceiver.com/oregon-state-parks-to-offer-free-day-use-parking-june-6-for-state-parks-day/"/>
+        <updated>2026-05-28T13:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Oregon State Parks will waive day-use parking fees for Oregon residents on Saturday, June 6, in celebration of State Parks Day. Several parks will also host special events, hikes and family activities across the state.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon’s Free Fishing Weekend Set For June 6-7]]></title>
+        <id>6a18478516611600017acf73</id>
+        <link href="https://www.theroseburgreceiver.com/oregons-free-fishing-weekend-set-for-june-6-7/"/>
+        <updated>2026-05-28T13:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Oregon’s Free Fishing Weekend returns June 6-7, allowing residents and visitors to fish, crab and clam without a license. Rules, limits and closures still apply, and shellfish harvesters should check safety updates before heading out.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 28, 2026]]></title>
+        <id>6a17be9216611600017acd58</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-28-2026/"/>
+        <updated>2026-05-28T13:43:48.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POTENTIAL FOR LIGHT MOISTURE THROUGH EARLY FRIDAY, THEN WARMING]]></title>
         <id>https://kqennewsradio.com/?p=147704</id>
