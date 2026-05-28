@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147734",
+          "author": "Kyle Bailey",
+          "description": "From Umpqua Actors Community Theater, Martin Follose talks his production of “The Cuckoo Clock” which has its world premiere on June 4th.",
+          "link": "https://kqennewsradio.com/2026/05/28/inside-douglas-county2-05-28-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county2-05-28-26",
+          "publishedOn": "2026-05-28T20:34:15.000Z",
+          "wordCount": 1596,
+          "title": "INSIDE DOUGLAS COUNTY2 05.28.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260528193128/IDC2-05-28-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260528193407/Martin-3.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=147731",
+          "author": "Kyle Bailey",
+          "description": "From Umpqua Valley Arts, Ashley Cluver talks about the new exhibits that go on display starting Friday afternoon.",
+          "link": "https://kqennewsradio.com/2026/05/28/inside-douglas-county1-05-28-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county1-05-28-26",
+          "publishedOn": "2026-05-28T20:28:46.000Z",
+          "wordCount": 1592,
+          "title": "INSIDE DOUGLAS COUNTY1 05.28.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260528192523/IDC1-05-28-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215331/uvaa.org_-e1624617807922.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147728",
           "author": "Kyle Bailey",
           "description": "May 28, 2026 10:50 a.m.  Roseburg Police cited a woman following a DUII crash early Thursday. An RPD report said just before 1:30 a.m. officers responded to an injury crash near the intersection of Northwest Medical Park Drive and Northwest Van Pelt Drive. The 59-year-old driver allegedly displayed signs of impairment. She consented to standard...",
@@ -672,6 +702,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a18987d16611600017ad00c",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police said Summit Francis Conn was lodged at Corrections after a stolen vehicle crashed into a fence near Sunshine Park and the driver fled. Police said Conn was found nearby and admitted to driving the vehicle.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-arrested-after-stolen-vehicle-crashes-near-sunshine-park/",
+          "publishedOn": "2026-05-28T19:34:41.000Z",
+          "wordCount": 3301,
+          "title": "Roseburg Man Arrested After Stolen Vehicle Crashes Near Sunshine Park",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/police_car-5.webp"
+        },
+        {
+          "id": "6a18954216611600017acff4",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported several incidents from May 27-28, including warrant arrests, obstruction, a parole violation, unauthorized use of a motor vehicle, drug possession and DUII.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-may-27-2026/",
+          "publishedOn": "2026-05-28T19:27:21.000Z",
+          "wordCount": 4114,
+          "title": "Police Log: May 27, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/05/police_lights2-17.jpg"
+        },
         {
           "id": "6a18605c16611600017acfcb",
           "author": "Joseph Ziegler",
