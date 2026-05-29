@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-05-29T13:32:45.160Z</updated>
+    <updated>2026-05-29T14:36:23.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Man Sentenced To Nearly 15 Years In Child Exploitation Case]]></title>
+        <id>6a199cbb16611600017ad2d5</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-man-sentenced-to-nearly-15-years-in-child-exploitation-case/"/>
+        <updated>2026-05-29T14:04:45.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man was sentenced to 14 years and 8 months in prison after an Oregon DOJ investigation found more than 740,000 child sexual abuse files had been shared through a public file-sharing network.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids’ Free Fishing Derby Returns To Diamond Lake Resort June 6]]></title>
+        <id>6a199a6c16611600017ad2ba</id>
+        <link href="https://www.theroseburgreceiver.com/kids-free-fishing-derby-returns-to-diamond-lake-resort-june-6/"/>
+        <updated>2026-05-29T13:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Diamond Lake Resort’s 26th Annual Kids’ Free Fishing Derby returns Saturday, June 6, during Oregon’s Free Fishing Weekend, with registration at the Diamond Lake Boathouse from 7 a.m. to noon.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Valley Tennis Center Launches New Tennis Classes]]></title>
+        <id>6a1998fa16611600017ad29f</id>
+        <link href="https://www.theroseburgreceiver.com/umpqua-valley-tennis-center-launches-new-tennis-classes/"/>
+        <updated>2026-05-29T13:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Valley Tennis Center is launching new tennis classes starting May 28, with Cardio Tennis and Bump Tennis offered Tuesdays, Wednesdays and Thursdays. Classes are open to members and non-members.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 29, 2026]]></title>
+        <id>6a1911f916611600017ad06e</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/may-29-2026/"/>
+        <updated>2026-05-29T13:43:26.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRY TREND STARTING SATURDAY IN THE UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=147766</id>
@@ -866,26 +906,6 @@ The post IDEA Talk Season Finale June 10, Featuring Serial Entrepreneur and Comm
         <summary type="html"><![CDATA[May 26, 2026 2:50 a.m. Staff with the Oregon State University Extension Service say that managing Oregon’s forests has become increasingly complex as multiple tree species face significant, compounding street driven by severe drought and extreme heat. Woodland owners are simultaneously battling other critical forest health issues, including aggressive pink park beetles and root diseases....]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirt Bike Rider Fatally Injured, Teen Hurt In Oregon Dunes Crash Near Railroad Hill]]></title>
-        <id>6a14fae016611600017ac7bc</id>
-        <link href="https://www.theroseburgreceiver.com/dirt-bike-rider-fatally-injured-teen-hurt-in-oregon-dunes-crash-near-railroad-hill/"/>
-        <updated>2026-05-26T01:46:13.000Z</updated>
-        <summary type="html"><![CDATA[A 35-year-old dirt bike rider was fatally injured and a 13-year-old rider was seriously hurt Sunday in an Oregon Dunes crash near Railroad Hill. Officials said speed and jumping without a spotter were contributing factors.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federal Officials Warn EMS Agencies About Emerging Synthetic Opioid Threat]]></title>
-        <id>6a14f90016611600017ac7a6</id>
-        <link href="https://www.theroseburgreceiver.com/federal-officials-warn-ems-agencies-about-emerging-synthetic-opioid-threat/"/>
-        <updated>2026-05-26T01:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Federal officials are warning EMS agencies and clinicians about cychlorphine, an emerging synthetic opioid linked to at least 55 deaths nationwide and described as potentially far more potent than fentanyl.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
