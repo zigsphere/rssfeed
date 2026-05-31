@@ -683,23 +683,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/fd3d5907-b718-4638-b0f8-d79e83c69a42",
-          "author": "News Staff",
-          "description": "The filing period opens June 3 for candidates who want to run for Roseburg mayor and city council seats in the Nov. 3 general election.",
-          "link": "https://www.kezi.com/news/local/roseburg-mayor-council-seats-open-for-filing-june-3/article_fd3d5907-b718-4638-b0f8-d79e83c69a42.html",
-          "publishedOn": "2026-05-27T22:46:00.000Z",
-          "wordCount": 8010,
-          "title": "Roseburg mayor, council seats open for filing June 3",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/06/b06c5348-c807-460c-9c47-0ba2585a4ecc/6a1775008b571.image.jpg?resize=300%2C225",
-            "length": "297984",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/06/b06c5348-c807-460c-9c47-0ba2585a4ecc/6a1775008b571.image.jpg?resize=300%2C225"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
