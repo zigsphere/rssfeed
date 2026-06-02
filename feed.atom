@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-02T13:27:52.602Z</updated>
+    <updated>2026-06-02T15:54:58.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: June 1, 2026]]></title>
+        <id>6a1efa5b6cb3f40001786ab5</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-june-1-2026/"/>
+        <updated>2026-06-02T15:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported three incidents in the latest log, including a parole violation and theft case, a disorderly conduct arrest, and a driving while suspended/parole violation traffic stop.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Urban Sanitary Authority Customers Will See Sewer Rate Increase July 1]]></title>
+        <id>6a1eed386cb3f40001786aa0</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-urban-sanitary-authority-customers-will-see-sewer-rate-increase-july-1/"/>
+        <updated>2026-06-02T14:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Urban Sanitary Authority customers will see sewer rates increase July 1, with residential bills rising to $60 per month per dwelling unit. The agency says the increase is tied to aging infrastructure, regulatory needs, inflation, and future sewer system projects.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg VA Bringing Back Classic Car Show, Adding Outreach Fair]]></title>
+        <id>6a1ee5956cb3f40001786a85</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-va-bringing-back-classic-car-show-adding-outreach-fair/"/>
+        <updated>2026-06-02T14:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg VA is bringing back its Classic Car Show on June 12, this time with an added outreach fair featuring VA resource teams, the Avenue of Flags, food trucks, and all cars welcome.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Sees Hottest Day Of 2026 So Far]]></title>
+        <id>6a1ee2316cb3f40001786a6f</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-sees-hottest-day-of-2026-so-far/"/>
+        <updated>2026-06-02T14:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg recorded its hottest day of 2026 so far on Monday, reaching 87 degrees at the Roseburg Regional Airport. A warm Tuesday is expected before cooler, more seasonal temperatures arrive Wednesday.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half Moon Bay Fire Contained Near Winchester Bay]]></title>
+        <id>6a1ee0c86cb3f40001786a55</id>
+        <link href="https://www.theroseburgreceiver.com/half-moon-bay-fire-contained-near-winchester-bay/"/>
+        <updated>2026-06-02T13:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters contained the Half Moon Bay Fire near Winchester Bay on Monday morning, holding it to 0.41 acres. No structures were threatened, and crews remained on scene for mop-up work and hot spot checks.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More ‘Portraits Of Community’ Workshops Planned For Downtown Roseburg Storefront Installation]]></title>
+        <id>6a1edef96cb3f40001786a33</id>
+        <link href="https://www.theroseburgreceiver.com/more-portraits-of-community-workshops-planned-for-downtown-roseburg-storefront-installation/"/>
+        <updated>2026-06-02T13:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Vacant to Vibrant is hosting two free Roseburg art workshops this summer as the “Portraits of Community” project prepares to fill the former Payless storefront on SE Jackson Street with community-made portraits.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2, 2026]]></title>
+        <id>6a1e5add6cb3f400017867de</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-2-2026/"/>
+        <updated>2026-06-02T13:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Te Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MONDAY WAS HOTTEST DAY OF 2026 SO FAR, WARMER WEATHER EXPECTED]]></title>
         <id>https://kqennewsradio.com/?p=147882</id>
