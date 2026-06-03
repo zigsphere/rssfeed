@@ -558,6 +558,56 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a20815b6cb3f40001786e4a",
+          "author": "Joseph Ziegler",
+          "description": "Oregon’s tobacco rules will expand June 5 to include nicotine pouches, lozenges, gum and similar products, requiring retailers to treat them like other regulated tobacco items and check that buyers are at least 21.",
+          "link": "https://www.theroseburgreceiver.com/oregon-expands-tobacco-rules-to-cover-nicotine-pouches-lozenges-and-other-emerging-products/",
+          "publishedOn": "2026-06-03T19:47:36.000Z",
+          "wordCount": 3629,
+          "title": "Oregon Expands Tobacco Rules to Cover Nicotine Pouches, Lozenges, and Other Emerging Products",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/check_id.png"
+        },
+        {
+          "id": "6a207bdd6cb3f40001786e2d",
+          "author": "Joseph Ziegler",
+          "description": "A vehicle fire in a hay field near Longhorn Lane sparked a grass fire Tuesday evening, prompting a multi-agency response from Central Douglas Fire & Rescue, Lookingglass Rural Fire District and DFPA.",
+          "link": "https://www.theroseburgreceiver.com/vehicle-fire-sparks-grass-fire-in-hay-field-near-longhorn-lane/",
+          "publishedOn": "2026-06-03T19:11:17.000Z",
+          "wordCount": 3210,
+          "title": "Vehicle Fire Sparks Grass Fire in Hay Field Near Longhorn Lane",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/LonghornLnFire2.jpg"
+        },
+        {
+          "id": "6a204a476cb3f40001786de5",
+          "author": "Joseph Ziegler",
+          "description": "The third annual Sawdust Jubilee Truck Show is set for Saturday, June 27, in Riddle, with trucks parked behind Shamrocks on East 2nd Street from noon to 2 p.m.",
+          "link": "https://www.theroseburgreceiver.com/sawdust-jubilee-truck-show-rolls-into-riddle-june-27/",
+          "publishedOn": "2026-06-03T19:02:31.000Z",
+          "wordCount": 3225,
+          "title": "Sawdust Jubilee Truck Show Rolls Into Riddle June 27",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/sawdust-jubilee-truck-show-feature.jpg"
+        },
+        {
+          "id": "6a2070a36cb3f40001786e11",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported nine incidents June 2, including ordinance violations, trespass cases, assault, parole violations, warrant arrests, drug possession and a DUII traffic stop.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-2-2026/",
+          "publishedOn": "2026-06-03T18:24:14.000Z",
+          "wordCount": 4199,
+          "title": "Police Log: June 2, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-2.jpg"
+        },
+        {
+          "id": "6a2065886cb3f40001786dfb",
+          "author": "Joseph Ziegler",
+          "description": "Douglas Forest Protective Association crews have responded to five fires and an estimated 15 illegal debris burns since fire season began, prompting renewed reminders about fire restrictions and wildfire prevention.",
+          "link": "https://www.theroseburgreceiver.com/douglas-forest-protective-association-responds-to-five-fires-since-start-of-fire-season/",
+          "publishedOn": "2026-06-03T17:37:23.000Z",
+          "wordCount": 3633,
+          "title": "Douglas Forest Protective Association Responds to Five Fires Since Start of Fire Season",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/dfpa_fire.jpg"
+        },
+        {
           "id": "6a2034796cb3f40001786dc4",
           "author": "Joseph Ziegler",
           "description": "Umpqua Woofstock Festival returns to Sutherlin on June 20 with dog contests, vendors, educational speakers, a silent auction, 50/50 drawing and family-friendly activities. Admission is free for spectators, with dog contest entry available for $5 per dog.",
@@ -763,7 +813,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/7ca712cf-7c90-4710-9121-09bd91056836",
+          "author": "News Staff",
+          "description": "The Douglas Forest Protective Association has responded to five separate fires across the district since the official start of fire season.",
+          "link": "https://www.kezi.com/news/local/fire-crews-battle-5-blazes-across-douglas-county/article_7ca712cf-7c90-4710-9121-09bd91056836.html",
+          "publishedOn": "2026-06-03T17:28:00.000Z",
+          "wordCount": 7818,
+          "title": "Fire crews battle 5 blazes across Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/a5/fa56c2bd-fc58-4d19-b46c-80a8a549db1a/6a20657a52c3f.image.jpg?resize=300%2C162",
+            "length": "180726",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/a5/fa56c2bd-fc58-4d19-b46c-80a8a549db1a/6a20657a52c3f.image.jpg?resize=300%2C162"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
