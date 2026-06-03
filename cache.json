@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=147945",
+          "author": "Kyle Bailey",
+          "description": "Tracy David of Roseburg Parks and Recreation talks about Movies in the Park, the Friday night series that begins this week in Stewart Park.",
+          "link": "https://kqennewsradio.com/2026/06/03/morning-conversation-06-03-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-06-03-26",
+          "publishedOn": "2026-06-03T16:11:36.000Z",
+          "wordCount": 1604,
+          "title": "MORNING CONVERSATION 06.03.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260603150807/AM-CONV-06-03-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260511151325/Newtracy.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=147937",
           "author": "Kyle Bailey",
           "description": "June 3, 2026 4:10 a.m.  Roseburg had the hottest day of the year do far on Tuesday and the first 90 plus degree day since last September. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 91 degrees at the Roseburg Regional Airport. That...",
@@ -474,6 +489,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/a2b1a7e6-f6c9-4f28-a920-00cd63ca8e20",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "On Tuesday, the Winston City Council held a meeting in which they approved an ordinance imposing a moratorium on new or additional marijuana business licenses.",
+          "link": "https://www.nrtoday.com/news/winston-city-council-approves-moratorium-on-new-marijuana-business-licenses/article_a2b1a7e6-f6c9-4f28-a920-00cd63ca8e20.html",
+          "publishedOn": "2026-06-02T17:45:00.000Z",
+          "wordCount": 12728,
+          "title": "Winston City Council approves moratorium on new marijuana business licenses",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/6d/d6dfca52-913a-4b8a-b0d8-40551e5741e7/6a1f1d16d396d.image.jpg?resize=300%2C200",
+            "length": "365099",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/6d/d6dfca52-913a-4b8a-b0d8-40551e5741e7/6a1f1d16d396d.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/fa4e3636-3313-4cce-a7ae-118f84a2dedb",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "On Monday, representatives from the Boys & Girls Club of the Umpqua Valley (BGCUV) and Panda Express met to celebrate the grand opening of the club's newest resource for enriching the lives of children: a Panda Cares Center of Hope.",
@@ -527,6 +557,66 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a2034796cb3f40001786dc4",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua Woofstock Festival returns to Sutherlin on June 20 with dog contests, vendors, educational speakers, a silent auction, 50/50 drawing and family-friendly activities. Admission is free for spectators, with dog contest entry available for $5 per dog.",
+          "link": "https://www.theroseburgreceiver.com/umpqua-woofstock-festival-bringing-dogs-vendors-and-family-fun-to-sutherlin-on-june-20/",
+          "publishedOn": "2026-06-03T14:08:18.000Z",
+          "wordCount": 3280,
+          "title": "Umpqua Woofstock Festival Bringing Dogs, Vendors and Family Fun to Sutherlin on June 20",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/2026-Woofstock-Festival-flyer-5-x-7-in---1--1.png"
+        },
+        {
+          "id": "6a20334e6cb3f40001786dab",
+          "author": "Joseph Ziegler",
+          "description": "Douglas Education Service District will receive a $10,000 Oregon Community Foundation grant to support evening and weekend family events for Early Intervention and Early Childhood Special Education families in the Roseburg area.",
+          "link": "https://www.theroseburgreceiver.com/douglas-education-service-district-receives-10-000-oregon-community-foundation-grant/",
+          "publishedOn": "2026-06-03T14:01:13.000Z",
+          "wordCount": 3316,
+          "title": "Douglas Education Service District Receives $10,000 Oregon Community Foundation Grant",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/Douglas_Education_Service_District_Courtesy_of_Oregon_Community_Foundation_1.png"
+        },
+        {
+          "id": "6a1fa8606cb3f40001786b21",
+          "author": "Joseph Ziegler",
+          "description": "Thrive Umpqua will host a June 16 community dinner at Abby’s Pizza for residents and business owners to learn about the Draft Diamond Lake Boulevard Plan, ask questions, and share feedback on future corridor improvements.",
+          "link": "https://www.theroseburgreceiver.com/community-dinner-planned-for-diamond-lake-boulevard-corridor-feedback/",
+          "publishedOn": "2026-06-03T13:52:36.000Z",
+          "wordCount": 3347,
+          "title": "Community Dinner Planned For Diamond Lake Boulevard Corridor Feedback",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/ohd.png"
+        },
+        {
+          "id": "6a1fa3d96cb3f40001786b00",
+          "author": "Joseph Ziegler",
+          "description": "Western Oregon may stay closer to normal in June, but fire risk is expected to build later this summer as warm, dry weather continues and fuels cure across the region.",
+          "link": "https://www.theroseburgreceiver.com/western-oregon-could-see-fire-risk-build-as-summer-moves-along/",
+          "publishedOn": "2026-06-03T13:52:25.000Z",
+          "wordCount": 3276,
+          "title": "Western Oregon Could See Fire Risk Build as Summer Moves Along",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/august.jpg"
+        },
+        {
+          "id": "6a1f9ee26cb3f40001786ae9",
+          "author": "Joseph Ziegler",
+          "description": "Free summer meals return June 15 for children in the Winston-Dillard area. The LunchBox Express van will stop at local schools and parks Monday through Thursday, providing breakfast and lunch at no cost for children through age 18.",
+          "link": "https://www.theroseburgreceiver.com/free-summer-meals-returning-for-winston-dillard-children/",
+          "publishedOn": "2026-06-03T13:52:14.000Z",
+          "wordCount": 3175,
+          "title": "Free Summer Meals Returning for Winston-Dillard Children",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/winston.jpg"
+        },
+        {
+          "id": "6a1faa196cb3f40001786b3a",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/june-3-2026/",
+          "publishedOn": "2026-06-03T13:50:02.000Z",
+          "wordCount": 7653,
+          "title": "June 3, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-2.png"
+        },
         {
           "id": "6a1efdf66cb3f40001786ac9",
           "author": "Joseph Ziegler",
@@ -666,16 +756,6 @@
           "wordCount": 6328,
           "title": "June 1, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop.png"
-        },
-        {
-          "id": "6a1b90a96cb3f4000178648b",
-          "author": "Joseph Ziegler",
-          "description": "Wholistic Earth in Roseburg is looking for a new owner as current owner Rae Copitka plans to relocate. The shop will remain open during the sale process while Copitka looks for the right person to carry the business forward.",
-          "link": "https://www.theroseburgreceiver.com/wholistic-earth-looks-for-new-owner-as-current-owner-plans-relocation/",
-          "publishedOn": "2026-05-31T01:43:12.000Z",
-          "wordCount": 3469,
-          "title": "Wholistic Earth Looks for New Owner as Current Owner Plans Relocation",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/05/wholeistic1-1.jpg"
         }
       ]
     },
