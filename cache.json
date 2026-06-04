@@ -594,6 +594,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5a6a683b-6363-42ab-9793-e03e6e799d16",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "As summer approaches, cities across Douglas County are finalizing their budgets for the upcoming fiscal year. On Tuesday, Myrtle Creek became one of the first to do so when the city approved their 2026-27 budget and urban renewal general fund…",
+          "link": "https://www.nrtoday.com/news/city-of-myrtle-creek-adopts-budget-for-upcoming-fiscal-year-debates-building-improvement-grant-program/article_5a6a683b-6363-42ab-9793-e03e6e799d16.html",
+          "publishedOn": "2026-06-03T18:07:00.000Z",
+          "wordCount": null,
+          "title": "City of Myrtle Creek adopts budget for upcoming fiscal year, debates building improvement grant program changes",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/36/836c19c4-8a4a-4167-a3b9-392a2e599253/6a20c1237bd1f.image.jpg?resize=300%2C200",
+            "length": "362721",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/36/836c19c4-8a4a-4167-a3b9-392a2e599253/6a20c1237bd1f.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a2b1a7e6-f6c9-4f28-a920-00cd63ca8e20",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "On Tuesday, the Winston City Council held a meeting in which they approved an ordinance imposing a moratorium on new or additional marijuana business licenses.",
@@ -662,6 +677,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a219c486cb3f40001787168",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported 16 incidents in the June 3 log, including parole violations, warrant arrests, prohibited camping, theft cases, DUII, drug possession, and a public drinking citation.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-3-2026/",
+          "publishedOn": "2026-06-04T15:48:20.000Z",
+          "wordCount": 4998,
+          "title": "Police Log: June 3, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-3.jpg"
+        },
         {
           "id": "6a2182d86cb3f40001787124",
           "author": "Joseph Ziegler",

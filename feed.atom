@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-04T14:30:00.306Z</updated>
+    <updated>2026-06-04T18:06:44.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: June 3, 2026]]></title>
+        <id>6a219c486cb3f40001787168</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-june-3-2026/"/>
+        <updated>2026-06-04T15:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported 16 incidents in the June 3 log, including parole violations, warrant arrests, prohibited camping, theft cases, DUII, drug possession, and a public drinking citation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ODFW To Host June 11 Update On Local Fisheries In Roseburg]]></title>
         <id>6a2182d86cb3f40001787124</id>
@@ -174,6 +184,16 @@
         <summary type="html"><![CDATA[Roseburg police reported nine incidents June 2, including ordinance violations, trespass cases, assault, parole violations, warrant arrests, drug possession and a DUII traffic stop.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City of Myrtle Creek adopts budget for upcoming fiscal year, debates building improvement grant program changes]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/5a6a683b-6363-42ab-9793-e03e6e799d16</id>
+        <link href="https://www.nrtoday.com/news/city-of-myrtle-creek-adopts-budget-for-upcoming-fiscal-year-debates-building-improvement-grant-program/article_5a6a683b-6363-42ab-9793-e03e6e799d16.html"/>
+        <updated>2026-06-03T18:07:00.000Z</updated>
+        <summary type="html"><![CDATA[As summer approaches, cities across Douglas County are finalizing their budgets for the upcoming fiscal year. On Tuesday, Myrtle Creek became one of the first to do so when the city approved their 2026-27 budget and urban renewal general fund…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>
