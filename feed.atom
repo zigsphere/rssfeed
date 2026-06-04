@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-03T21:40:05.461Z</updated>
+    <updated>2026-06-04T00:24:24.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nurse Burned After Hot Coffee Thrown During Care at Mercy Medical Center]]></title>
+        <id>6a20c1c26cb3f40001786e7a</id>
+        <link href="https://www.theroseburgreceiver.com/nurse-burned-after-hot-coffee-thrown-during-care-at-mercy-medical-center/"/>
+        <updated>2026-06-04T00:14:19.000Z</updated>
+        <summary type="html"><![CDATA[A 70-year-old North Bend woman was cited after Roseburg police said hot coffee was thrown on a nurse at Mercy Medical Center, causing second-degree burns and blistering while the nurse was performing care duties.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dustin Wallace Denied Parole In 2010 Murder Of 5-Year-Old Sahara Dwight]]></title>
+        <id>6a20bd766cb3f40001786e66</id>
+        <link href="https://www.theroseburgreceiver.com/dustin-wallace-denied-parole-in-2010-murder-of-5-year-old-sahara-dwight/"/>
+        <updated>2026-06-03T23:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Dustin Wallace, convicted in the 2010 rape and murder of 5-year-old Sahara Dwight in Roseburg, has been denied parole after a lengthy hearing at Oregon State Prison.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oregon Expands Tobacco Rules to Cover Nicotine Pouches, Lozenges, and Other Emerging Products]]></title>
         <id>6a20815b6cb3f40001786e4a</id>
