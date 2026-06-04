@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-04T13:34:29.716Z</updated>
+    <updated>2026-06-04T14:30:00.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ODFW To Host June 11 Update On Local Fisheries In Roseburg]]></title>
+        <id>6a2182d86cb3f40001787124</id>
+        <link href="https://www.theroseburgreceiver.com/odfw-to-host-june-11-update-on-local-fisheries-in-roseburg/"/>
+        <updated>2026-06-04T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[ODFW’s Umpqua Fish District will host a June 11 fisheries update in Roseburg covering salmon and steelhead seasons, Rock Creek Hatchery, Fall Chinook forecasts, Oregon Coast Coho and public questions.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 4, 2026]]></title>
+        <id>6a20f73d6cb3f40001786ebb</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-4-2026/"/>
+        <updated>2026-06-04T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DUSTIN WALLACE DENIED PAROLE IN ROSEBURG MURDER/RAPE CASE]]></title>
         <id>https://kqennewsradio.com/?p=147989</id>
