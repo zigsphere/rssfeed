@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-04T00:24:24.539Z</updated>
+    <updated>2026-06-04T13:31:06.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winston Adopts Marijuana Business License Moratorium]]></title>
+        <id>6a20ccc76cb3f40001786ea0</id>
+        <link href="https://www.theroseburgreceiver.com/winston-adopts-marijuana-business-license-moratorium/"/>
+        <updated>2026-06-04T01:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Winston City Council adopted Ordinance No. 26-723, placing a permanent moratorium on new or additional retail marijuana dispensary business licenses as the city moves to comply with Oregon’s HB 4121 population-based licensing limits.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nurse Burned After Hot Coffee Thrown During Care at Mercy Medical Center]]></title>
         <id>6a20c1c26cb3f40001786e7a</id>
