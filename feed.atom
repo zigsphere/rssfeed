@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-05T20:44:24.056Z</updated>
+    <updated>2026-06-05T23:57:24.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kent Creek Fire Reaches Final Size of 16.4 Acres]]></title>
+        <id>6a2359376cb3f4000178749c</id>
+        <link href="https://www.theroseburgreceiver.com/kent-creek-fire-reaches-final-size-of-16-4-acres/"/>
+        <updated>2026-06-05T23:19:20.000Z</updated>
+        <summary type="html"><![CDATA[The Kent Creek Fire southwest of Winston has reached its final mapped size of 16.4 acres. Crews have completed control line and hose lay around the perimeter and will continue mop-up and patrols around the clock.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Disposal Showcases Student Artwork on Recycling Trucks]]></title>
+        <id>6a2335606cb3f40001787482</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-disposal-showcases-student-artwork-on-recycling-trucks/"/>
+        <updated>2026-06-05T20:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Disposal recently unveiled new artwork on its recycling trucks featuring pieces created by two Roseburg High School students, Bailey and Sage, as part of a collaboration with the school’s art department.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Police Log: June 4, 2026]]></title>
         <id>6a22fdbd6cb3f4000178745c</id>
