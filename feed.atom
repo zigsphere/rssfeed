@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-07T17:02:50.409Z</updated>
+    <updated>2026-06-07T20:04:17.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COTTAGE GROVE MAN JAILED FOLLOWING VEHICLE THEFT, RECKLESS INCIDENTS]]></title>
+        <id>https://kqennewsradio.com/?p=148091</id>
+        <link href="https://kqennewsradio.com/2026/06/07/cottage-grove-man-jailed-following-vehicle-theft-reckless-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cottage-grove-man-jailed-following-vehicle-theft-reckless-incidents"/>
+        <updated>2026-06-07T19:36:18.000Z</updated>
+        <summary type="html"><![CDATA[June 7, 2026 12:30 p.m.   A Cottage Grove man was jailed following a vehicle theft and reckless incidents on Friday. A Douglas County Sheriff’s Office report said at approximately 8:15 p.m. a victim contacted dispatch and said that 39-year-old Jeremy Farris had stolen a car while it was left in running in the driveway of...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NO ONE INJURED IN A PRIUS VERSUS LOG TRUCK ACCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=148088</id>
@@ -34,6 +44,16 @@
         <summary type="html"><![CDATA[The Kent Creek Fire southwest of Winston has reached its final mapped size of 16.4 acres. Crews have completed control line and hose lay around the perimeter and will continue mop-up and patrols around the clock.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free summer meals for kids in Roseburg start June 22]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/6e4fce32-054f-4627-9cfa-853b981ea442</id>
+        <link href="https://www.kezi.com/news/local/free-summer-meals-for-kids-in-roseburg-start-june-22/article_6e4fce32-054f-4627-9cfa-853b981ea442.html"/>
+        <updated>2026-06-05T21:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Schools will provide free meals to all children over summer break at select sites and through the Lunchbox Express van.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -554,16 +574,6 @@
         <summary type="html"><![CDATA[As summer approaches, cities across Douglas County are finalizing their budgets for the upcoming fiscal year. On Tuesday, Myrtle Creek became one of the first to do so when the city approved their 2026-27 budget and urban renewal general fund…]]></summary>
         <author>
             <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire crews battle 5 blazes across Douglas County]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/7ca712cf-7c90-4710-9121-09bd91056836</id>
-        <link href="https://www.kezi.com/news/local/fire-crews-battle-5-blazes-across-douglas-county/article_7ca712cf-7c90-4710-9121-09bd91056836.html"/>
-        <updated>2026-06-03T17:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas Forest Protective Association has responded to five separate fires across the district since the official start of fire season.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

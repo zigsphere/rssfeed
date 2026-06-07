@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148091",
+          "author": "Kyle Bailey",
+          "description": "June 7, 2026 12:30 p.m.   A Cottage Grove man was jailed following a vehicle theft and reckless incidents on Friday. A Douglas County Sheriff’s Office report said at approximately 8:15 p.m. a victim contacted dispatch and said that 39-year-old Jeremy Farris had stolen a car while it was left in running in the driveway of...",
+          "link": "https://kqennewsradio.com/2026/06/07/cottage-grove-man-jailed-following-vehicle-theft-reckless-incidents/?utm_source=rss&utm_medium=rss&utm_campaign=cottage-grove-man-jailed-following-vehicle-theft-reckless-incidents",
+          "publishedOn": "2026-06-07T19:36:18.000Z",
+          "wordCount": 1679,
+          "title": "COTTAGE GROVE MAN JAILED FOLLOWING VEHICLE THEFT, RECKLESS INCIDENTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727222619/Sheriff-seal-web-e1601312391466.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148088",
           "author": "Kyle Bailey",
           "description": "June 6, 20-26 7:50 a.m.  No one was injured in a Toyota Prius versus log truck accident on Thursday afternoon. A Douglas County Sheriff’s Office report said at 4:30 p.m. the motorist was near the intersection of Happy Valley Road and Lookingglass Road in the Green District. The driver failed to maintain his lane, going...",
@@ -624,6 +634,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/6e4fce32-054f-4627-9cfa-853b981ea442",
+          "author": "News Staff",
+          "description": "Roseburg Schools will provide free meals to all children over summer break at select sites and through the Lunchbox Express van.",
+          "link": "https://www.kezi.com/news/local/free-summer-meals-for-kids-in-roseburg-start-june-22/article_6e4fce32-054f-4627-9cfa-853b981ea442.html",
+          "publishedOn": "2026-06-05T21:53:00.000Z",
+          "wordCount": 7708,
+          "title": "Free summer meals for kids in Roseburg start June 22",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169",
+            "length": "241181",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/0712c744-8ced-4bcd-9725-d403664fadd6",
           "author": "News Staff",
           "description": "The Roseburg Fire Department will conduct a live fire training exercise at 233 NE Fulton Street on Sunday, June 7.",
@@ -637,21 +662,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/be/cbefafc0-99da-4183-9909-78ff8afff487/6a22052ccd199.image.jpg?resize=300%2C127"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/7ca712cf-7c90-4710-9121-09bd91056836",
-          "author": "News Staff",
-          "description": "The Douglas Forest Protective Association has responded to five separate fires across the district since the official start of fire season.",
-          "link": "https://www.kezi.com/news/local/fire-crews-battle-5-blazes-across-douglas-county/article_7ca712cf-7c90-4710-9121-09bd91056836.html",
-          "publishedOn": "2026-06-03T17:28:00.000Z",
-          "wordCount": 7818,
-          "title": "Fire crews battle 5 blazes across Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/a5/fa56c2bd-fc58-4d19-b46c-80a8a549db1a/6a20657a52c3f.image.jpg?resize=300%2C162",
-            "length": "180726",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/a5/fa56c2bd-fc58-4d19-b46c-80a8a549db1a/6a20657a52c3f.image.jpg?resize=300%2C162"
         }
       ]
     }
