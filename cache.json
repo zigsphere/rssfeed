@@ -357,21 +357,6 @@
           "wordCount": 13241,
           "title": "Taking control: Zowee Vosburgh takes the long road but makes it to high school graduation",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/78bb7d4a-5d59-4bdc-b5b1-0c8d0b09287a",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Most fine artworks are stationary, unmoving from where they were places as fixtures of a space or setting. But this week, two Roseburg High School (RHS) students got the chance to see their works in a unique context; Not in…",
-          "link": "https://www.nrtoday.com/business/roseburg-high-school-art-students-win-contest-art-displayed-on-roseburg-disposal-trucks/article_78bb7d4a-5d59-4bdc-b5b1-0c8d0b09287a.html",
-          "publishedOn": "2026-06-04T23:24:00.000Z",
-          "wordCount": 13110,
-          "title": "Roseburg High School art students win contest, art displayed on Roseburg Disposal trucks",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d2/cd2802e4-49be-4e8f-8483-4af377416886/6a220a030d507.image.jpg?resize=300%2C200",
-            "length": "388724",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/c/d2/cd2802e4-49be-4e8f-8483-4af377416886/6a220a030d507.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -386,6 +371,46 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a26cfde6cb3f400017877b8",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg residents are invited to a free flag giveaway and time capsule kickoff June 13 at Roseburg High School, as the community begins local America 250 efforts.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-flag-giveaway-and-time-capsule-project-to-kick-off-local-america-250-efforts/",
+          "publishedOn": "2026-06-08T14:23:18.000Z",
+          "wordCount": 3391,
+          "title": "Roseburg Flag Giveaway and Time Capsule Project to Kick Off Local America 250 Efforts",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/capsule2.png"
+        },
+        {
+          "id": "6a26cecd6cb3f4000178779f",
+          "author": "Joseph Ziegler",
+          "description": "The Myrtle Creek Elks Lodge will host a Flag Day Ceremony on Sunday, June 14, at the Veterans Memorial at Millsite Park, followed by burgers, sides, and beverages at the nearby Elks Lodge.",
+          "link": "https://www.theroseburgreceiver.com/myrtle-creek-elks-to-host-flag-day-ceremony-at-millsite-park/",
+          "publishedOn": "2026-06-08T14:18:49.000Z",
+          "wordCount": 3072,
+          "title": "Myrtle Creek Elks to Host Flag Day Ceremony at Millsite Park",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/elks-usa-2.jpg"
+        },
+        {
+          "id": "6a26cc1c6cb3f40001787783",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg is expected to see rain Monday before drying out and warming later this week. Highs are forecast to climb from the 60s early in the week to near 94 by Saturday, with increasing heat and fire weather concerns possible next weekend.",
+          "link": "https://www.theroseburgreceiver.com/light-rain-monday-before-roseburg-warms-into-the-90s-by-saturday/",
+          "publishedOn": "2026-06-08T14:07:01.000Z",
+          "wordCount": 3291,
+          "title": "Light Rain Monday Before Roseburg Warms Into the 90s by Saturday",
+          "imageUrl": "https://images.unsplash.com/photo-1598206026987-0a77cd80afa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMxfHx3YXJtJTIwZGF5fGVufDB8fHx8MTc4MDkyNzcxNXww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a2641276cb3f400017874ea",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/june-8-2026/",
+          "publishedOn": "2026-06-08T13:46:44.000Z",
+          "wordCount": 6218,
+          "title": "June 8, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-5.png"
+        },
         {
           "id": "6a2359376cb3f4000178749c",
           "author": "Joseph Ziegler",
