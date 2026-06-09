@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-09T13:25:06.012Z</updated>
+    <updated>2026-06-09T14:16:37.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Library to Host Tree-Themed Youth Program June 23]]></title>
+        <id>6a281d0f6cb3f40001787ad4</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-library-to-host-tree-themed-youth-program-june-23/"/>
+        <updated>2026-06-09T14:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library will host a free Talk About Trees program for children on Tuesday, June 23, featuring a hands-on activity and lessons about Oregon forests as part of the Summer Reading Program.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek’s Music in the Park Returns for 39th Season]]></title>
+        <id>6a2817356cb3f40001787ab6</id>
+        <link href="https://www.theroseburgreceiver.com/myrtle-creeks-music-in-the-park-returns-for-39th-season/"/>
+        <updated>2026-06-09T13:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Myrtle Creek’s Music in the Park returns for its 39th season with seven free Thursday evening concerts at Millsite Park in July and August, featuring local and regional acts.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 9, 2026]]></title>
+        <id>6a2795d86cb3f4000178789c</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-9-2026/"/>
+        <updated>2026-06-09T13:34:13.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WARM UP STARTS WEDNESDAY, NEAR TRIPLE DIGITS BY SUNDAY POSSIBLE]]></title>
         <id>https://kqennewsradio.com/?p=148162</id>
