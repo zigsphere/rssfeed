@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-09T17:51:35.433Z</updated>
+    <updated>2026-06-09T20:51:58.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 06.09.26]]></title>
+        <id>https://kqennewsradio.com/?p=148194</id>
+        <link href="https://kqennewsradio.com/2026/06/09/inside-douglas-county-06-09-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-06-09-26"/>
+        <updated>2026-06-09T20:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Superintendent Erica Bare of the South Umpqua School District talks about the highlights of this school year, and what is ahead this fall.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildland Fire Training Planned on Reservoir Hill in Roseburg]]></title>
+        <id>6a28554a6cb3f40001787b6a</id>
+        <link href="https://www.theroseburgreceiver.com/wildland-fire-training-planned-on-reservoir-hill-in-roseburg/"/>
+        <updated>2026-06-09T18:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Local fire agencies will conduct wildland fire training on Reservoir Hill in Roseburg on June 15, 17 and 19, with live burning planned from 9 a.m. to 4 p.m. each day.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR TRESPASS, CITE FOR DRINKING IN PUBLIC]]></title>
         <id>https://kqennewsradio.com/?p=148188</id>

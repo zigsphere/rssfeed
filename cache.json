@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148194",
+          "author": "Kyle Bailey",
+          "description": "Superintendent Erica Bare of the South Umpqua School District talks about the highlights of this school year, and what is ahead this fall.",
+          "link": "https://kqennewsradio.com/2026/06/09/inside-douglas-county-06-09-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-06-09-26",
+          "publishedOn": "2026-06-09T20:24:52.000Z",
+          "wordCount": 1603,
+          "title": "INSIDE DOUGLAS COUNTY 06.09.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260609191433/IDC-06-9-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260609192427/Erica-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148188",
           "author": "Kyle Bailey",
           "description": "June 19, 2026 10:30 a.m.  Roseburg Police jailed a man for second-degree criminal trespass and cited him for drinking in public early Monday morning. An RPD report said 1:25 a.m. officers contacted the 52-year-old at Eagles Park in the 700 block of Southeast Jackson Street because he was in the parking allegedly drinking alcohol. Dispatch...",
@@ -426,6 +441,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a28554a6cb3f40001787b6a",
+          "author": "Joseph Ziegler",
+          "description": "Local fire agencies will conduct wildland fire training on Reservoir Hill in Roseburg on June 15, 17 and 19, with live burning planned from 9 a.m. to 4 p.m. each day.",
+          "link": "https://www.theroseburgreceiver.com/wildland-fire-training-planned-on-reservoir-hill-in-roseburg/",
+          "publishedOn": "2026-06-09T18:05:25.000Z",
+          "wordCount": 3325,
+          "title": "Wildland Fire Training Planned on Reservoir Hill in Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/wildland-1-1.jpg"
+        },
         {
           "id": "6a284b9d6cb3f40001787b4f",
           "author": "Joseph Ziegler",
