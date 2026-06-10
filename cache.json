@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148254",
+          "author": "Kyle Bailey",
+          "description": "An end-of-school year look at Roseburg Schools with Superintendent Jared Cordon.",
+          "link": "https://kqennewsradio.com/2026/06/10/inside-douglas-county-06-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-06-10-26",
+          "publishedOn": "2026-06-10T20:16:04.000Z",
+          "wordCount": 1587,
+          "title": "INSIDE DOUGLAS COUNTY 06.10.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260610191208/IDC-06-10-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260610191452/Jared-7.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148249",
           "author": "Kyle Bailey",
           "description": "June 10, 2026 10:50 a.m.  Roseburg Police cited a man for prohibited camping early Wednesday morning. An RPD report said at 1:10 a.m. officers contacted the 61-year-old. He was lying in a sleeping bag along the bike path at the duck pond in the 1000 block of Northwest Garden Valley Boulevard. Camping is always prohibited...",
@@ -74,6 +89,16 @@
           "wordCount": 1605,
           "title": "ROSEBURG POLICE JAIL MAN FOR ALLEGED ASSAULT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=148229",
+          "author": "Kyle Bailey",
+          "description": "June 10, 2026 9:30 a.m.  Crews with Central Douglas Fire & Rescue quickly knocked down a structure fire on Tuesday afternoon. Battalion Chief Nick Wecks said firefighters were dispatched to the incident just before 12:40 p.m. Wecks said the fire was at a home off Fisher Road in the Garden Valley area which had vehicles...",
+          "link": "https://kqennewsradio.com/2026/06/10/crews-quickly-knocked-down-fire-off-fisher-road-on-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=crews-quickly-knocked-down-fire-off-fisher-road-on-tuesday",
+          "publishedOn": "2026-06-10T16:34:27.000Z",
+          "wordCount": 1780,
+          "title": "CREWS QUICKLY KNOCKED DOWN FIRE OFF FISHER ROAD ON TUESDAY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260610153214/Fire3-22.jpg"
         },
         {
           "id": "https://kqennewsradio.com/?p=148229",
@@ -602,6 +627,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a29b9c86cb3f40001787dfd",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported 12 incidents in the June 9 log, including assault, trespass, warrant arrests, hit and run, DUII, prohibited camping, offensive littering and drinking in public.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-9-2026/",
+          "publishedOn": "2026-06-10T19:35:46.000Z",
+          "wordCount": 4457,
+          "title": "Police Log: June 9, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-7.jpg"
+        },
+        {
           "id": "6a297d5d6cb3f40001787ddf",
           "author": "Joseph Ziegler",
           "description": "A 122-acre prescribed burn is planned as early as Thursday near the North Bank Habitat Management Area west of Glide. Smoke may be visible, and some trails and parking areas could be temporarily impacted.",
@@ -817,7 +852,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/8efe77c9-e2d7-4842-b208-d3dd597249a4",
+          "author": "News Staff",
+          "description": "Firefighters from three local agencies will conduct live wildland fire training exercises on Reservoir Hill on June 15, 17 and 19.",
+          "link": "https://www.kezi.com/news/local/multi-agency-fire-training-brings-live-burns-to-roseburg-hill/article_8efe77c9-e2d7-4842-b208-d3dd597249a4.html",
+          "publishedOn": "2026-06-10T19:18:00.000Z",
+          "wordCount": 7623,
+          "title": "Multi-agency fire training brings live burns to Roseburg hill",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/49/b49f83d4-3239-451c-8f7d-589ad65a7812/6a29b92b007fa.image.jpg?resize=300%2C225",
+            "length": "82685",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/49/b49f83d4-3239-451c-8f7d-589ad65a7812/6a29b92b007fa.image.jpg?resize=300%2C225"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
