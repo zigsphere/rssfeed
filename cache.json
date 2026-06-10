@@ -617,23 +617,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/6e4fce32-054f-4627-9cfa-853b981ea442",
-          "author": "News Staff",
-          "description": "Roseburg Schools will provide free meals to all children over summer break at select sites and through the Lunchbox Express van.",
-          "link": "https://www.kezi.com/news/local/free-summer-meals-for-kids-in-roseburg-start-june-22/article_6e4fce32-054f-4627-9cfa-853b981ea442.html",
-          "publishedOn": "2026-06-05T21:53:00.000Z",
-          "wordCount": 7708,
-          "title": "Free summer meals for kids in Roseburg start June 22",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169",
-            "length": "241181",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/0/ab/0ab9146a-8e04-11ed-8e9b-93eb6597e418/63115e6dbb952.image.jpg?resize=300%2C169"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
