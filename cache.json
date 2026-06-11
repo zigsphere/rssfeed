@@ -584,6 +584,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/33f660e1-3bd6-41be-9ca7-327106188d17",
+          "author": "GLORIA COLEMAN NRToday",
+          "description": "The Roseburg High School theater group spent the 2025-26 school year hard at work, and recently saw all this effort pay off.",
+          "link": "https://www.nrtoday.com/news/education/prep-theater-roseburg-high-school-theatre-caps-successful-year/article_33f660e1-3bd6-41be-9ca7-327106188d17.html",
+          "publishedOn": "2026-06-10T17:00:00.000Z",
+          "wordCount": 12879,
+          "title": "Prep Theater: Roseburg High School theatre caps successful year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a9/6a9eb45f-881f-4800-b7bb-a34d1c3d8d7b/6a29a2e91edb0.image.jpg?resize=300%2C225",
+            "length": "184422",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/a9/6a9eb45f-881f-4800-b7bb-a34d1c3d8d7b/6a29a2e91edb0.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/63fcff40-0ce6-40c6-a2c4-89e9b1679bde",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "In their June 8 meeting, the Roseburg City Council passed a resolution adopting the city's budget for the 2026-27 fiscal year. With a total around $11 million higher than last year's, it outlines upcoming capital projects and includes the creation…",
