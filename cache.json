@@ -739,6 +739,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/461f0899-4212-456b-be9e-77939cf75a9c",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Representatives from non-profits across Southern Oregon gathered at Seven Feathers Casino Resort on Tuesday for a ceremony in which the Cow Creek Band of Umpqua Tribe of Indians announced over $600,000 in donations for them. Among the recipients were several…",
+          "link": "https://www.nrtoday.com/news/cow-creek-tribe-awards-douglas-county-based-non-profits-with-over-40-000-in-donations/article_461f0899-4212-456b-be9e-77939cf75a9c.html",
+          "publishedOn": "2026-06-11T16:53:00.000Z",
+          "wordCount": 12740,
+          "title": "Cow Creek Tribe awards Douglas County-based non-profits with over $40,000 in donations",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/95/1955686f-ee39-4dce-ba91-5b98aa99a648/6a2af29c299ea.image.jpg?resize=300%2C225",
+            "length": "359080",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/95/1955686f-ee39-4dce-ba91-5b98aa99a648/6a2af29c299ea.image.jpg?resize=300%2C225"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/69bd38df-7f07-4fc9-beee-b26db1393f19",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Since 1977, the Oregon State Fire Marshal has awarded one of its highest honors, the Golden Sparky Award, to fire service members who make major achievements in fire prevention or public safety education. As of this week, this year’s Golden…",
@@ -1035,96 +1050,6 @@
           "wordCount": 6409,
           "title": "June 9, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-6.png"
-        },
-        {
-          "id": "6a2769e16cb3f40001787878",
-          "author": "Joseph Ziegler",
-          "description": "A Roseburg Fire Department member will receive the Oregon State Fire Marshal’s Golden Sparky Award June 10 for work expanding fire safety outreach and support for residents with disabilities and other at-risk community members.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-fire-department-member-to-receive-state-golden-sparky-award/",
-          "publishedOn": "2026-06-09T01:20:01.000Z",
-          "wordCount": 3185,
-          "title": "Roseburg Fire Department Member to Receive State Golden Sparky Award",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/fire_marshal.png"
-        },
-        {
-          "id": "6a2761596cb3f4000178784f",
-          "author": "Joseph Ziegler",
-          "description": "YMCA of Douglas County is opening registration for several summer programs, including youth basketball, strength and conditioning, babysitting training, lifeguard certification, preschool and Pre-K, plus a $10 membership trial pass June 15–20.",
-          "link": "https://www.theroseburgreceiver.com/ymca-of-douglas-county-opens-registration-for-summer-programs/",
-          "publishedOn": "2026-06-09T00:49:32.000Z",
-          "wordCount": 3257,
-          "title": "YMCA of Douglas County Opens Registration for Summer Programs",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/ymca_all.png"
-        },
-        {
-          "id": "6a275e996cb3f40001787822",
-          "author": "Joseph Ziegler",
-          "description": "Bigfoot is on the loose in Glide. The Glide Sasquatch Festival has launched a scavenger hunt with hidden Bigfoot statues at local businesses along Highway 138, giving visitors a fun reason to explore the area before the festival.",
-          "link": "https://www.theroseburgreceiver.com/bigfoot-hunt-begins-in-glide-ahead-of-sasquatch-festival/",
-          "publishedOn": "2026-06-09T00:32:12.000Z",
-          "wordCount": 3225,
-          "title": "Bigfoot Hunt Begins in Glide Ahead of Sasquatch Festival",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/sasquatch-3-1.jpeg"
-        },
-        {
-          "id": "6a275dcf6cb3f4000178780c",
-          "author": "Joseph Ziegler",
-          "description": "Pioneer Indian Museum in Canyonville will host a June 13 open house honoring local veterans, featuring donated veteran memorabilia and a historic 1862 flag made for Canyonville’s Fourth of July celebration.",
-          "link": "https://www.theroseburgreceiver.com/pioneer-indian-museum-to-host-open-house-honoring-local-veterans/",
-          "publishedOn": "2026-06-09T00:27:54.000Z",
-          "wordCount": 3112,
-          "title": "Pioneer Indian Museum to Host Open House Honoring Local Veterans",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/veterans_exhibit.jpg"
-        },
-        {
-          "id": "6a26e7f36cb3f400017877ec",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police reported 23 incidents in the latest log, including warrant arrests, theft cases, parole and probation violations, prohibited camping, drug possession, harassment, trespass and drinking in public.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-5-june-8-2026/",
-          "publishedOn": "2026-06-08T16:10:07.000Z",
-          "wordCount": 5673,
-          "title": "Police Log: June 5 - June 8, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-5.jpg"
-        },
-        {
-          "id": "6a26cfde6cb3f400017877b8",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg residents are invited to a free flag giveaway and time capsule kickoff June 13 at Roseburg High School, as the community begins local America 250 efforts.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-flag-giveaway-and-time-capsule-project-to-kick-off-local-america-250-efforts/",
-          "publishedOn": "2026-06-08T14:23:18.000Z",
-          "wordCount": 3391,
-          "title": "Roseburg Flag Giveaway and Time Capsule Project to Kick Off Local America 250 Efforts",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/capsule2.png"
-        },
-        {
-          "id": "6a26cecd6cb3f4000178779f",
-          "author": "Joseph Ziegler",
-          "description": "The Myrtle Creek Elks Lodge will host a Flag Day Ceremony on Sunday, June 14, at the Veterans Memorial at Millsite Park, followed by burgers, sides, and beverages at the nearby Elks Lodge.",
-          "link": "https://www.theroseburgreceiver.com/myrtle-creek-elks-to-host-flag-day-ceremony-at-millsite-park/",
-          "publishedOn": "2026-06-08T14:18:49.000Z",
-          "wordCount": 3072,
-          "title": "Myrtle Creek Elks to Host Flag Day Ceremony at Millsite Park",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/elks-usa-2.jpg"
-        },
-        {
-          "id": "6a26cc1c6cb3f40001787783",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg is expected to see rain Monday before drying out and warming later this week. Highs are forecast to climb from the 60s early in the week to near 94 by Saturday, with increasing heat and fire weather concerns possible next weekend.",
-          "link": "https://www.theroseburgreceiver.com/light-rain-monday-before-roseburg-warms-into-the-90s-by-saturday/",
-          "publishedOn": "2026-06-08T14:07:01.000Z",
-          "wordCount": 3291,
-          "title": "Light Rain Monday Before Roseburg Warms Into the 90s by Saturday",
-          "imageUrl": "https://images.unsplash.com/photo-1598206026987-0a77cd80afa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDMxfHx3YXJtJTIwZGF5fGVufDB8fHx8MTc4MDkyNzcxNXww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6a2641276cb3f400017874ea",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/june-8-2026/",
-          "publishedOn": "2026-06-08T13:46:44.000Z",
-          "wordCount": 6218,
-          "title": "June 8, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-5.png"
         }
       ]
     },
