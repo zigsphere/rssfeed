@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-13T23:56:12.040Z</updated>
+    <updated>2026-06-14T13:24:23.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -24,6 +24,26 @@
         <summary type="html"><![CDATA[June 13, 2026 8:30 a.m. On Friday, U.S. Senators Ron Wyden and Jeff Merkley and U.S. Representatives Val Hoyle, Suzanne Bonamici, Andrea Salinas, Maxine Dexter, and Janelle Bynum, demanded that the U.S. Postal Service rescind its proposed rule that would limit mail-in voting to federally registered voters. A release from Wyden claims the rule would...]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["I have nowhere to go": Roseburg motel faces forced closure]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/a8fd7574-6566-4608-ba1a-885c16680f13</id>
+        <link href="https://www.kezi.com/news/local/i-have-nowhere-to-go-roseburg-motel-faces-forced-closure/article_a8fd7574-6566-4608-ba1a-885c16680f13.html"/>
+        <updated>2026-06-13T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg motel resident says Budget 16 Motel tenants could be forced to vacate by June 26 after the City of Roseburg cited the property for repeated safety and code violations, raising concern among long-term residents who say they have…]]></summary>
+        <author>
+            <name>Rachel McConaghie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glide man killed in head-on Douglas County crash]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/cf5a167e-0174-4028-a652-6a11b360bf0d</id>
+        <link href="https://www.kezi.com/news/local/glide-man-killed-in-head-on-douglas-county-crash/article_cf5a167e-0174-4028-a652-6a11b360bf0d.html"/>
+        <updated>2026-06-12T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[A 22-year-old Glide man died following a head-on crash involving a log truck on Friday morning, according to the Douglas County Sheriff’s Office.]]></summary>
+        <author>
+            <name>rbonham@kezi.com (Ryan Bonham)</name>
         </author>
     </entry>
     <entry>
@@ -587,26 +607,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roseburg Fire Marshal Cheryl Flick receives Golden Sparky award for risk reduction efforts]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/69bd38df-7f07-4fc9-beee-b26db1393f19</id>
-        <link href="https://www.nrtoday.com/news/roseburg-fire-marshal-cheryl-flick-receives-golden-sparky-award-for-risk-reduction-efforts/article_69bd38df-7f07-4fc9-beee-b26db1393f19.html"/>
-        <updated>2026-06-10T23:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Since 1977, the Oregon State Fire Marshal has awarded one of its highest honors, the Golden Sparky Award, to fire service members who make major achievements in fire prevention or public safety education. As of this week, this year’s Golden…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt Integrated Health Care, Chadwick Clubhouse to receive IMPACTS grant funding for services]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/10477fb9-7ca2-4e26-9f45-93a237bbaad2</id>
-        <link href="https://www.nrtoday.com/news/adapt-integrated-health-care-chadwick-clubhouse-to-receive-impacts-grant-funding-for-services/article_10477fb9-7ca2-4e26-9f45-93a237bbaad2.html"/>
-        <updated>2026-06-10T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[During a Wednesday meeting, the Douglas County Board of Commissioners approved two separate grant agreements, one for Adapt Integrated Health Care and another for Chadwick Clubhouse, for the organizations to receive IMPACTS grant funding.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 06.10.26]]></title>
         <id>https://kqennewsradio.com/?p=148254</id>
         <link href="https://kqennewsradio.com/2026/06/10/inside-douglas-county-06-10-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-06-10-26"/>
@@ -614,26 +614,6 @@
         <summary type="html"><![CDATA[An end-of-school year look at Roseburg Schools with Superintendent Jared Cordon.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Police Log: June 9, 2026]]></title>
-        <id>6a29b9c86cb3f40001787dfd</id>
-        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-june-9-2026/"/>
-        <updated>2026-06-10T19:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police reported 12 incidents in the June 9 log, including assault, trespass, warrant arrests, hit and run, DUII, prohibited camping, offensive littering and drinking in public.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-agency fire training brings live burns to Roseburg hill]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/8efe77c9-e2d7-4842-b208-d3dd597249a4</id>
-        <link href="https://www.kezi.com/news/local/multi-agency-fire-training-brings-live-burns-to-roseburg-hill/article_8efe77c9-e2d7-4842-b208-d3dd597249a4.html"/>
-        <updated>2026-06-10T19:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters from three local agencies will conduct live wildland fire training exercises on Reservoir Hill on June 15, 17 and 19.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -687,16 +667,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prep Theater: Roseburg High School theatre caps successful year]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/33f660e1-3bd6-41be-9ca7-327106188d17</id>
-        <link href="https://www.nrtoday.com/news/education/prep-theater-roseburg-high-school-theatre-caps-successful-year/article_33f660e1-3bd6-41be-9ca7-327106188d17.html"/>
-        <updated>2026-06-10T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg High School theater group spent the 2025-26 school year hard at work, and recently saw all this effort pay off.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN NRToday</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR PAST HIT AND RUN CRASH]]></title>
         <id>https://kqennewsradio.com/?p=148237</id>
         <link href="https://kqennewsradio.com/2026/06/10/roseburg-police-jail-man-for-past-hit-and-run-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-past-hit-and-run-crash"/>
@@ -747,26 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prescribed Burn Planned Near North Bank Habitat Management Area]]></title>
-        <id>6a297d5d6cb3f40001787ddf</id>
-        <link href="https://www.theroseburgreceiver.com/prescribed-burn-planned-near-north-bank-habitat-management-area/"/>
-        <updated>2026-06-10T15:07:59.000Z</updated>
-        <summary type="html"><![CDATA[A 122-acre prescribed burn is planned as early as Thursday near the North Bank Habitat Management Area west of Glide. Smoke may be visible, and some trails and parking areas could be temporarily impacted.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crews Knock Down Garage Fire Off Fisher Road in Garden Valley Area]]></title>
-        <id>6a29723e6cb3f40001787dc8</id>
-        <link href="https://www.theroseburgreceiver.com/crews-knock-down-garage-fire-off-fisher-road-in-garden-valley-area/"/>
-        <updated>2026-06-10T14:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Central Douglas Fire & Rescue crews knocked down a garage fire off Fisher Road near River Bend Drive within two minutes Tuesday. No one was found inside the home, and no firefighter injuries were reported.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GOVERNOR KOTEK DECLARES DROUGHT EMERGENCY IN DOUGLAS, 4 OTHER COUNTIES]]></title>
         <id>https://kqennewsradio.com/?p=148223</id>
         <link href="https://kqennewsradio.com/2026/06/10/governor-kotek-declares-drought-emergency-in-douglas-4-other-counties/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-kotek-declares-drought-emergency-in-douglas-4-other-counties"/>
@@ -774,26 +724,6 @@
         <summary type="html"><![CDATA[June 10, 2026 7:00 a.m.  Governor Tina Kotek has declared a drought emergency for Douglas and four other counties in Oregon through Executive Order 26-09 and directed state agencies to coordinate and prioritize assistance. A release from the Governor’s Office issued Wednesday morning said this marks the 4th drought declaration order issued this year. In...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cow Creek Umpqua Indian Foundation Awards $606,815 to Southern Oregon Nonprofits]]></title>
-        <id>6a296cb16cb3f40001787daa</id>
-        <link href="https://www.theroseburgreceiver.com/cow-creek-umpqua-indian-foundation-awards-606-815-to-southern-oregon-nonprofits/"/>
-        <updated>2026-06-10T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[The Cow Creek Umpqua Indian Foundation awarded $606,815 to 87 nonprofits across Southern Oregon, including $92,610 for Douglas County organizations, during a ceremony at Seven Feathers Casino Resort in Canyonville.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 10, 2026]]></title>
-        <id>6a28ef2e6cb3f40001787b8d</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-10-2026/"/>
-        <updated>2026-06-10T13:52:24.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
