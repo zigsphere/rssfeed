@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148465",
+          "author": "Kyle Bailey",
+          "description": "Douglas Forest Protective Association Public Information Officer Rachael Pope has reminders about current fire restrictions in the Douglas District.",
+          "link": "https://kqennewsradio.com/2026/06/16/morning-conversation-6-16-26/?utm_source=rss&utm_medium=rss&utm_campaign=morning-conversation-6-16-26",
+          "publishedOn": "2026-06-16T16:08:17.000Z",
+          "wordCount": 1597,
+          "title": "MORNING CONVERSATION 6.16.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260616150600/AM-CONV-06-16-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260616150801/Newrachel.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148461",
           "author": "Kyle Bailey",
           "description": "June 16, 2026 4:00 a.m.  Roseburg had the hottest day of the year so far on Monday, marking the designation for the third day in a row. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 99 degrees at the Roseburg Regional Airport. The...",
@@ -371,6 +386,56 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a31713e6cb3f40001788a95",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported 11 incidents in the June 15 log, including warrant arrests, prohibited camping, theft, disorderly conduct, criminal trespass and DUII-alcohol.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-15-2026/",
+          "publishedOn": "2026-06-16T15:56:34.000Z",
+          "wordCount": 4262,
+          "title": "Police Log: June 15, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-10.jpg"
+        },
+        {
+          "id": "6a3156de6cb3f40001788a64",
+          "author": "Joseph Ziegler",
+          "description": "A campaign seeking to repeal Oregon’s expanded Waterway Access Permit has turned in its first signatures, but organizers still need about 90,000 more valid signatures by July 2 to qualify the measure for the November ballot.",
+          "link": "https://www.theroseburgreceiver.com/oregon-paddle-permit-repeal-effort-turns-in-first-signatures-faces-tight-deadline/",
+          "publishedOn": "2026-06-16T14:03:01.000Z",
+          "wordCount": 3400,
+          "title": "Oregon Paddle Permit Repeal Effort Turns In First Signatures, Faces Tight Deadline",
+          "imageUrl": "https://images.unsplash.com/photo-1654790951199-12540fe7ec06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ2fHxwYWRkbGVib2FyZHxlbnwwfHx8fDE3ODE2MTg0MzV8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a3154796cb3f40001788a39",
+          "author": "Joseph Ziegler",
+          "description": "UCC’s Paul Morgan Observatory has reopened for its summer and fall public stargazing season, with events planned through September featuring planets, star clusters, distant galaxies, the Milky Way and a lunar eclipse viewing.",
+          "link": "https://www.theroseburgreceiver.com/paul-morgan-observatory-reopens-public-stargazing-season-at-ucc/",
+          "publishedOn": "2026-06-16T13:51:51.000Z",
+          "wordCount": 3234,
+          "title": "Paul Morgan Observatory Reopens Public Stargazing Season at UCC",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/observatory-1.png"
+        },
+        {
+          "id": "6a31539c6cb3f40001788a1f",
+          "author": "Joseph Ziegler",
+          "description": "All Oregon Department of Forestry districts are now in fire season, meaning restrictions may be in place as agencies urge residents and visitors to take wildfire prevention seriously heading into a busy summer.",
+          "link": "https://www.theroseburgreceiver.com/all-odf-districts-now-in-fire-season-across-oregon/",
+          "publishedOn": "2026-06-16T13:47:47.000Z",
+          "wordCount": 3382,
+          "title": "All ODF Districts Now in Fire Season Across Oregon",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/df.png"
+        },
+        {
+          "id": "6a30d97d6cb3f400017887b2",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/june-16-2026/",
+          "publishedOn": "2026-06-16T13:41:24.000Z",
+          "wordCount": 6820,
+          "title": "June 16, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-11.png"
+        },
         {
           "id": "6a3099966cb3f40001788782",
           "author": "Joseph Ziegler",
