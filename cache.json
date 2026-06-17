@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148555",
+          "author": "Kyle Bailey",
+          "description": "Douglas Education Service District Superintendent Analicia Nicholson has an update on the work of the ESD.",
+          "link": "https://kqennewsradio.com/2026/06/17/inside-douglas-county-06-17-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-06-17-26",
+          "publishedOn": "2026-06-17T20:15:08.000Z",
+          "wordCount": 1594,
+          "title": "INSIDE DOUGLAS COUNTY 06.17.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260617191215/IDC-06-17-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260617191440/Analicia-1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148553",
           "author": "Kyle Bailey",
           "description": "June 17, 2026 10:50 a.m.   Roseburg Police jailed a woman for a parole violation early Wednesday morning. An RPD report said at approximately 12:10 a.m. officers contacted the 27-year-old during a security check at Eagles Park in the 700 block of Southeast Jackson Street, due to the park being closed. Officers learned that the woman...",
@@ -686,6 +701,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a32faa16cb3f40001788e4f",
+          "author": "Joseph Ziegler",
+          "description": "Music on the Half Shell opens its 2026 season Tuesday, June 23, with John Jorgenson Bluegrass Band at the Nichols Band Shell in Stewart Park. The free concert runs from 7 to 9 p.m.",
+          "link": "https://www.theroseburgreceiver.com/music-on-the-half-shell-opens-2026-season-next-week-with-john-jorgenson-bluegrass-band/",
+          "publishedOn": "2026-06-17T19:53:55.000Z",
+          "wordCount": 3203,
+          "title": "Music On The Half Shell Opens 2026 Season Next Week With John Jorgenson Bluegrass Band",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/John_Jorgenson_Rietberg_2009.jpg"
+        },
         {
           "id": "6a32c3d86cb3f40001788e23",
           "author": "Joseph Ziegler",
