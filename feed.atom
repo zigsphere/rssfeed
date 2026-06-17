@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-17T13:28:32.662Z</updated>
+    <updated>2026-06-17T14:47:29.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Forecast Cools Down After Stretch of Hot Weather]]></title>
+        <id>6a32ab1b6cb3f40001788e0b</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-forecast-cools-down-after-stretch-of-hot-weather/"/>
+        <updated>2026-06-17T14:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg is cooling down after several hot days, with highs in the mid-80s through the end of the week. Fire weather concerns remain Thursday, and thunderstorm chances are expected mainly south and east of the area.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 17, 2026]]></title>
+        <id>6a321de16cb3f40001788b32</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-17-2026/"/>
+        <updated>2026-06-17T13:42:35.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNSEASONABLY WARM WEATHER CONTINUES IN UMPQUA VALLEY]]></title>
         <id>https://kqennewsradio.com/?p=148529</id>
