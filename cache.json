@@ -722,6 +722,46 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a3402a06cb3f40001789129",
+          "author": "Joseph Ziegler",
+          "description": "National fire officials raised the preparedness level to 3 Thursday as wildfire activity increased across multiple regions, including the Northwest, where new large fires were reported in Oregon and Washington.",
+          "link": "https://www.theroseburgreceiver.com/national-fire-preparedness-level-raised-as-wildfire-activity-increases-across-u-s/",
+          "publishedOn": "2026-06-18T14:41:21.000Z",
+          "wordCount": 3364,
+          "title": "National Fire Preparedness Level Raised As Wildfire Activity Increases Across U.S.",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/nifc-1.png"
+        },
+        {
+          "id": "6a33ffc36cb3f40001789105",
+          "author": "Joseph Ziegler",
+          "description": "Registration for the YMCA of Douglas County’s July swim lesson session opens online Monday, June 22, at 11 a.m. Classes are scheduled for Tuesdays and Thursdays, June 30 through July 23.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-ymca-swim-lesson-registration-opens-june-22/",
+          "publishedOn": "2026-06-18T14:28:51.000Z",
+          "wordCount": 3156,
+          "title": "Roseburg YMCA Swim Lesson Registration Opens June 22",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/Flyer--bleeds---1--2-1.png"
+        },
+        {
+          "id": "6a33f99f6cb3f400017890e9",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg will stay warm today, but a cooler pattern is moving in for Friday and Saturday. Thunderstorm chances will be highest south and east of the area, with lightning and gusty winds raising fire weather concerns nearby.",
+          "link": "https://www.theroseburgreceiver.com/cooler-weather-moves-in-but-roseburg-still-stays-warm-as-thunderstorm-pattern-develops/",
+          "publishedOn": "2026-06-18T14:00:10.000Z",
+          "wordCount": 3378,
+          "title": "Cooler Weather Moves In, But Roseburg Still Stays Warm as Thunderstorm Pattern Develops",
+          "imageUrl": "https://images.unsplash.com/photo-1779282438611-a4724ca376b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxkcnklMjBncmFzcyUyMGZpZWxkfGVufDB8fHx8MTc4MTc5MDE4NHww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a33789d6cb3f40001788ebf",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/june-18-2026/",
+          "publishedOn": "2026-06-18T13:44:56.000Z",
+          "wordCount": 6668,
+          "title": "June 18, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/06/The-Morning-Scoop-13.png"
+        },
+        {
           "id": "6a336eb66cb3f40001788ea6",
           "author": "Joseph Ziegler",
           "description": "Roseburg firefighters quickly stopped a one-acre grass and blackberry fire Wednesday evening near Aviation Drive and Edenbower Boulevard. The wind-driven fire was moving toward a nearby care facility before crews extinguished it.",
@@ -967,7 +1007,38 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/61a44d08-b913-46e3-b426-ea84b9d12e92",
+          "author": "News Staff",
+          "description": "Firefighters stopped a fast-moving wildfire that grew from four acres to 27 acres on a vacant lot in Roseburg on Tuesday.",
+          "link": "https://www.kezi.com/news/local/roseburg-crews-halt-27-acre-blaze-near-homes-and-businesses/article_61a44d08-b913-46e3-b426-ea84b9d12e92.html",
+          "publishedOn": "2026-06-17T22:28:00.000Z",
+          "wordCount": 7583,
+          "title": "Roseburg crews halt 27-acre blaze near homes and businesses",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/46/946b66d2-370a-4800-849b-b00c3c7fe53e/6a3320a59d594.image.jpg?resize=300%2C225",
+            "length": "108401",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/46/946b66d2-370a-4800-849b-b00c3c7fe53e/6a3320a59d594.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/a832d7ae-216f-4370-8035-452c1b272e14",
+          "author": "News Staff",
+          "description": "Oregon State Fire Marshal Mariana Ruiz-Temple presented Roseburg Fire Marshal Cheryl Flick with the 2026 Golden Sparky Award on Wednesday at the Roseburg Public Safety Center.",
+          "link": "https://www.kezi.com/news/local/roseburg-fire-marshal-wins-oregons-top-fire-safety-honor/article_a832d7ae-216f-4370-8035-452c1b272e14.html",
+          "publishedOn": "2026-06-17T18:07:00.000Z",
+          "wordCount": 7676,
+          "title": "Roseburg fire marshal wins Oregon's top fire safety honor",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/d4/2d4cbcae-5131-4b0a-81b7-a86df14a21d9/6a32e32c60743.image.jpg?resize=300%2C200",
+            "length": "342900",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/d4/2d4cbcae-5131-4b0a-81b7-a86df14a21d9/6a32e32c60743.image.jpg?resize=300%2C200"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
