@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-20T13:23:04.614Z</updated>
+    <updated>2026-06-20T17:13:59.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GLIDE MAN JAILED ON FIRST-DEGREE BURGLARY CHARGE]]></title>
+        <id>https://kqennewsradio.com/?p=148663</id>
+        <link href="https://kqennewsradio.com/2026/06/20/glide-man-jailed-on-first-degree-burglary-charge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=glide-man-jailed-on-first-degree-burglary-charge"/>
+        <updated>2026-06-20T16:05:37.000Z</updated>
+        <summary type="html"><![CDATA[June 20, 2026 9:00 a.m.  A Glide man was jailed on a first-degree burglary charge on Thursday evening. A Douglas County Sheriff’s Office report said at 8:50 p.m. a deputy responded to a residence in the 100 block of Abbott Street in Glide after a caller said a man had broken into her room and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WINSTON MAN JAILED FOR DRIVING WHILE SUSPENDED/PROBATION VIOLATION]]></title>
+        <id>https://kqennewsradio.com/?p=148661</id>
+        <link href="https://kqennewsradio.com/2026/06/20/winston-man-jailed-for-driving-while-suspended-probation-violation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=winston-man-jailed-for-driving-while-suspended-probation-violation"/>
+        <updated>2026-06-20T15:53:38.000Z</updated>
+        <summary type="html"><![CDATA[June 20, 2026 8:50 a.m. A Winston man was jailed for driving while suspended and a probation violation on Thursday night. A Douglas County Sheriff’s Office report said at 9:40 p.m. a deputy noticed the 32-year-old speeding on his motorcycle near the intersection of Old Highway 99 South and Grange Road in the Green District....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 06.19.26]]></title>
         <id>https://kqennewsradio.com/?p=148656</id>
@@ -764,36 +784,6 @@
         <summary type="html"><![CDATA[June 17, 2026 2:50 a.m.  The Friends of Umpqua Valley Police K9s have their K9s in the Grapevines event on Saturday, August 29th. It will take place starting at 5:00 p.m. at Melrose Vineyards on Melqua Road, northwest of Roseburg. Dinner will be served at 5:30 p.m. Tickets are $70 or $80 per person after...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Destroys Gazebo, Spreads to Nearby Trees Along Lookingglass Road]]></title>
-        <id>6a3226036cb3f40001788b6f</id>
-        <link href="https://www.theroseburgreceiver.com/fire-destroys-gazebo-spreads-to-nearby-trees-along-lookingglass-road/"/>
-        <updated>2026-06-17T04:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters contained a Tuesday morning fire in the 14000 block of Lookingglass Road near Winston after a fully involved gazebo spread to nearby trees. Crews stopped the fire from reaching the hillside. The cause remains undetermined.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire burns across field off Diamond Lake Boulevard in Roseburg (FINAL UPDATE)]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/69ccd674-5f8f-482d-84b8-e349b8100c38</id>
-        <link href="https://www.nrtoday.com/news/fire-burns-across-field-off-diamond-lake-boulevard-in-roseburg-final-update/article_69ccd674-5f8f-482d-84b8-e349b8100c38.html"/>
-        <updated>2026-06-16T20:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Crews are working to contain a grass fire off the 2400 block of Diamond Lake Boulevard in Roseburg and stopped its forward momentum.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosebug School District and Cow Creek expand educational initiatives through partnership]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ea83321a-1797-4451-a65b-0c5575802b22</id>
-        <link href="https://www.nrtoday.com/news/rosebug-school-district-and-cow-creek-expand-educational-initiatives-through-partnership/article_ea83321a-1797-4451-a65b-0c5575802b22.html"/>
-        <updated>2026-06-16T18:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cow Creek Band of Umpqua Tribe of Indians and Roseburg Public Schools have agreed to expand a several years-long partnership to support students and increase tribal cultural connections in Roseburg schools.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>
