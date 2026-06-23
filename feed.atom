@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-23T13:27:20.698Z</updated>
+    <updated>2026-06-23T14:21:14.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Library To Host Johnny Appleseed Puppet Show For Kids]]></title>
+        <id>6a3a8f866cb3f400017899c5</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-library-to-host-johnny-appleseed-puppet-show-for-kids/"/>
+        <updated>2026-06-23T13:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library will host Dragon Theater Puppets for “Johnny Appleseed: Planting the Seeds of Adventure” at 1 p.m. Tuesday, June 30. The free show is geared toward children from pre-K through fifth grade and their families.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reedsport Fire Department Seeks Volunteer Ham Radio Operators]]></title>
+        <id>6a3a8d756cb3f400017899ab</id>
+        <link href="https://www.theroseburgreceiver.com/reedsport-fire-department-seeks-volunteer-ham-radio-operators/"/>
+        <updated>2026-06-23T13:48:13.000Z</updated>
+        <summary type="html"><![CDATA[The Reedsport Volunteer Fire Department is looking for volunteers interested in becoming licensed ham radio operators to support emergency communications in western Douglas County. Training is online and offered at no charge.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 23, 2026]]></title>
+        <id>6a3a116d6cb3f4000178979a</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-23-2026/"/>
+        <updated>2026-06-23T13:38:49.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HOT PRESSURE MEANS HOT WEATHER THROUGH WEDNESDAY, THEN COOLING]]></title>
         <id>https://kqennewsradio.com/?p=148763</id>
