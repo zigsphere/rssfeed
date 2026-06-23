@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-23T17:43:32.897Z</updated>
+    <updated>2026-06-23T20:57:27.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: June 22, 2026]]></title>
+        <id>6a3ae1476cb3f40001789a0f</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-june-22-2026/"/>
+        <updated>2026-06-23T19:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported five incidents in the June 23 log, including disorderly conduct, warrant arrests, theft, trespass and a court-order violation. Date and time entries are listed as provided by Roseburg Police.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA live-fire drills set for Roseburg, Myrtle Creek, Elkton]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/6daf61ec-4ad5-4323-85d1-843b586ef9e6</id>
+        <link href="https://www.kezi.com/news/local/dfpa-live-fire-drills-set-for-roseburg-myrtle-creek-elkton/article_6daf61ec-4ad5-4323-85d1-843b586ef9e6.html"/>
+        <updated>2026-06-23T19:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas Forest Protective Association is conducting live-fire training exercises throughout the week.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA Live-Fire Training May Bring Visible Smoke To Parts Of Douglas County This Week]]></title>
         <id>6a3ac07e6cb3f400017899f1</id>

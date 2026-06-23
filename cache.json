@@ -417,6 +417,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a3ae1476cb3f40001789a0f",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported five incidents in the June 23 log, including disorderly conduct, warrant arrests, theft, trespass and a court-order violation. Date and time entries are listed as provided by Roseburg Police.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-22-2026/",
+          "publishedOn": "2026-06-23T19:42:53.000Z",
+          "wordCount": 3799,
+          "title": "Police Log: June 22, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-14.jpg"
+        },
+        {
           "id": "6a3ac07e6cb3f400017899f1",
           "author": "Joseph Ziegler",
           "description": "DFPA will conduct live-fire training this week in Roseburg, Myrtle Creek and Elkton. Residents may see smoke between about 11 a.m. and 2 p.m. as firefighters, camera detection staff and dispatch operators train in controlled conditions.",
@@ -552,7 +562,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/6daf61ec-4ad5-4323-85d1-843b586ef9e6",
+          "author": "News Staff",
+          "description": "The Douglas Forest Protective Association is conducting live-fire training exercises throughout the week.",
+          "link": "https://www.kezi.com/news/local/dfpa-live-fire-drills-set-for-roseburg-myrtle-creek-elkton/article_6daf61ec-4ad5-4323-85d1-843b586ef9e6.html",
+          "publishedOn": "2026-06-23T19:32:00.000Z",
+          "wordCount": 7614,
+          "title": "DFPA live-fire drills set for Roseburg, Myrtle Creek, Elkton",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169",
+            "length": "93928",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/21/521e0b58-3530-11ed-95c5-43a3b0594d10/61a92de05bff4.image.jpg?resize=300%2C169"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
