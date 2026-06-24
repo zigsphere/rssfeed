@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=148861",
+          "author": "Kyle Bailey",
+          "description": "Ashley Cluver joins us live from Umpqua Valley Arts to preview the Summer Arts Festival, which runs this Friday through Sunday.",
+          "link": "https://kqennewsradio.com/2026/06/24/inside-douglas-county-06-24-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-06-24-26",
+          "publishedOn": "2026-06-24T20:12:46.000Z",
+          "wordCount": 1598,
+          "title": "INSIDE DOUGLAS COUNTY 06.24.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260624191002/IDC-06-24-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260608092328/57th-Annual-Summer-Arts-Festival-Postcard-e1780914225875.webp"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=148859",
+          "author": "Kyle Bailey",
+          "description": "June 24, 2026 10:50 a.m.  Roseburg Police jailed a woman for two incidents on Tuesday morning. An RPD report said at 9:30 a.m. officers responded to the Department of Human Services in the 700 block of West Harvard Avenue after a caller said a woman had intentionally crashed her vehicle into the building. Upon arrival,...",
+          "link": "https://kqennewsradio.com/2026/06/24/roseburg-police-jail-woman-for-controlled-substance-child-neglect/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-woman-for-controlled-substance-child-neglect",
+          "publishedOn": "2026-06-24T17:55:23.000Z",
+          "wordCount": 1737,
+          "title": "ROSEBURG POLICE JAIL WOMAN FOR CONTROLLED SUBSTANCE, CHILD NEGLECT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=148857",
           "author": "Kyle Bailey",
           "description": "June 24, 2026 10:35 a.m.   Roseburg Police Jailed a man Tuesday for a prior reported burglary incident. An RPD report said during an investigation into the incident which took place on Monday in the 2200 block of Northwest Stewart Parkway, 32-year-old Beau Hanlin was developed as the suspect. At 11:30 a.m. officers contacted Hanlin, who...",
@@ -631,6 +656,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a3c34956cb3f40001789d67",
+          "author": "Joseph Ziegler",
+          "description": "H.O.P.E. Adult Drug Court will hold its 113th graduation ceremony July 7 at Cascade Hall in Roseburg, recognizing participants who completed the program and celebrating recovery, accountability and second chances.",
+          "link": "https://www.theroseburgreceiver.com/h-o-p-e-drug-court-to-hold-113th-graduation-ceremony-july-7-in-roseburg/",
+          "publishedOn": "2026-06-24T19:50:12.000Z",
+          "wordCount": 3529,
+          "title": "H.O.P.E. Drug Court To Hold 113th Graduation Ceremony July 7 In Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/113-HOPE-Drug-Court-Graduation-1-1.jpg"
+        },
+        {
+          "id": "6a3c30576cb3f40001789d52",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg police reported 11 incidents in the June 23 log, including DUII, child neglect, burglary, disorderly conduct, theft, probation violation and warrant arrests.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-june-23-2026/",
+          "publishedOn": "2026-06-24T19:37:48.000Z",
+          "wordCount": 4370,
+          "title": "Police Log: June 23, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/police_lights2-15.jpg"
+        },
         {
           "id": "6a3befb86cb3f40001789d27",
           "author": "Joseph Ziegler",
