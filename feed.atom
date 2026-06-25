@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-25T13:59:01.248Z</updated>
+    <updated>2026-06-25T18:00:35.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rain Expected To Return To Roseburg Tonight As Cooler Weekend Pattern Moves In]]></title>
+        <id>6a3d3ccb6cb3f4000178a01a</id>
+        <link href="https://www.theroseburgreceiver.com/rain-expected-to-return-to-roseburg-tonight-as-cooler-weekend-pattern-moves-in/"/>
+        <updated>2026-06-25T14:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Rain is expected to return to Roseburg tonight, bringing cooler temperatures, higher humidity and several chances for showers through Saturday before conditions begin to ease Sunday.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forest Service Encourages Visitors To Use Free Maps Before Heading Into The Woods]]></title>
         <id>6a3d332b6cb3f40001789ff2</id>
