@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-25T13:28:38.113Z</updated>
+    <updated>2026-06-25T13:59:01.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forest Service Encourages Visitors To Use Free Maps Before Heading Into The Woods]]></title>
+        <id>6a3d332b6cb3f40001789ff2</id>
+        <link href="https://www.theroseburgreceiver.com/forest-service-encourages-visitors-to-use-free-maps-before-heading-into-the-woods/"/>
+        <updated>2026-06-25T13:57:03.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Forest Service is reminding visitors to use free maps before heading into the woods, including Umpqua National Forest guides, Motor Vehicle Use Maps and digital tools that can help with trip planning and navigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 25, 2026]]></title>
+        <id>6a3cb57c6cb3f40001789dc8</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/june-25-2026/"/>
+        <updated>2026-06-25T13:47:44.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COOLING BEGINS THURSDAY, VERY LIGHT PRECIPITATION FOR THREE DAYS]]></title>
         <id>https://kqennewsradio.com/?p=148883</id>
