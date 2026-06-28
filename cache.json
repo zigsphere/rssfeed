@@ -409,6 +409,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ef3f04c6-1610-4972-8d87-5e647d086c86",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Despite a bout of chilly rains on Saturday morning, a crowd had gathered outside Elks Lodge No. 1943 in Myrtle Creek to get a first glimpse at a new feature for the town, hidden behind a large black sheet. At…",
+          "link": "https://www.nrtoday.com/news/beautifying-south-county-new-mural-unveiled-in-myrtle-creek/article_ef3f04c6-1610-4972-8d87-5e647d086c86.html",
+          "publishedOn": "2026-06-27T18:46:00.000Z",
+          "wordCount": 12774,
+          "title": "Beautifying South county: New mural unveiled in Myrtle Creek",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2c/62c8b218-a5b3-47ea-9285-b8a8c9558453/6a401d9d2c85c.image.jpg?resize=300%2C200",
+            "length": "518768",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2c/62c8b218-a5b3-47ea-9285-b8a8c9558453/6a401d9d2c85c.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/95b7db12-bbf4-4bfa-801e-7b43b91b1a5e",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Normally, Umpqua Valley Arts (UVA) can only feature a handful of artists and crafters at a time through its exhibits. But this weekend, over 100 of them got the chance to present themselves at once through the organization's Summer Arts…",
@@ -422,51 +437,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/3e/a3e7453c-ad6c-4eeb-9c67-f9b3cda55734/6a3f004ebcec6.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/1a30e56a-a6c2-4e17-8615-a7d163288d49",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "The Douglas County Board of Commissioners passed a motion to adopt the Fiscal Year 2026-27 Budget in a Wednesday meeting, presenting an overview of revenues, expenditures and totals for funds before it goes into effect next week on July 1.",
-          "link": "https://www.nrtoday.com/news/douglas-county-approves-fiscal-year-2026-27-budget/article_1a30e56a-a6c2-4e17-8615-a7d163288d49.html",
-          "publishedOn": "2026-06-24T22:44:00.000Z",
-          "wordCount": 12790,
-          "title": "Douglas County approves Fiscal Year 2026-27 Budget",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/37/137a3dbf-d676-4545-9dab-ddaabaa49014/6a3c5f8092ff4.image.jpg?resize=300%2C200",
-            "length": "409694",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/37/137a3dbf-d676-4545-9dab-ddaabaa49014/6a3c5f8092ff4.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/7cf08d5a-af2f-49da-9417-78e30740965d",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "As the summer season progresses, Oregonians are likely to take to waterways on their kayaks, paddle boards or rafts. But are they prepared to pay $20 to do so?",
-          "link": "https://www.nrtoday.com/news/effort-to-repeal-permit-for-non-motorized-watercraft-takes-root-in-douglas-county/article_7cf08d5a-af2f-49da-9417-78e30740965d.html",
-          "publishedOn": "2026-06-24T19:35:00.000Z",
-          "wordCount": 12870,
-          "title": "Effort to repeal permit for non-motorized watercraft takes root in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/68/66845747-0ebc-46fa-804c-307981147a42/62bb4a237f209.image.jpg?resize=300%2C189",
-            "length": "598986",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/68/66845747-0ebc-46fa-804c-307981147a42/62bb4a237f209.image.jpg?resize=300%2C189"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/581aa401-62bd-478e-bc82-8b662c5fbcee",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "The twang of a mandolin and banjo; The warmth of the June sun; The smell of grilling sausages and freshly popped kettle corn. Roseburg's Stewart Park came alive on Tuesday with these sensations and more as Music on the Half…",
-          "link": "https://www.nrtoday.com/a_and_e/audiences-dance-till-dusk-at-first-music-on-the-half-shell-show-of-summer/article_581aa401-62bd-478e-bc82-8b662c5fbcee.html",
-          "publishedOn": "2026-06-24T15:00:00.000Z",
-          "wordCount": 13365,
-          "title": "Audiences dance till dusk at first Music on the Half Shell show of summer",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/b3/db3ffdaf-de06-4659-9e99-fa9f1e111cba/6a3b50385659d.image.jpg?resize=300%2C200",
-            "length": "392452",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/b3/db3ffdaf-de06-4659-9e99-fa9f1e111cba/6a3b50385659d.image.jpg?resize=300%2C200"
         }
       ]
     },

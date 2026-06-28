@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-28T14:07:53.685Z</updated>
+    <updated>2026-06-28T17:22:19.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beautifying South county: New mural unveiled in Myrtle Creek]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/ef3f04c6-1610-4972-8d87-5e647d086c86</id>
+        <link href="https://www.nrtoday.com/news/beautifying-south-county-new-mural-unveiled-in-myrtle-creek/article_ef3f04c6-1610-4972-8d87-5e647d086c86.html"/>
+        <updated>2026-06-27T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite a bout of chilly rains on Saturday morning, a crowd had gathered outside Elks Lodge No. 1943 in Myrtle Creek to get a first glimpse at a new feature for the town, hidden behind a large black sheet. At…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUGENE WOMAN JAILED FOLLOWING REPORTED DUII, RECKLESS DRIVING]]></title>
         <id>https://kqennewsradio.com/?p=148978</id>
@@ -464,36 +474,6 @@
         <summary type="html"><![CDATA[June 25, 2026 2:50 a.m.  The Myrtle Creek Mural Committee has announced that the unveiling of their first completed mural will be on Saturday morning at 10:00 a.m. Committee member Ted Romas said the mural is on the north wall of the Myrtle Creek Elks Lodge on Main Street. It was painted by local residents...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County approves Fiscal Year 2026-27 Budget]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/1a30e56a-a6c2-4e17-8615-a7d163288d49</id>
-        <link href="https://www.nrtoday.com/news/douglas-county-approves-fiscal-year-2026-27-budget/article_1a30e56a-a6c2-4e17-8615-a7d163288d49.html"/>
-        <updated>2026-06-24T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The Douglas County Board of Commissioners passed a motion to adopt the Fiscal Year 2026-27 Budget in a Wednesday meeting, presenting an overview of revenues, expenditures and totals for funds before it goes into effect next week on July 1.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effort to repeal permit for non-motorized watercraft takes root in Douglas County]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/7cf08d5a-af2f-49da-9417-78e30740965d</id>
-        <link href="https://www.nrtoday.com/news/effort-to-repeal-permit-for-non-motorized-watercraft-takes-root-in-douglas-county/article_7cf08d5a-af2f-49da-9417-78e30740965d.html"/>
-        <updated>2026-06-24T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[As the summer season progresses, Oregonians are likely to take to waterways on their kayaks, paddle boards or rafts. But are they prepared to pay $20 to do so?]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audiences dance till dusk at first Music on the Half Shell show of summer]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/581aa401-62bd-478e-bc82-8b662c5fbcee</id>
-        <link href="https://www.nrtoday.com/a_and_e/audiences-dance-till-dusk-at-first-music-on-the-half-shell-show-of-summer/article_581aa401-62bd-478e-bc82-8b662c5fbcee.html"/>
-        <updated>2026-06-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The twang of a mandolin and banjo; The warmth of the June sun; The smell of grilling sausages and freshly popped kettle corn. Roseburg's Stewart Park came alive on Tuesday with these sensations and more as Music on the Half…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>
