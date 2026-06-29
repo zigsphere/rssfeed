@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=149028",
+          "author": "Kyle Bailey",
+          "description": "Logan Bennett of the Oregon State University Extension Service has part one of a summer agriculture update for Douglas County.",
+          "link": "https://kqennewsradio.com/2026/06/29/inside-douglas-county-06-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-06-29-26",
+          "publishedOn": "2026-06-29T20:17:20.000Z",
+          "wordCount": 1592,
+          "title": "INSIDE DOUGLAS COUNTY 06.29.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260629191135/IDC-06-29-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260629191652/logan1.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=149026",
           "author": "Kyle Bailey",
           "description": "June 29, 2026 10:30 a.m.  A Yoncalla man was jailed Sunday for a reported prior assault incident. A Douglas County Sheriff’s Office report said Thursday night at 10:45 p.m. a victim claimed the 48-year-old had come to her property on Tuesday and assaulted her by pushing her to the ground, punching her face twice. The...",
@@ -353,6 +368,31 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dee879f3-3a93-4068-bdcc-09ae6e1c5712",
+          "author": "GLORIA COLEMAN NRToday",
+          "description": "DOUGLAS DISTRICT — The Douglas Forest Protect Association announced Friday that the Public Use Restrictions have decreased to low for all private, county, state, and Bureau of Indian Affairs lands within the Douglas District. This reduction is due to recent…",
+          "link": "https://www.nrtoday.com/briefs/fire-restrictions-decrease-on-dfpa-lands/article_dee879f3-3a93-4068-bdcc-09ae6e1c5712.html",
+          "publishedOn": "2026-06-29T18:00:00.000Z",
+          "wordCount": 13216,
+          "title": "Fire restrictions decrease on DFPA lands",
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/ebba7ee8-2bb3-4065-ad97-20261ec92ecf",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A quiet Saturday evening in Roseburg was interrupted by billowing smoke and several explosions as a raging house fire caused severe structural damage to a two-story home on NE Beulah Drive.",
+          "link": "https://www.nrtoday.com/news/roseburg-home-severely-damaged-in-explosive-fire/article_ebba7ee8-2bb3-4065-ad97-20261ec92ecf.html",
+          "publishedOn": "2026-06-29T16:22:00.000Z",
+          "wordCount": 12572,
+          "title": "Roseburg home severely damaged in explosive fire",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/3d/f3dd3a2a-3c7d-4019-bc4d-5a4d9b0541a9/6a42b6cbbc574.image.jpg?resize=300%2C379",
+            "length": "269033",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/3d/f3dd3a2a-3c7d-4019-bc4d-5a4d9b0541a9/6a42b6cbbc574.image.jpg?resize=300%2C379"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ef3f04c6-1610-4972-8d87-5e647d086c86",
           "author": "ANDREW GRIFFIN NR Today",
