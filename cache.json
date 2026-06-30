@@ -437,6 +437,16 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a43080f6cb3f4000178a68e",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man was arrested Monday after Winston police said he offered to pay for sexual acts during an online undercover investigation.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-arrested-following-winston-sexual-solicitation-investigation/",
+          "publishedOn": "2026-06-30T00:07:25.000Z",
+          "wordCount": 3071,
+          "title": "Roseburg Man Arrested Following Winston Sexual Solicitation Investigation",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/06/winston_ssa.png"
+        },
+        {
           "id": "6a4276146cb3f4000178a64b",
           "author": "Joseph Ziegler",
           "description": "Shemekia Copeland headlines Riverbend Live! on Friday, July 3, with a special local opening act called “One Night Only” featuring Dawn Day, Neil Gregory Johnson, Brian Dean, T-Bone Stone and Thomas Whiteside.",
@@ -523,6 +533,36 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf",
+          "author": "News Staff",
+          "description": "Winston police arrested a 62-year-old Roseburg man on Monday after a sexual solicitation investigation, according to the Winston Police Department.",
+          "link": "https://www.kezi.com/news/local/winston-sting-nets-roseburg-man-on-prostitution-charge/article_c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf.html",
+          "publishedOn": "2026-06-29T22:54:00.000Z",
+          "wordCount": 7475,
+          "title": "Winston sting nets Roseburg man on prostitution charge",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169",
+            "length": "106754",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/54/9542a011-f7e1-5848-bd01-ca9ea135d821/647673c6a0312.image.jpg?resize=300%2C169"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/b4a15b39-0911-4a6d-b8c5-115b01f47b4c",
+          "author": "News Staff",
+          "description": "Firefighters responded to a house fire on NE Beulah Drive on Saturday with flames shooting from the structure and spreading to nearby trees, according to the Roseburg Fire Department.",
+          "link": "https://www.kezi.com/news/local/douglas-county-house-fire-kills-dog-injures-resident/article_b4a15b39-0911-4a6d-b8c5-115b01f47b4c.html",
+          "publishedOn": "2026-06-29T21:40:00.000Z",
+          "wordCount": 7574,
+          "title": "Douglas County house fire kills dog, injures resident",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/7/6f/76ffce6f-c0a3-4a77-b4c3-849e4c8811dd/6a42e874936bf.image.jpg?resize=300%2C225",
+            "length": "450933",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/7/6f/76ffce6f-c0a3-4a77-b4c3-849e4c8811dd/6a42e874936bf.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/01bd5198-9769-4b4e-a755-14cc448f151b",
           "author": "News Staff",

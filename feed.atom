@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-29T20:53:52.787Z</updated>
+    <updated>2026-06-30T00:14:29.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Man Arrested Following Winston Sexual Solicitation Investigation]]></title>
+        <id>6a43080f6cb3f4000178a68e</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-man-arrested-following-winston-sexual-solicitation-investigation/"/>
+        <updated>2026-06-30T00:07:25.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man was arrested Monday after Winston police said he offered to pay for sexual acts during an online undercover investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winston sting nets Roseburg man on prostitution charge]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf</id>
+        <link href="https://www.kezi.com/news/local/winston-sting-nets-roseburg-man-on-prostitution-charge/article_c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf.html"/>
+        <updated>2026-06-29T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Winston police arrested a 62-year-old Roseburg man on Monday after a sexual solicitation investigation, according to the Winston Police Department.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County house fire kills dog, injures resident]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/b4a15b39-0911-4a6d-b8c5-115b01f47b4c</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-house-fire-kills-dog-injures-resident/article_b4a15b39-0911-4a6d-b8c5-115b01f47b4c.html"/>
+        <updated>2026-06-29T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters responded to a house fire on NE Beulah Drive on Saturday with flames shooting from the structure and spreading to nearby trees, according to the Roseburg Fire Department.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 06.29.26]]></title>
         <id>https://kqennewsradio.com/?p=149028</id>
