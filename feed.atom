@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-30T14:37:34.217Z</updated>
+    <updated>2026-06-30T18:06:39.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three People Injured After Reported Disturbance, Gunfire On Colonial Road]]></title>
+        <id>6a43f85b6cb3f4000178a932</id>
+        <link href="https://www.theroseburgreceiver.com/three-people-injured-after-reported-disturbance-gunfire-on-colonial-road/"/>
+        <updated>2026-06-30T17:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Three people were treated for injuries after a late-night disturbance involving reported gunfire on Colonial Road near Roseburg. Deputies say the incident began at a party shared through social media and remains under investigation.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon Foundations, Les Schwab Announce $1 Million Wildfire Preparedness Effort For Rural Communities]]></title>
+        <id>6a43f2556cb3f4000178a8ff</id>
+        <link href="https://www.theroseburgreceiver.com/oregon-foundations-les-schwab-partner-to-support-rural-wildfire-preparedness/"/>
+        <updated>2026-06-30T16:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Oregon foundations and Les Schwab Tire Centers are partnering to provide at least $1 million in wildfire preparedness support, including quick-response grants and $100,000 in tires for rural fire agencies.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Forecast: Cloudy Start Gives Way to Sunny, Warmer Holiday Weekend]]></title>
         <id>6a43d0fe6cb3f4000178a8e8</id>
