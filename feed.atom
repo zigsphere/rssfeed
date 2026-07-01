@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-01T13:30:12.214Z</updated>
+    <updated>2026-07-01T14:54:02.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fourth Of July Weekend Guide: Events Happening Across Douglas County]]></title>
+        <id>6a44b0576cb3f4000178a99c</id>
+        <link href="https://www.theroseburgreceiver.com/fourth-of-july-weekend-guide-events-happening-across-douglas-county/"/>
+        <updated>2026-07-01T14:11:11.000Z</updated>
+        <summary type="html"><![CDATA[From Camas Valley to Yoncalla, Douglas County is packed with Fourth of July parades, live music, fireworks, car shows, and more. Here's your complete guide to what's happening across the county this Independence Day weekend.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Electronics Recycling Event Planned July 18 In Roseburg]]></title>
+        <id>6a451a8f6cb3f4000178ab77</id>
+        <link href="https://www.theroseburgreceiver.com/free-electronics-recycling-event-planned-july-18-in-roseburg/"/>
+        <updated>2026-07-01T13:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County residents and small businesses can recycle unwanted household electronics for free during an e-cycle event July 18 at the Roseburg Transfer Station.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 1, 2026]]></title>
+        <id>6a449c6b6cb3f4000178a96e</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-1-2026/"/>
+        <updated>2026-07-01T13:33:55.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOVERNOR RESPONDS TO SUPREME COURT DECISION ON BIRTHRIGHT CITIZENSHIP]]></title>
         <id>https://kqennewsradio.com/?p=149107</id>
@@ -594,16 +624,6 @@
         <summary type="html"><![CDATA[June 28, 2026 11:20 a.m.   A Carnes Road area home received extensive fire damage on Saturday night. Battalion Chief Nick Wecks of Central Douglas Fire & Rescue said shortly after 7:00 p.m. crews were dispatched to a reported structure fire with lots of black smoke coming from the residence in the Green District. Wecks said...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautifying South county: New mural unveiled in Myrtle Creek]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/ef3f04c6-1610-4972-8d87-5e647d086c86</id>
-        <link href="https://www.nrtoday.com/news/beautifying-south-county-new-mural-unveiled-in-myrtle-creek/article_ef3f04c6-1610-4972-8d87-5e647d086c86.html"/>
-        <updated>2026-06-27T18:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite a bout of chilly rains on Saturday morning, a crowd had gathered outside Elks Lodge No. 1943 in Myrtle Creek to get a first glimpse at a new feature for the town, hidden behind a large black sheet. At…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>

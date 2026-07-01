@@ -487,21 +487,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/3d/f3dd3a2a-3c7d-4019-bc4d-5a4d9b0541a9/6a42b6cbbc574.image.jpg?resize=300%2C379"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ef3f04c6-1610-4972-8d87-5e647d086c86",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Despite a bout of chilly rains on Saturday morning, a crowd had gathered outside Elks Lodge No. 1943 in Myrtle Creek to get a first glimpse at a new feature for the town, hidden behind a large black sheet. At…",
-          "link": "https://www.nrtoday.com/news/beautifying-south-county-new-mural-unveiled-in-myrtle-creek/article_ef3f04c6-1610-4972-8d87-5e647d086c86.html",
-          "publishedOn": "2026-06-27T18:46:00.000Z",
-          "wordCount": 12774,
-          "title": "Beautifying South county: New mural unveiled in Myrtle Creek",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2c/62c8b218-a5b3-47ea-9285-b8a8c9558453/6a401d9d2c85c.image.jpg?resize=300%2C200",
-            "length": "518768",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/2c/62c8b218-a5b3-47ea-9285-b8a8c9558453/6a401d9d2c85c.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -516,6 +501,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a44b0576cb3f4000178a99c",
+          "author": "Joseph Ziegler",
+          "description": "From Camas Valley to Yoncalla, Douglas County is packed with Fourth of July parades, live music, fireworks, car shows, and more. Here's your complete guide to what's happening across the county this Independence Day weekend.",
+          "link": "https://www.theroseburgreceiver.com/fourth-of-july-weekend-guide-events-happening-across-douglas-county/",
+          "publishedOn": "2026-07-01T14:11:11.000Z",
+          "wordCount": 4994,
+          "title": "Fourth Of July Weekend Guide: Events Happening Across Douglas County",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/4th2.png"
+        },
+        {
+          "id": "6a451a8f6cb3f4000178ab77",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County residents and small businesses can recycle unwanted household electronics for free during an e-cycle event July 18 at the Roseburg Transfer Station.",
+          "link": "https://www.theroseburgreceiver.com/free-electronics-recycling-event-planned-july-18-in-roseburg/",
+          "publishedOn": "2026-07-01T13:49:54.000Z",
+          "wordCount": 3229,
+          "title": "Free Electronics Recycling Event Planned July 18 In Roseburg",
+          "imageUrl": "https://images.unsplash.com/photo-1582748298043-0c0d31aa506e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGVsZWN0cm9uaWNzJTIwcmVjeWNsZXxlbnwwfHx8fDE3ODI5MTM3MDl8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a449c6b6cb3f4000178a96e",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-1-2026/",
+          "publishedOn": "2026-07-01T13:33:55.000Z",
+          "wordCount": 6673,
+          "title": "July 1, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop.png"
+        },
         {
           "id": "6a441a3e6cb3f4000178a949",
           "author": "Joseph Ziegler",
