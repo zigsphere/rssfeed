@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-06-30T21:01:51.442Z</updated>
+    <updated>2026-07-01T00:17:03.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -134,6 +134,16 @@
         <summary type="html"><![CDATA[Live from the Nichol’s Band Shell in Stewart Park, Music on the Half Shell committee member Kelly Leonard talks about tonight’s show.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg buildings are closed on Friday]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/10033f4a-5756-4636-bc05-e747f1267b23</id>
+        <link href="https://www.nrtoday.com/briefs/roseburg-buildings-are-closed-on-friday/article_10033f4a-5756-4636-bc05-e747f1267b23.html"/>
+        <updated>2026-06-30T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The City of Roseburg buildings will be closed Friday due to the Fourth of July holiday.]]></summary>
+        <author>
+            <name>GLORIA COLEMAN NRToday</name>
         </author>
     </entry>
     <entry>
@@ -284,6 +294,16 @@
         <summary type="html"><![CDATA[Logan Bennett of the Oregon State University Extension Service has part one of a summer agriculture update for Douglas County.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to go, what to see and how to stay safe for Fourth of July in Douglas County]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/df2964e1-4cd9-4a3b-a2bb-d4730bd88f3b</id>
+        <link href="https://www.nrtoday.com/news/where-to-go-what-to-see-and-how-to-stay-safe-for-fourth-of-july/article_df2964e1-4cd9-4a3b-a2bb-d4730bd88f3b.html"/>
+        <updated>2026-06-29T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[This Fourth of July marks the 250th anniversary of the United States, with organizers from Douglas County and beyond preparing shows and events to celebrate.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>
