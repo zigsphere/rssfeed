@@ -619,6 +619,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a2ae9b8-685e-4e54-baa3-2117f80cdf49",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "As Oregonians prepare for fire season, The Ford Family Foundation (TFFF) announced it has pitched in with a partnership of organizations to provide a funding package for rural disaster response.",
+          "link": "https://www.nrtoday.com/news/ford-family-foundation-contributes-250k-for-rural-disaster-response-resources/article_8a2ae9b8-685e-4e54-baa3-2117f80cdf49.html",
+          "publishedOn": "2026-07-01T17:15:00.000Z",
+          "wordCount": 12635,
+          "title": "Ford Family Foundation contributes $250k for rural disaster response resources",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/52/052e159b-6c41-4ed3-81bd-bd72cddfafb8/67d8a65913e65.image.jpg?crop=699%2C603%2C0%2C206&resize=300%2C259&order=crop%2Cresize",
+            "length": "154839",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/52/052e159b-6c41-4ed3-81bd-bd72cddfafb8/67d8a65913e65.image.jpg?crop=699%2C603%2C0%2C206&resize=300%2C259&order=crop%2Cresize"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/10033f4a-5756-4636-bc05-e747f1267b23",
           "author": "GLORIA COLEMAN NRToday",
           "description": "The City of Roseburg buildings will be closed Friday due to the Fourth of July holiday.",
@@ -681,6 +696,56 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a4670116cb3f4000178ae6c",
+          "author": "Joseph Ziegler",
+          "description": "For The Love of Paws Veterinary Clinic in Roseburg is seeking a volunteer board member to help guide its nonprofit mission of providing accessible, affordable veterinary care to families and pets across Douglas County.",
+          "link": "https://www.theroseburgreceiver.com/for-the-love-of-paws-seeking-volunteer-board-member-to-support-community-veterinary-care/",
+          "publishedOn": "2026-07-02T14:08:50.000Z",
+          "wordCount": 3279,
+          "title": "For The Love of Paws Seeking Volunteer Board Member To Support Community Veterinary Care",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/vet2.png"
+        },
+        {
+          "id": "6a466f186cb3f4000178ae56",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua Actors Community Theatre will bring Disney’s Frozen The Musical to The Rose Theatre at Roseburg High School from July 23 through August 2, with evening performances and Sunday matinees scheduled.",
+          "link": "https://www.theroseburgreceiver.com/canyonville-community-library-announces-july-programs-summer-reading-activities-2/",
+          "publishedOn": "2026-07-02T14:01:33.000Z",
+          "wordCount": 3227,
+          "title": "Canyonville Community Library Announces July Programs, Summer Reading Activities",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/1781819610-1.png"
+        },
+        {
+          "id": "6a466d4c6cb3f4000178ae38",
+          "author": "Joseph Ziegler",
+          "description": "Canyonville Community Library has a full July schedule, including summer reading, a kids comic book club, an America 250 reading challenge, new arrivals and early literacy programs.",
+          "link": "https://www.theroseburgreceiver.com/canyonville-community-library-announces-july-programs-summer-reading-activities/",
+          "publishedOn": "2026-07-02T13:54:31.000Z",
+          "wordCount": 3377,
+          "title": "Canyonville Community Library Announces July Programs, Summer Reading Activities",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/summer-reading-2026---2--1-2-1.png"
+        },
+        {
+          "id": "6a4667c16cb3f4000178ae18",
+          "author": "Joseph Ziegler",
+          "description": "NeighborWorks Umpqua has launched a new Home Share Program with Nesterly to connect homeowners who have spare rooms with people seeking affordable longer-term housing in Douglas and Coos counties.",
+          "link": "https://www.theroseburgreceiver.com/neighborworks-umpqua-launches-home-share-program-for-douglas-and-coos-counties/",
+          "publishedOn": "2026-07-02T13:32:09.000Z",
+          "wordCount": 3282,
+          "title": "NeighborWorks Umpqua Launches Home Share Program For Douglas And Coos Counties",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/neighbor.png"
+        },
+        {
+          "id": "6a45f59d6cb3f4000178ac0c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-2-2026/",
+          "publishedOn": "2026-07-02T13:26:26.000Z",
+          "wordCount": 6786,
+          "title": "July 2, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-1.png"
+        },
         {
           "id": "6a45d3c86cb3f4000178abf4",
           "author": "Joseph Ziegler",
