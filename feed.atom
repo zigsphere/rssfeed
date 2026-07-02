@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-02T14:24:22.698Z</updated>
+    <updated>2026-07-02T17:58:55.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: July 1, 2026]]></title>
+        <id>6a46984a6cb3f4000178aec4</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-july-1-2026/"/>
+        <updated>2026-07-02T16:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported 17 incidents in the July 1 log, including prohibited camping, criminal trespass, warrant arrests, failure to report as a sex offender, offensive littering and related probation or parole violation cases.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DFPA Public Use Restrictions Increase To Moderate July 3]]></title>
+        <id>6a46966d6cb3f4000178aeab</id>
+        <link href="https://www.theroseburgreceiver.com/dfpa-public-use-restrictions-increase-to-moderate-july-3/"/>
+        <updated>2026-07-02T16:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Public use restrictions will increase to Moderate across DFPA-protected lands beginning July 3 as rising temperatures and drying fuels increase wildfire risk ahead of the Fourth of July holiday.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[For The Love of Paws Seeking Volunteer Board Member To Support Community Veterinary Care]]></title>
         <id>6a4670116cb3f4000178ae6c</id>
@@ -864,16 +884,6 @@
         <summary type="html"><![CDATA[June 29, 2026 2:50 a.m.  Saving Grace Humane Society has a kitten adoption special now through this Friday, July 3rd. Development and Communications Manager Cyn Demers said all kitten adoption fees are discounted to only $50 each, down from their normal cost of $110. Demers said all kittens are spayed/neutered, current on vaccinations, and flea/tick...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beulah Drive Home Heavily Damaged in Late-Night Fire]]></title>
-        <id>6a41d9da6cb3f4000178a3fc</id>
-        <link href="https://www.theroseburgreceiver.com/beulah-drive-home-heavily-damaged-in-late-night-fire/"/>
-        <updated>2026-06-29T02:36:58.000Z</updated>
-        <summary type="html"><![CDATA[A late-night fire on NE Beulah Drive heavily damaged a Roseburg home Saturday, sending one resident to the hospital and leaving several pets unaccounted for.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
