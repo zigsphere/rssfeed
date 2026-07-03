@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=149215",
+          "author": "Kyle Bailey",
+          "description": "July 3, 2026 6:45 a.m.  The driver was taken to the hospital after his vehicle landed upside down on Highway 42 one mile east of Tenmile on Thursday. An Oregon State Police report said just before 12:00 p.m. a sedan was traveling westbound near milepost 65 when the vehicle left its lane. The vehicle traveled...",
+          "link": "https://kqennewsradio.com/2026/07/03/driver-taken-to-hospital-after-vehicle-flipped-on-its-top/?utm_source=rss&utm_medium=rss&utm_campaign=driver-taken-to-hospital-after-vehicle-flipped-on-its-top",
+          "publishedOn": "2026-07-03T13:47:12.000Z",
+          "wordCount": 1706,
+          "title": "DRIVER TAKEN TO HOSPITAL AFTER VEHICLE FLIPPED ON ITS TOP",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260703124607/Tenmile1-1.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=149213",
+          "author": "Kyle Bailey",
+          "description": "July 3, 2026 6:20 a.m.  Detectives with the Douglas Interagency Narcotics Team have concluded a months-long investigation into the distribution of methamphetamine in Douglas County, resulting in the arrest of three men and the seizure of drugs, firearms and cash. DINT Commander Lieutenant Nick Hansen said the investigation began in early 2026 as detectives received...",
+          "link": "https://kqennewsradio.com/2026/07/03/dint-concludes-months-long-drug-investigation-and-makes-three-arrests/?utm_source=rss&utm_medium=rss&utm_campaign=dint-concludes-months-long-drug-investigation-and-makes-three-arrests",
+          "publishedOn": "2026-07-03T13:23:05.000Z",
+          "wordCount": 1784,
+          "title": "DINT CONCLUDES MONTHS LONG DRUG INVESTIGATION AND MAKES THREE ARRESTS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727213938/DINT_Logo-e1634246075433.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=149211",
           "author": "Kyle Bailey",
           "description": "July 3, 2026 6:00 a.m.  With the nation’s 250th birthday falling on Saturday, Friday is the observed holiday and that means there are a number of closures. Federal, state, county and city offices will be closed. Regular mail will not be delivered. Banks and credit unions will not be open. Professional offices will be shuttered....",
@@ -629,6 +649,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0ca898ff-9d2e-437a-baf6-3d1e8e215d08",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Sutherlin residents sang along and gathered together in the town’s Central Park on Thursday night for an evening of country throwbacks as Honky Tonk Circus performed for the second show of Music Off Central.",
+          "link": "https://www.nrtoday.com/a_and_e/sutherlin-comes-together-for-country-throwbacks-at-music-off-central/article_0ca898ff-9d2e-437a-baf6-3d1e8e215d08.html",
+          "publishedOn": "2026-07-02T18:43:00.000Z",
+          "wordCount": 13131,
+          "title": "Sutherlin comes together for country throwbacks at Music Off Central",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d4/7d442079-d2a8-4626-8009-1f292a9684fa/6a47332186005.image.jpg?resize=300%2C200",
+            "length": "426624",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/d4/7d442079-d2a8-4626-8009-1f292a9684fa/6a47332186005.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/09fe7236-703a-4b95-9555-132178af1689",
+          "author": "GLORIA COLEMAN NRToday",
+          "description": "Following the week at the Miss Oregon Scholarship Program’s pageant in Seaside, Miss Umpqua Valley’s Teen Addison Reneau said she felt like she gave each phase of the competition her very best.",
+          "link": "https://www.nrtoday.com/news/education/local-contestants-return-from-miss-oregon-scholarship-competition-with-new-friendships-scholarships/article_09fe7236-703a-4b95-9555-132178af1689.html",
+          "publishedOn": "2026-07-02T17:00:00.000Z",
+          "wordCount": 13878,
+          "title": "Local contestants return from Miss Oregon Scholarship Competition with new friendships, scholarships",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a0/ea0f6838-5194-4ecf-9aa1-8a8ef1c8f047/6a454771832cf.image.jpg?resize=300%2C373",
+            "length": "254267",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a0/ea0f6838-5194-4ecf-9aa1-8a8ef1c8f047/6a454771832cf.image.jpg?resize=300%2C373"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/8a2ae9b8-685e-4e54-baa3-2117f80cdf49",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "As Oregonians prepare for fire season, The Ford Family Foundation (TFFF) announced it has pitched in with a partnership of organizations to provide a funding package for rural disaster response.",
@@ -652,46 +702,6 @@
           "wordCount": 12720,
           "title": "Roseburg buildings are closed on Friday",
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/df2964e1-4cd9-4a3b-a2bb-d4730bd88f3b",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "This Fourth of July marks the 250th anniversary of the United States, with organizers from Douglas County and beyond preparing shows and events to celebrate.",
-          "link": "https://www.nrtoday.com/news/where-to-go-what-to-see-and-how-to-stay-safe-for-fourth-of-july/article_df2964e1-4cd9-4a3b-a2bb-d4730bd88f3b.html",
-          "publishedOn": "2026-06-29T18:21:00.000Z",
-          "wordCount": 13766,
-          "title": "Where to go, what to see and how to stay safe for Fourth of July in Douglas County",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/42/842a025b-51d9-435c-a553-730c60a2c8fa/68684a58dcf68.image.jpg?resize=300%2C200",
-            "length": "340778",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/42/842a025b-51d9-435c-a553-730c60a2c8fa/68684a58dcf68.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/dee879f3-3a93-4068-bdcc-09ae6e1c5712",
-          "author": "GLORIA COLEMAN NRToday",
-          "description": "DOUGLAS DISTRICT — The Douglas Forest Protect Association announced Friday that the Public Use Restrictions have decreased to low for all private, county, state, and Bureau of Indian Affairs lands within the Douglas District. This reduction is due to recent…",
-          "link": "https://www.nrtoday.com/briefs/fire-restrictions-decrease-on-dfpa-lands/article_dee879f3-3a93-4068-bdcc-09ae6e1c5712.html",
-          "publishedOn": "2026-06-29T18:00:00.000Z",
-          "wordCount": 13216,
-          "title": "Fire restrictions decrease on DFPA lands",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/ebba7ee8-2bb3-4065-ad97-20261ec92ecf",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "A quiet Saturday evening in Roseburg was interrupted by billowing smoke and several explosions as a raging house fire caused severe structural damage to a two-story home on NE Beulah Drive.",
-          "link": "https://www.nrtoday.com/news/roseburg-home-severely-damaged-in-explosive-fire/article_ebba7ee8-2bb3-4065-ad97-20261ec92ecf.html",
-          "publishedOn": "2026-06-29T16:22:00.000Z",
-          "wordCount": 12572,
-          "title": "Roseburg home severely damaged in explosive fire",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/3d/f3dd3a2a-3c7d-4019-bc4d-5a4d9b0541a9/6a42b6cbbc574.image.jpg?resize=300%2C379",
-            "length": "269033",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/3d/f3dd3a2a-3c7d-4019-bc4d-5a4d9b0541a9/6a42b6cbbc574.image.jpg?resize=300%2C379"
         }
       ]
     },
@@ -706,6 +716,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a47b7436cb3f4000178b176",
+          "author": "Joseph Ziegler",
+          "description": "A driver was extricated and taken to Mercy Medical Center after a rollover crash on Highway 42 near milepost 65 Thursday morning.",
+          "link": "https://www.theroseburgreceiver.com/driver-extricated-after-rollover-crash-on-highway-42-near-tenmile/",
+          "publishedOn": "2026-07-03T13:22:30.000Z",
+          "wordCount": 3260,
+          "title": "Driver Extricated After Rollover Crash On Highway 42 Near Tenmile",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/tenmile_accident1-1.jpg"
+        },
+        {
+          "id": "6a4759516cb3f4000178af9a",
+          "author": "Joseph Ziegler",
+          "description": "Three people were arrested after DINT detectives served a search warrant at a Roseburg residence Thursday, seizing methamphetamine, firearms, cash and evidence tied to a months-long investigation into suspected drug distribution.",
+          "link": "https://www.theroseburgreceiver.com/three-arrested-after-dint-meth-investigation-leads-to-search-warrant-in-roseburg/",
+          "publishedOn": "2026-07-03T13:17:54.000Z",
+          "wordCount": 3224,
+          "title": "Three Arrested After DINT Meth Investigation Leads To Search Warrant In Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/dint.png"
+        },
+        {
+          "id": "6a4740c76cb3f4000178af5c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-3-2026/",
+          "publishedOn": "2026-07-03T13:15:58.000Z",
+          "wordCount": 7149,
+          "title": "July 3, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-2.png"
+        },
         {
           "id": "6a46de7e6cb3f4000178af3a",
           "author": "Joseph Ziegler",
