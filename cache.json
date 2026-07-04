@@ -494,6 +494,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/22bbe260-6767-4682-b17d-bfb513dcf401",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In a post on Facebook, veneer manufacturing company Nordic Veneer Inc. announced production at its Roseburg facility will cease permanently after 72 years in operation.",
+          "link": "https://www.nrtoday.com/news/nordic-veneer-inc-closing-roseburg-facility-operations/article_22bbe260-6767-4682-b17d-bfb513dcf401.html",
+          "publishedOn": "2026-07-04T00:47:00.000Z",
+          "wordCount": 12551,
+          "title": "Nordic Veneer Inc. closing Roseburg facility operations",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300",
+            "length": "100789",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/0ca898ff-9d2e-437a-baf6-3d1e8e215d08",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Sutherlin residents sang along and gathered together in the town’s Central Park on Thursday night for an evening of country throwbacks as Honky Tonk Circus performed for the second show of Music Off Central.",
@@ -537,16 +552,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/52/052e159b-6c41-4ed3-81bd-bd72cddfafb8/67d8a65913e65.image.jpg?crop=699%2C603%2C0%2C206&resize=300%2C259&order=crop%2Cresize"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/10033f4a-5756-4636-bc05-e747f1267b23",
-          "author": "GLORIA COLEMAN NRToday",
-          "description": "The City of Roseburg buildings will be closed Friday due to the Fourth of July holiday.",
-          "link": "https://www.nrtoday.com/briefs/roseburg-buildings-are-closed-on-friday/article_10033f4a-5756-4636-bc05-e747f1267b23.html",
-          "publishedOn": "2026-06-30T15:43:00.000Z",
-          "wordCount": 12720,
-          "title": "Roseburg buildings are closed on Friday",
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg?resize=600%2C315"
         }
       ]
     },

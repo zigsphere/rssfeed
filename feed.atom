@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-04T13:52:38.634Z</updated>
+    <updated>2026-07-04T17:15:52.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nordic Veneer Inc. closing Roseburg facility operations]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/22bbe260-6767-4682-b17d-bfb513dcf401</id>
+        <link href="https://www.nrtoday.com/news/nordic-veneer-inc-closing-roseburg-facility-operations/article_22bbe260-6767-4682-b17d-bfb513dcf401.html"/>
+        <updated>2026-07-04T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[In a post on Facebook, veneer manufacturing company Nordic Veneer Inc. announced production at its Roseburg facility will cease permanently after 72 years in operation.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nordic Veneer Announces Closure of Roseburg Operations After 72 Years]]></title>
         <id>6a4833556cb3f4000178b19b</id>
@@ -704,16 +714,6 @@
         <summary type="html"><![CDATA[Three men were hurt after a fight broke out at a party and gunshots were fired early Tuesday morning, according to the Douglas County Sheriff's Office.]]></summary>
         <author>
             <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg buildings are closed on Friday]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/10033f4a-5756-4636-bc05-e747f1267b23</id>
-        <link href="https://www.nrtoday.com/briefs/roseburg-buildings-are-closed-on-friday/article_10033f4a-5756-4636-bc05-e747f1267b23.html"/>
-        <updated>2026-06-30T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The City of Roseburg buildings will be closed Friday due to the Fourth of July holiday.]]></summary>
-        <author>
-            <name>GLORIA COLEMAN NRToday</name>
         </author>
     </entry>
     <entry>
