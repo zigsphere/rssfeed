@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-04T17:15:52.106Z</updated>
+    <updated>2026-07-04T20:14:24.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUTHERLIN POLICE JAIL MAN ON WEAPON AND DRUG CHARGES]]></title>
+        <id>https://kqennewsradio.com/?p=149233</id>
+        <link href="https://kqennewsradio.com/2026/07/04/sutherlin-police-jail-man-on-weapon-and-drug-charges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sutherlin-police-jail-man-on-weapon-and-drug-charges"/>
+        <updated>2026-07-04T14:43:06.000Z</updated>
+        <summary type="html"><![CDATA[July 4, 2026 7:30 a.m.  Sutherlin Police jailed a man on drug and weapon charges early Friday morning. An SPD report said at approximately 3:30 a.m. officers contacted the 44-year-old at Ford’s Pond in the 400 block of Southeast Church Road. During the contact, the man was reportedly found to be in possession of a...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nordic Veneer Inc. closing Roseburg facility operations]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/22bbe260-6767-4682-b17d-bfb513dcf401</id>
@@ -704,36 +714,6 @@
         <summary type="html"><![CDATA[July 1, 2026 2:50 a.m. In the KQEN Cultural Spotlight: Tickets to Umpqua Actors Community Theatre’s production of “Frozen the Musical” are now on sale. This year the summer musical will be presented at the Rose Theatre at Roseburg High School. A synopsis said in the kingdom of Arendelle, Princesses Anna and Elsa grow sheltered...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunshots reportedly fired after fight erupts at Roseburg gathering]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/69838a03-7b93-406c-9113-72272ec357bc</id>
-        <link href="https://www.kezi.com/news/local/gunshots-reportedly-fired-after-fight-erupts-at-roseburg-gathering/article_69838a03-7b93-406c-9113-72272ec357bc.html"/>
-        <updated>2026-06-30T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Three men were hurt after a fight broke out at a party and gunshots were fired early Tuesday morning, according to the Douglas County Sheriff's Office.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winston sting nets Roseburg man on prostitution charge]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf</id>
-        <link href="https://www.kezi.com/news/local/winston-sting-nets-roseburg-man-on-prostitution-charge/article_c18abb04-de98-4e2e-8ef4-6ddd2dbe44cf.html"/>
-        <updated>2026-06-29T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Winston police arrested a 62-year-old Roseburg man on Monday after a sexual solicitation investigation, according to the Winston Police Department.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Douglas County house fire kills dog, injures resident]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/b4a15b39-0911-4a6d-b8c5-115b01f47b4c</id>
-        <link href="https://www.kezi.com/news/local/douglas-county-house-fire-kills-dog-injures-resident/article_b4a15b39-0911-4a6d-b8c5-115b01f47b4c.html"/>
-        <updated>2026-06-29T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters responded to a house fire on NE Beulah Drive on Saturday with flames shooting from the structure and spreading to nearby trees, according to the Roseburg Fire Department.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
