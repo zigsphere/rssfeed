@@ -242,6 +242,46 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a4bc02f6cb3f4000178b505",
+          "author": "Joseph Ziegler",
+          "description": "Graffiti Weekend returns to the Roseburg area July 8-12 with five days of classic cars, cruises, show-n-shines, poker runs, live music and family-friendly events across Douglas County.",
+          "link": "https://www.theroseburgreceiver.com/graffiti-weekend-rolls-into-roseburg-with-five-days-of-classic-cars-and-cruises/",
+          "publishedOn": "2026-07-06T14:57:52.000Z",
+          "wordCount": 3973,
+          "title": "Graffiti Weekend Rolls Into Roseburg With Five Days Of Classic Cars And Cruises",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/graffiti.png"
+        },
+        {
+          "id": "6a4bb96d6cb3f4000178b4e4",
+          "author": "Joseph Ziegler",
+          "description": "Winston’s Independence Day celebration brought out a huge crowd this year, with WAID organizer Onikka Driscoll saying she believes it may have been the biggest parade Winston has ever seen.",
+          "link": "https://www.theroseburgreceiver.com/winston-area-independence-day-celebration-draws-huge-turnout-organizer-calls-parade-likely-biggest-in-city-history/",
+          "publishedOn": "2026-07-06T14:26:28.000Z",
+          "wordCount": 3316,
+          "title": "Winston Area Independence Day Celebration Draws Huge Turnout, Organizer Calls Parade Likely Biggest in City History",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/flag.png"
+        },
+        {
+          "id": "6a4bb4476cb3f4000178b4cc",
+          "author": "Joseph Ziegler",
+          "description": "Round Table Pizza is officially open again in Roseburg, with Now Open signs posted near Garden Valley Boulevard and Stewart Parkway.",
+          "link": "https://www.theroseburgreceiver.com/round-table-pizza-now-open-in-roseburg/",
+          "publishedOn": "2026-07-06T13:58:08.000Z",
+          "wordCount": 3103,
+          "title": "Round Table Pizza Now Open in Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/round_table-1.jpg"
+        },
+        {
+          "id": "6a4b36c36cb3f4000178b211",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-6-2026/",
+          "publishedOn": "2026-07-06T13:36:48.000Z",
+          "wordCount": 6758,
+          "title": "July 6, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-3.png"
+        },
+        {
           "id": "6a4833556cb3f4000178b19b",
           "author": "Joseph Ziegler",
           "description": "Nordic Veneer Inc. has announced it will permanently close its Roseburg operations after more than 72 years, citing ongoing wood supply, market and foreign competition challenges.",
@@ -287,23 +327,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/f8ae655e-43e5-463a-ace8-8ab834d250a6",
-          "author": null,
-          "description": "Deputies arrested a Roseburg man accused of sexually abusing a child for 11 years, according to the Douglas County Sheriff's Office.",
-          "link": "https://www.kezi.com/news/local/roseburg-man-faces-120-sex-crime-counts-in-11-year-abuse-case/article_f8ae655e-43e5-463a-ace8-8ab834d250a6.html",
-          "publishedOn": "2026-07-02T17:17:00.000Z",
-          "wordCount": 7638,
-          "title": "Roseburg man faces 120 sex crime counts in 11-year abuse case",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/90/e905f26a-17b9-48b1-bb5f-edee327ed81d/6830e818b4063.image.png?resize=300%2C168",
-            "length": "1621243",
-            "type": "image/png"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/90/e905f26a-17b9-48b1-bb5f-edee327ed81d/6830e818b4063.image.png?resize=300%2C168"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
