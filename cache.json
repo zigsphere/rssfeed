@@ -279,6 +279,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f47fa486-86d5-46b4-9da0-a125cd71ace1",
+          "author": "NR Today",
+          "description": "Spiderking Studios is currently in production on its sixth feature film, IT CALLS, a psychological cosmic horror film inspired by the mythos created by H.P. Lovecraft. Filming began in mid-May and is taking place throughout Roseburg, Bandon and other locations…",
+          "link": "https://www.nrtoday.com/ap/entertainment/crowdfunded-10k-horror-film-it-calls-showcases-southern-oregon-eyes-distribution/article_f47fa486-86d5-46b4-9da0-a125cd71ace1.html",
+          "publishedOn": "2026-07-06T23:58:00.000Z",
+          "wordCount": 13096,
+          "title": "Crowdfunded $10K Horror Film \"IT CALLS\" Showcases Southern Oregon, Eyes Distribution",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b4/6b4787ec-03d8-45de-8a70-51b1e52487e6/6a4c4521d585e.image.jpg?resize=300%2C225",
+            "length": "295267",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b4/6b4787ec-03d8-45de-8a70-51b1e52487e6/6a4c4521d585e.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/95da14b6-1839-4f00-8855-4fd3037611e6",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Douglas County is only days away from the 44th year of Graffiti Weekend, one of the area's longest-running annual events. Across Roseburg, automotive enthusiasts are preparing for a lineup of new and old shows, socials, cruise-ins and competitions.",
+          "link": "https://www.nrtoday.com/news/automotive-enthusiasts-rev-up-for-44th-annual-graffiti-weekend/article_95da14b6-1839-4f00-8855-4fd3037611e6.html",
+          "publishedOn": "2026-07-06T19:43:00.000Z",
+          "wordCount": 13189,
+          "title": "Automotive enthusiasts rev up for 44th annual Graffiti Weekend",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a8/da8df32a-2401-411c-9f97-82a0712ef41b/6872d320a1754.image.jpg?resize=300%2C200",
+            "length": "690053",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/a8/da8df32a-2401-411c-9f97-82a0712ef41b/6872d320a1754.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/a01dadc1-eccc-4910-829c-f68fc26706d3",
           "author": "GLORIA COLEMAN NRToday",
           "description": "DIAMOND LAKE — The Diamond Lake Resort hosted a full house and lake with people showing up to lodge, camp, fish, boat, swim and hang out throughout the Fourth of July weekend.",
@@ -292,36 +322,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/7e/77e9e3b6-3a51-4e41-8f78-c76bf8851cfa/6a4bc86e86336.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/22bbe260-6767-4682-b17d-bfb513dcf401",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "In a post on Facebook, veneer manufacturing company Nordic Veneer Inc. announced production at its Roseburg facility will cease permanently after 72 years in operation.",
-          "link": "https://www.nrtoday.com/news/nordic-veneer-inc-closing-roseburg-facility-operations-update/article_22bbe260-6767-4682-b17d-bfb513dcf401.html",
-          "publishedOn": "2026-07-04T00:47:00.000Z",
-          "wordCount": 12651,
-          "title": "Nordic Veneer Inc. closing Roseburg facility operations (UPDATE)",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300",
-            "length": "100789",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/22bbe260-6767-4682-b17d-bfb513dcf401",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "In a post on Facebook, veneer manufacturing company Nordic Veneer Inc. announced production at its Roseburg facility will cease permanently after 72 years in operation.",
-          "link": "https://www.nrtoday.com/news/nordic-veneer-inc-closing-roseburg-facility-operations/article_22bbe260-6767-4682-b17d-bfb513dcf401.html",
-          "publishedOn": "2026-07-04T00:47:00.000Z",
-          "wordCount": 12551,
-          "title": "Nordic Veneer Inc. closing Roseburg facility operations",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300",
-            "length": "100789",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/38/b38ea1bc-e5da-4a83-964d-6c000a8f15e7/6a485a98de92b.image.jpg?resize=300%2C300"
         }
       ]
     },
@@ -336,6 +336,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a4d088d6cb3f4000178b818",
+          "author": "Joseph Ziegler",
+          "description": "Good Vibrations brings the music of The Beach Boys to Riverbend Live! in Winston on Friday, July 10. The free concert begins at 7 p.m. at the Riverbend Park Outdoor Amphitheater.",
+          "link": "https://www.theroseburgreceiver.com/good-vibrations-brings-beach-boys-classics-to-riverbend-live-friday/",
+          "publishedOn": "2026-07-07T14:10:09.000Z",
+          "wordCount": 3258,
+          "title": "Good Vibrations Brings Beach Boys Classics To Riverbend Live Friday",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/good_vibrations_woody_mc-1.jpg"
+        },
+        {
+          "id": "6a4d07a56cb3f4000178b802",
+          "author": "Joseph Ziegler",
+          "description": "Music on the Half Shell continues tonight at Stewart Park with Paul McDonald and the Mourning Doves. The free concert begins at 7 p.m. at the Nichols Band Shell in Roseburg.",
+          "link": "https://www.theroseburgreceiver.com/music-on-the-half-shell-continues-tonight-with-paul-mcdonald-and-the-mourning-doves/",
+          "publishedOn": "2026-07-07T14:07:49.000Z",
+          "wordCount": 3236,
+          "title": "Music On The Half Shell Continues Tonight With Paul McDonald And The Mourning Doves",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/paul.jpeg"
+        },
+        {
+          "id": "6a4cfd886cb3f4000178b5b2",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-7-2026/",
+          "publishedOn": "2026-07-07T13:44:53.000Z",
+          "wordCount": 6768,
+          "title": "July 7, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-4.png"
+        },
         {
           "id": "6a4c7c4c6cb3f4000178b58c",
           "author": "Joseph Ziegler",
