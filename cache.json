@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=149330",
+          "author": "Kyle Bailey",
+          "description": "Bob Scott and Jacob Zink talk about the history of Graffiti Weekend and all the events that will be happening between Wednesday and Sunday.",
+          "link": "https://kqennewsradio.com/2026/07/07/inside-douglas-county-07-07-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-07-07-26",
+          "publishedOn": "2026-07-07T20:11:01.000Z",
+          "wordCount": 1601,
+          "title": "INSIDE DOUGLAS COUNTY 07.07.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260707190643/IDC-07-07-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260707191027/Graf.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=149327",
           "author": "Kyle Bailey",
           "description": "July 7, 2026 10:40 a.m.  Roseburg Police jailed a woman for depositing trash within 100 yards of the water early Tuesday morning. An RPD report said just after 2:15 a.m. the 24-year-old was contacted near a group of transient camps at Gaddis Park in the 800 block of Northwest Highland Street. She had a large...",
@@ -363,6 +378,21 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f47fa486-86d5-46b4-9da0-a125cd71ace1",
+          "author": "NR Today",
+          "description": "Spiderking Studios is currently in production on its sixth feature film, IT CALLS, a psychological cosmic horror film inspired by the mythos created by H.P. Lovecraft. Filming began in mid-May and is taking place throughout Roseburg, Bandon and other locations…",
+          "link": "https://www.nrtoday.com/news/local/crowdfunded-10k-horror-film-it-calls-showcases-southern-oregon-eyes-distribution/article_f47fa486-86d5-46b4-9da0-a125cd71ace1.html",
+          "publishedOn": "2026-07-06T23:58:00.000Z",
+          "wordCount": 12935,
+          "title": "Crowdfunded $10K Horror Film \"IT CALLS\" Showcases Southern Oregon, Eyes Distribution",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b4/6b4787ec-03d8-45de-8a70-51b1e52487e6/6a4c4521d585e.image.jpg?resize=300%2C225",
+            "length": "295267",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/b4/6b4787ec-03d8-45de-8a70-51b1e52487e6/6a4c4521d585e.image.jpg?resize=300%2C225"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f47fa486-86d5-46b4-9da0-a125cd71ace1",
           "author": "NR Today",
