@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-08T00:07:19.258Z</updated>
+    <updated>2026-07-08T13:37:29.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aviva Health, Douglas ESD Selected for $5.67 Million in Rural Health Funding]]></title>
+        <id>6a4dd16b6cb3f4000178b8df</id>
+        <link href="https://www.theroseburgreceiver.com/aviva-health-douglas-esd-selected-for-5-67-million-in-rural-health-funding/"/>
+        <updated>2026-07-08T04:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Aviva Health and Douglas Education Service District have been selected for up to $5.67 million in federal funding to support rural health projects. Roseburg is also being considered for a separate health care access improvement project.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Plant Warehouse Reopens at New Roseburg Location]]></title>
+        <id>6a4dcab76cb3f4000178b8ba</id>
+        <link href="https://www.theroseburgreceiver.com/the-plant-warehouse-reopens-at-new-roseburg-location/"/>
+        <updated>2026-07-08T03:58:44.000Z</updated>
+        <summary type="html"><![CDATA[The Plant Warehouse has reopened at 3362 NW Broad St. in Roseburg, off Edenbower Boulevard near the Interstate 5 on-ramp. The business is also offering $15 hanging baskets while supplies last.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 07.07.26]]></title>
         <id>https://kqennewsradio.com/?p=149330</id>
