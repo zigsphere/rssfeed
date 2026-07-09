@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-09T18:05:13.847Z</updated>
+    <updated>2026-07-09T20:53:15.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 07.09.26]]></title>
+        <id>https://kqennewsradio.com/?p=149450</id>
+        <link href="https://kqennewsradio.com/2026/07/09/inside-douglas-county-07-09-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-07-09-26"/>
+        <updated>2026-07-09T20:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Timber Operators Executive Director Matt Hill provides an update on the timber industry and the challenges it is facing.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefighters Complete Control Line Around Little Paradise Fire Near Elkton]]></title>
+        <id>6a4fec016cb3f4000178bf49</id>
+        <link href="https://www.theroseburgreceiver.com/firefighters-complete-control-line-around-little-paradise-fire-near-elkton/"/>
+        <updated>2026-07-09T18:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters completed a control line around the 3- to 3.5-acre Little Paradise Fire north of Elkton after working through the night. No structures were threatened, and crews remain on scene extinguishing hot spots.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Log: July 8, 2026]]></title>
+        <id>6a4fea786cb3f4000178bf34</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-july-8-2026/"/>
+        <updated>2026-07-09T18:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police reported 12 incidents in the July 8 patrol log, including a DUII crash into a hotel, theft, prohibited camping, littering, driving while suspended, public drinking, a warrant arrest and improper use of 911.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA HAS LITTLE PARADISE FIRE IN MOP-UP]]></title>
         <id>https://kqennewsradio.com/?p=149443</id>
