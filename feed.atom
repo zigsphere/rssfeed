@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-10T13:41:14.456Z</updated>
+    <updated>2026-07-10T14:46:48.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 10, 2026]]></title>
+        <id>6a50f3ea6cb3f4000178bf9b</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-10-2026/"/>
+        <updated>2026-07-10T13:50:42.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABOVE NORMAL HIGHS EXPECTED FOR NEXT WEEK]]></title>
         <id>https://kqennewsradio.com/?p=149475</id>
