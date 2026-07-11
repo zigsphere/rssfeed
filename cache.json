@@ -549,6 +549,36 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6e019e4a-98bd-4077-b2a7-28f4cb7adf37",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "On July 2, Round Table Pizza officially soft-opened for business at 2040 NW Stewart Parkway in Roseburg, returning to the town after the closure of The Clubhouse by Round Table Pizza in July 2025. Now, the restaurant is preparing for…",
+          "link": "https://www.nrtoday.com/business/new-round-table-pizza-in-roseburg-prepares-for-grand-opening/article_6e019e4a-98bd-4077-b2a7-28f4cb7adf37.html",
+          "publishedOn": "2026-07-10T22:22:00.000Z",
+          "wordCount": 12920,
+          "title": "New Round Table Pizza in Roseburg prepares for grand opening",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b8/3b8ba3e2-b477-4186-a113-44b184188a43/6a51714c6fda3.image.jpg?resize=300%2C200",
+            "length": "364364",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/b8/3b8ba3e2-b477-4186-a113-44b184188a43/6a51714c6fda3.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/c7918fbb-f7f4-4cb7-8660-d7e5208fe6be",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "The sun shone brightly on the fields of Growing Miracles Lavender Garden as crowds weaved their way through bushes of the purple, fragrant shrub for the farm's 9th Annual Lavender Festival.",
+          "link": "https://www.nrtoday.com/news/families-stop-to-smell-the-flowers-at-growing-miracles-9th-annual-lavender-festival/article_c7918fbb-f7f4-4cb7-8660-d7e5208fe6be.html",
+          "publishedOn": "2026-07-10T21:43:00.000Z",
+          "wordCount": 13058,
+          "title": "Families stop to smell the flowers at Growing Miracles 9th Annual Lavender Festival",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/d3/1d36b482-c7db-4a15-a9e4-a41b9b732abe/6a516cee5b6a2.image.jpg?resize=300%2C200",
+            "length": "461633",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/d3/1d36b482-c7db-4a15-a9e4-a41b9b732abe/6a516cee5b6a2.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/e59d47b1-2f06-4d10-9343-88d614c5e794",
           "author": "GLORIA COLEMAN NRToday",
           "description": "Graffiti Weekend kicked off in Roseburg, with events happening all day Thursday mostly along Diamond Lake Blvd, Stephens Street and Harvard Avenue.",
@@ -830,26 +860,6 @@
           "wordCount": 6483,
           "title": "July 8, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-5.png"
-        },
-        {
-          "id": "6a4dd16b6cb3f4000178b8df",
-          "author": "Joseph Ziegler",
-          "description": "Aviva Health and Douglas Education Service District have been selected for up to $5.67 million in federal funding to support rural health projects. Roseburg is also being considered for a separate health care access improvement project.",
-          "link": "https://www.theroseburgreceiver.com/aviva-health-douglas-esd-selected-for-5-67-million-in-rural-health-funding/",
-          "publishedOn": "2026-07-08T04:31:50.000Z",
-          "wordCount": 3467,
-          "title": "Aviva Health, Douglas ESD Selected for $5.67 Million in Rural Health Funding",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/Oregon_health_authority.png"
-        },
-        {
-          "id": "6a4dcab76cb3f4000178b8ba",
-          "author": "Joseph Ziegler",
-          "description": "The Plant Warehouse has reopened at 3362 NW Broad St. in Roseburg, off Edenbower Boulevard near the Interstate 5 on-ramp. The business is also offering $15 hanging baskets while supplies last.",
-          "link": "https://www.theroseburgreceiver.com/the-plant-warehouse-reopens-at-new-roseburg-location/",
-          "publishedOn": "2026-07-08T03:58:44.000Z",
-          "wordCount": 3051,
-          "title": "The Plant Warehouse Reopens at New Roseburg Location",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/741046936_1597153175535356_5994612123400345648_n.jpg"
         }
       ]
     },

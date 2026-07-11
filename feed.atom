@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-11T13:45:41.319Z</updated>
+    <updated>2026-07-11T17:07:46.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -24,6 +24,26 @@
         <summary type="html"><![CDATA[Construction crews will start work on the SE Stephens Street Improvement Project on Monday, July 13.]]></summary>
         <author>
             <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Round Table Pizza in Roseburg prepares for grand opening]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/6e019e4a-98bd-4077-b2a7-28f4cb7adf37</id>
+        <link href="https://www.nrtoday.com/business/new-round-table-pizza-in-roseburg-prepares-for-grand-opening/article_6e019e4a-98bd-4077-b2a7-28f4cb7adf37.html"/>
+        <updated>2026-07-10T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 2, Round Table Pizza officially soft-opened for business at 2040 NW Stewart Parkway in Roseburg, returning to the town after the closure of The Clubhouse by Round Table Pizza in July 2025. Now, the restaurant is preparing for…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Families stop to smell the flowers at Growing Miracles 9th Annual Lavender Festival]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/c7918fbb-f7f4-4cb7-8660-d7e5208fe6be</id>
+        <link href="https://www.nrtoday.com/news/families-stop-to-smell-the-flowers-at-growing-miracles-9th-annual-lavender-festival/article_c7918fbb-f7f4-4cb7-8660-d7e5208fe6be.html"/>
+        <updated>2026-07-10T21:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The sun shone brightly on the fields of Growing Miracles Lavender Garden as crowds weaved their way through bushes of the purple, fragrant shrub for the farm's 9th Annual Lavender Festival.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>
@@ -814,26 +834,6 @@
         <summary type="html"><![CDATA[July 8, 2026 2:50 a.m. The Oregon State University Extension Service Douglas County Master Gardener Association has its Plant Clinic open on weekdays in July. The plant clinic is operated by volunteers who staff the Master Gardener office at the Extension Service located at 1134 Southeast Douglas Avenue, next to the courthouse in Roseburg. They...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aviva Health, Douglas ESD Selected for $5.67 Million in Rural Health Funding]]></title>
-        <id>6a4dd16b6cb3f4000178b8df</id>
-        <link href="https://www.theroseburgreceiver.com/aviva-health-douglas-esd-selected-for-5-67-million-in-rural-health-funding/"/>
-        <updated>2026-07-08T04:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Aviva Health and Douglas Education Service District have been selected for up to $5.67 million in federal funding to support rural health projects. Roseburg is also being considered for a separate health care access improvement project.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Plant Warehouse Reopens at New Roseburg Location]]></title>
-        <id>6a4dcab76cb3f4000178b8ba</id>
-        <link href="https://www.theroseburgreceiver.com/the-plant-warehouse-reopens-at-new-roseburg-location/"/>
-        <updated>2026-07-08T03:58:44.000Z</updated>
-        <summary type="html"><![CDATA[The Plant Warehouse has reopened at 3362 NW Broad St. in Roseburg, off Edenbower Boulevard near the Interstate 5 on-ramp. The business is also offering $15 hanging baskets while supplies last.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
