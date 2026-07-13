@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-13T13:28:19.604Z</updated>
+    <updated>2026-07-13T14:54:10.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Faces Warm, Dry Week as Isolated Thunderstorm Risk Develops]]></title>
+        <id>6a54f0246cb3f4000178c4eb</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-faces-warm-dry-week-as-isolated-thunderstorm-risk-develops/"/>
+        <updated>2026-07-13T14:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Warm, dry weather will continue in Roseburg this week, with temperatures potentially nearing triple digits by Friday. A few isolated thunderstorms could develop Tuesday in eastern Douglas County, bringing lightning and strong wind gusts.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Douglas County Fair Returns to Drain for Three Days of Community Traditions]]></title>
+        <id>6a54eeec6cb3f4000178c4d2</id>
+        <link href="https://www.theroseburgreceiver.com/north-douglas-county-fair-returns-to-drain-for-three-days-of-community-traditions/"/>
+        <updated>2026-07-13T14:01:12.000Z</updated>
+        <summary type="html"><![CDATA[The North Douglas County Fair returns to Drain July 24–26 with a parade, car show, live music, youth activities, contests, exhibits, food and more. The longtime community tradition brings three days of events to the Drain Civic Center.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fire Crews Deploy to East Evans Creek Fire as Blaze Grows Beyond 3,100 Acres]]></title>
+        <id>6a54ee506cb3f4000178c4ba</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-fire-crews-deploy-to-east-evans-creek-fire-as-blaze-grows-beyond-3-100-acres/"/>
+        <updated>2026-07-13T13:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Firefighters from six Douglas County agencies have deployed to the East Evans Creek Fire in Jackson County, where the blaze has grown beyond 3,100 acres and nearly 1,000 personnel are working to protect homes and strengthen control lines.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 13, 2026]]></title>
+        <id>6a546af86cb3f4000178c240</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-13-2026/"/>
+        <updated>2026-07-13T13:42:10.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WARM SEASONAL DRY CONDITIONS CONTINUE THIS WEEK]]></title>
         <id>https://kqennewsradio.com/?p=149534</id>
