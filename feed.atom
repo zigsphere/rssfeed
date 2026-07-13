@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-13T14:54:10.189Z</updated>
+    <updated>2026-07-13T18:02:04.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Domino’s Stores Hosting Customer Appreciation Events This Week]]></title>
+        <id>6a5517356cb3f4000178c544</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-dominos-stores-hosting-customer-appreciation-events-this-week/"/>
+        <updated>2026-07-13T16:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Three locally owned Domino’s stores in Winston, Roseburg and Sutherlin are holding customer appreciation events this week with $5 medium one-topping carryout pizzas, prizes, giveaways and a chance to win free pizza for a year.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Faces Warm, Dry Week as Isolated Thunderstorm Risk Develops]]></title>
         <id>6a54f0246cb3f4000178c4eb</id>
