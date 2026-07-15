@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-15T13:34:35.912Z</updated>
+    <updated>2026-07-15T14:02:16.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South County Rendezvous Brings Free Resources, Meal and Family Activities to Myrtle Creek]]></title>
+        <id>6a5792686cb3f4000178ca38</id>
+        <link href="https://www.theroseburgreceiver.com/south-county-rendezvous-brings-free-resources-meal-and-family-activities-to-myrtle-creek/"/>
+        <updated>2026-07-15T14:01:38.000Z</updated>
+        <summary type="html"><![CDATA[The South County Rendezvous returns to Myrtle Creek on Wednesday with free community resources, clothing, a meal and family activities. Around 30 local organizations will be available from 10 a.m. to 1 p.m. at Harvest Christian Assembly.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 15, 2026]]></title>
+        <id>6a571b4a6cb3f4000178c836</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-15-2026/"/>
+        <updated>2026-07-15T13:55:12.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUNSHINE CONTINUES, COOLER THURSDAY, WARMING TREND STARTS FRIDAY]]></title>
         <id>https://kqennewsradio.com/?p=149641</id>
