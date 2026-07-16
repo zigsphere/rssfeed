@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-16T17:35:23.305Z</updated>
+    <updated>2026-07-16T20:07:34.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cameras, Aircraft, And Drones Give Oregon Firefighters A Technological Edge]]></title>
+        <id>6a59243d6cb3f4000178cd63</id>
+        <link href="https://www.theroseburgreceiver.com/cameras-aircraft-and-drones-give-oregon-firefighters-a-technological-edge/"/>
+        <updated>2026-07-16T18:39:59.000Z</updated>
+        <summary type="html"><![CDATA[The Oregon Department of Forestry is using cameras, drones, aircraft and advanced mapping systems to detect wildfires sooner, improve firefighter safety and strengthen emergency response across the state.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Man Dies After Kayak Overturns On North Umpqua River]]></title>
+        <id>6a59206b6cb3f4000178cd4e</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-man-dies-after-kayak-overturns-on-north-umpqua-river/"/>
+        <updated>2026-07-16T18:19:27.000Z</updated>
+        <summary type="html"><![CDATA[A 64-year-old Roseburg man died after his kayak overturned on the North Umpqua River near Winchester. Authorities said Charles Robert Jensen was pulled from the water and CPR was performed, but he could not be revived.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG MAN DROWNS IN NORTH UMPQUA RIVER]]></title>
+        <id>https://kqennewsradio.com/?p=149716</id>
+        <link href="https://kqennewsradio.com/2026/07/16/roseburg-man-drowns-in-north-umpqua-river/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-man-drowns-in-north-umpqua-river"/>
+        <updated>2026-07-16T17:47:42.000Z</updated>
+        <summary type="html"><![CDATA[July 16, 2026 10:45 a.m.  A Roseburg man drowned in the North Umpqua River on July 9th. A Douglas County Sheriff’s Office report released on Thursday said at about 12:25 p.m. 64-year-old Charles Jensen and a 32-year-old friend were floating down the river Amacher Park to Hestness Landing. Jensen flipped his kayak during the first...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=149712</id>
