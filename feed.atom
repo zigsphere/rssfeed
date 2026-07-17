@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-17T13:56:38.136Z</updated>
+    <updated>2026-07-17T17:19:11.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Original Abby’s Neon Sign Returns To Stephens Street As Historic Parlor Celebrates Major Remodel]]></title>
+        <id>6a5a33e26cb3f4000178cf8c</id>
+        <link href="https://www.theroseburgreceiver.com/original-abbys-neon-sign-returns-to-stephens-street-as-historic-parlor-celebrates-major-remodel/"/>
+        <updated>2026-07-17T14:17:56.000Z</updated>
+        <summary type="html"><![CDATA[One of Abby’s original neon pole signs is returning to the Stephens Street parlor as the historic Roseburg location celebrates a major remodel with a three-day community event, special guests, discounts and the return of its beloved salad bar.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Weekend Forecast Calls For Sunshine And Warmer Temperatures]]></title>
+        <id>6a5a36af6cb3f4000178cfcf</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-weekend-forecast-calls-for-sunshine-and-warmer-temperatures/"/>
+        <updated>2026-07-17T14:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg will see mostly sunny skies and warming temperatures through the weekend, with highs near 85 Friday, 89 Saturday and 91 Sunday. Hot, dry conditions will continue, while smoke may affect parts of eastern Douglas County.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fifth Friday Returns to Downtown Roseburg July 31]]></title>
+        <id>6a5a362e6cb3f4000178cfb8</id>
+        <link href="https://www.theroseburgreceiver.com/fifth-friday-returns-to-downtown-roseburg-july-31/"/>
+        <updated>2026-07-17T14:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Fifth Friday returns to Downtown Roseburg on July 31 with live music, food vendors, refreshments, shopping and special activities inside participating businesses from 5 to 8 p.m.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July 17, 2026]]></title>
         <id>6a5a2dc76cb3f4000178cd8a</id>
