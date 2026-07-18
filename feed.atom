@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-17T23:58:50.450Z</updated>
+    <updated>2026-07-18T13:40:32.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[Roseburg police reported nine incidents in the July 16 log, including two traffic crashes, three warrant arrests, improper use of 911, unlawful possession of inhalants and two prohibited camping cases.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iconic neon sign returns as Abby's Roseburg parlor reopens]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/452947aa-e99f-4ed8-b0bd-a0a0d7662170</id>
+        <link href="https://www.kezi.com/news/local/iconic-neon-sign-returns-as-abbys-roseburg-parlor-reopens/article_452947aa-e99f-4ed8-b0bd-a0a0d7662170.html"/>
+        <updated>2026-07-17T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Abby's Legendary Pizza finished a major remodel of its original Roseburg parlor on Stephens Street and brought back its iconic neon parking lot sign.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -807,16 +817,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Police Log: July 13, 2026]]></title>
-        <id>6a56cbab6cb3f4000178c81d</id>
-        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-july-13-2026/"/>
-        <updated>2026-07-14T23:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg police logged 2 incidents July 13–14: a DUII arrest near a Stephens Street thrift store, and a prohibited camping citation at Gaddis Park. Case numbers, charges and dispositions follow below.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 07.14.26]]></title>
         <id>https://kqennewsradio.com/?p=149618</id>
         <link href="https://kqennewsradio.com/2026/07/14/inside-douglas-county-07-14-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-07-14-26"/>
@@ -844,16 +844,6 @@
         <summary type="html"><![CDATA[July 14, 2026 10:30 a.m.  Roseburg Police jailed a man for an alleged assault incident and for warrants on Saturday. An RPD report said at 5:00 p.m. officers responded to a business in the 2500 block of Northwest Stewart Parkway after learning that a victim had been stuck with a skateboard. The victim sustained minor...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg city council accepts flooding recovery grant funds, discusses city manager recruitment update]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/5c71980f-1f42-463f-8293-69488b822541</id>
-        <link href="https://www.nrtoday.com/news/roseburg-city-council-accepts-flooding-recovery-grant-funds-discusses-city-manager-recruitment-update/article_5c71980f-1f42-463f-8293-69488b822541.html"/>
-        <updated>2026-07-14T17:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In a regular Monday meeting, the Roseburg City Council voted to accept grant funding to cover costs associated with March 2025 flooding recovery and discussed an update to the city manager recruitment process.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>
@@ -914,46 +904,6 @@
         <summary type="html"><![CDATA[July 14, 2026 9:15 a.m.  Roseburg Police jailed a man for theft and a warrant on Sunday. An RPD report said at 5:00 p.m. officers contacted the 50-year-old on Interstate 5 southbound near the Garden Valley Boulevard Milepost 125 exit, as his vehicle was disabled. The man was a suspect in a recent theft and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Library to Host Free Juggling Show for Kids]]></title>
-        <id>6a5647cd6cb3f4000178c801</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-library-to-host-free-juggling-show-for-kids/"/>
-        <updated>2026-07-14T14:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library will host a free juggling and comedy show for children and families at 1 p.m. Tuesday, July 21. JuggleMania performer Rhys Thomas will bring audience participation and plenty of laughs.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Station and Convenience Store Proposed for Former Roseburg Rite Aid Building]]></title>
-        <id>6a5640536cb3f4000178c7e6</id>
-        <link href="https://www.theroseburgreceiver.com/gas-station-and-convenience-store-proposed-for-former-roseburg-rite-aid-building/"/>
-        <updated>2026-07-14T14:00:12.000Z</updated>
-        <summary type="html"><![CDATA[A gas station, convenience store and additional commercial space are proposed for the former Rite Aid building at 444 SE Stephens Street. Roseburg’s Historic Resource Review Commission is scheduled to consider the plans Wednesday.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jujuba Brings Afrobeat And Juju Music To The Half Shell Tonight]]></title>
-        <id>6a563f206cb3f4000178c7cb</id>
-        <link href="https://www.theroseburgreceiver.com/jujuba-brings-afrobeat-and-juju-music-to-the-half-shell-tonight/"/>
-        <updated>2026-07-14T13:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Music on the Half Shell continues Tuesday night as Portland-based Jujuba brings Afrobeat, Juju music and West Coast funk to Stewart Park. The free concert begins at 7 p.m. at the Nichols Band Shell.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 14, 2026]]></title>
-        <id>6a55c4286cb3f4000178c5af</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-14-2026/"/>
-        <updated>2026-07-14T13:46:42.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>
