@@ -532,36 +532,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a9/ea929274-5db2-4b7d-b1d5-3ef734d6477b/6a5949195be02.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2534d7d-4101-4479-a807-09f4e746cc1e",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "In a 5-2 vote on Monday, The Roseburg City Council opted not to pass Resolution No. 2026-16, which included proposed amendments to the city's tent camping rules.",
-          "link": "https://www.nrtoday.com/news/roseburg-city-council-rejects-amendments-to-tent-camping-rules/article_b2534d7d-4101-4479-a807-09f4e746cc1e.html",
-          "publishedOn": "2026-07-15T23:45:00.000Z",
-          "wordCount": 12901,
-          "title": "Roseburg City Council rejects amendments to tent camping rules",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a6/ea6fccfb-4db4-41f7-908f-4728fd383e60/6a58143531844.image.jpg?resize=300%2C225",
-            "length": "367550",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/a6/ea6fccfb-4db4-41f7-908f-4728fd383e60/6a58143531844.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8a7de171-db89-480b-9b8b-5dbd28eca3a7",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Last summer, Brian Prawitz stepped down from the role of Executive Director of the Umpqua Economic Development Partnership, leaving an empty space in the non-profit's leadership. After roughly a year, the non-profit announced that space is filled.",
-          "link": "https://www.nrtoday.com/business/jeana-beam-appointed-as-executive-director-of-umpqua-economic-development-partnership/article_8a7de171-db89-480b-9b8b-5dbd28eca3a7.html",
-          "publishedOn": "2026-07-15T23:09:00.000Z",
-          "wordCount": 12741,
-          "title": "Jeana Beam appointed as Executive Director of Umpqua Economic Development Partnership",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2b/d2bbd1a3-ec0b-4758-88d1-2666cd0bfcf8/6a58134f41f6f.image.jpg?resize=300%2C375",
-            "length": "305785",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/2b/d2bbd1a3-ec0b-4758-88d1-2666cd0bfcf8/6a58134f41f6f.image.jpg?resize=300%2C375"
         }
       ]
     },
@@ -576,6 +546,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a5c27776cb3f4000178d0b1",
+          "author": "Joseph Ziegler",
+          "description": "A 24-year-old Roseburg man was found dead Thursday evening following a single-vehicle motorcycle crash on Roberts Creek Road. Deputies located Jarod Michael Whitlock while investigating a missing-person report.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-killed-in-motorcycle-crash-on-roberts-creek-road/",
+          "publishedOn": "2026-07-19T01:27:12.000Z",
+          "wordCount": 3138,
+          "title": "Roseburg Man Killed In Motorcycle Crash On Roberts Creek Road",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/sheriff-6.png"
+        },
+        {
+          "id": "6a5c25fc6cb3f4000178d096",
+          "author": "Joseph Ziegler",
+          "description": "Rescue crews used a rope system to lift an injured 20-year-old man from the North Umpqua River near Toketee Falls after a roughly 60-foot jump left him with a dislocated shoulder.",
+          "link": "https://www.theroseburgreceiver.com/rescue-crews-pull-injured-man-from-north-umpqua-river-near-toketee-falls/",
+          "publishedOn": "2026-07-19T01:21:09.000Z",
+          "wordCount": 3206,
+          "title": "Rescue Crews Pull Injured Man From North Umpqua River Near Toketee Falls",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/Toketee_Rescue_071726B-1.jpg"
+        },
         {
           "id": "6a5ba7196cb3f4000178d062",
           "author": "Joseph Ziegler",
@@ -715,76 +705,6 @@
           "wordCount": 6366,
           "title": "July 16, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-11.png"
-        },
-        {
-          "id": "6a57f6e16cb3f4000178cac7",
-          "author": "Joseph Ziegler",
-          "description": "Jeana Beam has been named executive director of the Umpqua Economic Development Partnership, where she will lead efforts supporting business growth, workforce development and long-term economic opportunity across Douglas County.",
-          "link": "https://www.theroseburgreceiver.com/jeana-beam-named-executive-director-of-umpqua-economic-development-partnership/",
-          "publishedOn": "2026-07-15T21:10:48.000Z",
-          "wordCount": 3204,
-          "title": "Jeana Beam Named Executive Director of Umpqua Economic Development Partnership",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/jeana_headshot-1.jpg"
-        },
-        {
-          "id": "6a57e8cb6cb3f4000178caaf",
-          "author": "Joseph Ziegler",
-          "description": "Coleen & Co. takes the stage Thursday at Millsite Park for Myrtle Creek’s Music in the Park, bringing Motown, blues-rock, boogie-rock, blue-eyed soul and rock and roll. The free concert runs from 6 to 8:30 p.m.",
-          "link": "https://www.theroseburgreceiver.com/coleen-co-brings-dance-friendly-music-to-millsite-park-thursday/",
-          "publishedOn": "2026-07-15T20:11:13.000Z",
-          "wordCount": 3169,
-          "title": "Coleen & Co. Brings Dance-Friendly Music to Millsite Park Thursday",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/coleenandco.jpg"
-        },
-        {
-          "id": "6a57b0566cb3f4000178ca94",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg police reported five incidents in the July 14 log, including warrant and trespass arrests, assault, prohibited camping and theft. Two entries occurred after midnight on July 15. Date and time entries are listed as provided by police.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-july-14-2026/",
-          "publishedOn": "2026-07-15T16:09:23.000Z",
-          "wordCount": 3641,
-          "title": "Police Log: July 14, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/police_lights2-9.jpg"
-        },
-        {
-          "id": "6a5798796cb3f4000178ca72",
-          "author": "Joseph Ziegler",
-          "description": "Award-winning guitarist and vocalist Ronnie Baker Brooks brings his high-energy blend of Chicago blues, rock, funk and soul to Riverbend Live! in Winston on Friday, July 17. The free concert begins at 7 p.m.",
-          "link": "https://www.theroseburgreceiver.com/ronnie-baker-brooks-brings-chicago-blues-to-riverbend-live-friday/",
-          "publishedOn": "2026-07-15T14:31:37.000Z",
-          "wordCount": 3357,
-          "title": "Ronnie Baker Brooks Brings Chicago Blues To Riverbend Live Friday",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/ronnie-1.png"
-        },
-        {
-          "id": "6a5794436cb3f4000178ca53",
-          "author": "Joseph Ziegler",
-          "description": "Thrive Umpqua and Umpqua Valley Arts will host a free Third Thursday open house July 16 in Roseburg, featuring snacks, beverages and a beginner-friendly Zentangle art activity led by Rain Allen.",
-          "link": "https://www.theroseburgreceiver.com/third-thursday-open-house-brings-free-art-activity-to-umpqua-valley-arts/",
-          "publishedOn": "2026-07-15T14:17:41.000Z",
-          "wordCount": 3140,
-          "title": "Third Thursday Open House Brings Free Art Activity to Umpqua Valley Arts",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/thrive_third_thurs-1-1.jpeg"
-        },
-        {
-          "id": "6a5792686cb3f4000178ca38",
-          "author": "Joseph Ziegler",
-          "description": "The South County Rendezvous returns to Myrtle Creek on Wednesday with free community resources, clothing, a meal and family activities. Around 30 local organizations will be available from 10 a.m. to 1 p.m. at Harvest Christian Assembly.",
-          "link": "https://www.theroseburgreceiver.com/south-county-rendezvous-brings-free-resources-meal-and-family-activities-to-myrtle-creek/",
-          "publishedOn": "2026-07-15T14:01:38.000Z",
-          "wordCount": 3160,
-          "title": "South County Rendezvous Brings Free Resources, Meal and Family Activities to Myrtle Creek",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/748037782_10237048575928579_4916640347844319888_n-1-1.jpg"
-        },
-        {
-          "id": "6a571b4a6cb3f4000178c836",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-15-2026/",
-          "publishedOn": "2026-07-15T13:55:12.000Z",
-          "wordCount": 5602,
-          "title": "July 15, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-10.png"
         }
       ]
     },
