@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-20T13:43:43.145Z</updated>
+    <updated>2026-07-20T14:26:48.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Illinois Man Dies in Boating Incident at Diamond Lake]]></title>
+        <id>6a5e29776cb3f4000178d33a</id>
+        <link href="https://www.theroseburgreceiver.com/illinois-man-dies-in-boating-incident-at-diamond-lake/"/>
+        <updated>2026-07-20T13:59:23.000Z</updated>
+        <summary type="html"><![CDATA[A 71-year-old Illinois man died after falling from a pontoon boat at Diamond Lake. Divers with the Douglas County Sheriff’s Office later recovered his body from the lake.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 20, 2026]]></title>
+        <id>6a5da9846cb3f4000178d0f1</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-20-2026/"/>
+        <updated>2026-07-20T13:44:41.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ABOVE NORMAL TEMPERATURES CONTINUE, HEATING UP TUESDAY AND WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=149854</id>
