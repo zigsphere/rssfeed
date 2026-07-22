@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-22T17:34:27.913Z</updated>
+    <updated>2026-07-22T20:17:24.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12-Year-Old Lodged at Juvenile Detention Following Reported Domestic Assault in Roseburg]]></title>
+        <id>6a61062d6cb3f4000178d99d</id>
+        <link href="https://www.theroseburgreceiver.com/12-year-old-lodged-at-juvenile-detention-following-reported-domestic-assault-in-roseburg/"/>
+        <updated>2026-07-22T18:06:34.000Z</updated>
+        <summary type="html"><![CDATA[A 12-year-old Roseburg boy was lodged at Douglas County Juvenile Detention after police said he admitted to choking and punching his mother during a reported domestic assault on Northeast Stephens Street.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE TAKE 12-YEAR-OLD MALE IN CUSTODY FOR ALLEGED STRANGULATION]]></title>
         <id>https://kqennewsradio.com/?p=149995</id>
