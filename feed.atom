@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-22T13:36:07.827Z</updated>
+    <updated>2026-07-22T14:16:03.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UACT Brings Disney’s ‘Frozen’ to the Roseburg Stage Beginning Thursday]]></title>
+        <id>6a60cdcf6cb3f4000178d8f9</id>
+        <link href="https://www.theroseburgreceiver.com/uact-brings-disneys-frozen-to-the-roseburg-stage-beginning-thursday/"/>
+        <updated>2026-07-22T14:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Actors Community Theatre brings Disney’s “Frozen” to The Rose Theatre beginning July 23, featuring live music, puppetry and special effects. Performances run Thursdays through Sundays until Aug. 2.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 22, 2026]]></title>
+        <id>6a60c5aa6cb3f4000178d6c6</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-22-2026/"/>
+        <updated>2026-07-22T13:51:18.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TUESDAY TIES FOR SECOND HOTTEST DAY OF 2026, COOLER WEATHER EXPECTED]]></title>
         <id>https://kqennewsradio.com/?p=149972</id>
@@ -644,16 +664,6 @@
         <summary type="html"><![CDATA[A pedestrian was killed late Saturday after being struck by a vehicle on Diamond Lake Boulevard in Roseburg. Police said the driver was not injured, is cooperating and the collision does not currently appear criminal in nature.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCUE CREWS EXTRACT INJURED MAN FROM NORTH UMPQUA RIVER FOLLOWING RISKY JUMP]]></title>
-        <id>https://kqennewsradio.com/?p=149825</id>
-        <link href="https://kqennewsradio.com/2026/07/19/rescue-crews-extract-injured-man-from-north-umpqua-river-following-risky-jump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rescue-crews-extract-injured-man-from-north-umpqua-river-following-risky-jump"/>
-        <updated>2026-07-19T01:40:05.000Z</updated>
-        <summary type="html"><![CDATA[July 18, 2026 6:40 p.m.  Rescue crews extracted an injured man from the North Umpqua River following a risky jump on Friday. Undersheriff Brad O’Dell of the Douglas County Sheriff’s Office said on Friday at around 10:30 a.m. 911 dispatchers received a report of the need for medical aid at Toketee Falls after an individual...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

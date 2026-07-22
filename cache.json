@@ -454,16 +454,6 @@
           "wordCount": 1715,
           "title": "FATAL VEHICLE VERSUS PEDESTRIAN SATURDAY NIGHT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=149825",
-          "author": "Kyle Bailey",
-          "description": "July 18, 2026 6:40 p.m.  Rescue crews extracted an injured man from the North Umpqua River following a risky jump on Friday. Undersheriff Brad O’Dell of the Douglas County Sheriff’s Office said on Friday at around 10:30 a.m. 911 dispatchers received a report of the need for medical aid at Toketee Falls after an individual...",
-          "link": "https://kqennewsradio.com/2026/07/19/rescue-crews-extract-injured-man-from-north-umpqua-river-following-risky-jump/?utm_source=rss&utm_medium=rss&utm_campaign=rescue-crews-extract-injured-man-from-north-umpqua-river-following-risky-jump",
-          "publishedOn": "2026-07-19T01:40:05.000Z",
-          "wordCount": 1786,
-          "title": "RESCUE CREWS EXTRACT INJURED MAN FROM NORTH UMPQUA RIVER FOLLOWING RISKY JUMP",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260719003754/Toketee_Rescue_071726B-scaled-e1784425129405.jpg"
         }
       ]
     },
@@ -536,6 +526,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a60cdcf6cb3f4000178d8f9",
+          "author": "Joseph Ziegler",
+          "description": "Umpqua Actors Community Theatre brings Disney’s “Frozen” to The Rose Theatre beginning July 23, featuring live music, puppetry and special effects. Performances run Thursdays through Sundays until Aug. 2.",
+          "link": "https://www.theroseburgreceiver.com/uact-brings-disneys-frozen-to-the-roseburg-stage-beginning-thursday/",
+          "publishedOn": "2026-07-22T14:05:11.000Z",
+          "wordCount": 3252,
+          "title": "UACT Brings Disney’s ‘Frozen’ to the Roseburg Stage Beginning Thursday",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/frozen.jpg"
+        },
+        {
+          "id": "6a60c5aa6cb3f4000178d6c6",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-22-2026/",
+          "publishedOn": "2026-07-22T13:51:18.000Z",
+          "wordCount": 7253,
+          "title": "July 22, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-15.png"
+        },
         {
           "id": "6a6012586cb3f4000178d6a1",
           "author": "Joseph Ziegler",
