@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-24T13:40:19.258Z</updated>
+    <updated>2026-07-24T14:04:03.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[July 24, 2026]]></title>
+        <id>6a6368696cb3f4000178dd7f</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-24-2026/"/>
+        <updated>2026-07-24T13:53:09.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA DEALS WITH VEHICLE FIRE ON FREEWAY NEAR AZALEA]]></title>
         <id>https://kqennewsradio.com/?p=150091</id>
