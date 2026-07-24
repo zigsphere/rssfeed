@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-24T17:45:18.754Z</updated>
+    <updated>2026-07-24T20:26:21.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eyemart Express Reports Cybersecurity Incident Involving Customer Information]]></title>
+        <id>6a63c7036cb3f4000178e018</id>
+        <link href="https://www.theroseburgreceiver.com/eyemart-express-reports-cybersecurity-incident-involving-customer-information/"/>
+        <updated>2026-07-24T20:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Eyemart Express is notifying customers after a cybersecurity incident potentially exposed personal, insurance and prescription information. Some individuals may also have had Social Security numbers involved.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 07.24.26]]></title>
+        <id>https://kqennewsradio.com/?p=150121</id>
+        <link href="https://kqennewsradio.com/2026/07/24/inside-douglas-county-07-24-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-07-24-26"/>
+        <updated>2026-07-24T20:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Live from Gold Beach, State Senator David Brock Smith talks about an economic summit he has been at this week in Canada, his campaign for U.S. Senate, and his current work in the legislature.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile Store at Steelhead Run Plaza to Close]]></title>
+        <id>6a63c5c66cb3f4000178e005</id>
+        <link href="https://www.theroseburgreceiver.com/t-mobile-store-at-steelhead-run-plaza-to-close/"/>
+        <updated>2026-07-24T20:07:26.000Z</updated>
+        <summary type="html"><![CDATA[The T-Mobile store at Steelhead Run Plaza, located at 1122 NW Garden Valley Boulevard, Suite 303, is closing. Store manager Brocke Ness thanked the Roseburg community for supporting the location over the years.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Log: July 23, 2026]]></title>
+        <id>6a63b99b6cb3f4000178dfea</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-july-23-2026/"/>
+        <updated>2026-07-24T19:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported seven incidents in the July 23 patrol log, including two DUII arrests, two warrant arrests, a disorderly conduct case, prohibited camping and harassment.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR ALLEGED HARASSMENT INCIDENTS]]></title>
+        <id>https://kqennewsradio.com/?p=150117</id>
+        <link href="https://kqennewsradio.com/2026/07/24/roseburg-police-jail-woman-for-alleged-harassment-incidents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-alleged-harassment-incidents"/>
+        <updated>2026-07-24T17:49:18.000Z</updated>
+        <summary type="html"><![CDATA[July 24, 2026 10:50 a.m.  Roseburg Police jailed a woman for an alleged harassment incident on Thursday evening. An RPD report said at 10:15 p.m. officers responded after a disturbance was called in, in the 200 block of Southeast Pine Street. A victim claimed the 32-year-old had hit her after an argument. The suspect then...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR DUII/RECKLESSLY ENDANGERING]]></title>
         <id>https://kqennewsradio.com/?p=150114</id>
@@ -1116,16 +1166,6 @@ The post Northrim BanCorp, Inc. Signs Definitive Agreement to Acquire PBCO Finan
         <summary type="html"><![CDATA[July 21, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: In a Landscape will present a classical music concert at Mildred Kanipe Memorial Park in the Oakland area on Thursday August 27th at 5:00 p.m. The Douglas County concert is one of 50 concerts the non-profit organization is presenting across 5 western states and in...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Betty Boop Drive-In brings American classics, 50's pastiche to Dillard]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/0b94a14c-d5b1-4711-8ef9-ebdd0ecc80d1</id>
-        <link href="https://www.nrtoday.com/business/betty-boop-drive-in-brings-american-classics-50s-pastiche-to-dillard/article_0b94a14c-d5b1-4711-8ef9-ebdd0ecc80d1.html"/>
-        <updated>2026-07-20T20:22:00.000Z</updated>
-        <summary type="html"><![CDATA[For 16 years, the Cooksey family has served up American classics to hungry diners across Southern Oregon. Now, they have expanded their cooking to Dillard with a new establishment: The Betty Boop Drive-In.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>
