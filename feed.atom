@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-25T20:13:42.342Z</updated>
+    <updated>2026-07-26T00:07:11.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oregon Health Authority awards over $5 million to Aviva Health for dental, health record initiatives]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/dbd5792a-25cb-4630-a6a8-ba3cc4c8a41b</id>
+        <link href="https://www.nrtoday.com/news/oregon-health-authority-awards-over-5-million-to-aviva-health-for-dental-health-record-initiatives/article_dbd5792a-25cb-4630-a6a8-ba3cc4c8a41b.html"/>
+        <updated>2026-07-24T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oregon Health Authority (OHA) has awarded Aviva Health over $5 million from its Rural Health Transformation Program's Catalyst Awards for two initiatives, one focused on dental care and another on health records.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eyemart Express Reports Cybersecurity Incident Involving Customer Information]]></title>
         <id>6a63c7036cb3f4000178e018</id>
@@ -856,26 +866,6 @@ The post Northrim BanCorp, Inc. Signs Definitive Agreement to Acquire PBCO Finan
         <summary type="html"><![CDATA[July 22, 2026 2:50 a.m.  The North Douglas County Fair is happening this Friday through Sunday at the Drain Civic Center. Organizers say the fair began in 1922 and is the oldest continuous fair in the State of Oregon. The event is a joint effort of the communities of Yoncalla, Elkton, Rice Hill, Scottsburg and...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two new cases of rabies identified in Douglas County bats]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/273c101b-5422-405c-b60f-83f243da3a7d</id>
-        <link href="https://www.nrtoday.com/news/two-new-cases-of-rabies-identified-in-douglas-county-bats/article_273c101b-5422-405c-b60f-83f243da3a7d.html"/>
-        <updated>2026-07-21T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Two more bats in the Douglas County have tested positive for rabies following a previous case in May, increasing the total identified cases in bats in Oregon this year to 19.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UACT brings Disney phenomenon "Frozen" to the stage]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/d07d3168-ca27-4903-ab58-9a0678c97d90</id>
-        <link href="https://www.nrtoday.com/a_and_e/uact-brings-disney-phenomenon-frozen-to-the-stage/article_d07d3168-ca27-4903-ab58-9a0678c97d90.html"/>
-        <updated>2026-07-21T17:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Chances are families were going to theaters in 2013, they were going to see Disney's "Frozen," a smash hit which grossed billions worldwide. Now, the Umpqua Actors Community Theatre welcomes audiences to experience the story in a new way: On…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>

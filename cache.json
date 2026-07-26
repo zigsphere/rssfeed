@@ -569,6 +569,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/dbd5792a-25cb-4630-a6a8-ba3cc4c8a41b",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "The Oregon Health Authority (OHA) has awarded Aviva Health over $5 million from its Rural Health Transformation Program's Catalyst Awards for two initiatives, one focused on dental care and another on health records.",
+          "link": "https://www.nrtoday.com/news/oregon-health-authority-awards-over-5-million-to-aviva-health-for-dental-health-record-initiatives/article_dbd5792a-25cb-4630-a6a8-ba3cc4c8a41b.html",
+          "publishedOn": "2026-07-24T22:31:00.000Z",
+          "wordCount": 12772,
+          "title": "Oregon Health Authority awards over $5 million to Aviva Health for dental, health record initiatives",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5f/55f45432-e7c5-4426-9a1d-e078b9337a92/688023b169225.image.jpg?resize=300%2C200",
+            "length": "312348",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/5f/55f45432-e7c5-4426-9a1d-e078b9337a92/688023b169225.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/f4463505-2eae-48e7-ac90-6879cfe75dbe",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "After roughly 3 months since KC Bolton stepped down as CEO of Aviva Health and Patrick Hull stepped in as interim CEO, the organization announced today via press release it has appointed Dr. Jay Richards as interim CEO as they…",
@@ -597,36 +612,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/84/884ff155-3191-4c51-a91e-96f635f625ad/6a0360f660c83.image.jpg?resize=300%2C199"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/273c101b-5422-405c-b60f-83f243da3a7d",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Two more bats in the Douglas County have tested positive for rabies following a previous case in May, increasing the total identified cases in bats in Oregon this year to 19.",
-          "link": "https://www.nrtoday.com/news/two-new-cases-of-rabies-identified-in-douglas-county-bats/article_273c101b-5422-405c-b60f-83f243da3a7d.html",
-          "publishedOn": "2026-07-21T22:05:00.000Z",
-          "wordCount": 12725,
-          "title": "Two new cases of rabies identified in Douglas County bats",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fd/afd9e8b2-fb73-4bd4-ae45-fa97eb22d4bf/671bc3ca21227.image.jpg?resize=300%2C275",
-            "length": "79026",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/fd/afd9e8b2-fb73-4bd4-ae45-fa97eb22d4bf/671bc3ca21227.image.jpg?resize=300%2C275"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/d07d3168-ca27-4903-ab58-9a0678c97d90",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Chances are families were going to theaters in 2013, they were going to see Disney's \"Frozen,\" a smash hit which grossed billions worldwide. Now, the Umpqua Actors Community Theatre welcomes audiences to experience the story in a new way: On…",
-          "link": "https://www.nrtoday.com/a_and_e/uact-brings-disney-phenomenon-frozen-to-the-stage/article_d07d3168-ca27-4903-ab58-9a0678c97d90.html",
-          "publishedOn": "2026-07-21T17:59:00.000Z",
-          "wordCount": 13382,
-          "title": "UACT brings Disney phenomenon \"Frozen\" to the stage",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/94/894fda0e-768d-4dd6-b1f0-1738175b760d/6a5fd5036e1a0.image.jpg?resize=300%2C200",
-            "length": "280413",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/94/894fda0e-768d-4dd6-b1f0-1738175b760d/6a5fd5036e1a0.image.jpg?resize=300%2C200"
         }
       ]
     },
