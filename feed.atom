@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-29T13:41:08.603Z</updated>
+    <updated>2026-07-29T14:27:04.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Castle Fire Remains Uncontained as Crews Prepare for Gusty, Hot Conditions]]></title>
+        <id>6a6a0a0b6cb3f4000178e875</id>
+        <link href="https://www.theroseburgreceiver.com/castle-fire-remains-uncontained-as-crews-prepare-for-gusty-hot-conditions/"/>
+        <updated>2026-07-29T14:15:12.000Z</updated>
+        <summary type="html"><![CDATA[The Castle Fire remains at 1,550 acres with 0% containment northeast of Tiller. More than 400 personnel are assigned as crews prepare for hot, dry and gusty conditions. Several forest roads and South Umpqua Falls remain closed.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 29, 2026]]></title>
+        <id>6a6a00d96cb3f4000178e657</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-29-2026/"/>
+        <updated>2026-07-29T13:56:02.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MERKLEY, WYDEN PRESS FEMA ON DENIAL OF EMERGENCY ASSISTANCE]]></title>
         <id>https://kqennewsradio.com/?p=150257</id>
