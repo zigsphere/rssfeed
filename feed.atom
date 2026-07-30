@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-30T13:35:45.681Z</updated>
+    <updated>2026-07-30T14:24:56.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Council Approves Citywide LED Streetlight Conversion, Grandview Drainage Project]]></title>
+        <id>6a6b56ac6cb3f4000178eb66</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-council-approves-citywide-led-streetlight-conversion-grandview-drainage-project/"/>
+        <updated>2026-07-30T13:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg approved a citywide LED streetlight conversion and a Grandview Drive stormwater project. The upgrades are expected to lower energy costs and reduce runoff affecting nearby properties.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 30, 2026]]></title>
+        <id>6a6b50d86cb3f4000178e954</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-30-2026/"/>
+        <updated>2026-07-30T13:42:33.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CASTLE FIRE AT 1,727 ACRES – LIGHTNING CAUSED]]></title>
         <id>https://kqennewsradio.com/?p=150305</id>
