@@ -559,6 +559,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6ef533ba-c80c-416f-b4d5-cd2d631f7269",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In a regular Monday meeting, the Roseburg City Council passed motions pushing forward two city infrastructure improvement projects, one to replace city street lighting with LEDs and another to improve storm infrastructure on Grandview Drive.",
+          "link": "https://www.nrtoday.com/news/city-of-roseburg-moves-forward-with-streetlight-led-conversion-grandview-drive-storm-water-improvement-projects/article_6ef533ba-c80c-416f-b4d5-cd2d631f7269.html",
+          "publishedOn": "2026-07-29T18:29:00.000Z",
+          "wordCount": 12899,
+          "title": "City of Roseburg moves forward with Streetlight LED Conversion, Grandview Drive Storm Water Improvement projects",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/c7/0c7dfff7-9a73-4e4f-86ac-32a78d2604fc/6a6904eadff14.image.jpg?resize=300%2C200",
+            "length": "310750",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/c7/0c7dfff7-9a73-4e4f-86ac-32a78d2604fc/6a6904eadff14.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/4f6e9a55-d2e0-4eb2-b334-f0de706755e3",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Splitz Bar and Grill wad damaged this morning after an electrical fire caused large amounts of smoke to accumulate inside the bowling-themed eatery.",
@@ -616,6 +631,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a6a904c6cb3f4000178e8e6",
+          "author": "The Roseburg Receiver",
+          "description": "The City of Roseburg will host six city manager candidates Aug. 4-6 as part of its interview process. A public reception is scheduled from 5 to 7 p.m. Aug. 4 at the Roseburg Public Safety Center.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-invites-public-to-meet-six-city-manager-candidates/",
+          "publishedOn": "2026-07-29T23:52:42.000Z",
+          "wordCount": 3126,
+          "title": "Roseburg Invites Public to Meet Six City Manager Candidates",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/roseburg_logo.png"
+        },
+        {
+          "id": "6a6a73c96cb3f4000178e8c5",
+          "author": "The Roseburg Receiver",
+          "description": "FEMA has denied Oregon's requests for federal firefighting assistance grants for the East Evans Creek Fire and Rowe Creek Fire Complex while approving three other wildfire requests. Oregon lawmakers are seeking an explanation for the differing decisions.",
+          "link": "https://www.theroseburgreceiver.com/fema-denies-federal-firefighting-assistance-for-two-major-oregon-wildfires/",
+          "publishedOn": "2026-07-29T21:47:51.000Z",
+          "wordCount": 3736,
+          "title": "FEMA Denies Federal Firefighting Assistance for Two Major Oregon Wildfires",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/749355682_1388898896748496_5508779815742222851_n-1.jpg"
+        },
         {
           "id": "6a6a27926cb3f4000178e8a8",
           "author": "Joseph Ziegler",
