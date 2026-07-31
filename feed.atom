@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-31T13:44:33.738Z</updated>
+    <updated>2026-07-31T14:27:27.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Riverbend Live Closes 30th Anniversary Season With ‘Into the Woods Jr.’]]></title>
+        <id>6a6ca8c36cb3f4000178ee6e</id>
+        <link href="https://www.theroseburgreceiver.com/riverbend-live-closes-30th-anniversary-season-with-into-the-woods-jr/"/>
+        <updated>2026-07-31T13:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Riverbend Live! closes its 30th anniversary season this weekend with two free performances of Into the Woods Jr. by its Youth Theater. Shows begin at 7 p.m. Friday and Saturday at Riverbend Park in Winston.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 31, 2026]]></title>
+        <id>6a6ca4416cb3f4000178ec65</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/july-31-2026/"/>
+        <updated>2026-07-31T13:47:33.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WARM FRIDAY, WEEKEND COOLS, THEN TEMPERATURES CLIMB]]></title>
         <id>https://kqennewsradio.com/?p=150363</id>
@@ -924,26 +944,6 @@
         <summary type="html"><![CDATA[July 28, 2026 2:50 a.m.  In the KQEN Cultural Spotlight: IN A LANDSCAPE: Classical Music in the Wild is an outdoor concert series where America’s most stunning landscapes replace a traditional concert hall. A 9-foot Steinway grand piano travels on a flatbed trailer to state and National Parks, urban green spaces, working ranches and historical...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage Street Fair Brings Small-Town Charm to Historic Oakland]]></title>
-        <id>6a6807ab6cb3f4000178e32a</id>
-        <link href="https://www.theroseburgreceiver.com/vintage-street-fair-brings-small-town-charm-to-historic-oakland/"/>
-        <updated>2026-07-28T01:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Historic downtown Oakland came alive Saturday as the Vintage Street Fair brought together vendors, classic cars, food, family activities and small-town charm. The Roseburg Plug stopped by to take in the celebration and support the community.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1892 Social Club combines Oakland history, fine liquor and speakeasy atmosphere]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/39d4f832-a42b-4e7a-8797-2ff9c61fc7a9</id>
-        <link href="https://www.nrtoday.com/business/1892-social-club-combines-oakland-history-fine-liquor-and-speakeasy-atmosphere/article_39d4f832-a42b-4e7a-8797-2ff9c61fc7a9.html"/>
-        <updated>2026-07-27T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[For more than a century, Oakland's historic 1892 E.G. Young building has stood on Locust Street, long after its status as a commercial hub became local history. Now, one pair of owners are aiming to breathe life into the space…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>

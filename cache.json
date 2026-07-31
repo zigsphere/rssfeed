@@ -692,21 +692,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/82/582854ae-9164-4523-a5ed-60769e6db1f5/6a6904f08061e.image.jpg?resize=300%2C200"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/39d4f832-a42b-4e7a-8797-2ff9c61fc7a9",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "For more than a century, Oakland's historic 1892 E.G. Young building has stood on Locust Street, long after its status as a commercial hub became local history. Now, one pair of owners are aiming to breathe life into the space…",
-          "link": "https://www.nrtoday.com/business/1892-social-club-combines-oakland-history-fine-liquor-and-speakeasy-atmosphere/article_39d4f832-a42b-4e7a-8797-2ff9c61fc7a9.html",
-          "publishedOn": "2026-07-27T18:01:00.000Z",
-          "wordCount": 13249,
-          "title": "1892 Social Club combines Oakland history, fine liquor and speakeasy atmosphere",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b1aca2d-d94e-425f-808f-b308e7318653/6a67a9dc4cc69.image.jpg?resize=300%2C200",
-            "length": "432521",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/b1/0b1aca2d-d94e-425f-808f-b308e7318653/6a67a9dc4cc69.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -721,6 +706,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a6ca8c36cb3f4000178ee6e",
+          "author": "The Roseburg Receiver",
+          "description": "Riverbend Live! closes its 30th anniversary season this weekend with two free performances of Into the Woods Jr. by its Youth Theater. Shows begin at 7 p.m. Friday and Saturday at Riverbend Park in Winston.",
+          "link": "https://www.theroseburgreceiver.com/riverbend-live-closes-30th-anniversary-season-with-into-the-woods-jr/",
+          "publishedOn": "2026-07-31T13:54:23.000Z",
+          "wordCount": 3254,
+          "title": "Riverbend Live Closes 30th Anniversary Season With ‘Into the Woods Jr.’",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/8fc219fb-e367-4168-b8d0-fa240e5aa28e.png"
+        },
+        {
+          "id": "6a6ca4416cb3f4000178ec65",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/july-31-2026/",
+          "publishedOn": "2026-07-31T13:47:33.000Z",
+          "wordCount": 6305,
+          "title": "July 31, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-22.png"
+        },
         {
           "id": "6a6beb7c6cb3f4000178ec47",
           "author": "Joseph Ziegler",
@@ -970,16 +975,6 @@
           "wordCount": 6461,
           "title": "July 28, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/07/The-Morning-Scoop-19.png"
-        },
-        {
-          "id": "6a6807ab6cb3f4000178e32a",
-          "author": "Joseph Ziegler",
-          "description": "Historic downtown Oakland came alive Saturday as the Vintage Street Fair brought together vendors, classic cars, food, family activities and small-town charm. The Roseburg Plug stopped by to take in the celebration and support the community.",
-          "link": "https://www.theroseburgreceiver.com/vintage-street-fair-brings-small-town-charm-to-historic-oakland/",
-          "publishedOn": "2026-07-28T01:44:25.000Z",
-          "wordCount": 3259,
-          "title": "Vintage Street Fair Brings Small-Town Charm to Historic Oakland",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/07/street_fair.png"
         }
       ]
     },
