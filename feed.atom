@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-07-31T20:24:53.852Z</updated>
+    <updated>2026-08-01T00:07:52.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rogue Credit Union Expands Partnership With UCC to Support New Track Facility]]></title>
+        <id>6a6d1ccc6cb3f4000178eee8</id>
+        <link href="https://www.theroseburgreceiver.com/rogue-credit-union-expands-partnership-with-ucc-to-support-new-track-facility/"/>
+        <updated>2026-07-31T22:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Rogue Credit Union has entered a five-year partnership with Umpqua Community College to support its new track and field complex, which will serve student-athletes, youth programs, local events and community recreation.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Injured in Four-Vehicle Crash South of Roseburg; Driver Cited]]></title>
+        <id>6a6d1bab6cb3f4000178eece</id>
+        <link href="https://www.theroseburgreceiver.com/three-injured-in-four-vehicle-crash-south-of-roseburg-driver-cited/"/>
+        <updated>2026-07-31T22:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Three people were injured in a four-vehicle crash Thursday afternoon on Old Highway 99 South near Roseburg. A 63-year-old driver was cited on several charges, including felony DUII and second-degree assault.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 07.31.26]]></title>
         <id>https://kqennewsradio.com/?p=150388</id>
