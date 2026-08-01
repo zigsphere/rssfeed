@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-01T17:09:56.757Z</updated>
+    <updated>2026-08-01T20:13:51.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CASTLE FIRE APPROACHING 2,300 ACRES, 8 PERCENT CONTAINED]]></title>
+        <id>https://kqennewsradio.com/?p=150400</id>
+        <link href="https://kqennewsradio.com/2026/08/01/castle-fire-approaching-2300-acres-8-percent-contained/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=castle-fire-approaching-2300-acres-8-percent-contained"/>
+        <updated>2026-08-01T17:41:38.000Z</updated>
+        <summary type="html"><![CDATA[August 1, 2026 10:40 a.m.  The Castle Fire burning on the Umpqua National Forest is at 2,295 acres and 8 percent contained as of Saturday morning. It is located 23 miles northeast of Tiller. An update from California Incident Management Team 3 said the past 24 hours showed increased fire behavior, with some spotting and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CASTLE FIRE CLOSURE AREA HAS EXPANDED, UMPQUA NATIONAL FORES T]]></title>
         <id>https://kqennewsradio.com/?p=150394</id>
