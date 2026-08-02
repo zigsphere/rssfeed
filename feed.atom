@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-02T17:10:24.882Z</updated>
+    <updated>2026-08-02T20:15:11.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Downtown Roseburg Comes Alive During Fifth Friday Event]]></title>
+        <id>6a6ee3856cb3f4000178ef20</id>
+        <link href="https://www.theroseburgreceiver.com/downtown-roseburg-comes-alive-during-fifth-friday-event/"/>
+        <updated>2026-08-02T18:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Downtown Roseburg drew crowds Friday for Fifth Friday, featuring local businesses, food, live music and the Vacant to Vibrant art project, which transforms empty storefronts into community displays.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR REPORTED CRIMINAL MISCHIEF INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=150411</id>
