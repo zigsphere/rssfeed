@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-04T13:33:14.759Z</updated>
+    <updated>2026-08-04T14:34:34.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jackie Venson Brings Genre-Blending Guitar Work To Music On The Half Shell Tonight]]></title>
+        <id>6a71f3666cb3f4000178f522</id>
+        <link href="https://www.theroseburgreceiver.com/jackie-venson-brings-genre-blending-guitar-work-to-music-on-the-half-shell-tonight/"/>
+        <updated>2026-08-04T14:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Austin guitarist, vocalist and songwriter Jackie Venson brings her blend of blues, rock, soul, funk and R&B to Music on the Half Shell tonight at 7 p.m. at Stewart Park. The concert is free.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Flag Warning Issued for Umpqua Basin and Southern Oregon]]></title>
+        <id>6a71efc06cb3f4000178f50c</id>
+        <link href="https://www.theroseburgreceiver.com/red-flag-warning-issued-for-umpqua-basin-and-southern-oregon/"/>
+        <updated>2026-08-04T14:00:24.000Z</updated>
+        <summary type="html"><![CDATA[A Red Flag Warning is in effect Wednesday afternoon and evening for the Umpqua Basin and Umpqua National Forest. Gusty winds, very low humidity and unstable conditions could cause any new or existing fires to spread rapidly.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Advisory Remains In Effect For Umpqua Valley Through Wednesday Night]]></title>
+        <id>6a71ee806cb3f4000178f4f0</id>
+        <link href="https://www.theroseburgreceiver.com/heat-advisory-remains-in-effect-for-umpqua-valley-through-wednesday-night/"/>
+        <updated>2026-08-04T13:53:09.000Z</updated>
+        <summary type="html"><![CDATA[A heat advisory remains in effect for the Umpqua Valley through 11 p.m. Wednesday, with highs of 95 to 100 degrees. The National Weather Service warns smoke may make it harder to cool homes overnight.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 4, 2026]]></title>
+        <id>6a71e8066cb3f4000178f2cf</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/august-4-2026/"/>
+        <updated>2026-08-04T13:49:23.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEAT ADVISORY FROM 11:00 AM. TUESDAY THROUGH 11:00 P.M. WEDNESDAY]]></title>
         <id>https://kqennewsradio.com/?p=150496</id>
