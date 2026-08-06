@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=150603",
+          "author": "Kyle Bailey",
+          "description": "August 5, 2026 4:00 p.m.   Steve Loosley has announced his candidacy for Mayor of Roseburg in the November General Election. A release issued Wednesday said Loosley is running on a platform focused on building a better community for Roseburg residents. Loosley said, “I’m running for mayor to start a new conversation in Roseburg, one focused...",
+          "link": "https://kqennewsradio.com/2026/08/05/steve-loosley-announces-candidacy-for-mayor-of-roseburg/?utm_source=rss&utm_medium=rss&utm_campaign=steve-loosley-announces-candidacy-for-mayor-of-roseburg",
+          "publishedOn": "2026-08-05T23:02:54.000Z",
+          "wordCount": 1720,
+          "title": "STEVE LOOSLEY ANNOUNCES CANDIDACY FOR MAYOR OF ROSEBURG",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260805220235/Steve-3.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=150601",
+          "author": "Kyle Bailey",
+          "description": "August 5, 2026 1:30 p.m.    Roseburg Police jailed a woman for fraud charges on Tuesday, following a previous incident. An RPD report said at 4:00 p.m. officers contacted 47-year-old Kiann Koeneman-Currie during a traffic stop in the 1600 block of Northwest Keasey Street and recalled that probable cause existed for her arrest. Koeneman-Currie admitted...",
+          "link": "https://kqennewsradio.com/2026/08/05/roseburg-police-jail-woman-for-fraud-charges-from-previous-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-woman-for-fraud-charges-from-previous-incident",
+          "publishedOn": "2026-08-05T20:38:14.000Z",
+          "wordCount": 1623,
+          "title": "ROSEBURG POLICE JAIL WOMAN FOR FRAUD CHARGES FROM PREVIOUS INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=150596",
           "author": "Kyle Bailey",
           "description": "Live from the Douglas County Fair, Logan Bennet and Kalee Paxton from the Oregon State University Extension Service talk about what’s happening at their booth, and share summer ag information.",
@@ -568,6 +588,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6f3e0599-7a7c-4631-b045-cd230179ac22",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "On Tuesday evening, The City of Roseburg finally unveiled its six city manager candidates in an open house event, the first step in its interviewing process to hire an official for the position.",
+          "link": "https://www.nrtoday.com/news/roseburg-holds-open-house-unveiling-city-manager-candidates/article_6f3e0599-7a7c-4631-b045-cd230179ac22.html",
+          "publishedOn": "2026-08-05T02:35:00.000Z",
+          "wordCount": 13790,
+          "title": "Roseburg holds open house unveiling city manager candidates",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/7b/07b740e1-2711-4ca2-bbac-0e6726c23eb1/6a738ab42f033.image.jpg?resize=300%2C200",
+            "length": "373886",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/0/7b/07b740e1-2711-4ca2-bbac-0e6726c23eb1/6a738ab42f033.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/cf334a8f-fbbb-4b4b-abbd-9f2dcf21706e",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In just an afternoon, Roseburg went from vibrant summer blue to a film of hazy grey as smoky air blew in Monday. Similar conditions are expected across the week.",
+          "link": "https://www.nrtoday.com/news/smoky-air-conditions-forecasted-for-remainder-of-week-in-douglas-county/article_cf334a8f-fbbb-4b4b-abbd-9f2dcf21706e.html",
+          "publishedOn": "2026-08-04T20:46:00.000Z",
+          "wordCount": 12787,
+          "title": "Smoky air conditions forecasted for remainder of week in Douglas County",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/6a/76a041ee-16fa-49ae-b29f-6ab9c31d19d6/6a72500d473a6.image.png?resize=300%2C201",
+            "length": "2913686",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/6a/76a041ee-16fa-49ae-b29f-6ab9c31d19d6/6a72500d473a6.image.png?resize=300%2C201"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/ef15ab3b-93d4-4b5b-a725-73ec0381c9f5",
           "author": "ANDREW GRIFFIN NR Today",
