@@ -659,6 +659,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/6429f8ae-958c-4b2e-9281-f23ef7a127c2",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Smoky air and hot weather couldn't keep crowds away from the Douglas County Fair on its opening day as a steady stream of attendees spent their afternoon at the annual event.",
+          "link": "https://www.nrtoday.com/news/crowds-gather-for-rides-food-and-livestock-at-first-day-of-douglas-county-fair/article_6429f8ae-958c-4b2e-9281-f23ef7a127c2.html",
+          "publishedOn": "2026-08-05T23:45:00.000Z",
+          "wordCount": 13143,
+          "title": "Crowds gather for rides, food and livestock at first day of Douglas County Fair",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0a/10a18723-9792-48de-8ed8-4f4873f53bfc/6a73cdff994b1.image.jpg?resize=300%2C200",
+            "length": "494013",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/0a/10a18723-9792-48de-8ed8-4f4873f53bfc/6a73cdff994b1.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6f3e0599-7a7c-4631-b045-cd230179ac22",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "On Tuesday evening, The City of Roseburg finally unveiled its six city manager candidates in an open house event, the first step in its interviewing process to hire an official for the position.",
@@ -727,6 +742,46 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a7497ca6cb3f4000178fb73",
+          "author": "Joseph Ziegler",
+          "description": "Roll On brings the music of Alabama to Sutherlin Central Park tonight for the final Music Off Central concert of the summer. Food trucks open at 5:30 p.m., with the free concert running from 7 to 9 p.m.",
+          "link": "https://www.theroseburgreceiver.com/roll-on-brings-alabamas-country-classics-to-sutherlin-tonight/",
+          "publishedOn": "2026-08-06T14:21:49.000Z",
+          "wordCount": 3248,
+          "title": "Roll On Brings Alabama’s Country Classics to Sutherlin Tonight",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/08/cf21ed_a2aad0d3735a44ae80696d184ceb0682mv2-1.webp"
+        },
+        {
+          "id": "6a7493836cb3f4000178fb59",
+          "author": "Joseph Ziegler",
+          "description": "Fire danger has increased to “very high” across the Umpqua National Forest as hotter, drier conditions settle in. Stage 2 restrictions remain in effect, limiting campfires, chainsaw use, off-road travel, smoking, welding and other activities.",
+          "link": "https://www.theroseburgreceiver.com/fire-danger-raised-to-very-high-on-umpqua-national-forest/",
+          "publishedOn": "2026-08-06T14:01:56.000Z",
+          "wordCount": 3254,
+          "title": "Fire Danger Raised To ‘Very High’ On Umpqua National Forest",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/08/763120196_1025828767118306_1892147649783410762_n-1.jpeg"
+        },
+        {
+          "id": "6a7492c46cb3f4000178fb3d",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg reached 99 degrees Wednesday, tying the city’s hottest temperature of 2026. The same high was recorded June 15, meaning Roseburg has now fallen one degree short of its first triple-digit day twice this year.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-ties-years-high-at-99-still-awaits-first-100-degree-day/",
+          "publishedOn": "2026-08-06T13:59:26.000Z",
+          "wordCount": 3118,
+          "title": "Roseburg Ties Year’s High At 99, Still Awaits First 100-Degree Day",
+          "imageUrl": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdlYXRoZXIlMjBzdW58ZW58MHx8fHwxNzg2MDI0NzM3fDA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6a748ade6cb3f4000178f91c",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/august-6-2026/",
+          "publishedOn": "2026-08-06T13:50:36.000Z",
+          "wordCount": 7068,
+          "title": "August 6, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/08/The-Morning-Scoop-3.png"
+        },
         {
           "id": "6a737e8a6cb3f4000178f8d3",
           "author": "Joseph Ziegler",
