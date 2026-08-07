@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-07T19:55:04.152Z</updated>
+    <updated>2026-08-07T23:40:34.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Statewide Wildfire Assistance Hotline Available Around the Clock for Oregonians]]></title>
+        <id>6a765db26cb3f4000178fec6</id>
+        <link href="https://www.theroseburgreceiver.com/statewide-wildfire-assistance-hotline-available-around-the-clock-for-oregonians/"/>
+        <updated>2026-08-07T22:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Oregonians affected by wildfires, evacuations or wildfire smoke can call a statewide assistance hotline 24/7 at 1-833-669-0554 for help identifying available resources and next steps.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Ground Productions Hopes To Create A New Stage For Douglas County Talent]]></title>
         <id>6a7633346cb3f4000178fe9c</id>
@@ -194,6 +204,16 @@
         <summary type="html"><![CDATA[Despite smoky, hot conditions, the Douglas County Fair is still drawing crowds, but fairgoers, animals, and workers are being urged to stay hydrated, monitor air quality, and take precautions as first responders report some heat-related incidents.]]></summary>
         <author>
             <name>Tyson Palodichuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Creek residents, local organizations to put on Millsite Park suicide awareness walk]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/45c6f152-2a5f-4fb7-8bed-1717b4acfb6e</id>
+        <link href="https://www.nrtoday.com/news/myrtle-creek-residents-local-organizations-to-put-on-millsite-park-suicide-awareness-walk/article_45c6f152-2a5f-4fb7-8bed-1717b4acfb6e.html"/>
+        <updated>2026-08-06T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[A local graduate’s wish to bring attention to suicide is coming true this Saturday as a team of Myrtle Creek residents and local organizations are partnering for the Better With YOU Here Suicide Awareness Color Walk.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>

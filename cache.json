@@ -589,6 +589,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/45c6f152-2a5f-4fb7-8bed-1717b4acfb6e",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A local graduate’s wish to bring attention to suicide is coming true this Saturday as a team of Myrtle Creek residents and local organizations are partnering for the Better With YOU Here Suicide Awareness Color Walk.",
+          "link": "https://www.nrtoday.com/news/myrtle-creek-residents-local-organizations-to-put-on-millsite-park-suicide-awareness-walk/article_45c6f152-2a5f-4fb7-8bed-1717b4acfb6e.html",
+          "publishedOn": "2026-08-06T18:38:00.000Z",
+          "wordCount": 12933,
+          "title": "Myrtle Creek residents, local organizations to put on Millsite Park suicide awareness walk",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/dc/bdcff513-27cc-4358-ab51-1dc660c4c2cf/66a5a1e2b2f68.image.jpg?resize=300%2C200",
+            "length": "752217",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/dc/bdcff513-27cc-4358-ab51-1dc660c4c2cf/66a5a1e2b2f68.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/6429f8ae-958c-4b2e-9281-f23ef7a127c2",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "Smoky air and hot weather couldn't keep crowds away from the Douglas County Fair on its opening day as a steady stream of attendees spent their afternoon at the annual event.",
@@ -657,6 +672,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6a765db26cb3f4000178fec6",
+          "author": "The Roseburg Receiver",
+          "description": "Oregonians affected by wildfires, evacuations or wildfire smoke can call a statewide assistance hotline 24/7 at 1-833-669-0554 for help identifying available resources and next steps.",
+          "link": "https://www.theroseburgreceiver.com/statewide-wildfire-assistance-hotline-available-around-the-clock-for-oregonians/",
+          "publishedOn": "2026-08-07T22:39:09.000Z",
+          "wordCount": 3258,
+          "title": "Statewide Wildfire Assistance Hotline Available Around the Clock for Oregonians",
+          "imageUrl": "https://images.unsplash.com/photo-1611174797252-415c154eff88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIyfHx3aWxkZmlyZSUyMHNtb2tlfGVufDB8fHx8MTc4NjE0MjI2NHww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6a7633346cb3f4000178fe9c",
           "author": "The Roseburg Receiver",
