@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-06T14:30:25.548Z</updated>
+    <updated>2026-08-07T00:43:42.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: August 5, 2026]]></title>
+        <id>6a74d05b6cb3f4000178fbad</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-august-5-2026/"/>
+        <updated>2026-08-06T18:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported seven incidents on August 5, including two warrant arrests, two non-injury crashes, harassment, prohibited camping and criminal trespass. Several people were cited or lodged at corrections.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roll On Brings Alabama’s Country Classics to Sutherlin Tonight]]></title>
         <id>6a7497ca6cb3f4000178fb73</id>
