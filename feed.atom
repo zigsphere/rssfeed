@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-07T13:41:55.043Z</updated>
+    <updated>2026-08-07T17:00:48.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Brew Fest Returns to Downtown Roseburg Aug. 22 With Beer, Food and Live Music]]></title>
+        <id>6a75ebc26cb3f4000178fe20</id>
+        <link href="https://www.theroseburgreceiver.com/umpqua-brew-fest-returns-to-downtown-roseburg-aug-22-with-beer-food-and-live-music/"/>
+        <updated>2026-08-07T14:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Brew Fest XV returns to downtown Roseburg Aug. 22 with craft beer, live music and a community atmosphere. The 1-7 p.m. fundraiser at Umpqua Outback features Coleen & Co., Rovers & Dragons and TOB. Tickets are $15.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fair Heads Into Final Two Days With Music, Livestock Auction And Family Activities]]></title>
+        <id>6a75ead16cb3f4000178fe07</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-fair-heads-into-final-two-days-with-music-livestock-auction-and-family-activities/"/>
+        <updated>2026-08-07T14:26:38.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Fair heads into its final two days Friday with Tone Loc, the annual 4-H and FFA Livestock Auction, carnival rides, live music, exhibits and special admission offers for kids, teens and fairgoers who “Dress a Vegetable.”]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Umpqua Steelhead Fishing To Close Aug. 10 Amid Low Wild Returns]]></title>
+        <id>6a75e97d6cb3f4000178fdeb</id>
+        <link href="https://www.theroseburgreceiver.com/north-umpqua-steelhead-fishing-to-close-aug-10-amid-low-wild-returns/"/>
+        <updated>2026-08-07T14:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Steelhead fishing on the North Umpqua River will close Aug. 10 through Nov. 30 after fewer than 1,000 wild summer steelhead passed Winchester Dam. ODFW says low returns, warm water and low river flows prompted the emergency closure.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 7, 2026]]></title>
+        <id>6a75ddd16cb3f4000178fbd3</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/august-7-2026/"/>
+        <updated>2026-08-07T13:54:08.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Fair stays busy despite smoky conditions]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/d3aaa94c-f165-4cb4-8c31-8ad8ebce6561</id>
+        <link href="https://www.kezi.com/news/douglas-county-fair-stays-busy-despite-smoky-conditions/article_d3aaa94c-f165-4cb4-8c31-8ad8ebce6561.html"/>
+        <updated>2026-08-07T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite smoky, hot conditions, the Douglas County Fair is still drawing crowds, but fairgoers, animals, and workers are being urged to stay hydrated, monitor air quality, and take precautions as first responders report some heat-related incidents.]]></summary>
+        <author>
+            <name>Tyson Palodichuk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Police Log: August 5, 2026]]></title>
         <id>6a74d05b6cb3f4000178fbad</id>
@@ -14,6 +64,16 @@
         <summary type="html"><![CDATA[Roseburg police reported seven incidents on August 5, including two warrant arrests, two non-injury crashes, harassment, prohibited camping and criminal trespass. Several people were cited or lodged at corrections.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coos Bay clinic owner pleads guilty to $2M healthcare fraud]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/b502af86-440a-4a72-b670-1fc90d8cce6b</id>
+        <link href="https://www.kezi.com/news/local/coos-bay-clinic-owner-pleads-guilty-to-2m-healthcare-fraud/article_b502af86-440a-4a72-b670-1fc90d8cce6b.html"/>
+        <updated>2026-08-06T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[A Coos Bay man admitted to running a years-long scheme that defrauded federal health programs and private insurers out of more than $2 million through his sleep study testing company.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
