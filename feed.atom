@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-12T20:03:25.682Z</updated>
+    <updated>2026-08-12T23:51:45.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The FISH of Roseburg Launches Monthly Pop-Up Pantry in Canyonville]]></title>
+        <id>6a7d02a26cb3f40001790875</id>
+        <link href="https://www.theroseburgreceiver.com/the-fish-of-roseburg-launches-monthly-pop-up-pantry-in-canyonville/"/>
+        <updated>2026-08-12T23:36:21.000Z</updated>
+        <summary type="html"><![CDATA[The FISH of Roseburg is launching a monthly pop-up food pantry in Canyonville with support from the Cow Creek Tribal Foundation and 3Rivers Foundation. The first distribution is Aug. 20 outside Canyonville City Offices.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Police Chief Receives Patriot Award]]></title>
+        <id>6a7cd4006cb3f40001790858</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-police-chief-receives-patriot-award/"/>
+        <updated>2026-08-12T20:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Police Chief Gary Klopfenstein received the Patriot Award for his support of employees serving in the National Guard and Reserve. Officer Derek Wiebe nominated Klopfenstein for the Department of Defense recognition.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Douglas County Sheriff’s Office Searching for Missing Drain Man]]></title>
         <id>6a7cc4796cb3f4000179083f</id>
