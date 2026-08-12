@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-12T18:51:22.551Z</updated>
+    <updated>2026-08-12T20:03:25.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Sheriff’s Office Searching for Missing Drain Man]]></title>
+        <id>6a7cc4796cb3f4000179083f</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-sheriffs-office-searching-for-missing-drain-man/"/>
+        <updated>2026-08-12T19:08:45.000Z</updated>
+        <summary type="html"><![CDATA[The Douglas County Sheriff’s Office is asking for help locating 52-year-old Jeffrey Alan Hawks of Drain, who was last seen Sunday morning after leaving work in Eugene. He was expected to return home but never arrived.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fir Grove Park Splash Pad Temporarily Closed for Repairs]]></title>
+        <id>6a7cc0df6cb3f4000179082b</id>
+        <link href="https://www.theroseburgreceiver.com/fir-grove-park-splash-pad-temporarily-closed-for-repairs/"/>
+        <updated>2026-08-12T18:53:46.000Z</updated>
+        <summary type="html"><![CDATA[The Fir Grove Park Splash Pad is temporarily closed for maintenance after City staff discovered it was not functioning properly. Replacement parts have been ordered, and the City hopes to reopen it before the weekend.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roseburg Library to Host Japanese American Author Mitzi Asai Loftus]]></title>
         <id>6a7cb5086cb3f4000179080e</id>
