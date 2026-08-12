@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-11T23:52:17.519Z</updated>
+    <updated>2026-08-12T13:34:51.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: August 10, 2026]]></title>
+        <id>6a7bc2896cb3f40001790554</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-august-10-2026/"/>
+        <updated>2026-08-12T00:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported seven incidents in the latest patrol log, including a parole violation, restraining order violation, prohibited camping citations, a traffic crash and a leash law violation.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UCC eyes former Woolley Center property for potential daycare use]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/d9ef683f-7db0-403d-a670-366f728fcac6</id>
