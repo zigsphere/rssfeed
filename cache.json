@@ -707,6 +707,36 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6a7df3626cb3f40001790b20",
+          "author": "The Roseburg Receiver",
+          "description": "Roseburg police reported 10 incidents in the latest patrol log, including warrant arrests, prohibited camping, criminal trespass, a restraining order violation, domestic assault and DUII.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-august-12-2026/",
+          "publishedOn": "2026-08-13T16:43:13.000Z",
+          "wordCount": 4056,
+          "title": "Police Log: August 12, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/08/police_lights2-6.jpg"
+        },
+        {
+          "id": "6a7dd3ab6cb3f40001790b04",
+          "author": "The Roseburg Receiver",
+          "description": "Oregon DEQ is seeking public comment on a proposed water quality management plan addressing elevated temperatures in the Umpqua River Basin. Written comments are due Sept. 24, with a virtual public hearing scheduled for Sept. 22.",
+          "link": "https://www.theroseburgreceiver.com/deq-seeks-public-comment-on-umpqua-river-basin-temperature-plan/",
+          "publishedOn": "2026-08-13T14:28:14.000Z",
+          "wordCount": 3438,
+          "title": "DEQ Seeks Public Comment on Umpqua River Basin Temperature Plan",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/08/Screenshot-2026-08-13-at-7.27.54---AM.png"
+        },
+        {
+          "id": "6a7dc6bc6cb3f400017908cb",
+          "author": "Joseph Ziegler",
+          "description": "The Roseburg Receiver Morning Scoop",
+          "link": "https://www.theroseburgreceiver.com/morning-scoop/august-13-2026/",
+          "publishedOn": "2026-08-13T13:49:08.000Z",
+          "wordCount": 7507,
+          "title": "August 13, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/08/The-Morning-Scoop-8.png"
+        },
+        {
           "id": "6a7d271d6cb3f400017908b0",
           "author": "Joseph Ziegler",
           "description": "The Josephine County Sheriff’s Office has ended its contract with Flock Safety and deactivated automated license plate reader cameras in rural Josephine County following public concerns over privacy, Fourth Amendment rights and the technology’s use.",
