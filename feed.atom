@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-14T17:01:51.029Z</updated>
+    <updated>2026-08-14T19:51:13.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: August 13, 2026]]></title>
+        <id>6a7f63406cb3f40001790ea0</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-august-13-2026/"/>
+        <updated>2026-08-14T18:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported nine incidents from Aug. 13, including warrant arrests, a parole violation, disorderly conduct, criminal trespass, offensive littering, driving while suspended and drinking in public.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASTLE FIRE 94 PERCENT CONTAINED, FINAL UPDATE]]></title>
+        <id>https://kqennewsradio.com/?p=151023</id>
+        <link href="https://kqennewsradio.com/2026/08/14/castle-fire-94-percent-contained-final-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=castle-fire-94-percent-contained-final-update"/>
+        <updated>2026-08-14T17:52:57.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2026 10:50 a.m. The Castle Fire is 94 percent contained, remaining at 3,613 acres. It is 23 miles northeast of Tiller with 338 personnel assigned to the incident. The final update from the Southern Area Gray Incident Management Team said firefighters continue to mop up and patrol for any heat sources. Rehab work,...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR OFFENSIVE LITTERING]]></title>
+        <id>https://kqennewsradio.com/?p=151021</id>
+        <link href="https://kqennewsradio.com/2026/08/14/roseburg-police-cite-woman-for-offensive-littering-8/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-woman-for-offensive-littering-8"/>
+        <updated>2026-08-14T17:38:44.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2026 10:40 a.m.  Roseburg Police cited a woman for offensive littering on Thursday night. An RPD report said at 9:10 p.m. officers contacted the 37-year-old lying on a blanket on the bike path in the 500 block of Southeast Spruce Street. The woman had trash and property scattered around the blanket and was...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR REPORTED CRIMINAL TRESPASS]]></title>
+        <id>https://kqennewsradio.com/?p=151019</id>
+        <link href="https://kqennewsradio.com/2026/08/14/roseburg-police-cite-woman-for-reported-criminal-trespass-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-cite-woman-for-reported-criminal-trespass-2"/>
+        <updated>2026-08-14T17:32:01.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2026 10:30 a.m.   Roseburg Police cited a woman for a reported criminal mischief incident on Thursday night. An RPD report said just before 11:10 p.m. the 71-year-old was contacted in the 400 block of West Umpqua Street after a caller said she was on the porch of a vacant residence. The property owner...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAN FROM THE DALLES JAILED FOLLOWING SINGLE VEHICLE WRECK]]></title>
+        <id>https://kqennewsradio.com/?p=151017</id>
+        <link href="https://kqennewsradio.com/2026/08/14/man-from-the-dalles-jailed-following-single-vehicle-wreck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=man-from-the-dalles-jailed-following-single-vehicle-wreck"/>
+        <updated>2026-08-14T17:24:52.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2026 10:20 a.m.  A man was The Dalles was jailed following a single vehicle wreck on Thursday afternoon. An Oregon State Police report said at 4:00 p.m. troopers responded to the crash on Interstate Five southbound near Rice Hill. It was reported that a vehicle was up against a guardrail, and a male...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAILED A MAN FOR A WARRANT]]></title>
+        <id>https://kqennewsradio.com/?p=151015</id>
+        <link href="https://kqennewsradio.com/2026/08/14/roseburg-police-jailed-a-man-for-a-warrant-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jailed-a-man-for-a-warrant-2"/>
+        <updated>2026-08-14T17:09:54.000Z</updated>
+        <summary type="html"><![CDATA[August 14, 2026 10:10 a.m.  Roseburg Police jailed a man for a warrant on Thursday evening. An RPD report said at 6:00 p.m. officers stopped a vehicle for a violation in the 2000 block of Northeast Diamond Lake Boulevard. Officers recognized the driver as a 63-year-old. He returned with a valid warrant for his arrest...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR SECOND-DEGREE DISORDERLY CONDUCT]]></title>
         <id>https://kqennewsradio.com/?p=151013</id>
@@ -954,6 +1014,16 @@
         <summary type="html"><![CDATA[Kelly Leonard joins us live from Nichol’s Band Shell in Roseburg’s Stewart Park to talk about the final Music on the Half Shell show for the season.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opening doors to the future]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/7414b24f-4b0e-4b34-9ea9-3f0faf582ff7</id>
+        <link href="https://www.nrtoday.com/news/education/opening-doors-to-the-future/article_7414b24f-4b0e-4b34-9ea9-3f0faf582ff7.html"/>
+        <updated>2026-08-11T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Senior year is an incredibly busy time for students, filled with numerous “last firsts,” including the final first day of school, the last homecoming and prom, and the final sports seasons of their high school careers. It’s also a time…]]></summary>
+        <author>
+            <name>Kristy Westbrooks College and Careers Advisor at Yoncalla High School</name>
         </author>
     </entry>
     <entry>
