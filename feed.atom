@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-18T19:33:50.116Z</updated>
+    <updated>2026-08-18T23:29:20.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winston Cancels Flock Camera Contract Amid Police Budget Reductions]]></title>
+        <id>6a8466c46cb3f400017914ee</id>
+        <link href="https://www.theroseburgreceiver.com/winston-cancels-flock-camera-contract-amid-police-budget-reductions/"/>
+        <updated>2026-08-18T20:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Winston has canceled its eight-camera Flock license plate reader program as the police department works to cut $215,000 from its budget. The decision was driven by finances, while public trust and concerns surrounding the technology were also discussed.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Police Log: August 17, 2026]]></title>
         <id>6a84a76d6cb3f40001791520</id>
