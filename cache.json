@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=151135",
+          "author": "Kyle Bailey",
+          "description": "August 18, 2026 6:20 a.m.  Roseburg Police jailed a man for having a stolen vehicle out of California, on Sunday morning. An RPD report said just after 6:10 a.m. while patrolling near the intersection of Southeast Sheridan Street and Southeast Mosher Avenue, officers received an automated license plate reader notification on a stolen SUV which...",
+          "link": "https://kqennewsradio.com/2026/08/18/roseburg-police-jail-man-for-having-stolen-california-vehicle/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-for-having-stolen-california-vehicle",
+          "publishedOn": "2026-08-18T13:21:16.000Z",
+          "wordCount": 1711,
+          "title": "ROSEBURG POLICE JAIL MAN FOR HAVING STOLEN CALIFORNIA VEHICLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=151128",
           "author": "Kyle Bailey",
           "description": "August 18, 2026 3:50 a.m.   A Camas Valley home is a total loss following a fire on Monday. A release from the Camas Valley Volunteer Fire District said at approximately 11:00 a.m. the fire was reported in the area of East Camas Road. A tender arrived on scene in six minutes to find the structure...",
@@ -404,19 +414,19 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.kezi.com/tncms/asset/editorial/1f85d968-8ee3-45f3-98c3-d02586a49e08",
+          "id": "http://www.kezi.com/tncms/asset/editorial/107fc814-1396-4652-a1aa-aea0c6370617",
           "author": "News Staff",
-          "description": "Veterans, active-duty service members, National Guard and Reserve members and their families can attend Oregon's largest statewide veteran resource event from 11 a.m. to 7 p.m. Friday, Aug. 28, at Douglas Hall at the Douglas County Fairgrounds in Roseburg.",
-          "link": "https://www.kezi.com/news/local/free-veteran-expo-in-roseburg-offers-100-resources-aug-28/article_1f85d968-8ee3-45f3-98c3-d02586a49e08.html",
-          "publishedOn": "2026-08-14T18:05:00.000Z",
-          "wordCount": 7460,
-          "title": "Free veteran expo in Roseburg offers 100+ resources Aug. 28",
+          "description": "Roseburg firefighters responded to three separate emergencies within 14 minutes on Sunday afternoon, requiring help from multiple agencies across Douglas County.",
+          "link": "https://www.kezi.com/news/local/roseburg-crews-battle-brush-fire-respond-to-smoke-scare-and-plane-crash/article_107fc814-1396-4652-a1aa-aea0c6370617.html",
+          "publishedOn": "2026-08-17T21:22:00.000Z",
+          "wordCount": 7348,
+          "title": "Roseburg crews battle brush fire, respond to smoke scare and plane crash",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/0e/b0eaaeec-55a8-4d87-9f3c-04c8ad5919a7/6a7f5b0749516.image.jpg?resize=300%2C162",
-            "length": "125244",
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/de/fdeb861b-9d3f-41d2-8daa-d9e9329d76d4/6a837d4663bdd.image.jpg?resize=300%2C312",
+            "length": "416643",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/0e/b0eaaeec-55a8-4d87-9f3c-04c8ad5919a7/6a7f5b0749516.image.jpg?resize=300%2C162"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/f/de/fdeb861b-9d3f-41d2-8daa-d9e9329d76d4/6a837d4663bdd.image.jpg?resize=300%2C312"
         }
       ]
     }

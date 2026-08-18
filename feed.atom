@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-18T13:01:04.461Z</updated>
+    <updated>2026-08-18T13:49:35.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR HAVING STOLEN CALIFORNIA VEHICLE]]></title>
+        <id>https://kqennewsradio.com/?p=151135</id>
+        <link href="https://kqennewsradio.com/2026/08/18/roseburg-police-jail-man-for-having-stolen-california-vehicle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-man-for-having-stolen-california-vehicle"/>
+        <updated>2026-08-18T13:21:16.000Z</updated>
+        <summary type="html"><![CDATA[August 18, 2026 6:20 a.m.  Roseburg Police jailed a man for having a stolen vehicle out of California, on Sunday morning. An RPD report said just after 6:10 a.m. while patrolling near the intersection of Southeast Sheridan Street and Southeast Mosher Avenue, officers received an automated license plate reader notification on a stolen SUV which...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CAMAS VALLEY HOME A TOTAL LOSS FOLLOWING MONDAY FIRE]]></title>
         <id>https://kqennewsradio.com/?p=151128</id>
@@ -84,6 +94,16 @@
         <summary type="html"><![CDATA[Two residents were displaced after a fire destroyed a home along East Camas Road in Camas Valley. Fire officials said an electrical short at a bedroom outlet sparked the blaze, which caused heavy smoke and flame damage and a partial roof collapse.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg crews battle brush fire, respond to smoke scare and plane crash]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/107fc814-1396-4652-a1aa-aea0c6370617</id>
+        <link href="https://www.kezi.com/news/local/roseburg-crews-battle-brush-fire-respond-to-smoke-scare-and-plane-crash/article_107fc814-1396-4652-a1aa-aea0c6370617.html"/>
+        <updated>2026-08-17T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg firefighters responded to three separate emergencies within 14 minutes on Sunday afternoon, requiring help from multiple agencies across Douglas County.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -364,16 +384,6 @@
         <summary type="html"><![CDATA[Roseburg firefighters responded to three separate emergencies within 14 minutes Saturday afternoon, including a half-acre vegetation fire, a reported structure fire and an airplane crash at the Roseburg Regional Airport. Multiple agencies assisted with the simultaneous incidents.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free veteran expo in Roseburg offers 100+ resources Aug. 28]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/1f85d968-8ee3-45f3-98c3-d02586a49e08</id>
-        <link href="https://www.kezi.com/news/local/free-veteran-expo-in-roseburg-offers-100-resources-aug-28/article_1f85d968-8ee3-45f3-98c3-d02586a49e08.html"/>
-        <updated>2026-08-14T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Veterans, active-duty service members, National Guard and Reserve members and their families can attend Oregon's largest statewide veteran resource event from 11 a.m. to 7 p.m. Friday, Aug. 28, at Douglas Hall at the Douglas County Fairgrounds in Roseburg.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
