@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-20T13:54:38.058Z</updated>
+    <updated>2026-08-20T16:43:42.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VEHICLE FOUND IN FIELD ALONG INTERSTATE 5]]></title>
+        <id>https://kqennewsradio.com/?p=151249</id>
+        <link href="https://kqennewsradio.com/2026/08/20/vehicle-found-in-field-along-interstate-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vehicle-found-in-field-along-interstate-5"/>
+        <updated>2026-08-20T16:36:35.000Z</updated>
+        <summary type="html"><![CDATA[August 20, 2026 9:30 a.m.  A vehicle was found in a field along Interstate 5 early Thursday morning. Information from Oregon State Police said at around 4:00 a.m. a single vehicle accident was reported in the area of northbound lanes of the freeway near the Tri City exit 103 after a vehicle was spotted off...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 08.20.26]]></title>
+        <id>https://kqennewsradio.com/?p=151246</id>
+        <link href="https://kqennewsradio.com/2026/08/20/morning-conversation-08-20-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-08-20-26"/>
+        <updated>2026-08-20T16:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Organizer Bob Chaney talks about Canyonville Pioneer Days which starts on Thursday, August 27th:]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detectives Investigating Death of 2-Year-Old Child in Rural Central Point]]></title>
+        <id>6a870e9c6cb3f40001791ae2</id>
+        <link href="https://www.theroseburgreceiver.com/detectives-investigating-death-of-2-year-old-child-in-rural-central-point/"/>
+        <updated>2026-08-20T14:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Detectives are investigating the death of a 2-year-old child who was reported missing Wednesday morning in rural Central Point. The child was found deceased about an hour after the search began.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCC to Celebrate New Track and Field Complex With Grand Opening Aug. 29]]></title>
+        <id>6a8709f76cb3f40001791ac6</id>
+        <link href="https://www.theroseburgreceiver.com/ucc-to-celebrate-new-track-and-field-complex-with-grand-opening-aug-29/"/>
+        <updated>2026-08-20T14:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Community College will celebrate the grand opening of its new track and field complex Aug. 29 with a ribbon cutting, Riverhawk 5K, pancake breakfast and family activities. The free event runs from 8 to 11 a.m. at UCC’s Roseburg campus.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broadway Phil & the Shouters Bring the Blues to Myrtle Creek Tonight]]></title>
+        <id>6a8707726cb3f40001791aaf</id>
+        <link href="https://www.theroseburgreceiver.com/broadway-phil-the-shouters-bring-the-blues-to-myrtle-creek-tonight/"/>
+        <updated>2026-08-20T13:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Broadway Phil & the Shouters bring more than three decades of blues, R&B and roots rock to Millsite Park tonight for the second-to-last concert of Myrtle Creek’s 39th Music in the Park season.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 20, 2026]]></title>
         <id>6a8700726cb3f4000179188d</id>
@@ -77,6 +127,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Umpqua Brew Fest invites public to raise a glass to food, drink and community]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/0d35f74b-1cf6-4580-8ddf-a693d473ed97</id>
+        <link href="https://www.nrtoday.com/news/umpqua-brew-fest-invites-public-to-raise-a-glass-to-food-drink-and-community/article_0d35f74b-1cf6-4580-8ddf-a693d473ed97.html"/>
+        <updated>2026-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["It takes a glass to raise a brew." That slogan is the heart behind Umpqua Brewfest, which is returning to Roseburg this Saturday for a day of live entertainment, locally crafted bites and community gathering.]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sutherlin man faces sex abuse, harassment charges]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/645f307b-ca89-49f0-82da-08f44f1a1097</id>
         <link href="https://www.kezi.com/news/local/sutherlin-man-faces-sex-abuse-harassment-charges/article_645f307b-ca89-49f0-82da-08f44f1a1097.html"/>
@@ -84,6 +144,16 @@
         <summary type="html"><![CDATA[A 20-year-old Sutherlin man accused of having sexual contact with a 16-year-old female victim was arrested Monday night, according to the Roseburg Police Department.]]></summary>
         <author>
             <name>Ryan Bonham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artists practice brushstrokes in the outdoors for Umpqua Plein Air]]></title>
+        <id>http://www.nrtoday.com/tncms/asset/editorial/a3f65bca-a6d0-4757-ae82-b1e96d89ead7</id>
+        <link href="https://www.nrtoday.com/a_and_e/artists-practice-brushstrokes-in-the-outdoors-for-umpqua-plein-air/article_a3f65bca-a6d0-4757-ae82-b1e96d89ead7.html"/>
+        <updated>2026-08-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a bright, cool morning in Roseburg. As rays of sunshine filter through rippling rapids and swaying lavender bushes, pastels graze canvas. A stroke of the wrist creates a bush here, a rock there, a shadow draped over the face…]]></summary>
+        <author>
+            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
     <entry>
