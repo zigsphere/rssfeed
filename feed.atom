@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-21T13:53:26.294Z</updated>
+    <updated>2026-08-21T16:43:46.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR REPORTED HARASSMENT INCIDENT]]></title>
+        <id>https://kqennewsradio.com/?p=151312</id>
+        <link href="https://kqennewsradio.com/2026/08/21/roseburg-police-jail-woman-for-reported-harassment-incident/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-police-jail-woman-for-reported-harassment-incident"/>
+        <updated>2026-08-21T16:34:58.000Z</updated>
+        <summary type="html"><![CDATA[August 21, 2026 9:20 a.m.  Roseburg Police jailed a woman for a reported harassment incident on Wednesday. An RPD report said at 9:30 a.m. officers contacted 40-year-old Sarah Raines at the Navigation Center in the 900 block of Southeast Mill Street. Raines had allegedly thrown coffee on a resident and an employee. The woman was...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOCAL REAL ESTATE TODAY 08.21.26]]></title>
+        <id>https://kqennewsradio.com/?p=151308</id>
+        <link href="https://kqennewsradio.com/2026/08/21/local-real-estate-today-08-21-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-real-estate-today-08-21-26"/>
+        <updated>2026-08-21T16:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Mary Gilbert of the Mary Gilbert Group at Keller Williams Southern Oregon has our weekly local look at real estate.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MORNING CONVERSATION 08.21.26]]></title>
+        <id>https://kqennewsradio.com/?p=151303</id>
+        <link href="https://kqennewsradio.com/2026/08/21/morning-conversation-08-21-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=morning-conversation-08-21-26"/>
+        <updated>2026-08-21T16:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Kasey Hovik of Umpqua Watersheds talks about the 15th annual Brew Fest that is happening on Saturday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Southern Oregon Can Jam Brings 20 Bands to Winston Saturday to Support Local Food Pantry]]></title>
+        <id>6a885c8b6cb3f40001791ddc</id>
+        <link href="https://www.theroseburgreceiver.com/southern-oregon-can-jam-brings-20-bands-to-winston-saturday-to-support-local-food-pantry/"/>
+        <updated>2026-08-21T14:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Southern Oregon Can Jam brings 20 bands to Riverbend Park in Winston on Saturday, raising money and collecting canned food to support the Winston Area Food Pantry and its goal of securing a permanent building.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 21, 2026]]></title>
+        <id>6a8851326cb3f40001791bb2</id>
+        <link href="https://www.theroseburgreceiver.com/morning-scoop/august-21-2026/"/>
+        <updated>2026-08-21T13:54:31.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG TIES FOR SECOND HOTTEST DAY OF 2026, LOW PRESSURE MOVING IN]]></title>
         <id>https://kqennewsradio.com/?p=151298</id>
@@ -864,16 +914,6 @@
         <summary type="html"><![CDATA[August 18, 2026 2:50 a.m.  Greater Douglas United Way has announced the return of the Dave Johnson Memorial Golf Tournament, teeing off for its 44th year on Thursday, September 10th, at the Bar Run Golf & RV Resort. A United Way release said, this tournament is more than just a day on the green—it is...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg crews battle brush fire, respond to smoke scare and plane crash]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/107fc814-1396-4652-a1aa-aea0c6370617</id>
-        <link href="https://www.kezi.com/news/local/roseburg-crews-battle-brush-fire-respond-to-smoke-scare-and-plane-crash/article_107fc814-1396-4652-a1aa-aea0c6370617.html"/>
-        <updated>2026-08-17T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg firefighters responded to three separate emergencies within 14 minutes on Sunday afternoon, requiring help from multiple agencies across Douglas County.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
