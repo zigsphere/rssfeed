@@ -849,6 +849,51 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/a10d7609-8047-492f-a28f-91a72752d5d3",
+          "author": "News Staff",
+          "description": "Douglas County's second annual Back-to-School Bash returns on Saturday, Aug. 22, at Umpqua Community College with free school supplies, haircuts, food and activities for families across the region.",
+          "link": "https://www.kezi.com/news/douglas-countys-biggest-back-to-school-event-is-free-for-all/article_a10d7609-8047-492f-a28f-91a72752d5d3.html",
+          "publishedOn": "2026-08-21T22:44:00.000Z",
+          "wordCount": 7432,
+          "title": "Douglas County's biggest back-to-school event is free for all",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/f2/2f228e7c-8a6d-47ca-8df4-393b32f34349/6a88d5c6cdd82.image.jpg?resize=300%2C225",
+            "length": "221066",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/2/f2/2f228e7c-8a6d-47ca-8df4-393b32f34349/6a88d5c6cdd82.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/881434e5-923e-4650-a2e7-17aaf99ba3ee",
+          "author": "News Staff",
+          "description": "Umpqua Watersheds is hosting the 15th annual Umpqua Brew Fest on Saturday, Aug. 22.",
+          "link": "https://www.kezi.com/news/local/umpqua-brew-fest-returns-aug-22-to-main-street-roseburg/article_881434e5-923e-4650-a2e7-17aaf99ba3ee.html",
+          "publishedOn": "2026-08-21T22:38:00.000Z",
+          "wordCount": 7258,
+          "title": "Umpqua Brew Fest returns Aug. 22 to Main Street Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/b0/cb036220-144b-4cda-8411-1debf37ec057/6a88d42d1db30.image.jpg?resize=300%2C225",
+            "length": "167600",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/c/b0/cb036220-144b-4cda-8411-1debf37ec057/6a88d42d1db30.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/e2488e2a-ba4d-43e9-b50e-6ad69d3c2934",
+          "author": "News Staff",
+          "description": "The Roseburg Receiver launched Project Skywatch, what is believed to be Douglas County's first community-funded, publicly viewable 360-degree mountaintop camera.",
+          "link": "https://www.kezi.com/news/local/community-funded-skywatch-camera-now-live-over-roseburg/article_e2488e2a-ba4d-43e9-b50e-6ad69d3c2934.html",
+          "publishedOn": "2026-08-21T19:20:00.000Z",
+          "wordCount": 8316,
+          "title": "Community-funded skywatch camera now live over Roseburg",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/5e/65e505e3-f5ad-4c8c-a4d7-8f120021dd9e/6a88a5ea8ba19.image.jpg?resize=300%2C226",
+            "length": "698172",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/5e/65e505e3-f5ad-4c8c-a4d7-8f120021dd9e/6a88a5ea8ba19.image.jpg?resize=300%2C226"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/2af7c96a-d367-4806-9f8f-f58d832d9baa",
           "author": "Ryan Bonham",
           "description": "A 22-year-old Myrtle Creek man arrested on Tuesday afternoon is now facing multiple sex abuse charges involving a 17-year-old girl, according to the Roseburg Police Department.",

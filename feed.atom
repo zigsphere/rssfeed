@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-08-22T13:38:15.111Z</updated>
+    <updated>2026-08-22T16:34:41.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -24,6 +24,26 @@
         <summary type="html"><![CDATA[Wander Cafe has announced it will permanently close, with the Roseburg family behind the business citing major life changes and the demands of operating the cafe.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County's biggest back-to-school event is free for all]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/a10d7609-8047-492f-a28f-91a72752d5d3</id>
+        <link href="https://www.kezi.com/news/douglas-countys-biggest-back-to-school-event-is-free-for-all/article_a10d7609-8047-492f-a28f-91a72752d5d3.html"/>
+        <updated>2026-08-21T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County's second annual Back-to-School Bash returns on Saturday, Aug. 22, at Umpqua Community College with free school supplies, haircuts, food and activities for families across the region.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umpqua Brew Fest returns Aug. 22 to Main Street Roseburg]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/881434e5-923e-4650-a2e7-17aaf99ba3ee</id>
+        <link href="https://www.kezi.com/news/local/umpqua-brew-fest-returns-aug-22-to-main-street-roseburg/article_881434e5-923e-4650-a2e7-17aaf99ba3ee.html"/>
+        <updated>2026-08-21T22:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Watersheds is hosting the 15th annual Umpqua Brew Fest on Saturday, Aug. 22.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +74,16 @@
         <summary type="html"><![CDATA[Roseburg police reported five incidents on August 20, including prohibited camping, a probation violation, a non-injury traffic crash and two warrant arrests.]]></summary>
         <author>
             <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community-funded skywatch camera now live over Roseburg]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/e2488e2a-ba4d-43e9-b50e-6ad69d3c2934</id>
+        <link href="https://www.kezi.com/news/local/community-funded-skywatch-camera-now-live-over-roseburg/article_e2488e2a-ba4d-43e9-b50e-6ad69d3c2934.html"/>
+        <updated>2026-08-21T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The Roseburg Receiver launched Project Skywatch, what is believed to be Douglas County's first community-funded, publicly viewable 360-degree mountaintop camera.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
