@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-02T16:28:41.997Z</updated>
+    <updated>2026-09-02T21:44:12.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Police Log: September 1, 2026]]></title>
+        <id>6a9870e26cb3f40001793a01</id>
+        <link href="https://www.theroseburgreceiver.com/police-logs/police-log-september-1-2026/"/>
+        <updated>2026-09-02T18:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg police reported eight incidents in the latest patrol log, including five warrant arrests, prohibited camping, criminal trespass and a minor in possession of alcohol case.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Restrictions Lowered Across Douglas District Following Rain and Cooler Temperatures]]></title>
+        <id>6a9860026cb3f400017939e9</id>
+        <link href="https://www.theroseburgreceiver.com/fire-restrictions-lowered-across-douglas-district-following-rain-and-cooler-temperatures/"/>
+        <updated>2026-09-02T17:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Fire restrictions have been lowered across the Douglas District following cooler temperatures and precipitation, but DFPA officials remind the public that fire season remains in effect.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg to name new city manager at special meeting]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/9e2137ed-6854-469d-8c1c-86271d524086</id>
+        <link href="https://www.kezi.com/news/local/roseburg-to-name-new-city-manager-at-special-meeting/article_9e2137ed-6854-469d-8c1c-86271d524086.html"/>
+        <updated>2026-09-02T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg City Council will meet tonight to vote on the city's next city manager.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL WOMAN FOR WARRANT]]></title>
         <id>https://kqennewsradio.com/?p=151785</id>
