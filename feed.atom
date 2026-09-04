@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-03T21:39:08.328Z</updated>
+    <updated>2026-09-04T00:55:24.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Library to Host Program Exploring Invasive Species]]></title>
+        <id>6a9a09a36cb3f40001793e08</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-library-to-host-program-exploring-invasive-species/"/>
+        <updated>2026-09-04T00:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Public Library will host a free presentation with author Amy Crawford exploring invasive species and humans’ changing relationship with nature at 6 p.m. Thursday, Sept. 24.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 09.03.26]]></title>
+        <id>https://kqennewsradio.com/?p=151866</id>
+        <link href="https://kqennewsradio.com/2026/09/03/your-cue-09-03-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-09-03-26"/>
+        <updated>2026-09-04T00:05:03.000Z</updated>
+        <summary type="html"><![CDATA[This week: Creating Belonging: What Student Leaders Can Teach Us About Community. Superintendent Jared Cordon talks with a group students and advisors from Roseburg High School and Fremont and Jo Lane middle schools.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OREGON PANEL TO REVIEW SPEED ZONES IN ROSEBURG]]></title>
+        <id>https://kqennewsradio.com/?p=151864</id>
+        <link href="https://kqennewsradio.com/2026/09/03/oregon-panel-to-review-speed-zones-in-roseburg/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=oregon-panel-to-review-speed-zones-in-roseburg"/>
+        <updated>2026-09-03T23:20:14.000Z</updated>
+        <summary type="html"><![CDATA[September 3 ,2026 4:20 p.m.    The Oregon Speed Zone Review Panel will meet at 8:30 a.m. Thursday, September 10, to discuss speed zone changes on one road in Douglas County, west of Roseburg. A release from the Oregon Department of Transportation said the panel will consider a speed zone change establishing a 45 mile-per-hour...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Fall Swift Watch Returns for Two September Evenings]]></title>
+        <id>6a99fcb66cb3f40001793de3</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-fall-swift-watch-returns-for-two-september-evenings/"/>
+        <updated>2026-09-03T23:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg’s Fall Swift Watch returns to Fir Grove Park on Sept. 18 and 25, offering two free evenings of birdwatching, educational activities and live Americana music near the Clay Place chimney.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DFPA MOVES IFPL TO LEVEL 1 EFFECTIVE THURSDAY AFTERNOON]]></title>
         <id>https://kqennewsradio.com/?p=151861</id>
@@ -1114,16 +1154,6 @@
         <summary type="html"><![CDATA[A Roseburg woman died in a single vehicle crash on Interstate 5 Wednesday night.]]></summary>
         <author>
             <name>Kyle Bailey For NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARM MONDAY BUT COOLER WEATHER/POTENTIAL SHOWERS HEADING TO REGION]]></title>
-        <id>https://kqennewsradio.com/?p=151664</id>
-        <link href="https://kqennewsradio.com/2026/08/31/warm-monday-but-cooler-weather-potential-showers-heading-to-region/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warm-monday-but-cooler-weather-potential-showers-heading-to-region"/>
-        <updated>2026-08-31T11:07:07.000Z</updated>
-        <summary type="html"><![CDATA[August 31, 2026 4:00 a.m.  The Umpqua Valley is expected to enjoy a warm Monday with cooler temperatures and potential showers heading to the region. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that Roseburg should have a high in the upper 80s on Monday. The leading...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
