@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-05T18:08:07.483Z</updated>
+    <updated>2026-09-05T21:06:27.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VEHICLE GOES DOWN AN EMBANKMENT NEAR COTTAGE GROVE]]></title>
+        <id>https://kqennewsradio.com/?p=151936</id>
+        <link href="https://kqennewsradio.com/2026/09/05/vehicle-goes-down-an-embankment-near-cottage-grove/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vehicle-goes-down-an-embankment-near-cottage-grove"/>
+        <updated>2026-09-05T18:12:31.000Z</updated>
+        <summary type="html"><![CDATA[September 5, 2026 11:10 a.m.  No one appeared to be injured after a vehicle went down an embankment near Cottage Grove on Friday night. A Douglas County Sheriff’s Office report said at 11:00 p.m. a man was in the 4500 block of Territorial Highway driving towards Curtin when he lost control of his pickup and...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOTH DRIVERS TAKEN TO HOSPITAL AFTER TWO VEHICLE CRASH]]></title>
         <id>https://kqennewsradio.com/?p=151934</id>
@@ -74,6 +84,26 @@
         <summary type="html"><![CDATA[Superintendent Eria Bare of the South Umpqua School District talks about what is happening in her district as the new school year is just underway.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man admits to abusing child, faces 37 charges]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/9a5b0f9b-5813-43d1-9bac-203a6026a7d0</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-admits-to-abusing-child-faces-37-charges/article_9a5b0f9b-5813-43d1-9bac-203a6026a7d0.html"/>
+        <updated>2026-09-04T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man admitted to sexually abusing a young child and now faces dozens of charges, according to the Douglas County Sheriff's Office.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg man dies in Canyonville crash, alcohol suspected]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/096431c7-0728-4135-8954-208734823453</id>
+        <link href="https://www.kezi.com/news/local/roseburg-man-dies-in-canyonville-crash-alcohol-suspected/article_096431c7-0728-4135-8954-208734823453.html"/>
+        <updated>2026-09-04T18:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man died after his pickup crashed into a tree Tuesday evening, according to the Douglas County Sheriff's Office.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -974,16 +1004,6 @@
         <summary type="html"><![CDATA[September 2, 2026 2:50 a.m.   County Commissioners Tom Kress, Chris Boice and Tim Freeman would like to remind residents that most county government offices will be closed on Monday, September 7th, in observance of Labor Day. A county release said that includes offices at the courthouse and justice building, courthouse annex in Reedsport, fairgrounds, landfills...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA battles two Oregon fires in one weekend]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/8f09eeb7-dc92-4d1d-ba86-e573ea3b016b</id>
-        <link href="https://www.kezi.com/news/local/dfpa-battles-two-oregon-fires-in-one-weekend/article_8f09eeb7-dc92-4d1d-ba86-e573ea3b016b.html"/>
-        <updated>2026-09-01T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters from the Douglas Forest Protective Association and Central Douglas Fire & Rescue responded to two separate fires over the weekend in Douglas County.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
