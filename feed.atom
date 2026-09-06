@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-06T18:12:56.482Z</updated>
+    <updated>2026-09-06T21:13:00.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -677,16 +677,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[City of Roseburg votes to appoint Annette Spickard as new city manager]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/74729272-ab6c-461f-b4b9-58e2ce862f92</id>
-        <link href="https://www.nrtoday.com/news/city-of-roseburg-votes-to-appoint-annette-spickard-as-new-city-manager/article_74729272-ab6c-461f-b4b9-58e2ce862f92.html"/>
-        <updated>2026-09-03T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After more than two months without a permanent city manager, the Roseburg City Council has passed a vote to appoint Anette Spickard for the role.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roseburg to name new city manager at special meeting]]></title>
         <id>http://www.kezi.com/tncms/asset/editorial/9e2137ed-6854-469d-8c1c-86271d524086</id>
         <link href="https://www.kezi.com/news/local/roseburg-to-name-new-city-manager-at-special-meeting/article_9e2137ed-6854-469d-8c1c-86271d524086.html"/>
@@ -694,16 +684,6 @@
         <summary type="html"><![CDATA[Roseburg City Council will meet tonight to vote on the city's next city manager.]]></summary>
         <author>
             <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming back from the brink: Jeremy Yow's journey to rediscover himself]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/88f29527-6270-4539-9426-966b0221e9a9</id>
-        <link href="https://www.nrtoday.com/news/coming-back-from-the-brink-jeremy-yows-journey-to-rediscover-himself/article_88f29527-6270-4539-9426-966b0221e9a9.html"/>
-        <updated>2026-09-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two Jeremy Steven Yows. The first is seen a mugshot taken from a 2020 conviction: Wild, unkempt hair and a scruffy, overgrown beard bookending a slender face of mauve blotches and deep creases. A pair of eyes, glazed…]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>
