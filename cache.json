@@ -6,6 +6,36 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152018",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, Matt Dickson and Justin Bruggeman have our weekly local financial program",
+          "link": "https://kqennewsradio.com/2026/09/08/true-wealth-09-08-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-09-08-26",
+          "publishedOn": "2026-09-09T00:14:43.000Z",
+          "wordCount": 1633,
+          "title": "TRUE WEALTH 09.08.26",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152015",
+          "author": "Kyle Bailey",
+          "description": "September 8, 2026 3:30 p.m.  Crews with the Douglas Forest Protective Association and other agencies dealt with two fires between Monday afternoon and Tuesday morning. A DFPA release said on Monday at approximately 3:45 p.m. their firefighters along with the Canyonville-South Umpqua Fire District responded to a report of smoke approximately 0.4 miles west of...",
+          "link": "https://kqennewsradio.com/2026/09/08/dfpa-deals-with-monday-and-tuesday-fires/?utm_source=rss&utm_medium=rss&utm_campaign=dfpa-deals-with-monday-and-tuesday-fires",
+          "publishedOn": "2026-09-08T22:34:42.000Z",
+          "wordCount": 1756,
+          "title": "DFPA DEALS WITH MONDAY AND TUESDAY FIRES",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260908213408/Canyoncreek-e1788906862380.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152013",
+          "author": "Kyle Bailey",
+          "description": "September 9, 2026 3:00 p.m.  Roseburg Police jailed a man following a kidnapping incident on Sunday night. An RPD report said at 7:00 p.m. officers responded to a residence in the 400 block of Northeast Winchester Street after a caller said there had been a violation of a no contact release agreement that was in...",
+          "link": "https://kqennewsradio.com/2026/09/08/roseburg-police-jail-man-following-kidnappng-incident/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-police-jail-man-following-kidnappng-incident",
+          "publishedOn": "2026-09-08T22:06:54.000Z",
+          "wordCount": 1777,
+          "title": "ROSEBURG POLICE JAIL MAN FOLLOWING KIDNAPPNG INCIDENT",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20250818092916/RPDPatrol.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152004",
           "author": "Kyle Bailey",
           "description": "The Back-to-School series continues with Superintendent Kevin Wilson of the Winston-Dillard School District.",
@@ -249,6 +279,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/1bc733f9-d2ce-4caa-bb97-6ec6383bc0e0",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In Umpqua Community College's (UCC) visual arts program, it's often the work of students which receives the most focus. This month, a new exhibit will turn audience attention to the talents of their instructors.",
+          "link": "https://www.nrtoday.com/a_and_e/umpqua-community-college-faculty-show-to-highlight-staff-members-works-of-art/article_1bc733f9-d2ce-4caa-bb97-6ec6383bc0e0.html",
+          "publishedOn": "2026-09-08T19:56:00.000Z",
+          "wordCount": 13860,
+          "title": "Umpqua Community College Faculty Show to highlight staff member's works of art",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/41/64199cae-0cf8-47cd-864e-590a12e31fe9/6aa07a5de9f84.image.jpg?resize=300%2C200",
+            "length": "384685",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/6/41/64199cae-0cf8-47cd-864e-590a12e31fe9/6aa07a5de9f84.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/dbfe4ff8-000b-424a-abae-7b39e4186126",
           "author": "Kyle Bailey For NR Today",
           "description": "Douglas County Sheriff’s Office K9 Zoro tracked down a suspect in a burglary on Saturday night.",
@@ -276,6 +321,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6aa089ee6cb3f400017944b0",
+          "author": "Joseph Ziegler",
+          "description": "Firefighters responded to five small fires across Douglas County during and after the Labor Day weekend, including four caused by lightning. No homes or structures were threatened.",
+          "link": "https://www.theroseburgreceiver.com/lightning-sparks-four-small-fires-across-southern-douglas-county/",
+          "publishedOn": "2026-09-08T22:22:04.000Z",
+          "wordCount": 4325,
+          "title": "Lightning Sparks Four Small Fires Across Southern Douglas County",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/IMG_20260907_220914_839-1.jpg"
+        },
         {
           "id": "6aa057fa6cb3f4000179448e",
           "author": "Joseph Ziegler",
