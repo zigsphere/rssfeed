@@ -6,6 +6,26 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152313",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/09/15/true-wealth-09-15-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-09-15-26",
+          "publishedOn": "2026-09-16T00:13:14.000Z",
+          "wordCount": 1632,
+          "title": "TRUE WEALTH 09.15.26",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152309",
+          "author": "Kyle Bailey",
+          "description": "Superintendent Don Wonsley talks about what’s happening at Camas Valley Charter School in our Back-to-School series.",
+          "link": "https://kqennewsradio.com/2026/09/15/inside-douglas-county-09-15-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-09-15-26",
+          "publishedOn": "2026-09-15T23:27:06.000Z",
+          "wordCount": 1636,
+          "title": "INSIDE DOUGLAS COUNTY 09.15.26",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260915222653/Donw.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152306",
           "author": "Kyle Bailey",
           "description": "September 15, 2026 11:00 a.m.  One teen is dead and another critically injured after a disturbance involving a knife in Myrtle Creek on Sunday evening. A Douglas County Sheriff’s Office report released Tuesday morning said shortly before 10:45 p.m. 911 dispatchers received information regarding a disturbance in which two teens were stabbed at a residence...",
@@ -329,19 +349,19 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a44479a0-54dd-4e91-a3d7-99dcfa96a83a",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b6baa455-3785-4e2b-9157-74df0b8cc5ae",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "Typically, an artist's relationship with nature is creative, inserting landscapes and scenery into their works or allowing it to inspire them. Next weekend, Douglas County artists get a new way to connect with nature: As a vendor space.",
-          "link": "https://www.nrtoday.com/a_and_e/fall-2026-confluence-art-show-sale-to-connect-creatives-and-community-with-nature/article_a44479a0-54dd-4e91-a3d7-99dcfa96a83a.html",
-          "publishedOn": "2026-09-11T22:30:00.000Z",
-          "wordCount": 13314,
-          "title": "Fall 2026 Confluence Art Show & Sale to connect creatives and community with nature",
+          "description": "When faced with accepting a bid for Stewart Park's first master plan update in over 25 years, the Roseburg City Council passed a motion to reject them and send the project back for an expansion in scope.",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-rejects-bids-for-stewart-park-master-plan-votes-to-rework-extent-of/article_b6baa455-3785-4e2b-9157-74df0b8cc5ae.html",
+          "publishedOn": "2026-09-15T18:00:00.000Z",
+          "wordCount": 13390,
+          "title": "Roseburg City Council rejects bids for Stewart Park Master Plan, votes to rework extent of project",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/de/bde6657a-515c-464c-b03d-fd26c6d95844/67fae77293bf6.image.jpg?resize=300%2C200",
-            "length": "400436",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/89/b890c435-7781-4308-b830-d6e30201ceb5/69aa0ab1eb076.image.jpg?resize=300%2C225",
+            "length": "730134",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/de/bde6657a-515c-464c-b03d-fd26c6d95844/67fae77293bf6.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/89/b890c435-7781-4308-b830-d6e30201ceb5/69aa0ab1eb076.image.jpg?resize=300%2C225"
         }
       ]
     },
@@ -356,6 +376,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6aa9ea316cb3f40001795669",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County organizations gathered at the Roseburg Public Library to map youth resources, identify service gaps and improve how families connect with behavioral health, education, justice and community support programs.",
+          "link": "https://www.theroseburgreceiver.com/douglas-county-partners-map-youth-resources-and-identify-service-gaps/",
+          "publishedOn": "2026-09-16T01:02:04.000Z",
+          "wordCount": 3428,
+          "title": "Douglas County Partners Map Youth Resources And Identify Service Gaps",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/sim_mapping.png"
+        },
         {
           "id": "6aa9a11e6cb3f40001795651",
           "author": "The Roseburg Receiver",
