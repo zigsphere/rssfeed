@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-16T22:03:07.398Z</updated>
+    <updated>2026-09-17T01:18:19.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[K9 Eros Retires After More Than 100 Deployments With Douglas County Sheriff’s Office]]></title>
+        <id>6aab24f36cb3f40001795998</id>
+        <link href="https://www.theroseburgreceiver.com/k9-eros-retires-after-more-than-100-deployments-with-douglas-county-sheriffs-office/"/>
+        <updated>2026-09-16T23:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County Sheriff’s Office K9 Eros is retiring following veterinary advice after more than 100 deployments, 39 captures and several years of service. The German Shepherd will remain with his handler, Deputy William Maynes, as a family dog.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapt Warns Patients About Fraudulent Emails Using MyChart Branding]]></title>
+        <id>6aab1e6c6cb3f40001795980</id>
+        <link href="https://www.theroseburgreceiver.com/adapt-warns-patients-about-fraudulent-emails-using-mychart-branding/"/>
+        <updated>2026-09-16T23:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Adapt Integrated Health Care is warning patients about fraudulent emails using MyChart branding to offer medical kits and request payment or personal information.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight Prescribed Burns Tentatively Scheduled Across Douglas County]]></title>
+        <id>6aab1c186cb3f40001795966</id>
+        <link href="https://www.theroseburgreceiver.com/eight-prescribed-burns-tentatively-scheduled-across-douglas-county/"/>
+        <updated>2026-09-16T22:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Eight landowner-conducted prescribed burns are tentatively scheduled across Douglas County from Thursday through Saturday. Smoke may be visible from Roseburg, Sutherlin, Oakland, Myrtle Creek, Canyonville, Riddle and surrounding communities.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VA AWARDS $38 MILLION IN GRANTS TO FIGHT VETERAN HOMELESSNESS IN OREGON]]></title>
+        <id>https://kqennewsradio.com/?p=152368</id>
+        <link href="https://kqennewsradio.com/2026/09/16/va-awards-38-million-in-grants-to-fight-veteran-homelessness-in-oregon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=va-awards-38-million-in-grants-to-fight-veteran-homelessness-in-oregon"/>
+        <updated>2026-09-16T22:18:37.000Z</updated>
+        <summary type="html"><![CDATA[September 16, 2026 3:20 p.m.  On Wednesday, The Department of Veterans Affairs awarded just over $38 million in grants to 22 community organizations to help veterans in 2027 who are homeless or at risk of becoming homeless in Oregon. A release from the Roseburg VA Health Care System said this funding is part of a...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 09.16.26]]></title>
         <id>https://kqennewsradio.com/?p=152363</id>
@@ -237,6 +277,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roseburg Man Tracks Stolen Tesla to Eugene Home]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/8a6a2f7e-345b-4387-9460-3bb000912eaf</id>
+        <link href="https://www.kezi.com/news/roseburg-man-tracks-stolen-tesla-to-eugene-home/article_8a6a2f7e-345b-4387-9460-3bb000912eaf.html"/>
+        <updated>2026-09-16T00:53:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roseburg man’s Tesla was stolen and tracked to a Eugene home, where police say the suspect was looking for a beer and a shower. The car was recovered with a broken window and other damage.]]></summary>
+        <author>
+            <name>tpalodichuk@kezi.com (Tyson Palodichuk)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TRUE WEALTH 09.15.26]]></title>
         <id>https://kqennewsradio.com/?p=152313</id>
         <link href="https://kqennewsradio.com/2026/09/15/true-wealth-09-15-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-09-15-26"/>
@@ -284,6 +334,16 @@
         <summary type="html"><![CDATA[One 17-year-old is dead and another is critically injured following a stabbing at a Myrtle Creek residence Sunday night. Detectives have interviewed a 16-year-old, but no arrests have been made.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teen killed, another hurt in Myrtle Creek stabbing]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/6a7c0e17-34a1-437b-bbb5-81ddb3cff22c</id>
+        <link href="https://www.kezi.com/news/local/teen-killed-another-hurt-in-myrtle-creek-stabbing/article_6a7c0e17-34a1-437b-bbb5-81ddb3cff22c.html"/>
+        <updated>2026-09-15T18:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A 17-year-old boy is dead and another teen critically injured after a stabbing in Myrtle Creek, according to the Douglas County Sheriff's Office.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -764,16 +824,6 @@
         <summary type="html"><![CDATA[September 13, 2026 1:45 p.m.  On Thursday, the Joint Emergency Board allocated $1.25 million to the Oregon Secretary of State to expand the state’s network of secure, official ballot drop boxes and provide all Oregonians with greater transparency into the status of their ballot. Oregon Secretary of State Tobias Read said, “I told Oregonians I...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg fundraiser fights isolation with dancing, music, auctions]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/a44b2cc1-e3b3-45c3-8aec-15c358a8e9e0</id>
-        <link href="https://www.kezi.com/news/local/roseburg-fundraiser-fights-isolation-with-dancing-music-auctions/article_a44b2cc1-e3b3-45c3-8aec-15c358a8e9e0.html"/>
-        <updated>2026-09-11T18:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Chadwick Clubhouse is hosting a 1970s-themed fundraiser to support mental-health recovery and employment programs for adults in Douglas County.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
