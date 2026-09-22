@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-21T22:32:45.521Z</updated>
+    <updated>2026-09-22T01:33:34.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three Killed in Highway 42 Crash in Myrtle Point]]></title>
+        <id>6ab1d0ed6cb3f40001796373</id>
+        <link href="https://www.theroseburgreceiver.com/three-killed-in-highway-42-crash-in-myrtle-point/"/>
+        <updated>2026-09-22T00:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Three people, including a 4-month-old infant, died after two vehicles collided head-on Saturday afternoon on Highway 42 in Myrtle Point, according to Oregon State Police.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hummingbirds of Northern Peru Featured in Upcoming Roseburg Library Presentation]]></title>
+        <id>6ab1bda76cb3f40001796356</id>
+        <link href="https://www.theroseburgreceiver.com/hummingbirds-of-northern-peru-featured-in-upcoming-roseburg-library-presentation/"/>
+        <updated>2026-09-21T23:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Umpqua Bird Alliance and Roseburg Public Library will host a free presentation featuring 35 hummingbird species and other birds of northern Peru at 6 p.m. Wednesday, Oct. 7.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree Removal to Cause I-5 Delays Near Sutherlin and Oakland]]></title>
+        <id>6ab1bbf26cb3f4000179633e</id>
+        <link href="https://www.theroseburgreceiver.com/tree-removal-to-cause-i-5-delays-near-sutherlin-and-oakland/"/>
+        <updated>2026-09-21T23:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Drivers should expect delays on I-5 near Sutherlin and Oakland from Sept. 28 through Oct. 2 as crews remove about 80 dead and dying trees. Rolling slowdowns will affect both directions between mileposts 135 and 140, with most delays lasting less than 20 minutes.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLEEING VEHICLE CRASHES ON HIGHWAY 42, THREE DECEASED ON SATURDAY]]></title>
+        <id>https://kqennewsradio.com/?p=152547</id>
+        <link href="https://kqennewsradio.com/2026/09/21/fleeing-vehicle-crashes-on-highway-42-three-deceased-on-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fleeing-vehicle-crashes-on-highway-42-three-deceased-on-saturday"/>
+        <updated>2026-09-21T23:06:27.000Z</updated>
+        <summary type="html"><![CDATA[September 21, 2026 4:00 p.m.  A fleeing vehicle crashed on Highway 42 on Saturday, resulting in the death of three people. An OSP report released Monday afternoon said just after 4:45 p.m. troopers responded to a two-vehicle crash on Highway 42 near milepost 21 in Coos County near Myrtle Point. The preliminary investigation indicated that...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODFW COMMISSION ADOPTS 2027 BIG GAME REGULATIONS]]></title>
+        <id>https://kqennewsradio.com/?p=152545</id>
+        <link href="https://kqennewsradio.com/2026/09/21/odfw-commission-adopts-2027-big-game-regulations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=odfw-commission-adopts-2027-big-game-regulations"/>
+        <updated>2026-09-21T22:46:30.000Z</updated>
+        <summary type="html"><![CDATA[September 21, 2026 3:50 p.m.   On Friday, the Oregon Department of Fish and Wildlife Commission adopted the 2027 Big Game Regulations at their meeting in La Grande, setting seasons that offer a wide and varied range of hunting opportunities. An ODFW release said the approved regulations include hunts for deer, elk, pronghorn, black bear, cougar,...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLM SEEKS NOMINEES FOR OREGON PUBLIC LANDS COUNCILS]]></title>
+        <id>https://kqennewsradio.com/?p=152543</id>
+        <link href="https://kqennewsradio.com/2026/09/21/blm-seeks-nominees-for-oregon-public-lands-councils/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=blm-seeks-nominees-for-oregon-public-lands-councils"/>
+        <updated>2026-09-21T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[September 21, 2026 3:40 p.m.  The Bureau of Land Management seeks public land users to help guide decisions that keep Oregon and Washington lands healthy, accessible, and thriving by serving on resource advisory councils. Earlier this month, the BLM published a call for nominations to fill current and upcoming vacancies on four councils that advise the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 09.21.26]]></title>
         <id>https://kqennewsradio.com/?p=152540</id>
@@ -384,56 +444,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HIGH PRESSURE LEADS TO GRADUAL WARMING THROUGH THE WEEKEND]]></title>
-        <id>https://kqennewsradio.com/?p=152452</id>
-        <link href="https://kqennewsradio.com/2026/09/18/high-pressure-leads-to-gradual-warming-through-the-weekend/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=high-pressure-leads-to-gradual-warming-through-the-weekend"/>
-        <updated>2026-09-18T13:21:14.000Z</updated>
-        <summary type="html"><![CDATA[September 18, 2026 6:20 a.m.  High pressure in the Umpqua Valley will lead to gradual warming through the weekend. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the high temperature in Roseburg should be just above 80 degrees Friday, the low 80’s on Saturday and mid...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIDDLE SCHOOL DISTRICT REVIEWS REOPENING PROCESS]]></title>
-        <id>https://kqennewsradio.com/?p=152447</id>
-        <link href="https://kqennewsradio.com/2026/09/18/riddle-school-district-reviews-reopening-process/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=riddle-school-district-reviews-reopening-process"/>
-        <updated>2026-09-18T11:04:28.000Z</updated>
-        <summary type="html"><![CDATA[September 18, 2026 4:00 a.m.  The Riddle School District is reviewing the process that led to its reopening on Monday. A district release issued Thursday afternoon said the return to classes follows the completion of work to address bat activity in the building. That included a professional humane exclusion process and preventative measures to keep...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DFPA WITH PRESCRIBED BURNS FRIDAY AND SATURDAY]]></title>
-        <id>https://kqennewsradio.com/?p=152445</id>
-        <link href="https://kqennewsradio.com/2026/09/18/dfpa-with-prescribed-burns-friday-and-saturday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dfpa-with-prescribed-burns-friday-and-saturday"/>
-        <updated>2026-09-18T10:46:43.000Z</updated>
-        <summary type="html"><![CDATA[September 18, 2026 3:40 a.m.  The Douglas Forest Protective Association has more prescribed burns scheduled for Friday and Saturday. Ignite times and locations include: *Friday at 12:00 p.m. in the 200 block of Joelson Road in Umpqua *Friday at 1:00 p.m. in the 200 block of Chadwick Lane in Myrtle Creek *Friday at 1:00 p.m....]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COMMISSIONERS CELEBRATE NATIONAL CONSTITUTION WEEK]]></title>
-        <id>https://kqennewsradio.com/?p=152442</id>
-        <link href="https://kqennewsradio.com/2026/09/18/commissioners-celebrate-national-constitution-week/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commissioners-celebrate-national-constitution-week"/>
-        <updated>2026-09-18T10:42:53.000Z</updated>
-        <summary type="html"><![CDATA[September 18, 2026 3:30 a.m.  On Wednesday, the Douglas County Board of Commissioners Tom Kress, Chris Boice, and Tim Freeman issued a proclamation at the weekly business meeting calling upon all citizens of Douglas County to observe this week as National Constitution Week in the county. The proclamation was presented by Commissioner Boice, on behalf...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROSEBURG SCHOOLS ANNOUNCES NAMING OF RHS SPORTS FACILITIES]]></title>
-        <id>https://kqennewsradio.com/?p=152440</id>
-        <link href="https://kqennewsradio.com/2026/09/18/roseburg-schools-announces-naming-of-rhs-sports-facilities/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-schools-announces-naming-of-rhs-sports-facilities"/>
-        <updated>2026-09-18T10:37:52.000Z</updated>
-        <summary type="html"><![CDATA[September 18, 2026 3:20 a.m.  Roseburg Schools announced the official naming of the sports facilities at Roseburg High School during its school board meeting on Wednesday night. Following approval in August of an agreement between the district and the Cow Creek Band of Umpqua Tribe of Indians, Superintendent Jared Cordon told the board the official...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
