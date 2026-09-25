@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152721",
+          "author": "Kyle Bailey",
+          "description": "Today’s focus was on: Building Strong Beginnings – Childcare and Early Learning in Our Community.Joining the conversation are Karissa Bent of Cobb Street; Robin VanWinkle of Douglas ESD, Biz for Kids and the Douglas County Child Care Coalition; RHS Early Childhood Education instructor Mary Malepsy; Cherry Camonayan of Care Connections and UCC; UCC Early Childhood...",
+          "link": "https://kqennewsradio.com/2026/09/24/your-cue-05-24-26/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-05-24-26",
+          "publishedOn": "2026-09-25T00:24:35.000Z",
+          "wordCount": 2444,
+          "title": "YOUR CUE 05.24.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260924231944/YOUR-CUE-09-24-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260924232404/Your-CUE-Building-Community-1.jpg.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152715",
           "author": "Kyle Bailey",
           "description": "Candidate for Mayor of Roseburg, David Bolhuis shares his vision for the future of the city.",
@@ -584,26 +599,6 @@
           "wordCount": 1645,
           "title": "MORNING CONVERSATION 09.21.26",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=152499",
-          "author": "Kyle Bailey",
-          "description": "September 21, 2026 4:20 a.m.  With fall beginning Monday afternoon, high temperatures are expected to slowly drop in the Umpqua Valley this week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a low-pressure system to the south is driving a change in conditions. Highs will stay...",
-          "link": "https://kqennewsradio.com/2026/09/21/temperatures-dropping-in-umpqua-valley-low-pressure-to-the-south/?utm_source=rss&utm_medium=rss&utm_campaign=temperatures-dropping-in-umpqua-valley-low-pressure-to-the-south",
-          "publishedOn": "2026-09-21T11:23:43.000Z",
-          "wordCount": 1704,
-          "title": "TEMPERATURES DROPPING IN UMPQUA VALLEY, LOW PRESSURE TO THE SOUTH",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20240219224628/kqen_logo.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=152497",
-          "author": "Kyle Bailey",
-          "description": "September 21, 2026 4:00 a.m.  The United Community Action Network Food Bank will have its Empty Bowls fundraiser returning on Monday, October 5th and tickets are now on sale. A UCAN release said it will be held at 6:00 p.m. at the Food Bank Warehouse on Northeast Kenneth Ford Drive, just north of Roseburg. Attendees...",
-          "link": "https://kqennewsradio.com/2026/09/21/ucan-empty-bowls-dinner-october-5th-tickets-now-on-sale/?utm_source=rss&utm_medium=rss&utm_campaign=ucan-empty-bowls-dinner-october-5th-tickets-now-on-sale",
-          "publishedOn": "2026-09-21T11:05:01.000Z",
-          "wordCount": 1707,
-          "title": "UCAN EMPTY BOWLS DINNER OCTOBER 5TH, TICKETS NOW ON SALE",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260831092154/Emptybowls-e1788171738405.jpg"
         }
       ]
     },
@@ -676,6 +671,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ab5b4c36cb3f40001796f61",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg Public Library’s free fall youth programs include storytimes, book club, crafts, building activities, teen events, volunteer hours, and chess club. Programs run from October through December, and no library card is required.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-public-library-announces-fall-programs-for-children-and-teens/",
+          "publishedOn": "2026-09-24T23:54:48.000Z",
+          "wordCount": 3525,
+          "title": "Roseburg Public Library Announces Fall Programs for Children and Teens",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/092426_-Fall-Kids-Program-Aurora_1--1--1.jpg"
+        },
         {
           "id": "6ab5884c6cb3f40001796f41",
           "author": "Joseph Ziegler",
