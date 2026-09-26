@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-09-25T22:12:18.611Z</updated>
+    <updated>2026-09-26T01:26:58.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -267,6 +267,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[180-acre burn planned west of Glide starting Sept. 29]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/0182415e-7038-49bb-bf49-95aacb78bb0a</id>
+        <link href="https://www.kezi.com/news/local/180-acre-burn-planned-west-of-glide-starting-sept-29/article_0182415e-7038-49bb-bf49-95aacb78bb0a.html"/>
+        <updated>2026-09-24T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The United States Wildland Fire Service and the Bureau of Land Management are planning a 180-acre prescribed burn about six miles west of Glide.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DFPA Public Fire Restrictions Drop to Low Friday; Industrial Level Drops to 1]]></title>
         <id>6ab5884c6cb3f40001796f41</id>
         <link href="https://www.theroseburgreceiver.com/dfpa-public-fire-restrictions-drop-to-low-friday-industrial-level-drops-to-1/"/>
@@ -284,6 +294,16 @@
         <summary type="html"><![CDATA[Candidate for Mayor of Roseburg, David Bolhuis shares his vision for the future of the city.]]></summary>
         <author>
             <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg mom charged after DUI crash with infant in car]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/29a0ac6d-7dad-40b9-9dba-fc6f7f245a06</id>
+        <link href="https://www.kezi.com/news/local/roseburg-mom-charged-after-dui-crash-with-infant-in-car/article_29a0ac6d-7dad-40b9-9dba-fc6f7f245a06.html"/>
+        <updated>2026-09-24T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A 23-year-old woman faces charges after crashing into a tree with her infant daughter in the car Wednesday night, according to the Roseburg Police Department.]]></summary>
+        <author>
+            <name>News Staff</name>
         </author>
     </entry>
     <entry>
@@ -987,16 +1007,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GOVERNOR ORDERS FLAGS TO BE FLOWN AT HALF-STAFF TUESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=152565</id>
-        <link href="https://kqennewsradio.com/2026/09/22/governor-orders-flags-to-be-flown-at-half-staff-tuesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-orders-flags-to-be-flown-at-half-staff-tuesday"/>
-        <updated>2026-09-22T10:50:52.000Z</updated>
-        <summary type="html"><![CDATA[September 22, 2026 3:40 a.m.  Pursuant to the United States Flag Code, Governor Tina Kotek ordered flags at Oregon public institutions to be flown at half-staff on September 22nd, in honor of fallen firefighter Jesús Eduardo Olimpo Gutiérrez Toral, who died at age 25 on September 9th, while conducting firefighting operations on the Austin Fire...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[the VINEYARD TOUR returns for cycling across Umpqua wine country]]></title>
         <id>http://www.nrtoday.com/tncms/asset/editorial/62b67911-8050-4ecb-984a-0db2a7e6c39d</id>
         <link href="https://www.nrtoday.com/life/the-vineyard-tour-returns-for-cycling-across-umpqua-wine-country/article_62b67911-8050-4ecb-984a-0db2a7e6c39d.html"/>
@@ -1004,16 +1014,6 @@
         <summary type="html"><![CDATA[Umpqua Valley wine country might be best known for its family-owned vineyards and sprawling acres of grapevines, but next weekend the area turns into something more for cyclists: The setting for three days of rides.]]></summary>
         <author>
             <name>ANDREW GRIFFIN NR Today</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driver caught with fentanyl after allegedly running stops in Eugene]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/42c666f2-ae4f-44c9-ab6b-0276c9851b82</id>
-        <link href="https://www.kezi.com/news/local/driver-caught-with-fentanyl-after-allegedly-running-stops-in-eugene/article_42c666f2-ae4f-44c9-ab6b-0276c9851b82.html"/>
-        <updated>2026-09-21T23:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Eugene Police arrested a driver after an officer saw him blow through a crosswalk with people in it and run multiple stop signs in downtown Eugene.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

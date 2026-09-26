@@ -619,16 +619,6 @@
           "wordCount": 1649,
           "title": "MORNING CONVERSATION 09.22.26",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260922151532/BGclub.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=152565",
-          "author": "Kyle Bailey",
-          "description": "September 22, 2026 3:40 a.m.  Pursuant to the United States Flag Code, Governor Tina Kotek ordered flags at Oregon public institutions to be flown at half-staff on September 22nd, in honor of fallen firefighter Jesús Eduardo Olimpo Gutiérrez Toral, who died at age 25 on September 9th, while conducting firefighting operations on the Austin Fire...",
-          "link": "https://kqennewsradio.com/2026/09/22/governor-orders-flags-to-be-flown-at-half-staff-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=governor-orders-flags-to-be-flown-at-half-staff-tuesday",
-          "publishedOn": "2026-09-22T10:50:52.000Z",
-          "wordCount": 1738,
-          "title": "GOVERNOR ORDERS FLAGS TO BE FLOWN AT HALF-STAFF TUESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215138/Oregon_State_Capitol_2-e1626132991129.jpg"
         }
       ]
     },
@@ -1079,19 +1069,34 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.kezi.com/tncms/asset/editorial/42c666f2-ae4f-44c9-ab6b-0276c9851b82",
+          "id": "http://www.kezi.com/tncms/asset/editorial/0182415e-7038-49bb-bf49-95aacb78bb0a",
           "author": "News Staff",
-          "description": "Eugene Police arrested a driver after an officer saw him blow through a crosswalk with people in it and run multiple stop signs in downtown Eugene.",
-          "link": "https://www.kezi.com/news/local/driver-caught-with-fentanyl-after-allegedly-running-stops-in-eugene/article_42c666f2-ae4f-44c9-ab6b-0276c9851b82.html",
-          "publishedOn": "2026-09-21T23:14:00.000Z",
-          "wordCount": 7862,
-          "title": "Driver caught with fentanyl after allegedly running stops in Eugene",
+          "description": "The United States Wildland Fire Service and the Bureau of Land Management are planning a 180-acre prescribed burn about six miles west of Glide.",
+          "link": "https://www.kezi.com/news/local/180-acre-burn-planned-west-of-glide-starting-sept-29/article_0182415e-7038-49bb-bf49-95aacb78bb0a.html",
+          "publishedOn": "2026-09-24T21:45:00.000Z",
+          "wordCount": 8087,
+          "title": "180-acre burn planned west of Glide starting Sept. 29",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/dd/9dd17118-c07f-11ed-aeb7-b3448a877965/640d3c4c9424d.image.jpg?resize=300%2C169",
-            "length": "103983",
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/1b/31b589cc-76d5-4e86-a2af-6157f1ebe0ca/6ab6e72a9b742.image.jpg?resize=300%2C225",
+            "length": "231656",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/9/dd/9dd17118-c07f-11ed-aeb7-b3448a877965/640d3c4c9424d.image.jpg?resize=300%2C169"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/1b/31b589cc-76d5-4e86-a2af-6157f1ebe0ca/6ab6e72a9b742.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/29a0ac6d-7dad-40b9-9dba-fc6f7f245a06",
+          "author": "News Staff",
+          "description": "A 23-year-old woman faces charges after crashing into a tree with her infant daughter in the car Wednesday night, according to the Roseburg Police Department.",
+          "link": "https://www.kezi.com/news/local/roseburg-mom-charged-after-dui-crash-with-infant-in-car/article_29a0ac6d-7dad-40b9-9dba-fc6f7f245a06.html",
+          "publishedOn": "2026-09-24T18:20:00.000Z",
+          "wordCount": 7889,
+          "title": "Roseburg mom charged after DUI crash with infant in car",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204",
+            "length": "252712",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204"
         }
       ]
     }
