@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152857",
+          "author": "Kyle Bailey",
+          "description": "September 29, 2026 3:40 p.m.  The Oregon Department of Fish and Wildlife increasing Chronic Wasting Disease monitoring across Oregon, with new check stations planned as Any Legal Weapon deer seasons start statewide on October 3rd. All successful deer and elk hunters are asked to turn in a CWD sample, and each sample submitted between August 1st, 2026,...",
+          "link": "https://kqennewsradio.com/2026/09/29/odfw-reminds-hunters-to-get-their-deer-or-elk-tested-for-cwd/?utm_source=rss&utm_medium=rss&utm_campaign=odfw-reminds-hunters-to-get-their-deer-or-elk-tested-for-cwd",
+          "publishedOn": "2026-09-29T22:44:30.000Z",
+          "wordCount": 2661,
+          "title": "ODFW REMINDS HUNTERS TO GET THEIR DEER OR ELK TESTED FOR CWD",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223707/2018-ODFWLOGO3-Color-1-e1595326840753.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152851",
+          "author": "Kyle Bailey",
+          "description": "Live from Salem, State Representative Virgle Osborne covers current legislative topics and looks ahead to the November General Election.",
+          "link": "https://kqennewsradio.com/2026/09/29/inside-douglas-county-09-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-09-29-26",
+          "publishedOn": "2026-09-29T20:27:33.000Z",
+          "wordCount": 2408,
+          "title": "INSIDE DOUGLAS COUNTY 09.29.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260929192448/IDC-09-29-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727202406/Rep-Osborne-2023-scaled-e1675359987826.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152847",
           "author": "Kyle Bailey",
           "description": "September 29, 2026 10:50 a.m.   www.nrtoday.com.is reporting: In a Monday meeting, the Roseburg City Council authorized a contract for updates to the Stewart Park Master Plan and moved to apply for a $1 million infrastructure grant on behalf of Umpqua Community College. The council unanimously passed a motion to enter a contract with Cameron McCarthy,...",
@@ -229,34 +254,64 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/8e0b49b8-941b-4376-b004-895d6cf33580",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/80e9c3fc-79f0-4d5b-9782-4d2f385a6c32",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "As food insecurity rates continue to rise in Douglas County, Roseburg residents get a chance to help fight them next weekend by enjoying food and local craftsmanship at the United Community Action Network's (UCAN) Empty Bowls Dinner.",
-          "link": "https://www.nrtoday.com/life/food/ucan-empty-bowls-dinner-to-raise-food-bank-funds-highlight-local-food-and-craft/article_8e0b49b8-941b-4376-b004-895d6cf33580.html",
-          "publishedOn": "2026-09-25T22:00:00.000Z",
-          "wordCount": 13363,
-          "title": "UCAN Empty Bowls Dinner to raise food bank funds, highlight local food and craft",
+          "description": "After months of comments from Roseburg citizens regarding the use of Flock cameras, the Roseburg City Council postponed an informational discussion planned for this Monday’s meeting to the following week due to time constraints.",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-postpones-flock-camera-discussion-amid-citizen-calls-for-action/article_80e9c3fc-79f0-4d5b-9782-4d2f385a6c32.html",
+          "publishedOn": "2026-09-29T15:15:00.000Z",
+          "wordCount": 13443,
+          "title": "Roseburg City Council postpones Flock camera discussion amid citizen calls for action",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/cd/fcd04e35-67bc-4d41-9669-d02014375d19/68e6b1b70ce7e.image.jpg?resize=300%2C200",
-            "length": "252394",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/d3/ad3d3cb2-1cb2-46da-8410-fd966ee68684/6abbd5d40cce2.image.jpg?resize=300%2C225",
+            "length": "227809",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/cd/fcd04e35-67bc-4d41-9669-d02014375d19/68e6b1b70ce7e.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/d3/ad3d3cb2-1cb2-46da-8410-fd966ee68684/6abbd5d40cce2.image.jpg?resize=300%2C225"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a38bb7aa-4dc3-4776-9c90-428de06c18c0",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/61ef8012-64e8-4753-99fa-e29de0911fa2",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "Downtown Roseburg will likely see one of its busiest weekends of the year as it gears up for a day of live music, freshly-poured pints and community gathering at the 5th Annual Roseburg Blocktober Fest.",
-          "link": "https://www.nrtoday.com/news/blocktober-fest-returns-for-fifth-year-of-fall-festivities-in-roseburg/article_a38bb7aa-4dc3-4776-9c90-428de06c18c0.html",
-          "publishedOn": "2026-09-25T00:00:00.000Z",
-          "wordCount": 13341,
-          "title": "Blocktober Fest returns for fifth year of fall festivities in Roseburg.",
+          "description": "In a Monday meeting, the Roseburg City Council revisited potential plans to work towards two downtown urban campgrounds, ultimately deciding not to move forward with the prospect.",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-passes-motion-to-not-move-forward-with-downtown-urban-campgrounds/article_61ef8012-64e8-4753-99fa-e29de0911fa2.html",
+          "publishedOn": "2026-09-29T06:30:00.000Z",
+          "wordCount": 13584,
+          "title": "Roseburg City Council passes motion to not move forward with downtown urban campgrounds",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/5a/85a93000-d480-4bbc-a91e-96611458a094/68e1b9f9d3e2d.image.jpg?resize=300%2C200",
-            "length": "443336",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a1/1a110f3b-b124-4d73-9629-e77416b7b861/6abab0851f647.image.png?resize=300%2C188",
+            "length": "1874237",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/a1/1a110f3b-b124-4d73-9629-e77416b7b861/6abab0851f647.image.png?resize=300%2C188"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/709a5d80-e222-4180-b730-3aeac75ee0c0",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In a Monday meeting, the Roseburg City Council authorized a contract for updates to the Stewart Park Master Plan and moved to apply for a $1 million infrastructure grant on behalf of UCC.",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-authorizes-stewart-park-master-plan-contract-allows-application-for-1-million-grant/article_709a5d80-e222-4180-b730-3aeac75ee0c0.html",
+          "publishedOn": "2026-09-29T06:00:00.000Z",
+          "wordCount": 13353,
+          "title": "Roseburg City Council authorizes Stewart Park Master Plan contract, allows application for $1 million grant for UCC",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/89/b890c435-7781-4308-b830-d6e30201ceb5/69aa0ab1eb076.image.jpg?resize=300%2C225",
+            "length": "730134",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/8/5a/85a93000-d480-4bbc-a91e-96611458a094/68e1b9f9d3e2d.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/89/b890c435-7781-4308-b830-d6e30201ceb5/69aa0ab1eb076.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f3cae4dd-2b28-44ac-a1db-d086f2c018a7",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A plan to make roadways safer and more accommodating for motorists, cyclists and pedestrians on Diamond Lake Boulevard and Oregon Route 138 East is in the works between the City of Roseburg and Oregon Department of Transportation (ODOT).",
+          "link": "https://www.nrtoday.com/news/city-of-roseburg-and-odot-to-plan-improvements-for-or-138e-and-diamond-lake-boulevard/article_f3cae4dd-2b28-44ac-a1db-d086f2c018a7.html",
+          "publishedOn": "2026-09-28T13:00:00.000Z",
+          "wordCount": 13323,
+          "title": "City of Roseburg and ODOT to plan improvements for OR 138E and Diamond Lake Boulevard",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/04/304d47fc-84fc-470d-8ef4-d221b59293bd/6aba9607426a2.image.png?resize=300%2C182",
+            "length": "2422940",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/04/304d47fc-84fc-470d-8ef4-d221b59293bd/6aba9607426a2.image.png?resize=300%2C182"
         }
       ]
     },
@@ -271,6 +326,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6abc0b426cb3f40001797c1d",
+          "author": "The Roseburg Receiver",
+          "description": "Douglas County honored volunteers who help serve and deliver meals to seniors at a Sept. 23 luncheon in Winston. Together, Senior Nutritional Services volunteers gave 14,586 hours of service in 2025-26.",
+          "link": "https://www.theroseburgreceiver.com/douglas-county-honors-senior-meal-program-volunteers-at-winston-luncheon/",
+          "publishedOn": "2026-09-29T19:05:58.000Z",
+          "wordCount": 3282,
+          "title": "Douglas County Honors Senior Meal Program Volunteers at Winston Luncheon",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/unnamed--1-.jpg"
+        },
+        {
+          "id": "6abc07306cb3f40001797c07",
+          "author": "The Roseburg Receiver",
+          "description": "Explore black holes, neutron stars, pulsars, and distant worlds at Roseburg Public Library on Oct. 14. The free program features a recorded Smithsonian presentation followed by a discussion with UCC professor Dr. Paul Morgan.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-library-to-host-smithsonian-space-program-oct-14/",
+          "publishedOn": "2026-09-29T18:47:21.000Z",
+          "wordCount": 3122,
+          "title": "Roseburg Library to Host Smithsonian Space Program Oct. 14",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/092926_RI_LogosRural-Library@2x-100.jpg"
+        },
         {
           "id": "6abbd65f6cb3f40001797bdb",
           "author": "Joseph Ziegler",
