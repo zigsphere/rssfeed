@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152861",
+          "author": "Kyle Bailey",
+          "description": "Presented by Littlejohn Financial Services, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/09/29/true-wealth-09-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-09-29-26",
+          "publishedOn": "2026-09-30T00:11:20.000Z",
+          "wordCount": 2399,
+          "title": "TRUE WEALTH 09.29.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260929230305/TWR-09-29-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152859",
+          "author": "Kyle Bailey",
+          "description": "September 29, 2026 4:15 p.m.   The Oregon Department of Veterans’ Affairs will hold the Statewide Veterans Day Ceremony honoring all veterans of the U.S. Armed Forces at 11:00 a.m. Wednesday, November 11th, at the Oregon State Capitol State Park in Salem. An ODVA release said the annual ceremony will feature remarks from state leaders and...",
+          "link": "https://kqennewsradio.com/2026/09/29/odva-invites-oregonians-to-veterans-day-ceremony-at-the-capitol/?utm_source=rss&utm_medium=rss&utm_campaign=odva-invites-oregonians-to-veterans-day-ceremony-at-the-capitol",
+          "publishedOn": "2026-09-29T23:23:37.000Z",
+          "wordCount": 2491,
+          "title": "ODVA INVITES OREGONIANS TO VETERANS DAY CEREMONY AT THE CAPITOL",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727210856/flag-1-e1653673230432.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152857",
           "author": "Kyle Bailey",
           "description": "September 29, 2026 3:40 p.m.  The Oregon Department of Fish and Wildlife increasing Chronic Wasting Disease monitoring across Oregon, with new check stations planned as Any Legal Weapon deer seasons start statewide on October 3rd. All successful deer and elk hunters are asked to turn in a CWD sample, and each sample submitted between August 1st, 2026,...",
@@ -326,6 +351,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6abc63bb6cb3f40001797c87",
+          "author": "Joseph Ziegler",
+          "description": "Western Oregon’s general deer season opens Oct. 3 and runs through Nov. 6. Douglas County hunters must purchase tags by Oct. 2 and are encouraged to submit samples from harvested deer and elk to help ODFW monitor for chronic wasting disease.",
+          "link": "https://www.theroseburgreceiver.com/western-oregon-deer-season-opens-oct-3-hunters-asked-to-submit-cwd-samples/",
+          "publishedOn": "2026-09-30T01:29:01.000Z",
+          "wordCount": 3670,
+          "title": "Western Oregon Deer Season Opens Oct. 3; Hunters Asked to Submit CWD Samples",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/Nick-MyattMule-Deer-Elkhorn-WA20123.webp"
+        },
+        {
+          "id": "6abc4c016cb3f40001797c66",
+          "author": "The Roseburg Receiver",
+          "description": "Three prescribed pasture burns are scheduled Sept. 30 near Roseburg, Canyonville, and Lookingglass. Smoke may be visible from nearby communities, I-5, and highways 138 and 42. The burns are tentative and may change depending on weather and smoke conditions.",
+          "link": "https://www.theroseburgreceiver.com/three-prescribed-pasture-burns-scheduled-in-douglas-county-sept-30/",
+          "publishedOn": "2026-09-29T23:40:25.000Z",
+          "wordCount": 3321,
+          "title": "Three Prescribed Pasture Burns Scheduled in Douglas County Sept. 30",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/829196771_1429550135795358_5420462538642887791_n-1-1.jpeg"
+        },
         {
           "id": "6abc0b426cb3f40001797c1d",
           "author": "The Roseburg Receiver",
