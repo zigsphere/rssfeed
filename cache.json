@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=152909",
+          "author": "Kyle Bailey",
+          "description": "September 30, 2026 3:40 p.m.  Troopers with Oregon State Police responded to a sedan versus a bear collision early Wednesday morning. An OSP report said just after 1:50 a.m. the accident was called in, in the southbound lanes of Interstate Five just north of Canyonville. A sedan collided with a bear that was attempting to...",
+          "link": "https://kqennewsradio.com/2026/09/30/sedan-versus-bear-crash-on-interstate-five-near-canyonville/?utm_source=rss&utm_medium=rss&utm_campaign=sedan-versus-bear-crash-on-interstate-five-near-canyonville",
+          "publishedOn": "2026-09-30T22:42:19.000Z",
+          "wordCount": 2426,
+          "title": "SEDAN VERSUS BEAR CRASH ON INTERSTATE FIVE NEAR CANYONVILLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152907",
+          "author": "Kyle Bailey",
+          "description": "September 30, 2026 3:30 p.m.  Troopers with Oregon State Police responded to a single-vehicle crash on Interstate 5 northbound near the Salt Springs Road interchange in the Drain area on Tuesday afternoon. An OSP report said just after 4:50 p.m. the accident was called in near exit 160. The driver of a semi-truck was exiting...",
+          "link": "https://kqennewsradio.com/2026/09/30/semi-truck-crashes-on-interstate-five-in-north-county/?utm_source=rss&utm_medium=rss&utm_campaign=semi-truck-crashes-on-interstate-five-in-north-county",
+          "publishedOn": "2026-09-30T22:37:36.000Z",
+          "wordCount": 2399,
+          "title": "SEMI-TRUCK CRASHES ON INTERSTATE FIVE IN NORTH COUNTY",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=152903",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith joins us live from Salem to talk about his campaign for the U.S. Senate and his current work in the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/09/30/inside-douglas-county-09-30-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-09-30-26",
+          "publishedOn": "2026-09-30T20:07:41.000Z",
+          "wordCount": 2413,
+          "title": "INSIDE DOUGLAS COUNTY 09.30.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260930190543/IDC-09-30-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260304103805/BrockSmithcamp-scaled-e1772624319546.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=152899",
           "author": "Kyle Bailey",
           "description": "September 30, 2026 10:50 a.m.  The United Community Action Network Food Bank will have their Empty Bowls event next Monday, October 5th, beginning at 6:00 p.m. Tickets are $55 with a limited number of $65 tickets which allow for entry at 5:30 p.m. The evening will include a raffle, silent auction, wine pull, soup, bread,...",
@@ -449,13 +484,54 @@
       "title": "Southern Oregon Business Journal",
       "feedUrl": "https://southernoregonbusiness.com/feed",
       "siteUrl": "https://southernoregonbusiness.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://southernoregonbusiness.com/?p=9293",
+          "author": "Jim Teece",
+          "description": "Standard Order of Business: A Meeting Guide for Board Chairs The topic of Robert’s Rules of Order is vast, with many comprehensive books written on the subject. Having served on several boards over the years, I put together this cheat sheet for new board chairs. It provides a simple, high-level overview of the standard steps…\nThe post Quick tips on how to run a committee/board meeting using Robert’s Rules of Order appeared first on Southern Oregon Business Journal.",
+          "link": "https://southernoregonbusiness.com/quick-tips-on-how-to-run-a-committee-board-meeting-using-roberts-rules-of-order/",
+          "publishedOn": "2026-09-30T19:16:23.000Z",
+          "wordCount": 3212,
+          "title": "Quick tips on how to run a committee/board meeting using Robert’s Rules of Order",
+          "imageUrl": "https://southernoregonbusiness.com/wp-content/uploads/2026/09/Oregon-meeting.png"
+        }
+      ]
     },
     {
       "title": "The Roseburg Receiver",
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6abd883e6cb3f4000179805e",
+          "author": "The Roseburg Receiver",
+          "description": "Destination Downtown Roseburg is seeking an independent contractor to coordinate downtown projects, support local businesses, and assist with fundraising. Proposals are due Nov. 2, with a planned Dec. 1 start.",
+          "link": "https://www.theroseburgreceiver.com/destination-downtown-roseburg-seeks-program-coordinator-to-support-downtown-revitalization/",
+          "publishedOn": "2026-09-30T22:09:37.000Z",
+          "wordCount": 3524,
+          "title": "Destination Downtown Roseburg Seeks Program Coordinator to Support Downtown Revitalization",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/825861821_1640813737532349_7019672424860762501_n.jpeg"
+        },
+        {
+          "id": "6abd5a0e6cb3f40001798017",
+          "author": "The Roseburg Receiver",
+          "description": "Gallery Northwest will celebrate its 15th anniversary Oct. 24 with a free event in downtown Roseburg. Stop by from noon to 4 p.m. for live painting demonstrations, a slideshow of the gallery’s history, gift certificate drawings, and a chance to meet local artists.",
+          "link": "https://www.theroseburgreceiver.com/gallery-northwest-to-celebrate-15-years-with-free-downtown-roseburg-event/",
+          "publishedOn": "2026-09-30T18:53:48.000Z",
+          "wordCount": 3144,
+          "title": "Gallery Northwest to Celebrate 15 Years With Free Downtown Roseburg Event",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/gallery_nw-2-1.png"
+        },
+        {
+          "id": "6abd524b6cb3f40001798000",
+          "author": "The Roseburg Receiver",
+          "description": "DFPA reminds hunters that fire season remains in effect across the Douglas District. Campfires are prohibited except at designated sites, and hunters should check access restrictions, take precautions when target shooting and carry required firefighting equipment.",
+          "link": "https://www.theroseburgreceiver.com/dfpa-reminds-hunters-fire-restrictions-remain-in-effect-as-fall-season-begins/",
+          "publishedOn": "2026-09-30T18:19:34.000Z",
+          "wordCount": 3292,
+          "title": "DFPA Reminds Hunters Fire Restrictions Remain in Effect as Fall Season Begins",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/full_hunting-1-1.jpeg"
+        },
         {
           "id": "6abd45ac6cb3f40001797fd4",
           "author": "The Roseburg Receiver",
