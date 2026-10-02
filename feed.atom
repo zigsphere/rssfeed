@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-02T17:48:12.903Z</updated>
+    <updated>2026-10-02T22:55:00.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Historic Train Whistle Still Missing After Arrest in Sutherlin Theft Case]]></title>
+        <id>6ac01f0a6cb3f40001798873</id>
+        <link href="https://www.theroseburgreceiver.com/historic-train-whistle-still-missing-after-arrest-in-sutherlin-theft-case/"/>
+        <updated>2026-10-02T21:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Sutherlin police are seeking a historic steam whistle stolen from the locomotive at Central Park. An 18-year-old California resident was arrested in the case, but the whistle remains missing.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY2 10.02.26]]></title>
+        <id>https://kqennewsradio.com/?p=153027</id>
+        <link href="https://kqennewsradio.com/2026/10/02/inside-douglas-county2-10-02-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county2-10-02-26"/>
+        <updated>2026-10-02T20:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Ashley Cluver from Umpqua Valley Arts has an update on fall classes, exhibitions, and other upcoming events.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY1 10.02.26]]></title>
+        <id>https://kqennewsradio.com/?p=153024</id>
+        <link href="https://kqennewsradio.com/2026/10/02/inside-douglas-county1-10-02-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county1-10-02-26"/>
+        <updated>2026-10-02T20:52:35.000Z</updated>
+        <summary type="html"><![CDATA[From Umpqua Actors Community Theatre, Martin Fallose and actor Antoni Causi talk about the upcoming production of Time Warped.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Recognizes National 4-H Week, Highlights Local Youth Programs]]></title>
+        <id>6ac00dd96cb3f40001798856</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-recognizes-national-4-h-week-highlights-local-youth-programs/"/>
+        <updated>2026-10-02T20:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County commissioners proclaimed October 4-11 as National 4-H Week, recognizing a local program that served 588 youth in 2025 through 51 clubs, hands-on projects, and the support of hundreds of volunteers.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POLICE SEEKS PUBLIC’S HELP TO RECOVER HISTORIC LOCOMOTIVE WHISTLE]]></title>
+        <id>https://kqennewsradio.com/?p=153014</id>
+        <link href="https://kqennewsradio.com/2026/10/02/police-seeks-publics-help-to-recover-historic-locomotive-whistle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=police-seeks-publics-help-to-recover-historic-locomotive-whistle"/>
+        <updated>2026-10-02T17:57:02.000Z</updated>
+        <summary type="html"><![CDATA[October 2, 2026 10:50 a.m.  Sutherlin Police are seeking the public’s help as they try to recover a historic steam whistle that was cut from the city’s 1921 Cooke Oil-Fired Steam Locomotive on September 15th. Police Chief Troy Mills said an investigation into the theft led officers to a suspect who lives in California. Mills...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE JAIL MAN FOR WARRANT AFTER SPEEDING INCIDENT]]></title>
         <id>https://kqennewsradio.com/?p=153012</id>
@@ -915,16 +965,6 @@ The post Quick tips on how to run a committee/board meeting using Robert’s Rul
         <summary type="html"><![CDATA[6:35 a.m. Sept. 29, 2026 Local nonprofit, Every Child Douglas is holding a Resource Family Appreciation event October 3rd 11:00 a.m. to 1:00 p.m. at the Westside Christian Church parking lot on West Harvard Avenue to support local foster families. A release from the organization said Every Child Douglas is a nonprofit organization that provides...]]></summary>
         <author>
             <name>Joey Keeran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg Council Ends Review of Downtown Campground Sites, Calls for Work Study]]></title>
-        <id>6abb5f216cb3f400017978a5</id>
-        <link href="https://www.theroseburgreceiver.com/roseburg-council-ends-review-of-downtown-campground-sites-calls-for-work-study/"/>
-        <updated>2026-09-29T06:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg councilors voted 6-2 to stop evaluating two downtown lots for an urban campground. They unanimously called for a work study of city-managed, operator-managed, and unmanaged camp options.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
     <entry>

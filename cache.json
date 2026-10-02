@@ -6,6 +6,46 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153027",
+          "author": "Kyle Bailey",
+          "description": "Ashley Cluver from Umpqua Valley Arts has an update on fall classes, exhibitions, and other upcoming events.",
+          "link": "https://kqennewsradio.com/2026/10/02/inside-douglas-county2-10-02-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county2-10-02-26",
+          "publishedOn": "2026-10-02T20:58:41.000Z",
+          "wordCount": 2394,
+          "title": "INSIDE DOUGLAS COUNTY2 10.02.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261002195702/IDC2-10-02-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223957/UVA-Primary-Color-e1587405267807.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153024",
+          "author": "Kyle Bailey",
+          "description": "From Umpqua Actors Community Theatre, Martin Fallose and actor Antoni Causi talk about the upcoming production of Time Warped.",
+          "link": "https://kqennewsradio.com/2026/10/02/inside-douglas-county1-10-02-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county1-10-02-26",
+          "publishedOn": "2026-10-02T20:52:35.000Z",
+          "wordCount": 2396,
+          "title": "INSIDE DOUGLAS COUNTY1 10.02.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261002194937/IDC1-10-02-26-1.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215829/UACT-Logo-e1620921045996.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153014",
+          "author": "Kyle Bailey",
+          "description": "October 2, 2026 10:50 a.m.  Sutherlin Police are seeking the public’s help as they try to recover a historic steam whistle that was cut from the city’s 1921 Cooke Oil-Fired Steam Locomotive on September 15th. Police Chief Troy Mills said an investigation into the theft led officers to a suspect who lives in California. Mills...",
+          "link": "https://kqennewsradio.com/2026/10/02/police-seeks-publics-help-to-recover-historic-locomotive-whistle/?utm_source=rss&utm_medium=rss&utm_campaign=police-seeks-publics-help-to-recover-historic-locomotive-whistle",
+          "publishedOn": "2026-10-02T17:57:02.000Z",
+          "wordCount": 2618,
+          "title": "POLICE SEEKS PUBLIC’S HELP TO RECOVER HISTORIC LOCOMOTIVE WHISTLE",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261002165531/Suth1-1-1-rotated.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153012",
           "author": "Kyle Bailey",
           "description": "October 2, 2026 10:40 a.m.   Roseburg Police jailed a man for a warrant after a speeding incident on Wednesday. An RPD report said just before 7:45 a.m. officers initiated a traffic top on the 19-year-old after observing him traveling at 48-mile-per hour in a 35-mile-per hour zone in the 1800 block of Northeast Stephens Street....",
@@ -663,6 +703,26 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6ac01f0a6cb3f40001798873",
+          "author": "The Roseburg Receiver",
+          "description": "Sutherlin police are seeking a historic steam whistle stolen from the locomotive at Central Park. An 18-year-old California resident was arrested in the case, but the whistle remains missing.",
+          "link": "https://www.theroseburgreceiver.com/historic-train-whistle-still-missing-after-arrest-in-sutherlin-theft-case/",
+          "publishedOn": "2026-10-02T21:48:52.000Z",
+          "wordCount": 3245,
+          "title": "Historic Train Whistle Still Missing After Arrest in Sutherlin Theft Case",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/train-1.jpg"
+        },
+        {
+          "id": "6ac00dd96cb3f40001798856",
+          "author": "The Roseburg Receiver",
+          "description": "Douglas County commissioners proclaimed October 4-11 as National 4-H Week, recognizing a local program that served 588 youth in 2025 through 51 clubs, hands-on projects, and the support of hundreds of volunteers.",
+          "link": "https://www.theroseburgreceiver.com/douglas-county-recognizes-national-4-h-week-highlights-local-youth-programs/",
+          "publishedOn": "2026-10-02T20:06:38.000Z",
+          "wordCount": 3375,
+          "title": "Douglas County Recognizes National 4-H Week, Highlights Local Youth Programs",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/4H-Proclamation-1-1.png"
+        },
+        {
           "id": "6abfd6336cb3f4000179881f",
           "author": "The Roseburg Receiver",
           "description": "Roseburg police reported two incidents on October 1: a criminal prohibited camping citation near Templin Park and a warrant arrest following a disturbance outside Grocery Outlet.",
@@ -1021,16 +1081,6 @@
           "wordCount": 7315,
           "title": "September 29, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/The-Morning-Scoop-19.png"
-        },
-        {
-          "id": "6abb5f216cb3f400017978a5",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg councilors voted 6-2 to stop evaluating two downtown lots for an urban campground. They unanimously called for a work study of city-managed, operator-managed, and unmanaged camp options.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-council-ends-review-of-downtown-campground-sites-calls-for-work-study/",
-          "publishedOn": "2026-09-29T06:55:43.000Z",
-          "wordCount": 3404,
-          "title": "Roseburg Council Ends Review of Downtown Campground Sites, Calls for Work Study",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/09/end_campground.png"
         }
       ]
     },
