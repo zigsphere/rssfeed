@@ -584,26 +584,6 @@
           "wordCount": 2465,
           "title": "HIGH PRESSURE BRINGS GRADUAL WARMING, ABOVE NORMAL HIGHS TO COME",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=152822",
-          "author": "Joey Keeran",
-          "description": "6:38 a.m. Sept. 29, 2026 A portion of Old Melrose Road in Roseburg will be closed to through traffic from 8:00 a.m. to 5:00 p.m. Thursday while work crews install an underground bypass. A city release said the closure will affect the section of Old Melrose Road immediately north of West Geodeck Avenue heading toward...",
-          "link": "https://kqennewsradio.com/2026/09/29/section-of-old-melrose-road-to-close-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=section-of-old-melrose-road-to-close-thursday",
-          "publishedOn": "2026-09-29T13:39:50.000Z",
-          "wordCount": 2435,
-          "title": "Section of Old Melrose Road to Close Thursday",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260929123936/092826_Melrose-Closure-Graphic-scaled.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=152819",
-          "author": "Joey Keeran",
-          "description": "6:35 a.m. Sept. 29, 2026 Local nonprofit, Every Child Douglas is holding a Resource Family Appreciation event October 3rd 11:00 a.m. to 1:00 p.m. at the Westside Christian Church parking lot on West Harvard Avenue to support local foster families. A release from the organization said Every Child Douglas is a nonprofit organization that provides...",
-          "link": "https://kqennewsradio.com/2026/09/29/every-child-douglas-hosts-resource-family-appreciation-event/?utm_source=rss&utm_medium=rss&utm_campaign=every-child-douglas-hosts-resource-family-appreciation-event",
-          "publishedOn": "2026-09-29T13:37:06.000Z",
-          "wordCount": 2413,
-          "title": "Every Child Douglas hosts Resource Family Appreciation Event",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260929123656/every-child-douglas.png"
         }
       ]
     },
@@ -702,6 +682,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ac0573e6cb3f400017988bf",
+          "author": "The Roseburg Receiver",
+          "description": "Razor clam harvesting closed along the entire Oregon coast Oct. 2 after testing found elevated domoic acid levels. Mussel harvesting reopened coastwide. Bay clam and crab harvesting remain open.",
+          "link": "https://www.theroseburgreceiver.com/razor-clam-harvesting-closes-along-entire-oregon-coast/",
+          "publishedOn": "2026-10-03T01:20:25.000Z",
+          "wordCount": 3150,
+          "title": "Razor Clam Harvesting Closes Along Entire Oregon Coast",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/odfw.png"
+        },
+        {
+          "id": "6ac041cd6cb3f4000179888d",
+          "author": "The Roseburg Receiver",
+          "description": "DFPA will raise public use restrictions to Moderate and industrial fire precautions to Level 2 on Monday, October 5. Rising temperatures and falling humidity are prompting tighter restrictions on mowing, power saw use, and other activities across the Douglas District.",
+          "link": "https://www.theroseburgreceiver.com/dfpa-to-raise-fire-restrictions-to-moderate-starting-monday/",
+          "publishedOn": "2026-10-02T23:45:59.000Z",
+          "wordCount": 3289,
+          "title": "DFPA to Raise Fire Restrictions to Moderate Starting Monday",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/831211813_1113449524529224_6698260002641583999_n.png"
+        },
         {
           "id": "6ac01f0a6cb3f40001798873",
           "author": "The Roseburg Receiver",
@@ -1061,26 +1061,6 @@
           "wordCount": 3218,
           "title": "Flock Camera Presentation Delayed After Residents Wait to Address Roseburg Council",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/flock_camera.png"
-        },
-        {
-          "id": "6abbc0406cb3f40001797b50",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg councilors approved a $289,020 update to the Stewart Park Master Plan, expanding it to include Gaddis Park and the Umpqua Greenway. A $125,000 Ford Family Foundation grant will help fund the yearlong planning process.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-council-approves-expanded-stewart-park-master-plan-update/",
-          "publishedOn": "2026-09-29T13:43:16.000Z",
-          "wordCount": 3316,
-          "title": "Roseburg Council Approves Expanded Stewart Park Master Plan Update",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/stewart_park.jpeg"
-        },
-        {
-          "id": "6abbbb126cb3f400017978c8",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/september-29-2026/",
-          "publishedOn": "2026-09-29T13:40:26.000Z",
-          "wordCount": 7315,
-          "title": "September 29, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/09/The-Morning-Scoop-19.png"
         }
       ]
     },
