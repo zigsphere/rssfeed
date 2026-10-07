@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153203",
+          "author": "Kyle Bailey",
+          "description": "October 7, 2026 4:10 p.m.  In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts presents “The Ghosts of Roseburg Past: Historic Walking Tours” beginning next week in downtown Roseburg. Tours will take place October 16th through October 24th. They will be held Thursday through Saturday nights at 7:00 p.m. and Saturday afternoons...",
+          "link": "https://kqennewsradio.com/2026/10/07/ucc-with-ghosts-of-roseburg-past-historic-walking-tours/?utm_source=rss&utm_medium=rss&utm_campaign=ucc-with-ghosts-of-roseburg-past-historic-walking-tours",
+          "publishedOn": "2026-10-07T23:00:15.000Z",
+          "wordCount": 2397,
+          "title": "UCC WITH GHOSTS OF ROSEBURG PAST: HISTORIC WALKING TOURS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260930091350/Ghosts.jpg-e1790763247245.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153201",
+          "author": "Kyle Bailey",
+          "description": "October 7, 2026 4:00 p.m.  The American Red Cross is urging residents to donate blood this fall. A release said the need for blood and platelet donors remains constant. Those who give through October 18th will receive a $15 e-gift card to a merchant of their choice. Donation opportunities in Douglas County include: *October 13th...",
+          "link": "https://kqennewsradio.com/2026/10/07/red-cross-urging-residents-to-donate-blood-this-fall/?utm_source=rss&utm_medium=rss&utm_campaign=red-cross-urging-residents-to-donate-blood-this-fall",
+          "publishedOn": "2026-10-07T22:55:46.000Z",
+          "wordCount": 2435,
+          "title": "RED CROSS URGING RESIDENTS TO DONATE BLOOD THIS FALL",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261006151637/Red-Cross-Logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153195",
+          "author": "Kyle Bailey",
+          "description": "Roseburg School’s Superintendent Jared Cordon talks about his recommendation that Fir Grove Elementary School be closed at the end of this school year.",
+          "link": "https://kqennewsradio.com/2026/10/07/inside-douglas-county-10-07-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-07-26",
+          "publishedOn": "2026-10-07T20:11:52.000Z",
+          "wordCount": 2408,
+          "title": "INSIDE DOUGLAS COUNTY 10.07.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261007190849/IDC2-10-07-26.mp3",
+            "length": "1",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261007191120/JaredFG.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153192",
           "author": "Kyle Bailey",
           "description": "October 7, 2026 11:00 a.m.    On Wednesday in Portland, United States Attorney Scott E. Bradford announced the continued work of the District of Oregon’s Government Fraud Task Force, bringing together federal law enforcement agencies and inspectors general to strengthen efforts to identify, investigate, and prosecute fraud against government programs and American taxpayers. A release...",
@@ -391,6 +426,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ac6b6d16d6d8f00018121d4",
+          "author": "Joseph Ziegler",
+          "description": "DINT arrested Adam Paul Stewart at the Douglas County Courthouse Oct. 5 following an August marijuana investigation in Glendale. Detectives reported seizing 527 plants, more than 300 pounds of processed marijuana, firearms, and suspected stolen property.",
+          "link": "https://www.theroseburgreceiver.com/glendale-marijuana-investigation-leads-to-arrest-at-douglas-county-courthouse/",
+          "publishedOn": "2026-10-07T21:20:43.000Z",
+          "wordCount": 3207,
+          "title": "Glendale Marijuana Investigation Leads to Arrest at Douglas County Courthouse",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/image003--1--1.png"
+        },
+        {
+          "id": "6ac697b66d6d8f00018121bc",
+          "author": "The Roseburg Receiver",
+          "description": "Cascade Community Credit Union will host a free Shred Day on Saturday, Oct. 10, from 9 a.m. to 2 p.m. at its Harvard branch in Roseburg. The event is open to the community, with a limit of six boxes of documents.",
+          "link": "https://www.theroseburgreceiver.com/cascade-community-credit-union-to-host-free-shred-day-oct-10/",
+          "publishedOn": "2026-10-07T19:06:53.000Z",
+          "wordCount": 3130,
+          "title": "Cascade Community Credit Union to Host Free Shred Day Oct. 10",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/833379821_1702525731875856_5337258857979030450_n.jpg"
+        },
         {
           "id": "6ac67da96d6d8f000181219f",
           "author": "The Roseburg Receiver",
