@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-06T22:58:29.396Z</updated>
+    <updated>2026-10-07T02:14:03.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 10.06.26]]></title>
+        <id>https://kqennewsradio.com/?p=153141</id>
+        <link href="https://kqennewsradio.com/2026/10/06/true-wealth-10-06-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-10-06-26"/>
+        <updated>2026-10-07T00:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Presented by Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volunteers Invited to 42nd Annual Umpqua Rivers Cleanup on October 18]]></title>
+        <id>6ac582606d6d8f0001811e1b</id>
+        <link href="https://www.theroseburgreceiver.com/volunteers-invited-to-42nd-annual-umpqua-rivers-cleanup-on-october-18/"/>
+        <updated>2026-10-06T23:27:47.000Z</updated>
+        <summary type="html"><![CDATA[The 42nd Annual Umpqua Rivers Cleanup is Sunday, October 18. Volunteers can help collect trash along local rivers, creeks, boat ramps, and parks throughout the day, working independently or joining a coordinator-led effort.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUV AND TRAILER JACKNIFES, CAUSING CRASH ON FREEWAY]]></title>
+        <id>https://kqennewsradio.com/?p=153139</id>
+        <link href="https://kqennewsradio.com/2026/10/06/suv-and-trailer-jacknifes-causing-crash-on-freeway/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=suv-and-trailer-jacknifes-causing-crash-on-freeway"/>
+        <updated>2026-10-06T23:23:48.000Z</updated>
+        <summary type="html"><![CDATA[October 6, 2026 4;30 p.m.  A SUV and trailer jackknifed on Monday afternoon, leading to a big traffic backup on Interstate 5 southbound in the Roberts Mountain area. An Oregon State Police report said at 1:35 p.m. a trooper was dispatched to the accident about nine miles south of Roseburg near milepost 116. The driver...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.06.26]]></title>
         <id>https://kqennewsradio.com/?p=153135</id>
@@ -434,26 +464,6 @@
         <summary type="html"><![CDATA[October 3, 2026 7:30 a.m.  Due to increasing temperatures and lowering relative humidity across lands protected by the Douglas Forest Protective Association, Public Use Restrictions Levels increase to MODERATE as of Monday for all private, county, state, and Bureau of Indian Affairs lands within the Douglas District. DFPA Public Information Officer Rachel Pope said in...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roseburg library offers free youth programs this fall]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/d0a801ee-6e34-4d57-b5bf-16dd1fc11708</id>
-        <link href="https://www.kezi.com/news/local/roseburg-library-offers-free-youth-programs-this-fall/article_d0a801ee-6e34-4d57-b5bf-16dd1fc11708.html"/>
-        <updated>2026-09-30T21:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg Public Library is rolling out its fall youth program schedule with free activities for families.]]></summary>
-        <author>
-            <name>News Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prescribed burns planned near Diamond Lake this fall]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/39250cbe-edb2-435a-bd62-89da41319f25</id>
-        <link href="https://www.kezi.com/news/local/prescribed-burns-planned-near-diamond-lake-this-fall/article_39250cbe-edb2-435a-bd62-89da41319f25.html"/>
-        <updated>2026-09-30T19:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The Diamond Lake and Tiller Ranger Districts are planning prescribed fires this fall to remove excess vegetation and reduce wildfire risk.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>
