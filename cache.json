@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153253",
+          "author": "Kyle Bailey",
+          "description": "October 8, 2026 3:30 p.m.    On Thursday, Governor Tina Kotek announced that her administration, through the work of the Division of Financial Regulation, has recovered more than $32.8 million owed to Oregonians by insurance companies, lenders, and other financial institutions since January 2023. A release from the governor’s office said these recovered funds put...",
+          "link": "https://kqennewsradio.com/2026/10/08/oregon-recovers-32-8-million-for-consumers/?utm_source=rss&utm_medium=rss&utm_campaign=oregon-recovers-32-8-million-for-consumers",
+          "publishedOn": "2026-10-08T22:28:53.000Z",
+          "wordCount": 2307,
+          "title": "OREGON RECOVERS $32.8 MILLION FOR CONSUMERS",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260724092048/DFR-logo-blue-1-e1784888496934.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153249",
+          "author": "Kyle Bailey",
+          "description": "October 8, 2026 1:15 p.m.   Make a Difference Day Douglas County is happening on Saturday, October 24th in the Roseburg area. Community members can volunteer as an individual, a family, a group, or an organization to help with one of more than a dozen projects taking place that morning from 9:00 a.m. to 12:00 p.m....",
+          "link": "https://kqennewsradio.com/2026/10/08/make-a-difference-day-happening-on-saturday-october-24th-2/?utm_source=rss&utm_medium=rss&utm_campaign=make-a-difference-day-happening-on-saturday-october-24th-2",
+          "publishedOn": "2026-10-08T20:13:55.000Z",
+          "wordCount": 2205,
+          "title": "MAKE A DIFFERENCE DAY HAPPENING ON SATURDAY, OCTOBER 24TH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261008162819/Make-a-Diff-Day-Volunteer-Flyer-2026-1.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=153245",
+          "author": "Kyle Bailey",
+          "description": "Democratic and Independent candidate for Congress in the 2nd District, Chris Beck talks about his background and his views, along with why he would like to serve in Congress.",
+          "link": "https://kqennewsradio.com/2026/10/08/inside-douglas-county-10-08-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-08-26",
+          "publishedOn": "2026-10-08T20:08:16.000Z",
+          "wordCount": 2182,
+          "title": "INSIDE DOUGLAS COUNTY 10.08.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261008190512/IDC-10-08-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261008190719/Chrisbeck-e1791490069429.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153242",
           "author": "Kyle Bailey",
           "description": "October 8, 2026 10:50 a.m.  Roseburg Police jailed a man for an alleged burglary on Wednesday morning. An RPD report said just after 8:50 a.m. officers responded to the 2100 block of Northeast Vine Street after the 36-year-old was called in for being inside residence without permission. The suspect was reportedly stabbing plants with a...",
@@ -479,16 +514,6 @@
           "wordCount": 2416,
           "title": "ROSEBURG VA PARTICIPATING IN DEA NATIONAL TAKEBACK EVENT",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261005152652/Takeback.jpg-e1791217634880.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153058",
-          "author": "Kyle Bailey",
-          "description": "October 5, 2026 4:00 a.m.   High pressure is bringing above normal high temperatures through Friday in the Umpqua Valley. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs are slated to be around ten degrees above normal for this time of year. A cold front is...",
-          "link": "https://kqennewsradio.com/2026/10/05/high-pressure-bringing-above-normal-high-temperatures-through-friday/?utm_source=rss&utm_medium=rss&utm_campaign=high-pressure-bringing-above-normal-high-temperatures-through-friday",
-          "publishedOn": "2026-10-05T11:02:47.000Z",
-          "wordCount": 2453,
-          "title": "HIGH PRESSURE BRINGING ABOVE NORMAL HIGH TEMPERATURES THROUGH FRIDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
         }
       ]
     },
@@ -531,6 +556,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ac7f4196d6d8f0001812593",
+          "author": "The Roseburg Receiver",
+          "description": "Reedsport Community Charter School will forfeit its homecoming football game against Camas Valley because too few healthy players are available. The school said student-athlete safety comes first and will continue evaluating the program.",
+          "link": "https://www.theroseburgreceiver.com/reedsport-forfeits-homecoming-football-game-against-camas-valley/",
+          "publishedOn": "2026-10-08T19:54:28.000Z",
+          "wordCount": 3133,
+          "title": "Reedsport Forfeits Homecoming Football Game Against Camas Valley",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/Reedsport_High_School_-_panoramio.jpg"
+        },
         {
           "id": "6ac7d8a26d6d8f0001812578",
           "author": "The Roseburg Receiver",
