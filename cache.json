@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153323",
+          "author": "Kyle Bailey",
+          "description": "Sutherlin Mayor and candidate for re-election Michelle Sumner talks about her role and her hopes for the future of Sutherlin.",
+          "link": "https://kqennewsradio.com/2026/10/09/inside-douglas-county-10-09-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-09-26",
+          "publishedOn": "2026-10-09T20:17:57.000Z",
+          "wordCount": 2474,
+          "title": "INSIDE DOUGLAS COUNTY 10.09.26",
+          "enclosure": {
+            "url": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261009191422/IDC-10-09-26.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261009191738/Michelle.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153321",
           "author": "Kyle Bailey",
           "description": "October 9, 2026 10:50 a.m.   The Douglas Forest Protective Association has a prescribed burn scheduled for Sunday. The ignite time will be 2:00 p.m. in the 17000 block of Dixonville Road. Smoke will be visible from Roseburg, Interstate 5, Highway 138E, and Northeast Diamond Lake Boulevard.",
@@ -572,6 +587,46 @@
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
         {
+          "id": "6ac9430b6d6d8f00018129cb",
+          "author": "The Roseburg Receiver",
+          "description": "Oregon’s Division of Financial Regulation has recovered more than $32.8 million for residents since January 2023, resolving disputes over insurance claims, overcharges, and other payments. Consumer advocates are available to help with insurance and financial services complaints.",
+          "link": "https://www.theroseburgreceiver.com/oregon-consumer-advocates-recover-32-8-million-in-claims-refunds-and-payments/",
+          "publishedOn": "2026-10-09T19:42:25.000Z",
+          "wordCount": 3318,
+          "title": "Oregon Consumer Advocates Recover $32.8 Million in Claims, Refunds, and Payments",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/kotek.jpg"
+        },
+        {
+          "id": "6ac93f3e6d6d8f00018129a5",
+          "author": "The Roseburg Receiver",
+          "description": "Roseburg Police arrested Markus Clinton Miller, 34, on two warrants Oct. 7 after a trespass complaint near SE Pine Street. Police said he resisted arrest and had suspected methamphetamine. He was lodged at Douglas County Corrections.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-accused-of-resisting-arrest-possessing-meth-after-trespass-complaint/",
+          "publishedOn": "2026-10-09T19:26:15.000Z",
+          "wordCount": 3209,
+          "title": "Roseburg Man Accused of Resisting Arrest, Possessing Meth After Trespass Complaint",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/police_car.webp"
+        },
+        {
+          "id": "6ac93bc16d6d8f000181297c",
+          "author": "Joseph Ziegler",
+          "description": "Wildlife Safari’s Boos & Brews returns October 17 with local craft beer, animal appearances, a haunted house, music, dancing, and a costume contest. The event runs from 7 to 10 p.m. for adults 21 and older. General admission is $25.",
+          "link": "https://www.theroseburgreceiver.com/wildlife-safaris-boos-brews-returns-october-17/",
+          "publishedOn": "2026-10-09T19:11:21.000Z",
+          "wordCount": 3132,
+          "title": "Wildlife Safari’s Boos & Brews Returns October 17",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/boos_and_brews-2-1.webp"
+        },
+        {
+          "id": "6ac933bf6d6d8f0001812959",
+          "author": "Joseph Ziegler",
+          "description": "Five local businesses will compete for a $2,500 grand prize at Umpqua GrowthTalks’ Pitch Night on Oct. 22 at Backside Brewing Co. in Roseburg. Doors open at 5 p.m. Admission is free, and registration is encouraged.",
+          "link": "https://www.theroseburgreceiver.com/five-local-businesses-to-compete-for-2-500-at-roseburg-pitch-night/",
+          "publishedOn": "2026-10-09T18:35:24.000Z",
+          "wordCount": 3171,
+          "title": "Five Local Businesses to Compete for $2,500 at Roseburg Pitch Night",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/10529943807178081708.jpeg"
+        },
+        {
           "id": "6ac92cb36d6d8f000181293c",
           "author": "The Roseburg Receiver",
           "description": "A free forum Oct. 15 at the Roseburg Public Library will explore retail drugs, potential health risks, and product oversight. Hosted by the League of Women Voters of Umpqua Valley, the event runs from 6 to 7:30 p.m.",
@@ -917,7 +972,23 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/74dbb0e7-0ba0-490a-adac-9a5b50390713",
+          "author": "News Staff",
+          "description": "Douglas County is hosting a free electronics recycling event on Saturday.",
+          "link": "https://www.kezi.com/news/local/douglas-county-hosts-free-electronics-recycling-oct-10/article_74dbb0e7-0ba0-490a-adac-9a5b50390713.html",
+          "publishedOn": "2026-10-09T22:31:00.000Z",
+          "wordCount": 7907,
+          "title": "Douglas County hosts free electronics recycling Oct. 10",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/f2/5f2b3bcf-f5e3-42b4-af7f-64c22bf3cf5a/691fa537911f4.image.jpg?resize=300%2C225",
+            "length": "253157",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/f2/5f2b3bcf-f5e3-42b4-af7f-64c22bf3cf5a/691fa537911f4.image.jpg?resize=300%2C225"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
