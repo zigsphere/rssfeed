@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-12T21:13:26.433Z</updated>
+    <updated>2026-10-13T03:29:55.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County homicide: suspect caught after deadly shooting]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/2cf6842e-5b97-48a0-89c1-7577a2084074</id>
+        <link href="https://www.kezi.com/news/local/douglas-county-homicide-suspect-caught-after-deadly-shooting/article_2cf6842e-5b97-48a0-89c1-7577a2084074.html"/>
+        <updated>2026-10-12T21:18:00.000Z</updated>
+        <summary type="html"><![CDATA[One man is dead and another is in custody following a shooting in Lookingglass, according to the Douglas County Sheriff's Office.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAJOR CRIMES TEAM INVESTIGATING LOOKINGGLASS HOMICIDE]]></title>
         <id>https://kqennewsradio.com/?p=153382</id>
@@ -384,36 +394,6 @@
         <summary type="html"><![CDATA[Friendly Kitchen/Meals on Wheels Volunteer Coordinator Casey Buller talks about their $8,000 basket raffle and auction.]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Weather Returns To Roseburg With Chilly Nights Ahead]]></title>
-        <id>6ac8f3536d6d8f00018128f9</id>
-        <link href="https://www.theroseburgreceiver.com/cooler-weather-returns-to-roseburg-with-chilly-nights-ahead/"/>
-        <updated>2026-10-09T14:02:57.000Z</updated>
-        <summary type="html"><![CDATA[Roseburg will cool down this weekend as a mostly dry cold front brings breezy conditions and slight rain chances. Valley highs will fall into the low to mid-60s Saturday, with chilly nights ahead and a limited chance of frost in Roseburg.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefighters Stop Grass Fire Near Richardson Road in Myrtle Creek]]></title>
-        <id>6ac8ef666d6d8f00018128dd</id>
-        <link href="https://www.theroseburgreceiver.com/firefighters-stop-grass-fire-near-richardson-road-in-myrtle-creek/"/>
-        <updated>2026-10-09T13:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Firefighters stopped a grass fire near Richardson Road in Myrtle Creek on Oct. 8. Crews initially estimated the fire at 1.5 acres. No homes or structures were threatened, and DFPA said the human-caused fire remained under investigation.]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 9, 2026]]></title>
-        <id>6ac8ea3d6d6d8f0001812616</id>
-        <link href="https://www.theroseburgreceiver.com/morning-scoop/october-9-2026/"/>
-        <updated>2026-10-09T13:35:29.000Z</updated>
-        <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
-        <author>
-            <name>Joseph Ziegler</name>
         </author>
     </entry>
 </feed>
