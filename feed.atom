@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-17T15:26:30.691Z</updated>
+    <updated>2026-10-17T18:22:50.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSEBURG SETS RECORD HIGH TEMPERATURE FOR OCTOBER 16TH]]></title>
+        <id>https://kqennewsradio.com/?p=153628</id>
+        <link href="https://kqennewsradio.com/2026/10/17/roseburg-sets-record-high-temperature-for-october-16th/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roseburg-sets-record-high-temperature-for-october-16th"/>
+        <updated>2026-10-17T15:58:29.000Z</updated>
+        <summary type="html"><![CDATA[October 17, 2026 8:50 a.m.  Roseburg set a new record high temperature for the date on Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 89 degrees at the Roseburg Regional Airport. That was higher than the 84-degree high that had been forecast....]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bend community mourns after deadly Silver Rail Elementary attack]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/e52edd9e-aa39-4e1b-8771-2f05b0006491</id>
+        <link href="https://www.kezi.com/news/local/bend-community-mourns-after-deadly-silver-rail-elementary-attack/article_e52edd9e-aa39-4e1b-8771-2f05b0006491.html"/>
+        <updated>2026-10-17T03:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A shooting at Silver Rail Elementary School in Bend left four people dead, including three children, and the community is now grieving, honoring the victims, and calling for change as police investigate the case.]]></summary>
+        <author>
+            <name>Rachel McConaghie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armed Roseburg standoff ends safely, man in jail]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/e72f138b-21b0-454b-9498-0bac8496a854</id>
+        <link href="https://www.kezi.com/news/local/armed-roseburg-standoff-ends-safely-man-in-jail/article_e72f138b-21b0-454b-9498-0bac8496a854.html"/>
+        <updated>2026-10-16T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A man barricaded himself inside a home with a gun after officers responded to a domestic disturbance on Keasey Street on Thursday, according to the Roseburg Police Department.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Christmas trees available on Umpqua National Forest]]></title>
+        <id>http://www.kezi.com/tncms/asset/editorial/ecb5e1b9-f51b-4d30-a949-2687ec4c4de8</id>
+        <link href="https://www.kezi.com/news/local/free-christmas-trees-available-on-umpqua-national-forest/article_ecb5e1b9-f51b-4d30-a949-2687ec4c4de8.html"/>
+        <updated>2026-10-16T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Christmas tree permits are free this year on the Umpqua National Forest.]]></summary>
+        <author>
+            <name>News Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victim Identified In Lookingglass Homicide Investigation]]></title>
         <id>6ad298f56d6d8f0001813cb1</id>
@@ -884,16 +924,6 @@
         <summary type="html"><![CDATA[October 14, 2026 3:20 a.m.  Callahan Village Senior Living will be serving a drive through breakfast to first responders of Douglas County October 28th for First Responders Day. A release from the Village said residents will be handing first responders a ‘Thank You’ card and special gift as they are served a breakfast burrito with...]]></summary>
         <author>
             <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missing Roseburg man with dementia rescued from steep slope]]></title>
-        <id>http://www.kezi.com/tncms/asset/editorial/b3916b24-3f20-446c-b7d5-d4abdd1e18c7</id>
-        <link href="https://www.kezi.com/news/local/missing-roseburg-man-with-dementia-rescued-from-steep-slope/article_b3916b24-3f20-446c-b7d5-d4abdd1e18c7.html"/>
-        <updated>2026-10-13T21:38:00.000Z</updated>
-        <summary type="html"><![CDATA[A 73-year-old Roseburg man with dementia was found safe on a hillside Friday evening after search crews used a drone to locate him, according to the Douglas County Sheriff's Office.]]></summary>
-        <author>
-            <name>News Staff</name>
         </author>
     </entry>
 </feed>

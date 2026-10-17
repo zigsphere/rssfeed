@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153628",
+          "author": "Kyle Bailey",
+          "description": "October 17, 2026 8:50 a.m.  Roseburg set a new record high temperature for the date on Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that the mercury reached 89 degrees at the Roseburg Regional Airport. That was higher than the 84-degree high that had been forecast....",
+          "link": "https://kqennewsradio.com/2026/10/17/roseburg-sets-record-high-temperature-for-october-16th/?utm_source=rss&utm_medium=rss&utm_campaign=roseburg-sets-record-high-temperature-for-october-16th",
+          "publishedOn": "2026-10-17T15:58:29.000Z",
+          "wordCount": 2533,
+          "title": "ROSEBURG SETS RECORD HIGH TEMPERATURE FOR OCTOBER 16TH",
+          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153624",
           "author": "Kyle Bailey",
           "description": "October 16,2026 2:30 p.m.  The Douglas County Sheriff’s Office has released the name of the victim in the October 11th homicide investigation in Lookingglass. A DCSO release said the victim has been identified as 65-year-old David Nathan Danford. Danford was found deceased inside a residence in the 7000 block of Lookingglass Road after deputies responded...",
@@ -949,19 +959,49 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.kezi.com/tncms/asset/editorial/b3916b24-3f20-446c-b7d5-d4abdd1e18c7",
-          "author": "News Staff",
-          "description": "A 73-year-old Roseburg man with dementia was found safe on a hillside Friday evening after search crews used a drone to locate him, according to the Douglas County Sheriff's Office.",
-          "link": "https://www.kezi.com/news/local/missing-roseburg-man-with-dementia-rescued-from-steep-slope/article_b3916b24-3f20-446c-b7d5-d4abdd1e18c7.html",
-          "publishedOn": "2026-10-13T21:38:00.000Z",
-          "wordCount": 7936,
-          "title": "Missing Roseburg man with dementia rescued from steep slope",
+          "id": "http://www.kezi.com/tncms/asset/editorial/e52edd9e-aa39-4e1b-8771-2f05b0006491",
+          "author": "Rachel McConaghie",
+          "description": "A shooting at Silver Rail Elementary School in Bend left four people dead, including three children, and the community is now grieving, honoring the victims, and calling for change as police investigate the case.",
+          "link": "https://www.kezi.com/news/local/bend-community-mourns-after-deadly-silver-rail-elementary-attack/article_e52edd9e-aa39-4e1b-8771-2f05b0006491.html",
+          "publishedOn": "2026-10-17T03:54:00.000Z",
+          "wordCount": 9250,
+          "title": "Bend community mourns after deadly Silver Rail Elementary attack",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/4a/14a51306-7f37-4f94-87c9-63ef476e8e59/6acea6e5bb68e.image.jpg?resize=300%2C162",
-            "length": "271168",
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/a0/ba029d4b-1c1c-422a-a377-1d25b814df04/6ad2f99f9af80.image.png?resize=300%2C193",
+            "length": "239445",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/b/a0/ba029d4b-1c1c-422a-a377-1d25b814df04/6ad2f99f9af80.image.png?resize=300%2C193"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/e72f138b-21b0-454b-9498-0bac8496a854",
+          "author": "News Staff",
+          "description": "A man barricaded himself inside a home with a gun after officers responded to a domestic disturbance on Keasey Street on Thursday, according to the Roseburg Police Department.",
+          "link": "https://www.kezi.com/news/local/armed-roseburg-standoff-ends-safely-man-in-jail/article_e72f138b-21b0-454b-9498-0bac8496a854.html",
+          "publishedOn": "2026-10-16T23:15:00.000Z",
+          "wordCount": 8192,
+          "title": "Armed Roseburg standoff ends safely, man in jail",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204",
+            "length": "252712",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/1/4a/14a51306-7f37-4f94-87c9-63ef476e8e59/6acea6e5bb68e.image.jpg?resize=300%2C162"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/ecb5e1b9-f51b-4d30-a949-2687ec4c4de8",
+          "author": "News Staff",
+          "description": "Christmas tree permits are free this year on the Umpqua National Forest.",
+          "link": "https://www.kezi.com/news/local/free-christmas-trees-available-on-umpqua-national-forest/article_ecb5e1b9-f51b-4d30-a949-2687ec4c4de8.html",
+          "publishedOn": "2026-10-16T22:42:00.000Z",
+          "wordCount": 8177,
+          "title": "Free Christmas trees available on Umpqua National Forest",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/ea/8ea21c52-3725-11ee-829e-dbab3921824d/64d44b536b41f.image.jpg?resize=300%2C169",
+            "length": "78924",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/ea/8ea21c52-3725-11ee-829e-dbab3921824d/64d44b536b41f.image.jpg?resize=300%2C169"
         }
       ]
     }
