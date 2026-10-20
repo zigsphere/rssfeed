@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-19T22:52:18.160Z</updated>
+    <updated>2026-10-20T01:41:07.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Take Back the Night Walk Returns to Downtown Roseburg October 22]]></title>
+        <id>6ad6bf666d6d8f0001814142</id>
+        <link href="https://www.theroseburgreceiver.com/take-back-the-night-walk-returns-to-downtown-roseburg-october-22/"/>
+        <updated>2026-10-20T01:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Take Back the Night returns to downtown Roseburg October 22 with a gathering at the Douglas County Courthouse and a walk supporting survivors of sexual violence. Peace at Home Advocacy Center is hosting the event, with free registration available.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oregon Health Plan Payments To Regional Healthcare Organizations Set To Increase In 2027]]></title>
+        <id>6ad6bbf16d6d8f0001814127</id>
+        <link href="https://www.theroseburgreceiver.com/oregon-health-plan-payments-to-regional-healthcare-organizations-set-to-increase-in-2027/"/>
+        <updated>2026-10-20T00:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Oregon plans to increase payments to the regional organizations that coordinate healthcare for Oregon Health Plan members in 2027. The proposed rates average $627.68 per member each month and await federal approval.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bend Police Update Classroom Count, Outline Next Steps In Silver Rail Shooting Investigation]]></title>
+        <id>6ad6bae76d6d8f0001814112</id>
+        <link href="https://www.theroseburgreceiver.com/bend-police-update-classroom-count-outline-next-steps-in-silver-rail-shooting-investigation/"/>
+        <updated>2026-10-20T00:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Bend police confirmed four adults and five children were in the classroom during the Silver Rail Elementary shooting. Investigators expected to finish evidence collection at the school Monday, while officers will increase their presence as students return to campuses Wednesday.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.19.26]]></title>
         <id>https://kqennewsradio.com/?p=153682</id>
@@ -474,26 +504,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>The Roseburg Receiver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECORD HIGH TEMPERATURE FOR DATE POSSIBLE FRIDAY, COOLER WEEKEND AHEAD]]></title>
-        <id>https://kqennewsradio.com/?p=153589</id>
-        <link href="https://kqennewsradio.com/2026/10/16/record-high-temperature-for-date-possible-friday-cooler-weekend-ahead/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=record-high-temperature-for-date-possible-friday-cooler-weekend-ahead"/>
-        <updated>2026-10-16T11:11:37.000Z</updated>
-        <summary type="html"><![CDATA[October 16, 2026 4:10 a.m.  Roseburg could see a record high temperature for the date on Friday, staying over fifteen degrees above normal for this part of October. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a high of 84 degrees is expected.  The record high...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOVERNOR KOTEK ORDERS FLAGS LOWERED AFTER BEND SCHOOL SHOOTING]]></title>
-        <id>https://kqennewsradio.com/?p=153586</id>
-        <link href="https://kqennewsradio.com/2026/10/16/governor-kotek-orders-flags-lowered-after-bend-school-shooting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=governor-kotek-orders-flags-lowered-after-bend-school-shooting"/>
-        <updated>2026-10-16T10:54:38.000Z</updated>
-        <summary type="html"><![CDATA[October 16, 2026 3:50 a.m.     Governor Tina Kotek has ordered flags at Oregon public institutions to be flown at half-staff on Friday, October 16th from sunrise to sunset, pursuant to the United States Flag Code, in remembrance of those who lost their lives on Thursday at Silver Rail Elementary School in Bend. Three children...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

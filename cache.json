@@ -254,26 +254,6 @@
           "wordCount": 2462,
           "title": "MORNING CONVERSATION 10.16.26",
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261016151616/Bob-5.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153589",
-          "author": "Kyle Bailey",
-          "description": "October 16, 2026 4:10 a.m.  Roseburg could see a record high temperature for the date on Friday, staying over fifteen degrees above normal for this part of October. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a high of 84 degrees is expected.  The record high...",
-          "link": "https://kqennewsradio.com/2026/10/16/record-high-temperature-for-date-possible-friday-cooler-weekend-ahead/?utm_source=rss&utm_medium=rss&utm_campaign=record-high-temperature-for-date-possible-friday-cooler-weekend-ahead",
-          "publishedOn": "2026-10-16T11:11:37.000Z",
-          "wordCount": 2552,
-          "title": "RECORD HIGH TEMPERATURE FOR DATE POSSIBLE FRIDAY, COOLER WEEKEND AHEAD",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153586",
-          "author": "Kyle Bailey",
-          "description": "October 16, 2026 3:50 a.m.     Governor Tina Kotek has ordered flags at Oregon public institutions to be flown at half-staff on Friday, October 16th from sunrise to sunset, pursuant to the United States Flag Code, in remembrance of those who lost their lives on Thursday at Silver Rail Elementary School in Bend. Three children...",
-          "link": "https://kqennewsradio.com/2026/10/16/governor-kotek-orders-flags-lowered-after-bend-school-shooting/?utm_source=rss&utm_medium=rss&utm_campaign=governor-kotek-orders-flags-lowered-after-bend-school-shooting",
-          "publishedOn": "2026-10-16T10:54:38.000Z",
-          "wordCount": 2618,
-          "title": "GOVERNOR KOTEK ORDERS FLAGS LOWERED AFTER BEND SCHOOL SHOOTING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261016095407/Statelogo-e1792148062682.jpg"
         }
       ]
     },
@@ -311,6 +291,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ad6bf666d6d8f0001814142",
+          "author": "Joseph Ziegler",
+          "description": "Take Back the Night returns to downtown Roseburg October 22 with a gathering at the Douglas County Courthouse and a walk supporting survivors of sexual violence. Peace at Home Advocacy Center is hosting the event, with free registration available.",
+          "link": "https://www.theroseburgreceiver.com/take-back-the-night-walk-returns-to-downtown-roseburg-october-22/",
+          "publishedOn": "2026-10-20T01:16:52.000Z",
+          "wordCount": 3445,
+          "title": "Take Back the Night Walk Returns to Downtown Roseburg October 22",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/Take_Back_The_Night_march_Alamogordo_2010.jpg"
+        },
+        {
+          "id": "6ad6bbf16d6d8f0001814127",
+          "author": "Joseph Ziegler",
+          "description": "Oregon plans to increase payments to the regional organizations that coordinate healthcare for Oregon Health Plan members in 2027. The proposed rates average $627.68 per member each month and await federal approval.",
+          "link": "https://www.theroseburgreceiver.com/oregon-health-plan-payments-to-regional-healthcare-organizations-set-to-increase-in-2027/",
+          "publishedOn": "2026-10-20T00:59:53.000Z",
+          "wordCount": 3425,
+          "title": "Oregon Health Plan Payments To Regional Healthcare Organizations Set To Increase In 2027",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/oha.png"
+        },
+        {
+          "id": "6ad6bae76d6d8f0001814112",
+          "author": "The Roseburg Receiver",
+          "description": "Bend police confirmed four adults and five children were in the classroom during the Silver Rail Elementary shooting. Investigators expected to finish evidence collection at the school Monday, while officers will increase their presence as students return to campuses Wednesday.",
+          "link": "https://www.theroseburgreceiver.com/bend-police-update-classroom-count-outline-next-steps-in-silver-rail-shooting-investigation/",
+          "publishedOn": "2026-10-20T00:53:10.000Z",
+          "wordCount": 3290,
+          "title": "Bend Police Update Classroom Count, Outline Next Steps In Silver Rail Shooting Investigation",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/SilverRailMemorial.jpg"
+        },
         {
           "id": "6ad6663c6d6d8f00018140eb",
           "author": "Joseph Ziegler",
