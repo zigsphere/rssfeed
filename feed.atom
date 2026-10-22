@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-21T22:14:42.457Z</updated>
+    <updated>2026-10-22T01:25:27.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Ballot Returns Reach 7.76% in November Election]]></title>
+        <id>6ad95ce36d6d8f000181495a</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-ballot-returns-reach-7-76-in-november-election/"/>
+        <updated>2026-10-22T00:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County has received 6,937 ballots for the November general election, a participation rate of 7.76%. Returns are 2.89 percentage points behind the same point in 2022. The Clerk’s Office also shared reminders about ballot tracking and outdated addresses.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.21.26]]></title>
         <id>https://kqennewsradio.com/?p=153788</id>
