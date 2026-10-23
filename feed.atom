@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-22T22:14:57.859Z</updated>
+    <updated>2026-10-23T01:23:42.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Ballot Returns Reach 12.24% for November Election]]></title>
+        <id>6adaaa0f6d6d8f0001814da8</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-ballot-returns-reach-12-24-for-november-election/"/>
+        <updated>2026-10-23T00:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County has received 10,942 ballots for the November election, bringing participation to 12.24%. The clerk’s office shared reminders about signatures, ballot returns, and election security.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUR CUE 10.22.26]]></title>
+        <id>https://kqennewsradio.com/?p=153863</id>
+        <link href="https://kqennewsradio.com/2026/10/22/your-cue-10-22-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=your-cue-10-22-26"/>
+        <updated>2026-10-23T00:08:48.000Z</updated>
+        <summary type="html"><![CDATA[A look at the Entrepreneurial Spirit:  Joining the conversation are Aaron Larsen, Director of the Umpqua Small Business Development Center at Umpqua Community College; Justin Deedon, Small Business Adviser and Instructor at Umpqua SBDC; Jeana Beam, Executive Director of Umpqua Economic Development Partnership; and Duane and Robert Simon, Fullerton IV Elementary students and owners of Twins...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cow Creek Tribe Remembers Two Men Who Helped Shape Its Future]]></title>
+        <id>6ada9f1d6d6d8f0001814d7c</id>
+        <link href="https://www.theroseburgreceiver.com/cow-creek-tribe-remembers-two-men-who-helped-shape-its-future/"/>
+        <updated>2026-10-22T23:46:57.000Z</updated>
+        <summary type="html"><![CDATA[The Cow Creek Tribe is remembering attorney Dennis J. Whittlesey and historian Dr. Stephen Dow Beckham, whose decades of work helped restore federal recognition, recover ancestral lands, and support the Tribe’s future.]]></summary>
+        <author>
+            <name>The Roseburg Receiver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jackson County Launches Public Safety Radio System With Reach Into Neighboring Counties]]></title>
+        <id>6ada9c9c6d6d8f0001814d61</id>
+        <link href="https://www.theroseburgreceiver.com/jackson-county-launches-public-safety-radio-system-with-reach-into-neighboring-counties/"/>
+        <updated>2026-10-22T23:33:34.000Z</updated>
+        <summary type="html"><![CDATA[A new public safety radio system serving Jackson County and portions of neighboring counties, including Douglas County, launched October 6 to improve communications between dispatchers and first responders.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE ROCKY HORROR PICTURE SHOW AT BETTY LONG UNRUH THEATER ON HALLOWEEN]]></title>
         <id>https://kqennewsradio.com/?p=153857</id>
@@ -894,26 +934,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOW PRESSURE SYSTEM WITH DRY CONDITIONS, BRIEF WARM UP TUESDAY/WEDNESDAY]]></title>
-        <id>https://kqennewsradio.com/?p=153654</id>
-        <link href="https://kqennewsradio.com/2026/10/19/low-pressure-system-with-dry-conditions-brief-warm-up-tuesday-wednesday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=low-pressure-system-with-dry-conditions-brief-warm-up-tuesday-wednesday"/>
-        <updated>2026-10-19T10:46:49.000Z</updated>
-        <summary type="html"><![CDATA[October 19, 2026 4:00 a.m.  A low-pressure system is heading toward the Umpqua Valley, bringing generally dry conditions through Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs will be in the mid 60’s Monday, with a brief warm up on Tuesday and Wednesday moving...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOUGLAS COUNTY EARNS NATIONAL AWARD FOR FINANCIAL REPORTING]]></title>
-        <id>https://kqennewsradio.com/?p=153650</id>
-        <link href="https://kqennewsradio.com/2026/10/19/douglas-county-earns-national-award-for-financial-reporting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=douglas-county-earns-national-award-for-financial-reporting"/>
-        <updated>2026-10-19T10:32:43.000Z</updated>
-        <summary type="html"><![CDATA[October 19, 2026 3:50 a.m.  Douglas County Commissioners Tom Kress, Chris Boice, and Tim Freeman announced that Douglas County has received the Certificate of Achievement for Excellence in Financial Reporting by the Government Finance Officers Association of the United States and Canada. A county release said according to GFOA, the Certificate of Achievement is the...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>

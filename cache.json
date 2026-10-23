@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=153863",
+          "author": "Kyle Bailey",
+          "description": "A look at the Entrepreneurial Spirit:  Joining the conversation are Aaron Larsen, Director of the Umpqua Small Business Development Center at Umpqua Community College; Justin Deedon, Small Business Adviser and Instructor at Umpqua SBDC; Jeana Beam, Executive Director of Umpqua Economic Development Partnership; and Duane and Robert Simon, Fullerton IV Elementary students and owners of Twins...",
+          "link": "https://kqennewsradio.com/2026/10/22/your-cue-10-22-26/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-10-22-26",
+          "publishedOn": "2026-10-23T00:08:48.000Z",
+          "wordCount": 2611,
+          "title": "YOUR CUE 10.22.26",
+          "enclosure": {
+            "url": "https://kqennewsradio.com/wp-content/uploads/YOUR-CUE-10-22-26-.mp3",
+            "length": "48263773",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://kqennewsradio.com/wp-content/uploads/Newnewcue.jpg.png"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=153857",
           "author": "Kyle Bailey",
           "description": "October 23, 2026 3:10 p.m.  For Halloween, Umpqua Actors Community Theatre is having two movie screenings of The Rocky Horror Picture Show at the Betty Long Unruh Theater on Saturday, October 31st at 7:30 p.m. and midnight. A UACT release said the event is open to community members, 18 years and older. Audiences are encouraged...",
@@ -534,26 +549,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261019151301/NewBart.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153654",
-          "author": "Kyle Bailey",
-          "description": "October 19, 2026 4:00 a.m.  A low-pressure system is heading toward the Umpqua Valley, bringing generally dry conditions through Friday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs will be in the mid 60’s Monday, with a brief warm up on Tuesday and Wednesday moving...",
-          "link": "https://kqennewsradio.com/2026/10/19/low-pressure-system-with-dry-conditions-brief-warm-up-tuesday-wednesday/?utm_source=rss&utm_medium=rss&utm_campaign=low-pressure-system-with-dry-conditions-brief-warm-up-tuesday-wednesday",
-          "publishedOn": "2026-10-19T10:46:49.000Z",
-          "wordCount": 2524,
-          "title": "LOW PRESSURE SYSTEM WITH DRY CONDITIONS, BRIEF WARM UP TUESDAY/WEDNESDAY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153650",
-          "author": "Kyle Bailey",
-          "description": "October 19, 2026 3:50 a.m.  Douglas County Commissioners Tom Kress, Chris Boice, and Tim Freeman announced that Douglas County has received the Certificate of Achievement for Excellence in Financial Reporting by the Government Finance Officers Association of the United States and Canada. A county release said according to GFOA, the Certificate of Achievement is the...",
-          "link": "https://kqennewsradio.com/2026/10/19/douglas-county-earns-national-award-for-financial-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-earns-national-award-for-financial-reporting",
-          "publishedOn": "2026-10-19T10:32:43.000Z",
-          "wordCount": 2667,
-          "title": "DOUGLAS COUNTY EARNS NATIONAL AWARD FOR FINANCIAL REPORTING",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20261019093024/Finance.jpg-e1792405890219.png"
         }
       ]
     },
@@ -636,6 +631,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6adaaa0f6d6d8f0001814da8",
+          "author": "Joseph Ziegler",
+          "description": "Douglas County has received 10,942 ballots for the November election, bringing participation to 12.24%. The clerk’s office shared reminders about signatures, ballot returns, and election security.",
+          "link": "https://www.theroseburgreceiver.com/douglas-county-ballot-returns-reach-12-24-for-november-election/",
+          "publishedOn": "2026-10-23T00:28:56.000Z",
+          "wordCount": 3292,
+          "title": "Douglas County Ballot Returns Reach 12.24% for November Election",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/ballots_2.jpg"
+        },
+        {
+          "id": "6ada9f1d6d6d8f0001814d7c",
+          "author": "The Roseburg Receiver",
+          "description": "The Cow Creek Tribe is remembering attorney Dennis J. Whittlesey and historian Dr. Stephen Dow Beckham, whose decades of work helped restore federal recognition, recover ancestral lands, and support the Tribe’s future.",
+          "link": "https://www.theroseburgreceiver.com/cow-creek-tribe-remembers-two-men-who-helped-shape-its-future/",
+          "publishedOn": "2026-10-22T23:46:57.000Z",
+          "wordCount": 3431,
+          "title": "Cow Creek Tribe Remembers Two Men Who Helped Shape Its Future",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/whittlesley-and-beckham.png"
+        },
+        {
+          "id": "6ada9c9c6d6d8f0001814d61",
+          "author": "Joseph Ziegler",
+          "description": "A new public safety radio system serving Jackson County and portions of neighboring counties, including Douglas County, launched October 6 to improve communications between dispatchers and first responders.",
+          "link": "https://www.theroseburgreceiver.com/jackson-county-launches-public-safety-radio-system-with-reach-into-neighboring-counties/",
+          "publishedOn": "2026-10-22T23:33:34.000Z",
+          "wordCount": 3329,
+          "title": "Jackson County Launches Public Safety Radio System With Reach Into Neighboring Counties",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/picture1_original-1.png"
+        },
         {
           "id": "6ada61da6d6d8f0001814d46",
           "author": "The Roseburg Receiver",
