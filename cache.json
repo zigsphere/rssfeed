@@ -424,56 +424,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqennewsradio.com/wp-content/uploads/Thomas-5.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153748",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2026 4:10 a.m.  Temperatures in the Umpqua Valley are expected to jump up for one day only before returning to cooler, more seasonal like conditions. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that a southeast flow over the region and less cloud cover expected...",
-          "link": "https://kqennewsradio.com/2026/10/21/temperatures-jump-up-for-one-day-only-in-the-umpqua-valley/?utm_source=rss&utm_medium=rss&utm_campaign=temperatures-jump-up-for-one-day-only-in-the-umpqua-valley",
-          "publishedOn": "2026-10-21T10:51:53.000Z",
-          "wordCount": 2557,
-          "title": "TEMPERATURES JUMP UP FOR ONE DAY ONLY IN THE UMPQUA VALLEY",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153746",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2026 4:00 a.m.   Just under 3 percent of ballots have come in for the 2026 Douglas County November General Election as of Tuesday evening. County Clerk Daniel Loomis said that is 2,582 ballots that have been received. Loomis said this is 1.68 percentage points below the participation rate at the same point in...",
-          "link": "https://kqennewsradio.com/2026/10/21/just-under-3-percent-of-ballots-have-come-in-for-november-general-election/?utm_source=rss&utm_medium=rss&utm_campaign=just-under-3-percent-of-ballots-have-come-in-for-november-general-election",
-          "publishedOn": "2026-10-21T10:34:31.000Z",
-          "wordCount": 2513,
-          "title": "JUST UNDER 3 PERCENT OF BALLOTS HAVE COME IN FOR NOVEMBER GENERAL ELECTION",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727215927/ballot1-1-e1620147040974.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153744",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2026 3:50 a.m.   The seasonally adjusted unemployment rate declined in Douglas County over the year, from 6.5 percent in September 2025 to 5.9 percent in the most recent estimates. A State of Oregon Employment Department release said the county’s seasonally adjusted nonfarm employment declined by 400 over the year to September. Regional Economist...",
-          "link": "https://kqennewsradio.com/2026/10/21/douglas-county-unemployment-rate-declines-from-september-2025/?utm_source=rss&utm_medium=rss&utm_campaign=douglas-county-unemployment-rate-declines-from-september-2025",
-          "publishedOn": "2026-10-21T10:26:03.000Z",
-          "wordCount": 2598,
-          "title": "DOUGLAS COUNTY UNEMPLOYOMENT RATE DECLINES FROM SEPTEMBER 2025",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20260924192119/NewOED.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153742",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2026 3:40 a.m.  Effective November 3rd, the I-5 southbound Exit 140 off-ramp to Old Highway 99 in the Oakland area, will be closed at night between the hours of 6:00 p.m. to 7:00 a.m. Dan Latham from the Oregon Department of Transportation said the estimated completion date for this work is November 4th....",
-          "link": "https://kqennewsradio.com/2026/10/21/ramp-closure-on-interstate-5-southbound-exit-140-off-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ramp-closure-on-interstate-5-southbound-exit-140-off-ramp",
-          "publishedOn": "2026-10-21T10:22:41.000Z",
-          "wordCount": 2476,
-          "title": "RAMP CLOSURE ON INTERSTATE 5 SOUTHBOUND EXIT 140 OFF-RAMP",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20251217135026/odot-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153740",
-          "author": "Kyle Bailey",
-          "description": "October 21, 2026 3:30 a.m.  Winston Police Department and MED-Project is hosting an unwanted medicine take-back event as a safe, free and convenient way to dispose of unwanted or expired household medications, this Saturday, October 24th. A WPD release said the event will take place from 9:00 a.m. to 12:00 p.m. at the Winston Police...",
-          "link": "https://kqennewsradio.com/2026/10/21/winston-police-department-hosting-household-unwanted-medicine-take-back-event/?utm_source=rss&utm_medium=rss&utm_campaign=winston-police-department-hosting-household-unwanted-medicine-take-back-event",
-          "publishedOn": "2026-10-21T10:18:31.000Z",
-          "wordCount": 2527,
-          "title": "WINSTON POLICE DEPARTMENT HOSTING HOUSEHOLD UNWANTED MEDICINE TAKE-BACK EVENT",
-          "imageUrl": "https://kqen.s3.us-west-2.amazonaws.com/wp-content/uploads/20230727223859/Winston-PD-Patch2.jpg"
         }
       ]
     },
@@ -546,6 +496,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6add3c786d6d8f0001815204",
+          "author": "Joseph Ziegler",
+          "description": "A boom truck was destroyed by fire Saturday afternoon along Highway 42 near Camas Valley. Firefighters prevented the flames from spreading into nearby vegetation. No injuries were reported, and a fuel leak is believed to have caused the fire.",
+          "link": "https://www.theroseburgreceiver.com/boom-truck-destroyed-by-fire-along-highway-42-near-camas-valley/",
+          "publishedOn": "2026-10-24T23:19:05.000Z",
+          "wordCount": 3255,
+          "title": "Boom Truck Destroyed By Fire Along Highway 42 Near Camas Valley",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/860179780_1580940357399892_3434498858097975056_n-1.jpg"
+        },
         {
           "id": "6adccffa6d6d8f00018151e7",
           "author": "Joseph Ziegler",
