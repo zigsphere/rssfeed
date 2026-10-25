@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-25T18:53:22.460Z</updated>
+    <updated>2026-10-25T21:39:19.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
@@ -514,16 +514,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>The Roseburg Receiver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt Integrated Health Care announces next-week opening of Coquille Sobering Center]]></title>
-        <id>http://www.nrtoday.com/tncms/asset/editorial/10148332-b9f7-46fe-82f9-2c81611c0f2a</id>
-        <link href="https://www.nrtoday.com/news/adapt-integrated-health-care-announces-next-week-opening-of-coquille-sobering-center/article_10148332-b9f7-46fe-82f9-2c81611c0f2a.html"/>
-        <updated>2026-10-21T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just over five years since the opening of their Roseburg Sobering Center, Adapt Integrated Healthcare is now expanding service across county lines by opening a new center in Coos County.]]></summary>
-        <author>
-            <name>ANDREW GRIFFIN NR Today</name>
         </author>
     </entry>
 </feed>
