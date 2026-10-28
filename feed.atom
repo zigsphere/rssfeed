@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-27T22:54:53.252Z</updated>
+    <updated>2026-10-28T02:07:18.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Ballot Returns Reach 28.06% With One Week Until Election Day]]></title>
+        <id>6ae156466d6d8f0001815c79</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-ballot-returns-reach-28-06-with-one-week-until-election-day/"/>
+        <updated>2026-10-28T02:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County has received 25,098 ballots, bringing participation to 28.06% with one week until the November 3 election. Returns are slightly ahead of 2022 as officials remind voters about ballot deadlines and prepare to release election-night results.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melrose Vineyards Renaissance Faire to Return June 12-13, 2027]]></title>
+        <id>6ae1467f6d6d8f0001815c57</id>
+        <link href="https://www.theroseburgreceiver.com/melrose-vineyards-renaissance-faire-to-return-june-12-13-2027/"/>
+        <updated>2026-10-28T01:08:37.000Z</updated>
+        <summary type="html"><![CDATA[The Melrose Vineyards Renaissance Faire returns to Roseburg June 12–13, 2027! Organizers are planning another weekend of medieval fun, with more event details and announcements coming soon. Interested in participating? Email events@melrosevineyards.com. Follow Melrose Vineyards on Facebook for news.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pile Burning Could Begin October 28 in Diamond Lake, North Umpqua Ranger Districts]]></title>
+        <id>6ae13f6d6d6d8f0001815c3e</id>
+        <link href="https://www.theroseburgreceiver.com/pile-burning-could-begin-october-28-in-diamond-lake-north-umpqua-ranger-districts/"/>
+        <updated>2026-10-28T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Pile burning could begin October 28 in the Diamond Lake and North Umpqua ranger districts, pending approvals and favorable weather. Smoke may be visible in surrounding areas during and after the burns.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRUE WEALTH 10.27.26]]></title>
+        <id>https://kqennewsradio.com/?p=154064</id>
+        <link href="https://kqennewsradio.com/2026/10/27/true-wealth-10-27-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=true-wealth-10-27-26"/>
+        <updated>2026-10-28T00:14:26.000Z</updated>
+        <summary type="html"><![CDATA[From Littlejohn Financial, David Littlejohn, Matt Dickson and attorney Derek Simmons have our weekly local financial program.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCC CONCERT BAND AND ROSEBURG CONCERT CHORALE PRESENT VETERANS DAY CONCERT]]></title>
+        <id>https://kqennewsradio.com/?p=154061</id>
+        <link href="https://kqennewsradio.com/2026/10/27/ucc-concert-band-and-roseburg-concert-chorale-present-veterans-day-concert/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ucc-concert-band-and-roseburg-concert-chorale-present-veterans-day-concert"/>
+        <updated>2026-10-27T23:27:19.000Z</updated>
+        <summary type="html"><![CDATA[October 28, 2026 4:20 p.m.  In the KQEN Cultural Spotlight: Umpqua Community College Performing and Visual Arts Department presents the UCC Symphonic Band and Roseburg Concert Chorale in a special Veterans Day concert on Wednesday, November 11th at 7:00 p.m. in Jacoby Auditorium. The UCC Symphonic Band under the direction of Jeff Soffer, and the...]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WYDEN, MERKLEY ANNOUNCE $1 MILLION TO SUPPORT ADDICTION AND RECOVERY SERVICES]]></title>
         <id>https://kqennewsradio.com/?p=154059</id>
@@ -474,16 +524,6 @@
         <summary type="html"><![CDATA[Douglas County has received 15,820 ballots, bringing election participation to 17.69%. Two new ballot drop boxes in Glide and Roseburg are now accepting ballots, bringing the county’s total to 17 official drop sites.]]></summary>
         <author>
             <name>Joseph Ziegler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FROST ADVISORY REMAINS IN EFFECT UNTIL 10:00 A.M. SATURDAY MORNING]]></title>
-        <id>https://kqennewsradio.com/?p=153933</id>
-        <link href="https://kqennewsradio.com/2026/10/24/frost-advisory-remains-in-effect-until-1000-a-m-saturday-morning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=frost-advisory-remains-in-effect-until-1000-a-m-saturday-morning"/>
-        <updated>2026-10-24T13:38:42.000Z</updated>
-        <summary type="html"><![CDATA[October 24, 2026 6:00 a.m.  A Frost Advisory remains in effect until 10:00 a.m. on Saturday morning. The National Weather Service in Medford has issued the Advisory for central Douglas County and the south-central Oregon Coast. Temperatures as low as 32 degrees will result in frost formation. The Advisory applies to the Umpqua and Coquille...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
