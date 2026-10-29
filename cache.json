@@ -6,6 +6,16 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154165",
+          "author": "Kyle Bailey",
+          "description": "Superintendent Jared Cordon and Director Rob Cotton talk about Wednesday night’s decision to close Fir Grove Elementary School at the end of this school year.",
+          "link": "https://kqennewsradio.com/2026/10/29/inside-douglas-county-10-29-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-10-29-26",
+          "publishedOn": "2026-10-29T20:31:29.000Z",
+          "wordCount": 2465,
+          "title": "INSIDE DOUGLAS COUNTY 10.29.26",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261029193113/JAREDROD.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154161",
           "author": "Kyle Bailey",
           "description": "October 30, 2026 10:40 a.m.   Roseburg Police cited a man for unlawful possession of drugs on Wednesday night. An RPD report said at 7:30 p.m. officers stopped a vehicle for a violation near the intersection of Southeast Mosher Avenue and Southeast Mill Street and observed suspected methamphetamine in plain view. The 73-year-old driver was detained...",
@@ -479,16 +489,6 @@
           "wordCount": 2563,
           "title": "RAIN FOR THE UMPQUA VALLEY MONDAY AND TUESDAY",
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727202852/rain2-e1672834019819.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=153964",
-          "author": "Kyle Bailey",
-          "description": "October 26, 2026 4:00 a.m.  A boom truck burned in a fire on Highway 42 in Camas Valley on Saturday. An update from the Camas Valley Rural Volunteer Fire District said at approximately 1:45 p.m. crews were dispatched to the fire near Milepost 57. First responders found the truck fully engulfed in flames. Firefighters immediately...",
-          "link": "https://kqennewsradio.com/2026/10/26/boom-truck-burns-in-saturday-fire-in-camas-valley/?utm_source=rss&utm_medium=rss&utm_campaign=boom-truck-burns-in-saturday-fire-in-camas-valley",
-          "publishedOn": "2026-10-26T10:53:41.000Z",
-          "wordCount": 2581,
-          "title": "BOOM TRUCK BURNS IN SATURDAY FIRE IN CAMAS VALLEY",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261026095114/Camas1-1-e1793011915153.jpg"
         }
       ]
     },
@@ -503,6 +503,36 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4539821c-61f5-4442-a854-67a70892ddef",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Sixty-six years after its construction, Roseburg’s Fir Grove Elementary School will see its final students move elsewhere for education as it is set to close at the end of the school year.",
+          "link": "https://www.nrtoday.com/news/roseburg-public-schools-board-votes-to-close-fir-grove-elementary-school/article_4539821c-61f5-4442-a854-67a70892ddef.html",
+          "publishedOn": "2026-10-29T16:30:00.000Z",
+          "wordCount": 13147,
+          "title": "Roseburg Public Schools Board votes to close Fir Grove Elementary School",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/1d/31d87fdb-613c-42b9-8277-65fe199d75ea/6ae2d618de902.image.jpg?resize=300%2C225",
+            "length": "262003",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/1d/31d87fdb-613c-42b9-8277-65fe199d75ea/6ae2d618de902.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2cc6ce1-167f-4259-8b77-745305f38b5c",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Avista natural gas customers may see bills increase starting Oct. 31, 2026 as the Oregon Public Utility Commission (OPUC) approved an annual purchased gas adjustment filed by the utility company.",
+          "link": "https://www.nrtoday.com/news/oregon-public-utility-commission-approves-adjustment-to-avista-gas-rates-effective-oct-31-2026/article_b2cc6ce1-167f-4259-8b77-745305f38b5c.html",
+          "publishedOn": "2026-10-29T15:45:00.000Z",
+          "wordCount": 12247,
+          "title": "Oregon Public Utility Commission approves adjustment to Avista gas rates, effective Oct. 31, 2026.",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/17/a17d9d97-c895-458e-91d8-98ec8b241164/6ae28d07aed76.image.jpg?resize=300%2C204",
+            "length": "95218",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/a/17/a17d9d97-c895-458e-91d8-98ec8b241164/6ae28d07aed76.image.jpg?resize=300%2C204"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/7e42faa6-619c-4a73-8ba4-b521b51e7073",
           "author": "ANDREW GRIFFIN NR Today",
@@ -546,6 +576,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6ae39f486d6d8f000181654e",
+          "author": "The Roseburg Receiver",
+          "description": "Roseburg police reported eight entries dated October 28-29, including warrant arrests, trespass, DUII, drug possession, and prohibited camping. The latest patrol log includes arrests and citations across the city.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-october-28-2026/",
+          "publishedOn": "2026-10-29T19:34:31.000Z",
+          "wordCount": 4056,
+          "title": "Police Log: October 28, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/police_lights2-15.jpg"
+        },
         {
           "id": "6ae388526d6d8f0001816520",
           "author": "Joseph Ziegler",
