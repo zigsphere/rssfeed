@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.theroseburgreceiver.com/index.html</id>
     <title>The Roseburg Receiver News</title>
-    <updated>2026-10-30T17:57:17.578Z</updated>
+    <updated>2026-10-30T22:54:50.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://news.theroseburgreceiver.com/index.html"/>
     <link rel="self" href="https://news.theroseburgreceiver.com/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Douglas County Courthouse to Shine Green in November for Veterans]]></title>
+        <id>6ae511456d6d8f0001816abd</id>
+        <link href="https://www.theroseburgreceiver.com/douglas-county-courthouse-to-shine-green-in-november-for-veterans/"/>
+        <updated>2026-10-30T22:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Douglas County will light the courthouse green throughout November for Operation Green Light, recognizing veterans and their families. Residents and businesses are invited to participate by placing a green bulb in an exterior light.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roseburg Schools Plans Three Free Literacy Nights for Families With Young Children]]></title>
+        <id>6ae50d936d6d8f0001816aa6</id>
+        <link href="https://www.theroseburgreceiver.com/roseburg-schools-plans-three-free-literacy-nights-for-families-with-young-children/"/>
+        <updated>2026-10-30T21:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Roseburg Schools will host three free literacy nights for families with children ages 2 to 4. The series begins November 16 with Pancakes & Pajamas at Winchester Elementary. Registration is required, and children do not need to be enrolled in the district.]]></summary>
+        <author>
+            <name>Joseph Ziegler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIDE DOUGLAS COUNTY 10.30.26]]></title>
+        <id>https://kqennewsradio.com/?p=154234</id>
+        <link href="https://kqennewsradio.com/2026/10/30/inside-douglas-county-10-30-26/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=inside-douglas-county-10-30-26"/>
+        <updated>2026-10-30T20:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Republican candidate for Governor Christine Drazan talks about her plans for Oregon if she is elected on Tuesday.]]></summary>
+        <author>
+            <name>Kyle Bailey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROSEBURG POLICE CITE WOMAN FOR TRESPASS]]></title>
         <id>https://kqennewsradio.com/?p=154231</id>
@@ -814,16 +844,6 @@
         <summary type="html"><![CDATA[The Roseburg Receiver Morning Scoop]]></summary>
         <author>
             <name>The Roseburg Receiver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEARLY 27 PERCENT OF BALLOTS RETURNED IN DOUGLAS COUNTY]]></title>
-        <id>https://kqennewsradio.com/?p=154024</id>
-        <link href="https://kqennewsradio.com/2026/10/27/nearly-27-percent-of-ballots-returned-in-douglas-county/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nearly-27-percent-of-ballots-returned-in-douglas-county"/>
-        <updated>2026-10-27T10:54:30.000Z</updated>
-        <summary type="html"><![CDATA[October 27, 2026 4;00 a.m. Nearly 27 percent of registered voters have cast their ballot in the 2026 Douglas County November General Election, as of Monday evening. County Clerk Daniel Loomis said 23,923 ballots have been received. Loomis said this is just over 3 percent ahead of the participation rate at the same point in...]]></summary>
-        <author>
-            <name>Kyle Bailey</name>
         </author>
     </entry>
 </feed>
