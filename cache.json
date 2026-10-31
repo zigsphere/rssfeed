@@ -514,6 +514,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/97c9c3e4-09d0-473a-b5d2-c0a6104a90c0",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "This week, the rooms and halls of Umpqua Valley Arts (UVA) combined into a singular vision as it opened two new exhibits with the same vision concept: Putting local eyes on local artists.",
+          "link": "https://www.nrtoday.com/a_and_e/umpqua-valley-arts-opens-new-exhibits-highlighting-artists-of-all-ages-and-skill-levels/article_97c9c3e4-09d0-473a-b5d2-c0a6104a90c0.html",
+          "publishedOn": "2026-10-30T19:28:00.000Z",
+          "wordCount": 12914,
+          "title": "Umpqua Valley Arts opens new exhibits highlighting artists of all ages and skill levels",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0a/50a9fc9e-ab66-4edf-972d-c9554bdf81c6/6ae4fa6272d76.image.jpg?resize=300%2C200",
+            "length": "258995",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/0a/50a9fc9e-ab66-4edf-972d-c9554bdf81c6/6ae4fa6272d76.image.jpg?resize=300%2C200"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/b506bda8-ff4f-4492-a06a-04633eb6ac87",
           "author": "ANDREW GRIFFIN NR Today",
           "description": "This week, Oregon state agencies announced that $6.4 million in grants funding will go to institutions across the state for supporting Career and Technical Education (CTE) programs. Among them are two in Douglas County who were cumulatively awarded over $300,000.",
@@ -880,36 +895,6 @@
           "wordCount": 3357,
           "title": "Umpqua Valley Arts To Showcase Local Artists And UCC Student Work In Two New Exhibitions",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/848337985_122120705733444203_2858226954091872961_n.jpg"
-        },
-        {
-          "id": "6ae033bb6d6d8f00018157fd",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg councilors agreed to discuss whether homelessness should become a standing agenda item at their next meeting, following a motion by Zack Weiss. No recurring schedule has been adopted.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-council-agrees-to-discuss-recurring-homelessness-agenda-item/",
-          "publishedOn": "2026-10-27T14:08:58.000Z",
-          "wordCount": 3702,
-          "title": "Roseburg Council Agrees To Discuss Recurring Homelessness Agenda Item",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/city_council.png"
-        },
-        {
-          "id": "6ae02e9a6d6d8f00018157e0",
-          "author": "Joseph Ziegler",
-          "description": "A motion to keep Roseburg’s Flock cameras unchanged was made and seconded Monday, but councilors voted 5–2 to postpone consideration until the next meeting for further review.",
-          "link": "https://www.theroseburgreceiver.com/motion-to-keep-flock-cameras-put-on-hold-after-roseburg-council-debate/",
-          "publishedOn": "2026-10-27T14:04:24.000Z",
-          "wordCount": 3888,
-          "title": "Motion To Keep Flock Cameras Put On Hold After Roseburg Council Debate",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/10/zack.png"
-        },
-        {
-          "id": "6ae0a70f6d6d8f0001815818",
-          "author": "The Roseburg Receiver",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/october-27-2026/",
-          "publishedOn": "2026-10-27T13:55:26.000Z",
-          "wordCount": 8203,
-          "title": "October 27, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/10/The-Morning-Scoop-18.png"
         }
       ]
     },
@@ -918,6 +903,36 @@
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/19774a02-dfd0-44a6-ab1d-bfe92be9c795",
+          "author": "News Staff",
+          "description": "Douglas County will light up the courthouse in green throughout November to honor veterans and raise awareness of challenges they face returning to civilian life.",
+          "link": "https://www.kezi.com/news/local/douglas-county-joins-nationwide-effort-to-honor-veterans/article_19774a02-dfd0-44a6-ab1d-bfe92be9c795.html",
+          "publishedOn": "2026-10-30T21:58:00.000Z",
+          "wordCount": 8273,
+          "title": "Douglas County joins nationwide effort to honor veterans",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/4a/54a75397-ccac-432d-b24a-ec63b8a5de9a/6ae51545c69af.image.jpg?resize=300%2C162",
+            "length": "234153",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/5/4a/54a75397-ccac-432d-b24a-ec63b8a5de9a/6ae51545c69af.image.jpg?resize=300%2C162"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/941fb63f-708d-4e1e-a990-724237d8dbd2",
+          "author": "News Staff",
+          "description": "Downtown Roseburg will transform into a walkable tasting tour on Friday, Oct. 30, from 5 to 8 p.m.",
+          "link": "https://www.kezi.com/news/local/free-roseburg-event-spotlights-local-farms-and-chefs/article_941fb63f-708d-4e1e-a990-724237d8dbd2.html",
+          "publishedOn": "2026-10-29T22:24:00.000Z",
+          "wordCount": 8457,
+          "title": "Free Roseburg event spotlights local farms and chefs",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/63/e63f29a9-69ff-45de-bbb3-75ae2b3fae87/6ae3c9825e24f.image.jpg?resize=300%2C194",
+            "length": "83886",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/63/e63f29a9-69ff-45de-bbb3-75ae2b3fae87/6ae3c9825e24f.image.jpg?resize=300%2C194"
+        },
         {
           "id": "http://www.kezi.com/tncms/asset/editorial/ad3458b9-fa72-4039-9dc9-2723724a3da0",
           "author": "News Staff",
