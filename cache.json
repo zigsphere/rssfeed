@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154420",
+          "author": "Kyle Bailey",
+          "description": "November 4, 2026 5:10 p.m.  All Oregon Department of Forestry districts have terminated fire restrictions, marking the end of the 2026 fire season. An ODF release said more than 2.5 million acres burned statewide across all jurisdictions this fire season, according to the Northwest Interagency Coordination Center. This surpasses the 2024 record of acres burned...",
+          "link": "https://kqennewsradio.com/2026/11/05/record-breaking-fire-season-in-oregon-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=record-breaking-fire-season-in-oregon-comes-to-a-close",
+          "publishedOn": "2026-11-05T01:15:48.000Z",
+          "wordCount": 2602,
+          "title": "RECORD BREAKING FIRE SEASON IN OREGON COMES TO A CLOSE",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727223351/ODF-logo-color-e1597684458698.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=154418",
+          "author": "Kyle Bailey",
+          "description": "November 4, 2026 5:00 p.m.  A former bookkeeper from Riddle, 53-year-old Christina Klauda, has pleaded guilty to one count of bank fraud and two counts of making and subscribing false federal income tax returns after a years-long embezzlement and tax fraud scheme that targeted her former Douglas County employer. Wednesday’s announcement came from U.S. Attorney’s...",
+          "link": "https://kqennewsradio.com/2026/11/05/former-bookkeeper-from-riddle-pleads-guilty-to-embezzling-nearly-1-million/?utm_source=rss&utm_medium=rss&utm_campaign=former-bookkeeper-from-riddle-pleads-guilty-to-embezzling-nearly-1-million",
+          "publishedOn": "2026-11-05T01:10:45.000Z",
+          "wordCount": 2752,
+          "title": "FORMER BOOKKEEPER FROM RIDDLE PLEADS GUILTY TO EMBEZZLING NEARLY $1 MILLION",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20231030094658/District-of-OR-JPG-rgb-small-8.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=154412",
+          "author": "Kyle Bailey",
+          "description": "State Representatives Court Boice and Alek Skarlatos share their reaction to Tuesday’s election results in Oregon and its impact on the next legislative session.",
+          "link": "https://kqennewsradio.com/2026/11/04/inside-douglas-county-11-04-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-04-26",
+          "publishedOn": "2026-11-04T21:04:44.000Z",
+          "wordCount": 2470,
+          "title": "INSIDE DOUGLAS COUNTY 11.04.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261104200152/IDC-11-4-26.mp3",
+            "length": "20312335",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20241028191337/Alek_Skarlatos.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154410",
           "author": "Kyle Bailey",
           "description": "November 4, 2026 10:40 a.m.  Roseburg Police jailed a man for a warrant early Tuesday morning. An RPD report said at 4:10 a.m. the 54-year-old was contacted at his camp in the Umpqua Greenway in the 500 block of Northeast Stephens Street. He had an unworked warrant from RPD for failure to complete a work...",
@@ -419,6 +454,21 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/13b60180-71c6-476b-910b-533ff5981da8",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A lumber bookkeeper from Riddle, Oregon has pleaded guilty on multiple counts in an embezzlement and fraud scheme that went on for multiple years.",
+          "link": "https://www.nrtoday.com/news/riddle-lumber-bookkeeper-pleads-guilty-to-bank-fraud-in-multi-year-embezzlement-scheme/article_13b60180-71c6-476b-910b-533ff5981da8.html",
+          "publishedOn": "2026-11-05T00:14:00.000Z",
+          "wordCount": 12450,
+          "title": "Riddle lumber bookkeeper pleads guilty to bank fraud in multi-year embezzlement scheme",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/10/410477a8-8844-4131-a5fa-52187c032758/6aebcf07e9c7e.image.jpg?resize=300%2C226",
+            "length": "251130",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/4/10/410477a8-8844-4131-a5fa-52187c032758/6aebcf07e9c7e.image.jpg?resize=300%2C226"
+        },
+        {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/27ce6ef5-09dd-448e-be73-54227e88d55c",
           "author": "NRToday staff",
           "description": "The outcomes of contested city and county elections from around Douglas County are coming into clearer focus as the first round of unofficial election results roll in at 10 p.m. Tuesday.",
@@ -491,6 +541,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6aeb91616d6d8f00018179a7",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg High School’s girls soccer team received a community send-off Wednesday before heading to the second round of the state playoffs, with parents organizing support and an escort from local law enforcement.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-girls-soccer-team-gets-community-send-off-for-state-playoffs/",
+          "publishedOn": "2026-11-04T20:25:16.000Z",
+          "wordCount": 3147,
+          "title": "Roseburg Girls Soccer Team Gets Community Send-Off For State Playoffs",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/890456305_2076758596311626_1738501646220458124_n.jpg"
+        },
         {
           "id": "6aeb563b6d6d8f000181797a",
           "author": "Joseph Ziegler",
