@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154471",
+          "author": "Kyle Bailey",
+          "description": "In this episode of Your CUE, we explore the Young Eagles program, career opportunities in aviation and a local vision for establishing a Youth Aviation Learning Center in Roseburg. Joining the conversation are Dennis Rose, Chapter Secretary of EAA Chapter 495; Thomas Ball, Chapter Youth Education Coordinator; CJ Bryant, Chapter Board Member and retired schoolteacher; and...",
+          "link": "https://kqennewsradio.com/2026/11/06/your-cue-11-05-26/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-11-05-26",
+          "publishedOn": "2026-11-06T01:13:04.000Z",
+          "wordCount": 2502,
+          "title": "YOUR CUE 11.05.26",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261105235541/Your-CUE-Building-Community-9.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=154468",
+          "author": "Kyle Bailey",
+          "description": "State Senator David Brock Smith talks about his loss to Senator Jeff Merkley in the Senate race, and his plans for continuing in the Oregon State Legislature.",
+          "link": "https://kqennewsradio.com/2026/11/05/inside-douglas-county-11-05-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-05-26",
+          "publishedOn": "2026-11-05T21:14:18.000Z",
+          "wordCount": 2462,
+          "title": "INSIDE DOUGLAS COUNTY 11.05.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261105201118/IDC-11-05-26.mp3",
+            "length": "20204501",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20260304103805/BrockSmithcamp-scaled-e1772624319546.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154466",
           "author": "Kyle Bailey",
           "description": "November 5, 2026 10:30 a.m.  Associates of Vietnam Veterans of America will hold a spousal and survivor’s benefits educational seminar on Saturday, November 14th. It will be held at Garden Valley Church, at 3047 Garden Valley Road, west of Roseburg from 10:00 a.m. to 2:00 p.m. Information on benefits for children, educational benefits, spousal benefits...",
@@ -534,16 +559,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://kqennewsradio.com/wp-content/uploads/EARNEST-Poster.jpg-e1792750479283.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154264",
-          "author": "Kyle Bailey",
-          "description": "November 2, 2026 4:00 a.m.  The Umpqua Valley will see typical fall weather this week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that afternoon high temperatures will be in the 60’s throughout the week. There is a slight chance of rain late Wednesday afternoon and Wednesday...",
-          "link": "https://kqennewsradio.com/2026/11/02/typical-fall-weather-for-umpqua-valley-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=typical-fall-weather-for-umpqua-valley-this-week",
-          "publishedOn": "2026-11-02T11:57:49.000Z",
-          "wordCount": 2494,
-          "title": "TYPICAL FALL WEATHER FOR UMPQUA VALLEY THIS WEEK",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20231030092415/Red-Leaves-Tree-w-Low-Branches-10-19-21-1-1-e1698661483607.jpg"
         }
       ]
     },
@@ -661,6 +676,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6aed30a76d6d8f0001817e53",
+          "author": "Joseph Ziegler",
+          "description": "Oregon DMV will permanently close its Canyonville office Nov. 18, citing staffing shortages and an expiring lease. Residents can use the Roseburg DMV or complete eligible transactions online through DMV2U.",
+          "link": "https://www.theroseburgreceiver.com/canyonville-dmv-to-permanently-close-nov-18/",
+          "publishedOn": "2026-11-06T01:44:10.000Z",
+          "wordCount": 3212,
+          "title": "Canyonville DMV to Permanently Close Nov. 18",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/dmv.jpg"
+        },
+        {
+          "id": "6aed2c4d6d6d8f0001817e30",
+          "author": "Joseph Ziegler",
+          "description": "Stuff N’ Things celebrated its first anniversary in Myrtle Creek with vendor sales and community activities. Owner Brittany Johnson reflected on growing from 26 to 89 vendors and the relationships built along the way.",
+          "link": "https://www.theroseburgreceiver.com/stuff-n-things-celebrates-first-anniversary-as-myrtle-creek-shop-grows-to-89-vendors/",
+          "publishedOn": "2026-11-06T01:29:34.000Z",
+          "wordCount": 3587,
+          "title": "Stuff N’ Things Celebrates First Anniversary as Myrtle Creek Shop Grows to 89 Vendors",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/stuff2.png"
+        },
+        {
+          "id": "6aece4036d6d8f0001817e14",
+          "author": "The Roseburg Receiver",
+          "description": "Roseburg police reported five incidents November 4–5, including an arrest in a check fraud case, a shoplifting arrest, a prohibited camping citation, a non-injury crash, and a warrant arrest.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-november-5-2026/",
+          "publishedOn": "2026-11-05T20:23:27.000Z",
+          "wordCount": 3679,
+          "title": "Police Log: November 5, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/police_lights2-2.jpg"
+        },
         {
           "id": "6aeca2fd6d6d8f0001817daf",
           "author": "Joseph Ziegler",
@@ -910,46 +955,6 @@
           "wordCount": 4738,
           "title": "Police Log: October 30 - November 2, 2026",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/police_lights2.jpg"
-        },
-        {
-          "id": "6ae8a5eb6d6d8f0001816f39",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg will see morning fog, mostly cloudy skies and mild temperatures this week, with highs ranging from 60 to 67 degrees. Rain chances remain limited, although forecasters are watching for wetter weather during the second week of November.",
-          "link": "https://www.theroseburgreceiver.com/morning-fog-mild-temperatures-and-limited-rain-chances-expected-in-roseburg-this-week/",
-          "publishedOn": "2026-11-02T15:03:04.000Z",
-          "wordCount": 3712,
-          "title": "Morning Fog, Mild Temperatures and Limited Rain Chances Expected in Roseburg This Week",
-          "imageUrl": "https://images.unsplash.com/photo-1543107076-8f86ee268706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHBudyUyMGZvZ3xlbnwwfHx8fDE3OTM2MzAxNDd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6ae8a4b16d6d8f0001816f1a",
-          "author": "Joseph Ziegler",
-          "description": "Registration for the YMCA of Douglas County's Youth Basketball League opens November 2 at 8 a.m. Children ages 3 through fourth grade can participate, with games beginning in January. Volunteer coaches are also needed.",
-          "link": "https://www.theroseburgreceiver.com/ymca-of-douglas-county-opens-youth-basketball-registration-november-2/",
-          "publishedOn": "2026-11-02T14:58:33.000Z",
-          "wordCount": 3248,
-          "title": "YMCA of Douglas County Opens Youth Basketball Registration November 2",
-          "imageUrl": "https://images.unsplash.com/photo-1540712260984-d701320a8909?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM5fHxiYXNrZXRiYWxsfGVufDB8fHx8MTc5MzYzMTQwMXww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6ae8a26a6d6d8f0001816eeb",
-          "author": "Joseph Ziegler",
-          "description": "The Pass Creek Covered Bridge in Drain has been added to the National Register of Historic Places. Built in 1925, the bridge is recognized for its engineering significance and is among fewer than 50 historic covered bridges remaining in Oregon.",
-          "link": "https://www.theroseburgreceiver.com/pass-creek-covered-bridge-in-drain-added-to-national-register-of-historic-places/",
-          "publishedOn": "2026-11-02T14:48:26.000Z",
-          "wordCount": 3440,
-          "title": "Pass Creek Covered Bridge in Drain Added to National Register of Historic Places",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/516311094706009-1.jpg"
-        },
-        {
-          "id": "6ae816796d6d8f0001816b85",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/november-2-2026/",
-          "publishedOn": "2026-11-02T14:41:27.000Z",
-          "wordCount": 7053,
-          "title": "November 2, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/The-Morning-Scoop.png"
         }
       ]
     },
