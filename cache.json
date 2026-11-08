@@ -409,36 +409,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261104160957/Amy-1.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154389",
-          "author": "Kyle Bailey",
-          "description": "November 4, 2026 4:05 a.m.  Douglas County Commissioner Chris Boice appears to be headed to another term in office. In unofficial results from the Douglas County Elections Office as of early Wednesday, Boice has 55 percent of the vote to 44 percent for challenger Steve Hammerson.",
-          "link": "https://kqennewsradio.com/2026/11/04/boice-winning-commissioner-race-in-early-returns/?utm_source=rss&utm_medium=rss&utm_campaign=boice-winning-commissioner-race-in-early-returns",
-          "publishedOn": "2026-11-04T12:05:53.000Z",
-          "wordCount": 2439,
-          "title": "BOICE WINNING COMMISSIONER RACE IN EARLY RETURNS",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230818093232/Boice-Chris_BOC_2022_cropCC.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154386",
-          "author": "Kyle Bailey",
-          "description": "November 4, 2026 4:00 a.m.  For the first time in over a quarter of a century, the City of Roseburg will have a new mayor. Steve Loosely is leading Max Smoot and David Bolhuis by a wide margin. In unofficial results from the Douglas County Elections Office as of early Wednesday Loosely has 63 percent...",
-          "link": "https://kqennewsradio.com/2026/11/04/steve-loosely-winning-mayors-race-denney-and-fouse-ahead-in-council-races/?utm_source=rss&utm_medium=rss&utm_campaign=steve-loosely-winning-mayors-race-denney-and-fouse-ahead-in-council-races",
-          "publishedOn": "2026-11-04T11:59:59.000Z",
-          "wordCount": 2534,
-          "title": "STEVE LOOSELY WINNING MAYOR’S RACE, DENNEY AND FOUSE AHEAD IN COUNCIL RACES",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727215926/ballot2-e1620147061939.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154384",
-          "author": "Kyle Bailey",
-          "description": "November 4, 2026 3:50 a.m. Incumbent Sutherlin Mayor Michelle Sumner appears headed to another term in office. Unofficial results from the Douglas County Elections Office as of early Wednesday show Sumner with 59 percent of the vote. Challenger Shawn New has 40 percent. In the race for three seats on the Sutherlin City Council, Terry...",
-          "link": "https://kqennewsradio.com/2026/11/04/sutherlin-mayor-leading-other-city-race-results-in-the-county/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-mayor-leading-other-city-race-results-in-the-county",
-          "publishedOn": "2026-11-04T11:50:13.000Z",
-          "wordCount": 2687,
-          "title": "SUTHERLIN MAYOR LEADING, OTHER CITY RACE RESULTS IN THE COUNTY",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727215927/ballot1-1-e1620147040974.jpg"
         }
       ]
     },
@@ -541,6 +511,16 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6aefadba6d6d8f00018183b0",
+          "author": "Joseph Ziegler",
+          "description": "Roseburg supporters gathered Saturday to send off the high school girls soccer team with a police escort as the players headed to the first state quarterfinal appearance in program history.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-sends-off-girls-soccer-team-for-historic-quarterfinal-appearance/",
+          "publishedOn": "2026-11-07T23:09:39.000Z",
+          "wordCount": 3173,
+          "title": "Roseburg Sends Off Girls Soccer Team For Historic Quarterfinal Appearance",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/sendoff-1.jpg"
+        },
         {
           "id": "6aee7c5d6d6d8f000181836d",
           "author": "Joseph Ziegler",
@@ -779,6 +759,21 @@
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "articles": [
         {
+          "id": "http://www.kezi.com/tncms/asset/editorial/46fc609f-300e-4be9-aaed-c202d487bbde",
+          "author": "News Staff",
+          "description": "A Roseburg man was arrested after a pre-dawn domestic disturbance and brief standoff at a Northeast Granite Ridge Street home, with police saying no shots were fired, no one was injured, and he was booked on domestic menacing, unlawful use…",
+          "link": "https://www.kezi.com/news/local/roseburg-standoff-man-caught-after-3-hour-armed-confrontation/article_46fc609f-300e-4be9-aaed-c202d487bbde.html",
+          "publishedOn": "2026-11-06T20:29:00.000Z",
+          "wordCount": 8222,
+          "title": "Roseburg standoff: Man caught after 3-hour armed confrontation",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204",
+            "length": "252712",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204"
+        },
+        {
           "id": "http://www.kezi.com/tncms/asset/editorial/1260b7ad-26f6-43f0-bb77-5870f3a77e78",
           "author": "News Staff",
           "description": "OCCU says it is expanding its 32-hour workweek initiative this fall and plans to move most of its nearly 700 employees to a four-day, 32-hour workweek at full pay and benefits by the end of 2027, while maintaining or improving…",
@@ -792,21 +787,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/7/78/77895f72-ce60-11ed-84c4-8bad650e95f5/642484eb940bc.image.png?resize=300%2C169"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/9c9d073a-eb66-4c5d-a9f5-4651fdaa1be8",
-          "author": "News Staff",
-          "description": "Elected positions throughout the state are on this year’s General Election ballot. Preliminary results will be posted here after 8 p.m. on Election Night.",
-          "link": "https://www.kezi.com/news/local/decision-2026-local-elected-officials/article_9c9d073a-eb66-4c5d-a9f5-4651fdaa1be8.html",
-          "publishedOn": "2026-11-04T04:30:00.000Z",
-          "wordCount": 8384,
-          "title": "Decision 2026: Local Elected Officials",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/a8/ea8e51e0-f371-11ed-83cd-ebb9c9d221b9/6462b5c16beef.image.jpg?resize=300%2C169",
-            "length": "205432",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/a8/ea8e51e0-f371-11ed-83cd-ebb9c9d221b9/6462b5c16beef.image.jpg?resize=300%2C169"
         }
       ]
     }
