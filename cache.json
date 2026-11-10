@@ -249,26 +249,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261106161652/Vetl.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154496",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2026 4:10 a.m.  The Roseburg area should see above normal high temperatures Friday and Saturday, with cooler, more seasonal conditions resuming on Sunday. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that highs will be over 10 degrees above normal Saturday and might get close...",
-          "link": "https://kqennewsradio.com/2026/11/06/above-normal-highs-friday-saturday-cooler-conditions-resume-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=above-normal-highs-friday-saturday-cooler-conditions-resume-sunday",
-          "publishedOn": "2026-11-06T11:54:37.000Z",
-          "wordCount": 2545,
-          "title": "ABOVE NORMAL HIGHS FRIDAY/SATURDAY, COOLER CONDITIONS RESUME SUNDAY",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727224353/Sunshine-park-ball-field.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154492",
-          "author": "Kyle Bailey",
-          "description": "November 6, 2026 4:00 a.m.  Due to project delays, the closure of the 900 block of West Old Melrose Road in Roseburg has been rescheduled for 8:00 a.m. to 5:00 p.m. on Friday, November 6th. A city release said the closure was previously scheduled for Thursday, November 5th. Crews will remove an underground sewer bypass...",
-          "link": "https://kqennewsradio.com/2026/11/06/west-old-melrose-road-closure-rescheduled-for-friday-november-6th/?utm_source=rss&utm_medium=rss&utm_campaign=west-old-melrose-road-closure-rescheduled-for-friday-november-6th",
-          "publishedOn": "2026-11-06T11:37:38.000Z",
-          "wordCount": 2513,
-          "title": "WEST OLD MELROSE ROAD CLOSURE RESCHEDULED FOR FRIDAY, NOVEMBER 6TH",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261106103713/Nov6-1.jpg.png"
         }
       ]
     },
@@ -312,21 +292,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/94/d94a08fb-f50f-4b6b-972c-26a5b32d419d/6aeb945cbf120.image.jpg?resize=300%2C403"
-        },
-        {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/87756211-e384-4edd-8e66-41b357d41162",
-          "author": "ANDREW GRIFFIN NR Today",
-          "description": "Servicemen and their fuzzy companions gathered on Thursday afternoon on the Aviva Health campus for free services, food and treats at Vets and their Pets, an annual festival put on by the healthcare nonprofit.",
-          "link": "https://www.nrtoday.com/news/servicemans-best-friend-veterans-and-pets-receive-free-services-and-treats-at-aviva-health/article_87756211-e384-4edd-8e66-41b357d41162.html",
-          "publishedOn": "2026-11-05T21:18:00.000Z",
-          "wordCount": 12860,
-          "title": "Serviceman's best friend: Veterans and pets receive free services and treats at Aviva Health",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d8/fd84a8c1-c266-42cc-8430-0f3943d99ab5/6aed0b1b7c9e1.image.jpg?resize=300%2C200",
-            "length": "397634",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/d8/fd84a8c1-c266-42cc-8430-0f3943d99ab5/6aed0b1b7c9e1.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -341,6 +306,36 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6af272ca6d6d8f0001818927",
+          "author": "Joseph Ziegler",
+          "description": "Downtown Roseburg’s Shop & Sip event returns November 10 with local shops, pop-up vendors, refreshments and raffle prizes. The community event begins at The Wine Destination at 4:30 p.m., with",
+          "link": "https://www.theroseburgreceiver.com/shop-small-event-to-bring-an-evening-of-shopping-and-pop-ups-to-downtown-roseburg/",
+          "publishedOn": "2026-11-10T01:30:23.000Z",
+          "wordCount": 3275,
+          "title": "Shop Small Event To Bring An Evening Of Shopping And Pop-Ups To Downtown Roseburg",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/sandwm.png"
+        },
+        {
+          "id": "6af26e316d6d8f00018188ff",
+          "author": "Joseph Ziegler",
+          "description": "ODFW reports increasing bird flu activity among ducks and geese, primarily in the Willamette Valley. Officials urge people to avoid sick birds, keep pets away and report unusual bird deaths.",
+          "link": "https://www.theroseburgreceiver.com/bird-flu-reports-rise-among-ducks-and-geese-in-willamette-valley/",
+          "publishedOn": "2026-11-10T01:09:20.000Z",
+          "wordCount": 3403,
+          "title": "Bird Flu Reports Rise Among Ducks and Geese in Willamette Valley",
+          "imageUrl": "https://images.unsplash.com/photo-1758199988021-fc27bdf85bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGdlZXNlfGVufDB8fHx8MTc5NDI3MjkwNnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6af26cc96d6d8f00018188e8",
+          "author": "Joseph Ziegler",
+          "description": "Ducks and Beavers fans can help feed 1,850 local households by donating turkeys or hams during The FISH of Roseburg’s Protein Battle on November 20 and 21.",
+          "link": "https://www.theroseburgreceiver.com/ducks-and-beavers-fans-invited-to-help-feed-1-850-households-in-protein-battle/",
+          "publishedOn": "2026-11-10T01:02:30.000Z",
+          "wordCount": 3256,
+          "title": "Ducks and Beavers Fans Invited to Help Feed 1,850 Households in Protein Battle",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/Roseburg-Food-Pantry-Protein-Battle-1-1.png"
+        },
         {
           "id": "6af228a86d6d8f00018188bf",
           "author": "The Roseburg Receiver",
@@ -452,54 +447,14 @@
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/893346733_1441382964850104_1706539752261942448_n.jpg"
         },
         {
-          "id": "6aedf2156d6d8f000181829b",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg will see mild temperatures Friday and Saturday, with highs reaching 69 degrees before rain arrives Saturday night. Cooler weather returns Sunday, with additional rain and potentially stronger winds expected next week.",
-          "link": "https://www.theroseburgreceiver.com/warm-weather-continues-in-roseburg-before-weekend-rain-and-cooler-temperatures-arrive/",
-          "publishedOn": "2026-11-06T15:29:21.000Z",
-          "wordCount": 3594,
-          "title": "Warm Weather Continues in Roseburg Before Weekend Rain and Cooler Temperatures Arrive",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/Screenshot-2026-11-06-at-7.27.01---AM-1.png"
-        },
-        {
-          "id": "6aedef7f6d6d8f000181827b",
-          "author": "Joseph Ziegler",
-          "description": "Douglas County government offices will close November 11 for Veterans Day, while parks, museums and recreational facilities remain open. The 71st Annual Veterans Day Parade and other community events are also scheduled throughout the county.",
-          "link": "https://www.theroseburgreceiver.com/douglas-county-announces-veterans-day-closures-community-events-for-november-11/",
-          "publishedOn": "2026-11-06T15:19:06.000Z",
-          "wordCount": 3653,
-          "title": "Douglas County Announces Veterans Day Closures, Community Events for November 11",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/veterans_closed-1.png"
-        },
-        {
-          "id": "6aedea656d6d8f0001818251",
-          "author": "Joseph Ziegler",
-          "description": "Adapt Integrated Health Care has officially named its new 50-bed facility under construction in Roseburg the Diamond Lake Recovery Campus. The residential treatment building, Crossroads Lodge, will more than double the capacity of the existing program.",
-          "link": "https://www.theroseburgreceiver.com/adapt-names-new-regional-recovery-facility-diamond-lake-recovery-campus/",
-          "publishedOn": "2026-11-06T14:59:53.000Z",
-          "wordCount": 3632,
-          "title": "Adapt Names New Regional Recovery Facility Diamond Lake Recovery Campus",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/adapt_design-1.png"
-        },
-        {
-          "id": "6aede9ec6d6d8f0001818237",
-          "author": "Joseph Ziegler",
-          "description": "The closure of the 900 block of West Old Melrose Road has been rescheduled for Friday, November 6, from 8 a.m. to 5 p.m. Crews will remove an underground sewer bypass serving the RUSA wastewater treatment plant. Detours will be in place.",
-          "link": "https://www.theroseburgreceiver.com/west-old-melrose-road-closure-rescheduled-for-friday-november-6/",
-          "publishedOn": "2026-11-06T14:54:37.000Z",
-          "wordCount": 3154,
-          "title": "West Old Melrose Road Closure Rescheduled for Friday, November 6",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/110526_MAP-West-Old-Melrose-Road-closure-rescheduled-for-Nov.-6-1.png"
-        },
-        {
-          "id": "6aede34e6d6d8f0001817e77",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/november-6-2026/",
-          "publishedOn": "2026-11-06T14:47:28.000Z",
-          "wordCount": 6984,
-          "title": "November 6, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/The-Morning-Scoop-4.png"
+          "id": "6aee345b6d6d8f00018182d3",
+          "author": "The Roseburg Receiver",
+          "description": "Roseburg police reported four warrant arrests and a theft case in the November 5 patrol log. The theft case also involved criminal trespass and a parole violation. All five entries resulted in individuals being lodged at Douglas County Corrections.",
+          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-november-5-2026/",
+          "publishedOn": "2026-11-06T20:14:56.000Z",
+          "wordCount": 3602,
+          "title": "Police Log: November 5, 2026",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/police_lights2-3.jpg"
         }
       ]
     },
