@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154651",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local look at finances.",
+          "link": "https://kqennewsradio.com/2026/11/11/true-wealth-11-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-10-26",
+          "publishedOn": "2026-11-11T01:12:49.000Z",
+          "wordCount": 2450,
+          "title": "TRUE WEALTH 11.10.26",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=154645",
+          "author": "Kyle Bailey",
+          "description": "Republican candidate for Governor Christine Drazan looks back at her race and concerns for the state in the next four years:",
+          "link": "https://kqennewsradio.com/2026/11/10/inside-douglas-county-11-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-10-26",
+          "publishedOn": "2026-11-10T21:11:04.000Z",
+          "wordCount": 2458,
+          "title": "INSIDE DOUGLAS COUNTY 11.10.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261110200321/IDC-11-10-26.mp3",
+            "length": "21234353",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20251029190811/Newsdrazan-scaled.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154642",
           "author": "Kyle Bailey",
           "description": "November 10, 2026 10:40 a.m. Roseburg Police cited a woman for a probation violation and indecent exposure on Monday morning. An RPD report said just before 9:30 a.m. the 38-year-old was seen naked in the parking lot of a store in the 2100 block of Northwest Stewart Parkway. She was taken into custody and transported...",
@@ -229,16 +254,6 @@
           "wordCount": 2526,
           "title": "CALIFORNIA WOMAN JAILED AFTER WRONG WAY FREEWAY DUII DRIVING INCIDENT",
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727204915/osp-logo.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=154534",
-          "author": "Kyle Bailey",
-          "description": "November 7, 2026 6:30 a.m.  Crews with the Camas Valley Volunteer Fire District stopped a natural cover fire at approximately one acre on Friday afternoon. A CYVFD post said just after 1:00 p.m. firefighters were dispatched to the fire in the area of Westside Road and Upper Camas Road in Camas Valley. First responders arrived...",
-          "link": "https://kqennewsradio.com/2026/11/07/camas-valley-fire-crews-stop-friday-natural-cover-fire/?utm_source=rss&utm_medium=rss&utm_campaign=camas-valley-fire-crews-stop-friday-natural-cover-fire",
-          "publishedOn": "2026-11-07T14:39:38.000Z",
-          "wordCount": 2584,
-          "title": "CAMAS VALLEY FIRE CREWS STOP FRIDAY NATURAL COVER FIRE",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261107133723/CV1-2-e1794062272584.jpg"
         }
       ]
     },
