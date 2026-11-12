@@ -6,6 +6,21 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154702",
+          "author": "Kyle Bailey",
+          "description": "Our annual Veterans Day interviews feature conservations with Matt Hallman and Eric Bagwell.",
+          "link": "https://kqennewsradio.com/2026/11/11/inside-douglas-county-11-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-11-26",
+          "publishedOn": "2026-11-11T21:06:06.000Z",
+          "wordCount": 2455,
+          "title": "INSIDE DOUGLAS COUNTY 11.11.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261111200126/IDC-11-11-26.mp3",
+            "length": "15725826",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261111200527/Matt-7-e1794431146887.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154699",
           "author": "Kyle Bailey",
           "description": "November 11, 2026 10:15 a.m.  Roseburg Police cited a man for prohibited camping on Tuesday morning. An RPD report said at 5:00 a.m. the 72-year-old was contacted because he was camping in a prohibited area at Gaddis Park in the 800 block of Northwest Highland Street. The man was given the citation and was directed...",
@@ -354,34 +369,64 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/9682bda1-2624-4b51-9b38-0e38a0cc2f88",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b2a75473-0e00-4a65-859c-9d24302b247c",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "Over 1.76 million in federal funding was awarded to the Douglas County Public Works Department for a multi-million dollar project to establish a grade-separated railway crossing in the Wilbur area.",
-          "link": "https://www.nrtoday.com/news/douglas-county-receives-over-1-76-million-for-wilbur-railroad-overcrossing-project/article_9682bda1-2624-4b51-9b38-0e38a0cc2f88.html",
-          "publishedOn": "2026-11-06T21:39:00.000Z",
-          "wordCount": 12364,
-          "title": "Douglas County receives over $1.76 million for Wilbur railroad overcrossing project",
+          "description": "The streets of Roseburg were filled with the sounds of bagpipes, cheering crowds, marching bands, and the roar of fighter jet engines on Wednesday as hundreds came out to celebrate the 71st Annual Douglas County Veterans Day Parade.",
+          "link": "https://www.nrtoday.com/news/douglas-county-comes-out-in-red-white-and-blue-for-71st-annual-veterans-day-parade/article_b2a75473-0e00-4a65-859c-9d24302b247c.html",
+          "publishedOn": "2026-11-11T10:45:00.000Z",
+          "wordCount": 13479,
+          "title": "Douglas County comes out in red, white and blue for 71st annual veterans day parade",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/e8/5e899334-dd89-4375-b266-5fb71c48aae6/6aee715387b22.image.jpg?resize=300%2C209",
-            "length": "117052",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/a4/ba4de394-f3dd-4f12-9b5f-77160f94d481/6af4ed55cc9f2.image.jpg?resize=300%2C225",
+            "length": "278769",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/e8/5e899334-dd89-4375-b266-5fb71c48aae6/6aee715387b22.image.jpg?resize=300%2C209"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/b/a4/ba4de394-f3dd-4f12-9b5f-77160f94d481/6af4ed55cc9f2.image.jpg?resize=300%2C225"
         },
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/821deff1-9b9a-4341-b369-015e4bf284a7",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/26bf4008-6264-4958-9a09-10b90794cf76",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "Douglas County resident Whitney Henneman was named one of ten foresters across the U.S. to receive the Society of American Foresters' Presidential Field Forester Award.",
-          "link": "https://www.nrtoday.com/news/douglas-county-forester-whitney-henneman-earns-presidential-field-forester-award/article_821deff1-9b9a-4341-b369-015e4bf284a7.html",
-          "publishedOn": "2026-11-06T20:15:00.000Z",
-          "wordCount": 12519,
-          "title": "Douglas County forester Whitney Henneman earns Presidential Field Forester award",
+          "description": "This December, the normally stark white tombstones of veterans at the Roseburg National Cemetery will get a touch of festive green and red as volunteers work to spread a message: This winter, they will not be forgotten.",
+          "link": "https://www.nrtoday.com/news/remembering-the-fallen-wreaths-across-america-plans-return-to-roseburg-national-cemetery/article_26bf4008-6264-4958-9a09-10b90794cf76.html",
+          "publishedOn": "2026-11-10T23:00:00.000Z",
+          "wordCount": 12836,
+          "title": "Remembering the fallen: Wreaths Across America plans return to Roseburg National Cemetery",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/94/d94a08fb-f50f-4b6b-972c-26a5b32d419d/6aeb945cbf120.image.jpg?resize=300%2C403",
-            "length": "226918",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/1b/21b6d587-688e-4771-8420-ada7441e3c11/693fbab48cb96.image.jpg?resize=300%2C200",
+            "length": "394065",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/94/d94a08fb-f50f-4b6b-972c-26a5b32d419d/6aeb945cbf120.image.jpg?resize=300%2C403"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/1b/21b6d587-688e-4771-8420-ada7441e3c11/693fbab48cb96.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/98726da2-8f11-44b2-9a8f-971408495da9",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A bid award for a $669,000 project to improve an unfinished section of the Roseburg Public Safety Center failed to pass the Roseburg City Council in its Monday night meeting.",
+          "link": "https://www.nrtoday.com/news/669-000-public-safety-center-project-bid-fails-to-pass-roseburg-city-council/article_98726da2-8f11-44b2-9a8f-971408495da9.html",
+          "publishedOn": "2026-11-10T15:00:00.000Z",
+          "wordCount": 12939,
+          "title": "$669,000 Public Safety Center project bid fails to pass Roseburg City Council",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/44/244cf938-46ef-43bb-ac53-38a6511f7cb1/66a1586394147.image.jpg?resize=300%2C200",
+            "length": "601455",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/44/244cf938-46ef-43bb-ac53-38a6511f7cb1/66a1586394147.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/4abd5147-ca99-4179-8fe0-4763289715ae",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "In a Monday night meeting, the City of Roseburg came to a decision on whether to continue using Flock cameras and discussed introducing a continuous homelessness discussion on council agendas.",
+          "link": "https://www.nrtoday.com/news/roseburg-city-council-moves-to-keep-flock-cameras-establish-work-session-on-homelessness/article_4abd5147-ca99-4179-8fe0-4763289715ae.html",
+          "publishedOn": "2026-11-10T15:00:00.000Z",
+          "wordCount": 13595,
+          "title": "Roseburg City Council moves to keep Flock cameras, establish work session on homelessness",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f2/ff2dbd74-4ea5-4655-b2fd-6afc378a854a/6af2c604aa47c.image.jpg?resize=300%2C200",
+            "length": "268595",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/f/f2/ff2dbd74-4ea5-4655-b2fd-6afc378a854a/6af2c604aa47c.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -396,6 +441,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6af534486d6d8f0001818f61",
+          "author": "Joseph Ziegler",
+          "description": "Wreaths Across America returns to Roseburg National Cemetery on December 19, with thousands of wreaths planned to honor local veterans. Organizers are inviting community members and families to participate in the annual John Pierson Memorial ceremony.",
+          "link": "https://www.theroseburgreceiver.com/wreaths-across-america-returns-to-roseburg-national-cemetery-december-19/",
+          "publishedOn": "2026-11-12T03:40:42.000Z",
+          "wordCount": 3652,
+          "title": "Wreaths Across America Returns to Roseburg National Cemetery December 19",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/wreaths.png"
+        },
+        {
+          "id": "6af530e96d6d8f0001818f46",
+          "author": "Joseph Ziegler",
+          "description": "Four Oregon lawmakers are urging the VA to prioritize federal funding for a proposed state veterans' home in Roseburg. The project would expand long-term care options for veterans throughout Southern Oregon but remains in the early stages of development.",
+          "link": "https://www.theroseburgreceiver.com/oregon-lawmakers-urge-federal-funding-for-proposed-roseburg-veterans-home/",
+          "publishedOn": "2026-11-12T03:26:18.000Z",
+          "wordCount": 3597,
+          "title": "Oregon Lawmakers Urge Federal Funding For Proposed Roseburg Veterans’ Home",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/Roseburg-VA-Medical-Center.jpg"
+        },
         {
           "id": "6af4a8cb6d6d8f0001818eee",
           "author": "Joseph Ziegler",
