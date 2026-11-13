@@ -6,6 +6,31 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=154751",
+          "author": "Kyle Bailey",
+          "description": "School fall sports season! Superintendent Jared Cordon is joined by guest co-host Joey Keeran from The Score 92.3 FM and 1490 AM for look back at the season with the coaches and student-athletes who experienced it firsthand. In Part 1, Girls Soccer Coach Janelle Newton and player Molly Smith join us to talk about the team’s historic...",
+          "link": "https://kqennewsradio.com/2026/11/13/your-cue-11-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=your-cue-11-12-26",
+          "publishedOn": "2026-11-13T01:13:32.000Z",
+          "wordCount": 2589,
+          "title": "YOUR CUE 11.12.26",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261113001305/Your-CUE-Building-Community-11.png"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=154748",
+          "author": "Kyle Bailey",
+          "description": "Douglas County Commissioner Chris Boice talks about his plans for next year after winning re-election last week.  He talks about recent projects in the county and others that are planned.",
+          "link": "https://kqennewsradio.com/2026/11/12/inside-douglas-county-11-12-26/?utm_source=rss&utm_medium=rss&utm_campaign=inside-douglas-county-11-12-26",
+          "publishedOn": "2026-11-12T21:20:02.000Z",
+          "wordCount": 2472,
+          "title": "INSIDE DOUGLAS COUNTY 11.12.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261112200650/idc-11-12-26-.mp3",
+            "length": "21259012",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20260605094249/Chris-8-e1780656186997.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=154746",
           "author": "Kyle Bailey",
           "description": "November 12, 2026 10:40 a.m.  The Roseburg Public Library is hosting “The Big Bang Theory” presented by astronomer Dr. Paul Morgan at 6:00 p.m. Tuesday, November 17th. A city release said Dr. Morgan, Umpqua Community College professor and director of their observatory, will present via Zoom and will discuss the discovery of the Big Bang...",
@@ -825,36 +850,6 @@
           "wordCount": 3916,
           "title": "Roseburg City Council to Revisit Flock Camera Decision Monday Following Weeks of Debate",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/Flock_Safety_ALPR_Camera_-53833285849-.jpg"
-        },
-        {
-          "id": "6af153776d6d8f0001818464",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg documented $119,994 in estimated homelessness-related resource costs during September, including 955 staff hours and 103 fire responses. The new City Council report details where resources were used and how September compares with July.",
-          "link": "https://www.theroseburgreceiver.com/roseburg-reports-nearly-120-000-in-homelessness-related-response-costs-for-september/",
-          "publishedOn": "2026-11-09T15:01:35.000Z",
-          "wordCount": 3972,
-          "title": "Roseburg Reports Nearly $120,000 in Homelessness-Related Response Costs for September",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/city_hall-1.jpg"
-        },
-        {
-          "id": "6af1dd146d6d8f0001818852",
-          "author": "Joseph Ziegler",
-          "description": "Rain returns to Roseburg Monday with highs near 60 before warmer, mostly dry weather arrives Tuesday through Thursday. Veterans Day could reach 68 degrees, but forecasters are watching a potentially wetter and windier pattern developing this weekend.",
-          "link": "https://www.theroseburgreceiver.com/rain-returns-to-roseburg-monday-before-warmer-weather-arrives-wetter-pattern-possible-this-weekend/",
-          "publishedOn": "2026-11-09T14:50:03.000Z",
-          "wordCount": 3731,
-          "title": "Rain Returns to Roseburg Monday Before Warmer Weather Arrives, Wetter Pattern Possible This Weekend",
-          "imageUrl": "https://images.unsplash.com/photo-1603262439120-3e17d13bab3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxwbnclMjByYWlufGVufDB8fHx8MTc5NDIzNTcwMHww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6af139546d6d8f00018183f9",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/november-9-2026/",
-          "publishedOn": "2026-11-09T14:41:16.000Z",
-          "wordCount": 8841,
-          "title": "November 9, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/The-Morning-Scoop-5.png"
         }
       ]
     },
