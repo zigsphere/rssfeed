@@ -752,7 +752,53 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/06437642-6368-4935-bba5-6cfe12c0a8de",
+          "author": "Ryan Bonham",
+          "description": "A 24-year-old Roseburg man died following a single-vehicle crash into an embankment early on Friday, according to the Roseburg Police Department.",
+          "link": "https://www.kezi.com/news/local/speed-no-seat-belt-and-alcohol-linked-to-fatal-roseburg-crash/article_06437642-6368-4935-bba5-6cfe12c0a8de.html",
+          "publishedOn": "2026-11-13T20:53:00.000Z",
+          "wordCount": 8241,
+          "title": "Speed, no seat belt and alcohol linked to fatal Roseburg crash",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204",
+            "length": "252712",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/8/26/8267b4d6-9edc-11ef-a811-a35f1b80a331/672fcb82ead70.image.jpg?resize=300%2C204"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/533279f5-919a-4559-9d3f-62ba2d07768f",
+          "author": "News Staff",
+          "description": "Eugene and Springfield police caught two robbers in Roseburg Wednesday night after a string of armed robberies in the Eugene and Springfield area, according to the Eugene Police Department.",
+          "link": "https://www.kezi.com/news/local/eugene-springfield-police-team-up-to-catch-serial-robbery-duo-suspects/article_533279f5-919a-4559-9d3f-62ba2d07768f.html",
+          "publishedOn": "2026-11-12T23:52:00.000Z",
+          "wordCount": 8287,
+          "title": "Eugene, Springfield police team up to catch serial robbery duo suspects",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/0d/e0db1c13-a4fd-5b8b-817f-baa4df231a38/6a0603b8946da.image.jpg?resize=300%2C225",
+            "length": "76911",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/e/0d/e0db1c13-a4fd-5b8b-817f-baa4df231a38/6a0603b8946da.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.kezi.com/tncms/asset/editorial/0bccb32f-8336-4776-8395-a64496159fa8",
+          "author": "News Staff",
+          "description": "Iron Horse Logging, Inc. was selected as one of three regional Oregon Operators of the Year for its forestry practices that protected streams, wetlands, slopes, and forest health, and the company will be honored at the Oregon Board of Forestry’s…",
+          "link": "https://www.kezi.com/news/local/mapleton-logger-named-oregon-operator-of-the-year/article_0bccb32f-8336-4776-8395-a64496159fa8.html",
+          "publishedOn": "2026-11-12T00:01:00.000Z",
+          "wordCount": 8391,
+          "title": "Mapleton logger named Oregon Operator of the Year",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/8f/68f778bd-3857-45e4-83a1-19a707ab5b56/6af502f3bc71c.image.jpg?resize=300%2C182",
+            "length": "134304",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/6/8f/68f778bd-3857-45e4-83a1-19a707ab5b56/6af502f3bc71c.image.jpg?resize=300%2C182"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
