@@ -6,6 +6,41 @@
       "siteUrl": "https://kqennewsradio.com",
       "articles": [
         {
+          "id": "https://kqennewsradio.com/?p=155236",
+          "author": "Kyle Bailey",
+          "description": "From Littlejohn Financial, David Littlejohn and Matt Dickson have our weekly local financial program.",
+          "link": "https://kqennewsradio.com/2026/11/25/true-wealth-11-24-26/?utm_source=rss&utm_medium=rss&utm_campaign=true-wealth-11-24-26",
+          "publishedOn": "2026-11-25T01:10:26.000Z",
+          "wordCount": 2454,
+          "title": "TRUE WEALTH 11.24.26",
+          "enclosure": {
+            "url": "https://media.kqennewsradio.com/wp-content/uploads/20261125000226/TWR-11-24-26.mp3",
+            "length": "42520596",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727200551/True-Wealth-e1685556159637.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=155237",
+          "author": "Kyle Bailey",
+          "description": "November 24, 2026 4:50 p.m.  Oregon State Police responded to a commercial motor vehicle crash early Monday morning. An OSP report said at 5:30 a.m. the operator of a loaded chip hauler, a Medford man, had failed to drive within the westbound lane near milepost 20 in the Scottsburg area. The vehicle continued down a...",
+          "link": "https://kqennewsradio.com/2026/11/24/commercial-motor-vehicle-crash-on-highway-38-in-scottsburg-area/?utm_source=rss&utm_medium=rss&utm_campaign=commercial-motor-vehicle-crash-on-highway-38-in-scottsburg-area",
+          "publishedOn": "2026-11-25T00:53:51.000Z",
+          "wordCount": 2480,
+          "title": "COMMERCIAL MOTOR VEHICLE CRASH ON HIGHWAY 38 IN SCOTTSBURG AREA",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20230727204915/osp-logo.jpg"
+        },
+        {
+          "id": "https://kqennewsradio.com/?p=155232",
+          "author": "Kyle Bailey",
+          "description": "November 24, 2026 4:40 p.m.   Strong winds have caused three previously burned piled logging units to reignite, spreading into adjacent slash and timber. A release from the Douglas Forest Protective Association said on Tuesday, winds estimated at 20 to 30 miles led to the fires. Public Information Officer Rachael Pope said crews are currently engaged...",
+          "link": "https://kqennewsradio.com/2026/11/24/wind-driven-conditions-cause-three-fires-in-days-creek-and-tiller-areas/?utm_source=rss&utm_medium=rss&utm_campaign=wind-driven-conditions-cause-three-fires-in-days-creek-and-tiller-areas",
+          "publishedOn": "2026-11-25T00:43:14.000Z",
+          "wordCount": 2758,
+          "title": "WIND DRIVEN CONDITIONS CAUSE THREE FIRES IN DAYS CREEK AND TILLER AREAS",
+          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261124234138/Shively.jpg"
+        },
+        {
           "id": "https://kqennewsradio.com/?p=155230",
           "author": "Kyle Bailey",
           "description": "Congressman Cliff Bentz has an update on recent election results and his plans for the next session of Congress in this encore program.",
@@ -234,26 +269,6 @@
           "wordCount": 2779,
           "title": "MULTI-AGENCY OPERATION LEADS TO ARREST OF COLORADO FUGITIVE",
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261121171852/schoolbus-e1795285148872.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=155113",
-          "author": "Kyle Bailey",
-          "description": "November 21, 2026 8:00 a.m.  Sutherlin Police Department is seeking the public’s help in locating the suspect in an arson incident that occurred early Friday morning. SPD Captain Dennis Chrisenbery said in the early morning hours, a male entered Anytime Fitness on Dakota Street and is alleged to have started a fire at the 24-hour...",
-          "link": "https://kqennewsradio.com/2026/11/21/sutherlin-police-seeking-publics-help-in-locating-arson-suspect/?utm_source=rss&utm_medium=rss&utm_campaign=sutherlin-police-seeking-publics-help-in-locating-arson-suspect",
-          "publishedOn": "2026-11-21T16:05:49.000Z",
-          "wordCount": 2532,
-          "title": "SUTHERLIN POLICE SEEKING PUBLIC’S HELP IN LOCATING ARSON SUSPECT",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261121150413/Suspect2.jpg.png"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=155109",
-          "author": "Kyle Bailey",
-          "description": "November 21, 2026 5:45 a.m.  A Freeze Warning remains in effect through 8:00 a.m. Saturday for central Douglas County. Forecasters at the National Weather Service in Medford said sub-freezing temperatures as low as 31 degrees are expected. The Warning area includes the Umpqua Valley and applies to Roseburg, Sutherlin, Winston, Canyonville and surrounding areas. Forecasters...",
-          "link": "https://kqennewsradio.com/2026/11/21/freeze-warning-through-800-a-m-saturday-for-central-douglas-county/?utm_source=rss&utm_medium=rss&utm_campaign=freeze-warning-through-800-a-m-saturday-for-central-douglas-county",
-          "publishedOn": "2026-11-21T13:58:30.000Z",
-          "wordCount": 2487,
-          "title": "FREEZE WARNING THROUGH 8:00 A.M. SATURDAY FOR CENTRAL DOUGLAS COUNTY",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261121125816/Satfrost-2.png"
         }
       ]
     },
@@ -269,19 +284,19 @@
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
         {
-          "id": "http://www.nrtoday.com/tncms/asset/editorial/a2621996-d912-450e-8a34-c62650ba7112",
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/3de128fd-f61c-48d4-b5b5-11569d98f3b2",
           "author": "ANDREW GRIFFIN NR Today",
-          "description": "For the owners of Part-Timers BBQ, the ultimate goal of spending hours and hours crafting their personal smoked meat recipes comes down to one thing: Creating food that tastes so good it's addictive.",
-          "link": "https://www.nrtoday.com/business/part-timers-bbq-brings-smoked-meats-to-roseburgs-streets/article_a2621996-d912-450e-8a34-c62650ba7112.html",
-          "publishedOn": "2026-11-21T00:00:00.000Z",
-          "wordCount": 12895,
-          "title": "Part-Timers BBQ brings smoked meats to Roseburg's streets",
+          "description": "Roseburg High School’s auxiliary gymnasium was filled with flags, uniforms and war memorabilia on Monday as veterans gathered to tell their stores at Salute to Service.",
+          "link": "https://www.nrtoday.com/news/veterans-share-stories-with-students-at-roseburg-high-school-salute-to-service/article_3de128fd-f61c-48d4-b5b5-11569d98f3b2.html",
+          "publishedOn": "2026-11-24T18:45:00.000Z",
+          "wordCount": 13054,
+          "title": "Veterans share stories with students at Roseburg High School Salute to Service",
           "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/ce/5ce7b49a-ddae-466b-9216-f155e42cdd2e/6b00df6e3756e.image.jpg?resize=300%2C200",
-            "length": "364148",
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/86/d8619b2e-9279-4420-8bca-949506bd5616/6b05d61d9c72b.image.jpg?resize=300%2C200",
+            "length": "312279",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/5/ce/5ce7b49a-ddae-466b-9216-f155e42cdd2e/6b00df6e3756e.image.jpg?resize=300%2C200"
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/d/86/d8619b2e-9279-4420-8bca-949506bd5616/6b05d61d9c72b.image.jpg?resize=300%2C200"
         }
       ]
     },
@@ -296,6 +311,26 @@
       "feedUrl": "https://www.theroseburgreceiver.com/rss/",
       "siteUrl": "https://www.theroseburgreceiver.com/",
       "articles": [
+        {
+          "id": "6b06347677fc0800012d1097",
+          "author": "Joseph Ziegler",
+          "description": "A Roseburg man faces first-degree arson and criminal mischief charges after police say he admitted to starting the Nov. 15 fire that damaged a house and vehicle on Southeast Templin Avenue.",
+          "link": "https://www.theroseburgreceiver.com/roseburg-man-charged-with-arson-in-nov-15-templin-avenue-fire/",
+          "publishedOn": "2026-11-25T01:07:37.000Z",
+          "wordCount": 3466,
+          "title": "Roseburg Man Charged With Arson in Nov. 15 Templin Avenue Fire",
+          "imageUrl": "https://images.unsplash.com/photo-1637016887843-c6d136c06d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fFBvbGljZXxlbnwwfHx8fDE3OTU1Njg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "6b06287377fc0800012d107c",
+          "author": "Joseph Ziegler",
+          "description": "Strong winds reignited three previously burned logging debris piles near Days Creek and Tiller on Nov. 24. Firefighters were working to contain the fires, and DFPA said no homes or other structures were threatened at the time of its update.",
+          "link": "https://www.theroseburgreceiver.com/strong-winds-reignite-three-logging-burns-near-days-creek-and-tiller/",
+          "publishedOn": "2026-11-25T00:16:48.000Z",
+          "wordCount": 3589,
+          "title": "Strong Winds Reignite Three Logging Burns Near Days Creek and Tiller",
+          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/8196.jpg"
+        },
         {
           "id": "6b05f72277fc0800012d105d",
           "author": "Joseph Ziegler",
@@ -552,38 +587,7 @@
       "title": "www.kezi.com - RSS Results for roseburg in news of type article",
       "feedUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.kezi.com/search/?q=roseburg&f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
-      "articles": [
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/1807d362-65ea-473f-a6ad-3572e5fb184c",
-          "author": "News Staff",
-          "description": "Local residents will soon have a new way to get rid of old mattresses without paying a dime.",
-          "link": "https://www.kezi.com/news/local/roseburg-transfer-station-starts-free-mattress-recycling-program/article_1807d362-65ea-473f-a6ad-3572e5fb184c.html",
-          "publishedOn": "2026-11-20T23:28:00.000Z",
-          "wordCount": 8139,
-          "title": "Roseburg Transfer Station starts free mattress recycling program",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/80/d80f8b7e-5aea-4fe6-a551-38bf20ddcb06/6b00d8e712f7c.image.jpg?resize=300%2C225",
-            "length": "113224",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/d/80/d80f8b7e-5aea-4fe6-a551-38bf20ddcb06/6b00d8e712f7c.image.jpg?resize=300%2C225"
-        },
-        {
-          "id": "http://www.kezi.com/tncms/asset/editorial/b3be2242-9ffc-437e-93eb-879cd72dcb67",
-          "author": "News Staff",
-          "description": "A Roseburg father will spend the rest of his life in prison after pleading no contest to murdering his nearly one-year-old son.",
-          "link": "https://www.kezi.com/news/local/judge-sentences-roseburg-father-to-life-for-strangling-his-baby/article_b3be2242-9ffc-437e-93eb-879cd72dcb67.html",
-          "publishedOn": "2026-11-20T18:15:00.000Z",
-          "wordCount": 8274,
-          "title": "Judge sentences Roseburg father to life for strangling his baby",
-          "enclosure": {
-            "url": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/f2/3f2e1e27-2a25-492c-a3c5-8c4d668e6833/68019932a5f60.image.jpg?resize=300%2C225",
-            "length": "164906",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kezi.com/content/tncms/assets/v3/editorial/3/f2/3f2e1e27-2a25-492c-a3c5-8c4d668e6833/68019932a5f60.image.jpg?resize=300%2C225"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
