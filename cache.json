@@ -409,16 +409,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261123161154/Light-3.jpg"
-        },
-        {
-          "id": "https://kqennewsradio.com/?p=155149",
-          "author": "Kyle Bailey",
-          "description": "November 23, 2026 4:15 a.m.  The Umpqua Valley will see some gusty winds and showers this week. Forecasters at the National Weather Service in Medford told News Radio 93-9 FM and 1240 KQEN that winds Tuesday should gust as high as 30 miles per hour with light rain likely. Thursday more rain is expected with...",
-          "link": "https://kqennewsradio.com/2026/11/23/some-gusty-winds-showers-this-week-for-umpqua-valley/?utm_source=rss&utm_medium=rss&utm_campaign=some-gusty-winds-showers-this-week-for-umpqua-valley",
-          "publishedOn": "2026-11-23T12:16:39.000Z",
-          "wordCount": 2533,
-          "title": "SOME GUSTY WINDS/SHOWERS THIS WEEK FOR UMPQUA VALLEY",
-          "imageUrl": "https://media.kqennewsradio.com/wp-content/uploads/20261123111613/Monday-3.png"
         }
       ]
     },
@@ -433,6 +423,81 @@
       "feedUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "siteUrl": "https://www.nrtoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc",
       "articles": [
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/5e9e9bde-b26a-466f-817b-45fe091e61a9",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "Each year, the Umpqua Actors Community Theatre puts on a holiday play to welcome in the winter. This time around, they're focusing on a very specific side of the season: Cheesy holiday rom-coms.",
+          "link": "https://www.nrtoday.com/a_and_e/uact-to-parody-holiday-rom-coms-with-the-holiday-channel-christmas-movie-wonderthon/article_5e9e9bde-b26a-466f-817b-45fe091e61a9.html",
+          "publishedOn": "2026-11-26T22:00:00.000Z",
+          "wordCount": 13972,
+          "title": "UACT to parody holiday rom-coms with The Holiday Channel Christmas Movie Wonderthon",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/f7/ef7df2a6-d5f7-4277-80c4-2be6d0c7a67a/6b08a629295b5.image.jpg?resize=300%2C225",
+            "length": "362382",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/e/f7/ef7df2a6-d5f7-4277-80c4-2be6d0c7a67a/6b08a629295b5.image.jpg?resize=300%2C225"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/f6a31508-63e4-4a15-bfc2-7002c92e13a1",
+          "author": "NRtoday Staff",
+          "description": "What: Festival of Trees",
+          "link": "https://www.nrtoday.com/family/festival-of-trees-embraces-the-giving-spirit-of-the-holidays/article_f6a31508-63e4-4a15-bfc2-7002c92e13a1.html",
+          "publishedOn": "2026-11-26T18:04:00.000Z",
+          "wordCount": 12589,
+          "title": "Festival of Trees embraces the giving spirit of the holidays",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b1/1b19abb2-88cc-4d44-9fc8-0be600edf04a/656916d1f09a8.image.jpg?resize=300%2C200",
+            "length": "488048",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/1/b1/1b19abb2-88cc-4d44-9fc8-0be600edf04a/656916d1f09a8.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/9a9f9def-d6da-42d7-9470-4dd8123d30e0",
+          "author": "NRtoday Staff",
+          "description": "What: Douglas County Christmas Craft Fair",
+          "link": "https://www.nrtoday.com/family/douglas-county-christmas-craft-fair-offers-hand-made-gifts-for-everyone/article_9a9f9def-d6da-42d7-9470-4dd8123d30e0.html",
+          "publishedOn": "2026-11-26T08:00:00.000Z",
+          "wordCount": 12309,
+          "title": "Douglas County Christmas Craft Fair offers hand made gifts for everyone",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c2/7c279f7d-69e4-496e-953f-485282341cfb/656ba3340aa08.image.jpg?resize=300%2C200",
+            "length": "385907",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/7/c2/7c279f7d-69e4-496e-953f-485282341cfb/656ba3340aa08.image.jpg?resize=300%2C200"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/0f34471e-3b0b-4a9f-a0e6-ffa5d1d50b91",
+          "author": "NRtoday Staff",
+          "description": "What: Umpqua Valley Festival of Lights",
+          "link": "https://www.nrtoday.com/family/light-up-the-night-with-umpqua-valley-festival-of-lights/article_0f34471e-3b0b-4a9f-a0e6-ffa5d1d50b91.html",
+          "publishedOn": "2026-11-26T08:00:00.000Z",
+          "wordCount": 12363,
+          "title": "Light up the night with Umpqua Valley Festival of Lights",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ed/3ed59e82-a075-11ef-b1c2-8f6d2acc1a5f/637da40c8f664.image.jpg?resize=300%2C201",
+            "length": "452888",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/3/ed/3ed59e82-a075-11ef-b1c2-8f6d2acc1a5f/637da40c8f664.image.jpg?resize=300%2C201"
+        },
+        {
+          "id": "http://www.nrtoday.com/tncms/asset/editorial/b55b5d4f-c01c-46e9-8e67-8a3f1927602b",
+          "author": "ANDREW GRIFFIN NR Today",
+          "description": "A project for veterans to tell their stories by producing their own short films is coming to Umpqua Community College next week for a free three-day filmmaking workshop.",
+          "link": "https://www.nrtoday.com/news/ucc-to-host-patton-veterans-project-for-i-was-there-film-workshop/article_b55b5d4f-c01c-46e9-8e67-8a3f1927602b.html",
+          "publishedOn": "2026-11-25T22:00:00.000Z",
+          "wordCount": 12594,
+          "title": "UCC to host Patton Veterans Project for I Was There film workshop",
+          "enclosure": {
+            "url": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d0/2d096d68-403b-444f-80e3-c99fbcad9aee/6b0738b685855.image.png?resize=300%2C187",
+            "length": "1669925",
+            "type": "image/png"
+          },
+          "imageUrl": "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/assets/v3/editorial/2/d0/2d096d68-403b-444f-80e3-c99fbcad9aee/6b0738b685855.image.png?resize=300%2C187"
+        },
         {
           "id": "http://www.nrtoday.com/tncms/asset/editorial/3de128fd-f61c-48d4-b5b5-11569d98f3b2",
           "author": "ANDREW GRIFFIN NR Today",
@@ -680,86 +745,6 @@
           "wordCount": 3405,
           "title": "Umpqua Man Dies in Crash on Dixonville Road",
           "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/8176.jpg"
-        },
-        {
-          "id": "6b046e0277fc0800012d09df",
-          "author": "The Roseburg Receiver",
-          "description": "Roseburg Police reported 25 entries from Nov. 20–23, including seven warrant-related cases, two crashes, two DUII cases, and arrests on burglary and restraining order violation charges.",
-          "link": "https://www.theroseburgreceiver.com/police-logs/police-log-november-20-november-23-2026/",
-          "publishedOn": "2026-11-23T16:49:23.000Z",
-          "wordCount": 5786,
-          "title": "Police Log: November 20 - November 23, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/police_lights2-12.jpg"
-        },
-        {
-          "id": "6b045cd377fc0800012d09a5",
-          "author": "The Roseburg Receiver",
-          "description": "Oregon is suing SpaceX, X Corp. and two related companies, alleging they misled users about safeguards meant to prevent Grok from creating sexualized images of adults and children without their permission.",
-          "link": "https://www.theroseburgreceiver.com/oregon-sues-spacex-and-x-over-sexualized-images-created-by-grok/",
-          "publishedOn": "2026-11-23T15:37:59.000Z",
-          "wordCount": 3704,
-          "title": "Oregon Sues SpaceX and X Over Sexualized Images Created by Grok",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/Grok-on-a-black-smartphone.png"
-        },
-        {
-          "id": "6b0457dc77fc0800012d0987",
-          "author": "Joseph Ziegler",
-          "description": "Roseburg could reach 60 degrees Wednesday before rain moves in late that night. Thanksgiving has a 90% chance of rain, with up to half an inch possible. A Coastal Flood Warning includes Reedsport from Tuesday morning through Thursday evening.",
-          "link": "https://www.theroseburgreceiver.com/rain-likely-in-roseburg-on-thanksgiving-after-a-mild-wednesday/",
-          "publishedOn": "2026-11-23T15:19:31.000Z",
-          "wordCount": 3690,
-          "title": "Rain Likely in Roseburg on Thanksgiving After a Mild Wednesday",
-          "imageUrl": "https://images.unsplash.com/photo-1767474615863-90d56e8e9ac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2M3x8cG53JTIwcmFpbnxlbnwwfHx8fDE3OTU0NDY3ODh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6b04572c77fc0800012d096d",
-          "author": "Joseph Ziegler",
-          "description": "Nature writer Marina Richie will discuss her book Feathered Forest at 6 p.m. Wednesday, Dec. 9, at Roseburg Public Library. The free program will also feature wildlife biologist Janice Reed, who will discuss her research on spotted and barred owls.",
-          "link": "https://www.theroseburgreceiver.com/nature-writer-marina-richie-to-speak-at-roseburg-public-library-dec-9/",
-          "publishedOn": "2026-11-23T15:11:56.000Z",
-          "wordCount": 3552,
-          "title": "Nature Writer Marina Richie to Speak at Roseburg Public Library Dec. 9",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/112326_Umpqua-Bird-Alliance--Roseburg-Library-to-host-nature-writer-headshot-1.jpeg"
-        },
-        {
-          "id": "6b04549177fc0800012d094f",
-          "author": "Joseph Ziegler",
-          "description": "The Umpqua Singers will perform jazz, 1960s R&B and popular favorites at 7 p.m. Tuesday, Nov. 24, at UCC’s Whipple Fine Arts Center. Tickets are $15 general admission and $10 for seniors at the door. Students get in free.",
-          "link": "https://www.theroseburgreceiver.com/umpqua-singers-to-bring-jazz-and-60s-r-b-to-ucc-concert-tuesday/",
-          "publishedOn": "2026-11-23T14:59:33.000Z",
-          "wordCount": 3478,
-          "title": "Umpqua Singers to Bring Jazz and ’60s R&B to UCC Concert Tuesday",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/umpqua_singers1.png"
-        },
-        {
-          "id": "6b0452b377fc0800012d092d",
-          "author": "Joseph Ziegler",
-          "description": "Thrive Umpqua’s third annual Bike the Lights takes place Monday, Nov. 23, at River Forks Park. The free Festival of Lights event welcomes bicyclists and walkers, with check-in at 4:30 p.m.",
-          "link": "https://www.theroseburgreceiver.com/bike-the-lights-returns-to-river-forks-park-monday-night/",
-          "publishedOn": "2026-11-23T14:54:38.000Z",
-          "wordCount": 3414,
-          "title": "Bike the Lights Returns to River Forks Park Monday Night",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/Bike-the-Lights-Night-Ride.png"
-        },
-        {
-          "id": "6b03d87577fc0800012d04f4",
-          "author": "Joseph Ziegler",
-          "description": "The Roseburg Receiver Morning Scoop",
-          "link": "https://www.theroseburgreceiver.com/morning-scoop/november-23-2026/",
-          "publishedOn": "2026-11-23T14:45:26.000Z",
-          "wordCount": 8012,
-          "title": "November 23, 2026",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/2026/11/The-Morning-Scoop-14.png"
-        },
-        {
-          "id": "6b04488d77fc0800012d0553",
-          "author": "Joseph Ziegler",
-          "description": "The Umpqua Valley Festival of Lights kicked off its 35th season Sunday at River Forks Park, with Santa, costumed characters, rural fire departments, and community members celebrating opening day. See photos captured by The Roseburg Plug.",
-          "link": "https://www.theroseburgreceiver.com/community-celebrates-opening-day-of-umpqua-valley-festival-of-lights-at-river-forks-park/",
-          "publishedOn": "2026-11-23T14:22:36.000Z",
-          "wordCount": 3600,
-          "title": "Community Celebrates Opening Day Of Umpqua Valley Festival Of Lights At River Forks Park",
-          "imageUrl": "https://www.theroseburgreceiver.com/content/images/size/w1200/2026/11/923946169_1537451855106269_6786611591458207479_n.jpg"
         }
       ]
     },
